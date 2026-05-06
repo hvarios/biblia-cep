@@ -434,14 +434,13 @@ function annotationKeys(scope='all'){
 }
 
 function notesTextForKeys(keys,title='Anotações Bíblicas'){
-  const lines=keys.map(key=>{const[b,c,v]=key.split('|');return`## ${b} ${c},${v}
-${state.annotations[key]}`});
-  return `# ${title}
-
-${lines.join('
-
-')}`;
+  const lines=keys.map(key=>{
+    const [b,c,v]=key.split('|');
+    return `## ${b} ${c},${v}\n${state.annotations[key]}`;
+  });
+  return `# ${title}\n\n${lines.join('\n\n')}`;
 }
+
 
 function renderNotesPanel(){
   const list=$('notes-list');
