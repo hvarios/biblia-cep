@@ -128,14 +128,16 @@
     @keyframes fadeIn{from{opacity:0;transform:translateY(-4px)}to{opacity:1}}
 
     @media(max-width:700px){
-      #sidebar{position:fixed;top:0;bottom:0;left:0;transform:translateX(-100%);box-shadow:4px 0 20px var(--shadow)}
+      #sidebar{position:fixed;top:0;bottom:0;left:0;transform:translateX(-100%);box-shadow:4px 0 20px var(--shadow);z-index:250}
       #sidebar.open{transform:translateX(0)}
       #reader{padding:20px 16px 80px}
       #verses-container,#verses-container.has-side-notes{max-width:100%;display:block}
       #notes-column{display:none}
       .verse-side-note{display:block}
       .annotation-block{margin:6px 0 8px 16px}
-      .verse-tools{display:flex!important}
+      .verse-tools{display:flex!important;gap:4px;margin-top:2px;padding-left:14px}
+      .verse-tools .btn-sm{width:28px;height:28px;padding:0;border-radius:50%;font-size:0;line-height:1;display:inline-flex;align-items:center;justify-content:center}
+      .verse-tools .btn-sm::before{content:attr(data-icon);font-size:.82rem;font-family:var(--font-ui);letter-spacing:0}
       #font-btn{display:flex}
     }
     @media(min-width:701px){
@@ -212,10 +214,12 @@
 <script>
 'use strict';
 const state={books:[],currentBook:null,currentChapter:null,annotations:JSON.parse(localStorage.getItem('biblia-annotations')||'{}'),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1')};
-document.documentElement.style.setProperty('--reader-font-scale', state.fontScale);
+applyFontScale();
 function $(id){return document.getElementById(id)}
 function toast(msg,dur=2200){const el=$('toast');el.textContent=msg;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),dur)}
 function saveAnnotations(){localStorage.setItem('biblia-annotations',JSON.stringify(state.annotations))}
+function applyFontScale(){document.documentElement.style.setProperty('--reader-font-scale', state.fontScale || 1)}
+function blurActiveControl(){if(document.activeElement&&typeof document.activeElement.blur==='function')document.activeElement.blur()}
 function annKey(b,c,v){return`${b}|${c}|${v}`}
 if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js').catch(()=>{});
 
@@ -285,6 +289,7 @@ function hasPrev(){const book=state.currentBook;return book.chapters.indexOf(sta
 function hasNext(){const book=state.currentBook;const idx=book.chapters.indexOf(state.currentChapter);return idx<book.chapters.length-1||state.books.indexOf(book)<state.books.length-1}
 
 function renderChapter(book,chapter){
+  applyFontScale();
   const reader=$('reader');
   reader.removeAttribute('style');
   reader.innerHTML=`
@@ -336,9 +341,9 @@ function renderChapter(book,chapter){
         ${hasAnn?`<button class="btn-sm danger" onclick="deleteAnn('${key}')">Apagar</button>`:''}
       </div></div>`;
     const tools=`<div class="verse-tools">
-      <button class="btn-sm" onclick="copyV('${key}','${ea(verse.text)}')">Copiar</button>
-      <button class="btn-sm" onclick="shareV('${key}','${ea(book.book)}',${chapter.chapter},${verse.verse},'${ea(verse.text)}')">Partilhar</button>
-      <button class="btn-sm" onclick="editAnn('${key}')">Anotar</button>
+      <button class="btn-sm" data-icon="C" title="Copiar" aria-label="Copiar versículo" onclick="copyV('${key}','${ea(verse.text)}')">Copiar</button>
+      <button class="btn-sm" data-icon="↗" title="Partilhar" aria-label="Partilhar versículo" onclick="shareV('${key}','${ea(book.book)}',${chapter.chapter},${verse.verse},'${ea(verse.text)}')">Partilhar</button>
+      <button class="btn-sm" data-icon="+" title="Anotar" aria-label="Anotar versículo" onclick="editAnn('${key}')">Anotar</button>
     </div>`;
     block.innerHTML=`<div class="verse-layout"><div class="verse-main">${txt}${notes}${tools}</div></div>`;
     textColumn.appendChild(block);
@@ -372,10 +377,13 @@ function editAnn(key){
   b.classList.add('open');b.closest('.verse-block')?.classList.add('editing-annotation','has-annotation');$('verses-container')?.classList.add('has-side-notes');if(t)t.style.display='none';i.style.display='block';a.style.display='flex';i.focus();
 }
 function saveAnn(key){
+  blurActiveControl();
+  applyFontScale();
   const text=$(`ann-input-${key}`).value.trim();
   if(text)state.annotations[key]=text;else delete state.annotations[key];
   saveAnnotations();toast('Anotação guardada');
   openChapter(state.currentBook,state.currentChapter);
+  applyFontScale();
   setTimeout(()=>{const b=document.querySelector(`[data-key="${key}"]`);if(b)b.scrollIntoView({behavior:'smooth',block:'center'})},50);
 }
 function cancelAnn(key){
@@ -429,12 +437,20 @@ function renderNotesPanel(){
       <span class="note-entry-text">${esc(text.substring(0,120))}${text.length>120?'…':''}</span></div>`;
   }).join('');
 }
-$('export-btn').addEventListener('click',()=>{
+$('export-btn').addEventListener('click',async()=>{
   const keys=Object.keys(state.annotations);
   if(!keys.length){toast('Sem anotações para exportar');return}
   const lines=keys.map(key=>{const[b,c,v]=key.split('|');return`## ${b} ${c},${v}\n${state.annotations[key]}`});
-  const blob=new Blob([`# Anotações Bíblicas\n\n${lines.join('\n\n')}`],{type:'text/plain;charset=utf-8'});
-  const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='anotacoes-biblia.txt';a.click();URL.revokeObjectURL(url);toast('Anotações exportadas');
+  const text=`# Anotações Bíblicas\n\n${lines.join('\n\n')}`;
+  if(navigator.share){
+    try{
+      await navigator.share({title:'Anotações Bíblicas',text});
+      return;
+    }catch(err){
+      if(err&&err.name==='AbortError')return;
+    }
+  }
+  navigator.clipboard?.writeText(text).then(()=>toast('Anotações copiadas')).catch(()=>toast('Não foi possível partilhar'));
 });
 
 function cycleFontScale(){
@@ -444,7 +460,7 @@ function cycleFontScale(){
   const next=values[(idx+1) % values.length];
 
   state.fontScale=next;
-  document.documentElement.style.setProperty('--reader-font-scale', next);
+  applyFontScale();
   localStorage.setItem('biblia-font-scale', String(next));
   toast(`Texto ${Math.round(next*100)}%`);
 }
