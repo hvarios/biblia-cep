@@ -427,9 +427,27 @@ function goTo(bookName,chNum,vNum){
   setTimeout(()=>{const b=document.querySelector(`[data-verse="${vNum}"]`);if(b)b.scrollIntoView({behavior:'smooth',block:'center'})},80);
 }
 
+function annotationKeys(scope='all'){
+  const keys=Object.keys(state.annotations);
+  if(scope==='book'&&state.currentBook) return keys.filter(key=>key.split('|')[0]===state.currentBook.book);
+  return keys;
+}
+
+function notesTextForKeys(keys,title='Anotações Bíblicas'){
+  const lines=keys.map(key=>{const[b,c,v]=key.split('|');return`## ${b} ${c},${v}
+${state.annotations[key]}`});
+  return `# ${title}
+
+${lines.join('
+
+')}`;
+}
+
 function renderNotesPanel(){
-  const list=$('notes-list');const keys=Object.keys(state.annotations);
-  if(!keys.length){list.innerHTML='<div class="panel-empty">Ainda não tens anotações.</div>';return}
+  const list=$('notes-list');
+  const bookName=state.currentBook?.book||'';
+  const keys=annotationKeys('book');
+  if(!keys.length){list.innerHTML=`<div class="panel-empty">Não tens anotações em ${esc(bookName)}.</div>`;return}
   list.innerHTML=keys.map(key=>{
     const[b,c,v]=key.split('|');const text=state.annotations[key];
     return`<div class="note-entry" onclick="goTo('${ea(b)}',${c},${v});closeNotes()">
@@ -438,13 +456,24 @@ function renderNotesPanel(){
   }).join('');
 }
 $('export-btn').addEventListener('click',async()=>{
-  const keys=Object.keys(state.annotations);
-  if(!keys.length){toast('Sem anotações para exportar');return}
-  const lines=keys.map(key=>{const[b,c,v]=key.split('|');return`## ${b} ${c},${v}\n${state.annotations[key]}`});
-  const text=`# Anotações Bíblicas\n\n${lines.join('\n\n')}`;
+  const allKeys=annotationKeys('all');
+  if(!allKeys.length){toast('Sem anotações para exportar');return}
+
+  const bookName=state.currentBook?.book||'livro aberto';
+  const bookKeys=annotationKeys('book');
+  const useBookOnly=confirm(`Exportar apenas as anotações de ${bookName}?
+
+OK = ${bookName}
+Cancelar = todas as anotações`);
+  const keys=useBookOnly?bookKeys:allKeys;
+
+  if(!keys.length){toast(`Sem anotações em ${bookName}`);return}
+
+  const title=useBookOnly?`Anotações Bíblicas — ${bookName}`:'Anotações Bíblicas';
+  const text=notesTextForKeys(keys,title);
   if(navigator.share){
     try{
-      await navigator.share({title:'Anotações Bíblicas',text});
+      await navigator.share({title,text});
       return;
     }catch(err){
       if(err&&err.name==='AbortError')return;
