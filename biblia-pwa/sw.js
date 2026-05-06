@@ -1,7 +1,7 @@
-const CACHE = 'biblia-v1';
+const CACHE = 'biblia-v2';
 const ASSETS = [
   './index.html',
-  './data/coelet.json',
+  './data/biblia.json',
   './manifest.json'
 ];
 
