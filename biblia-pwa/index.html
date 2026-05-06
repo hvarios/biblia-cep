@@ -207,6 +207,7 @@
 <script>
 'use strict';
 const state={books:[],currentBook:null,currentChapter:null,annotations:JSON.parse(localStorage.getItem('biblia-annotations')||'{}'),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1')};
+document.documentElement.style.setProperty('--reader-font-scale', state.fontScale);
 function $(id){return document.getElementById(id)}
 function toast(msg,dur=2200){const el=$('toast');el.textContent=msg;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),dur)}
 function saveAnnotations(){localStorage.setItem('biblia-annotations',JSON.stringify(state.annotations))}
@@ -407,6 +408,18 @@ $('export-btn').addEventListener('click',()=>{
   const blob=new Blob([`# Anotações Bíblicas\n\n${lines.join('\n\n')}`],{type:'text/plain;charset=utf-8'});
   const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='anotacoes-biblia.txt';a.click();URL.revokeObjectURL(url);toast('Anotações exportadas');
 });
+
+function cycleFontScale(){
+  const values=[1,1.15,1.3,1.45];
+  const current=state.fontScale || 1;
+  const idx=values.indexOf(current);
+  const next=values[(idx+1) % values.length];
+
+  state.fontScale=next;
+  document.documentElement.style.setProperty('--reader-font-scale', next);
+  localStorage.setItem('biblia-font-scale', String(next));
+  toast(`Texto ${Math.round(next*100)}%`);
+}
 
 $('menu-btn').addEventListener('click',()=>{$('sidebar').classList.toggle('open');$('overlay').classList.toggle('open')});
 $('overlay').addEventListener('click',()=>{$('sidebar').classList.remove('open');$('search-panel').classList.remove('open');$('notes-panel').classList.remove('open');$('overlay').classList.remove('open')});
