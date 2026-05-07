@@ -51,9 +51,24 @@
     #sidebar-header p{font-size:.78rem;color:var(--ink3);font-style:italic}
     #book-list{flex:1;overflow-y:auto;padding:6px 0}
 
-    .book-item{display:flex;align-items:center;justify-content:space-between;padding:9px 18px;cursor:pointer;font-family:var(--font-ui);font-size:.9rem;letter-spacing:.04em;color:var(--ink2);transition:background .15s;border-left:3px solid transparent;user-select:none}
+    .testament-item{display:flex;align-items:center;justify-content:space-between;padding:11px 18px;cursor:pointer;font-family:var(--font-ui);font-size:.92rem;letter-spacing:.09em;color:var(--ink);transition:background .15s;border-bottom:1px solid var(--border);user-select:none;text-transform:uppercase}
+    .testament-item:hover{background:var(--bg3)}
+    .testament-item.open .chevron{transform:rotate(90deg)}
+    .testament-body{display:none;padding:4px 0 8px}
+    .testament-body.open{display:block}
+    .canon-group{margin:3px 0}
+    .group-item{display:flex;align-items:center;justify-content:space-between;padding:7px 18px 7px 28px;cursor:pointer;font-family:var(--font-ui);font-size:.78rem;letter-spacing:.08em;color:var(--gold);transition:background .15s;user-select:none;text-transform:uppercase}
+    .group-item:hover{background:var(--bg3)}
+    .group-item.open .chevron{transform:rotate(90deg)}
+    .group-body{display:none}
+    .group-body.open{display:block}
+
+    .book-item{display:flex;align-items:center;justify-content:space-between;padding:9px 18px 9px 40px;cursor:pointer;font-family:var(--font-ui);font-size:.9rem;letter-spacing:.04em;color:var(--ink2);transition:background .15s;border-left:3px solid transparent;user-select:none}
     .book-item:hover{background:var(--bg3)}
     .book-item.active{border-left-color:var(--gold);color:var(--ink);background:var(--bg3)}
+    .book-item.unavailable{opacity:.58;cursor:default}
+    .book-item.unavailable:hover{background:transparent}
+    .book-status{font-size:.68rem;color:var(--ink3);font-family:var(--font-body);font-style:italic;letter-spacing:0;text-transform:none;white-space:nowrap}
     .book-meta{display:flex;align-items:center;gap:8px}
     .badge{font-size:.68rem;color:var(--ink3);font-family:var(--font-body)}
     .chevron{font-size:.7rem;color:var(--ink3);transition:transform .2s;display:inline-block}
@@ -229,7 +244,7 @@
 
 <script>
 'use strict';
-const state={books:[],currentBook:null,currentChapter:null,annotations:JSON.parse(localStorage.getItem('biblia-annotations')||'{}'),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1')};
+const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'AT',groups:{}},annotations:JSON.parse(localStorage.getItem('biblia-annotations')||'{}'),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1')};
 applyFontScale();
 function $(id){return document.getElementById(id)}
 function toast(msg,dur=2200){const el=$('toast');el.textContent=msg;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),dur)}
@@ -239,6 +254,52 @@ function blurActiveControl(){if(document.activeElement&&typeof document.activeEl
 function annKey(b,c,v){return`${b}|${c}|${v}`}
 if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js').catch(()=>{});
 
+
+const CANON=[
+  {id:'AT',label:'Antigo Testamento',groups:[
+    {id:'pentateuco',label:'Pentateuco',books:['Génesis','Êxodo','Levítico','Números','Deuteronómio']},
+    {id:'historicos',label:'Históricos',books:['Josué','Juízes','Rute','1 Samuel','2 Samuel','1 Reis','2 Reis','1 Crónicas','2 Crónicas','Esdras','Neemias','Tobias','Judite','Ester','1 Macabeus','2 Macabeus']},
+    {id:'sapienciais',label:'Sapienciais',books:['Job','Salmos','Provérbios','Eclesiastes','Cântico dos Cânticos','Sabedoria','Eclesiástico']},
+    {id:'profeticos',label:'Proféticos',books:['Isaías','Jeremias','Lamentações','Baruc','Ezequiel','Daniel','Oseias','Joel','Amós','Abdias','Jonas','Miqueias','Naum','Habacuc','Sofonias','Ageu','Zacarias','Malaquias']}
+  ]},
+  {id:'NT',label:'Novo Testamento',groups:[
+    {id:'evangelhos',label:'Evangelhos',books:['Mateus','Marcos','Lucas','João']},
+    {id:'atos',label:'Atos',books:['Atos dos Apóstolos']},
+    {id:'cartas-paulinas',label:'Cartas Paulinas',books:['Romanos','1 Coríntios','2 Coríntios','Gálatas','Efésios','Filipenses','Colossenses','1 Tessalonicenses','2 Tessalonicenses','1 Timóteo','2 Timóteo','Tito','Filémon','Hebreus']},
+    {id:'cartas-catolicas',label:'Cartas Católicas',books:['Tiago','1 Pedro','2 Pedro','1 João','2 João','3 João','Judas']},
+    {id:'apocalipse',label:'Apocalipse',books:['Apocalipse']}
+  ]}
+];
+
+function normBookName(name){return String(name).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim()}
+const BOOK_ALIASES={
+  'atos dos apostolos':['actos dos apostolos','atos','actos'],
+  'cantico dos canticos':['cantico','canticos','cantares'],
+  'eclesiastes':['coelet','qohelet'],
+  'eclesiastico':['siracida','ben sira'],
+  '1 samuel':['i samuel','primeiro samuel'],
+  '2 samuel':['ii samuel','segundo samuel'],
+  '1 reis':['i reis','primeiro reis'],
+  '2 reis':['ii reis','segundo reis'],
+  '1 cronicas':['i cronicas','primeiro cronicas'],
+  '2 cronicas':['ii cronicas','segundo cronicas'],
+  '1 corintios':['i corintios','primeira corintios'],
+  '2 corintios':['ii corintios','segunda corintios'],
+  '1 tessalonicenses':['i tessalonicenses','primeira tessalonicenses'],
+  '2 tessalonicenses':['ii tessalonicenses','segunda tessalonicenses'],
+  '1 timoteo':['i timoteo','primeira timoteo'],
+  '2 timoteo':['ii timoteo','segunda timoteo'],
+  '1 pedro':['i pedro','primeira pedro'],
+  '2 pedro':['ii pedro','segunda pedro'],
+  '1 joao':['i joao','primeira joao'],
+  '2 joao':['ii joao','segunda joao'],
+  '3 joao':['iii joao','terceira joao']
+};
+function findBookByName(name){const wanted=normBookName(name);const variants=[wanted,...(BOOK_ALIASES[wanted]||[])];return state.books.find(b=>variants.includes(normBookName(b.book)))}
+function bookHasContent(book){return !!(book&&Array.isArray(book.chapters)&&book.chapters.length&&book.chapters.some(ch=>Array.isArray(ch.verses)&&ch.verses.length))}
+function currentTestamentId(){for(const testament of CANON){for(const group of testament.groups){if(group.books.some(name=>findBookByName(name)===state.currentBook))return testament.id}}return 'AT'}
+function currentGroupId(){for(const testament of CANON){for(const group of testament.groups){if(group.books.some(name=>findBookByName(name)===state.currentBook))return group.id}}return ''}
+
 async function loadData(){
   const res=await fetch('./data/biblia.json');
   const data=await res.json();
@@ -247,39 +308,94 @@ async function loadData(){
   openChapter(state.books[0],state.books[0].chapters[0]);
 }
 
+
 function renderSidebar(){
   const list=$('book-list');
   list.innerHTML='';
-  state.books.forEach((book,bi)=>{
-    const isCurrent=state.currentBook===book;
-    const sec=document.createElement('div');
-    const item=document.createElement('div');
-    item.className='book-item'+(isCurrent?' active open':'');
-    item.dataset.bi=bi;
-    item.innerHTML=`<div class="book-meta"><span>${book.book}</span><span class="badge">${book.chapters.length} cap.</span></div><span class="chevron">›</span>`;
-    item.addEventListener('click',()=>toggleGrid(bi));
-    const grid=document.createElement('div');
-    grid.className='chapter-grid'+(isCurrent?' open':'');
-    grid.id=`grid-${bi}`;
-    book.chapters.forEach(ch=>{
-      const btn=document.createElement('button');
-      btn.className='ch-btn'+(state.currentChapter===ch?' active':'');
-      btn.textContent=ch.chapter;
-      btn.addEventListener('click',e=>{e.stopPropagation();openChapter(book,ch)});
-      grid.appendChild(btn);
+  const activeTestament=currentTestamentId();
+  const activeGroup=currentGroupId();
+  if(activeTestament)state.menuOpen.testament=activeTestament;
+  if(activeGroup)state.menuOpen.groups[activeGroup]=true;
+
+  CANON.forEach(testament=>{
+    const tOpen=state.menuOpen.testament===testament.id;
+    const tWrap=document.createElement('div');
+    const tItem=document.createElement('div');
+    tItem.className='testament-item'+(tOpen?' open':'');
+    tItem.innerHTML=`<span>${testament.label}</span><span class="chevron">›</span>`;
+    tItem.addEventListener('click',()=>toggleTestament(testament.id));
+    const tBody=document.createElement('div');
+    tBody.className='testament-body'+(tOpen?' open':'');
+    tBody.id=`testament-${testament.id}`;
+
+    testament.groups.forEach(group=>{
+      const gOpen=!!state.menuOpen.groups[group.id];
+      const gWrap=document.createElement('div');
+      gWrap.className='canon-group';
+      const gItem=document.createElement('div');
+      gItem.className='group-item'+(gOpen?' open':'');
+      gItem.innerHTML=`<span>${group.label}</span><span class="chevron">›</span>`;
+      gItem.addEventListener('click',()=>toggleGroup(group.id));
+      const gBody=document.createElement('div');
+      gBody.className='group-body'+(gOpen?' open':'');
+      gBody.id=`group-${group.id}`;
+
+      group.books.forEach(bookName=>{
+        const book=findBookByName(bookName);
+        const available=bookHasContent(book);
+        const isCurrent=book&&state.currentBook===book;
+        const sec=document.createElement('div');
+        const item=document.createElement('div');
+        item.className='book-item'+(isCurrent?' active open':'')+(available?'':' unavailable');
+        item.dataset.bookName=bookName;
+        item.innerHTML=available
+          ? `<div class="book-meta"><span>${book.book}</span><span class="badge">${book.chapters.length} cap.</span></div><span class="chevron">›</span>`
+          : `<div class="book-meta"><span>${bookName}</span></div><span class="book-status">em tradução</span>`;
+        item.addEventListener('click',()=>available?toggleGrid(book.book):toast('Livro ainda em tradução'));
+        sec.appendChild(item);
+
+        if(available){
+          const grid=document.createElement('div');
+          grid.className='chapter-grid'+(isCurrent?' open':'');
+          grid.id=`grid-${bookKey(book.book)}`;
+          book.chapters.forEach(ch=>{
+            const btn=document.createElement('button');
+            btn.className='ch-btn'+(state.currentChapter===ch?' active':'');
+            btn.textContent=ch.chapter;
+            btn.addEventListener('click',e=>{e.stopPropagation();openChapter(book,ch)});
+            grid.appendChild(btn);
+          });
+          sec.appendChild(grid);
+        }
+        gBody.appendChild(sec);
+      });
+
+      gWrap.appendChild(gItem);gWrap.appendChild(gBody);tBody.appendChild(gWrap);
     });
-    sec.appendChild(item);sec.appendChild(grid);list.appendChild(sec);
+
+    tWrap.appendChild(tItem);tWrap.appendChild(tBody);list.appendChild(tWrap);
   });
 }
 
-function toggleGrid(bi){
-  const grid=$(`grid-${bi}`);
-  const item=document.querySelector(`[data-bi="${bi}"]`);
+function bookKey(name){return normBookName(name).replace(/ /g,'-')}
+function toggleTestament(id){
+  state.menuOpen.testament=state.menuOpen.testament===id?'':id;
+  renderSidebar();
+}
+function toggleGroup(id){
+  state.menuOpen.groups[id]=!state.menuOpen.groups[id];
+  renderSidebar();
+}
+function toggleGrid(bookName){
+  const grid=$(`grid-${bookKey(bookName)}`);
+  const item=document.querySelector(`[data-book-name="${CSS.escape(bookName)}"]`);
+  if(!grid||!item)return;
   const isOpen=grid.classList.contains('open');
   document.querySelectorAll('.chapter-grid').forEach(g=>g.classList.remove('open'));
   document.querySelectorAll('.book-item').forEach(i=>i.classList.remove('open'));
   if(!isOpen){grid.classList.add('open');item.classList.add('open')}
 }
+
 
 function openChapter(book,chapter){
   state.currentBook=book;state.currentChapter=chapter;
