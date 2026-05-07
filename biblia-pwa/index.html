@@ -4,10 +4,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Bíblia CEP">
+  <meta name="application-name" content="Bíblia CEP">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="theme-color" content="#3d2b1f">
+  <meta name="msapplication-TileColor" content="#3d2b1f">
   <title>Bíblia CEP</title>
   <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Cormorant+SC:wght@400;500;600&display=swap" rel="stylesheet">
   <style>
     :root {
@@ -30,7 +36,10 @@
     #app{display:flex;height:100vh}
 
     #topbar{position:fixed;top:0;left:0;right:0;height:var(--topbar-h);background:var(--bg2);border-bottom:1px solid var(--border);display:flex;align-items:center;gap:8px;padding:0 12px;z-index:200;box-shadow:0 2px 8px var(--shadow)}
-    #topbar h1{font-family:var(--font-ui);font-size:1rem;letter-spacing:.06em;color:var(--ink2);flex:1;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    #topbar-brand{display:flex;align-items:center;gap:10px;flex:1;min-width:0}
+    #topbar-logo{width:34px;height:34px;border-radius:8px;flex-shrink:0}
+    #topbar h1{font-family:var(--font-ui);font-size:1rem;letter-spacing:.06em;color:var(--ink2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    #topbar-title{flex:1;text-align:left!important}
     .topbar-btn{background:none;border:none;cursor:pointer;color:var(--ink2);padding:6px;border-radius:4px;display:flex;align-items:center;justify-content:center;transition:background .15s;flex-shrink:0}
     .topbar-btn:hover{background:var(--bg3)}
     .topbar-btn svg{width:22px;height:22px}
@@ -57,8 +66,8 @@
     .ch-btn.active{background:var(--gold);border-color:var(--gold);color:#fff}
 
     #main{flex:1;display:flex;flex-direction:column;overflow:hidden;padding-top:var(--topbar-h)}
-    #reader{flex:1;overflow-y:auto;padding:28px 32px 80px;max-width:none;margin:0;width:100%}
-    #verses-container{max-width:760px;margin:0 auto;transition:max-width .2s ease;display:block}
+    #reader{flex:1;overflow-y:auto;padding:28px 32px 80px;max-width:none;margin:0;width:100%;background:var(--bg)}
+    #verses-container{max-width:720px;margin:0 auto;transition:max-width .2s ease;display:block}
     #verses-container.has-side-notes{max-width:1040px;display:grid;grid-template-columns:minmax(0,720px) 280px;gap:32px;align-items:start}
     #text-column{min-width:0}
     #notes-column{display:none;min-width:0}
@@ -73,10 +82,11 @@
     #chapter-heading{font-family:var(--font-ui);font-size:1.35rem;letter-spacing:.12em;color:var(--ink2);text-transform:uppercase}
     #book-heading{font-size:.78rem;color:var(--gold);font-family:var(--font-ui);letter-spacing:.1em;margin-top:2px;text-transform:uppercase}
 
-    .verse-block{margin-bottom:10px;padding:6px 0;border-radius:3px;transition:background .15s}
-    .verse-block:hover{background:var(--bg2);padding:6px 8px;margin:0 -8px 10px}
-    .verse-num{font-family:var(--font-ui);font-size:.7rem;color:var(--gold);vertical-align:super;margin-right:4px;letter-spacing:.03em;user-select:none}
-    .verse-layout{display:block}
+    .verse-block{margin-bottom:10px;padding:4px 0;border-radius:3px;transition:background .15s}
+    .verse-block:hover{background:rgba(237,229,207,.45)}
+    .verse-layout{display:grid;grid-template-columns:32px minmax(0,1fr);column-gap:16px;align-items:start}
+    .verse-rail{display:flex;flex-direction:column;align-items:center;gap:5px;min-height:1.85em;padding-top:.25em}
+    .verse-num{font-family:var(--font-ui);font-size:.68rem;color:var(--gold-lt);line-height:1;letter-spacing:.03em;user-select:none}
     .verse-main{min-width:0}
     .verse-side-note{display:none}
     #notes-column .verse-side-note{display:block;margin-bottom:10px}
@@ -100,8 +110,10 @@
     .btn-sm.primary{background:var(--gold);border-color:var(--gold);color:#fff}
     .btn-sm.primary:hover{background:var(--gold-lt)}
     .btn-sm.danger{color:var(--red);border-color:var(--red)}
-    .verse-tools{display:none;gap:6px;margin-top:4px;padding-left:16px;flex-wrap:wrap}
-    .verse-block:hover .verse-tools{display:flex}
+    .verse-tools{display:flex;flex-direction:column;align-items:center;gap:5px;opacity:0;pointer-events:none;transition:opacity .15s ease}
+    .verse-block:hover .verse-tools,.verse-block:focus-within .verse-tools{opacity:1;pointer-events:auto}
+    .verse-tool-btn{width:22px;height:22px;padding:0;border:0;background:transparent;border-radius:50%;font-family:var(--font-ui);font-size:.76rem;line-height:1;color:var(--ink3);cursor:pointer;display:inline-flex;align-items:center;justify-content:center;transition:background .15s,color .15s}
+    .verse-tool-btn:hover{background:var(--bg3);color:var(--ink)}
 
     .side-panel{position:fixed;top:0;right:0;bottom:0;width:min(380px,100vw);background:var(--bg2);border-left:1px solid var(--border);box-shadow:-4px 0 20px var(--shadow);z-index:300;display:flex;flex-direction:column;transform:translateX(100%);transition:transform .3s cubic-bezier(.4,0,.2,1)}
     .side-panel.open{transform:translateX(0)}
@@ -134,10 +146,11 @@
       #verses-container,#verses-container.has-side-notes{max-width:100%;display:block}
       #notes-column{display:none}
       .verse-side-note{display:block}
-      .annotation-block{margin:6px 0 8px 16px}
-      .verse-tools{display:flex!important;gap:4px;margin-top:2px;padding-left:14px}
-      .verse-tools .btn-sm{width:28px;height:28px;padding:0;border-radius:50%;font-size:0;line-height:1;display:inline-flex;align-items:center;justify-content:center}
-      .verse-tools .btn-sm::before{content:attr(data-icon);font-size:.82rem;font-family:var(--font-ui);letter-spacing:0}
+      .verse-layout{grid-template-columns:28px minmax(0,1fr);column-gap:10px}
+      .verse-rail{gap:4px}
+      .annotation-block{margin:6px 0 8px 0}
+      .verse-tools{opacity:1;pointer-events:auto}
+      .verse-tool-btn{width:24px;height:24px;font-size:.78rem}
       #font-btn{display:flex}
     }
     @media(min-width:701px){
@@ -158,7 +171,10 @@
   <button class="topbar-btn" id="menu-btn" title="Menu">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
   </button>
-  <h1 id="topbar-title">Bíblia CEP</h1>
+  <div id="topbar-brand">
+    <img src="icons/icon-192.png" alt="Bíblia CEP" id="topbar-logo">
+    <h1 id="topbar-title">Bíblia CEP</h1>
+  </div>
   <button class="topbar-btn" id="font-btn" title="Tamanho do texto" aria-label="Alterar tamanho do texto">A/A+</button>
   <button class="topbar-btn" id="search-btn" title="Pesquisar">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
@@ -325,7 +341,7 @@ function renderChapter(book,chapter){
     const hasAnn=!!state.annotations[key];
     const block=document.createElement('div');
     block.className='verse-block'+(hasAnn?' has-annotation':'');block.dataset.key=key;block.dataset.verse=verse.verse;
-    let txt=`<span class="verse-num">${verse.verse}</span><span class="verse-text">${esc(verse.text)}`;
+    let txt=`<span class="verse-text">${esc(verse.text)}`;
     if(verse.note_refs&&verse.note_refs.length&&verse.notes)
       verse.note_refs.forEach(r=>{txt+=`<a class="note-marker" data-note="${r}" title="Nota ${r}">${r}</a>`});
     txt+=`</span>`;
@@ -341,11 +357,11 @@ function renderChapter(book,chapter){
         ${hasAnn?`<button class="btn-sm danger" onclick="deleteAnn('${key}')">Apagar</button>`:''}
       </div></div>`;
     const tools=`<div class="verse-tools">
-      <button class="btn-sm" data-icon="C" title="Copiar" aria-label="Copiar versículo" onclick="copyV('${key}','${ea(verse.text)}')">Copiar</button>
-      <button class="btn-sm" data-icon="↗" title="Partilhar" aria-label="Partilhar versículo" onclick="shareV('${key}','${ea(book.book)}',${chapter.chapter},${verse.verse},'${ea(verse.text)}')">Partilhar</button>
-      <button class="btn-sm" data-icon="+" title="Anotar" aria-label="Anotar versículo" onclick="editAnn('${key}')">Anotar</button>
+      <button class="verse-tool-btn" title="Copiar" aria-label="Copiar versículo" onclick="copyV('${key}','${ea(verse.text)}')">⧉</button>
+      <button class="verse-tool-btn" title="Partilhar" aria-label="Partilhar versículo" onclick="shareV('${key}','${ea(book.book)}',${chapter.chapter},${verse.verse},'${ea(verse.text)}')">↗</button>
+      <button class="verse-tool-btn" title="Anotar" aria-label="Anotar versículo" onclick="editAnn('${key}')">✎</button>
     </div>`;
-    block.innerHTML=`<div class="verse-layout"><div class="verse-main">${txt}${notes}${tools}</div></div>`;
+    block.innerHTML=`<div class="verse-layout"><div class="verse-rail"><span class="verse-num">${verse.verse}</span>${tools}</div><div class="verse-main">${txt}${notes}</div></div>`;
     textColumn.appendChild(block);
 
     if(hasAnn){
