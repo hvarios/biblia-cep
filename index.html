@@ -256,7 +256,7 @@
 
 <script>
 'use strict';
-const APP_VERSION='0.1';
+const APP_VERSION='4,0';
 const APP_COMMIT_DATE='maio 2026';
 const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{}},annotations:JSON.parse(localStorage.getItem('biblia-annotations')||'{}'),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1')};
 applyFontScale();
@@ -337,7 +337,7 @@ function renderHome(){
       <div class="home-title">Bíblia Católica</div>
       <div class="home-subtitle">tradução da<br>Conferência Episcopal Portuguesa</div>
     </div>
-    <div class="app-version">v${APP_VERSION} · ${APP_COMMIT_DATE}</div>
+    <div class="app-version">v. ${APP_VERSION} · ${APP_COMMIT_DATE}</div>
   </section>`;
 }
 
