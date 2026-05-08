@@ -82,6 +82,10 @@
 
     #main{flex:1;display:flex;flex-direction:column;overflow:hidden;padding-top:var(--topbar-h)}
     #reader{flex:1;overflow-y:auto;padding:28px 32px 80px;max-width:none;margin:0;width:100%;background:var(--bg)}
+    .home-screen{min-height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:var(--ink);padding:48px 16px 72px;position:relative}
+    .home-title{font-family:var(--font-ui);font-size:1.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ink2);margin-bottom:10px}
+    .home-subtitle{font-size:1.15rem;line-height:1.45;color:var(--ink3);font-style:italic}
+    .app-version{position:absolute;bottom:18px;left:0;right:0;text-align:center;font-family:var(--font-ui);font-size:.72rem;letter-spacing:.08em;color:var(--ink3);text-transform:uppercase}
     #verses-container{max-width:720px;margin:0 auto;transition:max-width .2s ease;display:block}
     #verses-container.has-side-notes{max-width:1040px;display:grid;grid-template-columns:minmax(0,720px) 280px;gap:32px;align-items:start}
     #text-column{min-width:0}
@@ -129,6 +133,7 @@
     .verse-block:hover .verse-tools,.verse-block:focus-within .verse-tools{opacity:1;pointer-events:auto}
     .verse-tool-btn{width:22px;height:22px;padding:0;border:0;background:transparent;border-radius:50%;font-family:var(--font-ui);font-size:.76rem;line-height:1;color:var(--ink3);cursor:pointer;display:inline-flex;align-items:center;justify-content:center;transition:background .15s,color .15s}
     .verse-tool-btn:hover{background:var(--bg3);color:var(--ink)}
+    .verse-tool-btn svg{width:14px;height:14px;stroke:currentColor;stroke-width:1.8;fill:none;stroke-linecap:round;stroke-linejoin:round}
 
     .side-panel{position:fixed;top:0;right:0;bottom:0;width:min(380px,100vw);background:var(--bg2);border-left:1px solid var(--border);box-shadow:-4px 0 20px var(--shadow);z-index:300;display:flex;flex-direction:column;transform:translateX(100%);transition:transform .3s cubic-bezier(.4,0,.2,1)}
     .side-panel.open{transform:translateX(0)}
@@ -244,7 +249,9 @@
 
 <script>
 'use strict';
-const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'AT',groups:{}},annotations:JSON.parse(localStorage.getItem('biblia-annotations')||'{}'),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1')};
+const APP_VERSION='0.1';
+const APP_COMMIT_DATE='maio 2026';
+const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{}},annotations:JSON.parse(localStorage.getItem('biblia-annotations')||'{}'),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1')};
 applyFontScale();
 function $(id){return document.getElementById(id)}
 function toast(msg,dur=2200){const el=$('toast');el.textContent=msg;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),dur)}
@@ -297,7 +304,7 @@ const BOOK_ALIASES={
 };
 function findBookByName(name){const wanted=normBookName(name);const variants=[wanted,...(BOOK_ALIASES[wanted]||[])];return state.books.find(b=>variants.includes(normBookName(b.book)))}
 function bookHasContent(book){return !!(book&&Array.isArray(book.chapters)&&book.chapters.length&&book.chapters.some(ch=>Array.isArray(ch.verses)&&ch.verses.length))}
-function currentTestamentId(){for(const testament of CANON){for(const group of testament.groups){if(group.books.some(name=>findBookByName(name)===state.currentBook))return testament.id}}return 'AT'}
+function currentTestamentId(){for(const testament of CANON){for(const group of testament.groups){if(group.books.some(name=>findBookByName(name)===state.currentBook))return testament.id}}return ''}
 function currentGroupId(){for(const testament of CANON){for(const group of testament.groups){if(group.books.some(name=>findBookByName(name)===state.currentBook))return group.id}}return ''}
 
 async function loadData(){
@@ -305,18 +312,30 @@ async function loadData(){
   const data=await res.json();
   state.books=data.books;
   renderSidebar();
-  openChapter(state.books[0],state.books[0].chapters[0]);
+  renderHome();
 }
 
+
+function renderHome(){
+  state.currentBook=null;
+  state.currentChapter=null;
+  state.menuOpen.testament='';
+  state.menuOpen.groups={};
+  $('topbar-title').textContent='Bíblia CEP';
+  const reader=$('reader');
+  reader.removeAttribute('style');
+  reader.innerHTML=`<section class="home-screen">
+    <div>
+      <div class="home-title">Bíblia Católica</div>
+      <div class="home-subtitle">tradução da<br>Conferência Episcopal Portuguesa</div>
+    </div>
+    <div class="app-version">v${APP_VERSION} · ${APP_COMMIT_DATE}</div>
+  </section>`;
+}
 
 function renderSidebar(){
   const list=$('book-list');
   list.innerHTML='';
-  const activeTestament=currentTestamentId();
-  const activeGroup=currentGroupId();
-  if(activeTestament)state.menuOpen.testament=activeTestament;
-  if(activeGroup)state.menuOpen.groups[activeGroup]=true;
-
   CANON.forEach(testament=>{
     const tOpen=state.menuOpen.testament===testament.id;
     const tWrap=document.createElement('div');
@@ -399,6 +418,10 @@ function toggleGrid(bookName){
 
 function openChapter(book,chapter){
   state.currentBook=book;state.currentChapter=chapter;
+  const tId=currentTestamentId();
+  const gId=currentGroupId();
+  if(tId)state.menuOpen.testament=tId;
+  if(gId)state.menuOpen.groups[gId]=true;
   $('topbar-title').textContent=`${book.book} ${chapter.chapter}`;
   renderSidebar();renderChapter(book,chapter);
   if(window.innerWidth<=700){$('sidebar').classList.remove('open');$('overlay').classList.remove('open')}
@@ -417,8 +440,8 @@ function nextChapter(){
   if(idx<book.chapters.length-1)openChapter(book,book.chapters[idx+1]);
   else{const bi=state.books.indexOf(book);if(bi<state.books.length-1)openChapter(state.books[bi+1],state.books[bi+1].chapters[0])}
 }
-function hasPrev(){const book=state.currentBook;return book.chapters.indexOf(state.currentChapter)>0||state.books.indexOf(book)>0}
-function hasNext(){const book=state.currentBook;const idx=book.chapters.indexOf(state.currentChapter);return idx<book.chapters.length-1||state.books.indexOf(book)<state.books.length-1}
+function hasPrev(){const book=state.currentBook;if(!book||!state.currentChapter)return false;return book.chapters.indexOf(state.currentChapter)>0||state.books.indexOf(book)>0}
+function hasNext(){const book=state.currentBook;if(!book||!state.currentChapter)return false;const idx=book.chapters.indexOf(state.currentChapter);return idx<book.chapters.length-1||state.books.indexOf(book)<state.books.length-1}
 
 function renderChapter(book,chapter){
   applyFontScale();
@@ -473,9 +496,9 @@ function renderChapter(book,chapter){
         ${hasAnn?`<button class="btn-sm danger" onclick="deleteAnn('${key}')">Apagar</button>`:''}
       </div></div>`;
     const tools=`<div class="verse-tools">
-      <button class="verse-tool-btn" title="Copiar" aria-label="Copiar versículo" onclick="copyV('${key}','${ea(verse.text)}')">⧉</button>
-      <button class="verse-tool-btn" title="Partilhar" aria-label="Partilhar versículo" onclick="shareV('${key}','${ea(book.book)}',${chapter.chapter},${verse.verse},'${ea(verse.text)}')">↗</button>
-      <button class="verse-tool-btn" title="Anotar" aria-label="Anotar versículo" onclick="editAnn('${key}')">✎</button>
+      <button class="verse-tool-btn" title="Copiar" aria-label="Copiar versículo" onclick="copyV('${key}','${ea(verse.text)}')"><svg viewBox="0 0 24 24"><rect x="8" y="8" width="11" height="11" rx="2"></rect><path d="M5 16H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></button>
+      <button class="verse-tool-btn" title="Partilhar" aria-label="Partilhar versículo" onclick="shareV('${key}','${ea(book.book)}',${chapter.chapter},${verse.verse},'${ea(verse.text)}')"><svg viewBox="0 0 24 24"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><path d="M8.6 10.8l6.8-4.1"></path><path d="M8.6 13.2l6.8 4.1"></path></svg></button>
+      <button class="verse-tool-btn" title="Anotar" aria-label="Anotar versículo" onclick="editAnn('${key}')"><svg viewBox="0 0 24 24"><path d="M12 20h9"></path><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4Z"></path></svg></button>
     </div>`;
     block.innerHTML=`<div class="verse-layout"><div class="verse-rail"><span class="verse-num">${verse.verse}</span>${tools}</div><div class="verse-main">${txt}${notes}</div></div>`;
     textColumn.appendChild(block);
@@ -577,8 +600,8 @@ function notesTextForKeys(keys,title='Anotações Bíblicas'){
 function renderNotesPanel(){
   const list=$('notes-list');
   const bookName=state.currentBook?.book||'';
-  const keys=annotationKeys('book');
-  if(!keys.length){list.innerHTML=`<div class="panel-empty">Não tens anotações em ${esc(bookName)}.</div>`;return}
+  const keys=state.currentBook?annotationKeys('book'):annotationKeys('all');
+  if(!keys.length){list.innerHTML=`<div class="panel-empty">Não tens anotações${bookName?' em '+esc(bookName):''}.</div>`;return}
   list.innerHTML=keys.map(key=>{
     const[b,c,v]=key.split('|');const text=state.annotations[key];
     return`<div class="note-entry" onclick="goTo('${ea(b)}',${c},${v});closeNotes()">
