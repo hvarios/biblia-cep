@@ -505,7 +505,7 @@ function renderChapter(book,chapter){
   
   chapter.verses.forEach(verse=>{
     const block=document.createElement('div');
-    block.className='verse-block';block.dataset.verse=verse.verse;block.dataset.book=book.book;block.dataset.chapter=chapter.chapter;block.dataset.text=verse.text;
+    block.className='verse-block';block.dataset.verse=verse.verse;block.dataset.book=book.book;block.dataset.chapter=chapter.chapter;block.dataset.text=verse.text;block.dataset.key=selectionKey(book.book,chapter.chapter,verse.verse);
     let txt=`<span class="verse-text">${esc(verse.text)}`;
     if(verse.note_refs&&verse.note_refs.length&&verse.notes)
       verse.note_refs.forEach(r=>{txt+=`<a class="note-marker" data-note="${r}" title="Nota ${r}">${r}</a>`});
@@ -518,12 +518,7 @@ function renderChapter(book,chapter){
     </div>`;
     block.innerHTML=`<div class="verse-layout"><div class="verse-rail"><span class="verse-num" title="Selecionar versículo" onclick="toggleVerseSelection(this.closest(\'.verse-block\'))">${verse.verse}</span>${tools}</div><div class="verse-main">${txt}${notes}</div></div>`;
     if(state.selectedVerses.has(selectionKey(book.book,chapter.chapter,verse.verse)))block.classList.add('selected');
-    textColumn.appendChild(block);else{
-      const inlineNote=document.createElement('div');
-      inlineNote.className='verse-side-note';
-      inlineNote.innerHTML=ann;
-      block.querySelector('.verse-layout').appendChild(inlineNote);
-    }
+    textColumn.appendChild(block);
   });
   container.querySelectorAll('.note-marker').forEach(m=>{
     m.addEventListener('click',e=>{
