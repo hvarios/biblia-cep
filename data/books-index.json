@@ -1,133 +1,25 @@
 {
-  "schemaVersion": 1,
   "books": [
     {
-      "id": "co",
-      "book": "Coélet",
-      "file": "books/co.json",
-      "available": true,
-      "chapters": [
-        {
-          "chapter": 1,
-          "versesCount": 18
-        },
-        {
-          "chapter": 2,
-          "versesCount": 25
-        },
-        {
-          "chapter": 3,
-          "versesCount": 21
-        },
-        {
-          "chapter": 4,
-          "versesCount": 17
-        },
-        {
-          "chapter": 5,
-          "versesCount": 18
-        },
-        {
-          "chapter": 6,
-          "versesCount": 12
-        },
-        {
-          "chapter": 7,
-          "versesCount": 28
-        },
-        {
-          "chapter": 8,
-          "versesCount": 18
-        },
-        {
-          "chapter": 9,
-          "versesCount": 17
-        },
-        {
-          "chapter": 10,
-          "versesCount": 19
-        },
-        {
-          "chapter": 11,
-          "versesCount": 11
-        },
-        {
-          "chapter": 12,
-          "versesCount": 15
-        }
-      ]
+      "id": "abd",
+      "book": "Abdias",
+      "file": "books/abd.json",
+      "chaptersCount": 1,
+      "available": true
     },
     {
       "id": "mc",
       "book": "Evangelho de Marcos",
       "file": "books/mc.json",
-      "available": true,
-      "chapters": [
-        {
-          "chapter": 1,
-          "versesCount": 44
-        },
-        {
-          "chapter": 2,
-          "versesCount": 26
-        },
-        {
-          "chapter": 3,
-          "versesCount": 34
-        },
-        {
-          "chapter": 4,
-          "versesCount": 41
-        },
-        {
-          "chapter": 5,
-          "versesCount": 42
-        },
-        {
-          "chapter": 6,
-          "versesCount": 54
-        },
-        {
-          "chapter": 7,
-          "versesCount": 36
-        },
-        {
-          "chapter": 8,
-          "versesCount": 36
-        },
-        {
-          "chapter": 9,
-          "versesCount": 48
-        },
-        {
-          "chapter": 10,
-          "versesCount": 50
-        },
-        {
-          "chapter": 11,
-          "versesCount": 32
-        },
-        {
-          "chapter": 12,
-          "versesCount": 44
-        },
-        {
-          "chapter": 13,
-          "versesCount": 35
-        },
-        {
-          "chapter": 14,
-          "versesCount": 70
-        },
-        {
-          "chapter": 15,
-          "versesCount": 43
-        },
-        {
-          "chapter": 16,
-          "versesCount": 19
-        }
-      ]
+      "chaptersCount": 16,
+      "available": true
+    },
+    {
+      "id": "co",
+      "book": "Coélet",
+      "file": "books/co.json",
+      "chaptersCount": 12,
+      "available": true
     }
   ]
 }

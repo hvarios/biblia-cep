@@ -37,7 +37,7 @@
 
     #topbar{position:fixed;top:0;left:0;right:0;height:var(--topbar-h);background:var(--bg2);border-bottom:1px solid var(--border);display:flex;align-items:center;gap:8px;padding:0 12px;z-index:200;box-shadow:0 2px 8px var(--shadow)}
     #topbar-brand{display:flex;align-items:center;gap:10px;flex:1;min-width:0}
-    #topbar-logo{width:34px;height:34px;border-radius:8px;flex-shrink:0}
+    #topbar-logo{width:34px;height:34px;border-radius:8px;flex-shrink:0;cursor:pointer}
     #topbar h1{font-family:var(--font-ui);font-size:1rem;letter-spacing:.06em;color:var(--ink2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
     #topbar-title{flex:1;text-align:left!important}
     .topbar-btn{background:none;border:none;cursor:pointer;color:var(--ink2);padding:6px;border-radius:4px;display:flex;align-items:center;justify-content:center;transition:background .15s;flex-shrink:0}
@@ -48,7 +48,7 @@
     #sidebar{width:var(--sidebar-w);height:100vh;background:var(--bg2);border-right:1px solid var(--border);display:flex;flex-direction:column;flex-shrink:0;transition:transform .3s cubic-bezier(.4,0,.2,1);z-index:100;overflow:hidden}
     #sidebar-header{padding:16px 18px 12px;border-bottom:1px solid var(--border)}
     #sidebar-brand{display:flex;align-items:center;gap:12px}
-    #sidebar-logo{width:42px;height:42px;border-radius:9px;flex-shrink:0}
+    #sidebar-logo{width:42px;height:42px;border-radius:9px;flex-shrink:0;cursor:pointer}
     #sidebar-header h2{font-family:var(--font-ui);font-size:1.1rem;letter-spacing:.1em;color:var(--ink);margin-bottom:2px}
     #sidebar-header p{font-size:.78rem;color:var(--ink3);font-style:italic}
     #book-list{flex:1;overflow-y:auto;padding:6px 0}
@@ -256,7 +256,7 @@
 
 <script>
 'use strict';
-const APP_VERSION='4.2';
+const APP_VERSION='4.3';
 const APP_COMMIT_DATE='junho 2026';
 const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{}},annotations:JSON.parse(localStorage.getItem('biblia-annotations')||'{}'),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1')};
 applyFontScale();
@@ -318,7 +318,13 @@ function findBookByName(name){
     return variants.includes(normBookName(b.book))||variants.includes(actual);
   });
 }
-function bookHasContent(book){return !!(book&&book.available!==false&&Array.isArray(book.chapters)&&book.chapters.length&&(book.file||book.chapters.some(ch=>Array.isArray(ch.verses)&&ch.verses.length)))}
+function getBookChapterRefs(book){
+  if(!book)return [];
+  if(Array.isArray(book.chapters)&&book.chapters.length)return book.chapters;
+  const count=Number(book.chaptersCount||book.chapterCount||0);
+  return count>0?Array.from({length:count},(_,i)=>({chapter:i+1})):[];
+}
+function bookHasContent(book){return !!(book&&book.available!==false&&(book.file||bookIsLoaded(book))&&getBookChapterRefs(book).length)}
 function bookIsLoaded(book){return !!(book&&Array.isArray(book.chapters)&&book.chapters.some(ch=>Array.isArray(ch.verses)))}
 function currentTestamentId(){for(const testament of CANON){for(const group of testament.groups){if(group.books.some(name=>findBookByName(name)===state.currentBook))return testament.id}}return ''}
 function currentGroupId(){for(const testament of CANON){for(const group of testament.groups){if(group.books.some(name=>findBookByName(name)===state.currentBook))return group.id}}return ''}
@@ -403,7 +409,7 @@ function renderSidebar(){
         item.className='book-item'+(isCurrent?' active open':'')+(available?'':' unavailable');
         item.dataset.bookName=available?book.book:bookName;
         item.innerHTML=available
-          ? `<div class="book-meta"><span>${book.book}</span><span class="badge">${book.chapters.length} cap.</span></div><span class="chevron">›</span>`
+          ? `<div class="book-meta"><span>${book.book}</span><span class="badge">${getBookChapterRefs(book).length} cap.</span></div><span class="chevron">›</span>`
           : `<div class="book-meta"><span>${bookName}</span></div><span class="book-status">em tradução</span>`;
         item.addEventListener('click',()=>available?toggleGrid(book.book):toast('Livro ainda em tradução'));
         sec.appendChild(item);
@@ -412,7 +418,7 @@ function renderSidebar(){
           const grid=document.createElement('div');
           grid.className='chapter-grid'+(isCurrent?' open':'');
           grid.id=`grid-${bookKey(book.book)}`;
-          book.chapters.forEach(ch=>{
+          getBookChapterRefs(book).forEach(ch=>{
             const btn=document.createElement('button');
             btn.className='ch-btn'+(state.currentBook===book&&state.currentChapter&&state.currentChapter.chapter===ch.chapter?' active':'');
             btn.textContent=ch.chapter;
@@ -714,6 +720,17 @@ if(localStorage.getItem('biblia-theme')==='dark')document.documentElement.datase
 function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
 function ea(s){return String(s).replace(/'/g,"\\'").replace(/\n/g,' ')}
 function escR(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}
+
+function goHomeFromLogo(){
+  renderHome();
+  renderSidebar();
+  $('sidebar').classList.remove('open');
+  $('search-panel').classList.remove('open');
+  $('notes-panel').classList.remove('open');
+  $('overlay').classList.remove('open');
+}
+$('topbar-logo').addEventListener('click',goHomeFromLogo);
+$('sidebar-logo').addEventListener('click',goHomeFromLogo);
 
 loadData().catch(err=>{$('reader').innerHTML=`<p style="color:var(--red);padding:20px">Erro: ${err.message}</p>`});
 </script>
