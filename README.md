@@ -40,6 +40,23 @@ Nem todos os livros da Bíblia estão ainda disponíveis. Os livros em falta sã
 
 A estrutura foi preparada para permitir adicionar novos livros sem alterar a aplicação.
 
+URL público: https://hvarios.github.io/biblia-cep/
+
+## Tecnologias Utilizadas
+  HTML5
+  CSS3
+  JavaScript Vanilla
+  Progressive Web App (PWA)
+  GitHub Pages
+
+## Licença
+
+Este projeto encontra-se em desenvolvimento pessoal e educativo.
+
+O código-fonte está disponível neste repositório.
+
+Os textos bíblicos utilizados pertencem à tradução da Conferência Episcopal Portuguesa (CEP).
+
 ## Estrutura do Projeto
 
 ```text
@@ -58,19 +75,4 @@ A estrutura foi preparada para permitir adicionar novos livros sem alterar a apl
         ├── mc.json
         └── ...
 
-URL público: https://hvarios.github.io/biblia-cep/
 
-Tecnologias Utilizadas
-  HTML5
-  CSS3
-  JavaScript Vanilla
-  Progressive Web App (PWA)
-  GitHub Pages
-
-Licença
-
-Este projeto encontra-se em desenvolvimento pessoal e educativo.
-
-O código-fonte está disponível neste repositório.
-
-Os textos bíblicos utilizados pertencem à tradução da Conferência Episcopal Portuguesa (CEP).
