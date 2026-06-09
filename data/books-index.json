@@ -422,28 +422,28 @@
     },
     {
       "id": "sao-joao",
-      "book": "São João",
+      "book": "João",
       "file": "books/sao-joao.json",
       "chaptersCount": 21,
       "available": true
     },
     {
       "id": "sao-lucas",
-      "book": "São Lucas",
+      "book": "Lucas",
       "file": "books/sao-lucas.json",
       "chaptersCount": 24,
       "available": true
     },
     {
       "id": "sao-marcos",
-      "book": "São Marcos",
+      "book": "Marcos",
       "file": "books/sao-marcos.json",
       "chaptersCount": 16,
       "available": true
     },
     {
       "id": "sao-mateus",
-      "book": "São Mateus",
+      "book": "Mateus",
       "file": "books/sao-mateus.json",
       "chaptersCount": 28,
       "available": true
