@@ -89,10 +89,7 @@
     .home-subtitle{font-size:1.15rem;line-height:1.45;color:var(--ink3);font-style:italic}
     .app-version{position:absolute;bottom:18px;left:0;right:0;text-align:center;font-family:var(--font-ui);font-size:.72rem;letter-spacing:.08em;color:var(--ink3);text-transform:uppercase}
     #verses-container{max-width:720px;margin:0 auto;transition:max-width .2s ease;display:block}
-    #verses-container.has-side-notes{max-width:1040px;display:grid;grid-template-columns:minmax(0,720px) 280px;gap:32px;align-items:start}
     #text-column{min-width:0}
-    #notes-column{display:none;min-width:0}
-    #verses-container.has-side-notes #notes-column{display:block}
 
     .chapter-nav{display:flex;align-items:center;justify-content:space-between;margin:0 auto 24px;gap:8px;max-width:760px;width:100%}
     .chapter-nav-bottom{margin-top:28px;margin-bottom:0}
@@ -105,13 +102,19 @@
 
     .verse-block{margin-bottom:10px;padding:4px 0;border-radius:3px;transition:background .15s}
     .verse-block:hover{background:rgba(237,229,207,.45)}
+    .verse-block.selected{background:rgba(122,84,0,.12)}
+    .verse-num{cursor:pointer;border-radius:999px;padding:5px 6px;min-width:24px;text-align:center;transition:background .15s,color .15s}
+    .verse-block.selected .verse-num{background:var(--gold);color:#fff}
+    #selection-bar{position:fixed;left:calc(var(--sidebar-w) + 16px);right:16px;bottom:18px;background:var(--bg2);border:1px solid var(--border);box-shadow:0 4px 18px var(--shadow);border-radius:999px;padding:8px 10px;display:none;align-items:center;justify-content:center;gap:8px;z-index:220}
+    #selection-bar.open{display:flex}
+    #selection-count{font-family:var(--font-ui);font-size:.78rem;letter-spacing:.05em;color:var(--ink2);padding:0 8px;white-space:nowrap}
+    .selection-btn{background:none;border:1px solid var(--border);border-radius:999px;padding:5px 12px;font-family:var(--font-ui);font-size:.76rem;color:var(--ink2);cursor:pointer;letter-spacing:.04em}
+    .selection-btn:hover{background:var(--bg3)}
+
     .verse-layout{display:grid;grid-template-columns:32px minmax(0,1fr);column-gap:16px;align-items:start}
     .verse-rail{display:flex;flex-direction:column;align-items:center;gap:5px;min-height:1.85em;padding-top:.25em}
     .verse-num{font-family:var(--font-ui);font-size:.68rem;color:var(--gold-lt);line-height:1;letter-spacing:.03em;user-select:none}
     .verse-main{min-width:0}
-    .verse-side-note{display:none}
-    #notes-column .verse-side-note{display:block;margin-bottom:10px}
-    .verse-side-note{min-width:0}
     .verse-text{font-size:calc(1.1rem * var(--reader-font-scale,1));line-height:1.85}
     .note-marker{color:var(--red);font-size:.7rem;vertical-align:super;cursor:pointer;font-family:var(--font-ui);text-decoration:none;margin-left:1px;transition:color .15s}
     .note-marker:hover{color:var(--gold)}
@@ -120,17 +123,6 @@
     .note-popup.open{display:block;animation:fadeIn .15s ease}
     .note-label{font-family:var(--font-ui);font-style:normal;font-size:.72rem;color:var(--red);margin-bottom:3px;display:block}
 
-    .annotation-block{display:none;margin:0}
-    .annotation-block.open{display:block}
-    .annotation-text{background:var(--bg3);border:1px dashed var(--border);border-radius:var(--radius);padding:8px 12px;font-size:.87rem;color:var(--ink2);font-style:italic;margin-bottom:4px;white-space:pre-wrap}
-    .annotation-input{width:100%;background:var(--bg);border:1px solid var(--border);border-radius:var(--radius);padding:8px 12px;font-family:var(--font-body);font-size:.9rem;color:var(--ink);resize:vertical;min-height:72px}
-    .annotation-input:focus{outline:none;border-color:var(--gold)}
-    .annotation-actions{display:flex;gap:8px;margin-top:6px}
-    .btn-sm{background:none;border:1px solid var(--border);border-radius:var(--radius);padding:4px 12px;font-family:var(--font-ui);font-size:.78rem;color:var(--ink2);cursor:pointer;transition:all .15s;letter-spacing:.04em}
-    .btn-sm:hover{background:var(--bg3)}
-    .btn-sm.primary{background:var(--gold);border-color:var(--gold);color:#fff}
-    .btn-sm.primary:hover{background:var(--gold-lt)}
-    .btn-sm.danger{color:var(--red);border-color:var(--red)}
     .verse-tools{display:flex;flex-direction:column;align-items:center;gap:5px;opacity:0;pointer-events:none;transition:opacity .15s ease}
     .verse-block:hover .verse-tools,.verse-block:focus-within .verse-tools{opacity:1;pointer-events:auto}
     .verse-tool-btn{width:22px;height:22px;padding:0;border:0;background:transparent;border-radius:50%;font-family:var(--font-ui);font-size:.76rem;line-height:1;color:var(--ink3);cursor:pointer;display:inline-flex;align-items:center;justify-content:center;transition:background .15s,color .15s}
@@ -150,12 +142,6 @@
     .result-snippet{font-size:.9rem;line-height:1.5;color:var(--ink2)}
     .result-snippet mark{background:transparent;color:var(--red);font-weight:600}
     .panel-empty{padding:32px 16px;text-align:center;color:var(--ink3);font-style:italic;font-size:.95rem}
-    #notes-list{flex:1;overflow-y:auto;padding:8px 0}
-    .note-entry{padding:12px 16px;border-bottom:1px solid var(--border);cursor:pointer;transition:background .15s}
-    .note-entry:hover{background:var(--bg3)}
-    .note-entry-ref{font-family:var(--font-ui);font-size:.78rem;color:var(--gold);display:block;margin-bottom:4px}
-    .note-entry-text{font-size:.9rem;color:var(--ink2);font-style:italic}
-    #notes-export{padding:12px 16px;border-top:1px solid var(--border)}
 
     #overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:150}
     #overlay.open{display:block}
@@ -165,15 +151,14 @@
       #sidebar{position:fixed;top:0;bottom:0;left:0;transform:translateX(-100%);box-shadow:4px 0 20px var(--shadow);z-index:250}
       #sidebar.open{transform:translateX(0)}
       #reader{padding:20px 16px 80px}
-      #verses-container,#verses-container.has-side-notes{max-width:100%;display:block}
-      #notes-column{display:none}
-      .verse-side-note{display:block}
+      #verses-container{max-width:100%;display:block}
       .verse-layout{grid-template-columns:28px minmax(0,1fr);column-gap:10px}
       .verse-rail{gap:4px}
-      .annotation-block{margin:6px 0 8px 0}
       .verse-tools{opacity:1;pointer-events:auto}
       .verse-tool-btn{width:24px;height:24px;font-size:.78rem}
       #font-btn{display:flex}
+      #selection-bar{left:12px;right:12px;bottom:14px;flex-wrap:wrap;border-radius:18px}
+      #selection-count{width:100%;text-align:center}
     }
     @media(min-width:701px){
       #topbar{left:var(--sidebar-w)}
@@ -200,9 +185,6 @@
   <button class="topbar-btn" id="font-btn" title="Tamanho do texto" aria-label="Alterar tamanho do texto">A/A+</button>
   <button class="topbar-btn" id="search-btn" title="Pesquisar">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-  </button>
-  <button class="topbar-btn" id="notes-btn" title="Anotações">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
   </button>
   <button class="topbar-btn" id="theme-btn" title="Tema">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
@@ -241,31 +223,24 @@
   <div id="search-results"><div class="panel-empty">Introduz um termo para pesquisar.</div></div>
 </div>
 
-<div id="notes-panel" class="side-panel">
-  <div class="panel-header">
-    <h3>As Minhas Anotações</h3>
-    <button class="topbar-btn" id="notes-close">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
-    </button>
-  </div>
-  <div id="notes-list"></div>
-  <div id="notes-export"><button class="btn-sm" id="export-btn" style="width:100%">Exportar Anotações</button></div>
+<div id="selection-bar" aria-live="polite">
+  <span id="selection-count">0 versículos selecionados</span>
+  <button class="selection-btn" id="copy-selection-btn">Copiar</button>
+  <button class="selection-btn" id="share-selection-btn">Partilhar</button>
+  <button class="selection-btn" id="clear-selection-btn">Limpar</button>
 </div>
 
 <div id="toast"></div>
 
 <script>
 'use strict';
-const APP_VERSION='4.3';
+const APP_VERSION='4.5';
 const APP_COMMIT_DATE='junho 2026';
-const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{}},annotations:JSON.parse(localStorage.getItem('biblia-annotations')||'{}'),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1')};
+const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{}},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1')};
 applyFontScale();
 function $(id){return document.getElementById(id)}
 function toast(msg,dur=2200){const el=$('toast');el.textContent=msg;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),dur)}
-function saveAnnotations(){localStorage.setItem('biblia-annotations',JSON.stringify(state.annotations))}
 function applyFontScale(){document.documentElement.style.setProperty('--reader-font-scale', state.fontScale || 1)}
-function blurActiveControl(){if(document.activeElement&&typeof document.activeElement.blur==='function')document.activeElement.blur()}
-function annKey(b,c,v){return`${b}|${c}|${v}`}
 if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js').catch(()=>{});
 
 
@@ -358,6 +333,7 @@ async function ensureAllBooksLoaded(){
 
 
 function renderHome(){
+  clearVerseSelection(false);
   state.currentBook=null;
   state.currentChapter=null;
   state.menuOpen.testament='';
@@ -513,7 +489,6 @@ function renderChapter(book,chapter){
     
 	<div id="verses-container">
 		<div id="text-column"></div>
-		<div id="notes-column"></div>
 	</div>
 	
     <div class="chapter-nav chapter-nav-bottom">
@@ -527,50 +502,29 @@ function renderChapter(book,chapter){
   
 	const container=$('verses-container');
 	const textColumn=$('text-column');
-	const notesColumn=$('notes-column');
   
   chapter.verses.forEach(verse=>{
-    const key=annKey(book.book,chapter.chapter,verse.verse);
-    const hasAnn=!!state.annotations[key];
     const block=document.createElement('div');
-    block.className='verse-block'+(hasAnn?' has-annotation':'');block.dataset.key=key;block.dataset.verse=verse.verse;
+    block.className='verse-block';block.dataset.verse=verse.verse;block.dataset.book=book.book;block.dataset.chapter=chapter.chapter;block.dataset.text=verse.text;
     let txt=`<span class="verse-text">${esc(verse.text)}`;
     if(verse.note_refs&&verse.note_refs.length&&verse.notes)
       verse.note_refs.forEach(r=>{txt+=`<a class="note-marker" data-note="${r}" title="Nota ${r}">${r}</a>`});
     txt+=`</span>`;
     let notes='';
     if(verse.notes)Object.entries(verse.notes).forEach(([r,t])=>{notes+=`<div class="note-popup" id="note-${key}-${r}"><span class="note-label">Nota ${r}</span>${esc(t)}</div>`});
-    const annText=state.annotations[key]||'';
-    const ann=`<div class="annotation-block ${hasAnn?'open':''}" id="ann-block-${key}">
-      ${hasAnn?`<div class="annotation-text" id="ann-text-${key}">${esc(annText)}</div>`:''}
-      <textarea class="annotation-input" id="ann-input-${key}" placeholder="Anotação para ${book.book} ${chapter.chapter},${verse.verse}…" style="display:none">${esc(annText)}</textarea>
-      <div class="annotation-actions" id="ann-actions-${key}" style="display:none">
-        <button class="btn-sm primary" onclick="saveAnn('${key}')">Guardar</button>
-        <button class="btn-sm" onclick="cancelAnn('${key}')">Cancelar</button>
-        ${hasAnn?`<button class="btn-sm danger" onclick="deleteAnn('${key}')">Apagar</button>`:''}
-      </div></div>`;
     const tools=`<div class="verse-tools">
-      <button class="verse-tool-btn" title="Copiar" aria-label="Copiar versículo" onclick="copyV('${key}','${ea(verse.text)}')"><svg viewBox="0 0 24 24"><rect x="8" y="8" width="11" height="11" rx="2"></rect><path d="M5 16H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></button>
-      <button class="verse-tool-btn" title="Partilhar" aria-label="Partilhar versículo" onclick="shareV('${key}','${ea(book.book)}',${chapter.chapter},${verse.verse},'${ea(verse.text)}')"><svg viewBox="0 0 24 24"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><path d="M8.6 10.8l6.8-4.1"></path><path d="M8.6 13.2l6.8 4.1"></path></svg></button>
-      <button class="verse-tool-btn" title="Anotar" aria-label="Anotar versículo" onclick="editAnn('${key}')"><svg viewBox="0 0 24 24"><path d="M12 20h9"></path><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4Z"></path></svg></button>
+      <button class="verse-tool-btn" title="Copiar" aria-label="Copiar versículo" onclick="copyV('${ea(book.book)}',${chapter.chapter},${verse.verse},'${ea(verse.text)}')"><svg viewBox="0 0 24 24"><rect x="8" y="8" width="11" height="11" rx="2"></rect><path d="M5 16H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg></button>
+      <button class="verse-tool-btn" title="Partilhar" aria-label="Partilhar versículo" onclick="shareV('${ea(book.book)}',${chapter.chapter},${verse.verse},'${ea(verse.text)}')"><svg viewBox="0 0 24 24"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><path d="M8.6 10.8l6.8-4.1"></path><path d="M8.6 13.2l6.8 4.1"></path></svg></button>
     </div>`;
-    block.innerHTML=`<div class="verse-layout"><div class="verse-rail"><span class="verse-num">${verse.verse}</span>${tools}</div><div class="verse-main">${txt}${notes}</div></div>`;
-    textColumn.appendChild(block);
-
-    if(hasAnn){
-      const noteWrap=document.createElement('div');
-      noteWrap.className='verse-side-note';
-      noteWrap.dataset.key=key;
-      noteWrap.innerHTML=ann;
-      notesColumn.appendChild(noteWrap);
-    }else{
+    block.innerHTML=`<div class="verse-layout"><div class="verse-rail"><span class="verse-num" title="Selecionar versículo" onclick="toggleVerseSelection(this.closest(\'.verse-block\'))">${verse.verse}</span>${tools}</div><div class="verse-main">${txt}${notes}</div></div>`;
+    if(state.selectedVerses.has(selectionKey(book.book,chapter.chapter,verse.verse)))block.classList.add('selected');
+    textColumn.appendChild(block);else{
       const inlineNote=document.createElement('div');
       inlineNote.className='verse-side-note';
       inlineNote.innerHTML=ann;
       block.querySelector('.verse-layout').appendChild(inlineNote);
     }
   });
-  container.classList.toggle('has-side-notes', !!notesColumn.querySelector('.annotation-block.open'));
   container.querySelectorAll('.note-marker').forEach(m=>{
     m.addEventListener('click',e=>{
       e.preventDefault();
@@ -581,37 +535,76 @@ function renderChapter(book,chapter){
   });
 }
 
-function editAnn(key){
-  const b=$(`ann-block-${key}`),i=$(`ann-input-${key}`),a=$(`ann-actions-${key}`),t=$(`ann-text-${key}`);
-  b.classList.add('open');b.closest('.verse-block')?.classList.add('editing-annotation','has-annotation');$('verses-container')?.classList.add('has-side-notes');if(t)t.style.display='none';i.style.display='block';a.style.display='flex';i.focus();
+
+function selectionKey(book,ch,v){return`${book}|${ch}|${v}`}
+function formatVerseLine(item){return`${item.book} ${item.chapter},${item.verse} — ${item.text}`}
+function toggleVerseSelection(block){
+  if(!block)return;
+  const item={
+    book:block.dataset.book,
+    chapter:Number(block.dataset.chapter),
+    verse:Number(block.dataset.verse),
+    text:block.dataset.text||''
+  };
+  const key=selectionKey(item.book,item.chapter,item.verse);
+  if(state.selectedVerses.has(key)){
+    state.selectedVerses.delete(key);
+    block.classList.remove('selected');
+  }else{
+    state.selectedVerses.set(key,item);
+    block.classList.add('selected');
+  }
+  updateSelectionBar();
 }
-function saveAnn(key){
-  blurActiveControl();
-  applyFontScale();
-  const text=$(`ann-input-${key}`).value.trim();
-  if(text)state.annotations[key]=text;else delete state.annotations[key];
-  saveAnnotations();toast('Anotação guardada');
-  openChapter(state.currentBook,state.currentChapter);
-  applyFontScale();
-  setTimeout(()=>{const b=document.querySelector(`[data-key="${key}"]`);if(b)b.scrollIntoView({behavior:'smooth',block:'center'})},50);
+function orderedSelectedVerses(){
+  return Array.from(state.selectedVerses.values()).sort((a,b)=>{
+    const ai=state.books.findIndex(book=>book.book===a.book);
+    const bi=state.books.findIndex(book=>book.book===b.book);
+    if(ai!==bi)return ai-bi;
+    if(a.chapter!==b.chapter)return a.chapter-b.chapter;
+    return a.verse-b.verse;
+  });
 }
-function cancelAnn(key){
-  const b=$(`ann-block-${key}`),i=$(`ann-input-${key}`),a=$(`ann-actions-${key}`),t=$(`ann-text-${key}`);
-  i.style.display='none';a.style.display='none';if(t)t.style.display='block';if(!state.annotations[key]){b.classList.remove('open');b.closest('.verse-block')?.classList.remove('editing-annotation','has-annotation');if(!$('verses-container')?.querySelector('.annotation-block.open'))$('verses-container')?.classList.remove('has-side-notes');}
+function selectedText(){
+  return orderedSelectedVerses().map(formatVerseLine).join('\n');
 }
-function deleteAnn(key){
-  if(!confirm('Apagar esta anotação?'))return;
-  delete state.annotations[key];saveAnnotations();openChapter(state.currentBook,state.currentChapter);toast('Anotação apagada');
+function updateSelectionBar(){
+  const count=state.selectedVerses.size;
+  const bar=$('selection-bar');
+  const label=$('selection-count');
+  if(!bar||!label)return;
+  label.textContent=count===1?'1 versículo selecionado':`${count} versículos selecionados`;
+  bar.classList.toggle('open',count>0);
+}
+function clearVerseSelection(showToast=true){
+  state.selectedVerses.clear();
+  document.querySelectorAll('.verse-block.selected').forEach(el=>el.classList.remove('selected'));
+  updateSelectionBar();
+  if(showToast)toast('Seleção limpa');
+}
+function copySelectedVerses(){
+  const text=selectedText();
+  if(!text){toast('Sem versículos selecionados');return}
+  navigator.clipboard?.writeText(text).then(()=>toast('Seleção copiada')).catch(()=>{
+    const ta=document.createElement('textarea');
+    ta.value=text;document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove();toast('Seleção copiada');
+  });
+}
+function shareSelectedVerses(){
+  const text=selectedText();
+  if(!text){toast('Sem versículos selecionados');return}
+  if(navigator.share)navigator.share({title:'Versículos selecionados',text}).catch(()=>{});
+  else copySelectedVerses();
 }
 
-function copyV(key,text){
-  const[b,c,v]=key.split('|');const full=`${b} ${c},${v} — ${text}`;
+function copyV(book,ch,v,text){
+  const full=`${book} ${ch},${v} — ${text}`;
   navigator.clipboard?.writeText(full).then(()=>toast('Copiado!')).catch(()=>{const ta=document.createElement('textarea');ta.value=full;document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove();toast('Copiado!')});
 }
-function shareV(key,book,ch,v,text){
+function shareV(book,ch,v,text){
   const msg=`${book} ${ch},${v} — ${text}`;
   if(navigator.share)navigator.share({title:`${book} ${ch},${v}`,text:msg}).catch(()=>{});
-  else copyV(key,text);
+  else copyV(book,ch,v,text);
 }
 
 let sTimeout;
@@ -639,60 +632,6 @@ async function goTo(bookName,chNum,vNum){
   setTimeout(()=>{const b=document.querySelector(`[data-verse="${vNum}"]`);if(b)b.scrollIntoView({behavior:'smooth',block:'center'})},80);
 }
 
-function annotationKeys(scope='all'){
-  const keys=Object.keys(state.annotations);
-  if(scope==='book'&&state.currentBook) return keys.filter(key=>key.split('|')[0]===state.currentBook.book);
-  return keys;
-}
-
-function notesTextForKeys(keys,title='Anotações Bíblicas'){
-  const lines=keys.map(key=>{
-    const [b,c,v]=key.split('|');
-    return `## ${b} ${c},${v}\n${state.annotations[key]}`;
-  });
-  return `# ${title}\n\n${lines.join('\n\n')}`;
-}
-
-
-function renderNotesPanel(){
-  const list=$('notes-list');
-  const bookName=state.currentBook?.book||'';
-  const keys=state.currentBook?annotationKeys('book'):annotationKeys('all');
-  if(!keys.length){list.innerHTML=`<div class="panel-empty">Não tens anotações${bookName?' em '+esc(bookName):''}.</div>`;return}
-  list.innerHTML=keys.map(key=>{
-    const[b,c,v]=key.split('|');const text=state.annotations[key];
-    return`<div class="note-entry" onclick="goTo('${ea(b)}',${c},${v});closeNotes()">
-      <span class="note-entry-ref">${b} ${c},${v}</span>
-      <span class="note-entry-text">${esc(text.substring(0,120))}${text.length>120?'…':''}</span></div>`;
-  }).join('');
-}
-$('export-btn').addEventListener('click',async()=>{
-  const allKeys=annotationKeys('all');
-  if(!allKeys.length){toast('Sem anotações para exportar');return}
-
-  const bookName=state.currentBook?.book||'livro aberto';
-  const bookKeys=annotationKeys('book');
-  const useBookOnly=confirm(`Exportar apenas as anotações de ${bookName}?
-
-OK = ${bookName}
-Cancelar = todas as anotações`);
-  const keys=useBookOnly?bookKeys:allKeys;
-
-  if(!keys.length){toast(`Sem anotações em ${bookName}`);return}
-
-  const title=useBookOnly?`Anotações Bíblicas — ${bookName}`:'Anotações Bíblicas';
-  const text=notesTextForKeys(keys,title);
-  if(navigator.share){
-    try{
-      await navigator.share({title,text});
-      return;
-    }catch(err){
-      if(err&&err.name==='AbortError')return;
-    }
-  }
-  navigator.clipboard?.writeText(text).then(()=>toast('Anotações copiadas')).catch(()=>toast('Não foi possível partilhar'));
-});
-
 function cycleFontScale(){
   const values=[1,1.15,1.3,1.45];
   const current=state.fontScale || 1;
@@ -706,13 +645,13 @@ function cycleFontScale(){
 }
 
 $('menu-btn').addEventListener('click',()=>{$('sidebar').classList.toggle('open');$('overlay').classList.toggle('open')});
-$('overlay').addEventListener('click',()=>{$('sidebar').classList.remove('open');$('search-panel').classList.remove('open');$('notes-panel').classList.remove('open');$('overlay').classList.remove('open')});
-$('search-btn').addEventListener('click',()=>{$('search-panel').classList.add('open');$('notes-panel').classList.remove('open');$('overlay').classList.add('open');$('search-input').focus()});
+$('overlay').addEventListener('click',()=>{$('sidebar').classList.remove('open');$('search-panel').classList.remove('open');$('overlay').classList.remove('open')});
+$('search-btn').addEventListener('click',()=>{$('search-panel').classList.add('open');$('overlay').classList.add('open');$('search-input').focus()});
 $('search-close').addEventListener('click',closeSearch);
 function closeSearch(){$('search-panel').classList.remove('open');$('overlay').classList.remove('open')}
-$('notes-btn').addEventListener('click',()=>{renderNotesPanel();$('notes-panel').classList.add('open');$('search-panel').classList.remove('open');$('overlay').classList.add('open')});
-$('notes-close').addEventListener('click',closeNotes);
-function closeNotes(){$('notes-panel').classList.remove('open');$('overlay').classList.remove('open')}
+$('copy-selection-btn').addEventListener('click',copySelectedVerses);
+$('share-selection-btn').addEventListener('click',shareSelectedVerses);
+$('clear-selection-btn').addEventListener('click',()=>clearVerseSelection(true));
 $('font-btn').addEventListener('click',cycleFontScale);
 $('theme-btn').addEventListener('click',()=>{const dark=document.documentElement.dataset.theme==='dark';document.documentElement.dataset.theme=dark?'':'dark';localStorage.setItem('biblia-theme',dark?'light':'dark')});
 if(localStorage.getItem('biblia-theme')==='dark')document.documentElement.dataset.theme='dark';
@@ -726,7 +665,6 @@ function goHomeFromLogo(){
   renderSidebar();
   $('sidebar').classList.remove('open');
   $('search-panel').classList.remove('open');
-  $('notes-panel').classList.remove('open');
   $('overlay').classList.remove('open');
 }
 $('topbar-logo').addEventListener('click',goHomeFromLogo);
