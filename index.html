@@ -249,7 +249,7 @@
 
 <script>
 'use strict';
-const APP_VERSION='4.12';
+const APP_VERSION='4.13';
 const APP_COMMIT_DATE='junho 2026';
 const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{}},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1')};
 applyFontScale();
@@ -257,7 +257,8 @@ function $(id){return document.getElementById(id)}
 function toast(msg,dur=2200){const el=$('toast');el.textContent=msg;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),dur)}
 function applyFontScale(){document.documentElement.style.setProperty('--reader-font-scale', state.fontScale || 1)}
 function reportErrorHref(){return `mailto:h.varios@gmail.com?subject=${encodeURIComponent('Erro - Bíblia CEP v.'+APP_VERSION)}`}
-if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js').catch(()=>{});
+if('serviceWorker'in navigator)navigator.serviceWorker.register(`./sw.js?v=${APP_VERSION}`).catch(()=>{});
+if('caches'in window)caches.keys().then(keys=>Promise.all(keys.filter(k=>!k.includes(APP_VERSION)).map(k=>caches.delete(k)))).catch(()=>{});
 
 
 const CANON=[
@@ -301,12 +302,15 @@ const BOOK_ALIASES={
   '2 joao':['ii joao','segunda joao'],
   '3 joao':['iii joao','terceira joao']
 };
+function canonicalBookToken(name){
+  return normBookName(name).replace(/^evangelho de /,'').replace(/^(sao|santo|santa) /,'');
+}
 function findBookByName(name){
-  const wanted=normBookName(name);
-  const variants=[wanted,`evangelho de ${wanted}`,...(BOOK_ALIASES[wanted]||[])];
+  const wanted=canonicalBookToken(name);
+  const variants=[wanted,`evangelho de ${wanted}`,...(BOOK_ALIASES[wanted]||[])].map(canonicalBookToken);
   return state.books.find(b=>{
-    const actual=normBookName(b.book).replace(/^evangelho de /,'');
-    return variants.includes(normBookName(b.book))||variants.includes(actual);
+    const actual=canonicalBookToken(b.book);
+    return variants.includes(actual);
   });
 }
 function getBookChapterRefs(book){
@@ -321,7 +325,7 @@ function currentTestamentId(){for(const testament of CANON){for(const group of t
 function currentGroupId(){for(const testament of CANON){for(const group of testament.groups){if(group.books.some(name=>findBookByName(name)===state.currentBook))return group.id}}return ''}
 
 async function loadData(){
-  const res=await fetch('./data/books-index.json');
+  const res=await fetch(`./data/books-index.json?v=${APP_VERSION}`, {cache:'no-store'});
   if(!res.ok)throw new Error(`Não foi possível carregar o índice dos livros (${res.status})`);
   const data=await res.json();
   state.books=data.books||[];
@@ -333,7 +337,7 @@ async function loadBook(book){
   if(!book)throw new Error('Livro inválido');
   if(bookIsLoaded(book))return book;
   if(!book.file)throw new Error(`Livro sem ficheiro associado: ${book.book}`);
-  const res=await fetch(`./data/${book.file}`);
+  const res=await fetch(`./data/${book.file}?v=${APP_VERSION}`, {cache:'no-store'});
   if(!res.ok)throw new Error(`Não foi possível carregar ${book.book} (${res.status})`);
   const data=await res.json();
   const meta={id:book.id,file:book.file,available:book.available};
@@ -522,7 +526,8 @@ function renderChapter(book,chapter){
   
   chapter.verses.forEach(verse=>{
     const block=document.createElement('div');
-    block.className='verse-block';block.dataset.verse=verse.verse;block.dataset.book=book.book;block.dataset.chapter=chapter.chapter;block.dataset.text=verse.text;block.dataset.key=selectionKey(book.book,chapter.chapter,verse.verse);
+    const key=selectionKey(book.book,chapter.chapter,verse.verse);
+    block.className='verse-block';block.dataset.verse=verse.verse;block.dataset.book=book.book;block.dataset.chapter=chapter.chapter;block.dataset.text=verse.text;block.dataset.key=key;
     let txt=`<span class="verse-text">${esc(verse.text)}`;
     if(verse.note_refs&&verse.note_refs.length&&verse.notes)
       verse.note_refs.forEach(r=>{txt+=`<a class="note-marker" data-note="${r}" title="Nota ${r}">${r}</a>`});
