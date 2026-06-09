@@ -174,6 +174,7 @@
       #search-panel .panel-header{padding-left:calc(16px + var(--safe-left));padding-right:calc(12px + var(--safe-right))}
       #selection-bar{left:12px;right:12px;bottom:14px;flex-wrap:wrap;border-radius:18px}
       #selection-count{width:100%;text-align:center}
+      #update-banner{left:12px;right:12px;bottom:14px;flex-wrap:wrap;border-radius:18px;text-align:center}
     }
     @media(min-width:701px){
       #topbar{left:var(--sidebar-w)}
@@ -183,6 +184,11 @@
     ::-webkit-scrollbar{width:5px}
     ::-webkit-scrollbar-track{background:transparent}
     ::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
+
+    #update-banner{position:fixed;left:calc(var(--sidebar-w) + 16px);right:16px;bottom:18px;background:var(--bg2);border:1px solid var(--border);box-shadow:0 4px 18px var(--shadow);border-radius:999px;padding:8px 10px;display:none;align-items:center;justify-content:center;gap:10px;z-index:500;font-family:var(--font-ui);font-size:.8rem;color:var(--ink2);letter-spacing:.04em}
+    #update-banner.open{display:flex}
+    #update-now-btn{background:var(--gold);border:1px solid var(--gold);border-radius:999px;color:#fff;padding:5px 12px;font-family:var(--font-ui);font-size:.76rem;cursor:pointer;letter-spacing:.04em}
+    #update-now-btn:hover{background:var(--gold-lt)}
     #toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:8px 20px;border-radius:20px;font-size:.85rem;font-family:var(--font-ui);letter-spacing:.05em;z-index:999;opacity:0;transition:opacity .2s;pointer-events:none}
     #toast.show{opacity:1}
   </style>
@@ -245,11 +251,16 @@
   <button class="selection-btn" id="clear-selection-btn">Limpar</button>
 </div>
 
+<div id="update-banner" role="status" aria-live="polite">
+  <span>Nova versão disponível</span>
+  <button id="update-now-btn" type="button">Atualizar</button>
+</div>
+
 <div id="toast"></div>
 
 <script>
 'use strict';
-const APP_VERSION='4.13';
+const APP_VERSION='4.14';
 const APP_COMMIT_DATE='junho 2026';
 const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{}},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1')};
 applyFontScale();
@@ -257,8 +268,36 @@ function $(id){return document.getElementById(id)}
 function toast(msg,dur=2200){const el=$('toast');el.textContent=msg;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),dur)}
 function applyFontScale(){document.documentElement.style.setProperty('--reader-font-scale', state.fontScale || 1)}
 function reportErrorHref(){return `mailto:h.varios@gmail.com?subject=${encodeURIComponent('Erro - Bíblia CEP v.'+APP_VERSION)}`}
-if('serviceWorker'in navigator)navigator.serviceWorker.register(`./sw.js?v=${APP_VERSION}`).catch(()=>{});
-if('caches'in window)caches.keys().then(keys=>Promise.all(keys.filter(k=>!k.includes(APP_VERSION)).map(k=>caches.delete(k)))).catch(()=>{});
+let refreshingForUpdate=false;
+function showUpdateBanner(worker){
+  const bar=$('update-banner');
+  const btn=$('update-now-btn');
+  if(!bar||!btn)return;
+  bar.classList.add('open');
+  btn.onclick=()=>{
+    if(worker)worker.postMessage({type:'SKIP_WAITING'});
+    else location.reload();
+  };
+}
+function setupServiceWorkerUpdates(){
+  if(!('serviceWorker'in navigator))return;
+  navigator.serviceWorker.register(`./sw.js?v=${APP_VERSION}`).then(reg=>{
+    if(reg.waiting)showUpdateBanner(reg.waiting);
+    reg.addEventListener('updatefound',()=>{
+      const worker=reg.installing;
+      if(!worker)return;
+      worker.addEventListener('statechange',()=>{
+        if(worker.state==='installed'&&navigator.serviceWorker.controller)showUpdateBanner(worker);
+      });
+    });
+  }).catch(()=>{});
+  navigator.serviceWorker.addEventListener('controllerchange',()=>{
+    if(refreshingForUpdate)return;
+    refreshingForUpdate=true;
+    location.reload();
+  });
+}
+setupServiceWorkerUpdates();
 
 
 const CANON=[
