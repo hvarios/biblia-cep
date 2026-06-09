@@ -1,0 +1,4735 @@
+{
+  "book": "Provérbios",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Provérbios de Salomão, filho de David, rei de Israel.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "para conhecer sabedoria e educação, para compreender as sentenças de inteligência,",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "para adquirir uma educação de entendimento, justiça, retidão e integridade,",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "para dar aos inexperientes a prudência, e ao jovem, o conhecimento e a ponderação.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "O sábio escutará e aumentará a experiência e o inteligente alcançará competência",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "para compreender o provérbio e a alegoria, as palavras dos sábios e os seus enigmas.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "O temor do S enhor é o princípio do conhecimento; os estúpidos desprezam sabedoria e a educação.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Escuta, meu filho, a educação do teu pai e não repudies a instrução da tua mãe,",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "porque eles serão um adorno de encanto para a tua cabeça e colares para o teu pescoço.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Meu filho, se os pecadores te quiserem seduzir, não consintas nisso!",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Se te disserem: «Anda connosco! A A A Façamos uma emboscada para derra mar sangue, armemos ciladas ao inocente, sem motivo;",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "como faz o mundo dos mortos, devoremo-los vivos, inteiros, como os que descem à cova.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Encontraremos toda a espécie de bens preciosos e encheremos as nossas casas de despojos;",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "tu tirarás a tua parte como um de nós e teremos todos uma única bolsa!»",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Meu filho, não faças caminho com eles, evita que o teu pé siga as suas sendas,",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "porque os seus pés correm para o mal e eles apressam-se a derramar san gue.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Porque em vão se lança a rede à vista de qualquer espécie de aves.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Eles fazem emboscadas pondo em risco o seu próprio sangue e armam ciladas contra as suas vidas.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Assim são os atalhos de todo o que tem ganância desmedida, pois ela tira a vida aos ambiciosos.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "A sabedoria clama nas ruas, nas praças ergue a sua voz;",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "por cima dos grandes tumultos ela clama, às portas da cidade profere o seu discurso:",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "«Até quando, ó ingénuos, amareis a ingenuidade? Até quando os zombadores apreciarão a zombaria e os insensatos odiarão o conhecimento?",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Voltai às minhas admoestações, eis que vou derramar sobre vós o meu espírito, dar-vos a conhecer as minhas palavras.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Uma vez que chamei e recusastes, estendi a minha mão e ninguém prestou atenção,",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "rejeitastes cada um dos meus conselhos e não aceitastes a minha admoestação,",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "também eu me hei de rir na vossa adversidade, zombarei quando o terror vier sobre vós,",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "quando o terror vier sobre vós como uma catástrofe, quando a desgraça chegar como uma tempestade, quando vos atingirem a angústia e a tribulação.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Então chamarão por mim, mas eu não responderei; madrugarão à minha procura e não me encontrarão.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Porque odiaram o conhecimento e não escolheram o temor do S enhor,",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "não quiseram saber do meu conselho e rejeitaram todas as minhas admoestações.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "Por isso de comer do fruto da sua conduta e saciar-se com as suas maquinações.",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "Pois a recusa mata os ingénuos e a despreocupação dos insensatos os destruirá.",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "Mas aquele que me escuta viverá seguro e tranquilo, sem temer nenhum mal».",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Meu filho, se acolheres as minhas palavras e guardares contigo os meus preceitos,",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "dando ouvidos à sabedoria e inclinando o teu coração à inteligência;",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "sim, se invocares o entendimento e emprestares a tua voz à inteligência,",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "se a procurares como a prata e a buscares como tesouros escondidos,",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "então compreenderás o temor do Senhor e encontrarás o conhecimento de Deus.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Pois é o S enhor que dá a sabedoria, da sua boca procedem o saber e o entendimento,",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "garante o sucesso aos homens íntegros; como escudo para os que se comportam com inteireza,",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "protege as sendas da justiça e guarda os caminhos dos seus fiéis.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Então compreenderás a justiça e o direito, a retidão e todos os roteiros do bem,",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "pois a sabedoria entrará no teu coração e o conhecimento será delícia para a tua alma.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "A reflexão guardar-te-á e o entendimento proteger-te-á,",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "para te livrar do caminho do mal, do homem que propõe coisas per versas,",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "dos que abandonam as sendas do que é correto, andando por caminhos tenebro sos,",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "dos que se alegram em fazer o mal e se regozijam com as perversidades do mal,",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "daqueles cujos percursos são tor tuosos e se transviam nas suas veredas;",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "para te livrar da mulher estranha, da estrangeira de palavras se dutoras,",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "que abandona o companheiro da sua juventude e esqueceu a aliança do seu Deus.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Pois a sua casa resvala para a morte, e os seus percursos, para o mundo das Sombras;",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "todos os que vão até ela não voltarão nem recuperarão os sendeiros da vida.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Assim andarás pelo caminho dos bons e seguirás as sendas dos justos.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Pois os homens retos habi tarão a terra e os homens íntegros per ma necerão nela,",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "mas os malfeitores serão exterminados da terra e os traidores serão varridos dela.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Meu filho, não esqueças a minha instrução e que o teu coração guarde os meus preceitos,",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "porque eles te darão longos dias e anos de vida e te acrescentarão a paz.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Não te abandonem a misericórdia e a fidelidade: prende-as como um colar ao teu pescoço, grava-as na tábua do teu coração",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "e encontrarás favor e bom êxito aos olhos de Deus e dos homens.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Confia no Senhor de todo o teu coração e não te apoies na tua inteligência;",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "procura conhecê-lo em todos os teus caminhos e Ele aplanará as tuas sendas.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Não te tomes por sábio a teus próprios olhos, teme antes o S enhor e afasta-te do mal.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Isto será remédio para o teu corpo e alívio para os teus ossos.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Honra o S enhor com os teus haveres e com as primícias de todas as tuas colheitas;",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "e os teus celeiros ficarão completamente cheios e os teus lagares transbordarão de vinho novo.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Meu filho, não rejeites a educação do Senhor, nem te irrites com as suas correções,",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "porque o S enhor corrige aquele que ama, tal como faz um pai ao filho preferido.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Feliz daquele que encontrou a sabedoria, daquele que adquiriu a inteligência,",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "porque vale mais este lucro que o da prata e o seu rendimento é melhor que o ouro fino.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Ela é mais preciosa que as pérolas; e nada do que possas desejar se lhe compara.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Na sua mão direita está o prolongamento dos dias, na sua esquerda, riqueza e glória.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Os seus caminhos são caminhos que agradam e todas as suas sendas são de paz.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Ela é uma árvore de vida para quem a alcançar: aqueles que se agarram a ela são felizes.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Pela sabedoria o S enhor fundou a terra, pela inteligência estabeleceu os céus.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Pelo seu conhecimento se abriram os abismos e as nuvens destilam o orvalho.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Meu filho, não percas de vista estas coisas: guarda a ponderação e a prudência.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Elas serão vida para a tua alma e encanto para o teu pescoço.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Então, percorrerás com segu rança o teu caminho e o teu pé não tropeçará.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Quando te deitares não te atemorizarás; uma vez deitado, o teu sono será suave.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Não temas qualquer terror impre visto, nem a catástrofe dos malfeitores, quando chegar.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Pois o S enhor estará ao teu lado e defenderá o teu pé da arma dilha.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Não recuses o bem a quem ele é devido, quando estiver na tua mão fazê-lo.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Se tens algo que dar, não digas ao teu próximo: «Vai-te embora e volta depois. Amanhã te darei».",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Não planeies o mal contra o teu próximo, ele que mora confiante ao teu lado.",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "Não discutas sem motivo com ninguém, se ele não te tiver feito qualquer mal.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "Não tenhas inveja do homem violento, nem escolhas nenhum dos seus caminhos;",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "pois os perversos são uma abominação para o S enhor, mas com os íntegros Ele tem intimidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "A maldição do S enhor pesa sobre a casa do malfeitor, mas Ele abençoa a morada dos justos.",
+          "note_refs": []
+        },
+        {
+          "verse": 34,
+          "text": "Ele zomba dos zombadores, mas aos humildes concede favor.",
+          "note_refs": []
+        },
+        {
+          "verse": 35,
+          "text": "Os sábios herdarão a glória, mas os insensatos amontoam desonra.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Escutai, filhos, a educação de um pai; prestai atenção, para conhecerdes a inteligência.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Pois é uma boa lição a que vos deixei; não abandoneis a minha instrução.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Também eu fui filho do meu pai, querido e único aos olhos da minha mãe.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Ele instruiu-me, dizendo: «Que o teu coração acolha as minhas palavras; observa os meus preceitos e viverás.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Adquire a sabedoria, adquire a inteligência; não te esqueças nem te desvies das palavras da minha boca.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Não a abandones e ela te protegerá, ama-a e ela te guardará.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "O princípio da sabedoria é: adquire sabedoria; e com tudo o que possuíres adquire inteligência.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Aprecia-a e ela te exaltará; abraça-a e ela te honrará.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Ela colocará na tua cabeça um adorno de encanto e proteger-te-á com uma coroa de esplendor.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Escuta, meu filho, e acolhe as minhas palavras e multiplicar-se-ão para ti anos de vida.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Eu orientei-te pelo caminho da sabedoria, encaminhei-te por trilhos de retidão.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Quando caminhares, não ficarão apertados os teus passos e, se correres, não tropeçarás.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Mantém-te firme na educação que tiveste, não falhes; conserva-a, porque é a tua vida.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Não entres pelas veredas dos malfeitores nem andes pelo caminho dos maus.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Evita-o, não passes por ele, desvia-te dele e passa ao largo.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Pois eles não dormem, senão praticarem o mal; ficam sem sono, se não fizerem tropeçar alguém.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Comem o pão da maldade e bebem o vinho da violência.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Mas a vereda dos justos é como luz que desponta e essa luz vai crescendo até estar firme o dia.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "O caminho dos malfeitores é como a escuridão; eles não sabem onde vão tropeçar.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Meu filho, presta atenção às minhas pa la vras, inclina o teu ouvido ao que te digo.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Que elas não se desviem dos teus olhos; guarda-as dentro do teu co ração,",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "porque são vida para aqueles que as encontram e remédio para todo o seu corpo.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Mais que tudo guarda diligentemente o teu coração, pois dele fluem as nascentes da vida.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Desvia de ti a linguagem enga nosa, afasta de ti a maledicência.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Que os teus olhos olhem em frente e que o teu olhar veja direito diante de ti.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Mantém direita a rota dos teus pés e todos os teus ca minhos serão firmes!",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Não te desvies para a di reita nem para a esquerda e afasta os teus pés do mal.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Meu filho, presta atenção à minha sa be doria, inclina o teu ouvido à minha experiência,",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "a fim de guardares a ponderação; e os teus lábios guardarão o conhecimento.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Porque os lábios da mulher estranha des tilam mel e o seu falar é mais suave que o azeite.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Mas no fim ela é amarga como o absinto, cortante como a espada de dois gumes.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Os seus pés escorregam para a morte e os seus passos levam ao mundo dos mortos.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Ela não pondera sobre o ca mi nho da vida, as suas rotas extraviam-se e ela não sabe.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "E agora, fi lhos, escutai-me e não vos afasteis das palavras da minha boca.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Afasta de junto dela o teu caminho e não te aproximes da porta da sua casa,",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "para não entregares a outros a tua honra e os teus anos a uma gente cruel;",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "para que os estranhos não se saciem com o teu esforço e o fruto dos teus trabalhos não fique em casa alheia.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Pois no fim tu terias de gemer, quando a tua carne e o teu corpo se consumissem,",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "e terias de dizer: «Como fui eu odiar a educação e o meu coração desprezou a repreensão?",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Porque não escutei a voz dos que me instruíam nem dei ouvidos aos que me ensinavam?",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Cheguei quase ao cúmulo da desgraça no meio da assembleia e da comu nidade».",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Bebe da água da tua cisterna, da água que nasce dentro do teu poço.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Deveriam transbordar para fora as tuas fontes e as torrentes de água perder-se pelas praças?",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Que elas sejam somente para ti e não para os es tranhos que estão contigo.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Que a tua fonte seja abençoada e tu alegra-te com a mulher da tua juventude,",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "corça amorosa, gazela encanta dora. Que os seus seios te inebriem em todo o tempo e sejas continuamente atraído pelo seu amor.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Por que te deixas atrair por outra mulher, meu filho, e abraças o peito de uma estrangeira?",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Pois os caminhos do homem estão sob o olhar do S enhor e Ele pondera todas as suas rotas.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "O malfeitor fica prisioneiro das suas iniquidades e é amarrado com as cadeias do seu pecado.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Morrerá por falta de disciplina e será arrastado pelo excesso da sua insensatez.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Meu filho, se ficaste fiador do teu próximo, se deste um aperto de mão a um estra nho,",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "se te comprometeste pelas palavras dos teus lábios, se ficaste preso pelas palavras dos teus lábios,",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "procede assim, meu filho, e liberta-te; já que ficaste nas mãos do teu pró ximo: vai, humilha-te e insiste junto do teu pró ximo.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Não concedas sono aos teus olhos nem repouso às tuas pálpebras.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Liberta-te do laço como a gazela, e do laço estendido, como o pássaro.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Vai ver a for miga, ó preguiçoso, observa os seus caminhos e sê sábio.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Ela não tem comandante, intendente ou supervisor;",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "no verão, prepara o seu alimento, no tempo da ceifa, junta a sua comida.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Até quando dormirás tu, ó pre guiçoso? Quando te levantarás do teu sono?",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "É um pouco a dormir, um pouco a dormitar e um pouco a cruzar os braços para descansar.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "E assim a pobreza cai sobre ti como um assaltante, e a indigência, como um homem ar mado.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "O homem perverso, o iníquo anda com a falsidade na boca:",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "pisca os olhos, bate com os pés, faz sinais com os dedos;",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "no seu coração há insídias, está sempre a maquinar o mal e a todo o momento lança dis cór dias.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Por isso, a desgraça virá sobre ele de improviso e, num momento, ficará arrui nado e não terá remédio.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Seis são as coisas que o S e nhor detesta e sete, aquelas que Ele abo mina:",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "olhos altivos, língua mentirosa, mãos que derramam sangue ino cente,",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "coração que maquina planos iníquos, pés apressados em correr para o mal,",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "testemunha falsa que profere men tiras e o que lança discórdias entre irmãos.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Meu filho, guarda os preceitos do teu pai e não desprezes a instrução da tua mãe.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Ata-os constantemente sobre o teu coração, põe-nos em volta do teu pescoço.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Servir-te-ão de guia no teu ca mi nho, velarão por ti quando te deitares e falarão contigo quando desper ta res.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Pois o preceito é uma lâmpada e a instrução, uma luz; e as correções da educação são caminho de vida.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Eles guardar-te-ão da mulher do próximo e da língua sedutora da mulher estranha.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Não cobices em teu coração a sua formosura nem te deixes prender dos seus olhares.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Pois à prostituta basta um pe daço de pão, a mulher casada vai à caça de uma vida preciosa.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Será que um homem pode levar fogo no seu seio, sem que as suas vestes se incendeiem?",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Ou pode alguém caminhar so bre brasas, sem que os seus pés se queimem?",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Assim é quem se aproxima da mu lher do seu próximo; quem lhe tocar não ficará impune.",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "Não se incrimina o ladrão que rouba para saciar o apetite, porque tem fome;",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "mas, se for apanhado, resti tui rá sete vezes mais e entregará todos os bens da sua casa.",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "Quem comete adultério com uma mulher tem falta de sensatez, quem assim faz arruína-se a si mesmo.",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "Esse encontrará infâmia e igno mí nia e o seu opróbrio jamais se apa gará.",
+          "note_refs": []
+        },
+        {
+          "verse": 34,
+          "text": "Pois o marido fica furioso e ultra jado e não terá piedade no dia da vin gança.",
+          "note_refs": []
+        },
+        {
+          "verse": 35,
+          "text": "Ele não te perdoará por qualquer compensação, nem aceitará que multipliques presentes de suborno.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Meu filho, guarda as minhas pa la vras, conserva os meus preceitos junto de ti como um tesouro;",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "guarda os meus preceitos e viverás e a minha instrução, como a menina dos teus olhos.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Prende-os aos teus dedos, escreve-os na tábua do teu cora ção.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Diz à sabedoria: «Tu és minha ir mã», e chama «amiga» à inteligência,",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "para que te guarde da mulher estranha, da estrangeira que seduz com as suas pala vras.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Um dia, à janela da mi nha casa, olhava eu por entre as frestas",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "a observar um grupo de ingénuos e vi, no meio deles, um jovem in sensato.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Passando pela rua, junto à esquina, dirigiu os passos para a casa dela.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Era ao crepúsculo, ao entardecer do dia, no meio da noite e da escuridão.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "E eis que uma mulher lhe sai ao encontro, com modos de prostituta e coração dissimulado,",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "provocadora e insolente; os seus pés não param dentro da sua casa.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Umas vezes na rua outras nas praças, a cada esquina ela está à espreita.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Agarra o jovem, dá-lhe um beijo e diz-lhe com ar atrevido:",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "«Tinha prometido sacrifícios de comu nhão e hoje cumpri o meu voto.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Por isso saí ao teu encontro, procurando ver o teu rosto e eis que te achei.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Adornei a minha cama de col chas, tecidos coloridos de linho do Egito.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Perfumei o meu leito com mirra, aloés e cinamomo.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Vem! Embriaguemo-nos de carícias até amanhecer, deleitemo-nos de amores,",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "porque o meu marido não está em sua casa; foi fazer uma longa viagem,",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "levou consigo a bolsa com o di nheiro e só voltará a sua casa no dia da lua-cheia.»",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Foi-o desviando com a sua grande experiência e arrastou-o com a sedução dos seus lábios.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Ele foi imediatamente atrás dela, como um boi que vai para o matadouro e como um veado que é apanhado no laço",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "até que uma flecha lhe tres passa o fígado; é como a ave que se precipita na rede, sem saber que está em risco a sua vida.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "E agora, escutai-me, filhos, prestai atenção às pala vras da minha boca.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Que o teu coração não se desvie para os caminhos dela; não te extravies nas suas vere das,",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "porque ela fez cair muitas vítimas e eram fortes todos os que ela matou.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "A sua casa é caminho para o mundo dos mortos; e este desce para as moradas da morte.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Eis que a sabedoria chama e a inteligência levanta a sua voz!",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "No alto das colinas, ao longo do caminho, nas encruzilhadas das veredas ela se coloca.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Junto aos portões de entrada para a cidade, à entrada das portas ela brada:",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "«É por vós, homens, que eu clamo, a minha voz dirige-se aos filhos dos homens.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Vós, ingénuos, aprendei a prudência, e vós, insensatos, tende a inteligência de coração.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Escutai! Vou anunciar-vos coisas retas; e os meus lábios abrem-se para proclamar o direito.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Sim, a minha boca profere a ver dade e os meus lábios abominam a maldade.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Todas as palavras da minha boca são de justiça, nelas não há nada tortuoso ou rebuscado.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Todas são corretas para quem tem in teligência e direitas para os que encontram o conhecimento.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Aceitai a minha educação e não a prata: o conhecimento vale mais que o ouro fino.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Pois a sabedoria é melhor do que as pérolas e nenhuma das mais desejáveis se lhe compara.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Eu, a sabedoria, moro com a prudência e alcanço conhecimento e ponderação.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "O temor do consiste em odiar o mal. Também eu odeio a soberba e a arrogância, o caminho do mal e a boca cheia de insídias.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "A mim pertencem o conselho e o sucesso, eu sou a inteligência, é minha a fortaleza.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Por mim reinam os reis e os magistrados decretam a justiça;",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "por mim governam os governantes e os notáveis, todos os que exercem a justiça.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Eu amo aqueles que me amam, e aqueles que me procuram encontram-me.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Comigo há riqueza e glória, fortuna consolidada e justiça.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "O meu fruto é melhor que ouro, que ouro puro, e o meu produto vale mais que prata escolhida.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Eu ando pelo caminho da justiça, pelas sendas do direito,",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "para deixar uma herança aos que me amam, pois vou encher os seus tesouros.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "O S enhor criou-me como princípio do seu caminho, antes das suas criações mais antigas.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Desde a eternidade fui formada, desde o princípio, antes dos primórdios da terra.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Fui concebida quando não existiam os abismos nem existiam as fontes profundas das águas.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Antes de serem implantadas as montanhas, antes das colinas eu fui concebida;",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "ainda Ele não tinha feito a terra nem e os espaços de fora, nem as primeiras poeiras do universo.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Quando Ele firmava os céus, eu estava lá; quando estabelecia um círculo à superfície do abismo,",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "quando adensava as nuvens nas alturas, quando dava força às fontes dos abismos,",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "quando impunha ao mar o seu limite para que as águas não ultrapassassem a sua margem, quando estabelecia os fundamentos da terra,",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "então eu estava a seu lado como arquiteto. Eu estava em delícias, dia após dia, alegrando-me a todo o momento na sua presença,",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "alegrando-me no universo da sua terra, e as minhas delícias eram estar com os filhos dos homens.",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "E agora, filhos, escutai-me. Felizes aqueles que seguem os meus caminhos!",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "Escutai a exortação e sede sábios; não a rejeiteis.",
+          "note_refs": []
+        },
+        {
+          "verse": 34,
+          "text": "Feliz o homem que me escuta, vigiando às minhas portas dia após dia, guardando os umbrais da minha entrada.",
+          "note_refs": []
+        },
+        {
+          "verse": 35,
+          "text": "Pois quem me encontra encontra a vida e alcança benevolência da parte do S enhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 36,
+          "text": "Mas aquele que se desvia de mim prejudica-se a si mesmo; todos os que me odeiam amam a morte.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A Sabedoria edificou a sua casa e talhou as suas sete colunas.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Abateu os seus animais, fez a sua mistura de vinho e preparou a sua mesa.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Enviou as suas servas e proclamou pelos pontos mais altos da cidade:",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "«Quem é inexperiente venha por aqui». E ao insensato, ela diz-lhe:",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "«Vinde! Comei do meu pão e bebei do vinho que eu misturei.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Deixai a ingenuidade e vivei e segui pelo caminho da inteligência.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Quem corrige o trocista atrai sobre si o escárnio, e quem censura o malfeitor atrai o seu insulto.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Não corrijas o trocista, não aconteça que fique a odiar-te; repreende o sábio e ele te amará.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Dá ao sábio e ele ficará ainda mais sábio; ensina o justo e ele aumentará o saber.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "O princípio da sabedoria é o temor do S enhor e o conhecimento do Santo é inteligência.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Pois comigo multiplicar-se-ão os teus dias e anos de vida te serão acrescentados.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Se fores sábio, serás sábio para teu bem; se fores trocista, só tu terás de o suportar».",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Dona Insensatez é irrequieta; é sedução e não sabe de mais nada.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Senta-se à porta da sua casa, sobre um trono, no mais alto da cidade,",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "para chamar os que passam pelo caminho e seguem direitos o seu percurso:",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "«Quem é inexperiente desvie-se para aqui». E ao insensato ela diz:",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "«Águas roubadas sabem a doce e o pão às escondidas é mais saboroso».",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Ele não sabe que ali há apenas Sombras e os seus convidados estão no fundo do reino dos mortos.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Provérbios de Salomão: Um filho sábio dá alegria ao pai, e um filho insensato é a aflição da sua mãe.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Os tesouros do crime de nada servem, mas a justiça livra da morte.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "O S enhor não deixa o justo pas sar fome, mas rejeita a ambição dos malfeitores.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "A mão preguiçosa traz pobreza, mas a mão dos diligentes enriquece.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Aquele que recolhe no verão é previdente; aquele que dormita durante a ceifa é uma vergonha.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "As bênçãos descem sobre a cabeça do justo e a boca dos malfeitores encobre a violência.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "A memória do justo é de bênção, mas o nome do malfeitor apodrecerá.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "O sábio de coração acolhe os mandamentos, mas o que profere idiotices cairá em ruína.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Quem caminha na integridade caminha seguro, mas o que perverte os seus caminhos será descoberto.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Quem pisca um olho causa problemas e quem profere idiotices cairá em ruína.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "A boca do justo é fonte de vida, mas a boca dos malfeitores encobre a violência.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "O ódio suscita conflitos, mas o amor cobre todas as faltas.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Nos lábios do inteligente encontra-se a sabedoria, a vara é para as costas do que tem falta de entendimento.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Os sábios entesouram conhecimento, mas a boca do estúpido é uma ruína iminente.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "A fortuna do rico é o baluarte da sua força; a ruína dos pobres é a sua pobreza.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "O salário do justo é para a vida; o ganho do malfeitor, para o fracasso.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Quem guarda a disciplina caminha para a vida, mas quem abandona a advertência extravia-se.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Os lábios mentirosos escondem o ódio; quem espalha a calúnia é louco.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Onde abundam as palavras não falta a ofensa, mas quem refreia os seus lábios é inteligente.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "A língua do justo é prata escolhida, mas o coração dos malfeitores pouco vale.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Os lábios do justo apascentam muitos, mas os estúpidos morrem por falta de entendimento.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "A bênção do S enhor produz riqueza, e o esforço que a acompanha não acrescenta nada.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Planear maldades é um divertimento para o insensato, a sabedoria é o do homem inteligente.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "O que o malfeitor teme é o que lhe vai acontecer; mas o desejo dos justos será concedido.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Quando passa a tempestade, o malvado deixa de existir, mas o justo está firme para sempre.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Como o vinagre nos dentes e o fumo nos olhos, assim é o preguiçoso para os que o enviam.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "O temor do S enhor prolonga os dias, mas os anos dos malfeitores serão abreviados.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "A expectativa dos justos é de alegria, mas a esperança dos malfeitores desvanecer-se-á.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "O caminho do S enhor é fortaleza para o integro, mas é ruína para os que praticam o mal.",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "O justo jamais será abalado, mas os malfeitores não habitarão a terra.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "A boca do justo produz sabedoria, mas a língua que diz falsidades será cortada.",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "Os lábios do justo conhecem a benevolência e a boca dos malfeitores, as falsidades.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Balanças falsas são coisa abominável aos olhos do S enhor; mas o peso correto é do seu agrado.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Quando vem o orgulho vem também a desonra; mas a sabedoria está com os modestos.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "A integridade dos que são retos há de guiá-los; mas a falsidade dos traidores devastá-los-á.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "No dia da ira, a fortuna de nada serve, mas a justiça livra da morte.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "A justiça dos íntegros endireita-lhes o caminho, mas o malfeitor cairá pela sua maldade.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "A justiça dos retos livrá-los-á, mas os traidores serão dominados pela sua ambição.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Quando morre um malfeitor acaba-se a esperança; de igual modo acabará a sua expectativa nas riquezas.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "O justo liberta-se da angústia, mas o mal feitor vai cair nela.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Com a boca o hipócrita arruína o seu próximo, mas pelo conhecimento os justos serão libertados.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "A cidade exulta com o bem dos justos e rejubila com a perdição dos malvados.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "A cidade é engrandecida com a bên ção dos retos e arruinada pela boca dos malfeitores.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Aquele que não tem senso despreza o seu próximo, mas o homem com entendimento sabe calar.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "O que anda a murmurar revela os segredos, mas o homem de confiança resguarda as palavras.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Por falta de estratégias arruína-se um povo, mas há salvação na abundância de conselho.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Quem é fiador de um es tranho ficará prejudicado, mas quem recusa tais compromissos estará seguro.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "A mulher que tem encanto alcançará gló ria e os homens diligentes alcança rão fortuna.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "O homem misericordioso faz bem a si mesmo, mas o cruel magoa-se a si próprio.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "O malfeitor tem um ganho falso, mas o que semeia justiça tem um salário verdadeiro.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Quem está firme na justiça caminha para a vida e o que persegue o mal, para a sua morte.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "O Senhor abomina os de cora ção distorcido, mas são do seu agrado os de caminho íntegro.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Cedo ou tarde, o iníquo não ficará sem castigo, mas a descendência dos justos escapará.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Anel de ouro em focinho de porco, tal é a mulher formosa desprovida de senso.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "O desejo dos justos é apenas o bem, o que espera os malfeitores é a ira.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Quem reparte recolhe ainda mais, mas quem retém aquilo que deve terá apenas pobreza.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Quem tem alma generosa prosperará e quem dá de beber receberá de beber também.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Aquele que recusa dar o trigo será amal diçoado pelo povo, mas a bênção descerá sobre a cabeça dos que o distribuem.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Aquele que busca o bem procura agrado e quem corre atrás do mal, este cairá sobre ele.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "O que confia na sua riqueza murcha, mas os justos crescerão como folhas novas.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Quem lança desordem na sua casa herdará o vento; o estulto será servo do que é sá bio de coração.",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "O fruto do justo é uma árvore de vida e o sábio conquista as pessoas.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "Se o justo recebe a paga aqui na terra, quanto mais o malfeitor e pecador!",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Aquele que ama a disciplina ama o conhecimento, mas o que odeia a repreensão embrutece.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "O homem bom obtém agrado da parte do S enhor, mas Deus condena aquele que planeia maldades.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Com o crime o homem não alcança solidez, mas a raiz dos justos não será abalada.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "A mulher de valor é a coroa do seu marido, mas a que o envergonha é como cárie a corroer os seus ossos.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Os pensamentos dos justos vão pelo direito, mas os planos dos malfeitores são uma fraude.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "As palavras dos malfeitores são armadilha mortal, mas a boca dos homens retos liberta-os.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Os malfeitores são derrubados e não subsistem, mas a casa dos justos permane cerá de pé.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "O homem é elogiado pelo seu bom senso, mas o de coração perverso será desprezado.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Mais vale um homem desconsiderado que trabalha para si que um pretensioso que não tem que comer.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "O justo conhece o desejo do seu gado, mas as entranhas dos malfeitores são cruéis.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Aquele que cultiva a sua terra será saciado de pão, mas o que persegue futilidades tem falta de senso.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "A ânsia do crime é a armadilha dos maus, mas a raiz do justo dará fruto.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "O mau enreda-se em palavras criminosas, mas o justo escapa da angústia.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Com o fruto da sua boca o homem sacia-se de bens e segundo as obras das suas mãos ser-lhe-á retribuído.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "O caminho do estúpido é o correto a seus olhos, porém o sábio escuta os con selhos.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "No próprio dia se conhece a irritação do estúpido, mas o homem astuto encobre a afronta.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "O que fala verdade proclama a justiça, mas a falsa testemunha proclama a mentira.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Há quem se exprima como a golpes de espada; porém, a língua dos sábios traz a cura.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "A boca verdadeira está firme para sempre; a língua mentirosa dura apenas um instante.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Há falsidade no coração dos que congeminam o mal, mas para os que dão conselhos de paz há alegria.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Nenhuma maldade atingirá o justo, mas os malfeitores ficam cheios de desgraças.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "O S enhor abomina os lábios men tirosos, mas os que praticam a verdade são do seu agrado.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "O homem astuto encobre o seu saber, mas o coração dos insensatos pro clama a sua estupidez.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "A mão dos diligentes governará, mas a mão preguiçosa é obrigada à servidão.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "A preocupação no cora ção do homem deprime-o, mas uma boa palavra dá-lhe alegria.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "O justo evita o que é mau para si, mas o caminho dos malvados extravia-os.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "O preguiçoso não chega a assar a sua caça, mas a diligência é um bem precioso para o homem.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Na senda da jus tiça está a vida, mas há caminhos abertos para a morte.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O filho sábio é fruto da educação paterna, mas o insolente não escuta a re preensão.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "O homem de bem come do fruto da sua boca, mas o apetite dos traidores é a violência.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "O que controla a sua boca guarda a sua vida; o que se descontrola no falar tem a ruína.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "O preguiçoso bem deseja, mas nada obtém para o seu apetite, mas o apetite do diligente fica satis feito.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "O justo detesta palavras de mentira, o malfeitor envergonha e ofende.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "A justiça protege o homem de conduta íntegra, mas o pecado arruína o malfeitor.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Há quem se considere rico, não tendo nada, e quem se considere pobre, tendo uma grande fortuna.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "A riqueza de um homem é res gate para a sua vida, mas o pobre não ouve ameaças.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "A luz dos justos dá alegria; a lâmpada dos malfeitores extin guir-se-á.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Do orgulho só resulta discórdia, mas com os que aceitam conselho está a sabedoria.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "A fortuna ilusória vale pouco, mas quem junta por sua mão enriquece.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "A esperança adiada aflige o coração, mas o desejo realizado é uma ár vore de vida.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Aquele que menospreza a pala vra será penhorado, mas o que respeita o manda men to será recompensado.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "A instrução do sábio é fonte de vida para afastar dos laços da morte.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "O bom senso alcança fa vor, mas o caminho dos traidores é interminável.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Todo aquele que é prudente age com dis cernimento, mas o insensato expõe a estupidez.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Um mau mensageiro faz cair em desgraça, mas o enviado fiel traz a cura.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "O que despreza o ensinamento terá miséria e vergonha, mas aquele que observa a correção será honrado.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Um desejo que se realiza é doçura para a alma; afastar-se do mal é abominação para os insensatos.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Anda com os sábios e sê sábio; quem acompanha os insensatos vai sair-se mal.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "A desgraça persegue os peca dores; os justos serão recompensados com o bem.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Quem é bom deixa he rança para filhos e netos, mas a fortuna do pecador está reservada para os justos.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "No campo de rebusco dos pobres há comida abun dante, mas pode perder-se por falta de justiça.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Aquele que poupa o chicote odeia o seu filho; aquele que o ama procura corrigi-lo a tempo.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "O justo come para satisfazer a sua fome, mas o ventre dos malfeitores é insaciável.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A sabedoria das mulheres edificou a sua casa, a estupidez destrói-a com as suas mãos.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Aquele que caminha na sua justiça teme o S enhor; o que percorre caminhos tor tuosos despreza-o.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Da boca do estulto brota a arrogância, mas os lábios dos sábios resguardam-nos.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Onde não há bois, a manjedoura está vazia, pois na força do touro está a abun dância de produtos.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "A testemunha de verdade não engana, mas uma testemunha falsa profere men tiras.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "O insolente procura a sabedoria e não a encontra; para o inteligente o conhecimento é fácil.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Sai da frente do homem insensato, em cujos lábios não encontras conhecimento.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "A sabedoria do astuto leva-o a compreender o seu caminho; a estupidez dos insensatos é um engano.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "A culpa torna arrogantes os estultos e entre os que são retos reina a benevolência.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "O coração conhece a amargura da sua alma e nada estranho interfere na sua alegria.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "A casa dos malfeitores será des truída, mas a tenda dos homens retos flores cerá.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Há caminhos que pa recem retos aos olhos de um homem, mas, no fim, são caminhos de morte.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Mesmo no sorrir o coração pode sofrer, pois no fim do sorriso a alegria pode tornar-se afli ção.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Um coração desleal está satisfeito com os seus caminhos e o homem de bem, com as suas obras.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "O ingénuo dá crédito a qualquer palavra, mas o experiente está atento aos seus passos.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "O sábio teme e, por isso, afasta-se do mal; o insensato lança-se e sente-se seguro.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "O homem que se irrita comete lou curas; o homem de intrigas torna-se odioso.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Os ingénuos tiveram por herança a estupidez, mas os experientes serão coroados de conhecimento.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Os maus prostram-se diante dos bons e os malfeitores, às portas do justo.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "O pobre é odiado até pelo seu companheiro; mas são muitos os ami gos do rico.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Aquele que despreza o seu pró ximo, comete pecado; mas feliz aquele que é generoso para com os pobres.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Acaso não erram os que ma qui nam o mal? Mas os que constroem o bem terão misericórdia e fidelidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Em todo o esforço há algum proveito, mas palavras só de boca pro du zem apenas indigência.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "A coroa dos sábios é a sua ri queza; a estupidez dos insensatos é só estupidez.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "A testemunha fiel põe vidas a salvo; aquele que profere mentiras é impostor.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "No temor do S enhor há grande segurança e os seus filhos terão refúgio.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "O temor do S enhor é fonte de vida que afasta dos laços da morte.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Uma população numerosa é o esplendor de um rei, a falta de povo é a ruína de um prín cipe.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "O que é paciente é rico em prudência; o impulsivo eleva ao máximo a estupidez.",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "Um coração desprendido é a vida do corpo, mas a inveja corrói os os sos.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "O que oprime o pobre injuria o seu criador, mas honra-o aquele que se compadece do indigente.",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "O malfeitor será derrubado pela sua maldade; o justo, porém, mesmo na morte, está confiante.",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "A sabedoria repousa no coração ponderado e até entre os insensatos é reconhecida.",
+          "note_refs": []
+        },
+        {
+          "verse": 34,
+          "text": "A justiça engrandece um povo; o pecado é a decadência dos povos.",
+          "note_refs": []
+        },
+        {
+          "verse": 35,
+          "text": "A benevolência do rei é para o servo prudente; mas o seu furor é para aquele que o envergonha.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Uma resposta calma afasta a ira; uma palavra dura aumenta a fúria.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "A língua dos sábios melhora o conhe cimento; mas a boca dos insensatos espalha lou cura.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Em todo o lugar estão os olhos do S enhor a observar os maus e os bons.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "A brandura de língua é uma árvore de vida, mas a perversidade dela quebra o es pí rito.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "O estúpido despreza o ensinamento do seu pai, mas o que aceita a repreensão mostra que é esperto.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Na casa do justo há grande abundância; mas o produto do malfeitor esvai-se.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Os lábios dos sábios espalham conhecimento; o coração dos in sensatos não é correto.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "O sacrifício dos malfeitores é abominação para o S enhor, mas a súplica dos retos é do seu agrado.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "O S enhor abomina o caminho do malfeitor, mas ama aquele que persegue a justiça.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Há um castigo severo para quem abandona o caminho; aquele que odeia a advertência morrerá.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "O mundo dos mortos e da perdição está diante do S e nhor; quanto mais os corações dos seres humanos!",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "O arrogante não gosta de quem o repreende nem vai ao encontro dos sábios.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "O coração alegre torna feliz o sem blante; mas, quando há dor no coração, o es pírito fica abatido.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Um coração inteligente procura o co nhecimento; mas a boca dos insensatos alimenta-se de loucura.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Todos os dias do pobre são maus; mas para os de coração feliz são um banquete pe rene.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Mais vale pouco com temor do Senhor do que um grande tesouro com muita inquietação.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Mais vale um prato de legumes com amor do que um vitelo gordo com ódio.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "O homem irado provoca a disputa; mas o lento à ira acalma a conten da.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "O caminho do preguiçoso é uma sebe de espinhos; mas a rota dos justos é plana.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "O filho sábio dá alegria ao seu pai; o homem insensato despreza a sua mãe.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "A loucura é alegria para quem não tem coração; mas o homem de inteligência segue direito o seu caminho.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Os planos falham por falta de aconselhamento, mas com muitos conselheiros realizam-se.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Uma resposta da sua boca é uma alegria para o homem. E como é agradável uma palavra no tempo certo!",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Para o entendido, o caminho da vida é para cima, de modo a afastar-se do mundo dos mortos, lá em baixo.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "O S enhor destrói a casa dos arrogantes, mas ergue os marcos na propriedade da viúva.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Os pensamentos de maldade são abomináveis ao S enhor; mas são puras as palavras de agrado.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "O que se entrega à ganância destrói a sua casa; mas o que detesta o suborno viverá.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "O coração do justo reflete para responder; mas a boca dos malfeitores expele maldades.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "O S enhor está longe dos malfeitores, mas escuta a súplica dos justos.",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "O brilho dos olhos alegra o co ra ção; uma boa notícia dá vigor aos ossos.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "O ouvido que escuta uma re preensão salutar habita no meio dos sábios.",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "O que rejeita o ensinamento des preza-se a si mesmo; mas quem escuta a repreensão adquire coração.",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "O temor do S enhor é educação para a sabedoria; e antes da glória está a humil dade.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "São do homem os planos do coração; mas é do S enhor a resposta da língua.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Todas as ações do homem parecem limpas a seus olhos; mas quem examina as intenções é o S enhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Confia ao Senhor as tuas obras e os teus projetos realizar-se-ão.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "O S enhor fez todas as coisas com a sua finalidade e fez também o malfeitor para o dia da desgraça.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Qualquer coração arrogante é abominação para o S enhor: cedo ou tarde, ele não ficará impune.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Pela misericórdia e fidelidade a culpa é expiada e pelo temor de Deus se evita o mal.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Quando o S enhor se compraz com os caminhos de alguém, põe-no em paz até com os seus inimigos.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Mais vale pouco com justiça que muitos rendimentos sem equidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "O coração do homem planeia o seu caminho, mas o S enhor é que dá firmeza aos seus passos.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Há uma sentença de autoridade nos lábios do rei: em julgamento a sua boca não erra.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "O fiel das balanças justas é do Se nhor; todos os pesos do saco são obra sua.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Praticar o mal é coisa abominável para os reis, pois um trono firma-se pela jus tiça.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Os lábios de justiça têm o agrado do rei; ele ama o que fala com retidão.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "A indignação do rei é como os mensageiros da morte; porém, o homem sábio é capaz de a aplacar.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "No brilho do rosto do rei há vida e a sua benevolência é como nuvem de chuva primaveril.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Adquirir sabedoria é muito melhor que ouro; adquirir inteligência é mais precioso que prata.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "A estrada dos retos é desviar-se do mal; o que guarda o seu caminho conserva a vida.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Antes da ruína está o orgulho e antes do tropeçar, a arrogância.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "É melhor ser modesto com os humildes que partilhar despojos com os orgulhosos.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Quem está atento à palavra encontra a felicidade; feliz aquele que confia no Senhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "O sábio de coração é considerado inteligente; a doçura dos lábios dá mais força ao ensino.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "O bom senso é fonte de vida para quem o possui; o castigo dos estúpidos é a estupidez.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "O coração do sábio está atento à sua boca, e nos seus lábios dá mais valor à lição.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Palavras agradáveis são um favo de mel, são doçura para a alma e saúde para os ossos!",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Há caminhos que pa re cem retos aos olhos do homem, mas no seu fim são caminhos de morte.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "A fome do trabalhador trabalha para ele; é a sua boca que o estimula.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "O homem perverso é o forno da desgraça e nos seus lábios há como que um fogo devo rador.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "O homem desordeiro espalha a dis córdia e o agitador afasta o amigo.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "O homem violento seduz o seu próximo e fá-lo andar por um caminho que não é bom.",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "Aquele que, maquinando desordens, fecha os olhos e cerra os lábios já consumou a desgraça.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "Cabelo branco é co roa de esplendor que se alcança no caminho da justiça.",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "É melhor ser paciente que ser um herói; é melhor dominar-se a si mesmo que conquistar uma cidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "É no regaço que se lançam os dados, mas a sentença deles vem toda do S e nhor.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "É melhor um pedaço de pão seco com sossego que uma casa cheia de ban quetes em discórdia.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Um servo inteligente prevalece sobre um filho que envergonha e entre os irmãos terá parte na herança.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "O crisol é para a prata e a fornalha para o ouro, mas é o S enhor quem examina os corações.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "O que faz o mal dá atenção aos lábios ma ldosos; o que mente dá ouvidos à língua maliciosa.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Quem troça do pobre ultraja o seu criador e o que se ri de uma desgraça não ficará impune.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Os filhos dos filhos são a coroa dos anciãos e a glória dos filhos são os seus pais.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Não con vém ao insensato uma linguagem elevada e muito menos ao nobre, uma linguagem menti rosa.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "O suborno é uma pedra preciosa para quem o faz; para onde quer que se vire é bem-sucedido.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Quem encobre uma falta procura a amizade; quem a divulga por palavras afasta os amigos.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "A repreensão atinge mais fundo no inteligente que cem açoites num insen sato.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "O perverso não procura senão rebeldia, mas contra ele será enviado um mensageiro cruel.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Antes encontrar um urso a quem tiraram os filhos que um insensato com a sua loucura.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "A quem retribui o mal em troca do bem a desgraça jamais sairá da sua casa.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Começar uma disputa é um rombo num dique; há que desistir antes que a con tenda rebente.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "O que justifica o malfeitor e o que condena o justo, são ambos uma abominação diante do S enhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Para que serve o insensato ter na mão o preço para comprar a sabedoria, se não tem entendimento?",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "O amigo ama em todo o tempo, nasceu para ser um irmão na desgraça.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "É insensato aquele que dá um aperto de mão, tornando-se fiador do seu próximo.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Aquele que ama o crime ama a discórdia e o que ergue muito a soleira da sua porta procura tropeço.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "O de coração falso não encontra a felicidade e o que tece intrigas com língua perversa cai na des graça.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "O que gera um insensato é para sua aflição e o pai do louco não terá alegria.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Um coração alegre favorece a cura; mas um espírito abatido seca os ossos.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "O malfeitor aceita um suborno às escondidas e assim perverte as vias da jus tiça.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "No rosto do in teligente há sabedoria; mas os olhos do insensato estão nos confins da terra.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Um filho insensato é um tor men to para o seu pai e uma amargura para aquela que o deu à luz.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Se não é bom punir o justo, bater nos que são nobres está contra o que é reto.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Aquele que modera as suas palavras possui conhecimento; o que tem espírito calmo é um homem inteligente.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Até o insensato quando se cala é considerado sábio; fechando os seus lábios, é inteli gente.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O que persegue o seu desejo fica isolado e irrita-se perante qualquer êxito.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "O insensato não encontra prazer na inteligência, mas apenas em revelar o que tem no coração.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Quando vem o criminoso, vem também a desonra; e com o desprezo vem a ignomínia.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "As pala vras da boca de um homem são águas profundas, torrente transbordante, fonte de sabedoria.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Não é bom favorecer o malfeitor para prejudicar o justo no julga mento.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Os lábios do insensato conduzem à contenda, e a sua boca chama por açoites.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "A boca do insensato é para ele a ruína e os seus lábios são uma armadi lha para a sua vida.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "As palavras do intriguista são como guloseimas: descem até ao fundo das entranhas.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "O que é desleixado no seu tra balho é irmão do que provoca a destruição.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "O nome do S enhor é uma tor re que dá força; o justo corre para ela e fica em segurança.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "A fortuna do rico é a sua cidade fortificada; como uma muralha alta, ela é a sua sebe.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Antes da ruína o coração do homem exalta-se, mas antes da gló ria está a humildade.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Aquele que responde antes de ouvir mostra que é estúpido e ridículo.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "O espírito do homem suporta-o na sua aflição, mas quem levantará um espírito abatido?",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "O coração do inteligente adquire conhecimento e o ouvido dos sábios procura conhecimento.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "A dádiva feita por um homem dá-lhe largueza e leva-o até junto dos gran des.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "O primeiro a apresentar a sua causa parece justo, mas vem o seu adversário que o contradiz.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "O tirar à sorte acaba com as contendas e faz a separação entre os poderosos.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Um irmão ofendido é mais que uma praça forte; as contendas são como os fer ro lhos de um castelo.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Um homem satisfaz-se com o que sai da sua boca e sacia-se com o que proferem os seus lábios.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "A morte e a vida dependem da língua; os que se prendem a ela comerão do seu fruto.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Aquele que encontra uma mulher encontra um bem e obtém a benevolência do S enhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "O pobre fala por súplicas e o rico responde com dureza.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Há companheiros que levam à desgraça e há amigos mais afeiçoados que um irmão.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "É melhor um pobre que vive com honestidade do que alguém de lábios perversos e insensato.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Também o desejo sem conhecimento não é bom; e quem apressa os seus passos extravia-se.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "A estupidez do homem arruína o seu caminho e, depois, o seu coração revolta-se con tra o S enhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "A fortuna junta numerosos amigos, mas o pobre até pe lo seu amigo é posto de parte.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "A testemunha falsa não ficará impune e o que profere mentiras não esca pará.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Muitos são os que lisonjeiam um nobre e todos se fazem amigos do homem que dá presentes.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Ao pobre, todos os seus irmãos o odeiam; até alguns dos seus amigos se afastam dele! Ele procura algumas palavras, mas não as tem.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Quem adquire sensatez ama a sua vida; quem guarda o entendimento encontra a felicidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "A testemunha falsa não ficará impune e o que profere mentiras perecerá.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Não convém que o insensato viva entre delícias, e muito menos que um escravo do mine os chefes.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "O bom senso do homem domina a sua ira e a sua grandeza é passar por cima de uma ofensa.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "A ira do rei é um rugido de leão e a sua benevolência é como orvalho so bre a erva.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Um filho insensato é um tormento para o seu pai e as intrigas de uma mulher são uma goteira contínua.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Casa e fortuna são herança dos pais, mas uma mulher sensata vem do S enhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "A preguiça faz cair em sonolência e a pessoa indolente passará fome.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "O que guarda um mandamento guarda a sua vida, mas o que despreza os seus caminhos morrerá.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Quem dá ao pobre empresta ao S enhor e Ele lhe retribuirá a benfeitoria.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Corrige o teu filho enquanto há esperança, mas não exageres até ao ponto de o matar.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "O homem impetuoso deverá ser punido; se o poupares, sê-lo-á ainda mais.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Escuta o conselho e aceita o ensinamento, para que possas ser um sábio no teu futuro.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "São muitos os planos no coração do homem, mas é o desígnio do S enhor que prevalece.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "O desejável num homem é a sua fidelidade; é melhor ser pobre que ser um homem menti roso.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "O temor do S enhor conduz à vida e deixa dormir satisfeito, sem perigo de pesadelo.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "O preguiçoso leva a mão ao prato, mas não é capaz de a levar à boca.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Castiga um insolente e o ingé nuo ficará esperto; repreende o inteligente e ele adquirirá conhecimento.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Aquele que maltrata o seu pai e afugenta a sua mãe é um filho que envergonha e desonra.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Meu filho, se deixas de escutar o ensinamento, vais afastar-te das palavras do conhecimento.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "A testemunha perversa ri-se do direito e a boca dos malfeitores devora a ini quidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Há castigos preparados para os insolentes e açoites, para as costas dos in sensatos.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O vinho é zombador e o licor, de sor deiro! Todo o que nele se perde não será sábio.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "A ira do rei é como um rugido de leão, aquele que o provoca põe em risco a sua vida.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "É uma honra para o homem afas tar-se das contendas, mas qualquer estúpido as faz rebentar.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "O preguiçoso não lavra desde o outono; no tempo da colheita procura, mas nada encontra.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Águas profundas é o plano no coração do homem, apenas o homem inteligente as consegue atingir.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Muitos homens são proclamados bondosos, mas um homem fiel, quem o achará?",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "O justo caminha na sua integridade; ditosos são os seus filhos, depois dele.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "O rei que se senta no trono de justiça varre com o seu olhar toda a maldade.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Quem poderá dizer: «O meu coração está puro, estou limpo do meu pecado?»",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Usar dois pesos ou duas medidas são duas coisas abomináveis para o S enhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "É pelos seus atos que um jovem se dá a conhecer: se é puro ou se é reto o seu proceder.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "O ouvido que ouve e o olho que vê, ambas as coisas foi o Senhor quem as fez",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Não sejas amigo do sono para não empobreceres; abre os teus olhos e sacia-te de pão.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "«Ruim, ruim!», diz o compra dor, mas, ao afastar-se, gaba-se da compra.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Pode haver ouro e pérolas em abundân cia; mas a coisa mais preciosa são os lábios de conhecimento.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Toma a veste do que se tornou fiador de um estrangeiro, exige dele o penhor que deve aos estranhos.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "O pão da mentira é saboroso para o homem, mas, depois, a sua boca fica cheia de cascalho.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Consolida os projetos por meio do conselho e conduz a guerra com boas estratégias.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "O que anda em intrigas revela os segre dos; não te comprometas com gente linguareira.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Para aquele que amaldiçoa o seu pai ou a sua mãe a sua lâmpada apagar-se-á no meio das trevas.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Uma herança adquirida à pressa no início, não será abençoada no final.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Não digas: «Vou retribuir-lhe o mal!» Confia no Senhor e Ele te salvará.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Usar dois pesos é abomi na ção para o S enhor; e não é bom ter balanças falsas.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Os pas sos do homem dependem do S enhor; e que entende um homem do seu caminho?",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "É uma armadilha para o homem declarar algo como coisa santa e reflectir, só depois de fazer os seus votos.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "O rei sábio varre os malfeitores e faz passar sobre eles a roda.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "A alma do homem é a lâmpada do S enhor, que explora todos os recantos das entranhas.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "A misericórdia e a fidelidade protegem o rei; pois é na misericórdia que seu trono está bem assente.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "O brilho dos jovens é a sua força e o esplendor dos velhos é o cabe lo branco.",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "As cicatrizes da ferida limpam o mal e as pancadas, os recantos das entranhas.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O coração do rei é como correntes de água na mão do S enhor: Ele dirige-o para onde quer.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Qualquer caminho parece reto aos olhos do homem, mas o S enhor é que pesa os corações.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Praticar a justiça e o direito é, para o S enhor, preferível ao sacrifício.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Olhos altivos e coração soberbo: o pecado é a lâmpada dos malfeitores.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Os projetos do homem diligente resultam em ganho, mas todo aquele que se apressa cai na indigência.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Acumular tesouros com língua mentirosa é ilusão fugidia dos que buscam a morte.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "A violência dos malfeitores arrasta-os, porque recusam praticar o direito.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "O caminho do homem perverso é tor tuoso, mas a ação do inocente é reta.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "É melhor habitar num canto do terraço que com uma mu lher intriguista numa casa ampla.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "A alma do malfeitor anseia pelo mal; nem o seu amigo encontra graça diante dos seus olhos.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Com a punição do insolente o ingénuo fica mais sábio e adquire conhecimento quando o sábio prospera.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Aquele que é justo observa a casa do malfeitor e precipita os malfeitores na desgraça.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Aquele que fecha o seu ouvido ao clamor do pobre há de clamar também ele e ninguém lhe responderá.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Uma oferta feita em segredo acalma a ira e um presente no bolso, o mais ardente furor.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "É uma alegria para o justo cumprir o direito e um terror para os que praticam a iniquidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "O homem que se extravia do ca minho do bom senso irá repousar na assembleia dos defuntos.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Aquele que aprecia as festas ficará indigente; o que aprecia vinho e per fu mes não enriquecerá.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "O malfeitor serve de resgate para o justo; e o traidor, para troca com os homens re tos.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "É melhor habitar numa terra de deserto que com uma mulher de intri gas e mau humor.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Na habitação do sábio há tesouros pre ciosos e perfume, mas o homem estúpido dissipa tudo isso.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Aquele que persegue a justiça e a misericórdia encontrará a vida, a justiça e a glória.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "O sábio sobe à cidade dos guerreiros e derruba a fortaleza em que ela confiava.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Aquele que guarda a sua boca e a sua língua guarda a sua alma das angús tias.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Quem é insolente e arrogante tem por nome zombador; ele comporta-se com orgulho arrogante.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "A vontade do preguiçoso o matará, porque as suas mãos se recusam a trabalhar.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Passa todo o dia a desejar, a desejar, mas o justo dá sem nada re servar.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "O sacrifício dos malfeitores é abo mi nável, sobretudo se o oferecem com má intenção.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "A testemunha mentirosa pere cerá, mas quem sabe escutar pode sempre falar.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "O malfeitor mostra força no seu semblante, porém o que é reto sabe distinguir os seus caminhos.",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "Não há sabedoria nem inteli gên cia nem conselho que prevaleça con tra o S enhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "O cavalo está preparado para o dia do combate, mas a vitó ria pertence ao S enhor.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Um bom nome é preferível a grandes riquezas e uma boa reputação é preferível a prata e o ouro.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "O rico e o pobre encontram-se em que foi o S enhor que os fez a ambos.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "O esperto vê o perigo e esconde-se, mas os ingénuos passam e so frem as consequências.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "O resultado da humildade é o temor do S enhor mais a riqueza, a honra e a vida.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Há espinhos e armadilhas no cami nho do perverso, mas quem quer conservar a sua vida fica longe deles.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Educa o jovem no que diz respeito ao seu caminho; mesmo quando envelhecer, não se desviará dele.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "O rico domina sobre os pobres e o que pede emprestado é escravo do seu credor.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Aquele que semeia maldade reco lhe iniquidade; a vara da sua ira acabará com ele.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "O homem de olhar bondoso será abençoado, porque deu do seu pão ao pobre.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Expulsa o insolente e acabará a discussão e terminará a discórdia e a ofensa.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Aquele que ama a integridade de co ração, e é generoso nas suas palavras, o rei é seu amigo.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Os olhos do S enhor favorecem o conhecimento, mas Ele confunde as declarações do traidor.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "O preguiçoso diz para consigo: «Há um leão lá fora; vou ser morto no meio das ruas.»",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "A boca das mulheres estranhas é um fosso profundo; nele cairá o que for amaldiçoado pelo S e nhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "A estupidez está ligada ao cora ção do jovem, mas a vara da disciplina afastá-la-á para longe dele.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Quem oprime o pobre acaba por enri quecê-lo; quem dá ao rico só traz empobrecimento.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Inclina o teu ouvido e escuta as palavras dos sábios e aplica o teu coração ao meu conhecimento,",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "porque é agradável que as guardes no teu interior. e estejam sempre presentes nos teus lábios.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Para que a tua confiança esteja no Senhor, vou instruir-te hoje também a ti.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Foi por isso que outrora escrevi para ti palavras de conselho e conhecimento,",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "para te dar a conhecer palavras certas e verdadeiras e responderes com palavras de verdade aos que te enviam.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Não explores o pobre, porque já é pobre; nem esmagues o aflito à porta da cidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Porque o S enhor defenderá a causa deles e despojará da vida os que os despojam a eles.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Não te tornes amigo de um ho mem colérico, nem te aproximes de um impetuoso,",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "para não aprenderes os seus caminhos e seres apanhado numa armadilha contra a tua vida.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Não sejas dos que, com um aperto de mão, se tornam fiadores de dívidas de outrem.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Pois, se não tiveres com que pagar, até te vão tirar a cama de debaixo de ti.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Não mudes os marcos de antigamente, que foram postos pelos teus pais.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Vês um homem diligente no seu trabalho: ele apresentar-se-á ao serviço diante de reis, mas nunca se apresentará diante de gente obscura.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Quando te sentares à mesa com uma autoridade, observa com cuidado quem está diante de ti;",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "põe uma faca na tua garganta, se estiveres com muito apetite.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Não cobices os seus manjares, porque são um pão engana do r.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Não te afadigues para adquirir riqueza; tira daí o teu entendimento.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Os teus olhos voam à procura dela, mas não há, pois ela criou asas para si e como a águia voou pelos céus.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Não comas o pão de quem tem mau olhar, nem cobices os seus manjares,",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "pois serão como um cabelo na garganta. Ele dir-te-á: «Come e bebe», mas o seu coração não está contigo.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Vomitarás o bocado que comeste e desperdiçarás as tuas palavras amáveis.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Não fales aos ouvidos do insen sato, porque ele desprezará o bom senso das tuas palavras.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Não mudes os marcos de antigamente, nem entres no campo dos ór fãos,",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "porque o seu vingador é pode roso e defenderá a causa deles contra ti.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Faz com que a ins tru ção chegue ao teu coração e aos teus ouvidos cheguem as palavras de conhecimento.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Não poupes a correção ao jovem; ainda que lhe batas com a vara, ele não morre.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Tu lhe baterás com a vara, e a sua vida será resgatada do mundo dos mortos.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Meu filho, se o teu coração for sábio, o meu cora ção alegrar-se-á também.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "As minhas entranhas rejubilarão, quando os teus lábios proferirem palavras retas.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Que o teu coração não tenha inveja dos peca dores, mas antes permaneça sempre no temor do S enhor,",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "porque há de haver certamente um fu turo e a tua esperança não será frus trada.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Escuta, meu filho, e sê sábio, orienta o teu coração pelo caminho reto.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Não te juntes com bebedores de vinho, ou com aqueles que se enfartam de carne,",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "pois o ébrio e o glutão em pobrecem e a sonolência vesti-los-á de an drajos.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Escuta o teu pai, que te gerou, e não desprezes a tua mãe por ser velha.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Adquire a verdade e não ven das a sabedoria, a educação e a in te ligência.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "O pai do justo exultará de ale gria e quem gerou um sábio sentir-se-á feliz por ele.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Que o teu pai e a tua mãe se alegrem e exulte aquela que te deu à luz.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Meu filho, entrega-me o teu coração, e que os teus olhos prefiram os meus caminhos;",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "pois a mulher estranha é um fosso profundo e a estrangeira, um poço estreito.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Ela põe-se à espreita como um salteador e entre os homens, multiplica os transgressores.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "De quem são os «ais», de quem os «uis»? De quem são as contendas, de quem as queixas? De quem são as pancadas sem mo tivo? De quem os olhos avermelha dos?",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "São dos que se deixam arrastar pelo vinho, dos que vão à procura de bebi das misturadas.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "Não olhes para o vinho, como ele é vermelho, como brilha no copo e como escorre direito!",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "No fim, ele morde como uma ser pente e lança veneno como uma víbora.",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "Os teus olhos verão coisas estra nhas, e o teu coração dirá palavras descontroladas.",
+          "note_refs": []
+        },
+        {
+          "verse": 34,
+          "text": "E tu estarás como alguém a dormir em alto mar, como alguém que dorme no cimo de um mas tro.",
+          "note_refs": []
+        },
+        {
+          "verse": 35,
+          "text": "«Espancaram-me, mas não fiquei doente; bateram-me, mas não senti nada. Quando acordo, volto a procurá-lo de novo.»",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Não tenhas inveja dos homens maus nem desejes estar com eles,",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "porque o seu coração só medita violência e os seus lábios só falam em maldades.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "É com a sabedoria que se edifica uma casa e com a inteligência que ela se consolida.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "É pelo conhecimento que se enchem as suas salas com toda a fortuna preciosa e agradável.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Um herói sábio é poderoso e um homem de conhecimento aumenta a sua força.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "É com estratégias que deves em preen der a guerra e a vitória estará no grande nú mero de conselheiros.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "A sabedoria está demasiado alta para o estulto; ele não abrirá a boca à porta da cidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Aquele que só pensa em fazer o mal será chamado homem de intri gas.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "O plano do estulto é um pe cado e a arrogância é uma abominação para o homem.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Se desfaleces no dia da adver sidade, muito fraca é a tua força.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Livra os que estão destinados à morte e poupa os que vão a cambalear para o suplício.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Se disseres: “Não sabíamos disso”, aquele que sonda os corações sabia-o certamente. Aquele que protege a tua vida bem o sabe; Ele retribuirá a cada ser humano segun do as suas obras.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Meu filho, come mel, porque é bom; o favo é doce ao teu pala dar.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Considera, pois, que a sabedoria é para a tua vida. Se a encontrares, haverá um futuro; e a tua esperança não será frus trada.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Não espreites para a morada do justo, ó malfeitor; não destruas a sua habitação!",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Pois sete vezes cai o justo e se levanta, mas os malfeitores tropeçarão na des graça.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Quando o teu inimigo cai, não te alegres; quando ele tropeça, não rejubile o teu coração,",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "não suceda que o S enhor o veja e lhe desagrade e afaste dele a sua ira.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Não te irrites com os perversos nem invejes os malfeitores.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Porque para os maus não haverá fu turo e a lâmpada dos malfeitores apa gar-se-á.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Meu filho, teme o Senhor e o rei, não te metas com nenhum dos dois,",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "porque inesperadamente surgirá deles a desgraça, e a ruína que vem de ambos, quem a conhece?",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Também estas são sentenças dos sábios: não é bom ser parcial no julgamento.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Aquele que diz ao malfeitor: “Tu és justo”, os povos amaldiçoam-no e as nações detestam-no.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Aqueles que o repreendem serão vistos com agrado e sobre eles virá uma bênção de felicidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Aquele que responde corretamente é como quem dá um beijo nos lábios.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Põe em ordem as tuas tarefas no exterior e cuida daquelas que tens no campo; depois, sim, poderás construir a tua casa.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Não sejas testemunha con tra o teu próximo sem razão. Quererás acaso desorientar com as tuas palavras?",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Não digas: “Como ele me fez assim lhe hei de fazer; retribuirei a cada um segundo as suas obras!”",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "Passei junto ao campo do homem pregui çoso e junto à vinha do homem sem entendimento;",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "e tudo estava cheio de ur tigas, as silvas cobriam o chão e o seu muro de pedra estava destruído.",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "Ao ver isto refleti no meu coração; vi e dali tirei uma lição.",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "Um pouco a dormir, um pouc o a dormitar, um pouco a cruzar as mãos para se deitar,",
+          "note_refs": []
+        },
+        {
+          "verse": 34,
+          "text": "e a pobreza chegará a ti, rondando como um ladrão, e a miséria, como um homem ar mado.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Também estes são provérbios de Salomão, recolhidas pelos homens de Eze quias, rei de Judá:",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "É glória de Deus ocultar o sentido das coisas, é glória dos reis investigá-las",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Nem o céu pela altura, nem a terra pela profundidade nem o coração dos reis se podem investigar.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Retiram-se as escórias à prata e o ourives produzirá um vaso.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Retira-se o malfeitor da presença do rei e o seu trono ficará firme na jus tiça.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Não te vanglories na presença do rei e não permaneças no lugar dos gran des.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Pois é melhor que te digam: “Sobe para aqui” que seres humilhado diante de alguém mais nobre. O que os teus olhos viram,",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "não o leves precipi ta damente a tribunal, pois que haverias de fazer, no fim do julgamento, quando o teu próximo te deixar envergonhado?",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Defende a tua causa contra o teu próximo, mas não reveles o segredo de ou trem,",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "não suceda que te desminta quem o ouvir, e a tua difamação não volte atrás.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Maçãs de ouro em bandejas de prata, assim é uma palavra dita com bons modos.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Anel de ouro e joias de ouro fino, assim é a admoestação de um sá bio a um ouvido que escuta.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Como frescura de neve em tempo de colheita, assim é o mensageiro fiel para os que o enviam: ele restabelece a alma do seu se nhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Nuvens e vento que não trazem chuva, assim é o homem que se gaba de um falso dom.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Com paciência convence-se um comandante, uma língua branda consegue partir ossos.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Encontraste mel? Come o suficiente para ti, não suceda que, comendo demais, tenhas de o vomitar.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Põe raramente o pé na casa do teu vizinho, não suceda que, farto de ti, venha a odiar-te.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Um dardo, uma espada ou uma flecha afiada, tal é o homem que dá um falso testemunho contra o seu próximo.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Como um dente estragado e um pé sem firmeza, tal é a confiança no traidor no dia da desgraça.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Como alguém que tira a capa num dia de frio, como vinagre sobre uma ferida assim é o que canta canções diante de um coração atri bulado.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Se o teu inimigo está com fome, dá-lhe pão para comer; se tem sede, dá-lhe água para beber.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Assim retirarás brasas de cima da sua cabeça e o S enhor recompensar-te-á.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "O vento norte provoca a chuva, a língua dissimulada, rostos enfurecidos.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "É melhor habitar num canto do terraço que com uma mulher intriguista numa casa ampla.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Água fresca para uma garganta sedenta, tal é uma boa notícia vinda de uma terra distante.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Nascente enlameada e corrente poluída, assim é o justo que vacila diante do malfeitor.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Não é bom comer mel em de masia, nem o procurar honrarias dá mais honra.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Uma cidade arruinada e sem mu ra lhas, assim é o homem que não se domina a si mesmo.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Como a neve no verão e a chuva na colheita, assim a honra é imprópria para o insensato.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Como pássaro a esvoaçar, como an dorinha a voar, assim a maldição sem motivo deixa de atingir o objetivo.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "O chicote é para o cavalo, o freio é para o jumento e a vara, para as costas dos insen satos.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Não respondas ao insensato conforme a sua estupidez, para não seres igual a ele, tu também.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Responde ao insensato conforme a sua estupidez, não aconteça que ele se considere sábio a si próprio.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Corta os pés e bebe violência quem envia mensagens por meio de um insensato.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Como cambaleiam as pernas de um coxo assim também um provérbio na boca de insensatos.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "É como quem prende uma pedra na funda aquele que presta homenagem a um in sen sato.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Como um ramo de espinheiro na mão de um bêbado, assim é um provérbio na boca dos insensatos.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Tal como um arqueiro que aponta a tudo assim é quem contrata um in sen sato ou qualquer um que passa.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Como o cão que volta ao seu vó mito, assim é o insensato ao repetir a sua loucura.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Viste alguém que se considera a si mesmo como sá bio? Há mais esperança para um insensato que para ele.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "O preguiçoso diz: “Anda uma fera no caminho, um leão, pelas ruas!”",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Como a porta roda sobre o seu gonzo assim o preguiçoso, no seu leito.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "O preguiçoso afunda a sua mão no prato, mas cansa-se de a levar à boca.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "O preguiçoso considera-se a si mesmo mais sá bio que sete outros que respon dem com bom senso.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Como quem agarra um cão pelas ore lhas é alguém que passa e se mete numa questão que não é sua.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Como um homem enlouquecido a lançar setas, dardos e morte,",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "assim é o homem que engana o seu próximo e diz: “Eu estava apenas a brincar!”",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Por falta de lenha o fogo apaga-se, onde não há caluniador acaba-se a discussão.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Como carvão nas brasas e lenha no fogo, assim o homem de intrigas atiça uma contenda.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "As palavras do caluniador são como guloseimas que penetram até ao fundo das entra nhas.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Como prata de escórias aplicada em barro, assim são os lábios ardentes e um coração perverso.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Aquele que odeia dissimula com os seus lábios, mas no seu interior colocou o engano.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Quando ele torna graciosa a sua voz, não confies nele, porque há sete abominações no seu coração;",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "pois o ódio está encoberto com fingimento, mas a sua malícia será descoberta na assembleia.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Quem abre uma cova há de cair nela e a pedra voltará a cair sobre aquele que a rolou.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "A língua mentirosa odeia aqueles a quem esmaga e a boca aduladora provoca a ruína.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Não te vanglories do dia de amanhã, porque não sabes o que um dia pode gerar.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Que seja outro a louvar-te e não a tua boca; seja um estranho e não os teus lábios.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Pesada é a pedra e a areia é uma carga, mas a cólera do estulto pesa mais que ambas.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "A ira é cruel e o furor, impetuoso, mas quem resistirá diante da inveja?",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "É melhor uma correção declarada que uma amizade dissimulada.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "As pancadas de um amigo são leais, mas os beijos de um inimigo são enganadores.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "O apetite saciado calca aos pés o favo de mel, mas a quem tem fome qualquer amar go sabe a doce.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Como a ave que vagueia fora do seu ninho assim é o homem errante fora da sua casa.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "O perfume e o incenso alegram o coração: assim a doçura de um amigo vinda do fundo da alma.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Não abandones o teu amigo nem o amigo do teu pai e não entres em casa do teu irmão no dia do teu infortúnio. Vale mais um vizinho perto que um irmão longe.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Sê sábio, meu filho, e alegra o meu coração, pois assim posso responder a quem me insultar.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "O homem experiente vê o perigo e esconde-se; os ingénuos continuam e pagam por isso.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Retém o manto de quem ficou fiador de um estranho e o penhor de quem foi garante de estrangeiros.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Saudar o vizinho em voz alta de manhã cedo pode ser considerado por ele uma maldição.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Uma goteira que pinga sem parar em dia de chuva e uma mulher intriguista são equiparáveis.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Pretender recolhê-la é como recolher o vento ou reter o azeite na sua mão direita.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "O ferro com o ferro se molda e um homem molda o carácter do seu próximo.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Quem trata da figueira co merá do seu fruto e o que cuida do seu senhor será honrado.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Tal como o rosto se reflete na água, assim o coração do homem se reflete no próprio homem.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "O mundo dos mortos e da perdição não se satisfazem; os olhos do homem também nunca estão satisfeitos.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "A prata é purificada no crisol e o ouro, no forno; assim o homem é purificado na palavra de quem o louva.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Ainda que esmagasses o estúpido no almofariz, como se pisam os grãos com o pi lão, não retirarias dele a sua estupidez.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Toma bem conhecimento do estado do teu gado e presta atenção aos teus reba nhos,",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "porque a fortuna não dura sem pre nem a coroa passa de geração em geração.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Brota o feno e aparece a erva e recolhe-se a forragem dos montes;",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "para te vestires tens os cordeiros e os bodes como preço de um campo,",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "leite de cabra suficiente para teu sustento, para sustento da tua casa e subsistência das tuas servas.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O malfeitor foge mesmo que nin guém o persiga, mas o justo está seguro como um leão.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Pelos crimes de um país multi plicam-se os seus chefes, mas um homem inteligente e sabedor garante estabilidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Um homem pobre que oprime os fracos é chuva devastadora que não dá pão.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Os que abandonam a instrução louvam o malfeitor e os que guardam a instrução lutam contra eles.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Os homens maus não compreen dem o direito, mas os que procuram o S enhor compreendem tudo.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Um pobre que cami nha na sua integridade é melhor que alguém de caminhos tortuosos, mesmo sendo rico.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Aquele que guarda a instrução é um fi lho inteligente, mas o que frequenta os devassos desonra o seu pai.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Aquele que aumenta a sua fortuna com juros e usura junta-a para aquele que é generoso para com os pobres.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Aquele que desvia o seu ouvido para não ouvir a instrução, até a sua oração se torna abomi ná vel.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Aquele que arrasta os justos por mau caminho cairá ele mesmo no seu fosso, mas os íntegros terão a felicidade como herança.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "O rico considera-se a si mesmo sábio, mas o pobre que é inteligente desmascara-o.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Quando os justos se alegram há grande festa; mas, quando os malfeitores se erguem, as pessoas escondem-se.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Aquele que dissimula as suas fal tas não prosperará; mas quem as confessa e abandona obterá misericórdia.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Feliz daquele que mantém sempre algum temor; mas quem endurece o seu coração cairá na desgraça.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Como um leão a rugir e um urso esfaimado, assim é um malfeitor que domina sobre um povo pobre.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Um soberano com falta de inteligência mul tiplica opressões, mas quem odeia a avareza prolongará os dias.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "O homem angustiado por derramar san gue inocente está em fuga até ao sepulcro. Que ninguém o detenha!",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Aquele que caminha na integri dade salva-se; mas quem vagueia entre dois cami nhos cairá num de les.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Aquele que trabalha a sua terra terá fartura de pão, mas quem persegue ilusões fartar-se-á de miséria.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "O homem fiel será grande em bênçãos, mas quem tem pressa em ser rico não ficará impune.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Não é bom fazer diferença entre pessoas; mas um homem peca até por um pedaço de pão.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "O homem de olhar ambicioso corre atrás da fortuna e não sabe que a indigência virá sobre ele.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Quem corrige alguém encontrará depois a gratidão, mais que aquele que lisonjeia.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Quem despoja o seu pai ou a sua mãe e diz que não é pe cado, é parceiro do homem destruidor.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "O homem ganancioso provoca con tendas, mas quem confia no Senhor pros perará.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "O que confia no seu próprio juízo é insensato; porém, quem caminha na sabe doria há de sobreviver.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Aquele que dá ao pobre não terá necessidade; mas quem desvia o olhar terá muitas maldições.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Quando se erguem os malfeitores toda a gente se esconde; quando eles perecem aumenta o número dos justos.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O homem que reage com dureza às advertências será rapidamente destruído e sem remédio.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Quando os justos são fortes, alegra-se o povo; quando domina o malfeitor, o povo geme.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Aquele que ama a sabedoria ale gra o seu pai; mas o que frequenta prostitutas deita a fortuna a perder.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Pela justiça, o rei mantém o país estável; mas o que só pensa em extorquir arruína-o.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "O homem que lisonjeia o seu pró ximo estende uma rede para os seus passos.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Na transgressão do malvado há uma arma dilha, mas o justo rejubila e alegra-se.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "O justo reconhece a causa dos po bres; o malfeitor não compreende esse reconhecimento.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Os arrogantes agitam a ci dade; mas os sábios acalmam a ira.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Se um sábio vai a juízo com um estulto, haverá irritação ou ridículo, mas não haverá descanso.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Os homens sanguinários odeiam quem é íntegro; mas os honestos preocupam-se com a vida dele.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "O insensato dá largas a toda a sua ira; mas o sábio retém-na.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Se um governante presta atenção a palavras de mentira, todos os que o servem são malfeitores.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "O pobre e o opressor têm isto em comum: é o S enhor que dá luz aos olhos de ambos.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "O rei que julga com justiça os humil des terá o seu trono firme para sempre.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Vara e correção dão sabe doria; mas um jovem deixado a si próprio envergonha a sua mãe.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Quando dominam os malfeitores aumenta o crime, mas os justos, verão a ruína daqueles.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Corrige o teu filho e ele te dará descanso e encherá de delícias a tua alma.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Se não há visão profética, o povo vive desenfreado; e bem-aventurado é o que guarda a instrução.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Não se cor rige um servo só com palavras; pois ele compreende, mas não responde.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Viste um homem precipitado nas suas palavras; há mais a esperar de um insen sato que dele.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Quem, desde a infância, cobre de mimo o seu servo faz com que no futuro ele se torne rebelde.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "O homem irascível arma con ten das e o colérico acumula crimes.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "O orgulho de um homem faz com que ele seja humilhado; mas o de espírito humilde será glorificado.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Aquele que é cúmplice de um ladrão odeia-se a si mesmo; ele ouve a maldição, mas não de nuncia.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "O medo do homem constitui uma cilada; mas quem confia no Senhor está em segurança.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Muitos buscam o favor de quem manda, mas é o Senhor que garante a justiça ao homem.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "O homem perverso é abominação para os justos e a abominação do malfeitor é o que segue o caminho reto.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Palavras de Agur, filho de Jaqué, o massaíta. Oráculo do homem: Estou cansado, ó Deus, estou cansado, ó Deus, e esgotado.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Sou, de facto, demasiado estúpido para ser humano e não tenho inteligência de ho mem.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Não aprendi a sabedoria, nem alcanço o conhecimento do Santo.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Quem subiu ao céu e voltou a des cer? Quem recolheu o vento nas suas mãos? Quem encerrou as águas no seu manto? Quem ergueu todas as extremidades da terra? Qual é o seu nome e qual o nome do seu filho, se é que o conheces?",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Toda a palavra de Deus é provada no crisol. Ele é um escudo para os que nele se refugiam.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Não acrescentes nada às suas palavras, porque Ele te repreenderia e serias desmentido.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Duas coisas eu peço da tua parte, não mas recuses antes de eu morrer:",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "afasta de mim a falsidade e a mentira; não me dês pobreza nem riqueza, alimenta-me apenas com a minha ração de pão.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Não aconteça que, saciado, eu te renegue e diga: “Quem é o S enhor?”, ou que, na miséria, eu vá roubar e ofenda o nome do meu Deus.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Não calunies um servo diante do seu senhor, não aconteça que ele te amaldiçoe e considere culpado.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Há uma geração que amaldiçoa o seu pai e não abençoa a sua mãe,",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "uma geração que se julga pura a seus olhos e não está limpa da sua sujidade,",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "uma geração cujos olhos são tão al tivos e cujas pálpebras estão levanta das,",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "uma geração cujos dentes são es padas e cujos maxilares são facas, para devorar os humilhados da terra e os pobres de entre os homens!",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "A sanguessuga tem duas filhas: Dá cá! Dá cá! Há três coisas que nunca estão saciadas e quatro que nunca dizem: Bas ta!",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "É o mundo dos mortos, o útero estéril, a terra que nunca se farta de água e o fogo que nunca diz: Basta!»",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "O olho de quem escarnece do pai e menospreza a velhice da mãe será arrancado pelos corvos do vale e devorado pelas crias das águias.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Há três coisas demasiado maravilhosas para mim e quatro que não com preendo:",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "é o caminho da águia nos céus, o caminho da cobra sobre o rochedo, o caminho de um navio no coração do mar, e o caminho do homem pela donzela.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Assim é o caminho da mulher adúl tera, ela come e limpa a sua boca e depois diz: “Não fiz nada de mal”.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Há três coisas que fazem tremer a terra e quatro que ela não pode suportar:",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "é um escravo que se torna rei, um idiota que se sacia de pão,",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "uma mulher desprezada quando se casa e uma serva que se torna her deira da sua senhora.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Quatro são os seres mais peque nos da terra e que são os mais sábios dos sábios:",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "as formigas, seres sem força, que preparam no verão as suas provisões;",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "os coelhos, seres sem poder, que fazem dos rochedos a sua habitação;",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "os gafanhotos, que, sem terem rei, saem todos ordenados em esquadrão;",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "o lagarto, que tu podes apanhar à mão, mas que está até no palácio dos reis.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Há três coisas que têm um andar imponente e mesmo quatro que são imponentes a caminhar:",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "o leão, o mais forte dos animais, que não recua diante de nada;",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "o galo de crista levantada, o bode e o rei à frente da sua tropa.",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "Se foste louco exaltando-te e depois refletiste, põe a mão na boca.",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "Pois bater o leite faz sair a manteiga, apertar o nariz faz sair o sangue, provocar a ira faz sair a discór dia.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Palavras de Lemuel, rei de Massá, que lhe ensinou a sua mãe:",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "“Não, meu filho! Não, filho das minhas entranhas! Não, filho das minhas pro messas!",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Não dês o teu vigor às mulheres nem os teus caminhos às que destroem reis.”",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Não convém aos reis, Lemuel, não convém aos reis beber vinho, nem a quem governa desejar bebi das fortes,",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "não aconteça que bebendo se es queçam de decretar e alterem o julgamento de todos os infelizes.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Dai uma bebida forte àquele que des falece e vinho aos de coração amargurado,",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "para que ele beba e es que ça a sua pobreza e não se lembre mais do seu penar.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Abre a tua boca a favor do mudo, em defesa de todos os desfavorecidos.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Abre a tua boca e julga retamente e defende a causa do pobre e do indigente.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Uma mulher de valor, quem a poderá encontrar? Alef O seu preço é muito maior que o das pérolas.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Nela confia o coração do seu marido Bet e jamais lhe faltarão provisões.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Ela traz-lhe apenas bem-estar e nada de mal, Guímel em todos os dias da sua vida.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Procura obter lã e linho Dálet e trabalha com gosto com as suas mãos.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Tal como os navios de um mercador, He ela manda vir de longe o seu pão.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Levanta-se quando ainda é de noite, Waw distribui a porção de alimento à sua casa e as tarefas às suas criadas.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Pensa num campo e adquire-o; Zain com o ganho das suas mãos planta uma vinha.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Ata com força a sua faixa à cintura Het e dá firmeza aos seus braços.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Sente que os seus negócios correm bem Tet e de noite a sua lâmpada não se apaga.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Pega na roca com suas mãos Yod e os seus dedos manejam o fuso.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Abre as suas mãos ao pobre Kaf e estende os braços ao indigente.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Não tem medo da neve para os da sua casa: Lámed todos eles têm roupa a dobrar.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Ela faz os seus próprios cobertores; Mem as suas vestes são de linho e de púrpura.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "O seu esposo é reconhecido às portas da cidade, Nun quando se senta com os anciãos da terra.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Ela fabricou tecidos para vender Sámek e fornece faixas ao mercador.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Reveste-se de força e esplendor Áyin e sorri para o dia que vem.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Abre a sua boca com sabedoria; Pé na sua língua há uma instrução de bondade.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Supervisiona o que acontece na sua casa Sadé e não come o pão da ociosidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Erguem-se os seus filhos e felicitam-na; Qof o seu marido elogia-a:",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "“Muitas mulheres se mostraram valorosas, Resh mas tu superaste-as a todas!”",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "A graça é enganadora e a beleza é ilusão; Shin a mulher que teme o S enhor, essa será louvada.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "Recompensai-a pelo fruto das suas mãos Tau e que as suas obras a louvem às portas da cidade.",
+          "note_refs": []
+        }
+      ]
+    }
+  ]
+}

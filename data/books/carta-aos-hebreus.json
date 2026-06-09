@@ -1,0 +1,1585 @@
+{
+  "book": "Carta aos Hebreus",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Muitas vezes e de muitos modos, falou Deus antigamente aos nossos pais pelos profetas;",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "nestes dias, que são os últimos, falou-nos por meio do Filho, a quem constituiu herdeiro de todas as coisas e por meio do qual também fez o universo.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Ele, que é o esplendor da sua glória e a expressão da sua substância, e que tudo sustenta com a sua poderosa palavra, depois de ter realizado a purificação dos peca - dos, sentou-se nas alturas à direita da divina Majestade,",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "tornando-se superior aos anjos, tanto quanto mais sublime do que o deles é o nome que recebeu em herança.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Com efeito, a qual dos anjos disse Deus alguma vez: «Tu és meu Filho, Eu hoje te gerei»? E ainda: «Eu serei para Ele um Pai, e Ele será para mim um Filho»?",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Quando, porém, introduziu o Primogénito no mundo, disse: «Que o adorem todos os anjos de Deus».",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "E enquanto diz a respeito dos anjos: «Ele faz dos seus anjos espíritos e dos seus servidores chamas de fogo»,",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "a respeito do Filho diz: «O teu trono, ó Deus, subsiste pelos séculos dos séculos; e o cetro da retidão é o cetro do teu reino.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Amaste a justiça e odiaste a iniquidade, por isso Deus, o teu Deus, te ungiu com ο óleo da alegria, preferindo-te aos teus companheiros».",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "E ainda: «Tu, no princípio, ó Senhor, puseste os alicerces da terra, e os céus são obra das tuas mãos.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Eles hão de desaparecer, mas Tu permaneces. Envelhecerão todos como um vestido,",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Tu os hás de enrolar como se faz a um manto, e serão trocados, como se fossem um vestido. Mas Tu és sempre o mesmo, e os teus anos não terão fim».",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "A qual dos anjos disse Deus alguma vez: «Senta-te à minha direita até que ponha os teus inimigos como estrado dos teus pés»?",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Porventura não são todos eles espíritos enviados em serviço, por causa daqueles que estão para receber em herança a salvação?",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Por isso, é necessário dedicarmos uma atenção muito maior àquilo que escu - támos, para não nos desviarmos do rumo.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Com efeito, se a palavra anunciada por meio de anjos se manteve válida, e se toda a transgressão e desobediência receberam uma justa punição,",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "como haveremos nós de escapar, se descurarmos uma tão grande salvação? Foi esta mesma salvação que começou por ser anunciada pelo Senhor, e que depois nos foi confirmada por aqueles que a tinham escutado,",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "ao mesmo tempo que Deus dava testemunho com sinais, prodígios e todo o género de ações poderosas, e com os dons do Espírito Santo, distribuídos segundo a sua vonta - de.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Não foi a anjos que Deus submeteu o mundo que há de vir e do qual estamos a falar.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Numa passagem da Escritura, alguém testemunhou precisamente isso, ao dizer: «Que é o homem, para que te lembres dele, ou o filho do homem, para que dele cuides?",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Fizeste-o um pouco inferior aos anjos; de glória e de honra o coroaste.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Tudo submeteste a seus pés». Com efeito, ao submeter-lhe todas as coisas, Deus nada deixou por lhe submeter. Todavia, ainda não vemos que tudo lhe esteja submetido;",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "mas vemos Jesus, que por pouco tempo foi inferior aos anjos, coroado de glória e de honra por causa da morte que sofreu, a fim de que, pela graça de Deus, provasse a morte em favor de todos nós.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "De facto, ao querer conduzir muitos filhos à glória, convinha que Aquele, por causa de quem e por quem tudo existe, levasse à perfeição, por meio do sofrimento, o autor da salvação.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Pois tanto Aquele que santifica como os que são santificados procedem todos de um só. Por essa razão, Ele não se envergonha de lhes chamar irmãos,",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "quando diz: «Hei de anunciar o teu nome aos meus irmãos, no meio da assembleia cantarei os teus louvores».",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "E ainda: «Eu porei nele a minha confiança». E noutra passagem: «Eis-me aqui, com os filhos que Deus me deu».",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Uma vez que os filhos dos homens têm em comum a carne e o sangue, também Jesus participou dessa mesma natureza, a fim de, pela morte, destruir aquele que tem o poder da morte, isto é, o Diabo,",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "e assim libertar aqueles que, por medo da morte, estavam para toda a vida sujeitos à escravidão.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "É que, de facto, Ele não veio em auxílio dos anjos, mas veio em auxílio da descendência de Abraão.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Por isso, tinha de se tornar em tudo semelhante aos irmãos, para ser um sumo sacerdote misericordioso e fiel naquilo que diz respeito a Deus, e assim expiar os pecados do povo.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "É precisamente por ter sido provado pelo sofrimento que Ele é capaz de vir em socorro daqueles que passam pela provação.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Portanto, irmãos santos, vós que sois participantes de uma vocação celeste, considerai como Jesus, o apóstolo e sumo sacerdote da fé que professamos,",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "é fiel Àquele que assim o constituiu, como também o foi Moisés na casa de Deus.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Ele, de facto, foi considerado digno de uma glória maior do que a de Moisés, na medida em que o construtor de uma casa tem maior dignidade do que ela.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "De facto, todas as casas são construídas por alguém, mas é Deus quem tudo constrói.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Moisés foi fiel na casa de Deus, como servo, para dar testemunho daquilo que havia de ser anunciado;",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "mas Cristo é fiel, como Filho, posto à frente da sua casa. E essa casa somos nós, se mantivermos a confiança e a esperança de que nos gloriamos. A",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Por isso, como diz o Espírito Santo: «Hoje, se escutardes a sua voz,",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "não endureçais os vossos corações, como aconteceu na revolta, no dia da tentação no deserto,",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "onde os vossos pais me tentaram, pondo-me à prova, apesar de terem visto as minhas obras,",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "durante quarenta anos. Por isso me indignei contra esta geração e disse: andam sempre de coração extraviado; não conheceram os meus caminhos.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Assim, jurei na minha ira: não entrarão no meu repouso!».",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Tende cuidado, irmãos, para que não haja em nenhum de vós um coração mau e incrédulo, que o afaste do Deus vivo.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Exortai-vos todos os dias uns aos outros, enquanto dura o tempo que se chama hoje, para que nenhum de vós se deixe endu - recer pela sedução do pecado.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "De facto, nós tornámo-nos e somos participantes de Cristo, desde que mantenhamos a confiança inicial firme até ao fim.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Quando se diz: «Hoje, se escutardes a sua voz, não endureçais os vossos corações, como aconteceu na revolta»,",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "quem foram esses que, depois de terem ouvido a sua voz, se revoltaram? Não foram, porventura, todos os que saíram do Egito, conduzidos por Moisés?",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "E contra quem se indignou Deus durante quarenta anos? Não foi contra os que pecaram e cujos cadáveres ficaram tombados no deserto?",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "E a quem jurou que não entrariam no seu repouso, senão àqueles que desobedeceram?",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Assim, vemos que foi por causa da sua incredulidade que eles não puderam entrar.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Portanto, embora se mantenha em vigor a promessa de entrar no repouso de Deus, temos receio que algum de vós seja considerado excluído.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "É que também a nós, como a eles, foi anunciada a boa nova; no entanto, de nada lhes aproveitou a Palavra que escutaram, por não terem ficado unidos pela fé àqueles que também a tinham escutado.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Pois somos nós, os que acreditámos, que entramos no repouso, tal como está dito: «Assim jurei na minha ira: não entrarão no meu repouso». Isto apesar de as obras de Deus estarem terminadas desde a criação do mundo,",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "pois está dito numa passagem da Escritura, a propósito do sétimo dia: «E no sétimo dia Deus repousou de todas as suas obras»;",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "e nesta passagem acrescenta: «Não entrarão no meu repouso!».",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Portanto, tendo em conta que é para alguns que está reservado entrar nele, e que os primeiros a receber o anúncio da boa nova não entraram devido à sua desobe - diência,",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Deus volta a fixar um dia um hoje quando tanto tempo depois diz, por meio de David, aquilo que já foi citado: «Hoje, se escutardes a sua voz, não endureçais os vossos corações».",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Com efeito, se Josué lhes tivesse assegurado este repouso, Deus não teria, depois disso, falado de outro dia.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Por conseguinte, continua reservado um repouso sabáti - co para o povo de Deus.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Assim, aquele que entra no seu repouso repousa também dos seus trabalhos, tal como Deus repousou das suas obras.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Esforcemo-nos, pois, por entrar nesse repouso, para que ninguém caia no mesmo género de desobediência.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "De facto, a palavra de Deus é viva e eficaz, mais cortante do que uma espada de dois gumes; penetra até ao ponto de divisão da alma e do espírito, das articulações e das medulas, e é capaz de discernir os pensamentos e as intenções do coração.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Não há criatura que, na sua presença, permaneça oculta: tudo fica a nu e a descoberto aos olhos daquele a quem temos de prestar contas.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Tendo nós um grande sumo sacerdote, que atravessou os céus, Jesus, o Filho de Deus, permaneçamos firmes na profissão da fé.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Com efeito, nós não temos um sumo sacerdote incapaz de se compadecer das nossas fraquezas; pelo contrário, Ele passou por todas as provações, tal como nós, exceto pelo pecado.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Portanto, vamos com confiança ao trono da graça, a fim de alcançarmos misericórdia e encontrarmos graça, para que possamos ser socorridos no momento oportuno.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Com efeito, todo o sumo sacerdote, escolhido de entre os homens, é consti - tuído em favor dos homens, nas suas relações com Deus, para oferecer dons e sacrifícios pelos pecados.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Ele é capaz de se compadecer dos ignorantes e extra - viados, porque também ele está sujeito à debilidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "E é por causa dela que deve oferecer sacrifícios pelos pecados, tanto pelos do povo, como pelos seus.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Ninguém atribui a si próprio uma tal honra, senão quem foi chamado por Deus, como Aarão.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Assim também, não foi Cristo que se glorificou a si mesmo tornando-se sumo sacerdote, mas fê-lo Aquele que lhe disse: «Tu és meu Filho, Eu hoje te gerei»,",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "e que disse, ainda, noutra passagem: «Tu és sacerdote para sempre, segundo a ordem de Melquisedec».",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Nos dias da sua vida terrena, Ele dirigiu preces e súplicas, com grandes clamores e lágrimas, Àquele que o podia salvar da morte, e foi escutado por causa da sua piedade.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Apesar de ser Filho, foi a partir daquilo que sofreu que aprendeu a obediência;",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "levado à perfeição no seu ministério, tornou-se causa de salvação eterna para todos A O os que lhe obedecem,",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "tendo sido proclamado por Deus sumo sacerdote segundo a ordem de Melquisedec.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Muito teríamos a dizer acerca deste assunto, mas é difícil explicá-lo, visto que sois lentos em compreender.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Com efeito, vós que, tendo em conta o tempo decorrido, devíeis ser mestres, ainda tendes necessidade de que alguém vos ensine os princípios elementares das palavras de Deus; em vez de alimento sólido, ainda necessitais de leite.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Ora, quem se alimenta de leite não tem experiência suficiente para entender o discurso da justiça, pois é como uma criança.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "O alimento sólido é para os adultos, para aqueles que, pela prática, já têm bem exercitada a faculdade de discernir o bem do mal.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Portanto, deixando de parte este discurso elementar sobre Cristo, avancemos para outro mais perfeito, sem ter de voltar a lançar os seus fundamentos, como seja a renúncia às obras mortas, a fé em Deus,",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "o ensinamento sobre os batismos, a imposição das mãos, a ressurreição dos mortos e o juízo eterno.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "E é isso que faremos, se Deus o permitir.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "De facto, é impossível àqueles que foram iluminados de uma vez para sempre que saborearam o dom celeste e se tornaram participantes do Espírito Santo,",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "que",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "e que ainda assim caíram, é-lhes impossível renovar a conversão uma segunda vez, já que assim, por sua parte, eles crucificam de novo o Filho de Deus e o expõem ao escárnio.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Com efeito, quando a terra bebe a chuva que tantas vezes sobre ela A cai e produz plantas úteis para aqueles que a cultivam, recebe a bênção de Deus;",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "mas, se produz espinhos e cardos, é inútil e fica próxima da maldição: o seu fim é ser queimada.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Mas quanto a vós, amados irmãos, ainda que falemos desta maneira, estamos certos de que vos encontrais em condições melhores, no que diz respeito à salva - ção.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Pois Deus não é injusto de modo a esquecer o vosso trabalho e o amor que mostrastes pelo seu nome, ao terdes servido os santos e ao continuardes a servi-los.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Desejamos que cada um de vós demonstre esse empenho até ao fim, para que a vossa esperança atinja a sua plenitude,",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "de modo a que não vos torneis indolentes, mas sim imitadores daqueles que, por meio da fé e da paciência, são os herdeiros da promessa.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Quando fez a promessa a Abraão, Deus, por não ter ninguém maior por quem jurar, jurou por si mesmo,",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "dizendo: «Cumular-te-ei de bênçãos e multiplicarei a tua descendência».",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "E assim, depois de ter esperado com paciência, Abraão obteve aquilo que tinha sido prometido.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "De facto, os homens juram por alguém maior do que eles, e o juramento é para eles uma garantia que põe fim a qualquer controvérsia.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Por isso, Deus, querendo mostrar com maior ênfase aos herdeiros da promessa o carácter irrevogável da sua decisão, comprometeu-se com um juramento,",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "para que, graças a dois atos irrevogáveis, nos quais é impossível que Deus minta, nós, que nele procurámos refúgio, tenhamos um forte incentivo para nos agarrarmos à esperança que nos foi colocada diante de nós.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Temos nela como que uma âncora da alma, segura e firme, que penetra para além do véu do santuário,",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "onde Jesus entrou como nosso precursor, tornando-se para sempre sumo sacerdote segundo a ordem de Melquisedec.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Com efeito, este Melquisedec, rei de Salém, sacerdote do Deus Altíssimo, foi ao encontro de Abraão, quando este regressava da derrota que infligiu aos reis, e abençoou-o;",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Abraão entregou-lhe, então, o dízimo de todas as coisas. O seu nome significa, em primeiro lugar, «rei de justiça», mas também rei de Salém, isto é, «rei de paz».",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Sem pai, sem mãe e sem genealogia, sem princípio para os seus dias nem um fim para a sua vida ou genealogia, ele assemelha-se assim ao Filho de Deus e permanece sacerdote para sempre.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Considerai, pois, como era grande este a quem o patriarca Abraão deu o dízimo dos melhores despojos.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "É certo que os filhos de Levi que recebem o sacerdócio têm, segundo a lei, o mandato de receber o dízimo do povo, isto é, dos seus irmãos, embora eles sejam também da descendência de Abraão.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Mas aquele, que não era da sua linhagem, recebeu o dízimo de Abraão e abençoou o depositário das pro - messas.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Ora, não há dúvida nenhuma de que é o inferior que é abençoado pelo superior.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Num caso, os que recebem o dízimo são homens mortais, enquanto no outro é alguém de quem se atesta que está vivo.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "E até se pode dizer que Levi, que devia receber o dízimo, o pagou por meio de Abraão,",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "visto que ainda estava nas entranhas de seu pai, quando Melquisedec foi ao seu encontro.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Portanto, se a perfeição tivesse sido alcançada por meio do sacerdócio levítico pois foi nele que o povo recebeu a Lei que necessidade haveria de que surgisse outro sacerdote segundo a ordem de Melquisedec, e não segundo a ordem de Aarão?",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Com efeito, ao haver uma mudança no sacerdócio, ocorre necessariamente uma mudança de lei.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Pois Aquele de quem se dizem estas coisas pertencia a outra tribo, da qual ninguém se dedicou ao serviço do altar.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "De facto, é evidente que nosso Senhor provém de Judá, tribo à qual Moisés nunca se referiu ao falar da função sacerdotal.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "E isto é ainda mais evidente quando surge um outro sacerdote à semelhança de Melquisedec,",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "que foi constituído como tal, não segundo a lei de uma norma que diz respeito à descendência carnal, mas segundo o poder de uma vida indestrutível.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Com efeito, é dele que se dá este testemunho: «Tu és sacerdote para sempre, segundo a ordem de Melquisedec».",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Deste modo, por um lado, fica revogada a norma precedente, tendo em conta",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "pois a Lei não levou nada à perfeição e, por outro, introduz-se uma esperança superior, pela qual nos podemos aproximar de Deus.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Ora, isso não foi feito sem um juramento. Os outros foram constituídos sacerdotes sem juramento,",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "ao passo que Este o foi com um juramento feito por Aquele que lhe disse: «O Senhor jurou e não se arrependerá: Tu és sacerdote para sempre».",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Foi por isso que Jesus se tornou o garante de uma aliança superior.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Eles foram constituídos sacerdotes em grande número, porque a morte os impe - dia de durar para sempre;",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "mas Jesus, por permanecer para sempre, possui um sacerdócio perene.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "É também por isso que Ele pode salvar de modo definitivo aqueles que por seu intermédio se aproximam de Deus: porque vive perpetuamente para interceder por eles.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Era precisamente Este o sumo sacerdote que nos convinha: santo, inocente, sem mancha, separado dos pecadores e elevado acima dos céus;",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "que não tem necessidade, como os sumos sacerdotes, de oferecer sacrifícios todos os dias, primeiro pelos seus próprios pecados, depois pelos do povo, visto que o fez de uma vez para sempre, quando se ofereceu a si mesmo.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "A Lei constitui como sumos sacerdotes homens que têm fraquezas, mas a palavra do juramento, posterior à Lei, estabeleceu como sumo sacerdote o Filho, eternamente perfeito.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O principal ponto do que estamos a dizer é este: nós temos um sumo sacerdote que se sentou nos céus, à direita do trono da divina Majestade.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Ele é o ministro do santuário e da verdadeira tenda, levantada pelo Senhor e não pelo homem.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Ora, é para oferecer dons e sacrifícios que todo o sumo sacerdote é constituído; portanto, é necessário que também Jesus tenha algo para oferecer.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Pois bem, se Ele estivesse na terra, nem sequer seria sacerdote, visto que há outros que oferecem os dons segundo a Lei.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Estes exercem um culto que é uma figura e uma sombra das rea - lidades celestes, tal como foi revelado a Moisés a respeito de como se devia construir a tenda: «Olha!» foi-lhe dito «Farás tudo segundo o modelo que te foi mostrado no monte».",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Mas agora Jesus obteve um ministério tanto mais excelente, quanto superior é a aliança de que é mediador e que está fundada em promessas superiores.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "De facto, se a primeira aliança fosse perfeita, não teria havido lugar para uma segunda.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Mas, repreendendo-os, Deus disse: «Dias virão» diz o Senhor «em que Eu concluirei uma aliança com a casa de Israel e com a casa de Judá.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Não será como a aliança que fiz com os seus pais, no dia em que os tomei pela mão para os fazer sair da terra do Egito. Visto que eles não permaneceram fiéis à minha aliança, tam - diz o Senhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "«Esta é a aliança que estabelecerei com a casa de Israel, depois daqueles dias» diz o Senhor «Porei as minhas leis na sua mente e gravá-las-ei no seu coração. Eu serei o seu Deus e eles serão o meu povo.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "E ninguém mais terá de ensinar o seu concidadão ou o seu irmão, dizendo: “ Conhece o Senhor!”. Porque todos me conhecerão, do mais pequeno ao maior,",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "pois serei misericordioso para com as suas iniquidades e não mais me lembrarei dos seus pecados».",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Ao falar de «nova» aliança, Deus tornou velha a primeira. Ora, aquilo que se tornou velho e obsoleto está prestes a desaparecer.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Também a primeira aliança tinha normas para o culto e um santuário terrestre.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "De facto, foi construída uma tenda, a primeira, chamada «o Santo», na qual se encontrava o candelabro, a mesa, e os pães da oferenda.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Atrás do segundo véu ficava a tenda chamada «santuário»,",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "que continha o altar de ouro para o incenso e a arca da aliança, toda recoberta de ouro e na qual havia uma urna de ouro, contendo o maná, a vara de Aarão, que tinha florescido, e as tábuas da aliança.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Por cima da arca estavam os querubins da glória, que cobriam o propiciatório com a sua sombra. Mas não é agora o momento para falar disto em pormenor.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Ora, estando tudo assim disposto, os sacerdotes entravam frequentemente na primeira tenda para realizar o culto.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Na segunda tenda, porém, apenas entrava o sumo sacerdote, uma vez por ano, levando o sangue que oferecia por si mesmo e pelos pecados que o povo cometera por ignorância.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Com isto o Espírito Santo mostrava que enquanto a primeira tenda se mantivesse de pé, não seria visível o caminho para o santuário.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Esta era uma espécie de prefiguração em relação ao tempo presente, no qual se continuam a oferecer dons e sacrifícios que não podem levar à perfeição, na sua consciência, aquele que exerce esse culto.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "São meras normas humanas, referentes a alimentos, bebidas e abluções diversas, e que estavam em vigor apenas até ao tempo em que seriam reformadas.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Cristo, porém, ao vir como sumo sacerdote dos bens futuros, atravessou uma tenda maior e mais perfeita, que não foi construída por mãos humanas, isto é, que não é deste mundo,",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "e entrou de uma vez para sempre no santuário. Não o fez com o sangue de bodes e de bezerros, mas com o seu próprio sangue, obtendo assim uma redenção eterna.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Pois, se o sangue de bodes e de touros e as cinzas de uma vitela, aspergidos sobre aqueles que estão impuros, os santificam, purificando-os na carne, O",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "quanto mais o sangue de Cristo que, por meio do Espírito eterno, a si próprio se ofereceu imaculado a Deus purificará a nossa consciência das obras mortas, para prestarmos culto ao Deus vivo!",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Por isso, Ele é o mediador de uma nova aliança, para que, tendo a sua morte acontecido para redenção das transgressões cometidas durante a primeira aliança, aqueles que são chamados recebam a herança eterna prometida.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Pois, quando existe um testamento, é necessário que se constate a morte do testador,",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "visto que um testamento só tem valor depois da morte, não tendo efeito enquanto o testador é vivo.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Por conseguinte, nem sequer a primeira aliança foi inaugurada sem derra - mamento de sangue.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Com efeito, depois de Moisés ter proclamado a todo o povo cada um dos mandamentos, de acordo com a Lei tomou o sangue dos bezerros e dos bodes, juntamente com água, lã escarlate e hissopo, e aspergiu tanto o próprio livro como todo o povo,",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "dizendo: «Este é o sangue da aliança que Deus estabeleceu convosco».",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Do mesmo modo, aspergiu com o sangue a tenda e todos os utensílios do culto.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Com efeito, segundo a Lei, quase todas as coisas são purificadas com sangue, e sem derramamento de sangue não há perdão.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Ora, se era forçoso que as coisas que são imagem das realidades celestes fossem purificadas por tais meios, também o era que as próprias realidades celestes fossem purificadas com sacrifícios superiores a estes.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "De facto, Cristo não entrou num santuário construído por mãos humanas, que era uma prefiguração do verdadeiro, mas no próprio céu, para se apresentar agora na presença de Deus em nosso favor.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "E não entrou para se oferecer muitas vezes, como o faz o sumo sacerdote que entra todos os anos no santuário com sangue alheio;",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "nesse caso, teria sido necessário que Cristo tivesse padecido muitas vezes desde a criação do mundo. Porém, foi agora, no fim dos tempos e de uma vez para sempre, que Ele se manifestou, a fim de destruir o pecado pelo sacrifício de si mesmo.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "E como para os homens está estabelecido que morram uma só vez e que a seguir tenha lugar o julgamento,",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "assim também Cristo, depois de se ter oferecido de uma vez para sempre, a fim de tomar sobre si os pecados de muitos, aparecerá uma segunda vez, já não por causa do pecado, mas para a salvação daqueles que por Ele ansiosamente aguardam.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A Lei, de facto, por possuir apenas uma sombra dos bens futuros e não a verdadeira imagem das coisas, jamais poderá levar à perfeição aqueles que se aproxi - mam do altar com os mesmos sacrifícios que se oferecem ano após ano.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "De outro modo, ao ficarem purificados de uma vez para sempre, não teriam aqueles que pres - tam culto deixado de oferecer sacrifícios, se, de facto, tivessem consciência de já não ter qualquer pecado?",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Pelo contrário: nesses sacrifícios faz-se memória, ano após ano, dos pecados,",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "visto que é impossível que o sangue de touros e de bodes remova os pecados.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Por isso, ao entrar no mundo, Cristo diz: «Não quiseste sacrifícios nem oblações, mas preparaste-me um corpo.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Não te agradaram holocaustos, nem vítimas pelo pecado.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Então Eu disse: “Eis que venho como está escrito no livro a meu respeito para fazer, ó Deus, a tua vontade”».",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Depois de ter dito: «Não quiseste e não te agradaram nem sacrifícios, nem oblações, nem holocaustos, nem vítimas pelo pecado» coisas que são oferecidas segun - do a Lei –,",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "acrescenta: «Eis que venho para fazer a tua vontade». Assim aboliu o primeiro culto, para estabelecer o segundo.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Foi graças a essa vontade que, pela oblação do corpo de Jesus Cristo, feita de uma vez para sempre, fomos santificados.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Todo o sacerdote se apresenta, dia após dia, para celebrar o culto e oferecer várias vezes os mesmos sacrifícios, que jamais poderão eliminar os pecados.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Cristo, porém, depois de oferecer um único sacrifício pelos pecados, sentou-se para sempre à direita de Deus,",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "aguardando apenas que os seus inimigos sejam postos como estrado dos seus pés.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Com efeito, com uma única oblação, Ele tornou perfeitos para sempre aqueles que foram santificados.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Disso também nos dá testemunho o Espírito Santo; de facto, depois de ter dito:",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "«Esta é a aliança que, depois daqueles dias, estabelecerei com eles», o Senhor diz: «Porei as minhas leis nos seus corações e gravá-las-ei nas suas mentes,",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "e não mais me recordarei dos seus pecados e das suas iniquidades».",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Ora, onde há perdão dos pecados e das iniquidades, já não há lugar para oblações pelo pecado.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Portanto, irmãos, tendo nós, graças ao sangue de Jesus, plena confiança de entrar no santuário",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "por este caminho novo e vivo que Ele nos abriu através do véu, isto é, através da sua carne,",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "e tendo um tão grande sacerdote à frente da casa de Deus,",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "aproximemo-nos com um coração sincero e cheio de fé, purificados nos nossos corações de toda a espécie de má consciência e lavados, no corpo, pela água pura.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Mantenhamos, sem vacilar, a confissão desta esperança, pois é fiel Aquele que fez a promessa.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "E prestemos atenção uns aos outros, no sentido de nos estimularmos ao amor e às boas obras;",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "não faltemos às nossas assembleias, como é costume de alguns, mas exortemo-nos mutuamente, tanto mais quanto vos ides apercebendo de que se aproxima o dia do Senhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Pois, se pecamos voluntariamente depois de termos recebido o conhecimento da verdade, já não nos resta qualquer sacrifício pelos pecados,",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "mas a aterradora expectativa do juízo e do furor do fogo que há de devorar os rebeldes.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Quando alguém transgride a lei de Moisés, é condenado à morte sem misericórdia, com base em duas ou três testemunhas.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Ora, não julgais vós que merecerá um castigo muito pior aquele que tiver calcado aos pés o Filho de Deus, que tiver tratado como pro - fano o sangue da aliança, pelo qual foi santificado, e que tiver ultrajado o Espírito da graça?",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "Pois nós conhecemos Aquele que disse: «É minha a vingança; Eu darei a retribuição». E ainda: «O Senhor julgará o seu povo».",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "É aterrador cair nas mãos do Deus vivo!",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "Recordai aqueles primeiros dias em que, depois de terdes sido iluminados, suportastes tão grandes e dolorosos combates,",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "ora expostos publicamente a injú - rias e a tribulações, ora tornando-vos solidários com os que assim eram tratados.",
+          "note_refs": []
+        },
+        {
+          "verse": 34,
+          "text": "De facto, compartilhastes o sofrimento dos prisioneiros e aceitastes com alegria a espoliação dos vossos bens, por saberdes que possuís bens superiores e duradouros.",
+          "note_refs": []
+        },
+        {
+          "verse": 35,
+          "text": "Portanto, não percais agora a vossa confiança, que terá uma grande recompensa.",
+          "note_refs": []
+        },
+        {
+          "verse": 36,
+          "text": "Com efeito, é de perseverança que tendes necessidade, para que, ao cumprirdes a vontade de Deus, possais obter aquilo que foi prometido.",
+          "note_refs": []
+        },
+        {
+          "verse": 37,
+          "text": "De facto, mais um pouco, muito pouco, e Aquele que está para vir chegará e não tardará.",
+          "note_refs": []
+        },
+        {
+          "verse": 38,
+          "text": "O meu justo viverá pela fé, mas, se retroceder, nele não se há de comprazer a minha alma.",
+          "note_refs": []
+        },
+        {
+          "verse": 39,
+          "text": "Nós não somos daqueles que retrocedem para a sua perdição, mas daqueles que conservam a fé para a salvação da alma.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A fé é o fundamento daquilo que se espera e a certeza das realidades que não se veem.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Foi nela, de facto, que os nossos antepassados receberam o testemunho.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Pela fé, sabemos que o universo foi formado pela palavra de Deus e que aquilo que é visível proveio do que é invisível.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Pela fé, Abel ofereceu a Deus um sacrifício superior ao de Caim; por ela, recebeu o testemunho de que era justo, testemunho dado por Deus a respeito da sua oferenda; e é por ela que, mesmo depois de morto, ele continua a falar.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Pela fé, Henoc foi arrebatado, para não ver a morte, e não mais foi encontrado, porque Deus o arrebatou; antes de ser arrebatado, recebeu o testemunho de que tinha agradado a Deus.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Ora, sem a fé é impossível agradar-lhe, pois é necessário que quem se aproxima de Deus acredite que Ele existe e que recompensa aqueles que o procuram.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Pela fé, Noé, prevenido por Deus acerca daquilo que ainda não era visível, cons - truiu, com reverente temor, uma arca para salvar a sua família; pela sua fé, condenou o mundo e tornou-se herdeiro da justificação que se obtém pela fé.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Pela fé, Abraão, quando foi chamado, obedeceu e partiu para um lugar que have - ria de receber como herança; e partiu sem saber para onde ia.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Pela fé, foi morar como estrangeiro para a terra prometida, habitando em tendas, com Isaac e Jacob, herdeiros com ele da mesma promessa,",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "pois esperava a cidade bem alicerçada, cujo arquiteto e construtor é Deus.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Pela fé, também a Sara, embora estéril e já passada a idade, lhe foi dada a possibi - lidade de dar início a uma descendência, por ter considerado digno de fé quem lho tinha prometido.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "E foi por isso que de um só homem e que já estava próximo da morte nasceram descendentes tão numerosos como as estrelas do céu e como a incontável areia da praia do mar.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Foi na fé que todos estes morreram, sem terem obtido o que fora prometido. Mas, vendo e saudando ao longe tais promessas, confessaram que eram estrangei - ros e peregrinos sobre a terra.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Ora, quem assim fala mostra claramente que está à procura de uma pátria.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Com efeito, se tivessem continuado a lembrar-se da terra de onde tinham saído, teriam tido a oportunidade de a ela regressar.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Mas eles ansiavam por uma pátria superior, isto é, pela pátria celeste. Por isso, Deus não se envergonha de ser chamado «o seu Deus». Foi Ele, de facto, quem lhes preparou uma cidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Pela fé, Abraão, posto à prova, ofereceu Isaac; ele, que tinha recebido as promes - sas, estava pronto para oferecer o seu filho único,",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "acerca do qual tinha sido dito: «Por Isaac terás uma descendência com o teu nome».",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Ele considerava que Deus tinha poder até de ressuscitar os mortos; por isso, numa espécie de prefiguração, recuperou o filho.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Pela fé, Isaac, tendo em vista os bens futuros, abençoou Jacob e Esaú.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Pela fé, Jacob, estando a morrer, abençoou cada um dos filhos de José e prostrou- -se apoiado na extremidade do seu bastão.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Pela fé, José, no fim da vida, recordou o êxodo dos filhos de Israel e deu instruções acerca dos seus restos mortais.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Pela fé, Moisés, recém-nascido, foi escondido pelos seus pais durante três meses, porque viram que o menino era belo e não tiveram medo do decreto do rei.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Pela fé, Moisés, já adulto, negou-se a ser chamado filho da filha do faraó,",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "preferindo ser maltratado com o povo de Deus a desfrutar momentaneamente do pecado.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Ele considerou a injúria sofrida por Cristo uma riqueza maior do que os tesouros do Egito, pois tinha os olhos postos na recompensa.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Pela fé, deixou o Egito, sem temer a fúria do rei; de facto, manteve-se firme como se estivesse a ver Aquele que é invisível.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Pela fé, celebrou a Páscoa e fez a aspersão do sangue para que o anjo extermina - dor não ferisse os primogénitos de Israel.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Pela fé, atravessaram o Mar Vermelho, como se fosse terra seca, enquanto os egípcios foram engolidos pelas águas, quando o tentaram fazer.",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "Pela fé, caíram as muralhas de Jericó, depois de terem sido rodeadas durante sete dias.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "Pela fé, Raab, a prostituta, não morreu com os incrédulos, por ter acolhido paci - ficamente os exploradores.",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "E que mais poderei dizer? Faltar-me-ia o tempo se quisesse falar sobre Gedeão, Barac, Sansão, Jefté, David, e também sobre Samuel e os Profetas.",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "Por meio da fé, eles conquistaram reinos, exerceram a justiça, obtiveram o que lhes foi pro - metido, fecharam a boca de leões,",
+          "note_refs": []
+        },
+        {
+          "verse": 34,
+          "text": "extinguiram a violência do fogo, escaparam do fio da espada, restabeleceram-se de doenças, tornaram-se fortes na guerra, puseram em fuga exércitos estrangeiros.",
+          "note_refs": []
+        },
+        {
+          "verse": 35,
+          "text": "Houve até mulheres que recuperaram os seus mortos pela ressurreição. Outros, porém, foram torturados e recusaram a libertação, a fim de alcançar uma ressurreição superior.",
+          "note_refs": []
+        },
+        {
+          "verse": 36,
+          "text": "Outros passaram pela experiência do escárnio e das chicotadas, e ainda das cadeias e da prisão;",
+          "note_refs": []
+        },
+        {
+          "verse": 37,
+          "text": "foram apedrejados, serrados, mortos à espada, andaram errantes, cobertos de peles de ovelha e de cabra, desprovidos de tudo, atribulados, maltratados.",
+          "note_refs": []
+        },
+        {
+          "verse": 38,
+          "text": "O mundo não era digno deles! Andaram perdidos por desertos e montanhas, por grutas e pelas cavernas da terra.",
+          "note_refs": []
+        },
+        {
+          "verse": 39,
+          "text": "E todos eles, apesar de terem recebido um bom testemunho por meio da fé, não obtiveram o que tinha sido prometido,",
+          "note_refs": []
+        },
+        {
+          "verse": 40,
+          "text": "e isto porque Deus tinha previsto para nós um destino melhor, pelo que eles não deviam chegar sem nós à perfeição.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Assim sendo, estando envolvidos por uma tal nuvem de testemunhas, corramos também nós com perseverança a prova que nos é proposta, pondo de parte tudo aquilo que nos estorva e o pecado que tão facilmente nos assedia,",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "e colocando o olhar em Jesus, que é a origem da nossa fé e quem leva à perfeição. Renunciando à alegria que tinha ao seu alcance, Ele suportou a cruz, desprezando a ignomínia a que foi sujeito, e está sentado à direita do trono de Deus.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Tende, pois, no vosso pensamento, Aquele que suportou tanta oposição contra si da parte dos pecadores, a fim de que as vossas almas não se deixem abater pelo desânimo.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Vós ainda não resististes até ao sangue na luta contra o pecado.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "E esquecestes a exortação que vos é dirigida, como a filhos que sois: «Meu filho, não desprezes a correção do Senhor, nem desanimes quando Ele te repreende;",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "pois o Senhor corrige aquele a quem ama, e disciplina todo aquele que reconhece como filho».",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "É para vossa correção que sofreis, pois Deus trata-vos como filhos. De facto, qual é o filho a quem o pai não corrige?",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Se, pelo contrário, ficais excluídos daquela cor - reção de que todos tomam parte, então é porque sois bastardos e não filhos.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Além disso, tivemos os nossos pais terrenos, que nos corrigiam e a quem respeitávamos; não haveríamos de nos submeter, com muito mais razão, ao Pai dos espíritos, para termos a vida?",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Os nossos pais, com efeito, corrigiam-nos por pouco tempo e con - forme entendiam, ao passo que Ele o faz, tendo em conta o que nos convém, a fim de podermos participar da sua santidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "No momento em que se recebe, uma correção não é considerada como motivo de alegria, mas de tristeza. Mais tarde, porém, produz um fruto de paz e de justiça naqueles que por ela foram exercitados.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Por isso, fortalecei as vossas mãos inertes e os vossos joelhos vacilantes,",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "e fazei caminhos retos para os vossos pés, para que o coxo não coxeie mais, mas antes seja curado.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Procurai a paz com todos e a santificação, sem a qual ninguém verá o Senhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Estai vigilantes, para que ninguém fique sem a graça de Deus, e para que nenhu - ma raiz venenosa venha a brotar e a causar dano, fazendo com que muitos sejam contaminados por ela.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Estai também vigilantes para que ninguém seja promíscuo ou profanador, como Esaú, que por um prato de comida vendeu os seus direitos de primogénito.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Bem sabeis que mais tarde, quando ele quis receber a bênção em herança, apesar de a ter procurado em lágrimas, foi rejeitado, por não ser possível reverter a situação.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Vós, de facto, não vos aproximastes de uma realidade tangível que ardia em fogo, nem da escuridão, das trevas ou da tempestade,",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "nem do som da trombeta, nem daquela voz a quem os ouvintes suplicaram que não lhes falasse mais,",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "pois não podiam suportar o que lhes era ordenado: «Até um animal, se tocar a montanha, será apedrejado».",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "E aquilo que se via era tão aterrador, que Moisés exclamou: «Estou apavorado e a tremer».",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Pelo contrário, vós aproximastes-vos do monte Sião, da cidade do Deus vivo, da Jerusalém celeste; de miríades de anjos, de uma reunião festiva,",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "da assembleia dos primogénitos inscritos nos céus; de Deus, juiz de todos; dos espíritos dos justos que alcançaram a perfeição;",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "de Jesus, mediador de uma nova aliança, e do sangue de aspersão, que fala mais eloquentemente do que o sangue de Abel.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Tende cuidado para não rejeitardes Aquele que vos fala; pois se aqueles não escaparam ao castigo, por terem rejeitado quem lhes transmitia os oráculos na terra, quanto menos escaparemos nós, se voltarmos as costas Àquele que dos céus nos fala,",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "cuja voz outrora abalou a terra, e que agora faz esta promessa: «Eu farei tremer uma vez mais não só a terra, mas também o céu».",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Esta expressão «uma vez mais» indica a transformação de tudo o que participa da instabilidade do mundo criado, para que permaneça o que é estável.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Por isso, nós, que recebemos um reino inabalável, conservemos a graça e, por meio dela, ofereçamos a Deus, com piedade e temor, um culto que lhe seja agradável,",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "pois o nosso Deus é um fogo devorador.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Que permaneça o amor fraterno!",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Não vos esqueçais da hospitalidade, pois foi graças a ela que alguns, sem o saberem, hospedaram anjos.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Recordai-vos dos prisioneiros, como se estivésseis presos com eles, e dos que são maltratados, pois também vós tendes um corpo.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "O matrimónio seja honrado por todos, e que o leito conjugal não seja manchado, pois Deus julgará os promíscuos e os adúlteros.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Que não seja o amor ao dinheiro a guiar a vossa conduta; contentai-vos com o que tendes. Pois Deus disse: «Jamais te deixarei, jamais te abandonarei!».",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Assim, confiantes, poderemos dizer: «O Senhor é o meu auxílio, nada temerei; que poderão fazer-me os homens?»",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Lembrai-vos daqueles que vos guiam e que vos anunciaram a palavra de Deus; observando atentamente o êxito da sua conduta, imitai a sua fé.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Jesus Cristo é o mesmo, ontem, hoje e para sempre.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Não vos deixeis levar por ensinamentos dife - rentes e estranhos, pois o que é bom é fortalecer o coração com a graça e não com normas sobre os alimentos, que em nada aproveitaram àqueles que as observaram.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Nós temos um altar, do qual não têm direito a comer aqueles que prestam culto na tenda da antiga Lei.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Com efeito, os corpos dos animais, cujo sangue é levado O pelo sumo sacerdote ao santuário para a expiação dos pecados, são queimados fora do acampamento.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Por isso, também Jesus, para santificar o povo por meio do seu próprio sangue, padeceu fora das portas da cidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Por conseguinte, saiamos ao seu encontro, para fora do acampamento, carregando a injúria que Ele sofreu,",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "pois não temos aqui uma cidade permanente, mas procuramos a cidade que está para vir.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Por meio dele ofereçamos continuamente a Deus um sacrifício de louvor, isto é, que seja fruto dos lábios que confessam o seu nome.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Não vos esqueçais de fazer o bem e de partilhar com os outros, pois são esses os sacrifícios que agradam a Deus.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Obedecei àqueles que vos guiam e sede-lhes dóceis, pois eles velam pelas vossas almas, das quais terão de prestar contas; isto para que o façam com alegria e sem se queixarem, pois tal não vos seria vantajoso.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Rezai por nós; estamos convencidos de que estamos de consciência tranquila, por desejarmos proceder bem em tudo;",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "mas exorto-vos com maior insistência a que o façais, a fim de que eu vos seja restituído mais depressa.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "O Deus da paz, que ressuscitou dos mortos Aquele que, pelo sangue de uma aliança eterna, é o grande pastor das ovelhas, nosso Senhor Jesus,",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "vos torne perfeitos em todo o bem, para fazerdes a sua vontade. Que Ele realize em nós o que lhe é agradável, por meio de Jesus Cristo. A Ele a glória pelos séculos dos séculos! Ámen.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Peço-vos, irmãos, que aceiteis esta palavra de exortação, que de forma sucinta vos dirigi.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Sabei que o nosso irmão Timóteo foi posto em liberdade; se ele chegar em breve, é na sua companhia que irei visitar-vos.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Saudai todos aqueles que vos guiam e todos os santos. Os da Itália saúdam-vos.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "A graça esteja com todos vós.",
+          "note_refs": []
+        }
+      ]
+    }
+  ]
+}

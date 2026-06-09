@@ -1,6 +1,209 @@
 {
   "books": [
     {
+      "id": "gn",
+      "book": "Génesis",
+      "file": "books/gn.json",
+      "chaptersCount": 50,
+      "available": true
+    },
+    {
+      "id": "ex",
+      "book": "Êxodo",
+      "file": "books/ex.json",
+      "chaptersCount": 40,
+      "available": true
+    },
+    {
+      "id": "lv",
+      "book": "Levítico",
+      "file": "books/lv.json",
+      "chaptersCount": 27,
+      "available": true
+    },
+    {
+      "id": "nm",
+      "book": "Números",
+      "file": "books/nm.json",
+      "chaptersCount": 36,
+      "available": true
+    },
+    {
+      "id": "dt",
+      "book": "Deuteronómio",
+      "file": "books/dt.json",
+      "chaptersCount": 34,
+      "available": true
+    },
+    {
+      "id": "js",
+      "book": "Josué",
+      "file": "books/js.json",
+      "chaptersCount": 24,
+      "available": true
+    },
+    {
+      "id": "jz",
+      "book": "Juízes",
+      "file": "books/jz.json",
+      "chaptersCount": 21,
+      "available": true
+    },
+    {
+      "id": "1sm",
+      "book": "1 Samuel",
+      "file": "books/1sm.json",
+      "chaptersCount": 31,
+      "available": true
+    },
+    {
+      "id": "2sm",
+      "book": "2 Samuel",
+      "file": "books/2sm.json",
+      "chaptersCount": 24,
+      "available": true
+    },
+    {
+      "id": "1rs",
+      "book": "1 Reis",
+      "file": "books/1rs.json",
+      "chaptersCount": 22,
+      "available": true
+    },
+    {
+      "id": "2rs",
+      "book": "2 Reis",
+      "file": "books/2rs.json",
+      "chaptersCount": 25,
+      "available": true
+    },
+    {
+      "id": "1cr",
+      "book": "1 Crónicas",
+      "file": "books/1cr.json",
+      "chaptersCount": 29,
+      "available": true
+    },
+    {
+      "id": "2cr",
+      "book": "2 Crónicas",
+      "file": "books/2cr.json",
+      "chaptersCount": 36,
+      "available": true
+    },
+    {
+      "id": "est",
+      "book": "Ester",
+      "file": "books/est.json",
+      "chaptersCount": 10,
+      "available": true
+    },
+    {
+      "id": "1mc",
+      "book": "1 Macabeus",
+      "file": "books/1mc.json",
+      "chaptersCount": 16,
+      "available": true
+    },
+    {
+      "id": "2mc",
+      "book": "2 Macabeus",
+      "file": "books/2mc.json",
+      "chaptersCount": 15,
+      "available": true
+    },
+    {
+      "id": "job",
+      "book": "Job",
+      "file": "books/job.json",
+      "chaptersCount": 42,
+      "available": true
+    },
+    {
+      "id": "pr",
+      "book": "Provérbios",
+      "file": "books/pr.json",
+      "chaptersCount": 31,
+      "available": true
+    },
+    {
+      "id": "co",
+      "book": "Eclesiastes",
+      "file": "books/co.json",
+      "chaptersCount": 12,
+      "available": true
+    },
+    {
+      "id": "ct",
+      "book": "Cântico dos Cânticos",
+      "file": "books/ct.json",
+      "chaptersCount": 8,
+      "available": true
+    },
+    {
+      "id": "sb",
+      "book": "Sabedoria",
+      "file": "books/sb.json",
+      "chaptersCount": 19,
+      "available": true
+    },
+    {
+      "id": "is",
+      "book": "Isaías",
+      "file": "books/is.json",
+      "chaptersCount": 66,
+      "available": true
+    },
+    {
+      "id": "jr",
+      "book": "Jeremias",
+      "file": "books/jr.json",
+      "chaptersCount": 52,
+      "available": true
+    },
+    {
+      "id": "lm",
+      "book": "Lamentações",
+      "file": "books/lm.json",
+      "chaptersCount": 5,
+      "available": true
+    },
+    {
+      "id": "ez",
+      "book": "Ezequiel",
+      "file": "books/ez.json",
+      "chaptersCount": 48,
+      "available": true
+    },
+    {
+      "id": "dn",
+      "book": "Daniel",
+      "file": "books/dn.json",
+      "chaptersCount": 14,
+      "available": true
+    },
+    {
+      "id": "os",
+      "book": "Oseias",
+      "file": "books/os.json",
+      "chaptersCount": 14,
+      "available": true
+    },
+    {
+      "id": "jl",
+      "book": "Joel",
+      "file": "books/jl.json",
+      "chaptersCount": 3,
+      "available": true
+    },
+    {
+      "id": "am",
+      "book": "Amós",
+      "file": "books/am.json",
+      "chaptersCount": 9,
+      "available": true
+    },
+    {
       "id": "abd",
       "book": "Abdias",
       "file": "books/abd.json",
@@ -8,17 +211,241 @@
       "available": true
     },
     {
-      "id": "mc",
-      "book": "Evangelho de Marcos",
-      "file": "books/mc.json",
+      "id": "jn",
+      "book": "Jonas",
+      "file": "books/jn.json",
+      "chaptersCount": 4,
+      "available": true
+    },
+    {
+      "id": "mq",
+      "book": "Miqueias",
+      "file": "books/mq.json",
+      "chaptersCount": 7,
+      "available": true
+    },
+    {
+      "id": "na",
+      "book": "Naum",
+      "file": "books/na.json",
+      "chaptersCount": 3,
+      "available": true
+    },
+    {
+      "id": "hab",
+      "book": "Habacuc",
+      "file": "books/hab.json",
+      "chaptersCount": 3,
+      "available": true
+    },
+    {
+      "id": "sf",
+      "book": "Sofonias",
+      "file": "books/sf.json",
+      "chaptersCount": 3,
+      "available": true
+    },
+    {
+      "id": "ag",
+      "book": "Ageu",
+      "file": "books/ag.json",
+      "chaptersCount": 2,
+      "available": true
+    },
+    {
+      "id": "zc",
+      "book": "Zacarias",
+      "file": "books/zc.json",
+      "chaptersCount": 14,
+      "available": true
+    },
+    {
+      "id": "ml",
+      "book": "Malaquias",
+      "file": "books/ml.json",
+      "chaptersCount": 4,
+      "available": true
+    },
+    {
+      "id": "at",
+      "book": "Atos dos Apóstolos",
+      "file": "books/at.json",
+      "chaptersCount": 28,
+      "available": true
+    },
+    {
+      "id": "rm",
+      "book": "Romanos",
+      "file": "books/rm.json",
       "chaptersCount": 16,
       "available": true
     },
     {
-      "id": "co",
-      "book": "Coélet",
-      "file": "books/co.json",
-      "chaptersCount": 12,
+      "id": "1cor",
+      "book": "1 Coríntios",
+      "file": "books/1cor.json",
+      "chaptersCount": 16,
+      "available": true
+    },
+    {
+      "id": "2cor",
+      "book": "2 Coríntios",
+      "file": "books/2cor.json",
+      "chaptersCount": 13,
+      "available": true
+    },
+    {
+      "id": "gl",
+      "book": "Gálatas",
+      "file": "books/gl.json",
+      "chaptersCount": 6,
+      "available": true
+    },
+    {
+      "id": "ef",
+      "book": "Efésios",
+      "file": "books/ef.json",
+      "chaptersCount": 6,
+      "available": true
+    },
+    {
+      "id": "fl",
+      "book": "Filipenses",
+      "file": "books/fl.json",
+      "chaptersCount": 4,
+      "available": true
+    },
+    {
+      "id": "cl",
+      "book": "Colossenses",
+      "file": "books/cl.json",
+      "chaptersCount": 4,
+      "available": true
+    },
+    {
+      "id": "1ts",
+      "book": "1 Tessalonicenses",
+      "file": "books/1ts.json",
+      "chaptersCount": 5,
+      "available": true
+    },
+    {
+      "id": "2ts",
+      "book": "2 Tessalonicenses",
+      "file": "books/2ts.json",
+      "chaptersCount": 3,
+      "available": true
+    },
+    {
+      "id": "1tm",
+      "book": "1 Timóteo",
+      "file": "books/1tm.json",
+      "chaptersCount": 6,
+      "available": true
+    },
+    {
+      "id": "2tm",
+      "book": "2 Timóteo",
+      "file": "books/2tm.json",
+      "chaptersCount": 4,
+      "available": true
+    },
+    {
+      "id": "tt",
+      "book": "Tito",
+      "file": "books/tt.json",
+      "chaptersCount": 3,
+      "available": true
+    },
+    {
+      "id": "fm",
+      "book": "Filémon",
+      "file": "books/fm.json",
+      "chaptersCount": 1,
+      "available": true
+    },
+    {
+      "id": "tg",
+      "book": "Tiago",
+      "file": "books/tg.json",
+      "chaptersCount": 5,
+      "available": true
+    },
+    {
+      "id": "1pd",
+      "book": "1 Pedro",
+      "file": "books/1pd.json",
+      "chaptersCount": 5,
+      "available": true
+    },
+    {
+      "id": "2pd",
+      "book": "2 Pedro",
+      "file": "books/2pd.json",
+      "chaptersCount": 3,
+      "available": true
+    },
+    {
+      "id": "1jo",
+      "book": "1 João",
+      "file": "books/1jo.json",
+      "chaptersCount": 5,
+      "available": true
+    },
+    {
+      "id": "jd",
+      "book": "Judas",
+      "file": "books/jd.json",
+      "chaptersCount": 1,
+      "available": true
+    },
+    {
+      "id": "ap",
+      "book": "Apocalipse",
+      "file": "books/ap.json",
+      "chaptersCount": 22,
+      "available": true
+    },
+    {
+      "id": "ben-sira",
+      "book": "Ben Sira",
+      "file": "books/ben-sira.json",
+      "chaptersCount": 51,
+      "available": true
+    },
+    {
+      "id": "carta-aos-hebreus",
+      "book": "Carta aos Hebreus",
+      "file": "books/carta-aos-hebreus.json",
+      "chaptersCount": 13,
+      "available": true
+    },
+    {
+      "id": "sao-joao",
+      "book": "São João",
+      "file": "books/sao-joao.json",
+      "chaptersCount": 21,
+      "available": true
+    },
+    {
+      "id": "sao-lucas",
+      "book": "São Lucas",
+      "file": "books/sao-lucas.json",
+      "chaptersCount": 24,
+      "available": true
+    },
+    {
+      "id": "sao-marcos",
+      "book": "São Marcos",
+      "file": "books/sao-marcos.json",
+      "chaptersCount": 16,
+      "available": true
+    },
+    {
+      "id": "sao-mateus",
+      "book": "São Mateus",
+      "file": "books/sao-mateus.json",
+      "chaptersCount": 28,
       "available": true
     }
   ]

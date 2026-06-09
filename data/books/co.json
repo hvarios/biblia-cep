@@ -1,50 +1,28 @@
 {
-  "book": "Coélet",
+  "book": "Eclesiastes",
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "verse": 1,
-          "text": "Palavras de Coélet, filho de David, rei em Jerusalém .",
-          "note_refs": [
-            "a",
-            "b"
-          ],
-          "notes": {
-            "a": "As mensagens divinas transmitidas por meio dos profetas costumam ser referidas como palavra de Deus. O singular, Palavra, significa, neste caso, mais importância e autoridade. O Coélet que apresenta pensamentos de um humano distingue-se por ter um título no plural, palavras. Algo semelhante ocorre com o livro dos Provérbios, que, em hebraico se intitulam: mishlê Shelomoh (Parábolas de Salomão).",
-            "b": "Ao sublinhar a identidade simbólica com Salomão, o autor pretende apresentar a personagem do Coélet como um eminente representante da sabedoria (1Rs 9-14), aspeto que é, mais uma vez, sublinhado no epílogo da obra (12,9-11)."
-          }
+          "text": "Palavras de Coélet, filho de David, rei em Jerusalém.",
+          "note_refs": []
         },
         {
           "verse": 2,
-          "text": "Ilusão das ilusões – diz Coélet! Ilusão das ilusões! Tudo é ilusão!",
-          "note_refs": [
-            "c"
-          ],
-          "notes": {
-            "c": "Esta frase constitui como que um refrão onde se contém a tese do livro. Por isso é retomada no epílogo (12,8). O termo hebraico hebel condiz bem com a ideia de uma coisa vã ou inútil, mais do que com a ideia de absurdo. Por isso aqui se traduz por ilusão ."
-          }
+          "text": "Ilusão das ilusões diz Coélet! Ilusão das ilusões! Tudo é ilusão!",
+          "note_refs": []
         },
         {
           "verse": 3,
           "text": "Que proveito há para o homem em todas as suas fadigas com as quais se afadiga debaixo do Sol?",
-          "note_refs": [
-            "d"
-          ],
-          "notes": {
-            "d": "O autor repete com frequência a aliteração que aqui se traduz por fadiga e afadiga r-se, criando com esta expressão mais uma espécie de refrão uma fun"
-          }
+          "note_refs": []
         },
         {
           "verse": 4,
-          "text": "Uma geração vai e outra geração vem e a terra permanece eternamente .",
-          "note_refs": [
-            "e"
-          ],
-          "notes": {
-            "e": "Nos vv. 4-11, temos um poema inicial sobre o carácter passageiro e efémero de tudo o que acontece no mundo. Esta grande abertura corresponde ao belo poema de encerramento (12,1-8), sobre o processo final de decrepitude do humano."
-          }
+          "text": "Uma geração vai e outra geração vem e a terra permanece eternamente.",
+          "note_refs": []
         },
         {
           "verse": 5,
@@ -63,17 +41,12 @@
         },
         {
           "verse": 8,
-          "text": "Todas as palavras se esgotam; um homem não se consegue exprimir . A vista não se farta de ver, nem o ouvido se enche de ouvir. e o que foi feito é o que se fará. Pois não há nada de novo debaixo do Sol.",
-          "note_refs": [
-            "f"
-          ],
-          "notes": {
-            "f": "Ou: não para de falar."
-          }
+          "text": "Todas as palavras se esgotam; um homem não se consegue exprimir. A vista não se farta de ver, nem o ouvido se enche de ouvir.",
+          "note_refs": []
         },
         {
           "verse": 9,
-          "text": "Aquilo que foi é o que será",
+          "text": "Aquilo que foi é o que será O O e o que foi feito é o que se fará. Pois não há nada de novo debaixo do Sol.",
           "note_refs": []
         },
         {
@@ -98,13 +71,8 @@
         },
         {
           "verse": 14,
-          "text": "Vi todas as atividades que se fazem debaixo do Sol e eis que tudo é uma ilusão e um apascentar o vento .",
-          "note_refs": [
-            "a"
-          ],
-          "notes": {
-            "a": "Ou: um mal de espírito. Esta expressão é característica do Coélet e, por isso, é importante apurar o sentido que se lhe dá. Ela aparece frequentemente traduzida como correr atrás do vento . No entanto, o verbo hebraico não tem propriamente o sentido de correr e pode mesmo estar ligado à semântica de pastorear. Apascentar o vento é, com efeito, uma tarefa ilusória e inútil. Este sentido condiz bem com o contexto e com o espírito do Coélet. Ora esta metáfora encontra-se integralmente em Os 12,2, juntando a ideia de apascentar o vento e a de perseguir o vento leste, numa construção em esquema de paralelismo que serve como uma verdadeira definição de senti- do. Ver nota da TOB a Co 1,14, que chama a atenção para as conotações de pastorícia presentes no texto hebraico. A Bíblia Sagrada (PIB-Paulinas) traduz por “afã de espírito”. A tradição semântica hebraico-aramaica conserva a ideia de um termo ra´ut com o sentido de doença: “um mal de espírito”. A Vulgata traduz “afflictio spiritus”, coisa que a Neovulgata mantém. No entanto, em Os 12,1, a Vulgata diz: “Ephraim pascit ventum” e a Neovulgata: “Ephraim pascit ventum et sequitur aestum”."
-          }
+          "text": "Vi todas as atividades que se fazem debaixo do Sol e eis que tudo é uma ilusão e um apascentar o vento.",
+          "note_refs": []
         },
         {
           "verse": 15,
@@ -118,17 +86,12 @@
         },
         {
           "verse": 17,
-          "text": "Apliquei, também, o meu coração a conhecer a sabedoria e a reconhecer a loucura e a insensatez. Reconheci que também isso é apascentar o vento .",
-          "note_refs": [
-            "b"
-          ],
-          "notes": {
-            "b": "Ou: um mal de espírito. Cf. 1,14 e nota."
-          }
+          "text": "Apliquei, também, o meu coração a conhecer a sabedoria e a reconhecer a loucura e a insensatez. Reconheci que também isso é apascentar o vento.",
+          "note_refs": []
         },
         {
           "verse": 18,
-          "text": "Pois na muita sabedoria há muita arrelia; e o que aumenta o conhecimento aumen- ta o sofrimento.",
+          "text": "Pois na muita sabedoria há muita arrelia; e o que aumenta o conhecimento aumenta o sofrimento.",
           "note_refs": []
         }
       ]
@@ -137,8 +100,13 @@
       "chapter": 2,
       "verses": [
         {
+          "verse": 1,
+          "text": "Então eu disse no meu coração: «Vamos! Quero experimentar a alegria; olha para o que é bom!» Mas eis que também isto é ilusão.",
+          "note_refs": []
+        },
+        {
           "verse": 2,
-          "text": "Do riso eu disse: «É loucu- ra!» e da alegria: «Para que serve ela?»",
+          "text": "Do riso eu disse: «É loucu - ra!» e da alegria: «Para que serve ela?»",
           "note_refs": []
         },
         {
@@ -168,35 +136,22 @@
         },
         {
           "verse": 8,
-          "text": "Para mim recolhi também prata e ouro, riquezas de reis e de províncias; procurei para mim cantores e cantoras. Enfim, as delícias dos filhos dos homens, uma mulher e mais mulheres .",
-          "note_refs": [
-            "c"
-          ],
-          "notes": {
-            "c": "Em vez de uma e mais mulheres, a Neovulgata entende como: jarros e taças para servir bebidas . Neste ponto, o texto hebraico não permite uma leitura clara."
-          }
+          "text": "Para mim recolhi também prata e ouro, riquezas de reis e de províncias; procurei para mim cantores e cantoras. Enfim, as delícias dos filhos dos homens, uma mulher e mais mulheres.",
+          "note_refs": []
         },
         {
           "verse": 9,
-          "text": "Tornei-me grande e juntei mais riqueza que todos os que existiram antes de mim em Jerusalém; mas a minha sabedoria ficava comigo .",
-          "note_refs": [
-            "d"
-          ],
-          "notes": {
-            "d": "Ou: pois a minha sabedoria permanecia comigo."
-          }
+          "text": "Tornei-me grande e juntei mais riqueza que todos os que existiram antes de mim em Jerusalém; mas a minha sabedoria ficava comigo.",
+          "note_refs": []
         },
         {
           "verse": 10,
-          "text": "E de tudo quanto os meus olhos requeriam, Nada lhes reneguei; não privei o meu coração de nenhuma alegria, pois o meu coração sentiu alegria em todas as minhas fadigas; e esta foi a parte que me ficou de todas as minhas fadigas. E eis que tudo era ilusão e apascentar o vento e nenhum proveito havia debaixo do Sol.",
-          "note_refs": [],
-          "notes": {
-            "a": "Ou: um mal de espírito. Cf. 1,14 e nota."
-          }
+          "text": "E de tudo quanto os meus olhos requeriam, Nada lhes reneguei; não privei o meu coração de nenhuma alegria, pois o meu coração sentiu alegria em todas as minhas fadigas; e esta foi a parte que me ficou de todas as minhas fadigas.",
+          "note_refs": []
         },
         {
           "verse": 11,
-          "text": "E voltei-me para todas as obras que as minhas mãos tinham feito e para as fadigas que me custou fazê-las.",
+          "text": "E voltei-me para todas as obras que as minhas mãos tinham feito e para as fadigas que me custou fazê-las. E eis que tudo era ilusão e apascentar o vento e nenhum proveito havia debaixo do Sol.",
           "note_refs": []
         },
         {
@@ -211,13 +166,8 @@
         },
         {
           "verse": 14,
-          "text": "O sábio tem olhos na cara, mas o ignorante caminha nas trevas . Porém, tive também de reconhecer que uma mesma sorte os espera a todos.",
-          "note_refs": [
-            "b"
-          ],
-          "notes": {
-            "b": "Coélet parece estar a fazer aqui a citação de um ditado popular, que em seguida (vv. 14b-17) vai submeter à crítica da sua experiência."
-          }
+          "text": "O sábio tem olhos na cara, mas o ignorante caminha nas trevas. Porém, tive também de reconhecer que uma mesma sorte os espera a todos.",
+          "note_refs": []
         },
         {
           "verse": 15,
@@ -231,15 +181,8 @@
         },
         {
           "verse": 17,
-          "text": "E fiquei a odiar a vida , pois era cruel para mim aquilo que se faz debaixo do Sol. Pois tudo é ilusão e apascentar o vento .",
-          "note_refs": [
-            "c",
-            "d"
-          ],
-          "notes": {
-            "c": "Os verbos amar e odiar são usados em modo de polaridade, extremando e radicalizando o sentido em dimensões contrapostas, como se pode ver nas oposições semânticas do poema de 3,1-8. Por isso, há traduções que fazem matizes intermédios de sentido como: e fiquei desgostado da vida .",
-            "d": "Ou: um mal de espírito. Cf. 1,14 e nota."
-          }
+          "text": "E fiquei a odiar a vida, pois era cruel para mim aquilo que se faz debaixo do Sol. Pois tudo é ilusão e apascentar o vento.",
+          "note_refs": []
         },
         {
           "verse": 18,
@@ -258,13 +201,8 @@
         },
         {
           "verse": 21,
-          "text": "Pois há alguém cujo esforço é feito com sabedoria, conhecimento e sucesso e tem de o entregar em herança a um outro que não teve de se afadigar para isso. Também isto é uma ilusão e uma grande maldade .",
-          "note_refs": [
-            "e"
-          ],
-          "notes": {
-            "e": "Uma ilusão e uma grande maldade é uma outra fórmula de síntese, associando um novo conceito com o de ilusão ( hebel)."
-          }
+          "text": "Pois há alguém cujo esforço é feito com sabedoria, conhecimento e sucesso e tem de o entregar em herança a um outro que não teve de se afadigar para isso. Também isto é uma ilusão e uma grande maldade.",
+          "note_refs": []
         },
         {
           "verse": 22,
@@ -283,31 +221,24 @@
         },
         {
           "verse": 25,
-          "text": "Com efeito, quem pode comer e saborear, sem vir da parte dele ?",
-          "note_refs": [
-            "f"
-          ],
-          "notes": {
-            "f": "O texto hebraico diz quem pode comer e saborear sem ser por mim? A frase faria sentido, entendida como uma declaração feita por Deus. Poderia aparecer aqui como uma citação. Na linguagem religiosa bíblica, seria lógica, mas sugeriria um registo de tipo mais profético. Ora, o Coélet pratica mais uma reflexão de base sapiencial, mas profundamente pessoal."
-          }
+          "text": "Com efeito, quem pode comer e saborear, sem vir da parte dele?",
+          "note_refs": []
         },
         {
           "verse": 26,
-          "text": "Pois ao homem que é bom diante dele Ele dá sabedoria, conhecimento e alegria; mas, ao pecador dá a preocupação em recolher e acumular bens para os deixar ao que é bom diante de Deus . Também isto é ilusão e apascentar o vento .",
-          "note_refs": [
-            "g",
-            "h"
-          ],
-          "notes": {
-            "g": "Ou: a quem for bom diante dele. Este versículo poderia conter mais uma citação de um provérbio conhecido naquele tempo.",
-            "h": "Ou: um mal de espírito. Cf. 1,14 e nota."
-          }
+          "text": "Pois ao homem que é bom diante dele Ele dá sabedoria, conhecimento e alegria; mas, ao pecador dá a preocupação em recolher e acumular bens para os deixar ao que é bom diante de Deus. Também isto é ilusão e apascentar o vento.",
+          "note_refs": []
         }
       ]
     },
     {
       "chapter": 3,
       "verses": [
+        {
+          "verse": 1,
+          "text": "Para tudo há um momento e um tempo para cada propósito, debaixo do céu:",
+          "note_refs": []
+        },
         {
           "verse": 2,
           "text": "tempo para nascer e tempo para morrer; tempo para plantar e tempo para arrancar o que foi plantado;",
@@ -355,13 +286,8 @@
         },
         {
           "verse": 11,
-          "text": "Ele fez tudo isto belo em cada tempo e pôs nos seus corações a eternidade , mesmo que o homem não consiga atingir o sentido das obras que Deus fez, desde o princípio até ao fim.",
-          "note_refs": [
-            "a"
-          ],
-          "notes": {
-            "a": "A expressão eternidade é um conceito que, na Bíblia, significa a totalidade de tempo e espaço e pode significar igualmente mundo e século . A ideia principal aqui incluída é a de uma dimensão de amplidão e profundidade, que abarca tanto o passado como o presente e o futuro, como um mistério que nos é simultaneamente próximo e inabarcável. A própria consciência histórica está implicada nesta perceção do tempo inscrita no coração."
-          }
+          "text": "Ele fez tudo isto belo em cada tempo e pôs nos seus corações a eternidade, mesmo que o homem não consiga atingir o sentido das obras que Deus fez, desde o princípio até ao fim.",
+          "note_refs": []
         },
         {
           "verse": 12,
@@ -370,12 +296,12 @@
         },
         {
           "verse": 13,
-          "text": "Mas também é verdade que, para todo o homem que come e bebe e vê o bem em todos os seus trabalhos, isso é um dom de Deus. isso é para sempre; nada se lhe pode acrescentar e nada se lhe pode retirar. E Deus fez isso para terem temor na sua presença.",
+          "text": "Mas também é verdade que, para todo o homem que come e bebe e vê o bem em todos os seus trabalhos, isso é um dom de Deus.",
           "note_refs": []
         },
         {
           "verse": 14,
-          "text": "Reconheci que tudo aquilo que Deus faz, Esta é a porção que lhe cabe. Com efeito, quem poderá fazê-lo voltar para ver como será depois dele?»",
+          "text": "Reconheci que tudo aquilo que Deus faz, isso é para sempre; nada se lhe pode acrescentar e nada se lhe pode retirar. E Deus fez isso para terem temor na sua presença.",
           "note_refs": []
         },
         {
@@ -390,13 +316,8 @@
         },
         {
           "verse": 17,
-          "text": "Então disse no meu coração: «Deus há de julgar o justo e o criminoso, pois, ali , há um tempo para cada propósito/assunto e para tudo o que se faz».",
-          "note_refs": [
-            "b"
-          ],
-          "notes": {
-            "b": "O ali sublinha o tempo do julgamento, sendo um eco do dia do Senhor, tal como referia a tradição profética. Não é ainda explícito que o Coélet esteja a referir-se a um julgamento que se realizasse no além."
-          }
+          "text": "Então disse no meu coração: «Deus há de julgar o justo e o criminoso, pois, ali, há um tempo para cada propósito/assunto e para tudo o que se faz».",
+          "note_refs": []
         },
         {
           "verse": 18,
@@ -416,16 +337,11 @@
         {
           "verse": 21,
           "text": "Quem sabe se o espírito dos filhos do homem sobe para o alto; e se o espírito dos animais desce para as profundezas da terra?",
-          "note_refs": [
-            "c"
-          ],
-          "notes": {
-            "c": "O tom desta pergunta parece mais negativo do que aquele com que termina o poema de encer- ramento do livro (12,7)."
-          }
+          "note_refs": []
         },
         {
           "verse": 22,
-          "text": "E vi que para o homem não há melhor bem que o de se alegrar com as suas obras.",
+          "text": "E vi que para o homem não há melhor bem que o de se alegrar com as suas obras. Esta é a porção que lhe cabe. Com efeito, quem poderá fazê-lo voltar para ver como será depois dele?»",
           "note_refs": []
         }
       ]
@@ -433,6 +349,11 @@
     {
       "chapter": 4,
       "verses": [
+        {
+          "verse": 1,
+          "text": "Voltei de novo a contemplar todas as opressões que se cometem debaixo do Sol, as lágrimas dos oprimidos. E não têm quem dê conforto. Da mão dos seus opressores é a violência; e não têm quem dê conforto.",
+          "note_refs": []
+        },
         {
           "verse": 2,
           "text": "Considero felizes os mortos que já partiram desta vida mais que aqueles que ainda estão vivos.",
@@ -445,13 +366,8 @@
         },
         {
           "verse": 4,
-          "text": "E vi também toda a fadiga e toda a obra de sucesso, pois são motivo de inveja de um para com o outro. Também isto é ilusão e apascentar o vento .",
-          "note_refs": [
-            "a"
-          ],
-          "notes": {
-            "a": "Ou: um mal de espírito. Cf. 1,14 e nota."
-          }
+          "text": "E vi também toda a fadiga e toda a obra de sucesso, pois são motivo de inveja de um para com o outro. Também isto é ilusão e apascentar o vento.",
+          "note_refs": []
         },
         {
           "verse": 5,
@@ -460,13 +376,8 @@
         },
         {
           "verse": 6,
-          "text": "É melhor uma mão cheia de sossego que duas mãos cheias de fadigas e de apascentar o vento .",
-          "note_refs": [
-            "b"
-          ],
-          "notes": {
-            "b": "Ou: um mal de espírito. Cf 1,14 e nota."
-          }
+          "text": "É melhor uma mão cheia de sossego que duas mãos cheias de fadigas e de apascentar o vento.",
+          "note_refs": []
         },
         {
           "verse": 7,
@@ -480,12 +391,7 @@
         },
         {
           "verse": 9,
-          "text": "É melhor serem dois do que um só,",
-          "note_refs": []
-        },
-        {
-          "verse": 15,
-          "text": "pois terão melhor recompensa da sua fadiga. Vi que todos os viventes que vagueiam debaixo do Sol estavam com o menino, o segundo que se erguia em lugar do outro.",
+          "text": "É melhor serem dois do que um só, pois terão melhor recompensa da sua fadiga.",
           "note_refs": []
         },
         {
@@ -514,30 +420,13 @@
           "note_refs": []
         },
         {
+          "verse": 15,
+          "text": "Vi que todos os viventes que vagueiam debaixo do Sol estavam com o menino, o segundo que se erguia em lugar do outro.",
+          "note_refs": []
+        },
+        {
           "verse": 16,
-          "text": "Era uma multidão sem fim de gente que ele tinha na sua frente . Mas os que vinham depois não estavam contentes com ele. Pois também isto é ilusão e apascentar o vento .",
-          "note_refs": [
-            "c",
-            "d"
-          ],
-          "notes": {
-            "c": "Outra alternativa textual: à frente das quais ele estava.",
-            "d": "Ou: um mal de espírito. Cf. 1,14 e nota."
-          }
-        },
-        {
-          "verse": 17,
-          "text": "Está atento aos teus passos quando fores à casa de Deus. Aproxima-te para escutar, em vez de oferecer sacrifícios como os insensatos, pois estes não sabem que estão a fazer mal .",
-          "note_refs": [
-            "e"
-          ],
-          "notes": {
-            "e": "O espírito desta perícope até 5,6 soa em harmonia com o discurso tradicional dos profetas (Is 1,10-20)."
-          }
-        },
-        {
-          "verse": 1,
-          "text": "Não sejas precipitado com a tua boca",
+          "text": "Era uma multidão sem fim de gente que ele tinha na sua frente. Mas os que vinham depois não estavam contentes com ele. Pois também isto é ilusão e apascentar o vento.",
           "note_refs": []
         }
       ]
@@ -545,6 +434,11 @@
     {
       "chapter": 5,
       "verses": [
+        {
+          "verse": 1,
+          "text": "Está atento aos teus passos quando fores à casa de Deus. Aproxima-te para escutar, em vez de oferecer sacrifícios como os insensatos, pois estes não sabem que estão a fazer mal.",
+          "note_refs": []
+        },
         {
           "verse": 2,
           "text": "Com efeito, os pesadelos vêm com as muitas preocupações e a voz do insensato vem com as muitas palavras.",
@@ -563,12 +457,7 @@
         {
           "verse": 5,
           "text": "Não permitas que a tua boca leve o teu corpo a pecar e não digas diante do mensageiro que foi por engano, para Deus não se irritar com as tuas palavras, fazendo fracassar a obra das tuas mãos.",
-          "note_refs": [
-            "a"
-          ],
-          "notes": {
-            "a": "Não é muito explícito de que mensageiro se trata. Um anjo (Tb 12,12)? Um sacerdote em fun- ção litúrgica (Ml 2,7)? Ou mesmo Deus, referido numa função sintática equivalente na linha seguinte?"
-          }
+          "note_refs": []
         },
         {
           "verse": 6,
@@ -578,37 +467,17 @@
         {
           "verse": 7,
           "text": "Se vires no país a opressão do pobre e a violação do direito e da justiça, não te admires por causa desse assunto. Pois um grande guarda outro grande e outros grandes estão acima deles.",
-          "note_refs": [
-            "b"
-          ],
-          "notes": {
-            "b": "Lit.: na província , talvez deixando assim entrever o estatuto de província administrativa que a Judeia tinha durante a governação dos Ptolemeus, na condição de o texto do Coélet ser dessa época."
-          }
-        },
-        {
-          "verse": 8,
-          "text": "E o proveito do país está em tudo isso. Um rei é servido pelo campo .",
-          "note_refs": [
-            "c"
-          ],
-          "notes": {
-            "c": "Ou: até o rei está dependente de um campo. O hebraico desta passagem é de tradução difícil."
-          }
-        },
-        {
-          "verse": 9,
-          "text": "Aquele que ama o dinheiro",
           "note_refs": []
         },
         {
-          "verse": 17,
-          "text": "não se satisfaz com o dinheiro ; e quem ama ter muito, isso não virá ao seu encontro. Também isto é ilusão. Eis aquilo que eu verifiquei que é bom e belo comer e beber e sentir-se bem em todas as fadigas com que cada um se afadiga debaixo do Sol nos contados dias da vida que Deus lhe deu, pois é essa a porção que lhe cabe.",
-          "note_refs": [
-            "d"
-          ],
-          "notes": {
-            "d": "Ou: não se vai fartar de dinheiro."
-          }
+          "verse": 8,
+          "text": "E o proveito do país está em tudo isso. Um rei é servido pelo campo.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Aquele que ama o dinheiro não se satisfaz com o dinheiro; e quem ama ter muito, isso não virá ao seu encontro. Também isto é ilusão.",
+          "note_refs": []
         },
         {
           "verse": 10,
@@ -646,6 +515,11 @@
           "note_refs": []
         },
         {
+          "verse": 17,
+          "text": "Eis aquilo que eu verifiquei que é bom e belo comer e beber e sentir-se bem em todas as fadigas com que cada um se afadiga debaixo do Sol nos contados dias da vida que Deus lhe deu, pois é essa a porção que lhe cabe.",
+          "note_refs": []
+        },
+        {
           "verse": 18,
           "text": "De igual modo, para qualquer homem a quem Deus concedeu riqueza e rendimentos e o autorizou a comer deles, desfrutando da sua parte e sentindo-se feliz nas suas fadigas, também isso é um dom de Deus.",
           "note_refs": []
@@ -653,6 +527,11 @@
         {
           "verse": 19,
           "text": "Assim, o homem não tem tanto que lembrar os dias da sua vida, porque Deus o preenche com a alegria do seu coração.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "",
           "note_refs": []
         }
       ]
@@ -702,13 +581,8 @@
         },
         {
           "verse": 9,
-          "text": "É melhor aquilo que os olhos veem que o vaguear dos desejos. Também isto é ilusão e apascentar o vento .",
-          "note_refs": [
-            "a"
-          ],
-          "notes": {
-            "a": "Ou: um mal de espírito. Cf. 1,14 e a nota."
-          }
+          "text": "É melhor aquilo que os olhos veem que o vaguear dos desejos. Também isto é ilusão e apascentar o vento.",
+          "note_refs": []
         },
         {
           "verse": 10,
@@ -782,22 +656,12 @@
         },
         {
           "verse": 11,
-          "text": "É boa a sabedoria com uma herança ; é uma vantagem para os que veem a luz do Sol.",
-          "note_refs": [
-            "b"
-          ],
-          "notes": {
-            "b": "Esta tradução parece bem adequada ao texto e à lógica do Coélet. Há, no entanto, quem traduza: A sabedoria é melhor que uma herança. Ou ainda: A sabedoria é boa como uma herança."
-          }
-        },
-        {
-          "verse": 12,
-          "text": "Estar à sombra da sabedoria é estar sombra do dinheiro.",
+          "text": "É boa a sabedoria com uma herança; é uma vantagem para os que veem a luz do Sol.",
           "note_refs": []
         },
         {
-          "verse": 20,
-          "text": "Pois o proveito de conhecer a sabedoria é que ela dá vida aos que a têm. Pois não há nenhum homem justo sobre a terra que faça o bem sem nunca pecar.",
+          "verse": 12,
+          "text": "Estar à sombra da sabedoria é estar sombra do dinheiro. Pois o proveito de conhecer a sabedoria é que ela dá vida aos que a têm.",
           "note_refs": []
         },
         {
@@ -836,6 +700,11 @@
           "note_refs": []
         },
         {
+          "verse": 20,
+          "text": "Pois não há nenhum homem justo sobre a terra que faça o bem sem nunca pecar.",
+          "note_refs": []
+        },
+        {
           "verse": 21,
           "text": "Por isso, não abras o teu coração a todas as palavras que se dizem, para não ouvires o teu servo a falar mal de ti.",
           "note_refs": []
@@ -847,7 +716,12 @@
         },
         {
           "verse": 23,
-          "text": "Tudo isto tentei comprovar com a sabedoria e disse: «Vou tornar-me sábio»,",
+          "text": "Tudo isto tentei comprovar com a sabedoria e disse: «Vou tornar-me sábio», mas ela está longe de mim.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "É distante o que aconteceu; e é profundo, profundo. Quem o pode alcançar?",
           "note_refs": []
         },
         {
@@ -862,7 +736,7 @@
         },
         {
           "verse": 27,
-          "text": "Vê bem aquilo que eu encontrei – dizia o Coélet –, procurando encontrar um sentido em cada coisa.",
+          "text": "Vê bem aquilo que eu encontrei dizia o Coélet –, procurando encontrar um sentido em cada coisa.",
           "note_refs": []
         },
         {
@@ -882,33 +756,18 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Quem é como o sábio? E quem conhece a explicação das coisas ? A sabedoria do homem ilumina o seu rosto e transforma a dureza da sua face.",
-          "note_refs": [
-            "a"
-          ],
-          "notes": {
-            "a": "Ou: de uma palavra."
-          }
+          "text": "Quem é como o sábio? E quem conhece a explicação das coisas? A sabedoria do homem ilumina o seu rosto e transforma a dureza da sua face.",
+          "note_refs": []
         },
         {
           "verse": 2,
-          "text": "Por mim, cumpre a ordem do rei, por causa do juramento feito a Deus .",
-          "note_refs": [
-            "b"
-          ],
-          "notes": {
-            "b": "A expressão hebraica por causa do juramento de Deus pode entender-se como: o juramento feito a Deus , para confirmar um juramento de fidelidade ao rei por parte dos súbditos. Pode também entender-se como: o juramento de Deus, a confirmar a autoridade do rei."
-          }
+          "text": "Por mim, cumpre a ordem do rei, por causa do juramento feito a Deus.",
+          "note_refs": []
         },
         {
           "verse": 3,
-          "text": "Não te apresses a fugir da sua presença, não insistas em praticar o mal, pois ele pode fazer tudo o que lhe apraz .",
-          "note_refs": [
-            "c"
-          ],
-          "notes": {
-            "c": "Afastar-se do rei poderia ser uma forma metafórica de se referir a movimentações graves de rebelião ou conspiração."
-          }
+          "text": "Não te apresses a fugir da sua presença, não insistas em praticar o mal, pois ele pode fazer tudo o que lhe apraz.",
+          "note_refs": []
         },
         {
           "verse": 4,
@@ -942,13 +801,8 @@
         },
         {
           "verse": 10,
-          "text": "E assim vi malfeitores serem sepultados e, ao saírem do lugar sagrado, prestavam-lhes homenagem , na cidade onde tinham praticado tais coisas. Também isto é ilusão.",
-          "note_refs": [
-            "a"
-          ],
-          "notes": {
-            "a": "Tradução segundo alguns manuscritos. Segundo outros: esqueciam-se deles."
-          }
+          "text": "E assim vi malfeitores serem sepultados e, ao saírem do lugar sagrado, prestavam-lhes homenagem, na cidade onde tinham praticado tais coisas. Também isto é ilusão.",
+          "note_refs": []
         },
         {
           "verse": 11,
@@ -972,12 +826,7 @@
         },
         {
           "verse": 15,
-          "text": "Por isso, quero louvar a alegria, pois não há melhor para os humanos, debaixo do Sol, que comer e beber e regozijar-se. É isto que o acompanha nas suas fadigas, nos dias da sua vida",
-          "note_refs": []
-        },
-        {
-          "verse": 23,
-          "text": "que Deus lhe deu, debaixo do Sol.",
+          "text": "Por isso, quero louvar a alegria, pois não há melhor para os humanos, debaixo do Sol, que comer e beber e regozijar-se. É isto que o acompanha nas suas fadigas, nos dias da sua vida que Deus lhe deu, debaixo do Sol.",
           "note_refs": []
         },
         {
@@ -996,6 +845,11 @@
       "chapter": 9,
       "verses": [
         {
+          "verse": 1,
+          "text": "Na verdade, pus tudo isto no meu coração e de tudo pude apurar que os justos e os sábios bem como os seus trabalhos estão nas mãos de Deus. Se é amor ou se é ódio, os humanos não conseguem saber. Está tudo igualmente diante deles.",
+          "note_refs": []
+        },
+        {
           "verse": 2,
           "text": "Tudo acontece a todos por igual ao justo e ao malfeitor, ao bom, ao puro e ao impuro, ao que oferece sacrifícios e ao que não oferece; é tanto para o honesto como para o pecador, para o que faz juramento e para o que receia o juramento.",
           "note_refs": []
@@ -1012,12 +866,12 @@
         },
         {
           "verse": 5,
-          "text": "Quanto aos vivos, sabem que hão de morrer, mas os mortos, esses não sabem nada",
+          "text": "Quanto aos vivos, sabem que hão de morrer, mas os mortos, esses não sabem nada e já não existe para eles recompensa, porque a sua memória foi esquecida.",
           "note_refs": []
         },
         {
-          "verse": 24,
-          "text": "em tudo o que se faz debaixo do Sol.",
+          "verse": 6,
+          "text": "O seu amor, o seu ódio e os seus ciúmes, isso já se perdeu e não mais voltarão a tomar parte em tudo o que se faz debaixo do Sol.",
           "note_refs": []
         },
         {
@@ -1057,12 +911,12 @@
         },
         {
           "verse": 14,
-          "text": "Havia uma pequena cidade",
+          "text": "Havia uma pequena cidade com poucas pessoas a viver nela; contra ela veio um grande rei, que a cercou e ergueu contra ela grandes baluartes.",
           "note_refs": []
         },
         {
-          "verse": 25,
-          "text": "mas ninguém mais recordou aquele homem pobre.",
+          "verse": 15,
+          "text": "Ora encontrava-se nela um homem pobre e sábio e foi ele que livrou a cidade com a sua sabedoria, mas ninguém mais recordou aquele homem pobre.",
           "note_refs": []
         },
         {
@@ -1086,14 +940,14 @@
       "chapter": 10,
       "verses": [
         {
+          "verse": 1,
+          "text": "Moscas mortas infetam e estragam o óleo do perfumista; é mais cara uma pequena insensatez do que a sabedoria e a honra.",
+          "note_refs": []
+        },
+        {
           "verse": 2,
-          "text": "O coração do sábio está à sua direita; e o coração do insensato, à sua esquerda .",
-          "note_refs": [
-            "a"
-          ],
-          "notes": {
-            "a": "As duas direções pretendem exprimir os caminhos opostos de ambas as personagens. O coração é sede psicológica da inteligência e da vontade e, por isso, dos comportamentos."
-          }
+          "text": "O coração do sábio está à sua direita; e o coração do insensato, à sua esquerda.",
+          "note_refs": []
         },
         {
           "verse": 3,
@@ -1192,13 +1046,8 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Lança o teu trigo sobre a superfície do mar que, depois de muitos dias, o hás de recuperar .",
-          "note_refs": [
-            "a"
-          ],
-          "notes": {
-            "a": "Trata-se, possivelmente, de uma referência a algum investimento em atividades comerciais realizadas por mar. Com efeito, o v. seguinte aconselha a diversificar os investimentos."
-          }
+          "text": "Lança o teu trigo sobre a superfície do mar que, depois de muitos dias, o hás de recuperar.",
+          "note_refs": []
         },
         {
           "verse": 2,
@@ -1212,12 +1061,7 @@
         },
         {
           "verse": 4,
-          "text": "Aquele que observa o vento não semeia",
-          "note_refs": []
-        },
-        {
-          "verse": 27,
-          "text": "e o que olha para as nuvens não ceifa.",
+          "text": "Aquele que observa o vento não semeia e o que olha para as nuvens não ceifa.",
           "note_refs": []
         },
         {
@@ -1248,12 +1092,7 @@
         {
           "verse": 10,
           "text": "Deita fora as preocupações do teu coração e afasta o sofrimento do teu corpo, porque a mocidade e a meninice são uma ilusão.",
-          "note_refs": [
-            "b"
-          ],
-          "notes": {
-            "b": "Ou: e os cabelos negros. O aramaico lê este termo abstrato como derivado do adjetivo “negro” ( shahor)."
-          }
+          "note_refs": []
         }
       ]
     },
@@ -1262,17 +1101,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "E lembra-te do teu criador, nos dias da tua juventude, enquanto não chegam os dias de calamidade",
-          "note_refs": [
-            "c"
-          ],
-          "notes": {
-            "c": "Este poema encerra literariamente o conjunto de reflexões sobre a experiência humana. Ele corres- ponde ao poema de abertura (1,2-11). Desde a tradição hermenêutica judaica antiga, ele é entendido como uma espécie de alegoria da progressiva decrepitude humana que culmina na velhice."
-          }
-        },
-        {
-          "verse": 28,
-          "text": "e se aproximem os anos dos quais hás de dizer: «Não sinto neles nenhum interesse»;",
+          "text": "E lembra-te do teu criador, nos dias da tua juventude, enquanto não chegam os dias de calamidade e se aproximem os anos dos quais hás de dizer: «Não sinto neles nenhum interesse»;",
           "note_refs": []
         },
         {
@@ -1288,12 +1117,7 @@
         {
           "verse": 4,
           "text": "quando se fecham os portões da praça e se afrouxa a voz do moinho; quando se levanta ao piar de um pássaro e se calam todas as vozes da canção;",
-          "note_refs": [
-            "a"
-          ],
-          "notes": {
-            "a": "Outros traduzem: e se afasta o canto dos pássaros ."
-          }
+          "note_refs": []
         },
         {
           "verse": 5,
@@ -1313,12 +1137,7 @@
         {
           "verse": 8,
           "text": "Diz o Coélet: «Ilusão das ilusões! Tudo é ilusão!»",
-          "note_refs": [
-            "b"
-          ],
-          "notes": {
-            "b": "Este texto final parece conter dois epílogos diferentes; um primeiro, recapitulando a personagem do mestre, Coélet; um segundo, concluindo com uma chave algo diferente das ideias do Coélet."
-          }
+          "note_refs": []
         },
         {
           "verse": 9,
@@ -1347,7 +1166,7 @@
         },
         {
           "verse": 14,
-          "text": "Pois Deus leva a julgamento tudo o que se faz, tudo o que está escondido, seja bom ou mau. Sl 62,10; Rm 8,20. | Sir 14,18. | Sir 40,11. | Pr 27,20. | Co 2,12; 3,15. | Gn 3,17-19; Co 3,10. | Os 12,2. | 1Rs 3,12; 5,9s; 10,1-13; Sir 47,14-18. Pr 4,13. | 1Rs 7,1-12; 1Cr 22,27s. | 1Rs 9,28; 10; 11,1-3. | 1Rs 10,23. | Co 10,2; 1Jo 2,10s. | Sl 49,11; Sb 2,4; Co 1,11; Sir 44,8-15. | Co 3,12s.22; 5,17; 8,15; 9,7s. | Jb 27,16s; Pr 13,22. Sl 139,17; Co 8,17; 11,5; Sir 11,4; 18,6; Is 55,8s; Ro 11,33. | Sl 49,13.21; Mt 12.12. | Gn 2,7; 3,19; Sl 104,29; Jb 34,15; Pr 15,24; Co 12,7; Sir 16,29s. Jb 3,11-23; 10,18-22; Co 6,3; Jr 20,17.18. | Pr 6,9-11. | Lc 10,1. | Co 9,15. | Sir 11,5. Co 2,18; Lc 12,20. | Jb 3,11. | Sl 39,7; 90,10; 102,12; 109,23; Jb 8,9; 14,2. Jz 1,19; Pr 22,24. | Sir 39,16.33s. | Jb 14,4;1Jo 1,8s. | Pr 5,3s; Sir 9,1-9; 25,19.24. Ro 13,1s. | Sb 2,1. | Sl 73; Jr 12,1s. | Co 2,24. | Co 3,11. Co 7,15; 8,14. | Co 2,24. | Co 5,15. | Lc 12,20. | Pr 21,22; 24,5; Co 7,19. Gl 5,9. | Pr 19,10; 30,22. | Sl 7,16; Pr 26,27; Sir 27,26s. | Pr 10,32; 15,2. | Co 8,7. | Pr 31,4-7. | Jz 9,13; Sl 104,15. | Ex 22,27; Lc 12,2s. Sl 139,13-16; Co 3,11; Jo 3,8. Ct 2,11. | Gn 2,7; Co 3,20s.",
+          "text": "Pois Deus leva a julgamento tudo o que se faz, tudo o que está escondido, seja bom ou mau. PARALELOS",
           "note_refs": []
         }
       ]

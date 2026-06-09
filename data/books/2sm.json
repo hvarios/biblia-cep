@@ -1,0 +1,3600 @@
+{
+  "book": "2 Samuel",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Depois da morte de Saul, David, quando regressava da derrota sobre os amalecitas, ficou dois dias em Ciclag.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Ao terceiro dia, chegou um homem que vinha do acampamento, de junto de Saul. Ele tinha as vestes rasgadas e terra sobre a cabeça. Ao chegar à presença de David, caiu por terra e prostrou-se.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "David perguntou-lhe: «De onde vens?» Ele respondeu: «Escapei do acampamento de Israel».",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "David perguntou-lhe: «Que aconteceu? Conta-me, por favor!» Ele disse que o povo fugiu da batalha; mas também que muita gente do povo caiu e morreram e que Saul e o seu filho Jónatas também morreram.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "David perguntou ao jovem que lhe trazia a notícia: «Como soubeste que morreram Saul e o seu filho Jónatas?»",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Respondeu-lhe o jovem que trazia a notícia: «Encontrava-me por acaso no monte Guilboa, quando vi Saul apoiado sobre a sua lança, enquanto os carros e os cavaleiros o seguiam de perto.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Ao voltar-se, Saul viu-me e chamou-me. Eu respondi-lhe: “Aqui estou!”",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Ele perguntou-me: “Quem és tu?” E eu disse-lhe: “Eu sou um amalecita”.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Ele replicou-me: “Aproxima-te de mim e mata-me, porque a agonia me dominou, pois na verdade ainda tenho vida mim”.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Aproximei-me dele e matei-o, pois, sabia que ele não iria sobreviver à sua queda. Tirei o diadema da sua cabeça e o bracelete do seu braço e vim trazê-los aqui ao meu senhor».",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Então David puxou pelas suas vestes e rasgou-as e o mesmo fizeram todos os que estavam com ele.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "E, lamentando-se, choraram e jejuaram até à tarde por Saul e pelo seu filho Jónatas, pelo povo do Senhor e pela casa de Israel, porque tinham caído ao fio da espada.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "David perguntou ao jovem que lhe trouxera a notícia: «De onde és tu?». Ele respondeu: «Eu sou filho de um emigrante amalecita».",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Perguntou-lhe David: «Como não tiveste receio de estender a tua mão para aniquilar o ungido do Senhor?»",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Então David chamou um dos servos e disse: «Aproxima- -te e deita-o abaixo». O servo atacou-o e ele morreu.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Então David declarou a respeito dele: «Que o sangue derramado por ti caia sobre a tua cabeça, pois a tua boca testemunhou contra ti ao dizeres: “Eu matei o ungido do Senhor”».",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Então David entoou esta lamentação sobre Saul e sobre o seu filho Jónatas",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "e mandou que fosse ensinada aos filhos de Judá a lamentação, “O arco”, que está escrita no Livro do Justo:",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "«O esplendor, ó Israel, caiu morto sobre os teus montes. Como tombaram os heróis!",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Não o anuncieis em Gat nem o apregoeis como boa notícia nas ruas de Ascalon, para que não se alegrem os filisteus, para que não rejubilem os incircuncisos.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Ó montes de Guilboa, que não haja em vós orvalho nem chuva nem campos de primícias! Pois ali foi desonrado o escudo dos heróis. O escudo de Saul não foi ungido com óleo,",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "mas com sangue dos trespassados, com a gordura dos heróis. O arco de Jónatas nunca retrocedia e a espada de Saul nunca voltava sem sucesso.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Saul e Jónatas, tão amados e queridos, nem na vida nem na morte foram separados. A Eram mais velozes que as águias, mais fortes que os leões.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Filhas de Israel, chorai por Saul que vos revestia de púrpura preciosa e enfeitava de ouro os vossos vestidos.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Como tombaram os heróis no meio do combate e Jónatas morto nos teus altos montes!",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Estou angustiado por ti, Jónatas, meu irmão. Tu eras muito querido comigo e o teu amor por mim era mais maravilhoso que o amor das mulheres.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Como tombaram os heróis e pereceram os que eram instrumentos de guerra!».",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Depois disto, David consultou o Senhor, dizendo: «Devo subir a alguma das cidades de Judá?» E o Senhor respondeu-lhe: «Sobe». Disse David: «Aonde subirei?» E Deus respondeu-lhe: «A Hebron».",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "David subiu para lá com as suas duas esposas, Ainoam de Jizerael e Abigail, que foi mulher de Nabal de Carmel.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "David fez subir também os homens que estavam com ele, cada um com a sua família; e instalaram-se nas cidades de Hebron.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Vieram os homens de Judá e ali ungiram David como rei sobre a casa de Judá. Anunciaram então a David que os homens de Jabés de Guilead tinham sepultado Saul.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "David enviou mensageiros aos homens de Jabés de Guilead para lhes dizer: «O Senhor vos abençoe por terdes praticado esse ato de miseri - córdia para com Saul, vosso senhor, dando-lhe sepultura.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Que o Senhor vos mostre agora a sua misericórdia e fidelidade. Eu também vou tratar-vos com a mesma benevolência, por terdes agido desta maneira.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Por isso, que as vossas mãos ganhem coragem e mostrai-vos fortes. Morreu Saul, vosso senhor, mas a casa de Judá ungiu-me também a mim como rei sobre eles».",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Entretanto, Abner, filho de Ner, chefe do exército de Saul, tomou consigo Isbóchet, filho de Saul, e levou-o para Maanaim;",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "e ali o constituiu rei de Guilead, Acher, Jizerael, Efraim, Benjamim e de todo o Israel.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Isbóchet, filho de Saul, tinha quarenta anos quando se tornou rei de Israel e reinou dois anos. Porém, os da casa de Judá seguiam David.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "O número dos anos que David reinou em Hebron sobre a casa de Judá foi de sete anos e seis meses.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Abner, filho de Ner, e os servos de Isbóchet, filho de Saul, saíram de Maanaim para Guibeon.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Joab, filho de Seruia, e os servos de David saíram e encontraram-nos junto da piscina de Guibeon; uns acamparam de um lado da piscina e os outros do outro lado.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Abner disse a Joab: «Levantem-se os jovens e façam uma competição diante de nós». Joab respondeu: «Levantem-se!»",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Levantaram-se e avançaram em igual número: doze benjaminitas da parte de Isbóchet, filho de Saul, e doze dos servos de David.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Cada um deles segurou a cabeça do seu adversário, enterrou a sua espada no flanco do adversário e todos caíram ao mesmo tempo. Por isso, aquele lugar é chamado Campo dos Flancos, em Guibeon.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Naquele dia a batalha tornou-se extremamente violenta. Abner e os homens de Israel caíram feridos diante dos servos de David.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Estavam lá os três filhos de Seruia, Joab, Abisai e Assael. Assael tinha pé ligeiro como qualquer das gazelas que há no campo.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Então Assael perseguiu Abner e não se desviou nem para a direita nem para a esquerda, seguindo atrás de Abner.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Vol - tando-se para trás, Abner disse: «És tu Assael?» Ele respondeu: «Eu mesmo».",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Disse-lhe Abner: «Desvia-te para a tua direita ou para a tua esquerda, agarra um desses jovens e toma para ti a sua armadura». Mas Assael não quis desistir de o perseguir.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Novamente Abner disse a Assael: «Deixa de me perseguir. Porque teria eu de te abater por terra? E como encararia eu o teu irmão Joab?»",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Mas ele não se quis desviar. Então, Abner atravessou-lhe o ventre com a ponta da lança. A lança saiu pelas costas e ele caiu e morreu ali mesmo. E todos os que chegavam ao lugar em que Assael caiu e morreu, paravam.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Joab e Abisai, porém, perseguiram Abner. Quando o sol se pôs, eles chegaram à colina de Amá, em frente de Guia, no caminho do deserto de Guibeon.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Os benjaminitas juntaram-se atrás de Abner e, como um único agrupamento, postaram-se no cimo de uma colina.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Então Abner, gritando para Joab, disse: «Será que a espada vai devorar para sempre? Não sabes, porventura, que a consequência final será amarga? Até quando te recusas a dizer ao povo que deixe de perseguir os seus irmãos?»",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Joab disse: «Juro por Deus que é vivo que, se não tivesses falado, só pela manhã o povo deixaria de perseguir cada qual o seu irmão».",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Joab fez ressoar o chofar e todo o povo parou e não mais perseguiu Israel nem continuou a combater.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Abner e os seus homens cami - nharam pela estepe toda aquela noite, atravessaram o Jordão, caminharam toda a manhã e chegaram a Maanaim.",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "Joab deixou de perseguir Abner e reuniu todo o povo. Dos servos de David, faltavam dezanove homens, além de Assael.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "Mas os servos de David abateram trezentos e sessenta benjaminitas e homens de Abner.",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "Levaram Assael e sepultaram-no no túmulo do seu pai, em Belém. Joab e os seus homens caminharam toda a noite; e ao raiar da aurora estavam em Hebron.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A guerra entre a casa de Saul e a casa de David foi prolongada. Mas David tornava-se mais forte, enquanto os da casa de Saul iam ficando mais fracos.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Em Hebron, nasceram filhos a David: o seu primogénito foi Amnon, filho de Ainoam de Jizerael;",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "o segundo, Quileab, filho de Abigail que foi esposa de Nabal de Carmel; o terceiro, Absalão, filho de Maacá, filha de Talmai, rei de Guechur;",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "o quarto, Adonias, filho de Haguite; o quinto, Chefatias, filho de Abital;",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "o sexto, Jitram, filho de Egla, esposa de David. Estes são os filhos de David que nasceram em Hebron.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Enquanto durou a guerra entre a casa de Saul e a casa de David, Abner tornou-se cada vez mais poderoso na casa de Saul.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Ora, Saul tivera uma concubina chamada Rispa, filha de Aiá. Isbóchet disse a Abner: «Porque te aproximaste da concubina do meu pai?»",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Abner ficou muito irado com as palavras de Isbóchet e disse: «Acaso sou eu um cabeça de cão que pertence a Judá? É hoje que me repreendes por uma falta contra essa mulher, quando tenho usa - do de misericórdia para com a casa de Saul, teu pai, e para com seus irmãos e parentes e não te entreguei nas mãos de David?",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Que Deus castigue Abner O e volte a castigar, se eu não agir com ele de acordo com o juramento do Senhor a David,",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "isto é, de retirar a realeza da casa de Saul e estabelecer o trono de David sobre Israel e sobre Judá, desde Dan até Bercheba».",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "E Isbóchet não conseguiu responder a Abner nenhuma palavra, pelo medo que tinha dele.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Então Abner enviou a David mensageiros em seu nome, dizendo: «A quem pertence esta terra?» Disse também: «Faz a tua aliança comigo e então a minha mão estará contigo para juntar todo o Israel à tua volta».",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "David res - pondeu: «Ótimo! Farei aliança contigo. Apenas uma coisa te peço e é esta: não poderás ver a minha face se, quando vieres ver-me, não trouxeres à minha presença Mical, a filha de Saul».",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "David então enviou mensageiros a Isbóchet, filho de Saul, para dizer: «Devolve-me a minha mulher, Mical, que eu desposei ao preço de cem prepúcios de filisteus».",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Isbóchet mandou-a retirar do seu marido, Paltiel, filho de Laís.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "O seu marido partiu com ela, a caminhar e a chorar atrás dela até Baurim. Disse-lhe então Abner: «Volta para trás!» E ele voltou.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "A palavra de Abner aos anciãos de Israel tinha sido: «Já há muito tempo procurais que David seja o vosso rei.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "É agora o vosso tempo de agir, pois o Senhor falou a David, dizendo: “Por sua mão, o meu servo David salvará o meu povo Israel das mãos dos filisteus e das mãos de todos os seus inimigos”».",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Abner tinha falado também aos ouvidos dos benjaminitas. Só depois foi dizer aos ouvidos de David, em Hebron, tudo o que era bom aos olhos de Israel e aos olhos de toda a casa de Benjamim.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Abner foi, com vinte homens, ao encontro de David em Hebron. David ofereceu um banquete a Abner e aos homens que estavam com ele.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Disse Abner a David: «Levantar-me-ei e vou reunir em torno ao rei, meu senhor, todo o Israel, para que façam aliança con - tigo; e reinarás sobre tudo o que a tua alma desejar». David despediu-se de Abner e este foi embora em paz.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Eis que os servos de David e de Joab chegaram de uma incursão, trazendo consigo um grande despojo. Abner não estava com David em Hebron, pois David tinha-se despedido e ele tinha ido embora em paz.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Depois chegaram Joab e todo o exército que estava com ele e então contar a Joab: «Abner, filho de Ner, veio ter com o rei, que se despediu e ele foi em paz».",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Joab, então, foi ter com o rei e disse: «O que fizeste? Eis que Abner veio ter contigo. Porque o despediste e deixaste ir embora?",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Tu conheces Abner, filho de Ner. Com certeza veio enganar-te, para saber das tuas idas e vindas e para saber tudo o que fazes».",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Joab saiu de junto de David e enviou mensageiros atrás de Abner e estes fizeram-no voltar da cisterna de Sirá, sem que David soubesse.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Quando Abner regressou a Hebron, Joab levou-o à parte, para o interior da porta, com o pretexto de lhe falar em privado. Então feriu-o no ventre e ele morreu, por causa da morte de Assael, seu irmão.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Mais tarde, David veio a saber e disse: «Eu e o meu reino somos para sempre, diante do Senhor, inocentes do sangue de Abner, filho de Ner.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Que ele caia sobre a cabeça de Joab e sobre toda a casa do seu pai! Que nunca deixe de haver na casa de Joab quem sofra de corrimento ou de lepra, quem tenha de se apoiar num pau, quem caia pela espada e quem mendigue o pão».",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "De facto, Joab e o seu irmão Abisai mataram Abner, porque, na batalha de Guibeon, ele matou Assael, o irmão deles.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "Então David disse a Joab e a todo o povo que estava com ele: «Rasgai as vossas vestes, vesti-vos de saco e ide fazer o luto diante de Abner». O próprio rei David ia atrás do féretro.",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "Enterraram Abner em Hebron e o rei levantou a sua voz e chorou junto do túmulo de Abner. Todo o povo também chorou.",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "O rei então entoou uma lamentação por Abner e disse: «Teria Abner de morrer como morre um insensato?",
+          "note_refs": []
+        },
+        {
+          "verse": 34,
+          "text": "As tuas mãos não estavam amarradas nem os teus pés, presos em grilhões. Caíste como os que caem diante dos filhos da iniquidade». E todo o povo continuou a chorar por ele.",
+          "note_refs": []
+        },
+        {
+          "verse": 35,
+          "text": "Depois, todo o povo veio até David para fazer com que ele se alimentasse naquele mesmo dia. David, no entanto, jurou dizendo: «Que Deus me castigue e volte a castigar, se antes do pôr do sol eu provar pão ou qualquer outra coisa».",
+          "note_refs": []
+        },
+        {
+          "verse": 36,
+          "text": "Todo o povo ficou sabendo e pareceu bem aos seus olhos, pois tudo o que o rei fazia era bom aos olhos de todo o povo.",
+          "note_refs": []
+        },
+        {
+          "verse": 37,
+          "text": "E todo o povo e todo o Israel reconheceram, naquele dia, que o rei não tivera parte na morte de Ab - ner, filho de Ner.",
+          "note_refs": []
+        },
+        {
+          "verse": 38,
+          "text": "Disse então o rei aos seus servos: «Acaso não sabeis que um grande comandante morreu hoje em Israel?",
+          "note_refs": []
+        },
+        {
+          "verse": 39,
+          "text": "Eu, porém, ainda estou fraco, embora ungido rei. Esses homens, os filhos de Seruia, são mais duros do que eu. Que o Senhor retribua ao malfeitor segundo a sua maldade».",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Quando o filho de Saul ouviu dizer que Abner tinha morrido em Hebron, as suas mãos enfraqueceram e todos os de Israel ficaram consternados.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "O filho de Saul tinha ao seu serviço dois chefes de bando: um chamava-se Baaná e o outro, Recab. Ambos eram filhos de Rimon de Beerot, da tribo de Benja - mim, porque também Beerot era considerada parte de Benjamim.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Os habitantes de Beerot tinham-se refugiado em Guitaim e ali ficaram como estrangeiros até ao dia de hoje.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Jónatas, filho de Saul, tinha um filho aleijado de ambos os pés. Ele tinha cinco anos de idade quando chegou de Jizerael a notícia do que sucedera a Saul e a Jónatas. A ama pegou nele e fugiu, mas na precipitação da fuga ele caiu e ficou a coxear. Chamava-se Mefibóchet.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Os filhos de Rimon de Beerot, Recab e Baaná, puseram-se a caminho e chegaram pelo calor do meio-dia à casa de Isbóchet, quando ele estava a dormir a sesta.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Eles entraram até ao interior da casa como se fossem buscar trigo e feriram-no no ventre. Depois, Recab e seu irmão Baaná escaparam.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Eles entraram na casa quando ele estava deitado no seu leito, no seu quarto de dor - mir. Atacaram-no e mataram-no, cortando-lhe a cabeça. Depois pegaram na cabeça e caminharam toda a noite pela estrada da estepe.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Com a cabeça de Isbóchet chegaram junto de David, em Hebron, e disseram ao rei: «Aqui está a cabeça de Isbóchet, filho de Saul, teu inimigo, que procurou tirar-te a vida. Pois o Senhor concedeu hoje mesmo ao rei, meu se - nhor, plena vingança sobre Saul e sobre a sua descendência».",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "David, porém, respondeu a Recab e ao seu irmão Baaná, filhos de Rimon de Beerot, e disse- -lhes: «Pelo Senhor que é vivo e livrou a minha alma de toda a angústia!",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Se eu mandei prender e matar em Ciclag aquele que me veio anunciar, dizendo: “Eis que Saul morreu”, e que se julgava portador de boas notícias para eu lhe dar uma recompensa,",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "quanto mais, quando homens malfeitores matam um homem justo em sua casa e no seu próprio leito. Não deverei eu então pedir- -vos contas do seu sangue e exterminar-vos da terra?»",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "E David deu ordens aos seus servos, que os mataram, lhes deceparam as mãos e os pés e os penduraram junto da piscina em Hebron. Quanto à cabeça de Isbóchet, pegaram nela e sepultaram-na no túmulo de Abner, em Hebron.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Então todas as tribos de Israel foram ter com David, em Hebron, e disseram-lhe: «Eis que somos teus ossos e tua carne.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Mesmo antes, quando Saul era o nosso rei, já eras tu que fazias sair e entrar Israel. E o Senhor disse-te: “Tu apascentarás Israel, meu povo; tu serás soberano sobre Israel”».",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Todos os anciãos de Israel foram ter com o rei a Hebron. O rei David concluiu uma aliança com eles, em Hebron, diante do Senhor, e eles ungiram David como rei sobre Israel.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "David tinha trinta anos quando começou a reinar e rei - nou quarenta anos.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Em Hebron, reinou sobre Judá sete anos e seis meses; em Jerusalém, reinou trinta e três anos sobre todo o Israel e Judá.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "O rei partira com os seus homens para Jerusalém, contra os jebuseus, que habitavam naquela terra, e estes disseram a David: «Não entrarás aqui! Até os cegos e coxos te hão de repelir, dizendo apenas: “David não entrará aqui”».",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Mas David apoderou-se da fortaleza de Sião, que se tornou a cidade de Da - vid.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Naquele dia, David disse: «Quem quiser lutar contra os jebuseus, ataque pelo canal subterrâneo esses coxos e cegos que odeiam a vida de David. É por isso que se diz: «Nem cego nem coxo entrará no templo».",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "David estabe - O A leceu-se na fortaleza e chamou-lhe «Cidade de David». Ele edificou ao seu redor, desde a terraplanagem de Milo e para dentro.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "David tornava-se cada vez mais poderoso e o Senhor, Deus dos Exércitos, estava com ele.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Hiram, rei de Tiro, enviou mensageiros a David, com madeira de cedro, carpinteiros e pedreiros, e edificaram uma casa para David.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Então David ficou a saber que o Senhor o confirmava como rei sobre Israel e exaltava a sua realeza, em atenção ao seu povo, Israel.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "David tomou ainda concubinas e esposas em Jerusalém, depois da sua chegada de Hebron. E nasceram-lhe mais filhos e filhas.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Estes são os nomes dos filhos que lhe nasceram em Jerusalém: Chamua, Chobab, Natan, Salomão,",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Jibar, Elichua, Néfeg, Jafia,",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Elichama, Eliadá e Elifélet.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Assim que ouviram que tinham ungido David como rei sobre Israel, to - dos os filisteus subiram em busca de David. Ao saber disso, David desceu à fortaleza.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Os filisteus chegaram e espalharam-se pelo vale de Refaim.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Da - vid consultou o Senhor, dizendo: «Devo subir contra os filisteus? Vais entregá-los nas minhas mãos?» O Senhor disse a David: «Sobe, pois vou entregar os filisteus nas tuas mãos».",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "David chegou a Baal-Peracim e ali os atacou. David disse: «O Senhor abriu uma brecha entre os meus inimigos diante de mim, como uma brecha aberta pelas águas». Por isso aquele lugar chama-se Baal-Peracim.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Os filisteus deixaram ali os seus ídolos; e David e os seus homens levaram-nos. A LXX",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Mais uma vez os filisteus subiram e espalharam-se pelo vale de Refaim.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "David consultou o Senhor, que respondeu: «Não subas, mas dá a volta por trás deles e aproxima-te deles em frente dos lodoeiros.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Quando ouvires um rumor como de passos por cima dos montes de Becaim, apressa-te porque é então que o Senhor vai sair diante de ti para atacar o acampamento dos filisteus».",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "David fez assim como o Senhor lhe tinha ordenado e atacou os filisteus desde Gueba até a entrada de Guézer.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "David juntou de novo toda a elite de Israel em número de trinta mil ho - mens.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Depois, David levantou-se e, com todo o povo que estava com ele, partiu de Baalá, de Judá, para fazer subir dali a arca de Deus, sobre a qual é proclamado um nome, o nome do Senhor do Universo que tem assento so - bre os querubins.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Colocaram a arca de Deus num carro novo e levaram-na da casa de Abinadab, situada na colina. Uzá e Aío, filhos de Abinadab, conduziam o carro novo.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Levaram-no da casa de Abinadab, situada na colina, com a arca de Deus. Aío caminhava à frente da arca.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "David e toda a casa de Israel dançavam diante do Senhor com todo o entusiasmo e cantavam ao som de cí - taras, harpas, tamborins, sistros e címbalos.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Ao chegarem à eira de Nacon, Uzá estendeu a mão para a arca do Senhor e segurou-a, porque os bois tropeçaram.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "A ira do Senhor inflamou-se contra Uzá e ali Deus o feriu por tal negligência; e ele morreu ali mesmo junto da arca de Deus.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "David ficou perturbado porque o Senhor abriu brecha contra Uzá. Por isso, chamou àquele lugar Brecha de Uzá, até ao dia de hoje.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Na - quele dia David temeu o Senhor e disse: «Como poderá vir até mim a arca do Senhor?»",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "David não quis deslocar a arca do Senhor para junto de si, na ci - dade de David, mas ordenou que a levassem para casa de Obed-Edom de Gat.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "A arca do Senhor permaneceu três meses em casa de Obed-Edom de Gat e o Senhor abençoou Obed-Edom e toda a sua casa.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Informaram então o rei David, dizendo: «O Senhor abençoou a casa de Obed-Edom e tudo o que lhe pertence, por causa da arca de Deus». Então David partiu e fez subir a arca de Deus da casa de Obed-Edom para a cidade de David, com alegria.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Quando os que levavam a arca do Senhor deram seis passos, ele imolou um boi e um animal cevado.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "David dançava com todas as forças diante do Senhor, cingido com a insígnia votiva de linho.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "E assim David e toda a casa de Israel fizeram subir a arca do Senhor, por entre aclamações e ao som do chofar.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "E aconteceu que, quando a arca do Senhor entrou na cidade de David, Mical, filha de Saul, olhou para baixo pela janela. E ao ver o rei David a bailar e dançar diante do Senhor, sentiu desprezo por ele no seu coração.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Introduziram a arca do Senhor, colocaram-na no seu lugar, no meio da tenda que David armara para ela. Depois, David ofereceu holocaustos e sacrifícios de comunhão na presença do Senhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Quando acabou de oferecer os holocaustos e os sacrifícios de comunhão, David abençoou o povo em no - me do Senhor do Universo.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Mandou então distribuir a todo o povo, a toda a multidão de Israel, homens e mulheres, um bolo de pão para cada um de - les, uma torta de tâmaras e um bolo de uvas. E todo o povo se retirou, cada um para sua casa.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Quando David regressava para abençoar a sua própria casa, Mical, filha de Saul, saiu-lhe ao encontro e disse-lhe: «Quão honrado ficou hoje o rei de Israel, desnudando-se aos olhos das escravas dos seus servos, como se des - nudaria alguém vulgar!»",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Mas David disse a Mical: «Foi na presença do Senhor que me escolheu de preferência ao teu pai e a todos os da sua casa para me constituir soberano sobre o povo do Senhor, sobre Israel; foi na presença do Senhor que eu dancei.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "E mais me rebaixaria ainda e me aviltaria aos meus olhos. Todavia, quanto às escravas de que falaste, por elas serei honrado!»",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "E no que diz respeito a Mical, filha de Saul, ela não teve filhos até ao dia da sua morte.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E aconteceu que, quando o rei já habitava na sua casa e o Senhor lhe deu repouso de todos os inimigos em seu redor,",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "o rei disse ao profeta Natan: «Repara! Eu estou numa casa de cedro, enquanto a arca de Deus está dentro de uma tenda».",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Natan disse ao rei: «Vai e faz tudo aquilo que está no teu coração, pois o Senhor está contigo».",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Nessa mesma noite, porém, aconteceu que a palavra do Senhor foi dirigida a Natan, dizendo:",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "«Vai dizer ao meu servo, David: “Assim fala o Senhor: Porventura serás tu que edificarás uma casa para Eu habitar?",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Pois nunca habitei numa casa, desde o dia em que fiz com que os filhos de Israel subissem do Egito até ao dia de hoje, mas andava de lado em lado numa tenda e num tabernáculo.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Durante todo o tempo em que pe - regrinei com todos os filhos de Israel, falei porventura a alguma das tribos de Israel que estabeleci para pastorear o meu povo Israel, dizendo: ‘Porque não me edificastes uma casa de cedro?’”",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Pois agora, assim dirás ao meu servo David: “Assim fala o Senhor do Universo: Fui eu que te tirei das pastagens, de andares atrás dos rebanhos, para seres o soberano sobre o meu povo, sobre Israel.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Estive contigo em toda a parte por onde andaste e exterminei diante de ti todos os teus inimigos. E fiz o teu nome tão grande como o de qualquer um dos grandes que há na terra.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Prepararei um lugar para o meu povo, para Is - rael, e o plantarei para que nele se estabeleça e nunca mais sejam perturbados. Os filhos da iniquidade não mais os afligirão como no início,",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "desde o dia em que constituí juízes sobre o meu povo, Israel. Pois te darei repouso de todos os teus inimigos.” E o Senhor te anuncia que é Ele que te vai fazer uma casa.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Quando se completarem os teus dias e adormeceres com os teus pais, suscitarei depois de ti um descendente teu, que sairá das tuas entranhas, e consolidarei a sua realeza.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Ele é que edificará uma casa ao meu nome e Eu consolidarei para sempre o seu trono real.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Serei para ele um pai e ele será para mim um filho. Se ele praticar o mal, hei-de corrigi-lo com vergastadas de homens, com castigos vindos de seres humanos.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Mas não afastarei dele a minha fidelidade, como a afastei de Saul, aquele que afastei de diante de ti.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "A tua casa e a tua realeza permanecerão firmes diante de mim para sempre. O teu trono será consolidado para sempre».",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Foi de acordo com todas estas pa - lavras e toda esta visão que Natan falou a David.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Então o rei David entrou e colocou-se diante do Senhor e disse: «Quem sou eu, Senhor, meu Senhor, e quem é a minha casa, para me teres feito chegar até aqui?",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "E isto foi ainda pouco a teus olhos, ó Senhor, meu Senhor, pois falaste a respeito da casa do teu servo também para os tempos longínquos, uma vez que esta é uma lei do homem, ó Senhor, meu Senhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Que mais ainda te poderá dizer David? Tu, Senhor, meu Senhor, conheces o teu servo.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Por causa da tua palavra e segundo o teu coração, realizaste esta imensa grandeza, dando-a a conhecer ao teu servo.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Por isso és grande, Senhor, meu Senhor, pois não há ninguém como Tu e não há outro deus além de ti, segundo tudo o que escutámos com os nossos ouvidos.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "E quem é como o teu povo, como Israel, nação única na terra a quem Deus foi resgatar para si mesmo como seu po - vo, para firmar para ele um nome e para realizar em seu favor coisas grandes e terríveis pela tua terra diante do teu povo? Foi ele que Tu resgataste para ti do O Egipto, dos povos e dos seus deuses.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Consolidaste para ti o teu povo, Israel, para ser teu povo para sempre; e Tu, Senhor, tornaste-te o seu Deus.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "E agora, Senhor, Deus, confirma para sempre a palavra que disseste a respeito do teu servo e da sua casa e realiza-a conforme disseste.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "E que o teu nome seja engrandecido para sempre e se diga: “O Senhor do Universo é Deus sobre Israel!” E que a casa do teu servo David esteja firme diante de ti.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Pois Tu, Senhor do Universo, Deus de Israel, revelaste ao ouvido do teu servo, dizendo: “Eu edificarei uma casa para ti”. Por isso o teu servo encontrou coragem para te dirigir esta oração.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "E agora, Senhor, meu Senhor, Tu é que és Deus e as tuas palavras são verdade! E dirigiste ao teu servo esta boa palavra.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "E agora digna-te abençoar a casa do teu servo, a fim de permanecer para sempre diante de ti. Pois Tu, Senhor, meu Senhor, falaste e é pela tua bênção que a casa do teu servo será abençoada para sempre».",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Depois disto, David atacou os filisteus e subjugou-os. David retirou das mãos dos filisteus as rédeas do poder.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Ele atacou Moab e, fazendo-os deitar por terra, mediu-os com o cordel. Ia medindo dois cordéis para matar, um cordel inteiro para deixar vivo. Assim, os moabitas tornaram-se vassalos de David e pagavam-lhe tributo.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "David atacou Hadad-Ézer, filho de Reob, rei de Soba, quando marchou para recuperar o seu domínio sobre o rio Eufrates.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "David capturou-lhe mil e setecentos cavaleiros e vinte mil homens de infantaria. Depois, David mandou cortar os tendões de todos os cavalos dos carros; poupou apenas cem deles.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Quando os arameus de Damasco vieram para socorrer Hadad-Ézer, rei de Soba, David abateu vinte e dois mil arameus.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Depois David instalou guarni - ções em Aram de Damasco e os arameus tornaram-se vassalos de David e pagavam-lhe tributo. O Senhor deu vitória a David por onde quer que ele andasse.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "David recolheu os escudos de ouro que pertenciam aos servos de Hadad- -Ézer e levou-os para Jerusalém.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "De Beta e de Berotai, cidades de Hadad-Ézer, o rei David recolheu uma enorme quantidade de bronze.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Toú, rei de Hamat, ouviu dizer que David tinha batido todo o exército de Hadad-Ézer.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Então, Toú enviou o seu filho Jorão ao rei David para lhe desejar paz e o felicitar por ter combatido contra Hadad-Ézer e o ter vencido. Com efeito, Toú estavam continuamente em guerra com Hadad-Ézer. Nas suas mãos tinha objetos de prata, objetos de ouro e objetos de bronze.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "O rei David consagrou-os também ao Senhor, junto com a prata e o ouro que tinha consagra - do, vindos de todas as nações que tinha conquistado,",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "de Aram, de Moab, dos filhos de Amon, dos filisteus, de Amalec, juntamente com os despojos de Hadad-Ézer, filho de Reob, rei de Soba.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "David ganhou grande fama ao regressar, depois de bater dezoito mil ara - meus no Vale do Sal.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Instalou guarnições em Edom; em todo o Edom ele instalou guarnições e todos os edomitas se tornaram vassalos de David. O Senhor dava a vitória a David por onde quer que ele andasse.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "David reinava sobre todo o Israel. David tratava todo o seu povo com base no direito e na justiça.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Joab, filho de Seruia, comandava o exército; Josafat, filho de Ailud, era arquivista;",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Sadoc, filho de Aitub, e Aimélec, filho de Abiatar, eram sacerdotes; Seraías era escriba.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "E Benaías, filho de Joiadá, comandava os cretenses e os peleteus. Os filhos de David eram sacerdotes.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "David disse: «Será que existe ainda algum sobrevivente da casa de Saul para que eu mostre misericórdia para com ele por causa de Jónatas?».",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Ora, havia um servo da casa de Saul de nome Ciba. Chamaram-no junto de David e o rei disse-lhe: «Tu és Ciba?» Ele respondeu: «Sou, teu servo».",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Disse o rei: «Resta ainda alguém da casa de Saul para que eu mostre para com ele a misericórdia de Deus?» Ciba disse ao rei: «Há ainda um filho de Jónatas, aleijado de ambos os pés».",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Disse-lhe o rei: «Onde está ele?» e Ciba respondeu ao rei: «Eis que ele está na casa de Maquir, filho de Amiel, em Lo-Dabar».",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "O rei David mandou então trazê-lo da casa de Maquir, filho de Amiel, em Lo-Dabar.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Mefibóchet, filho de Jónatas, filho de Saul, veio até David, inclinou-se com a face por terra e prostrou-se. Disse então David: «Mefibóchet». Ele respondeu: «Eis aqui o teu servo».",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Disse-lhe David: «Não temas! Quero mostrar- -te misericórdia por causa de Jónatas, teu pai, e restituir-te todos os campos de Saul, teu pai. Quanto a ti, comerás sempre pão à minha mesa».",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Prostrando - -se, Mefibóchet disse: «Quem é o teu servo, para te preocupares com um cão morto como eu?»",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "O rei chamou então Ciba, servo de Saul, e disse-lhe: «Tudo o que era de Saul e de toda a sua casa dou-o agora ao filho do teu senhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Tu, com os teus filhos e os teus servos, trabalharás para ele na sua terra para que ela produza e para que o filho do teu senhor tenha pão para comer. Quanto a Mefibóchet, filho do teu senhor, comerá sempre pão à minha mesa». Ciba tinha quinze filhos e vinte servos.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Disse Ciba ao rei: «Tudo o que o rei, meu senhor, ordenou ao seu servo, assim o teu servo cumprirá». E Mefibóchet comia à sua mesa como um dos filhos do rei.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Mefibóchet tinha um filho pequeno, de nome Mica. Todos os que moravam na casa de Ciba estavam ao serviço de Mefibóchet.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Mefibóchet morava em Jerusalém, pois comia sempre à mesa do rei. Ele era coxo de ambos os pés.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Depois disto, morreu o rei dos amonitas e o seu filho Hanun foi rei em seu lugar.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Disse David: «Usarei de misericórdia para com Hanun, filho de Naás, assim como o seu pai usou de misericórdia para comigo». David enviou os seus servos para consolá-lo, por causa do seu pai. Quando os servos de David chegaram à terra dos filhos de Amon,",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "os chefes dos amonitas disseram a Hanun, seu senhor: «Pensas que foi para honrar o teu pai aos teus olhos que David enviou estes para te reconfortarem? Acaso não foi para explorar a cidade, para a espionar e depois a destruir que David te enviou os seus servos?»",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Hanun prendeu os servos de David, rapou-lhes metade da barba e cortou a meio as suas vestes até às nádegas e mandou-os embora.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Quando contaram aquilo a David, ele mandou que fossem ao encontro deles, pois aqueles homens estavam muito envergonhados. O rei disse-lhes: «Ficai em Jericó até que vos cresça de novo a barba. Depois voltareis».",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Os amonitas viram que se tinham tornado odiosos para David. Então mandaram contratar mercenários: vinte mil homens a pé dentre os arameus de Bet-Reob e dentre os arameus de Soba, mil homens do rei de Maacá e doze mil homens da gente de Tob.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "David ouviu aquilo e enviou Joab com todo o exército dos heróis.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Os amonitas saíram e formaram uma linha de combate à entrada da porta. Os arameus de Soba e de Reob e os homens de Tob e de Maacá ficavam à parte, no campo.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Quando Joab viu que o combate estava preparado contra ele, tanto pela frente como pela retaguarda, escolheu os melhores de todo o Israel e formou uma linha de combate contra os arameus.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "O restante das tropas, entregou-o ao seu irmão Abisai, que os colocou em linha de combate contra os amonitas.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Disse Joab: «Se os arameus forem mais fortes do que eu, vem-me salvar. Se os amonitas forem mais fortes do que tu, eu irei salvar- -te.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Sê forte! Mostremo-nos fortes pelo nosso povo e pelas cidades do nosso Deus. Que o Senhor faça o que for bom a seus olhos».",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Joab e o povo que estava com ele aproximou-se para combater os arameus, que fugiram diante dele.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Os amonitas, vendo que os arameus fugiam, fugiram também diante de Abisai e foram para a cidade. Joab voltou de junto dos amonitas e chegou a Jerusalém.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Quando os arameus viram que tinham ficado derrotados diante de Israel, juntaram-se novamente.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Hadad-Ézer mandou sair os arameus que estavam no outro lado do rio e eles foram para Helam. Chobac, o chefe do exército de Hadad-Ézer, ia adiante deles.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Quando aquilo foi anunciado a David, ele reuniu todo o Israel e atravessou o Jordão e chegou a Helam. Os arameus formaram uma linha de ataque contra David e combateram contra ele.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Os arameus, porém, tiveram de fugir diante de Israel. Dentre os arameus, David matou os homens de setecentos carros e quarenta mil cavaleiros. Feriu também Chobac, o chefe do seu exército, que morreu ali mesmo.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Todos os reis vassalos de Hadad-Ézer viram que tinham sido derrotados diante de Israel, fizeram a paz com Israel e tornaram-se seus vassalos. E então os arameus tiveram medo de ir novamente socorrer os amonitas.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Aconteceu que na volta do ano, no tempo em que os reis costumam sair para a guerra, David enviou Joab, com os seus servos e todo o Israel, e eles exterminaram os amonitas e puseram cerco a Rabá. Mas David ficou em Jerusalém.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "E aconteceu que numa tarde David se levantou do seu leito e, enquanto andava a passear no terraço do palácio real, viu do alto do terraço uma mulher a banhar-se; e era uma mulher de grande beleza.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "David mandou colher informa - ções sobre aquela mulher e disseram-lhe: «Não é ela Betsabé, a filha de Eliam, mulher de Urias, o hitita?»",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "David enviou emissários para que a trouxessem. Ela veio ter com ele e ele deitou-se com ela, que acabava de purificar-se do seu estado de impureza. Depois, ela voltou para sua casa.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "A mulher ficou grávida e mandou informar David, dizendo: «Estou grávida».",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Então David mandou dizer a Joab: «Envia-me Urias, o hitita». E Joab enviou Urias a David.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Quando Urias veio ter com David, este perguntou-lhe como estava Joab, como estava o povo e como estava a correr a guerra.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Depois David disse a Urias: «Desce à tua casa e lava os teus pés». Urias saiu do palácio real e atrás dele seguiu um presente do rei.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Urias, porém, deitou-se à entrada do palácio real, com todos os servos do seu senhor, e não desceu à sua casa.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Foram informar David, dizendo: «Urias não desceu à sua casa». David então perguntou a Urias: «Acaso não chegaste de uma viagem? Porque não desceste à tua casa?»",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Disse Urias a David: «A arca com Israel e Judá estão a morar em tendas; o meu senhor, Joab, e os servos do meu senhor assentam arraiais em campo aberto. E eu havia de entrar em minha casa para comer, beber e deitar-me com a minha mulher? Pela tua vida, pela tua própria vida, eu nunca faria tal coisa!»",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "David disse então a Urias: «Fica aqui ainda hoje e amanhã deixar-te-ei partir». Urias ficou em Jerusalém naquele dia. No dia seguinte,",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "David convidou-o para comer e beber consigo e fez com que ele se embriagasse. Pela tarde, Urias saiu e foi deitar-se no seu leito, com os servos do seu senhor, e não desceu à sua casa.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Então, na manhã seguinte, David escreveu a Joab um documento e enviou- -o por meio de Urias.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "E nesse documento dizia: «Coloquem Urias no ponto mais perigoso da batalha e depois retirai-vos de junto dele, para que seja ferido e morra».",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "E aconteceu que, tendo Joab observado bem a cidade, colocou Urias no local onde sabia que estavam os guerreiros mais valentes.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Os homens da cidade saíram para atacar Joab e vários do grupo dos servos de David caíram. E morreu também Urias, o hitita.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Joab mandou contar a David tudo sobre a batalha.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Ele deu ordens ao mensageiro, dizendo: «Quando terminares de contar ao rei tudo sobre a batalha,",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "pode acontecer que o rei fique irado e diga: “Porque vos aproximastes da cidade para lutar? Não sabíeis que iriam disparar do alto da muralha?",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Quem matou Abimélec, filho de Jerubóchet? Não foi acaso uma mulher que atirou sobre ele uma pedra de moinho do alto da muralha e o matou em Tebes? Porque vos aproximastes da muralha?” Dirás então: “Morreu também o teu servo Urias, o hitita”».",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "O mensageiro saiu e foi contar a David exatamente como Joab lhe tinha mandado.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "O mensageiro disse a David: «Sem dúvida que os inimigos eram mais fortes do que nós e saíram contra nós no campo. Mas nós voltámo- -nos contra eles até à entrada da porta.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Os arqueiros dispararam as suas flechas contra os teus servos do alto da muralha. Morreram alguns dos servos do rei; e morreu também o teu servo Urias, o hitita».",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "David disse ao mensagei - ro: «Vai dizer a Joab: “Que esse acontecimento não pareça demasiado penoso a teus olhos, pois a espada pode devorar tanto um como outro. Reforça a tua batalha contra a cidade até a destruir”. Quanto a ti, procura dar-lhe coragem».",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Quando ouviu dizer que o seu marido tinha morrido, a mulher de Urias fez luto pelo seu esposo.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Passado o luto, David mandou-a buscar e acolheu-a no seu palácio. Ela tornou-se sua mulher e deu à luz um filho dele. Mas aquilo que David fez era mau aos olhos do Senhor.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O Senhor enviou a David o profeta Natan. O profeta foi ter com ele e disse-lhe: «Numa cidade havia dois homens; um era rico e o outro era pobre.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "O rico tinha uma quantidade muito grande de ovelhas e bois.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "E o pobre não tinha nada, exceto uma ovelha pequenina que tinha comprado. Ele criava-a e ela crescia junto dele e dos seus filhos. Comia do seu pão, bebia do seu copo e dormia ao seu colo: era para ele como uma filha.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Chegou então um caminheiro a casa do homem rico, mas este quis poupar o seu rebanho de ovelhas e bois para dar a comer ao hóspede que veio até ele. Então tomou a ovelha do homem pobre e preparou-a para o homem que chegara até ele».",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "David mostrou-se muito indignado contra aquele homem e disse a Natan: «Pelo Senhor que é vivo, o homem que fez isso é digno de morte.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Pagará quatro vezes a ovelha, por ter feito tal coisa e não a ter poupado».",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Então Natan disse a David: «Esse homem és tu. Assim fala o Senhor, Deus de Israel: “Eu te ungi como rei sobre Israel e te livrei das mãos de Saul.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Entreguei-te a casa do teu senhor e coloquei em teus braços as mulheres do teu senhor. Entreguei-te a casa de Israel e de Judá e, como se isto ainda fosse pouco, dar-te-ia ainda mais e muito mais.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Porque desprezaste, então, a pala - vra do Senhor, fazendo o que é mal a seus olhos? Mataste à espada Urias, o hitita; tomaste a sua mulher para ser tua esposa, depois de o teres feito passar à espada pelos amonitas.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Por isso, a espada nunca mais se afastará da tua casa, porquanto me desprezaste e tomaste a mulher de Urias, o hitita, para fazeres dela tua esposa”.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Assim fala o Senhor: “Eis que da tua própria casa farei com que surja a desgraça contra ti. Tomarei as tuas mulheres diante dos teus olhos e as darei a alguém próximo a ti e ele se deitará com as tuas mulheres à luz deste mesmo sol.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Pois tu procedeste às ocultas, mas Eu farei isto na presença de todo o Israel e à luz do sol”».",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Então David disse a Natan: «Pequei contra o Senhor». E Natan disse a David: «Por isso, o Senhor perdoou o teu pecado; não morrerás.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Todavia, porque ultrajaste o Senhor com esta ação, o filho que te nasceu terá de morrer».",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Então Natan seguiu para sua casa e o Senhor atingiu o menino que a mu - lher de Urias tinha dado a David e ele caiu gravemente enfermo.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "David pediu a Deus em favor da criança; David fez um rigoroso jejum e, entrando em casa, passava as noites deitado no chão.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Os anciãos da sua casa foram ter com ele para o fazerem levantar do chão, mas David recusou e não tomou alimento com eles.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Ao sétimo dia o menino morreu. Os servos de David tinham receio de lhe anunciar que o menino tinha morrido, pois diziam consigo: «Enquanto o menino estava vivo, nós falámos-lhe e ele não quis escutar a nossa voz. Como vamos dizer-lhe que o menino morreu? Ainda cometia alguma desgraça».",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Ao notar que os seus servos murmuravam entre si, David compreendeu que o menino tinha morrido. Então David perguntou aos seus servos: «O menino morreu?». E eles responderam: «Morreu».",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Então David levantou-se do chão, lavou-se, ungiu-se, mudou de roupa, entrou na casa do Senhor e prostrou-se. Depois foi para sua casa, pediu que lhe servissem alimento e comeu.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Disseram-lhe os seus servos: «Que estás a fazer? Enquanto o menino foi vivo, jejuavas e choravas; e agora que o menino morreu, levantas-te e pões-te a comer!»",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Ele respondeu: «Enquanto o menino foi vivo, eu jejuei e chorei, pois dizia para comigo: “Quem sabe? Talvez o Senhor se compadeça de mim e o menino viva”.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Mas agora que ele morreu, porque hei de jejuar? Acaso poderei trazê-lo de volta? Sou eu que um dia hei de ir ter com ele, mas ele não voltará para junto de mim.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "E David consolou Betsabé, sua esposa: foi ter com ela e deitou-se com ela. Ela deu à luz um filho e ele deu-lhe o nome de Salomão. E o Senhor amava - -o",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "e enviou mensagem por meio do profeta Natan para que lhe dessem o no - me de Jedidias, por causa do Senhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Entretanto, Joab guerreou contra Rabat dos amonitas e conquistou a cida - de capital do reino.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Joab enviou mensageiros a David, dizendo: «Fiz a guerra contra Rabat e capturei também os reservatórios de água.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Agora, pois, reúne o restante do exército, monta um acampamento contra a cidade e conquista-a, para não ser eu a conquistá-la e o meu nome ser invocado sobre ela».",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Da - vid reuniu todo o povo, marchou contra Rabat, lançou o combate contra ela e conquistou-a.",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "Ele tirou da cabeça de Malcam a coroa cujo peso era de um talento de ouro e pedras preciosas, a qual foi posta sobre a cabeça de David. E ele retirou da cidade imensos despojos.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "Fez sair o povo que habitava nela e pô-los a trabalhar com as serras, as picaretas de ferro e os machados de ferro. Obrigou-os também a fabricar tijolos. Assim fez com todas as cidades dos amonitas. Depois, David voltou com todo o povo para Jerusalém. A",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Algum tempo depois disto, aconteceu que, tendo Absalão, filho de David, uma irmã muito bonita chamada Tamar, um outro filho de David, Amnon, apaixonou-se por ela.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Amnon andava angustiado e doente por causa de Tamar, sua irmã, pois ela era virgem e, por isso, parecia-lhe que seria difícil ter alguma coisa com ela.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Amnon tinha um amigo chamado Jonadab, filho de Chimeá, irmão de David. Jonadab era um homem muito astuto.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Ele disse a Amnon: «Porque andas assim a definhar de dia em dia, ó filho do rei? Não mo dizes?» Disse-lhe Amnon: «É que eu amo Tamar, irmã de Absalão, meu irmão».",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Disse-lhe Jonadab: «Deita-te na tua cama e finge que estás doente. Quando o teu pai vier visitar-te, diz-lhe: “Peço que Tamar, minha irmã, venha dar-me comida, que ela prepare a comida diante dos meus olhos, para que eu a veja e coma das suas mãos”».",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Amnon então deitou-se e fingiu-se doente. Quando o rei veio vê-lo, Amnon disse ao rei: «Peço que Tamar, minha irmã, venha e amasse dois bolos diante dos meus olhos, para eu comer das suas mãos».",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "David mandou chamar Tamar ao palácio, dizendo: «Vai, por favor, a casa de Amnon, teu irmão, e prepara-lhe a comida».",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Tamar foi a casa de Amnon, seu irmão, e ele estava deitado. Ela tomou a farinha e amassou-a e, diante dos olhos dele, moldou e cozinhou os bolos.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Depois, tomou o tabulei - ro e esvaziou-o diante dele, mas ele não quis comer. Amnon disse: «Mandem sair toda a gente de junto de mim!» Depois de todos terem saído de junto dele,",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Amnon disse a Tamar: «Traz-me a comida ao quarto, para que eu coma das tuas mãos». Tamar tomou os bolos que fizera e levou-os a Amnon, seu irmão, no quarto.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Mas quando ela se aproximou para ele comer, ele agarrou-a e disse-lhe: «Vem, minha irmã! Deita-te comigo!»",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Ela, porém, disse- -lhe: «Não, meu irmão! Não me violentes. Pois isto não se faz em Israel. Não cometas tal insensatez.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "E eu, para onde levaria eu a minha vergonha? E tu serias mais um dos insensatos de Israel. Fala antes ao rei, pois ele não me negará a ti».",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Mas ele não quis ouvir a sua voz e, como era mais forte do que ela, violentou-a e deitou-se com ela.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "E logo Amnon passou a odiá-la profundamente, porque o ódio que sentia por ela era maior que o amor com que a tinha amado. Disse-lhe Amnon: «Levanta-te! Vai embora!»",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Ela disse-lhe: «Não! Pois a maldade que me fazes ao mandar-me embora será ainda maior do que aquela que já me fizeste». Mas ele não quis dar-lhe ouvidos.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "E chamou o criado que estava ao seu serviço e disse: «Mandem essa embora daqui para longe de mim; e tranca a porta atrás dela».",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Ela trazia uma túnica comprida com mangas, pois assim se vestiam as filhas do rei que eram virgens. O criado lançou-a para fora e trancou a porta atrás dela.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Tamar então colocou cinzas sobre a sua cabeça, rasgou a túnica de mangas que trazia, pôs as mãos sobre a cabeça e foi-se embora a gritar.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Disse-lhe Absalão, seu irmão: «Será que Amnon, teu irmão, esteve contigo? Por ora cala-te, minha irmã: ele é teu irmão. Não aflijas mais o teu coração com isso». Desolada, Tamar passou a habitar na casa de Absalão, seu irmão.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Quando o rei David ouviu todas estas coisas, ficou muito irado.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Quanto a Absalão, ele não conversou com Amnon, nem de mal nem de bem, porque passou a odiar Amnon por causa de ele ter violentado Tamar, sua irmã.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "E aconteceu que, dois anos depois, Absalão tinha tosquiadores em Baal- -Haçor, junto de Efraim. Então, Absalão convidou todos os filhos do rei.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Ab - salão foi até ao rei e disse: «Eis que o teu servo tem os tosquiadores a fazer a tosquia. Que o rei venha mais os seus servos ter com este teu servo».",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "O rei disse a Absalão: «Não, por favor, meu filho! Não iremos todos, para não sermos pesados para ti». Absalão insistiu com ele, mas David não quis ir e abençoou-o.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Disse Absalão: «Já que não, deixa ir connosco Amnon, meu irmão». Disse-lhe o rei: «Porque iria ele contigo?»",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Mas Absalão insistiu com ele, e David enviou Amnon e todos os filhos do rei com ele.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Absalão deu ordens aos seus criados, dizendo: «Atenção! Quando Amnon estiver alegre por causa do vinho, dir-vos-ei: “Atacai Amnon e matai-o!” Não temais, pois sou eu mesmo que vo-lo ordeno. Sejam fortes e valentes».",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Os criados de Absalão fizeram a Amnon exatamente como Absalão havia ordenado. Todos os filhos do rei se levantaram, montaram cada um na sua mula e fugiram.",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "Aconteceu que ainda eles estavam no caminho, quando chegou a David a seguinte notícia: «Absalão atacou todos os filhos do rei. Não restou nenhum deles».",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "O rei então ergueu-se, rasgou as suas vestes e deitou-se por terra; e todos os seus servos que ali permaneciam de pé rasgaram as suas vestes.",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "Jonadab, filho de Chimeá, irmão de David, disse: «Não diga o meu senhor que todos os jovens filhos do rei foram mortos. Apenas Amnon foi morto. De facto, Absalão assim tinha decidido no dia em que ele violentou a sua irmã, Tamar.",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "Portanto, que o rei, meu senhor, não coloque isso em seu coração, dizendo: “Todos os filhos do rei morreram”, pois morreu apenas Amnon.",
+          "note_refs": []
+        },
+        {
+          "verse": 34,
+          "text": "Quanto a Absalão, fugiu». O jovem de sentinela levantou os olhos e viu uma grande multidão que vinha pelo caminho atrás dele, do lado da montanha.",
+          "note_refs": []
+        },
+        {
+          "verse": 35,
+          "text": "Jonadab disse ao rei: «Eis que chegam os filhos do rei. Conforme a palavra do teu servo, assim aconteceu».",
+          "note_refs": []
+        },
+        {
+          "verse": 36,
+          "text": "Quando ele acabou de falar, os filhos do rei chegaram, ergueram as suas vozes e choraram. Também o rei e todos os seus servos choraram copiosamente.",
+          "note_refs": []
+        },
+        {
+          "verse": 37,
+          "text": "Absalão fugiu e foi ter com Talmai, filho de Amiud, rei de Guechur. David fez luto pelo seu filho todos os dias.",
+          "note_refs": []
+        },
+        {
+          "verse": 38,
+          "text": "Absalão fugiu, foi para Guechur e ficou lá por três anos.",
+          "note_refs": []
+        },
+        {
+          "verse": 39,
+          "text": "Entretanto, o rei David deixou de perseguir Absalão, porque já estava conformado com a morte de Amnon.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Joab, filho de Seruia, percebeu que o coração do rei se voltava para Absalão.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Então, Joab mandou alguém a Técua buscar uma mulher sábia e disse-lhe: «Finge que estás de luto, veste roupas de luto e não te perfumes. Sê como uma mulher que há muito tempo está de luto por um morto.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Irás até ao rei e falar-lhe-ás da maneira que te vou indicar». E Joab colocou as palavras na boca dela.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "A mulher de Técua apresentou-se ao rei, caiu com a sua face por terra, prostrou-se e disse: «Salva-me, ó rei!»",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "O rei disse-lhe: «O que tens?» Ela respondeu: «Eu sou uma mulher viúva. O meu marido morreu.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "A tua serva tinha dois filhos, mas eles discutiram um com o outro no campo e não havia ninguém que os apartasse. Um atacou o outro e matou-o.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Então toda a família se levantou contra a tua serva, dizendo: “Entrega-nos aquele que atacou o seu irmão, para o matarmos, por causa da vida do seu irmão, que ele matou. Deste modo exterminaremos também o herdeiro!” Assim extinguirão a última centelha que me resta, de modo que não se vai conservar do meu marido nem o no - me nem resto algum sobre a face da terra».",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "O rei disse à mulher: «Volta para a tua casa! Eu mesmo darei ordens a teu respeito».",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "A mulher de Técua disse então ao rei: «Ó rei, meu senhor! Que a iniquidade recaia sobre mim e sobre a casa do meu pai. Mas que o rei e o seu trono fiquem inocentes».",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "O rei disse: «Se alguém te falar disso, manda-o vir ter comigo e nunca mais te tocará».",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Ela disse: «Que o rei se lembre do Senhor, teu Deus, para que o vingador do sangue não multiplique o massacre e de modo algum acabem com o meu filho». Disse ele: «Juro pelo Senhor que é vivo, que nenhum cabelo do teu filho cairá por terra».",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Então a mulher disse: «Que a tua serva possa dizer mais uma palavra ao rei, meu senhor». Ele disse: «Fala!»",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "A mulher disse: «Porque decidiste então daquela mesma maneira contra o povo de Deus? Pois, ao pronunciar esta sentença, o rei torna-se culpado, uma vez que o rei não quer deixar regressar aquele que ele baniu.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Nós temos de morrer; somos como a água que é derramada por terra e não se pode mais recolher. Mas Deus não retira uma vida. E que o rei faça planos para que não continue exilado longe dele aquele que está no exílio.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Ora, se eu vim dizer estas palavras ao rei, meu senhor, é porque o povo me aterrorizou e a tua serva disse: “Falarei ao rei e talvez o rei faça conforme a palavra da sua escrava”.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "E de facto, o rei ouviu e livrou a sua escrava da mão daquele homem que quer exterminar tanto a mim como ao meu filho da herança de Deus.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Disse, pois, a tua serva: “Que a palavra do rei, meu senhor, seja causa de tranquilidade, pois o rei, meu senhor, é como um mensageiro de Deus, que distingue entre o bem e o mal. Que o Senhor, teu Deus, esteja contigo!»",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "O rei respondeu e disse à mulher: «Por favor, não me escondas nada do que eu te perguntar». Disse a mulher: «Que o rei, meu senhor, fale».",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "E disse o rei: «Não está a mão de Joab contigo em tudo isto?» Respondendo, a mulher disse: «Pela tua vida, ó rei, meu senhor! Ninguém se pode desviar, nem para a direita nem para a esquerda, de tudo o que disse o rei, meu senhor. Pois foi o teu servo Joab que me mandou e colocou na boca da tua serva todas estas palavras.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "O teu servo Joab agiu assim para dar outro rumo à situação. Mas o meu senhor é sábio, tem a sabedoria de um mensageiro de Deus, conhecendo tudo o que existe sobre a terra».",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "O rei disse então a Joab: «Eu já decidi sobre este assunto! Vai e traz de volta o jovem Absalão».",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Joab inclinou-se de rosto por terra e prostrou-se, bendizendo o rei. E disse Joab: «Hoje este teu servo ficou a saber que encontrei graça diante dos teus olhos, ó rei, meu senhor, pois o rei pôs em prática as palavras do seu servo».",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Joab levantou-se, foi a Guechur e fez vir Absalão para Jerusalém.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "E o rei disse: «Que ele se retire para sua casa e que não veja a minha face». Absalão retirou-se então para sua casa e não viu a face do rei.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Em todo o Israel não havia homem formoso como Absalão. Ele era muito elogiado. Da planta dos pés ao alto da cabeça, não havia nele nenhum defeito.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Ele rapava a cabeça de tempos a tempos e rapava-a porque o seu cabelo lhe pesava. Depois de a rapar, pesava o cabelo da sua cabeça, que dava duzentos siclos, segundo o peso oficial do rei.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Nasceram a Absalão três filhos e uma filha, de nome Tamar. Esta era uma mulher formosa.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Absalão ficou dois anos em Jerusalém sem ver a face do rei.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Então Absalão mandou chamar Joab, para o enviar ao rei, mas este não quis vir ter com ele. Mandou-o chamar novamente e mais uma vez ele não quis vir.",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "Disse en - tão aos seus servos: «Vede! A parte do terreno de Joab está ao lado da minha; e ele tem lá cevada. Ide e ateai-lhe fogo». Os servos de Absalão atearam fogo ao campo.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "Joab levantou-se, foi ter com Absalão a casa e disse-lhe: «Porque é que os teus servos atearam fogo ao meu campo?»",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "Absalão disse a Joab: «Eis que mandei chamar-te, dizendo: “Vem cá, para eu te enviar ao rei, dizendo: ‘Porque vim eu de Guechur? Melhor seria para mim estar ainda lá’”. Agora quero ver a face do rei. Se sou culpado de crime, que me condene à morte».",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "Joab foi ao rei e contou-lhe tudo. O rei chamou Absalão e este foi ter com o rei e prostrou-se com o rosto por terra diante do rei. E o rei beijou Absalão.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Algum tempo depois disto, aconteceu que Absalão adquiriu para si um carro, cavalos e cinquenta homens que corriam à sua frente.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Absalão levan - tava-se bem cedo e permanecia junto ao caminho da porta. Quando alguém tinha uma queixa e devia ir ao rei para julgamento, Absalão chamava-o e dizia: «De que cidade és tu?» Caso dissesse: «O teu servo é de uma das tribos de Israel»,",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Absalão dizia-lhe: «Olha, as tuas palavras são boas e corretas, mas não há quem te ouça da parte do rei».",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Absalão dizia ainda: «Quem me dera ser o juiz nesta terra! Qualquer pessoa que tivesse uma queixa ou um processo viria à minha presença e eu faria justiça em seu favor!»",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "E quando alguém se aproximava para se prostrar diante dele, estendia-lhe a mão, abraçava-o e beijava-o.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Absalão comportava-se desta maneira com todos os israelitas que vinham ao rei para um julgamento. Deste modo, Absalão conquistou o coração dos israelitas.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Passados quatro anos, Absalão disse ao rei: «Deixa-me ir a Hebron cum - prir o voto que fiz ao Senhor.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Pois, enquanto morava em Guechur, na Síria, o teu servo fez este voto: “Se o Senhor permitir que eu volte a Jerusalém, prestarei culto ao Senhor”».",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Respondeu-lhe o rei: «Vai em paz». E Absalão levantou-se e dirigiu-se a Hebron.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Ao mesmo tempo, Absalão enviou espiões a todas as tribos de Israel, dizendo: «Quando ouvirdes o toque do chofar, pro - clamai: “Absalão tornou-se rei em Hebron”.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Com Absalão seguiram de Jerusalém duzentos homens convidados; iam de boa fé, pois não sabiam de nada.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Enquanto oferecia sacrifícios, Absalão convocou da cidade de Guilo um con - selheiro de David, o guilonita Aitofel. Deste modo a conjura tornava-se mais forte e a multidão que estava com Absalão era cada vez maior.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "O informador veio avisar David, dizendo: «O coração dos israelitas vai atrás de Absalão».",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Então David disse a todos os seus servos que estavam com ele em Jerusalém: «Erguei-vos e fujamos, porque não teremos escapatória diante de Absalão. Apressai-vos em partir, para que ele não nos alcance repentinamente, lance sobre nós alguma desgraça e ataque a cidade a golpe de espada».",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Os servos do rei disseram-lhe: «Seja qual for a escolha do rei, meu senhor, nós somos os teus servos».",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "O rei saiu e toda a sua casa seguiu os seus passos. O rei deixou dez mulheres, suas concubinas, para guardarem a casa.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Quando o rei saiu e todo o povo seguiu atrás dele, fizeram uma paragem junto da última casa.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Todos os seus servos desfilavam ao lado dele, bem como todos os cretenses e os peleteus. Também todos os de Gat, isto é, os seiscentos homens que o tinham seguido desde Gat, desfilaram diante do rei.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "O rei disse a Itai de Gat: «Porque vens também tu connosco? Volta e fica com o rei, pois és estrangeiro e estás exilado da tua terra.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Chegaste apenas ontem e eu ia já hoje obrigar-te a andar errante connosco? Quanto a mim, vou para onde puder ir. Volta e faz voltar os teus irmãos. Que haja contigo misericórdia e fidelidade».",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Itai respondeu ao rei, dizendo: «Pelo Senhor que é vivo e pela vida do rei, meu senhor! Juro que onde quer que esteja o rei, meu senhor, seja para a morte, seja para a vida, lá estará o teu servo».",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "David dis - se a Itai: «Anda, avança!» E Itai, de Gat, avançou com todos os seus homens e com todas as crianças que estavam com ele.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "E todos os da terra choravam em altos gritos, enquanto todo o povo avançava. O rei atravessou a torrente do Cédron e todo o povo atravessou, seguindo pelo caminho do deserto.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Eis que veio também Sadoc e com ele todos os levitas, transportando a arca da aliança de Deus. Depuseram a arca de Deus e Abiatar apresentava uma oferta, enquanto todo o povo acabava de sair da cidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Então o rei disse a Sadoc: «Leva a arca de Deus de volta para a cidade. Se eu encontrei graça diante dos olhos do Senhor, Ele fará que eu volte e que a veja ainda, a ela e à sua morada.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Mas se Ele disser: “Não tenho agrado por ti!”, então aqui estou! Que Ele faça de mim o que lhe parecer melhor».",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "O rei disse ainda ao sacerdote Sadoc: «Ó vidente, volta em paz para a cidade. Fiquem convosco os vossos filhos: Aimás, teu filho, e Jónatas, filho de Abiatar.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Vede! Eu perO manecerei nas regiões do deserto até que da vossa parte chegue uma palavra para me informar».",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Então Sadoc e Abiatar levaram a arca de Deus para Jerusalém e lá ficaram.",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "E David subia a encosta do monte das Oliveiras; subia e chorava com a cabeça coberta, caminhando descalço. E quanto ao povo que o acompanhava, todos tinham a cabeça coberta e subiam a chorar.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "Foram então avisar David, dizendo: «Aitofel está com aqueles que conspiram com Absalão». David disse: «Ó SENHOR, transforma em loucura os conselhos de Aitofel!»",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "E aconteceu que, quando David chegou ao cimo, ali onde era costume prostrar-se a adorar a Deus, eis que veio ao seu encontro Huchai, o araqueu, com as vestes rasgadas e a cabeça coberta de terra.",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "Disse-lhe David: «Se avançares comigo, serás uma carga para mim.",
+          "note_refs": []
+        },
+        {
+          "verse": 34,
+          "text": "Mas se voltares à cidade e disseres a Absalão: “Serei teu servo, ó rei! Já fui servo do teu pai, mas a partir de agora sou teu servo!” Assim poderás anular em meu favor os conselhos de Aitofel.",
+          "note_refs": []
+        },
+        {
+          "verse": 35,
+          "text": "Acaso não tens lá contigo os sacerdotes Sadoc e Abiatar? Toda a palavra que ouvires da casa do rei, comunica-a aos sacerdotes Sadoc e Abiatar.",
+          "note_refs": []
+        },
+        {
+          "verse": 36,
+          "text": "Eis que, lá com eles, estão os seus dois filhos: Aimás, filho de Sadoc, e Jónatas, filho de Abiatar. Por meio deles, mandar-me-eis notícias de tudo o que ouvirdes».",
+          "note_refs": []
+        },
+        {
+          "verse": 37,
+          "text": "Huchai, o amigo de David, entrou na cidade no momento em que Absalão entrava em Jerusalém.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Tendo David passado um pouco para além do cimo do monte, eis que Ciba, o servo de Mefibóchet, vinha em sua direção com um par de asnos aparelhados e sobre eles duzentos pães e cem cachos de uvas passas, cem frutas de verão e um odre de vinho.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "E o rei disse a Ciba: «Que significam para ti estas coisas?» Disse Ciba: «Os asnos são para a casa do rei e para montar. Os pães e as frutas de verão são para os servos comerem. E o vinho é para que bebam os que estiverem cansados no deserto».",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Disse o rei: «Onde está o filho do teu senhor?» Ciba disse ao rei: «Está em Jerusalém, pois dizia: “Hoje os da casa de Israel vão restituir-me o reino do meu pai”».",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "O rei disse então a Ciba: «Tudo o que foi de Mefibóchet agora é teu». Ciba respondeu: «Inclino-me diante de ti. Que eu encontre graça diante dos teus olhos, ó rei, meu senhor!».",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Quando o rei David chegou a Baurim, saiu de lá um homem pertencente à família da casa de Saul. O seu nome era Chimei, filho de Guera. Ao sair pronunciava maldições",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "e atirava pedras contra David e contra todos os ser - vos do rei David, enquanto todo o povo e todos os valentes estavam à sua direita e à sua esquerda.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Assim dizia Chimei para o amaldiçoar: «Sai, sai daqui homem sanguinário e perverso.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "O Senhor fez recair sobre ti todo o sangue da família de Saul, cujo trono tu ocupaste. O Senhor entregou a realeza nas mãos do teu filho Absalão. Eis que agora estás nessa desgraça, porque és um homem sanguinário».",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Abisai, filho de Seruia, disse ao rei: «Porque é que este cão morto há de amaldiçoar o rei, meu senhor? Deixa-me passar para lhe cortar a cabeça».",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "O rei, porém, disse: «Que tenho eu convosco, filhos de Seruia? Ele amaldiçoa assim porque o Senhor lhe disse que amaldiçoasse David. Quem lhe pode perguntar: “Porque procedeste assim?”»",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Depois David disse a Abisai e a todos os seus servos: «Se um filho meu, que saiu das minhas entranhas, procura tirar- -me a vida, muito mais um filho de Benjamim! Deixai-o! Que amaldiçoe, pois foi o Senhor quem lho ordenou.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Talvez o Senhor olhe para a minha aflição e me restitua a felicidade em troca da sua maldição no dia de hoje».",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "David e os seus homens continuaram o seu caminho, enquanto Chimei seguia pela encosta do monte, caminhando a par com ele, amaldiçoando, atirando pedras contra ele e lançando-lhe terra.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "O rei chegou e, como todos os do povo que iam com ele estavam cansados, descansou ali.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Absalão e todo o povo, os homens de Israel, entraram em Jerusalém e Aitofel estava com ele.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "E aconteceu que, quando Huchai, o araqueu amigo de David, foi ter com Absalão, Huchai disse a Absalão: «Viva o rei! Viva o rei!»",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Absalão disse a Huchai: «É esta a tua fidelidade para com o teu amigo? Porque não foste com o teu amigo?»",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Disse Huchai a Absalão: «De modo algum! Pois é àquele que o Senhor escolheu, bem como este povo e todos os homens de Israel que eu pertenço e com ele estarei.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Em segundo lugar, a quem devo eu servir? Acaso não é junto do seu filho? Exatamente como servi junto do teu pai, assim estarei junto de ti».",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Depois, disse Absalão a Aitofel: «Tomai conselho entre vós sobre o que devemos fazer».",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Aitofel disse a Absalão: «Vai às concubinas do teu pai, que ele deixou para cuidarem da casa. Quando todo o Israel ouvir que tu desonraste o teu pai, ficarão mais fortes os braços de todos os que estão contigo».",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Armaram uma tenda para Absalão sobre o terraço; e Absalão foi às concubinas do seu pai, à vista de todo o Israel.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Um conselho que Aitofel desse naqueles dias era como obter uma palavra da parte de Deus. Assim era cada conselho de Aitofel, tanto para David, como para Absalão.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Aitofel disse a Absalão: «Deixa-me escolher doze mil homens. Então levantar-me-ei para perseguir David esta noite.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Irei contra ele, pois está cansado e sem força nas mãos. Deixá-lo-ei aterrorizado e todo o povo que está com ele fugirá. E então atacarei apenas o rei.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Eu farei voltar a ti todo o povo como se fosse um só a voltar. Não é um homem que tu procuras? Então que todo o povo esteja em paz».",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Esta palavra pareceu acertada aos olhos de Absalão e aos olhos de todos os anciãos de Israel.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Mas Absalão disse: «Chama também Huchai, o araqueu, para que ouçamos algo também da sua boca».",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Huchai foi ter com Absalão que lhe disse: «Aitofel falou desta maneira. Devemos fazer o que ele diz ou não? Fala tu!»",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Disse então Huchai a Absalão: «Desta vez o conselho que Aitofel deu não é bom».",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Huchai acrescentou: «Tu conheces o teu pai e os seus homens. São valentes e têm a alma amargurada, como uma ursa no bosque ao ficar sem os filhotes. Além disso, o teu pai é um guerreiro e não vai pernoitar com o povo.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Ago - ra mesmo deve estar escondido em alguma das grutas ou em qualquer outro lugar. Basta que caia um dos teus no primeiro combate e quem ouvir a notícia dirá: “Aconteceu uma mortandade no povo que segue Absalão”.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "E mesmo quem é corajoso, cujo coração é como o coração de um leão, desfalecerá de imediato. Com efeito, todo o Israel sabe que o teu pai é valente e tem consigo homens corajosos.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Por isso aconselho que se reúna ao teu redor todo o Israel, desde Dan até Bercheba, inumerável como a areia que está junto ao mar, e que à tua frente caminhem para o combate.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Chegaremos até ele onde quer que se encontre; cairemos sobre ele como o orvalho cai sobre a terra; e dele bem como de todos os homens que estão com ele não restará nem um sequer.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "E se ele se retirar em alguma cidade, todo o Israel levará cordas àquela cidade para a arrastarmos para a torrente, de modo que não se encontre ali nem mesmo uma simples pedra».",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Absalão e todos os homens de Israel disseram: «O conselho de Huchai, o araqueu, é melhor que o conselho de Aitofel». Mas o Senhor tinha decidi - do frustrar o conselho bom de Aitofel, porque deste modo o Senhor traria a ruína sobre Absalão.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Huchai disse aos sacerdotes Sadoc e Abiatar: «Aitofel aconselhou Absalão e os anciãos de Israel desta maneira. Eu, porém, aconselhei desta outra maneira.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Agora, portanto, mandai imediatamente dizer a David: “Não passes esta noite nas estepes do deserto, mas passa para o outro lado, para que não sejam aniquilados o rei e todo o povo que está com ele”».",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Jónatas e Aimaás estavam em En-Roguel. Uma criada foi-lhes contar e eles foram contar ao rei David, pois não podiam ser vistos a entrar na cidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Um jovem, porém, viu-os e contou a Absalão. Mas os dois partiram rapidamente e chegaram a Baurim, entraram na casa de um homem que tinha uma cisterna no seu pátio e desceram lá para dentro.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "A mulher dele pegou na tampa, cobriu a boca da cisterna e sobre ela espalhou cevada descascada, de modo que nada se percebia.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Os servos de Absalão chegaram à casa daquela mulher e disseram: «Onde estão Aimaás e Jónatas?» A mulher disse-lhes: «Já passaram por aqui em direção às águas». Eles procuraram, mas não os encontraram. Então, voltaram a Jerusalém.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Depois de eles terem ido embora, os dois homens subiram para fora da cis - terna e foram contar ao rei David. Disseram a David: «Levantai-vos e atravessai depressa as águas, porque Aitofel deu este conselho contra vós».",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "David e todo o povo que estava com ele levantaram-se e atravessaram o Jordão. Antes mesmo de nascer o dia, não havia nem um que não tivesse atravessado o Jordão.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Aitofel, vendo que o seu conselho não era seguido, selou o seu asno, le - vantou-se e foi para casa na sua cidade. Ele deixou instruções para a sua casa e depois enforcou-se. Aitofel morreu e foi sepultado no sepulcro do seu pai.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "David chegou a Maanaim quando Absalão atravessou o Jordão, ele e todos os homens de Israel com ele.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Absalão colocou Amassá à frente do exército, em vez de Joab. Amassá era filho de um homem chamado Jitra, o israelita, que tinha dormido com Abigail, filha de Naás e irmã de Seruia, mãe de Joab.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Israel acampou com Absalão na terra de Guilead.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Quando David chegou a Maanaim, Chobi, filho de Naás, de Rabá, dos filhos de Amon, Maquir, filho de Amiel, de Lo-Dabar, e Barzilai, o guileadita de Roguelim,",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "trouxeram-lhe camas, bacias e vasos de barro; também trigo e cevada, farinha e grão torrado, favas e lentilhas;",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "trouxeram ainda mel e manteiga, ovelhas e queijos de vaca. Trouxeram tudo isto para David e para o povo que estava com ele, para poderem comer, pois diziam: «O povo ficou faminto, cansado e sedento no deserto».",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "David passou em revista o povo que estava com ele e constituiu sobre eles chefes de mil e chefes de cem.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Depois, David enviou o povo, um terço sob o comando de Joab, um terço sob o comando de Abisai, filho de Seruia, irmão de Joab, um terço sob o comando de Itai de Gat. O rei disse ao povo: «Eu mesmo sairei convosco».",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Mas o povo disse: «Não sairás! Pois, se tivermos de fugir, eles não se preocuparão connosco. Se metade de nós morrer, não se preocuparão connosco. Tu, porém, vales como dez mil de nós. Por isso, melhor é que fiques na cidade para nos socorrer».",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Disse-lhes o rei: «Farei o que parecer melhor aos vossos olhos». Então o rei parou junto à porta, enquanto todo o povo saía em grupos de cem e de mil.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "O rei ordenou a Joab, a Abisai e a Itai, dizendo: «Tratem-me bem o jovem Absalão». E todo o povo ouviu quando o rei deu esta ordem a todos os chefes a respeito de Absalão.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "O povo saiu para o campo, ao encontro de Israel, e o combate aconteceu na floresta de Efraim.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Ali foram batidos os do povo de Israel pelos servos de A LXX David e foi grande a mortandade naquele dia: vinte mil homens.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Dali, o com - bate estendeu-se sobre a face de toda a terra. Naquele dia, a floresta devorou muito mais gente do que aqueles que foram devorados ao fio da espada.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Absalão encontrou-se em frente dos servos de David. Ora, Absalão cavalgava uma mula. Quando a mula se meteu por baixo da rama de um grande carvalho, prendeu-se-lhe a cabeça nos ramos e ele ficou suspenso entre o céu e a terra, enquanto a mula que ele cavalgava passou adiante.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Alguém o viu e informou Joab: «Vi agora mesmo Absalão suspenso de um carvalho».",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Joab disse ao homem que o informara: «Se o viste, porque não o abateste por terra, ali mesmo? E eu te daria dez moedas de prata e um cinturão».",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "O homem respondeu a Joab: «Ainda que eu mesmo pesasse com as minhas mãos mil moedas de prata, não estenderia a minha mão contra o filho do rei, porque aos nossos ouvidos o rei deu uma ordem a ti, a Abisai e a Itai, dizen - do: “Guardai-me o jovem Absalão”.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Se eu tivesse feito isso contra ele às escondidas, nada ficaria escondido ao rei; e tu mesmo te porias contra».",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Joab replicou: «Não tenho tempo a perder contigo». Tomou logo três dardos na sua mão e cravou-os no coração de Absalão, que ainda continuava vivo, no interior do carvalho.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Dez jovens escudeiros de Joab cercaram Absalão, feriram- -no e mataram-no.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Joab tocou o chofar e o povo deixou de perseguir Israel, pois Joab fez parar o povo.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Pegaram em Absalão e lançaram-no numa grande cova, em plena floresta, e amontoaram sobre ele uma grande quantidade de pedras. Então, todos os israelitas fugiram, cada um para a sua tenda.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Quando ainda vivia, Absalão tinha tomado e erigido para si a coluna que está no Vale do Rei, pois dizia: «Não tenho filhos que perpetuem a memória do meu nome». Por isso, ele deu o seu próprio nome àquela coluna, que até ao dia de hoje se chama monumento de Absalão.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Aimaás, filho de Sadoc, disse: «Deixem-me ir a correr levar as boas notícias ao rei, pois o Senhor livrou-o das mãos dos seus inimigos».",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Disse-lhe, porém, Joab: «Hoje não serás o portador de boas notícias. Levarás boas notícias outro dia. Hoje, porém, não levarás boas notícias porque morreu o filho do rei».",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "E Joab disse ao cuchita: «Vai anunciar ao rei aquilo que viste». O etíope prostrou-se diante de Joab e saiu a correr.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Aimaás, filho de Sadoc, tornou a dizer a Joab: «E se eu também corresse atrás do cuchita?» Disse Joab: «Porque deverias tu correr, meu filho? Não terias recompensa por boas notícias!»",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Mas Aimaás insistiu: «Seja como for, eu vou correr». Disse-lhe Joab: «Então, corre!» E Aimaás correu pelo caminho da planície e ultrapassou o etíope.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "David estava sentado entre as duas portas. A sentinela subiu ao terraço da porta, sobre a muralha, ergueu os olhos e viu. Eis que vinha um homem a correr sozinho.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "A sentinela chamou e informou o rei. O rei então disse: «Se vem só, há boas notícias na sua boca». Enquanto ele vinha e se aproximava,",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "a sentinela viu outro homem a correr. A sentinela chamou o porteiro e disse- -lhe: «Eis que vem outro homem a correr sozinho». O rei disse: «Também esse traz boas notícias».",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "A sentinela disse: «Eu vejo que a maneira de correr do primeiro é a maneira de correr de Aimaás, filho de Sadoc». O rei disse: «É um homem de bem e vem com ótimas notícias».",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Aimaás chamou e disse ao rei: «Paz!» Depois prostrou-se diante do rei com o rosto por terra e disse: «Bendito seja o Senhor, teu Deus, que te entre - gou os homens que levantaram a mão contra o rei, meu senhor».",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "O rei perE I guntou: «Está bem o jovem Absalão?» Aimaás respondeu: «Vi um grande tumulto, quando Joab enviou o servo do rei, isto é, este teu servo, mas não fiquei a saber o que era».",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "Disse-lhe o rei: «Desvia-te e fica ali de pé». Ele desviou-se e ali permaneceu.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "Logo em seguida, chegou o etíope, a dizer: «Que o meu senhor, o rei, receba as boas notícias. Pois o Senhor hoje te fez justiça, ao livrar-te das mãos de todos os que se levantaram contra ti».",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "O rei perguntou ao etíope: «Está bem o jovem Absalão?» O etíope respondeu: «Que os inimigos do rei, meu senhor, tenham a mesma sorte e todos os que se levantaram contra ti para o mal».",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "Então o rei ficou perturbado, subiu ao aposento superior da porta e chorou. E enquanto andava dizia assim: «Meu filho, Absalão, meu filho! Meu filho, Absalão! Quem me dera ter morrido em teu lugar! Absalão, meu filho, meu filho!».",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Foram dizer a Joab: «Eis que o rei está a chorar e a lamentar-se por causa de Absalão».",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "E assim a vitória daquele dia transformou-se em luto para todo o povo, pois, naquele dia, todo o povo ouviu dizer que o rei estava consternado por causa do seu filho.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Naquele dia, o povo foi entrando furtiva - mente na cidade, como fazem as tropas quando, envergonhadas, fogem da ba - talha.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "O rei cobriu a sua face e clamava com voz forte: «Meu filho, Absalão! Absalão, meu filho, meu filho!».",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Joab foi ter com o rei em sua casa e disse: «Hoje envergonhaste o rosto de todos os teus servos, que hoje te salvaram a vida e a vida dos teus filhos e filhas, a vida das tuas mulheres e a vida das tuas concubinas,",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "ao mostrares amor por aqueles que te odeiam e ódio pelos que te amam. Sim, hoje deste a conhecer que os teus chefes e os teus servos não são nada para ti. De facto, hoje compreendi que, se Absalão estivesse vivo e todos nós mortos, isso sim seria correto aos teus olhos.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Agora, pois, levanta-te e sai; vai falar ao coração dos teus servos; pois eu te juro pelo Senhor que, se não saíres, nem um só homem ficará contigo esta noite; e para ti isto será uma desgraça maior que todas as que caíram sobre ti, desde a tua juventude até agora».",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Então o rei levantou-se e sentou-se junto à porta. E anunciaram a todo o povo, dizendo: «Eis que o rei está sentado à porta», e todo o povo veio à presença do rei. Os israelitas, porém, fugiram cada um para as suas tendas.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "E aconteceu que todo o povo, em todas as tribos de Israel, comentava, dizendo: «O rei libertou-nos das mãos dos nossos inimigos; ele mesmo nos livrou das mãos dos filisteus. Mas agora teve de fugir da terra por causa de Absalão.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Absalão, que nós ungimos como nosso rei, morreu na guerra. E agora, porque ficais calados, em vez de fazerdes voltar o rei?».",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Então o rei David mandou dizer aos sacerdotes Sadoc e Abiatar: «Falai aos anciãos de Judá, dizendo: “Porque haveríeis de ser os últimos a trazer o rei de volta à sua casa?”» E a palavra de todo o Israel chegou aos ouvidos do rei, em sua casa.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "«“Vós sois meus irmãos, sois meu osso e minha carne. Porque seríeis os últimos a trazer de volta o rei?”.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Dizei a Amassá: “Porventura não és meu osso e minha carne? Que Deus me castigue e volte a castigar, se tu não fores chefe do exército, diante de mim, todos os dias, no lugar de Joab!”».",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "E assim ele moveu o coração de todos os homens de Judá, como se fossem um só homem; e eles mandaram dizer ao rei: «Volta, tu e todos os teus servos!»",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "O rei voltou e, quando chegou ao Jordão, Judá veio a Guilgal para ir ao encontro do rei, acompanhando-o na travessia do Jordão.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Então Chimei, filho de Guera, benjaminita de Baurim, apressou-se e desceu com os homens de Judá para ir ao encontro do rei David,",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "acompanhado de mil homens de Benjamim. Veio também Ciba, o criado da casa de Saul, com os seus quinze filhos e vinte servos e conseguiram entrar no Jordão antes do rei.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "E foram atravessando para ajudar a casa do rei a atravessar e fazer o que era bom aos olhos dele. Então, Chimei, filho de Guera, prostrou-se diante do rei, quando este atravessava o Jordão;",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "e disse ao rei: «Não me atribuas, meu senhor, qualquer culpa, nem lembres a iniquidade do teu servo no dia em que o rei, meu se - nhor, saiu de Jerusalém. Que o rei não guarde isso no seu coração!",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "De facto, o teu servo reconhece. Eu pequei, mas hoje sou o primeiro de toda a casa de José a descer ao encontro do rei, meu senhor».",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Então Abisai, filho de Seruia, respondeu e disse: «Em lugar disso, não deveria Chimei ser morto, por ter amaldiçoado o ungido do Senhor?»",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Mas David disse: «O que há entre mim e vós, filhos de Seruia, para serdes hoje para mim um adversário? Haveria hoje de morrer alguém em Israel? Acaso não sei que hoje sou eu o rei sobre Israel?»",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "O rei então disse a Chimei: «Não morrerás!». E o rei prometeu-lhe com juramento.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Também Mefibóchet, filho de Saul, desceu ao encontro do rei. Ele não tinha cuidado dos pés, nem feito a barba, nem lavado a roupa, desde o dia em O que o rei se foi embora até ao dia em que voltou em paz.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "E aconteceu que, quando chegou a Jerusalém ao encontro do rei, este disse-lhe: «Porque não foste comigo, Mefibóchet?»",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Ele disse: «Ó rei, meu senhor, o meu servo enganou-me, pois, este teu servo dizia: “Vou aparelhar para mim o jumento, montarei nele e irei com o rei, pois o teu servo é coxo”.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Além disso, ele caluniou o teu servo junto do rei, meu senhor. Mas o rei, meu senhor, é como um mensageiro de Deus. Faz o que for melhor diante dos teus olhos.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Pois toda a casa do meu pai não eram senão homens dignos de morte, diante do rei, meu se - nhor. Mas tu incluíste o teu servo entre os que comem da tua mesa. Que direito ainda tenho eu de reclamar alguma coisa ao rei?»",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "O rei, porém, disse-lhe: «Porque falas ainda das tuas coisas? Eu declarei: tu e Ciba repartireis o campo».",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "Mefibóchet disse ao rei: «Ele pode ficar com tudo, uma vez que o rei, meu senhor, voltou em paz para sua casa».",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "Também Barzilai, o guileadita, desceu de Roguelim e atravessou o Jordão com o rei, para o conduzir ao outro lado do Jordão.",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "Barzilai já era muito velho, tinha oitenta anos de idade, mas havia sustentado o rei durante a sua per - manência em Maanaim, pois era um homem muito importante.",
+          "note_refs": []
+        },
+        {
+          "verse": 34,
+          "text": "Disse então o rei a Barzilai: «Tu, atravessa comigo e eu garantirei o teu sustento ao meu lado em Jerusalém».",
+          "note_refs": []
+        },
+        {
+          "verse": 35,
+          "text": "Mas Barzilai disse ao rei: «Quantos dias ou anos de vida terei ainda, para subir agora com o rei para Jerusalém?",
+          "note_refs": []
+        },
+        {
+          "verse": 36,
+          "text": "Tenho agora oitenta anos. Conseguirei ainda distinguir o que é bom do que é mau? Será que eu, teu servo, sinto ainda o gosto do que como ou bebo? Consigo ainda ouvir a voz dos cantores e das cantoras? Porque haveria o teu servo de ser mais um peso para o rei, meu senhor?",
+          "note_refs": []
+        },
+        {
+          "verse": 37,
+          "text": "O teu servo atravessará com o rei só até um pouco além do Jordão. Porque haveria o rei de me conceder tal recompensa?",
+          "note_refs": []
+        },
+        {
+          "verse": 38,
+          "text": "Deixa voltar o teu servo, para que eu morra na minha cidade, junto ao túmulo do meu pai e da minha mãe. Aqui está o teu servo Quimeam. Que ele atravesse com o rei, meu senhor, e faz para ele o que for bom diante dos teus olhos».",
+          "note_refs": []
+        },
+        {
+          "verse": 39,
+          "text": "Então o rei disse: «Que Quimeam atravesse comigo, para que eu faça por ele o que for melhor diante dos teus olhos, pois tudo o que pretenderes de mim, eu o farei por ti».",
+          "note_refs": []
+        },
+        {
+          "verse": 40,
+          "text": "Depois de todo o povo ter atravessado o Jordão, também o rei atravessou. E então o rei beijou e abençoou Barzilai, que voltou para o seu lugar.",
+          "note_refs": []
+        },
+        {
+          "verse": 41,
+          "text": "O rei atravessou em direção a Guilgal e Quimeam atravessou com ele. E todo o povo de Judá, bem como metade do povo de Israel, acompanharam o rei na travessia.",
+          "note_refs": []
+        },
+        {
+          "verse": 42,
+          "text": "Então, todos os homens de Israel foram ter com o rei e dis - seram-lhe: «Como é que os nossos irmãos, os homens de Judá, te raptaram e conduziram o rei e a sua casa para além do Jordão, quando todos os homens de David estavam com ele?».",
+          "note_refs": []
+        },
+        {
+          "verse": 43,
+          "text": "Então todos os homens de Judá responderam aos homens de Israel: «É que para mim o rei é um parente próximo! E porque vos irritais por causa disso? Acaso comemos nós às custas do rei ou nos foi trazido algum presente?»",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Havia ali, no entanto, um homem perverso, chamado Cheba, filho de Bicri, homem de Benjamim. Ele tocou o chofar e disse: A A «Não temos parte com David nem temos herança com o filho de Jessé! Cada um para as suas tendas, ó Israel!».",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Então, todos os homens de Israel se separaram de David para seguir Cheba, filho de Bicri. Mas os homens de Judá mantiveram-se ligados ao seu rei, desde o Jordão até Jerusalém.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Quando David chegou à sua casa em Jerusalém, o rei tomou as dez concubinas que deixara a guardar a casa e colocou-as numa casa vigiada. Cuidava do seu sustento, mas não foi mais ter com elas. Assim, ficaram confinadas até ao dia da morte, vivendo como viúvas.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "O rei disse o rei a Amassá: «Convoca-me todos os homens de Judá para daqui a três dias; e tu permanece aqui».",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Amassá foi convocar Judá, mas demorou-se mais tempo do que lhe fora estabelecido.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "E David disse a Abisai: «Agora Cheba, filho de Bicri, será para nós mais perigoso do que Absalão. Toma, pois, os servos do teu senhor e persegue-o, para que não encontre para si cidades fortificadas e não escape dos nossos olhos».",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Saíram com ele os ho - mens de Joab, também os cretenses e os peleteus e todos os valentes; e assim saíram de Jerusalém para perseguir Cheba, filho de Bicri.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Quando chegaram à grande pedra que está em Guibeon, Amassá apareceu diante deles. Joab estava cingido com a sua roupa, a sua farda e, presa sobre ela à sua cintura, a espada embainhada no cinturão. Quando ele avançou a espada descaiu.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Joab disse a Amassá: «Vens em paz, meu irmão?» E a mão direita de Joab segurou a barba de Amassá para o beijar.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Amassá não se resguardou da espada que estava na mão de Joab, que o feriu com ela no ventre e A O derramou por terra as suas entranhas. E sem sequer lhe dar um segundo golpe, ele morreu. Então, Joab e o seu irmão Abisai saíram em perseguição de Cheba, filho de Bicri.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Entretanto, um dos jovens de Joab parou ao lado de Amas - sá e disse: «Quem quiser bem a Joab e for por David que siga Joab!»",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Quanto a Amassá, estava envolto em sangue no meio da estrada. O jovem viu que todo o povo parava; e então removeu Amassá do caminho para o campo e lançou sobre ele um manto, pois via que todos os que passavam por ele paravam.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Depois de o retirarem da estrada, todos seguiram Joab para perseguir Cheba, filho de Bicri.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Cheba tinha percorrido todas as tribos de Israel até Abel-Bet-Maacá. Todos os bicritas se reuniram e o seguiram também.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Os homens de Joab chegaram e cercaram-no em Abel-Bet-Maacá. Levantaram uma rampa de assalto à cidade e construíram a trincheira. Todo o povo que estava com Joab ajudava a destruir, derrubando o muro.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "De dentro da cidade, uma mulher sábia exclamou: «Escutai! Escutai! Dizei a Joab: “Aproxima-te daqui, que eu quero falar contigo”».",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Ele aproximou-se dela e a mulher disse: «És tu Joab?» Ele respondeu: «Sou eu». Ela então disse-lhe: «Ouve as palavras da tua serva». Ele disse: «Estou a ouvir!»",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "E ela disse: «Assim se dizia antigamente: “Vão pedir conselho em Abel” e assim resolviam o assunto!”",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Eu pertenço aos pacíficos e fiéis em Israel. E tu queres destruir uma cidade que é mãe para Israel. Porque queres arrasar a herança do Senhor?»",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Joab respondeu e disse: «Longe, longe de mim arrasar ou arruinar!",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Não é isso! Na verdade, um homem da montanha de Efraim, chamado Cheba, filho de Bicri, levantou a mão contra o rei David. Entregai-me apenas esse homem e deixarei de atacar a cidade». A mulher disse a Joab: «Eis que a sua cabeça será lançada para ti por cima do muro».",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Então a mulher, com a sua sabedoria, dirigiu-se a todo o povo e eles cortaram a cabeça de Cheba, filho de Bicri, e lançaram-na a Joab. Ele tocou o chofar e retiraram-se da cidade, cada um para as suas tendas. Entretanto, Joab voltou para junto do rei em Jerusalém.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Joab comandava todo o exército de Israel; Benaías, filho de Joiadá, comandava os cretenses e os peleteus;",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Adoram dirigia a corveia; Josafat, filho de Ailud, era o arquivista;",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Cheva era escriba; Sadoc e Abiatar eram sacerdotes;",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "e também Ira, o jairita, era sacerdote ao serviço de David.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Nos dias de David, houve uma fome que durou, ano após ano, durante três anos. David procurou a face do Senhor e o Senhor disse: «É por causa de Saul e da sua casa sanguinária, porque matou os guibeonitas».",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Então o rei chamou os guibeonitas e falou com eles. Ora, os guibeonitas não são dos filhos de Israel, mas vêm do resto dos amorreus. Entretanto, os filhos de Israel tinham-lhes feito um juramento. Porém, Saul, no seu zelo pelos filhos de Israel e de Judá, tinha procurado abatê-los.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "David disse aos guibeonitas: «Que posso fazer por vós? Que posso dar em reparação, para que possais abençoar a herança do Senhor?»",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Disseram-lhe os guibeonitas: «Não temos nenhuma questão de prata e ouro com Saul e com a sua casa. E também não queremos que morra ninguém em Israel». Disse- -lhes então: «O que disserdes, fá-lo-ei por vós».",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Disseram ao rei: «Quanto ao homem que nos destruiu e conspirou contra nós para que fôssemos exterminados e deixássemos de existir em todo o território de Israel,",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "sejam-nos entregues sete homens dentre os seus filhos, para os desmembrarmos em honra do Senhor em Guibeá de Saul, o eleito do Senhor». O rei disse: «Eu os entregarei».",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Mas o rei poupou Mefibóchet, filho de Jónatas, filho de Saul, por causa do juramento em nome do Senhor que havia entre eles, isto é, entre David e Jónatas, filho de Saul.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "O rei tomou Armoni e Mefibóchet, os dois filhos que Rispa, filha de Aiá, tinha dado a Saul, bem como cinco filhos que Merab, filha de Saul, tinha dado a Adriel, filho de Barzilai, de Meolá.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Entregou-os nas mãos dos guibeonitas e estes desmembraram-nos no monte, diante do Senhor. Todos os sete foram abatidos juntos e mortos nos primeiros dias da colheita, no início da colheita da cevada.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Rispa, filha de Aiá, pegou no pano de saco e estendeu-o para si sobre um rochedo, desde o início da colheita até que caísse água do céu sobre eles. E não permitia que as aves do céu parassem junto deles durante o dia, nem as feras do campo durante a noite.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Contaram a David o que Rispa, filha de Aiá e concubina de Saul, estava a fazer.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "David foi então recolher os ossos de Saul e os ossos de Jónatas, seu filho, junto aos senhores de Jabés de Guilead, que os tinham retirado furtivamente da praça de Bet-Chan, onde os filisteus os tinham pendurado, no dia em que abateram Saul em Guilboa.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Ele levantou dali os ossos de Saul e os osO O sos de Jónatas, seu filho. E recolheram também os ossos dos desmembrados.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Enterraram os ossos de Saul e de Jónatas, seu filho, na terra de Benjamim, em Cela, no túmulo de Quis, seu pai; e fizeram tudo o que o rei havia ordenado. Depois disso, Deus mostrou-se propício para com a terra.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Os filisteus fizeram outra guerra contra Israel. David desceu com os seus servos para combaterem os filisteus; e David ficou cansado.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Ora, em Nob havia um homem que era dos filhos de Rafa. A sua lança era de bronze e pesava trezentos siclos. Estava revestido de uma armadura nova e dizia que mataria David.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Abisai, filho de Seruia, veio em seu socorro, atacou o filisteu e matou-o. Então os homens de David juraram-lhe, dizendo: «Nunca mais sairás connosco para a guerra e não farás com que se apague a lâmpada de Israel».",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Depois disso, houve novamente guerra contra os filisteus em Gob. Nela, Sibecai, de Hucha, matou Saf, que era dos filhos de Rafa.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Houve novamente guerra em Gob contra os filisteus. Elanan, filho de Jaaré-Oreguim de Belém, matou Golias de Gat, cuja lança era como a lançadeira dos tecelões.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Houve ainda outra batalha em Gat. Nela esteve um homem enorme, com seis dedos em cada mão e seis dedos em cada pé, num total de vinte e quatro dedos. E Também ele era descendente de Rafa.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Ele insultou Israel, mas Jónatas, filho de Chimeá, irmão de David, abateu-o.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Estes quatro eram descendentes de Rafa, em Gat, e caíram às mãos de David e às mãos dos seus servos.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "No dia em que o Senhor o livrou da mão de todos os seus inimigos e da mão de Saul, David dirigiu ao Senhor as palavras deste cântico.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "Ele disse: «O Senhor é a minha rocha, a minha fortaleza e proteção,",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Deus é o meu rochedo, no qual me refugio; é o meu escudo, a minha força de salvação! Minha defesa e meu abrigo, ó meu salvador, salva-me da violência.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Invoquei o Senhor que é digno de louvor e fui salvo dos meus inimigos!",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Cercaram-me as ondas da morte e as vagas destruidoras me aterrorizavam;",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "o abismo da morte envolvia-me com os seus laços e as suas redes mortíferas alcançavam-me.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Na minha angústia invoquei o Senhor e para o meu Deus ergui o meu grito. Do seu santuário Ele ouviu a minha voz e o meu clamor chegou aos seus ouvidos.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Então a terra tremeu e foi sacudida, os fundamentos dos céus estremeceram TM e foram sacudidos pelo ardor da sua ira.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Subia fumo das suas narinas e da sua boca um fogo devorador, de onde saltavam carvões ardentes.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Ele inclinou os céus e desceu, com uma densa nuvem debaixo dos seus pés.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Montado sobre um querubim Ele voou e manifestou-se sobre as asas do vento.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Pôs as trevas como tendas em seu redor, um amontoado de águas e nuvens muito espessas.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Pelo fulgor da sua presença ardiam carvões incandescentes.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Dos céus o Senhor trovejou e o Altíssimo lançou a sua voz.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Disparou flechas e dispersou os inimigos e com um relâmpago os afugentou.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Então ficaram à vista as profundezas do mar e revelaram-se os fundamentos do universo por causa das ameaças do Senhor e pelo sopro impetuoso da sua ira.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Das alturas Deus estendeu a mão e agarrou-me, retirou-me das águas caudalosas.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Livrou-me de inimigos poderosos, que me odiavam e eram mais fortes do que eu.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Atacaram-me pela frente no meu dia de desgraça, mas o Senhor foi para mim um auxílio.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Fez-me sair para um espaço aberto e libertou-me, porque me quer bem.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "O Senhor recompensou-me conforme a minha justiça, retribuiu-me pela pureza das minhas mãos.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Pois eu guardei os caminhos do Senhor e não me afastei do meu Deus como um malfeitor.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Todos os seus decretos estão diante de mim e dos seus preceitos eu nunca me desvio.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Tenho sido íntegro para com Ele e resguardei-me de qualquer iniquidade.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "O Senhor retribuiu-me conforme a minha justiça e conforme a minha pureza diante dos seus olhos.",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Tu és misericordioso com quem tem misericórdia e a quem é íntegro tratas com integridade.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Tratas com lealdade aquele que é leal e tratas com astúcia aquele que é perverso.",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Tu salvas o povo humilde, mas pões os teus olhos sobre os soberbos e os rebaixas.",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Pois Tu és a minha luz, Senhor. O Senhor ilumina a minha escuridão.",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "Pois contigo posso investir contra um exército, com o meu Deus saltarei muralhas.",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "O caminho de Deus é perfeito, a palavra do Senhor é purificada no fogo. Ele é um escudo para todos os que nele confiam.",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "Pois quem é Deus a não ser o Senhor? E quem é rochedo a não ser o nosso Deus?",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "Ele é o Deus que me enche de força e vigor e fez com que o meu caminho fosse direito.",
+          "note_refs": []
+        },
+        {
+          "verse": 34,
+          "text": "Ele torna os meus pés ágeis como os das corças e faz-me andar seguro pelas alturas.",
+          "note_refs": []
+        },
+        {
+          "verse": 35,
+          "text": "Ele treina as minhas mãos para o combate e os meus braços para manejar o arco de bronze.",
+          "note_refs": []
+        },
+        {
+          "verse": 36,
+          "text": "Deste-me o escudo da tua salvação e a tua benevolência me engrandece.",
+          "note_refs": []
+        },
+        {
+          "verse": 37,
+          "text": "Alargaste o caminho para os meus passos e os meus tornozelos não vacilaram.",
+          "note_refs": []
+        },
+        {
+          "verse": 38,
+          "text": "Vou perseguir os meus inimigos e exterminá-los e não volto atrás antes de os ter derrotado.",
+          "note_refs": []
+        },
+        {
+          "verse": 39,
+          "text": "Vou derrotá-los e derrubá-los. Não poderão levantar-se, pois caíram debaixo dos meus pés.",
+          "note_refs": []
+        },
+        {
+          "verse": 40,
+          "text": "Tu revestiste-me de força para o combate e colocas os meus adversários debaixo dos meus pés.",
+          "note_refs": []
+        },
+        {
+          "verse": 41,
+          "text": "Puseste os meus inimigos de costas viradas para mim, para eu exterminar os que me odeiam.",
+          "note_refs": []
+        },
+        {
+          "verse": 42,
+          "text": "Clamaram por socorro, mas ninguém os salvou, clamaram ao S enhor, mas não lhes respondeu.",
+          "note_refs": []
+        },
+        {
+          "verse": 43,
+          "text": "E eu dispersei-os como pó da terra, triturei-os e calquei-os como lama das ruas.",
+          "note_refs": []
+        },
+        {
+          "verse": 44,
+          "text": "Livraste-me dos conflitos do meu povo e guardaste-me para chefe de povos; um povo que não conhecia pôs-se ao meu serviço.",
+          "note_refs": []
+        },
+        {
+          "verse": 45,
+          "text": "Filhos de estrangeiros prestavam-me vassalagem; mal me ouviam, obedeciam-me.",
+          "note_refs": []
+        },
+        {
+          "verse": 46,
+          "text": "Filhos de estrangeiros fraquejavam e saíam a tremer dos seus esconderijos.",
+          "note_refs": []
+        },
+        {
+          "verse": 47,
+          "text": "Viva o Senhor e bendito seja o meu rochedo! Exaltado seja Deus, rochedo da minha salvação.",
+          "note_refs": []
+        },
+        {
+          "verse": 48,
+          "text": "Ele é o Deus que me concedeu a desforra, submeteu os povos ao meu poder",
+          "note_refs": []
+        },
+        {
+          "verse": 49,
+          "text": "e fez-me sair do meio dos meus inimigos. Tu ergueste-me acima dos meus adversários, Tu me livraste do homem violento!",
+          "note_refs": []
+        },
+        {
+          "verse": 50,
+          "text": "Por isso te louvarei entre os povos, Senhor, e cantarei hinos ao teu nome.",
+          "note_refs": []
+        },
+        {
+          "verse": 51,
+          "text": "Ele concede grandes vitórias ao seu rei e mostra fidelidade para com o seu ungido, para com David e a sua descendência, para sempre».",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E estas são as últimas palavras de David: «Oráculo de David, filho de Jessé; oráculo do homem que foi erguido bem alto, o ungido do Deus de Jacob, o preferido dos cânticos de Israel.",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "O espírito do Senhor falou por mim e a sua palavra está na minha língua.",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "O Deus de Israel disse, falou-me o Rochedo de Israel: “Quem governa os homens com justiça, quem governa no temor de Deus",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "é como a luz da manhã quando o sol nasce, uma manhã sem nuvens; é pelo seu brilho após a chuva que a erva brota da terra”.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Não é assim a minha casa diante de Deus? Pois estabeleceu comigo uma aliança eterna, em tudo ordenada e bem segura. Acaso não faz Ele germinar toda a minha salvação e o meu desejo?",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Quanto aos perversos, todos eles são como espinhos que se deitam fora e não se pegam com a mão.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Quem lhes quer tocar arma-se de ferro e de pau como lança, e ali mesmo os queima no fogo».",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Estes são os nomes dos valentes de David: Isbóchet, o hacmonita, chefe dos Três. Ele brandiu a sua lança contra oitocentos e matou-os de uma só vez.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Depois dele, Eleázar, filho de Dodo, o aoíta. Ele era um dos Três valentes que estavam com David quando provocaram os filisteus reunidos ali para o combate. Então os homens de Israel retiraram-se.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Ele levantou-se e combateu os filisteus até a sua mão ficar paralisada e colada à espada. O Senhor realizou uma grande vitória naquele dia e o povo voltou depois dele apenas para recolher os despojos.",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Depois dele, foi Chamá, filho de Agué, de Harar. Os filisteus reuniram-se em Laí. Uma porção daquele campo estava cheia de lentilhas e o povo fugia diante dos filisteus.",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "Ele manteve-se firme no meio daquele campo para o defender e derrotou os filisteus. E o Senhor realizou uma grande vitória.",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Três dos trinta chefes desceram e foram, durante a colheita, até David na gruta de Adulam, enquanto um destacamento dos filisteus estava acampado no vale de Refaim.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "David estava na fortaleza, ao mesmo tempo em que uma guarnição de filisteus estava em Belém.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "David teve um desejo e disse: «Quem me dera beber da água da cisterna que está junto à porta de Belém!»",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "Os Três valentes abriram passagem através do acampamento dos filisteus, tiraram água da cisterna que está junto à porta de Belém, carregaram-na e levaram-na a David. Mas ele não a quis beber; antes, ofereceu-a em libação ao Senhor,",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "dizendo: «Longe de mim, Senhor, fazer tal coisa! Acaso poderia eu beber o sangue dos homens que lá foram, arriscando as suas vidas?» Por isso não quis beber. Estas eram as coisas que os Três valentes faziam.",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Abisai, irmão de Joab, filho de Seruia, era chefe dos Trinta. Ele brandiu a sua lança contra trezentas vítimas e ficou famoso entre os Trinta.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Sim, ele era o mais ilustre entre os Trinta e tornou-se seu chefe, mas não chegou a ser um dos Três.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Também Benaías, filho de Joiadá, era filho de um homem valente de grandes feitos, natural de Cabecel. Foi ele quem abateu dois filhos de Ariel de Moab; também foi ele que, num dia de neve, desceu para matar um leão dentro de uma cisterna.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Ele também abateu um homem egípcio de grande estatura. O egípcio tinha na mão uma lança, mas Benaías desceu contra ele com um bastão, arrancou a lança da mão do egípcio e matou-o com a sua própria lança.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Coisas destas fazia Benaías, filho de Joiadá. Ele ficou famoso entre os Trinta valentes.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Ele era o mais ilustre entre os Trinta, mas não chegou a ser um dos Três. David encarregou-o da sua guarda pessoal.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Assael, irmão de Joab, estava entre os Trinta. E também: Elanan, filho de Dodo, de Belém;",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Chamá, de Harod; Elica, de Harod;",
+          "note_refs": []
+        },
+        {
+          "verse": 26,
+          "text": "Heles, de Pélet; Ira, filho de Iqués, de Técua;",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Abiézer, de Anatot; Mebunai, de Hucha;",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Sal - mon, de Aoa; Marai, de Netofa;",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Héleb, filho de Baaná, de Netofa; Itai, filho de Ribai, de Guibeá dos filhos de Benjamim;",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "Benaías, de Piraton; Hidai, das torrentes de Gaás;",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "Abialbon, de Arabá; Azemávet, de Baurim;",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "Eliaba, de Chaalbon; Jassen, filho de Jónatas;",
+          "note_refs": []
+        },
+        {
+          "verse": 33,
+          "text": "Chamá, de Harar; Aiam, filho de Sarar, de Harar;",
+          "note_refs": []
+        },
+        {
+          "verse": 34,
+          "text": "Elifélet, filho de Asbai, de Maacá; Eliam, filho de Aitofel, de Guilo;",
+          "note_refs": []
+        },
+        {
+          "verse": 35,
+          "text": "Hesrai, de Carmel; Paarai, de Arab;",
+          "note_refs": []
+        },
+        {
+          "verse": 36,
+          "text": "Jigal, filho de Natan, de Soba; Bani, o gadita;",
+          "note_refs": []
+        },
+        {
+          "verse": 37,
+          "text": "Sélec, o amonita; Naarai, de Beerot, escudeiro de Joab, filho de Seruia;",
+          "note_refs": []
+        },
+        {
+          "verse": 38,
+          "text": "Ira, de Jatir; Gareb, de Jatir;",
+          "note_refs": []
+        },
+        {
+          "verse": 39,
+          "text": "Urias, o hitita. No total, trinta e sete.",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A ira do Senhor voltou a inflamar-se contra Israel e incitou David contra eles, dizendo: «Vai e faz um recenseamento de Israel e de Judá».",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "O rei O disse a Joab, chefe do exército que estava com ele: «Ide por todas as tribos de Israel, desde Dan até Bercheba, e fazei o recenseamento do povo, para que eu saiba o seu número».",
+          "note_refs": []
+        },
+        {
+          "verse": 3,
+          "text": "Joab disse ao rei: «Que o Senhor, teu Deus, aumente o povo cem vezes mais que agora e que os olhos do rei, meu senhor, o vejam! Mas, porque deseja o rei, meu senhor, tal coisa?»",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "Porém, a ordem do rei impôs-se a Joab e aos chefes do exército. Joab e os chefes do exército deixaram a presença do rei, para irem recensear o povo de Israel.",
+          "note_refs": []
+        },
+        {
+          "verse": 5,
+          "text": "Eles atravessaram o Jordão e acamparam em Aroer, à direita da cidade que está no meio do vale de Gad e junto a Jazer.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Chegaram a Guilead e à terra dos hititas, em Cadés; chegaram também até Dan-Jaan e ao redor de Sídon.",
+          "note_refs": []
+        },
+        {
+          "verse": 7,
+          "text": "Chegaram à fortaleza de Tiro e a todas as cidades dos heveus e dos cananeus e então saíram rumo ao sul de Judá, a Bercheba.",
+          "note_refs": []
+        },
+        {
+          "verse": 8,
+          "text": "Percorreram todo o país e, ao fim de nove meses e vinte dias, chegaram a Jerusalém.",
+          "note_refs": []
+        },
+        {
+          "verse": 9,
+          "text": "Joab apresentou ao rei o resultado do recenseamento do povo: havia em Israel oitocentos mil guerreiros que empunhavam a espada; e os homens de Judá eram quinhentos mil.",
+          "note_refs": []
+        },
+        {
+          "verse": 10,
+          "text": "Mas o coração de David sentiu remorsos depois de assim ter contado o povo. David disse então ao Senhor: «Pequei gravemente ao proceder deste modo. Mas agora, Senhor, retira a falta do teu servo, pois cometi uma gran - de loucura».",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Na manhã seguinte, quando o rei se levantava, a palavra do Senhor foi dirigida ao profeta Gad, vidente de David, dizendo:",
+          "note_refs": []
+        },
+        {
+          "verse": 12,
+          "text": "«Vai dizer a David: “Assim fala o Senhor: Proponho-te três coisas. Escolhe uma delas para que Eu a execute contra ti”».",
+          "note_refs": []
+        },
+        {
+          "verse": 13,
+          "text": "Gad foi ter com David para informá-lo e disse: «Preferes sete anos de fome na tua terra, três meses a fugir do inimigo que te per - segue ou três dias de peste na tua terra? Agora reflete e vê que resposta devo transmitir Àquele que me enviou».",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "David respondeu a Gad: «Sinto-me em grande angústia. É melhor cairmos nas mãos do Senhor, pois é grande a sua misericórdia. Mas que eu não caia nas mãos dos homens».",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "E David escolheu a peste. Era o tempo da ceifa do trigo. Então o Senhor enviou a peste a Israel, desde aquela manhã até ao tempo fixado. Morreram setenta mil homens do povo, desde Dan até Bercheba.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "O mensageiro estendeu também a mão sobre Jerusalém para a exterminar, mas o Senhor ar - rependeu-se perante tanta desgraça e disse ao mensageiro que exterminava o povo: «Basta! Agora retira a tua mão». O mensageiro do Senhor estava jun - to à eira de Arauna, o jebuseu.",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Ao ver como o mensageiro atacava o povo, David disse ao Senhor: «Fui eu que pequei, fui eu que pratiquei a maldade. Mas estes do rebanho que mal fizeram? A tua mão caia sobre mim e sobre a casa do meu pai».",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "Naquele dia, Gad foi ter com David e disse-lhe: «Sobe, ergue um altar ao Senhor na eira de Arauna, o jebuseu».",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "David subiu, conforme a palavra de Gad, como o Senhor lhe havia ordenado.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "Arauna olhou do alto e viu que o rei e os seus servos seguiam na sua direção. Arauna saiu e prostrou-se diante do rei com o rosto por terra.",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Então Arauna disse: «Porque vem o rei, meu senhor, ao seu servo?» Disse-lhe David: «Para adquirir de ti esta eira e construir um altar ao Senhor, para afastar o flagelo de cima do povo».",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Arauna disse a David: «Que o rei, meu senhor, tome e ofereça o que parecer bem aos seus olhos. Eis os bois para o holocausto e também a grade e a canga dos bois para servir de lenha.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "Tudo isso, ó rei, Arauna te oferece». Arauna disse ainda ao rei: «Que o Senhor, teu Deus, te aceite com agrado!»",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Mas o rei disse a Arauna: «Não! O que eu quero é comprá-lo a ti pelo seu preço. Pois não vou oferecer ao Senhor, meu Deus, holocaustos sem pagar». E David comprou a eira e os bois por cinquenta siclos de prata.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "David construiu ali um altar ao Senhor e ofereceu holocaustos e sacrifícios de comunhão. O Senhor compa - deceu-se da terra e o flagelo afastou-se de cima de Israel. PARALELOS",
+          "note_refs": []
+        }
+      ]
+    }
+  ]
+}
