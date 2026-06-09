@@ -84,10 +84,14 @@
 
     #main{flex:1;display:flex;flex-direction:column;overflow:hidden;padding-top:var(--topbar-h)}
     #reader{flex:1;overflow-y:auto;padding:28px 32px 80px;max-width:none;margin:0;width:100%;background:var(--bg)}
-    .home-screen{min-height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:var(--ink);padding:48px 16px 72px;position:relative}
+    .home-screen{min-height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:var(--ink);padding:48px 16px 104px;position:relative}
     .home-title{font-family:var(--font-ui);font-size:1.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ink2);margin-bottom:10px}
     .home-subtitle{font-size:1.15rem;line-height:1.45;color:var(--ink3);font-style:italic}
     .app-version{position:absolute;bottom:18px;left:0;right:0;text-align:center;font-family:var(--font-ui);font-size:.72rem;letter-spacing:.08em;color:var(--ink3);text-transform:uppercase}
+    .report-error{position:absolute;bottom:-8px;left:0;right:0;text-align:center;font-size:.82rem;color:var(--ink3)}
+    .report-error a{color:var(--ink3);text-decoration:none;border-bottom:1px dotted var(--ink3)}
+    .report-error a:hover{color:var(--gold);border-bottom-color:var(--gold)}
+
     #verses-container{max-width:720px;margin:0 auto;transition:max-width .2s ease;display:block}
     #text-column{min-width:0}
 
@@ -236,13 +240,14 @@
 
 <script>
 'use strict';
-const APP_VERSION='4.6';
+const APP_VERSION='4.7';
 const APP_COMMIT_DATE='junho 2026';
 const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{}},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1')};
 applyFontScale();
 function $(id){return document.getElementById(id)}
 function toast(msg,dur=2200){const el=$('toast');el.textContent=msg;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),dur)}
 function applyFontScale(){document.documentElement.style.setProperty('--reader-font-scale', state.fontScale || 1)}
+function reportErrorHref(){return `mailto:h.varios@gmail.com?subject=${encodeURIComponent('Erro - Bíblia CEP v.'+APP_VERSION)}`}
 if('serviceWorker'in navigator)navigator.serviceWorker.register('./sw.js').catch(()=>{});
 
 
@@ -349,6 +354,7 @@ function renderHome(){
       <div class="home-subtitle">tradução da<br>Conferência Episcopal Portuguesa</div>
     </div>
     <div class="app-version">v. ${APP_VERSION} · ${APP_COMMIT_DATE}</div>
+    <div class="report-error">Erros devem ser reportados para <a href="${reportErrorHref()}">h.varios@gmail.com</a></div>
   </section>`;
 }
 
