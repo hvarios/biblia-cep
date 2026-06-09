@@ -256,8 +256,8 @@
 
 <script>
 'use strict';
-const APP_VERSION='4,0';
-const APP_COMMIT_DATE='maio 2026';
+const APP_VERSION='4,1';
+const APP_COMMIT_DATE='junho 2026';
 const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{}},annotations:JSON.parse(localStorage.getItem('biblia-annotations')||'{}'),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1')};
 applyFontScale();
 function $(id){return document.getElementById(id)}
@@ -310,17 +310,44 @@ const BOOK_ALIASES={
   '2 joao':['ii joao','segunda joao'],
   '3 joao':['iii joao','terceira joao']
 };
-function findBookByName(name){const wanted=normBookName(name);const variants=[wanted,...(BOOK_ALIASES[wanted]||[])];return state.books.find(b=>variants.includes(normBookName(b.book)))}
-function bookHasContent(book){return !!(book&&Array.isArray(book.chapters)&&book.chapters.length&&book.chapters.some(ch=>Array.isArray(ch.verses)&&ch.verses.length))}
+function findBookByName(name){
+  const wanted=normBookName(name);
+  const variants=[wanted,`evangelho de ${wanted}`,...(BOOK_ALIASES[wanted]||[])];
+  return state.books.find(b=>{
+    const actual=normBookName(b.book).replace(/^evangelho de /,'');
+    return variants.includes(normBookName(b.book))||variants.includes(actual);
+  });
+}
+function bookHasContent(book){return !!(book&&book.available!==false&&Array.isArray(book.chapters)&&book.chapters.length&&(book.file||book.chapters.some(ch=>Array.isArray(ch.verses)&&ch.verses.length)))}
+function bookIsLoaded(book){return !!(book&&Array.isArray(book.chapters)&&book.chapters.some(ch=>Array.isArray(ch.verses)))}
 function currentTestamentId(){for(const testament of CANON){for(const group of testament.groups){if(group.books.some(name=>findBookByName(name)===state.currentBook))return testament.id}}return ''}
 function currentGroupId(){for(const testament of CANON){for(const group of testament.groups){if(group.books.some(name=>findBookByName(name)===state.currentBook))return group.id}}return ''}
 
 async function loadData(){
-  const res=await fetch('./data/biblia.json');
+  const res=await fetch('./data/books-index.json');
+  if(!res.ok)throw new Error(`Não foi possível carregar o índice dos livros (${res.status})`);
   const data=await res.json();
-  state.books=data.books;
+  state.books=data.books||[];
   renderSidebar();
   renderHome();
+}
+
+async function loadBook(book){
+  if(!book)throw new Error('Livro inválido');
+  if(bookIsLoaded(book))return book;
+  if(!book.file)throw new Error(`Livro sem ficheiro associado: ${book.book}`);
+  const res=await fetch(`./data/${book.file}`);
+  if(!res.ok)throw new Error(`Não foi possível carregar ${book.book} (${res.status})`);
+  const data=await res.json();
+  const meta={id:book.id,file:book.file,available:book.available};
+  Object.assign(book,data,meta);
+  return book;
+}
+
+async function ensureAllBooksLoaded(){
+  for(const book of state.books){
+    if(bookHasContent(book)&&!bookIsLoaded(book))await loadBook(book);
+  }
 }
 
 
@@ -387,7 +414,7 @@ function renderSidebar(){
           grid.id=`grid-${bookKey(book.book)}`;
           book.chapters.forEach(ch=>{
             const btn=document.createElement('button');
-            btn.className='ch-btn'+(state.currentChapter===ch?' active':'');
+            btn.className='ch-btn'+(state.currentBook===book&&state.currentChapter&&state.currentChapter.chapter===ch.chapter?' active':'');
             btn.textContent=ch.chapter;
             btn.addEventListener('click',e=>{e.stopPropagation();openChapter(book,ch)});
             grid.appendChild(btn);
@@ -424,32 +451,45 @@ function toggleGrid(bookName){
 }
 
 
-function openChapter(book,chapter){
-  state.currentBook=book;state.currentChapter=chapter;
-  const tId=currentTestamentId();
-  const gId=currentGroupId();
-  if(tId)state.menuOpen.testament=tId;
-  if(gId)state.menuOpen.groups[gId]=true;
-  $('topbar-title').textContent=`${book.book} ${chapter.chapter}`;
-  renderSidebar();renderChapter(book,chapter);
-  if(window.innerWidth<=700){$('sidebar').classList.remove('open');$('overlay').classList.remove('open')}
-  $('reader').scrollTop=0;
+async function openChapter(book,chapterRef){
+  try{
+    await loadBook(book);
+    const chapter=book.chapters.find(c=>Number(c.chapter)===Number(chapterRef.chapter));
+    if(!chapter)throw new Error(`Capítulo não encontrado: ${book.book} ${chapterRef.chapter}`);
+    state.currentBook=book;state.currentChapter=chapter;
+    const tId=currentTestamentId();
+    const gId=currentGroupId();
+    if(tId)state.menuOpen.testament=tId;
+    if(gId)state.menuOpen.groups[gId]=true;
+    $('topbar-title').textContent=`${book.book} ${chapter.chapter}`;
+    renderSidebar();renderChapter(book,chapter);
+    if(window.innerWidth<=700){$('sidebar').classList.remove('open');$('overlay').classList.remove('open')}
+    $('reader').scrollTop=0;
+  }catch(err){toast(err.message||'Erro ao carregar livro');}
 }
 
-function prevChapter(){
+async function prevChapter(){
   const book=state.currentBook;
   const idx=book.chapters.indexOf(state.currentChapter);
-  if(idx>0)openChapter(book,book.chapters[idx-1]);
-  else{const bi=state.books.indexOf(book);if(bi>0){const p=state.books[bi-1];openChapter(p,p.chapters[p.chapters.length-1])}}
+  if(idx>0)return openChapter(book,book.chapters[idx-1]);
+  const bi=state.books.indexOf(book);
+  for(let i=bi-1;i>=0;i--){
+    const p=state.books[i];
+    if(bookHasContent(p)){await loadBook(p);return openChapter(p,p.chapters[p.chapters.length-1]);}
+  }
 }
-function nextChapter(){
+async function nextChapter(){
   const book=state.currentBook;
   const idx=book.chapters.indexOf(state.currentChapter);
-  if(idx<book.chapters.length-1)openChapter(book,book.chapters[idx+1]);
-  else{const bi=state.books.indexOf(book);if(bi<state.books.length-1)openChapter(state.books[bi+1],state.books[bi+1].chapters[0])}
+  if(idx<book.chapters.length-1)return openChapter(book,book.chapters[idx+1]);
+  const bi=state.books.indexOf(book);
+  for(let i=bi+1;i<state.books.length;i++){
+    const n=state.books[i];
+    if(bookHasContent(n)){await loadBook(n);return openChapter(n,n.chapters[0]);}
+  }
 }
-function hasPrev(){const book=state.currentBook;if(!book||!state.currentChapter)return false;return book.chapters.indexOf(state.currentChapter)>0||state.books.indexOf(book)>0}
-function hasNext(){const book=state.currentBook;if(!book||!state.currentChapter)return false;const idx=book.chapters.indexOf(state.currentChapter);return idx<book.chapters.length-1||state.books.indexOf(book)<state.books.length-1}
+function hasPrev(){const book=state.currentBook;if(!book||!state.currentChapter)return false;const idx=book.chapters.indexOf(state.currentChapter);if(idx>0)return true;const bi=state.books.indexOf(book);return state.books.slice(0,bi).some(bookHasContent)}
+function hasNext(){const book=state.currentBook;if(!book||!state.currentChapter)return false;const idx=book.chapters.indexOf(state.currentChapter);if(idx<book.chapters.length-1)return true;const bi=state.books.indexOf(book);return state.books.slice(bi+1).some(bookHasContent)}
 
 function renderChapter(book,chapter){
   applyFontScale();
@@ -570,11 +610,13 @@ function shareV(key,book,ch,v,text){
 
 let sTimeout;
 $('search-input').addEventListener('input',e=>{clearTimeout(sTimeout);sTimeout=setTimeout(()=>doSearch(e.target.value.trim()),250)});
-function doSearch(query){
+async function doSearch(query){
   const results=$('search-results');
   if(!query||query.length<2){results.innerHTML='<div class="panel-empty">Introduz um termo para pesquisar.</div>';return}
+  results.innerHTML='<div class="panel-empty">A pesquisar…</div>';
+  await ensureAllBooksLoaded();
   const q=query.toLowerCase();const matches=[];
-  state.books.forEach(book=>book.chapters.forEach(ch=>ch.verses.forEach(verse=>{if(verse.text.toLowerCase().includes(q))matches.push({book,ch,verse})})));
+  state.books.forEach(book=>book.chapters.forEach(ch=>(ch.verses||[]).forEach(verse=>{if(verse.text.toLowerCase().includes(q))matches.push({book,ch,verse})})));
   if(!matches.length){results.innerHTML=`<div class="panel-empty">Sem resultados para "${esc(query)}".</div>`;return}
   results.innerHTML=matches.slice(0,100).map(({book,ch,verse})=>{
     const snip=esc(verse.text.substring(0,120)).replace(new RegExp(escR(esc(query)),'gi'),m=>`<mark>${m}</mark>`);
@@ -583,10 +625,11 @@ function doSearch(query){
       <span class="result-snippet">${snip}…</span></div>`;
   }).join('')+(matches.length>100?`<div class="panel-empty">${matches.length} resultados — refina a pesquisa.</div>`:'');
 }
-function goTo(bookName,chNum,vNum){
+async function goTo(bookName,chNum,vNum){
   const book=state.books.find(b=>b.book===bookName);if(!book)return;
-  const ch=book.chapters.find(c=>c.chapter===chNum);if(!ch)return;
-  openChapter(book,ch);
+  await loadBook(book);
+  const ch=book.chapters.find(c=>Number(c.chapter)===Number(chNum));if(!ch)return;
+  await openChapter(book,ch);
   setTimeout(()=>{const b=document.querySelector(`[data-verse="${vNum}"]`);if(b)b.scrollIntoView({behavior:'smooth',block:'center'})},80);
 }
 
