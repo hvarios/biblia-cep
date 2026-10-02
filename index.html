@@ -260,8 +260,8 @@
 
 <script>
 'use strict';
-const APP_VERSION='4.14';
-const APP_COMMIT_DATE='junho 2026';
+const APP_VERSION='4.15';
+const APP_COMMIT_DATE='outubro 2026';
 const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{}},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1')};
 applyFontScale();
 function $(id){return document.getElementById(id)}
@@ -303,7 +303,7 @@ setupServiceWorkerUpdates();
 const CANON=[
   {id:'AT',label:'Antigo Testamento',groups:[
     {id:'pentateuco',label:'Pentateuco',books:['Génesis','Êxodo','Levítico','Números','Deuteronómio']},
-    {id:'historicos',label:'Históricos',books:['Josué','Juízes','Rute','1 Samuel','2 Samuel','1 Reis','2 Reis','1 Crónicas','2 Crónicas','Esdras','Neemias','Tobias','Judite','Ester','1 Macabeus','2 Macabeus']},
+    {id:'historicos',label:'Históricos',books:['Josué','Juízes','Rute','1 Samuel','2 Samuel','1 Reis','2 Reis','1 Crónicas','2 Crónicas','Esdras','Neemias','Tobite','Judite','Ester','1 Macabeus','2 Macabeus']},
     {id:'sapienciais',label:'Sapienciais',books:['Job','Salmos','Provérbios','Eclesiastes','Cântico dos Cânticos','Sabedoria','Eclesiástico']},
     {id:'profeticos',label:'Proféticos',books:['Isaías','Jeremias','Lamentações','Baruc','Ezequiel','Daniel','Oseias','Joel','Amós','Abdias','Jonas','Miqueias','Naum','Habacuc','Sofonias','Ageu','Zacarias','Malaquias']}
   ]},
@@ -323,6 +323,8 @@ const BOOK_ALIASES={
   'eclesiastes':['coelet','qohelet'],
   'coelet':['eclesiastes','qohelet'],
   'eclesiastico':['siracida','ben sira'],
+  'tobite':['tobias'],
+  'tobias':['tobite'],
   '1 samuel':['i samuel','primeiro samuel'],
   '2 samuel':['ii samuel','segundo samuel'],
   '1 reis':['i reis','primeiro reis'],

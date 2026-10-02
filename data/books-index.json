@@ -50,6 +50,13 @@
       "available": true
     },
     {
+      "id": "rt",
+      "book": "Rute",
+      "file": "books/rt.json",
+      "chaptersCount": 4,
+      "available": true
+    },
+    {
       "id": "1sm",
       "book": "1 Samuel",
       "file": "books/1sm.json",
@@ -89,6 +96,34 @@
       "book": "2 Crónicas",
       "file": "books/2cr.json",
       "chaptersCount": 36,
+      "available": true
+    },
+    {
+      "id": "esd",
+      "book": "Esdras",
+      "file": "books/esd.json",
+      "chaptersCount": 10,
+      "available": true
+    },
+    {
+      "id": "ne",
+      "book": "Neemias",
+      "file": "books/ne.json",
+      "chaptersCount": 13,
+      "available": true
+    },
+    {
+      "id": "tb",
+      "book": "Tobite",
+      "file": "books/tb.json",
+      "chaptersCount": 14,
+      "available": true
+    },
+    {
+      "id": "jt",
+      "book": "Judite",
+      "file": "books/jt.json",
+      "chaptersCount": 16,
       "available": true
     },
     {
@@ -166,6 +201,13 @@
       "book": "Lamentações",
       "file": "books/lm.json",
       "chaptersCount": 5,
+      "available": true
+    },
+    {
+      "id": "br",
+      "book": "Baruc",
+      "file": "books/br.json",
+      "chaptersCount": 6,
       "available": true
     },
     {
@@ -390,6 +432,20 @@
       "book": "1 João",
       "file": "books/1jo.json",
       "chaptersCount": 5,
+      "available": true
+    },
+    {
+      "id": "2jo",
+      "book": "2 João",
+      "file": "books/2jo.json",
+      "chaptersCount": 1,
+      "available": true
+    },
+    {
+      "id": "3jo",
+      "book": "3 João",
+      "file": "books/3jo.json",
+      "chaptersCount": 1,
       "available": true
     },
     {
