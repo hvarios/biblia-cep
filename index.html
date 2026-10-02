@@ -93,15 +93,16 @@
     .home-screen{min-height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:var(--ink);padding:48px 16px 104px;position:relative}
     .home-title{font-family:var(--font-ui);font-size:1.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ink2);margin-bottom:10px}
     .home-subtitle{font-size:1.15rem;line-height:1.45;color:var(--ink3);font-style:italic}
-    .app-version{position:absolute;bottom:18px;left:0;right:0;text-align:center;font-family:var(--font-ui);font-size:.72rem;letter-spacing:.08em;color:var(--ink3);text-transform:uppercase}
-    .report-error{position:absolute;bottom:-8px;left:0;right:0;text-align:center;font-size:.82rem;color:var(--ink3)}
-    .report-error a{color:var(--ink3);text-decoration:none;border-bottom:1px dotted var(--ink3)}
-    .report-error a:hover{color:var(--gold);border-bottom-color:var(--gold)}
+    .app-version{position:absolute;bottom:38px;left:0;right:0;text-align:center;font-family:var(--font-ui);font-size:.72rem;letter-spacing:.08em;color:var(--ink3);text-transform:uppercase}
+    .report-error{position:absolute;bottom:14px;left:0;right:0;text-align:center;font-size:.82rem;color:var(--ink3)}
+    .desktop-version{position:absolute;bottom:-10px;left:0;right:0;text-align:center;font-size:.82rem;color:var(--ink3)}
+    .report-error a,.desktop-version a{color:var(--ink3);text-decoration:none;border-bottom:1px dotted var(--ink3)}
+    .report-error a:hover,.desktop-version a:hover{color:var(--gold);border-bottom-color:var(--gold)}
 
-    #verses-container{max-width:720px;margin:0 auto;transition:max-width .2s ease;display:block}
+    #verses-container{max-width:840px;margin:0 auto;transition:max-width .2s ease;display:block}
     #text-column{min-width:0}
 
-    .chapter-nav{display:flex;align-items:center;justify-content:space-between;margin:0 auto 24px;gap:8px;max-width:760px;width:100%}
+    .chapter-nav{display:flex;align-items:center;justify-content:space-between;margin:0 auto 24px;gap:8px;max-width:880px;width:100%}
     .chapter-nav-bottom{margin-top:28px;margin-bottom:0}
     .nav-btn{background:none;border:1px solid var(--border);border-radius:var(--radius);padding:5px 14px;font-family:var(--font-ui);font-size:.8rem;color:var(--ink3);cursor:pointer;transition:all .15s;letter-spacing:.04em;white-space:nowrap}
     .nav-btn:hover{background:var(--bg3);color:var(--ink)}
@@ -147,6 +148,13 @@
     #search-input{flex:1;background:var(--bg)!important;border:1px solid var(--border);border-radius:var(--radius);padding:8px 12px;font-family:var(--font-body);font-size:16px;color:var(--ink)!important;-webkit-text-fill-color:var(--ink);caret-color:var(--ink);appearance:none;-webkit-appearance:none;min-height:42px}
     #search-input:focus{outline:none;border-color:var(--gold)}
     #search-input::placeholder{color:var(--ink3);opacity:1}
+    #search-options{padding:12px 16px;border-bottom:1px solid var(--border)}
+    #search-scope{display:flex;gap:6px;padding:3px;background:var(--bg3);border-radius:999px}
+    .search-scope-btn{flex:1;border:0;border-radius:999px;padding:7px 10px;background:transparent;color:var(--ink2);font-family:var(--font-ui);font-size:.76rem;letter-spacing:.03em;cursor:pointer}
+    .search-scope-btn.active{background:var(--bg2);color:var(--ink);box-shadow:0 1px 4px var(--shadow)}
+    #search-scope-book[hidden]{display:none}
+    #search-warning{margin:10px 2px 0;color:var(--red);font-family:var(--font-ui);font-size:.76rem;line-height:1.45}
+    #search-warning[hidden]{display:none}
     #search-results{flex:1;overflow-y:auto;padding:8px 0}
     .result-item{padding:10px 16px;border-bottom:1px solid var(--border);cursor:pointer;transition:background .15s}
     .result-item:hover{background:var(--bg3)}
@@ -178,6 +186,7 @@
     }
     @media(min-width:701px){
       #topbar{left:var(--sidebar-w)}
+      #topbar-logo{display:none}
       #menu-btn{display:none}
       #font-btn{display:none}
     }
@@ -241,6 +250,13 @@
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
     </button>
   </div>
+  <div id="search-options">
+    <div id="search-scope" role="group" aria-label="Âmbito da pesquisa">
+      <button class="search-scope-btn" id="search-scope-book" type="button">Neste livro</button>
+      <button class="search-scope-btn" id="search-scope-all" type="button">Toda a Bíblia</button>
+    </div>
+    <p id="search-warning" role="status">A pesquisa em toda a Bíblia poderá demorar alguns instantes.</p>
+  </div>
   <div id="search-results"><div class="panel-empty">Introduz um termo para pesquisar.</div></div>
 </div>
 
@@ -260,9 +276,9 @@
 
 <script>
 'use strict';
-const APP_VERSION='4.15';
+const APP_VERSION='4.16';
 const APP_COMMIT_DATE='outubro 2026';
-const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{}},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1')};
+const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{}},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all'};
 applyFontScale();
 function $(id){return document.getElementById(id)}
 function toast(msg,dur=2200){const el=$('toast');el.textContent=msg;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),dur)}
@@ -409,6 +425,7 @@ function renderHome(){
     </div>
     <div class="app-version">v. ${APP_VERSION} · ${APP_COMMIT_DATE}</div>
     <div class="report-error">Erros devem ser reportados para <a href="${reportErrorHref()}">h.varios@gmail.com</a></div>
+    <div class="desktop-version">Versão desktop em <a href="https://hvarios.github.io/biblia-cep/">https://hvarios.github.io/biblia-cep/</a></div>
   </section>`;
 }
 
@@ -666,14 +683,21 @@ function shareV(book,ch,v,text){
 }
 
 let sTimeout;
+let searchRequest=0;
 $('search-input').addEventListener('input',e=>{clearTimeout(sTimeout);sTimeout=setTimeout(()=>doSearch(e.target.value.trim()),250)});
 async function doSearch(query){
   const results=$('search-results');
   if(!query||query.length<2){results.innerHTML='<div class="panel-empty">Introduz um termo para pesquisar.</div>';return}
+  const request=++searchRequest;
+  const scope=state.searchScope;
+  const currentBook=state.currentBook;
   results.innerHTML='<div class="panel-empty">A pesquisar…</div>';
-  await ensureAllBooksLoaded();
+  if(scope==='all')await ensureAllBooksLoaded();
+  else if(currentBook)await loadBook(currentBook);
+  if(request!==searchRequest)return;
   const q=query.toLowerCase();const matches=[];
-  state.books.forEach(book=>book.chapters.forEach(ch=>(ch.verses||[]).forEach(verse=>{if(verse.text.toLowerCase().includes(q))matches.push({book,ch,verse})})));
+  const books=scope==='book'&&currentBook?[currentBook]:state.books;
+  books.forEach(book=>(book.chapters||[]).forEach(ch=>(ch.verses||[]).forEach(verse=>{if(verse.text.toLowerCase().includes(q))matches.push({book,ch,verse})})));
   if(!matches.length){results.innerHTML=`<div class="panel-empty">Sem resultados para "${esc(query)}".</div>`;return}
   results.innerHTML=matches.slice(0,100).map(({book,ch,verse})=>{
     const snip=esc(verse.text.substring(0,120)).replace(new RegExp(escR(esc(query)),'gi'),m=>`<mark>${m}</mark>`);
@@ -681,6 +705,28 @@ async function doSearch(query){
       <span class="result-ref">${book.book} ${ch.chapter},${verse.verse}</span>
       <span class="result-snippet">${snip}…</span></div>`;
   }).join('')+(matches.length>100?`<div class="panel-empty">${matches.length} resultados — refina a pesquisa.</div>`:'');
+}
+function setSearchScope(scope,runSearch=true){
+  state.searchScope=scope==='book'&&state.currentBook?'book':'all';
+  const bookBtn=$('search-scope-book');
+  const allBtn=$('search-scope-all');
+  bookBtn.hidden=!state.currentBook;
+  bookBtn.textContent=state.currentBook?`Neste livro (${state.currentBook.book})`:'Neste livro';
+  bookBtn.classList.toggle('active',state.searchScope==='book');
+  allBtn.classList.toggle('active',state.searchScope==='all');
+  bookBtn.setAttribute('aria-pressed',String(state.searchScope==='book'));
+  allBtn.setAttribute('aria-pressed',String(state.searchScope==='all'));
+  $('search-warning').hidden=state.searchScope!=='all';
+  if(runSearch)doSearch($('search-input').value.trim());
+}
+function openSearch(){
+  clearTimeout(sTimeout);
+  searchRequest++;
+  setSearchScope(state.currentBook?'book':'all',false);
+  $('search-panel').classList.add('open');
+  $('overlay').classList.add('open');
+  $('search-input').focus();
+  doSearch($('search-input').value.trim());
 }
 async function goTo(bookName,chNum,vNum){
   const book=state.books.find(b=>b.book===bookName);if(!book)return;
@@ -703,10 +749,12 @@ function cycleFontScale(){
 }
 
 $('menu-btn').addEventListener('click',()=>{$('sidebar').classList.toggle('open');$('overlay').classList.toggle('open')});
-$('overlay').addEventListener('click',()=>{$('sidebar').classList.remove('open');$('search-panel').classList.remove('open');$('overlay').classList.remove('open')});
-$('search-btn').addEventListener('click',()=>{$('search-panel').classList.add('open');$('overlay').classList.add('open');$('search-input').focus()});
+$('overlay').addEventListener('click',()=>{$('sidebar').classList.remove('open');closeSearch()});
+$('search-btn').addEventListener('click',openSearch);
+$('search-scope-book').addEventListener('click',()=>setSearchScope('book'));
+$('search-scope-all').addEventListener('click',()=>setSearchScope('all'));
 $('search-close').addEventListener('click',closeSearch);
-function closeSearch(){$('search-panel').classList.remove('open');$('overlay').classList.remove('open')}
+function closeSearch(){clearTimeout(sTimeout);searchRequest++;$('search-panel').classList.remove('open');$('overlay').classList.remove('open')}
 $('copy-selection-btn').addEventListener('click',copySelectedVerses);
 $('share-selection-btn').addEventListener('click',shareSelectedVerses);
 $('clear-selection-btn').addEventListener('click',()=>clearVerseSelection(true));
