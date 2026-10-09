@@ -127,6 +127,12 @@
     .verse-num{font-family:var(--font-ui);font-size:.68rem;color:var(--gold-lt);line-height:1;letter-spacing:.03em;user-select:none}
     .verse-main{min-width:0}
     .verse-text{font-size:calc(1.1rem * var(--reader-font-scale,1));line-height:1.85}
+    @media (min-width:769px){
+      .verse-text{font-weight:500;letter-spacing:.012em}
+    }
+    @supports (-webkit-touch-callout:none){
+      #topbar h1,#chapter-heading,#book-heading{font-family:Georgia,'Times New Roman',serif;font-weight:600;letter-spacing:.04em}
+    }
     .note-marker{color:var(--red);font-size:.7rem;vertical-align:super;cursor:pointer;font-family:var(--font-ui);text-decoration:none;margin-left:1px;transition:color .15s}
     .note-marker:hover{color:var(--gold)}
 
@@ -276,7 +282,7 @@
 
 <script>
 'use strict';
-const APP_VERSION='4.16';
+const APP_VERSION='4.17';
 const APP_COMMIT_DATE='outubro 2026';
 const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{}},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all'};
 applyFontScale();
