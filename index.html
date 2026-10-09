@@ -41,7 +41,7 @@
     #topbar{position:fixed;top:0;left:0;right:0;height:calc(var(--topbar-h) + var(--safe-top));background:var(--bg2);border-bottom:1px solid var(--border);display:flex;align-items:center;gap:8px;padding:var(--safe-top) calc(12px + var(--safe-right)) 0 calc(12px + var(--safe-left));z-index:400;box-shadow:0 2px 8px var(--shadow)}
     #topbar-brand{display:flex;align-items:center;gap:10px;flex:1;min-width:0}
     #topbar-logo{width:34px;height:34px;border-radius:8px;flex-shrink:0;cursor:pointer}
-    #topbar h1{font-family:var(--font-ui);font-size:1rem;letter-spacing:.06em;color:var(--ink2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    #topbar h1{font-family:var(--font-ui);font-size:1rem;font-weight:500;letter-spacing:.06em;color:var(--ink2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
     #topbar-title{flex:1;text-align:left!important}
     .topbar-btn{background:none;border:none;cursor:pointer;color:var(--ink2);padding:6px;border-radius:4px;display:flex;align-items:center;justify-content:center;transition:background .15s;flex-shrink:0;min-width:40px;min-height:40px;touch-action:manipulation}
     .topbar-btn:hover{background:var(--bg3)}
@@ -129,9 +129,6 @@
     .verse-text{font-size:calc(1.1rem * var(--reader-font-scale,1));line-height:1.85}
     @media (min-width:769px){
       .verse-text{font-weight:500;letter-spacing:.012em}
-    }
-    @supports (-webkit-touch-callout:none){
-      #topbar h1,#chapter-heading,#book-heading{font-family:Georgia,'Times New Roman',serif;font-weight:600;letter-spacing:.04em}
     }
     .note-marker{color:var(--red);font-size:.7rem;vertical-align:super;cursor:pointer;font-family:var(--font-ui);text-decoration:none;margin-left:1px;transition:color .15s}
     .note-marker:hover{color:var(--gold)}
@@ -282,7 +279,7 @@
 
 <script>
 'use strict';
-const APP_VERSION='4.17';
+const APP_VERSION='4.18';
 const APP_COMMIT_DATE='outubro 2026';
 const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{}},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all'};
 applyFontScale();
