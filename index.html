@@ -240,7 +240,7 @@
   </div>
   <button class="topbar-btn" id="font-btn" title="Tamanho do texto" aria-label="Alterar tamanho do texto">A/A+</button>
   <button class="topbar-btn" id="intro-btn" title="Introdução" aria-label="Abrir introdução" hidden>
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H11v17H6.5A2.5 2.5 0 0 0 4 22z"/><path d="M20 5.5A2.5 2.5 0 0 0 17.5 3H13v17h4.5A2.5 2.5 0 0 1 20 22z"/></svg>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 10v6"/><path d="M12 7h.01"/></svg>
   </button>
   <button class="topbar-btn" id="search-btn" title="Pesquisar">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
@@ -323,7 +323,7 @@
 
 <script>
 'use strict';
-const APP_VERSION='4.19';
+const APP_VERSION='4.20';
 const APP_COMMIT_DATE='outubro 2026';
 const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{}},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all',noteItems:new Map(),noteCounter:0,lastNoteFocus:null,activeNote:null};
 applyFontScale();
