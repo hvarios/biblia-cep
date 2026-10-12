@@ -58,6 +58,14 @@
     #sidebar-logo{width:42px;height:42px;border-radius:9px;flex-shrink:0;cursor:pointer}
     #sidebar-header h2{font-family:var(--font-ui);font-size:1.1rem;letter-spacing:.1em;color:var(--ink);margin-bottom:2px}
     #sidebar-header p{font-size:.78rem;color:var(--ink3);font-style:italic}
+    #sidebar-actions{padding:10px 12px 8px;border-bottom:1px solid var(--border)}
+    .sidebar-action{width:100%;min-height:52px;border:1px solid var(--border);border-radius:7px;background:var(--bg3);color:var(--ink2);display:grid;grid-template-columns:28px 1fr 18px;align-items:center;gap:8px;padding:7px 11px;text-align:left;cursor:pointer;font-family:var(--font-ui);transition:background .15s,border-color .15s}
+    .sidebar-action:hover{background:var(--gold-lt);border-color:var(--gold)}
+    .sidebar-action svg{width:19px;height:19px;color:var(--gold)}
+    .sidebar-action .action-text,.sidebar-action .action-label,.sidebar-action .action-detail{display:block}
+    .sidebar-action .action-label{font-size:.84rem;letter-spacing:.03em;color:var(--ink)}
+    .sidebar-action .action-detail{margin-top:2px;font-family:var(--font-body);font-size:.7rem;color:var(--ink3)}
+    .sidebar-action .action-chevron{font-size:.85rem;color:var(--ink3);text-align:right}
     #book-list{flex:1;overflow-y:auto;padding:6px 0}
 
     .testament-item{display:flex;align-items:center;justify-content:space-between;padding:11px 18px;cursor:pointer;font-family:var(--font-ui);font-size:.92rem;letter-spacing:.09em;color:var(--ink);transition:background .15s;border-bottom:1px solid var(--border);user-select:none;text-transform:uppercase}
@@ -85,6 +93,11 @@
 
     .chapter-grid{display:none;grid-template-columns:repeat(6,1fr);gap:3px;padding:6px 14px 10px;background:var(--bg);border-bottom:1px solid var(--border)}
     .chapter-grid.open{display:grid}
+    .book-intro{display:none;width:calc(100% - 28px);min-height:44px;margin:6px 14px 2px;border:1px solid var(--border);border-radius:5px;background:var(--bg2);color:var(--ink2);grid-template-columns:24px 1fr 18px;align-items:center;gap:7px;padding:6px 10px;text-align:left;cursor:pointer;font-family:var(--font-ui);font-size:.8rem;letter-spacing:.03em;transition:background .15s,border-color .15s}
+    .book-intro.open{display:grid}
+    .book-intro:hover{background:var(--gold-lt);border-color:var(--gold);color:var(--ink)}
+    .book-intro svg{width:18px;height:18px;color:var(--gold)}
+    .book-intro .chevron{text-align:right}
     .ch-btn{background:none;border:1px solid var(--border);border-radius:3px;padding:4px 2px;font-family:var(--font-ui);font-size:.78rem;color:var(--ink3);cursor:pointer;transition:all .15s;text-align:center}
     .ch-btn:hover{background:var(--bg3);color:var(--ink)}
     .ch-btn.active{background:var(--gold);border-color:var(--gold);color:#fff}
@@ -114,6 +127,7 @@
 
     .verse-block{margin-bottom:10px;padding:4px 0;border-radius:3px;transition:background .15s}
     .verse-block:hover{background:rgba(237,229,207,.45)}
+    .verse-block.random-passage{background:color-mix(in srgb,var(--gold) 14%,var(--bg))}
     .verse-block.selected{background:rgba(122,84,0,.12)}
     .verse-num{cursor:pointer;border-radius:999px;padding:5px 6px;min-width:24px;text-align:center;transition:background .15s,color .15s}
     .verse-block.selected .verse-num{background:var(--gold);color:#fff}
@@ -239,9 +253,6 @@
     <h1 id="topbar-title">Bíblia CEP</h1>
   </div>
   <button class="topbar-btn" id="font-btn" title="Tamanho do texto" aria-label="Alterar tamanho do texto">A/A+</button>
-  <button class="topbar-btn" id="intro-btn" title="Introdução" aria-label="Abrir introdução" hidden>
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 10v6"/><path d="M12 7h.01"/></svg>
-  </button>
   <button class="topbar-btn" id="search-btn" title="Pesquisar">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
   </button>
@@ -262,6 +273,13 @@
           <p>Conferência Episcopal Portuguesa</p>
         </div>
       </div>
+    </div>
+    <div id="sidebar-actions">
+      <button class="sidebar-action" id="random-passage-btn" type="button" aria-label="Abrir uma passagem aleatória do Antigo ou do Novo Testamento">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 3h5v5"/><path d="M4 20 21 3"/><path d="M21 16v5h-5"/><path d="m15 15 6 6"/><path d="M4 4l5 5"/></svg>
+        <span class="action-text"><span class="action-label">Passagem aleatória</span><span class="action-detail">Antigo ou Novo Testamento</span></span>
+        <span class="action-chevron" aria-hidden="true">›</span>
+      </button>
     </div>
     <div id="book-list"></div>
   </nav>
@@ -323,9 +341,9 @@
 
 <script>
 'use strict';
-const APP_VERSION='4.21';
+const APP_VERSION='5.0';
 const APP_COMMIT_DATE='outubro 2026';
-const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{}},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all',noteItems:new Map(),noteCounter:0,lastNoteFocus:null,activeNote:null};
+const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{},book:''},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all',noteItems:new Map(),noteCounter:0,lastNoteFocus:null,activeNote:null};
 applyFontScale();
 function $(id){return document.getElementById(id)}
 function toast(msg,dur=2200){const el=$('toast');el.textContent=msg;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),dur)}
@@ -463,8 +481,8 @@ function renderHome(){
   state.currentChapter=null;
   state.menuOpen.testament='';
   state.menuOpen.groups={};
+  state.menuOpen.book='';
   $('topbar-title').textContent='Bíblia CEP';
-  $('intro-btn').hidden=true;
   const reader=$('reader');
   reader.removeAttribute('style');
   reader.innerHTML=`<section class="home-screen">
@@ -508,9 +526,10 @@ function renderSidebar(){
         const book=findBookByName(bookName);
         const available=bookHasContent(book);
         const isCurrent=book&&state.currentBook===book;
+        const isOpen=book&&state.menuOpen.book===book.book;
         const sec=document.createElement('div');
         const item=document.createElement('div');
-        item.className='book-item'+(isCurrent?' active open':'')+(available?'':' unavailable');
+        item.className='book-item'+(isCurrent?' active':'')+(isOpen?' open':'')+(available?'':' unavailable');
         item.dataset.bookName=available?book.book:bookName;
         item.innerHTML=available
           ? `<div class="book-meta"><span>${book.book}</span><span class="badge">${getBookChapterRefs(book).length} cap.</span></div><span class="chevron">›</span>`
@@ -519,8 +538,17 @@ function renderSidebar(){
         sec.appendChild(item);
 
         if(available){
+          if(book.introduction){
+            const intro=document.createElement('button');
+            intro.type='button';
+            intro.className='book-intro'+(isOpen?' open':'');
+            intro.setAttribute('aria-label',`Abrir introdução de ${book.book}`);
+            intro.innerHTML=`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 10v6"/><path d="M12 7h.01"/></svg><span>Introdução</span><span class="chevron">›</span>`;
+            intro.addEventListener('click',e=>{e.stopPropagation();openBookIntroduction(book)});
+            sec.appendChild(intro);
+          }
           const grid=document.createElement('div');
-          grid.className='chapter-grid'+(isCurrent?' open':'');
+          grid.className='chapter-grid'+(isOpen?' open':'');
           grid.id=`grid-${bookKey(book.book)}`;
           getBookChapterRefs(book).forEach(ch=>{
             const btn=document.createElement('button');
@@ -550,14 +578,14 @@ function toggleGroup(id){
   state.menuOpen.groups[id]=!state.menuOpen.groups[id];
   renderSidebar();
 }
-function toggleGrid(bookName){
-  const grid=$(`grid-${bookKey(bookName)}`);
-  const item=document.querySelector(`[data-book-name="${CSS.escape(bookName)}"]`);
-  if(!grid||!item)return;
-  const isOpen=grid.classList.contains('open');
-  document.querySelectorAll('.chapter-grid').forEach(g=>g.classList.remove('open'));
-  document.querySelectorAll('.book-item').forEach(i=>i.classList.remove('open'));
-  if(!isOpen){grid.classList.add('open');item.classList.add('open')}
+async function toggleGrid(bookName){
+  const book=state.books.find(item=>item.book===bookName);if(!book)return;
+  const opening=state.menuOpen.book!==bookName;
+  state.menuOpen.book=opening?bookName:'';
+  if(opening){
+    try{await loadBook(book)}catch(err){state.menuOpen.book='';toast(err.message||'Erro ao carregar livro')}
+  }
+  renderSidebar();
 }
 
 
@@ -571,8 +599,8 @@ async function openChapter(book,chapterRef){
     const gId=currentGroupId();
     if(tId)state.menuOpen.testament=tId;
     if(gId)state.menuOpen.groups[gId]=true;
+    state.menuOpen.book=book.book;
     $('topbar-title').textContent=`${book.book} ${chapter.chapter}`;
-    $('intro-btn').hidden=!book.introduction;
     renderSidebar();renderChapter(book,chapter);
     if(window.innerWidth<=700){$('sidebar').classList.remove('open');$('overlay').classList.remove('open')}
     $('reader').scrollTop=0;
@@ -721,6 +749,48 @@ function renderIntroduction(){
   closeNote(false);clearVerseSelection(false);$('topbar-title').textContent=`${book.book} · Introdução`;
   const sections=book.introduction.sections||[];$('reader').removeAttribute('style');
   $('reader').innerHTML=`<article class="introduction"><h2>${esc(book.introduction.title||'Introdução')}</h2>${sections.map(section=>`<section class="introduction-section">${section.title?`<h3>${esc(section.title)}</h3>`:''}${(section.paragraphs||[]).map(paragraph=>`<p>${esc(paragraph)}</p>`).join('')}</section>`).join('')}</article>`;$('reader').scrollTop=0;
+}
+
+async function openBookIntroduction(book){
+  try{
+    await loadBook(book);
+    if(!book.introduction){toast('Este livro não tem introdução');return}
+    state.currentBook=book;state.currentChapter=null;
+    const tId=currentTestamentId();const gId=currentGroupId();
+    if(tId)state.menuOpen.testament=tId;
+    if(gId)state.menuOpen.groups[gId]=true;
+    state.menuOpen.book=book.book;
+    renderSidebar();renderIntroduction();
+    if(window.innerWidth<=700){$('sidebar').classList.remove('open');$('overlay').classList.remove('open')}
+  }catch(err){toast(err.message||'Erro ao carregar introdução')}
+}
+
+function randomItem(items){return items[Math.floor(Math.random()*items.length)]}
+async function openRandomPassage(){
+  try{
+    const testamentChoices=CANON.map(testament=>({
+      testament,
+      books:testament.groups.flatMap(group=>group.books.map(findBookByName)).filter(bookHasContent)
+    })).filter(choice=>choice.books.length);
+    const choice=randomItem(testamentChoices);
+    const book=randomItem(choice.books);
+    await loadBook(book);
+    const chapters=book.chapters.filter(chapter=>chapter.verses?.some(verse=>!verse.omitted&&String(verse.text||'').trim()));
+    const chapter=randomItem(chapters);
+    const validVerses=chapter.verses.filter(verse=>!verse.omitted&&String(verse.text||'').trim());
+    const maxStart=Math.max(0,validVerses.length-3);
+    const startIndex=Math.floor(Math.random()*(maxStart+1));
+    const passage=validVerses.slice(startIndex,startIndex+3);
+    const start=passage[0];
+    await openChapter(book,chapter);
+    setTimeout(()=>{
+      const blocks=passage.map(verse=>document.querySelector(`.verse-block[data-verse="${verse.verse}"]`)).filter(Boolean);
+      blocks.forEach(block=>block.classList.add('random-passage'));
+      blocks[0]?.scrollIntoView({behavior:'smooth',block:'center'});
+      const end=passage.at(-1)?.verse;
+      toast(`Passagem aleatória: ${book.book} ${chapter.chapter},${start.verse}${end&&end!==start.verse?`-${end}`:''}`);
+    },80);
+  }catch(err){toast(err.message||'Não foi possível escolher uma passagem')}
 }
 
 
@@ -876,7 +946,7 @@ $('copy-selection-btn').addEventListener('click',copySelectedVerses);
 $('share-selection-btn').addEventListener('click',shareSelectedVerses);
 $('clear-selection-btn').addEventListener('click',()=>clearVerseSelection(true));
 $('font-btn').addEventListener('click',cycleFontScale);
-$('intro-btn').addEventListener('click',renderIntroduction);
+$('random-passage-btn').addEventListener('click',openRandomPassage);
 $('note-sheet-close').addEventListener('click',()=>closeNote(true));
 $('note-overlay').addEventListener('click',event=>{if(event.target===$('note-overlay'))closeNote(true)});
 $('note-select-btn').addEventListener('click',toggleActiveNoteSelection);
