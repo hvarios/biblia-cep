@@ -208,7 +208,9 @@
     @media(max-width:700px){
       #sidebar{position:fixed;top:calc(var(--topbar-h) + var(--safe-top));bottom:0;left:0;height:calc(100vh - var(--topbar-h) - var(--safe-top));height:calc(100dvh - var(--topbar-h) - var(--safe-top));transform:translateX(-100%);box-shadow:4px 0 20px var(--shadow);z-index:250}
       #sidebar.open{transform:translateX(0)}
+      #topbar h1{font-family:Georgia,'Times New Roman',serif;font-size:.94rem;font-weight:600;letter-spacing:.01em;line-height:1.1;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
       #reader{padding:20px 16px 80px}
+      .introduction{padding-top:16px}
       #verses-container{max-width:100%;display:block}
       .verse-layout{grid-template-columns:28px minmax(0,1fr);column-gap:10px}
 
@@ -341,7 +343,7 @@
 
 <script>
 'use strict';
-const APP_VERSION='5.0';
+const APP_VERSION='5.01';
 const APP_COMMIT_DATE='outubro 2026';
 const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{},book:''},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all',noteItems:new Map(),noteCounter:0,lastNoteFocus:null,activeNote:null};
 applyFontScale();
