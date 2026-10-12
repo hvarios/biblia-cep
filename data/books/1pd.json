@@ -1,5 +1,50 @@
 {
+  "schema_version": 2,
   "book": "1 Pedro",
+  "book_id": "1pd",
+  "source": {
+    "format": "docx",
+    "file": "67_1Pd.docx",
+    "title": "Primeira Carta de Pedro"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Autor e destinatários",
+        "paragraphs": [
+          "O autor da carta apresenta-se aos destinatários como Pedro, apóstolo de Jesus Cristo (1,1), presbítero como eles, testemunha dos sofrimentos de Cristo (5,1). Escreve esta carta (5,12) destinada aos eleitos do Ponto, Galácia, Capadócia, Ásia e Bitínia, por meio de Silvano, irmão de confiança, enquanto se encontra em Babilónia (5,13), nome que na apocalíptica da época designava Roma. Dirige-se a comunidades constituídas predominantemente por cristãos de origem pagã e de estatuto social baixo. Em Roma (Babilónia) está acompanhado por Marcos, que é tratado como o meu filho (5,13).",
+          "Atendendo a estes dados, a tradição cristã identificou este autor com Pedro, o primeiro dos Doze, como atestam a Segunda Carta de Pedro (cf. 3,1), um dos escritos mais recentes do NT e, posteriormente, Ireneu, Tertuliano e Clemente de Alexandria. Esta ideia é reforçada ainda por Pápias (séc. II) que, segundo Eusébio de Cesareia, estabeleceu uma estreita relação entre o apóstolo Pedro e Marcos, autor do segundo evangelho. Na Idade Moderna, porém, levantaram-se algumas objeções a esta tradição, tendo em conta, por exemplo, o registo do grego utilizado, que não seria típico de um pescador como Pedro, e a ausência de referências diretas a Jesus de Nazaré, que um discípulo próximo de Jesus necessariamente apresentaria. Na atualidade, os autores dividem-se quanto à autoria da carta. Há os que preferem seguir a tradição, atribuindo-a a Pedro, que a teria composto em Roma, com a ajuda de Silvano (que seria o Silas de At 15,22.40; 18,5), no contexto da perseguição de Nero (c. 64 d.C.). Outros, porém, embora concordando que tenha sido composta em Roma, consideram bem mais provável, perante os dados disponíveis, que a carta tenha surgido numa comunidade ligada a Pedro, depois da sua morte, durante a segunda ou terceira geração cristã (70-90 d.C.)."
+        ]
+      },
+      {
+        "title": "Género literário",
+        "paragraphs": [
+          "Embora haja alguma hesitação entre os autores na classificação deste escrito, a maioria insere-o no género literário epistolar, tendo em conta que apresenta a estrutura de uma carta, comum na tradição catequética da Igreja primitiva. Atendendo, porém, aos diversos temas abordados, tais como o batismo, confissões de fé ou credos, e também ao modo como se interligam internamente certos elementos literários e teológicos, poderá aceitar-se que o autor terá utilizado outros géneros literários, como sejam as exortações típicas das celebrações batismais, para incentivar os cristãos, que se encontravam num ambiente hostil, a serem fortes na fé. Daí o carácter exortativo e uma linguagem própria de ambientes litúrgicos."
+        ]
+      },
+      {
+        "title": "Conteúdo",
+        "paragraphs": [
+          "Sendo um escrito de carácter essencialmente prático, não deixa de apresentar alguns significativos temas teológicos. Tem como pano de fundo a natureza da vida cristã, iniciada com o batismo, e a ideia de que em todas as circunstâncias, sobretudo nas hostis, o ponto de referência é sempre o Senhor Jesus, morto e ressuscitado, de tal maneira que se poderia sintetizar a doutrina da carta como uma reflexão sobre o sofrimento e paixão de Cristo como modelo da vida cristã. Assim, partindo das várias referências à paixão de Jesus (um tema recorrente), ao seu sangue (1,2.19) e sofrimento (1,11; 2,21.23; 3,18; 4,1.13; 5,1), o autor exorta os destinatários a comportarem-se, no meio de um mundo que lhes é hostil, como verdadeiras testemunhas.",
+          "Além deste, a carta apresenta outros temas doutrinais fundamentais do cristianismo, como são as referências à Trindade (1,1s), ao Espírito Santo (1,1s), à ressurreição de Cristo (1,3.11-21; 3,22; 5,1) e ao novo povo, que é a Igreja (2,1-10)."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "Introdução (1,1-12)",
+          "Saudação inicial (1,1-2)",
+          "Ação de graças (1,3-12)",
+          "Primeira exortação: rutura com o modo pagão de viver (1,13-2,10)",
+          "Segunda exortação: a conduta entre os pagãos (2,11-3,12)",
+          "Terceira exortação: confiança perante a hostilidade (3,13-4,11)",
+          "Quarta exortação: coragem perante o sofrimento (4,12-5,11)",
+          "Conclusão (5,12-14)"
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,37 +52,148 @@
         {
           "verse": 1,
           "text": "Pedro, apóstolo de Jesus Cristo, aos eleitos que vivem como peregrinos na diáspora do Ponto, da Galácia, da Capadócia, da Ásia e da Bitínia,",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Os eleitos são os cristãos da diáspora, que vivem na terra como estrangeiros e peregrinos (cf. Lv 25,23), constituindo uma nação santa (2,9), que tem a sua verdadeira pátria nos céus (Flp 3,20; Cl 3,1-4; Heb 11,8-16; 13,14). São eleitos para obedecer a Jesus Cristo (v.2) e não aos pagãos, cujos vícios é preciso evitar (2,11; 4,2-4)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1pd-1-n1",
+              "offset": 44,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "segundo a pro - vidência de Deus Pai e pela santificação do Espírito, para obedecerem a Jesus Cristo e serem aspergidos com o seu sangue: a vós sejam concedidas em abundância a graça e a paz.",
-          "note_refs": []
+          "text": "segundo a providência de Deus Pai e pela santificação do Espírito, para obedecerem a Jesus Cristo e serem aspergidos com o seu sangue: a vós sejam concedidas em abundância a graça e a paz.",
+          "note_refs": [
+            "2",
+            "3",
+            "4"
+          ],
+          "notes": {
+            "2": "Esta referência trinitária é expandida na secção 1,3-12.",
+            "3": "Lit.: para obediência e aspersão do sangue de Jesus Cristo. Alusão à aliança concluída por Deus com o seu povo, selada com o sangue da aspersão (Ex 24,6-8).",
+            "4": "Lit.: sejam multiplicadas."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "1pd-1-n2",
+              "offset": 97,
+              "original_marker": "b",
+              "source_id": 2
+            },
+            {
+              "ref": "3",
+              "id": "1pd-1-n3",
+              "offset": 133,
+              "original_marker": "c",
+              "source_id": 3
+            },
+            {
+              "ref": "4",
+              "id": "1pd-1-n4",
+              "offset": 171,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Bendito seja Deus, Pai do nosso Senhor Jesus Cristo, que na sua grande mise - ricórdia nos fez renascer, pela ressurreição de Jesus Cristo de entre os mortos, para uma esperança viva,",
-          "note_refs": []
+          "text": "Bendito seja Deus, Pai do nosso Senhor Jesus Cristo, que na sua grande misericórdia nos fez renascer, pela ressurreição de Jesus Cristo de entre os mortos, para uma esperança viva,",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Os vv.3-12 abrem a carta com uma bênção ou oração de louvor, própria de ambientes litúrgicos, de estrutura trinitária (Ef 1,3; Rm 9,5; 2Cor 1,3). Louva-se o Senhor pela regeneração (1,3.23), que marca o início de uma vida nova aberta à esperança (vv.3-5), assente na pessoa de Jesus Ressuscitado e que terá a sua plenitude no fim dos tempos (cf. Rm 5,5; 8,24), o mundo novo que se espera. A regeneração, ou início da vida cristã, tem como acontecimento central a paixão e glorificação de Cristo (v.11), anunciada já pelos profetas (v.11) e que se tornou o núcleo do evangelho anunciado pelos apóstolos (v.12)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "1pd-1-n5",
+              "offset": 51,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "para uma herança incorruptível, sem mancha e que não desa - parece. Ela está reservada nos céus para vós,",
+          "text": "para uma herança incorruptível, sem mancha e que não desaparece. Ela está reservada nos céus para vós,",
           "note_refs": []
         },
         {
           "verse": 5,
           "text": "que pelo poder de Deus sois guardados, por meio da fé, para a salvação que está pronta para se revelar nos últimos tempos.",
-          "note_refs": []
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Trata-se da confiança em Deus, essencial para a salvação.",
+            "7": "Lit.: para salvação preparada."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "1pd-1-n6",
+              "offset": 53,
+              "original_marker": "f",
+              "source_id": 6
+            },
+            {
+              "ref": "7",
+              "id": "1pd-1-n7",
+              "offset": 121,
+              "original_marker": "g",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "É por isso que deveis exultar, ainda que, por algum tempo, seja necessário serdes afligidos por diversas provações.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "A expressão refere-se ao que foi dito nos vv.3-5 e forma uma inclusão com 4,12s. A alegria exprime um gozo escatológico (cf. Mt 5,12; Jd 24; Ap 19,7), apesar da hostilidade sentida pela comunidade cristã, traduzida em 1Pd com o vocabulário do sofrimento ou da provação (cf. 1,11; 4,13; 5,9; 2,19; 3,14.17; 4,1.15.19; 5,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "1pd-1-n8",
+              "offset": 29,
+              "original_marker": "h",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "Isto para que o valor comprovado da vossa fé que é muito mais precioso do que o ouro perecível, também ele provado pelo fogo seja digno de louvor, de glória e de honra, por ocasião da revelação de Jesus Cristo.",
-          "note_refs": []
+          "text": "Isto para que o valor comprovado da vossa fé – que é muito mais precioso do que o ouro perecível, também ele provado pelo fogo – seja digno de louvor, de glória e de honra, por ocasião da revelação de Jesus Cristo.",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Trata-se do fogo usado quer para separar as impurezas, quer para comprovar se a peça é de ouro maciço ou apenas enganadoramente revestida com ele."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "1pd-1-n9",
+              "offset": 126,
+              "original_marker": "i",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 8,
@@ -46,13 +202,50 @@
         },
         {
           "verse": 9,
-          "text": "por alcançardes a finalidade da vossa fé: a salvação das vossas almas. A",
-          "note_refs": []
+          "text": "por alcançardes a finalidade da vossa fé: a salvação das vossas almas.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Alguns mss. e alguns Padres da Igreja leem nossa."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "1pd-1-n10",
+              "offset": 37,
+              "original_marker": "j",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Foi acerca desta salvação que os profetas investigaram e pesquisaram, tendo profetizado a respeito da graça que vos era destinada.",
-          "note_refs": []
+          "note_refs": [
+            "11",
+            "12"
+          ],
+          "notes": {
+            "11": "Referência aos profetas do AT (cf. Mt 1,22s; Rm 1,2; 4,23; At 3,18).",
+            "12": "Destinada é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "1pd-1-n11",
+              "offset": 41,
+              "original_marker": "a",
+              "source_id": 11
+            },
+            {
+              "ref": "12",
+              "id": "1pd-1-n12",
+              "offset": 129,
+              "original_marker": "b",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 11,
@@ -61,18 +254,55 @@
         },
         {
           "verse": 12,
-          "text": "Foi-lhes revelado não para seu proveito, mas para vosso que eles estavam ao serviço das realidades que vos foram agora anunciadas, por meio daqueles que vos anunciaram o evangelho, movi - dos pelo Espírito Santo enviado do céu, realidades que os próprios anjos desejam contemplar.",
+          "text": "Foi-lhes revelado – não para seu proveito, mas para vosso – que eles estavam ao serviço das realidades que vos foram agora anunciadas, por meio daqueles que vos anunciaram o evangelho, movidos pelo Espírito Santo enviado do céu, realidades que os próprios anjos desejam contemplar.",
           "note_refs": []
         },
         {
           "verse": 13,
           "text": "Por isso, tende a vossa mente alerta, sede sóbrios e ponde toda a vossa esperança na graça que vos será concedida, aquando da revelação de Jesus Cristo.",
-          "note_refs": []
+          "note_refs": [
+            "13",
+            "14"
+          ],
+          "notes": {
+            "13": "Lit.: cingindo os rins do vosso entendimento, imagem que apela ao hábito de cingir os rins para realizar uma atividade corporal, como trabalhar ou viajar.",
+            "14": "Nos vv.13-25 apresentam-se as consequências práticas da regeneração cristã. Podem resumir-se na santidade de uma conduta que se opõe ao estilo de vida anterior e que tem como fundamento o chamamento de Deus que é Santo (cf. Lv 19,2; 20,7; 1Ts 4,3-8; Ef 1,4). A Ele os cristãos dirigem-se como a um Pai, que ofereceu o seu maior bem, o seu Filho, que se entregou como um cordeiro pascal (v.19), cujo sangue regenera aqueles que nele acreditam. Deste amor de Cristo brota o amor como marca identitária do cristão."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "1pd-1-n13",
+              "offset": 36,
+              "original_marker": "c",
+              "source_id": 13
+            },
+            {
+              "ref": "14",
+              "id": "1pd-1-n14",
+              "offset": 151,
+              "original_marker": "d",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Como filhos obedientes, não vos conformeis com os desejos de outrora, quando vivíeis na ignorância,",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Lit.: na vossa ignorância."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "1pd-1-n15",
+              "offset": 98,
+              "original_marker": "e",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 15,
@@ -82,7 +312,21 @@
         {
           "verse": 16,
           "text": "Pois está escrito: Sede santos, porque Eu sou santo.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Lv 11,44; 19,2."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "1pd-1-n16",
+              "offset": 51,
+              "original_marker": "f",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 17,
@@ -92,12 +336,40 @@
         {
           "verse": 18,
           "text": "Vós sabeis que não foi por coisas corruptíveis, como ouro e prata, que fostes resgatados da vossa vã maneira de viver, herdada dos vossos pais,",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "Lit.: da vossa inútil conduta."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "1pd-1-n17",
+              "offset": 117,
+              "original_marker": "g",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "mas sim pelo precioso sangue de Cristo, Cordeiro sem defeito e sem mancha,",
-          "note_refs": []
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "No conceito judaico de sacrifício, o sangue representa a vida (cf. Lv 17,14) e está presente, por ex., no sangue derramado no sacrifício do cordeiro pascal (cf. Ex 12,7.13; Ap 5,9; Ef 1,7; Heb 9,12; 1Cor 5,7; Jo 1,29; 19,36). Este cordeiro tinha de ser sem defeito (Lv 22,19-25; Ex 12,5)."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "1pd-1-n18",
+              "offset": 73,
+              "original_marker": "h",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 20,
@@ -111,13 +383,50 @@
         },
         {
           "verse": 22,
-          "text": "Tendo purificado as vossas almas pela obediência à verdade, que conduz ao amor sem fingimento entre irmãos, amai-vos intensamente uns aos outros de todo AT o coração.",
-          "note_refs": []
+          "text": "Tendo purificado as vossas almas pela obediência à verdade, que conduz ao amor sem fingimento entre irmãos, amai-vos intensamente uns aos outros de todo o coração.",
+          "note_refs": [
+            "19",
+            "20"
+          ],
+          "notes": {
+            "19": "Alguns mss. mais tardios acrescentam por meio de Espírito. No Ocidente, alguns mss. da VL e da Vg leem caritas (caridade, amor).",
+            "20": "Lit.: para uma amizade sincera de coração puro amai-vos intensamente uns aos outros."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "1pd-1-n19",
+              "offset": 58,
+              "original_marker": "i",
+              "source_id": 19
+            },
+            {
+              "ref": "20",
+              "id": "1pd-1-n20",
+              "offset": 162,
+              "original_marker": "j",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 23,
           "text": "Vós renascestes, não de uma semente corruptível mas incorruptível, por meio da palavra de Deus, que é viva e perene.",
-          "note_refs": []
+          "note_refs": [
+            "21"
+          ],
+          "notes": {
+            "21": "Lit.: que permanece."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "1pd-1-n21",
+              "offset": 115,
+              "original_marker": "k",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 24,
@@ -127,6 +436,32 @@
         {
           "verse": 25,
           "text": "mas a palavra do Senhor permanece para sempre. Ora, é esta a Palavra que vos foi anunciada como evangelho.",
+          "note_refs": [
+            "22"
+          ],
+          "notes": {
+            "22": "Is 40,6-8."
+          },
+          "note_positions": [
+            {
+              "ref": "22",
+              "id": "1pd-1-n22",
+              "offset": 45,
+              "original_marker": "l",
+              "source_id": 22
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Saudação",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "Ação de graças",
           "note_refs": []
         }
       ]
@@ -136,23 +471,65 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Portanto, ponde de parte toda a malícia e toda a falsidade, bem como a hipo - crisia, a inveja e toda a maledicência;",
-          "note_refs": []
+          "text": "Portanto, ponde de parte toda a malícia e toda a falsidade, bem como a hipocrisia, a inveja e toda a maledicência;",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Nos vv.1-12 descreve-se a vida regenerada com imagens que evocam a catequese batismal: crianças recém-nascidas; o leite como alimento e que é a Palavra de Deus que faz crescer (1Cor 3,2; Heb 5,12s); as pedras assentes na pedra viva e que constituem a nova comunidade. A pedra é uma imagem messiânica e escatológica que é aplicada a Jesus Cristo (Mt 21,42; Mc 12,10; Lc 20,17s; At 4,11; Rm 9,32ss). Diz-se que é viva numa alusão ao Ressuscitado que está vivo e dá a vida (Lc 24,5; At 1,3; Ap 1,18; cf. Lc 24,23; At 25,19). Também a imagem do sacerdócio (v.9) é aplicada à comunidade em geral para especificar o carácter da sua missão: anunciar, com o seu testemunho de vida, os feitos admiráveis do Senhor."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1pd-2-n1",
+              "offset": 113,
+              "original_marker": "m",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "como crianças recém-nascidas desejai arden - temente o leite puro da Palavra, não adulterado, para que, com ele, possais crescer",
+          "text": "como crianças recém-nascidas desejai ardentemente o leite puro da Palavra, não adulterado, para que, com ele, possais crescer para a salvação –",
           "note_refs": []
         },
         {
           "verse": 3,
           "text": "se é que já saboreastes como o Senhor é bom.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Sl 34,9."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "1pd-2-n2",
+              "offset": 43,
+              "original_marker": "n",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "Aproximando-vos dele, pedra viva rejeitada pelos homens, mas escolhida e preciosa aos olhos de Deus,",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: junto de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "1pd-2-n3",
+              "offset": 99,
+              "original_marker": "o",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 5,
@@ -162,46 +539,176 @@
         {
           "verse": 6,
           "text": "Por isso se diz na Escritura: «Eis que ponho em Sião uma pedra angular, escolhida, preciosa. Quem nela acreditar não será confundido».",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Lit.: contém.",
+            "5": "Is 28,16."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1pd-2-n4",
+              "offset": 15,
+              "original_marker": "p",
+              "source_id": 26
+            },
+            {
+              "ref": "5",
+              "id": "1pd-2-n5",
+              "offset": 133,
+              "original_marker": "q",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Honra, portanto, a vós que acreditais. Mas para aqueles que não acreditam a pedra que os construtores rejeitaram e que se tornou pedra angular",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Sl 118,22."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "1pd-2-n6",
+              "offset": 142,
+              "original_marker": "r",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "é uma pedra de tropeço, uma pedra de escândalo. Eles tropeçam nela por se recusarem a acreditar na Palavra, pois também para isso estavam destinados.",
-          "note_refs": []
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Is 8,14.",
+            "8": "Lit.: foram estabelecidos."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "1pd-2-n7",
+              "offset": 46,
+              "original_marker": "s",
+              "source_id": 29
+            },
+            {
+              "ref": "8",
+              "id": "1pd-2-n8",
+              "offset": 148,
+              "original_marker": "t",
+              "source_id": 30
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Vós, porém, sois geração eleita, sacerdócio real, nação santa, um povo adquirido, para anunciar os feitos admiráveis daquele que vos chamou das trevas para a sua luz admirável.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Quatro títulos de Israel no AT; o primeiro é retirado de Is 43,20; o segundo e o terceiro encontram-se em Ex 19,6; 23,22 (LXX); e o quarto é uma combinação de Is 43,21 e Ml 3,17 (cf. At 20,28; Tt 2,14)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "1pd-2-n9",
+              "offset": 80,
+              "original_marker": "a",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Vós, que outrora não éreis um povo, agora sois povo de Deus; vós, que outrora não tínheis alcançado misericórdia, agora alcançastes misericórdia.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Os 1,6.9; 2,3.25."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "1pd-2-n10",
+              "offset": 144,
+              "original_marker": "b",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "Amados meus, exorto-vos, como a estrangeiros e peregrinos que sois, a afastar - -vos dos desejos carnais, que combatem contra a alma.",
-          "note_refs": []
+          "text": "Amados meus, exorto-vos, como a estrangeiros e peregrinos que sois, a afastar- -vos dos desejos carnais, que combatem contra a alma.",
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Meus é acrescento da tradução. Os vv.11-17 argumentam que os cristãos, pelo facto de estarem neste mundo como estrangeiros e peregrinos a caminho do céu (v.11), não estão dispensados das obrigações sociais. A exemplo de Cristo sofredor e obediente (vv.1-24), os cristãos devem ser dóceis a quem goza de autoridade legítima (v.13), mas com liberdade interior e espírito de serviço (cf. Rm 13,1-7; Tt 3,1)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "1pd-2-n11",
+              "offset": 11,
+              "original_marker": "c",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "Tende uma conduta exem - plar entre os pagãos, para que, quando vos caluniarem como se fôsseis malfeitores, ao verem as vossas boas obras, acabem por dar glória a Deus no dia da sua visita.",
-          "note_refs": []
+          "text": "Tende uma conduta exemplar entre os pagãos, para que, quando vos caluniarem como se fôsseis malfeitores, ao verem as vossas boas obras, acabem por dar glória a Deus no dia da sua visita.",
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Sua é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "1pd-2-n12",
+              "offset": 178,
+              "original_marker": "d",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Por amor ao Senhor sede dóceis na relação com todas as instituições humanas, seja ao rei, como soberano,",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Lit.: por causa do Senhor."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "1pd-2-n13",
+              "offset": 18,
+              "original_marker": "e",
+              "source_id": 35
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "seja aos governadores, como enviados por ele para casti - gar os malfeitores e louvar os que fazem o bem.",
+          "text": "seja aos governadores, como enviados por ele para castigar os malfeitores e louvar os que fazem o bem.",
           "note_refs": []
         },
         {
@@ -212,7 +719,30 @@
         {
           "verse": 16,
           "text": "Procedei como pessoas livres, servindo-vos da liberdade não como um véu para tapar o mal, mas como servos de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "14",
+            "15"
+          ],
+          "notes": {
+            "14": "Procedei é acrescento da tradução.",
+            "15": "Lit.: não tendo um véu como liberdade da maldade."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "1pd-2-n14",
+              "offset": 8,
+              "original_marker": "f",
+              "source_id": 36
+            },
+            {
+              "ref": "15",
+              "id": "1pd-2-n15",
+              "offset": 88,
+              "original_marker": "g",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 17,
@@ -222,27 +752,133 @@
         {
           "verse": 18,
           "text": "Servos, sede dóceis aos vossos senhores, com todo o respeito, não só aos que são bons e afáveis, mas também aos que têm mau carácter.",
-          "note_refs": []
+          "note_refs": [
+            "16",
+            "17"
+          ],
+          "notes": {
+            "16": "Lit.: em todo o temor.",
+            "17": "Lit.: aos retorcidos. Nos vv.18-25 a carta encara a situação social dos escravos. Com uma série de exortações ilumina-se o seu sofrimento com o exemplo de Jesus Cristo, servo sofredor (At 8,32; Rm 4,25). A sua obediência em nome de Cristo não passará despercebida aos senhores, que veem responder ao mal com o bem. A secção de 2,18-3,7 apresenta uma série de instruções semelhantes às dos códigos domésticos de Cl 3,18-4,1; Ef 5,22-6,9; 1Tm 2,1.8-15; 6,1s; Tt 2,1-10."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "1pd-2-n16",
+              "offset": 60,
+              "original_marker": "h",
+              "source_id": 38
+            },
+            {
+              "ref": "17",
+              "id": "1pd-2-n17",
+              "offset": 132,
+              "original_marker": "i",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 19,
-          "text": "Pois é uma graça que, pela consciência que se tem de Deus, se suporte as adversidades sofridas injusta - mente.",
-          "note_refs": []
+          "text": "Pois é uma graça que, pela consciência que se tem de Deus, se suporte as adversidades sofridas injustamente.",
+          "note_refs": [
+            "18",
+            "19"
+          ],
+          "notes": {
+            "18": "Alguns mss. acrescentam da parte de Deus.",
+            "19": "Que se tem é acrescento da tradução. Devido à estranheza da expressão consciência de Deus, alguns mss. mais tardios acrescentam bondade (cf. At 23,1; 1Tm 1,5.19)."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "1pd-2-n18",
+              "offset": 16,
+              "original_marker": "j",
+              "source_id": 40
+            },
+            {
+              "ref": "19",
+              "id": "1pd-2-n19",
+              "offset": 49,
+              "original_marker": "k",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 20,
-          "text": "Com efeito, se tiverdes cometido uma falta, que mérito há em suportardes com paciência o castigo? Mas se, apesar de sofrerdes por fazer o bem, continuais A a perseverar, isso, sim, é uma graça aos olhos de Deus.",
-          "note_refs": []
+          "text": "Com efeito, se tiverdes cometido uma falta, que mérito há em suportardes com paciência o castigo? Mas se, apesar de sofrerdes por fazer o bem, continuais a perseverar, isso, sim, é uma graça aos olhos de Deus.",
+          "note_refs": [
+            "20",
+            "21"
+          ],
+          "notes": {
+            "20": "Lit.: se pecando e sendo esmurrados perseverais.",
+            "21": "Lit.: mas se fazendo o bem e sofrendo perseverais."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "1pd-2-n20",
+              "offset": 96,
+              "original_marker": "l",
+              "source_id": 42
+            },
+            {
+              "ref": "21",
+              "id": "1pd-2-n21",
+              "offset": 166,
+              "original_marker": "m",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 21,
           "text": "Pois foi a isto que fostes chamados, porque também Cristo sofreu por vós, deixando-vos o exemplo, para que sigais os seus passos.",
-          "note_refs": []
+          "note_refs": [
+            "22",
+            "23"
+          ],
+          "notes": {
+            "22": "Os vv.21b-25 constituiriam um primitivo hino cristão baseado em Is 53,4-12.",
+            "23": "Alguns mss. mais tardios leem morreu possivelmente por influência de 3,18."
+          },
+          "note_positions": [
+            {
+              "ref": "22",
+              "id": "1pd-2-n22",
+              "offset": 43,
+              "original_marker": "n",
+              "source_id": 44
+            },
+            {
+              "ref": "23",
+              "id": "1pd-2-n23",
+              "offset": 64,
+              "original_marker": "o",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "Ele não cometeu pecado algum, nem na sua boca foi encontrada falsidade.",
-          "note_refs": []
+          "note_refs": [
+            "24"
+          ],
+          "notes": {
+            "24": "Is 53,9."
+          },
+          "note_positions": [
+            {
+              "ref": "24",
+              "id": "1pd-2-n24",
+              "offset": 70,
+              "original_marker": "p",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 23,
@@ -252,11 +888,92 @@
         {
           "verse": 24,
           "text": "Ele carregou os nossos pecados no seu corpo, sobre o madeiro da cruz, para que, mortos para o pecado, vivamos para a justiça. Pelas suas chagas fostes curados.",
-          "note_refs": []
+          "note_refs": [
+            "25",
+            "26",
+            "27"
+          ],
+          "notes": {
+            "25": "Is 53,11.",
+            "26": "Da cruz é acrescento da tradução.",
+            "27": "Is 53,5."
+          },
+          "note_positions": [
+            {
+              "ref": "25",
+              "id": "1pd-2-n25",
+              "offset": 30,
+              "original_marker": "q",
+              "source_id": 47
+            },
+            {
+              "ref": "26",
+              "id": "1pd-2-n26",
+              "offset": 68,
+              "original_marker": "r",
+              "source_id": 48
+            },
+            {
+              "ref": "27",
+              "id": "1pd-2-n27",
+              "offset": 158,
+              "original_marker": "s",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 25,
           "text": "Vós éreis como ovelhas perdidas, mas agora voltastes para o pastor e guardião das vossas almas.",
+          "note_refs": [
+            "28",
+            "29",
+            "30"
+          ],
+          "notes": {
+            "28": "Is 53,6.",
+            "29": "A imagem do pastor evoca a relação de Deus com o seu povo (Is 40,11; Jr 23,1-4; Ez 34,16; Sl 23 e Sir 18,13); o NT aplica-a a Cristo (Mt 2,6; Mc 14,27; Heb 13,20), para falar do seu cuidado com os que sofrem e se sentem perdidos.",
+            "30": "Lit.: supervisor (episkopós)."
+          },
+          "note_positions": [
+            {
+              "ref": "28",
+              "id": "1pd-2-n28",
+              "offset": 31,
+              "original_marker": "t",
+              "source_id": 50
+            },
+            {
+              "ref": "29",
+              "id": "1pd-2-n29",
+              "offset": 66,
+              "original_marker": "u",
+              "source_id": 51
+            },
+            {
+              "ref": "30",
+              "id": "1pd-2-n30",
+              "offset": 77,
+              "original_marker": "v",
+              "source_id": 52
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Pedras vivas e povo santo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Viver como servos de Deus",
+          "note_refs": []
+        },
+        {
+          "before_verse": 18,
+          "text": "Obedecer até à morte a exemplo de Cristo",
           "note_refs": []
         }
       ]
@@ -266,23 +983,101 @@
       "verses": [
         {
           "verse": 1,
-          "text": "De igual modo, vós, mulheres, sede dóceis aos vossos maridos, para que, mes - mo que alguns rejeitem a Palavra de Deus, venham a ser conquistados pela conduta das suas esposas, sem necessidade de palavras,",
-          "note_refs": []
+          "text": "De igual modo, vós, mulheres, sede dóceis aos vossos maridos, para que, mesmo que alguns rejeitem a Palavra de Deus, venham a ser conquistados pela conduta das suas esposas, sem necessidade de palavras,",
+          "note_refs": [
+            "1",
+            "2",
+            "3"
+          ],
+          "notes": {
+            "1": "Nos vv.1-7, reaparece, aplicada ao matrimónio, a ideia da submissão por parte das mulheres aos seus maridos, que tem de entender-se no quadro cultural da época. Conforme a tradição judaica, são apresentadas como modelos de conduta familiar as mulheres dos patriarcas, como é o caso de Sara. Mas esta submissão está associada ao apelo lançado aos maridos a respeitar suas mulheres. O raciocínio é concluído com a importância da oração em casal.",
+            "2": "De Deus é acrescento da tradução.",
+            "3": "Lit.: sem palavra."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1pd-3-n1",
+              "offset": 60,
+              "original_marker": "w",
+              "source_id": 53
+            },
+            {
+              "ref": "2",
+              "id": "1pd-3-n2",
+              "offset": 115,
+              "original_marker": "x",
+              "source_id": 54
+            },
+            {
+              "ref": "3",
+              "id": "1pd-3-n3",
+              "offset": 201,
+              "original_marker": "y",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "ao observarem a vossa casta e respei - tosa conduta.",
-          "note_refs": []
+          "text": "ao observarem a vossa casta e respeitosa conduta.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: observando a vossa conduta casta no temor."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1pd-3-n4",
+              "offset": 48,
+              "original_marker": "z",
+              "source_id": 56
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Que o vosso adorno não seja o exterior cabelos entrançados, ade - reços de ouro, vestidos requintados –,",
+          "text": "Que o vosso adorno não seja o exterior – cabelos entrançados, adereços de ouro, vestidos requintados –,",
           "note_refs": []
         },
         {
           "verse": 4,
           "text": "mas sim o que fica escondido no coração, num espírito manso e sereno que se mantém incorruptível. Isso, sim, é precioso aos olhos de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6",
+            "7"
+          ],
+          "notes": {
+            "5": "Lit.: o homem oculto do coração.",
+            "6": "Lit.: na incorruptibilidade do espírito manso e sereno.",
+            "7": "Lit.: diante de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "1pd-3-n5",
+              "offset": 39,
+              "original_marker": "aa",
+              "source_id": 57
+            },
+            {
+              "ref": "6",
+              "id": "1pd-3-n6",
+              "offset": 96,
+              "original_marker": "a",
+              "source_id": 58
+            },
+            {
+              "ref": "7",
+              "id": "1pd-3-n7",
+              "offset": 137,
+              "original_marker": "b",
+              "source_id": 59
+            }
+          ]
         },
         {
           "verse": 5,
@@ -297,17 +1092,68 @@
         {
           "verse": 7,
           "text": "De igual modo, vós, maridos, mostrai sabedoria no convívio com vossas esposas, tendo em conta que são de natureza mais delicada, e tratai-as com respeito, pois, tal como vós, também elas são herdeiras da graça da vida. E assim, nada servirá de obstáculo às vossas orações.",
-          "note_refs": []
+          "note_refs": [
+            "8",
+            "9"
+          ],
+          "notes": {
+            "8": "Lit.: coabitando segundo o conhecimento.",
+            "9": "Esta expressão reflete o sistema patriarcal do mundo antigo."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "1pd-3-n8",
+              "offset": 77,
+              "original_marker": "c",
+              "source_id": 60
+            },
+            {
+              "ref": "9",
+              "id": "1pd-3-n9",
+              "offset": 127,
+              "original_marker": "d",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "E por último, permanecei todos unidos num mesmo sentimento, solidários no sofrimento, cheios de amor fraterno, misericordiosos e humildes.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "A exortação dos vv.8-12 resume todas as precedentes e aponta as grandes linhas da vida nova da fé: relações fraternas e solidárias (cf. 2,17), perdão aos inimigos (v.9; cf. Mt 5,44; 1Ts 5,15; Rm 12,14.17- 21). Reforça-se a exortação com a citação do Sl 34,13-17 nos vv.10-12."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "1pd-3-n10",
+              "offset": 137,
+              "original_marker": "e",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Não pagueis o mal com o mal, nem insulto com insulto; pelo contrário, abençoai, pois foi a isso que fostes chamados: para vos tornardes herdeiros da bênção.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Os cristãos são os herdeiros das bênçãos do AT (Gn 27,29; 49,25s)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "1pd-3-n11",
+              "offset": 155,
+              "original_marker": "f",
+              "source_id": 63
+            }
+          ]
         },
         {
           "verse": 10,
@@ -317,27 +1163,106 @@
         {
           "verse": 11,
           "text": "afaste-se do mal e faça o bem, procure a paz e siga os seus passos.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: persiga-a."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "1pd-3-n12",
+              "offset": 66,
+              "original_marker": "g",
+              "source_id": 64
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Porque os olhos do Senhor estão postos sobre os justos, e os seus ouvidos estão atentos à sua oração; mas a face do Senhor volta-se contra aqueles que fazem o mal.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Sl 34,13-17."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "1pd-3-n13",
+              "offset": 162,
+              "original_marker": "h",
+              "source_id": 65
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Quem vos poderá fazer mal, se fordes zelosos na prática do bem?",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Lit.: zelosos do bem. Perante o ambiente hostil e eventualmente de perseguição em que viviam os cristãos, estes têm oportunidade de dar testemunho da sua pertença a Cristo (cf. Lc 12,11-12; 1Tm 6,12-15; 2Tm 4,17). Para os encorajar a resistir ao mal, são-lhes recordados alguns artigos da profissão de fé acolhida no batismo: a morte de Cristo (3,18), a descida à mansão dos mortos (3,19), a ressurreição (3,21) e a subida ao céu, onde está sentado à direita de Deus (3,22)."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "1pd-3-n14",
+              "offset": 62,
+              "original_marker": "i",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "Mas se tiver - des de sofrer pela justiça, sereis felizes! Não tenhais medo deles nem vos deixeis perturbar,",
-          "note_refs": []
+          "text": "Mas se tiverdes de sofrer pela justiça, sereis felizes! Não tenhais medo deles nem vos deixeis perturbar,",
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Is 8,12."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "1pd-3-n15",
+              "offset": 104,
+              "original_marker": "j",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "mas santificai o Senhor, o Cristo, em vossos corações, e estai sempre prontos para responder a todo aquele que vos peça razões da esperança que está em vós.",
-          "note_refs": []
+          "note_refs": [
+            "16",
+            "17"
+          ],
+          "notes": {
+            "16": "Is 8,13.",
+            "17": "Alguns mss. mais tardios leem Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "1pd-3-n16",
+              "offset": 23,
+              "original_marker": "k",
+              "source_id": 68
+            },
+            {
+              "ref": "17",
+              "id": "1pd-3-n17",
+              "offset": 33,
+              "original_marker": "l",
+              "source_id": 69
+            }
+          ]
         },
         {
           "verse": 16,
@@ -352,26 +1277,135 @@
         {
           "verse": 18,
           "text": "Porque também Cristo sofreu de uma vez para sempre pelos nossos pecados, o Justo pelos injustos, para nos conduzir a Deus. Morto na carne, foi vivificado pelo Espírito.",
-          "note_refs": []
+          "note_refs": [
+            "18",
+            "19",
+            "20"
+          ],
+          "notes": {
+            "18": "Alguns mss. leem morreu.",
+            "19": "Lit.: uma vez.",
+            "20": "Nossos é acrescento da tradução, seguindo muitos mss."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "1pd-3-n18",
+              "offset": 27,
+              "original_marker": "m",
+              "source_id": 70
+            },
+            {
+              "ref": "19",
+              "id": "1pd-3-n19",
+              "offset": 50,
+              "original_marker": "n",
+              "source_id": 71
+            },
+            {
+              "ref": "20",
+              "id": "1pd-3-n20",
+              "offset": 63,
+              "original_marker": "o",
+              "source_id": 72
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "Foi por esse mesmo Espírito que Ele foi pregar aos espíritos que estavam cativos,",
-          "note_refs": []
+          "note_refs": [
+            "21",
+            "22"
+          ],
+          "notes": {
+            "21": "Lit.: nele também.",
+            "22": "Possível referência à tradição intertestamentária, segundo a qual os anjos rebeldes estariam para sempre cativos no mundo dos mortos (cf. 1Hen 6-11; ou no segundo céu, segundo 2Hen 7,1-3; 18,3-6). Segundo o autor, Cristo, para lhes pregar a salvação e os submeter ao seu domínio (cf. v.22, Ef 8,21ss; Flp 2,8-10), desceu à mansão dos mortos, tendo depois ascendido aos céus (cf. Ef 4,8ss; Heb 4,14; 1Tm 3,16; Flp 2,9). Segundo outros autores, e tendo presente o v. seguinte, será uma referência aos que morreram no dilúvio pela sua incredulidade. Outros autores ainda, como alguns Padres da Igreja, considerando 4,6, interpretam este v. como uma alusão à descida redentora de Jesus ao mundo dos mortos para aí pregar a Boa Nova e salvar todos os homens."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "1pd-3-n21",
+              "offset": 31,
+              "original_marker": "p",
+              "source_id": 73
+            },
+            {
+              "ref": "22",
+              "id": "1pd-3-n22",
+              "offset": 80,
+              "original_marker": "q",
+              "source_id": 74
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "ou seja, aos que outrora se recusaram a acreditar, quando, nos dias de Noé, Deus usava de paciência enquanto se construía a arca; nela poucas pessoas, oito apenas, se salvaram através da água.",
-          "note_refs": []
+          "note_refs": [
+            "23"
+          ],
+          "notes": {
+            "23": "Lit.: quando a paciência de Deus aguardava."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "1pd-3-n23",
+              "offset": 99,
+              "original_marker": "r",
+              "source_id": 75
+            }
+          ]
         },
         {
           "verse": 21,
           "text": "Esta água era uma figura do batismo que agora vos salva, não por eliminar a sujidade do corpo, mas porque constitui um apelo à salvação, dirigido a Deus, assente numa boa consciência, e que acontece graças à ressurreição de Jesus Cristo",
-          "note_refs": []
+          "note_refs": [
+            "24",
+            "25"
+          ],
+          "notes": {
+            "24": "Água é acrescento da tradução.",
+            "25": "Lit.: não uma eliminação da sujidade da carne, mas uma petição de salvação de boa consciência a Deus. A expressão parece referir-se à formulação feita pelo neófito por ocasião do seu batismo."
+          },
+          "note_positions": [
+            {
+              "ref": "24",
+              "id": "1pd-3-n24",
+              "offset": 9,
+              "original_marker": "s",
+              "source_id": 76
+            },
+            {
+              "ref": "25",
+              "id": "1pd-3-n25",
+              "offset": 182,
+              "original_marker": "t",
+              "source_id": 77
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "que subiu ao céu e está à direita de Deus, tendo-lhe sido submetidos os anjos, as autoridades e as potestades.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "O testemunho cristão na vida matrimonial",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "Exigências da vida comunitária",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "Confiança perante a perseguição",
           "note_refs": []
         }
       ]
@@ -382,21 +1416,72 @@
         {
           "verse": 1,
           "text": "Visto que Cristo, portanto, sofreu na carne, armai-vos também vós para o combate com este pensamento: quem sofreu na carne pôs fim ao pecado,",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Alguns mss. acrescentam por nós.",
+            "2": "Para o combate é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1pd-4-n1",
+              "offset": 34,
+              "original_marker": "u",
+              "source_id": 78
+            },
+            {
+              "ref": "2",
+              "id": "1pd-4-n2",
+              "offset": 80,
+              "original_marker": "v",
+              "source_id": 79
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "para não viver o resto da sua vida segundo as paixões humanas, mas de acordo com a vontade de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Tendo como horizonte a paixão de Cristo (v.1) e a sua última vinda, considerada iminente (vv.5s), exorta-se os cristãos a romper com o seu modo antigo de proceder. Estes, que eram anteriormente pagãos, são incentivados a dar-se conta da transformação operada nas suas vidas, para fazerem sobressair a caridade (vv.8s) e o serviço aos outros, mediante o exercício dos carismas recebidos (vv.10s)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "1pd-4-n3",
+              "offset": 98,
+              "original_marker": "w",
+              "source_id": 80
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Com efeito, bem basta o tempo passado, em que vos compor - táveis de acordo com os critérios dos pagãos, vivendo na devassidão, nas paixões, na embriaguez, em orgias, em festins desregrados e na nefasta idolatria.",
-          "note_refs": []
+          "text": "Com efeito, bem basta o tempo passado, em que vos comportáveis de acordo com os critérios dos pagãos, vivendo na devassidão, nas paixões, na embriaguez, em orgias, em festins desregrados e na nefasta idolatria.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: pois [é] suficiente o tempo passado a realizar a vontade/plano dos pagãos."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1pd-4-n4",
+              "offset": 100,
+              "original_marker": "a",
+              "source_id": 82
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "Por isso, eles estranham que agora não os acompanheis nessa torrente de devassidão e calu - niam-vos.",
+          "text": "Por isso, eles estranham que agora não os acompanheis nessa torrente de devassidão e caluniam-vos.",
           "note_refs": []
         },
         {
@@ -407,17 +1492,68 @@
         {
           "verse": 6,
           "text": "Foi para isto que o evangelho também foi anunciado aos mortos: para que, embora tenham sido julgados na sua vida terrena segundo critérios humanos, vivam no Espírito, de acordo com os critérios de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Lit.: na carne segundo os homens. Sobre a expressão, cf. 1Cor 1,26 nota.",
+            "6": "Lit.: segundo Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "1pd-4-n5",
+              "offset": 146,
+              "original_marker": "b",
+              "source_id": 83
+            },
+            {
+              "ref": "6",
+              "id": "1pd-4-n6",
+              "offset": 201,
+              "original_marker": "c",
+              "source_id": 84
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "O fim de todas as coisas está próximo. Sede, portanto, sensatos e sóbrios, para vos poderdes dedicar à oração.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: para as orações."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "1pd-4-n7",
+              "offset": 109,
+              "original_marker": "d",
+              "source_id": 85
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "E, acima de tudo, cultivai um intenso amor uns pelos outros, pois o amor cobre uma multidão de pecados.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: tendo."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "1pd-4-n8",
+              "offset": 26,
+              "original_marker": "e",
+              "source_id": 86
+            }
+          ]
         },
         {
           "verse": 9,
@@ -431,33 +1567,126 @@
         },
         {
           "verse": 11,
-          "text": "Se alguém fala, que diga palavras de Deus; se alguém exerce um minis - tério, que o exerça com a força que Deus lhe concede, para que em tudo seja Deus glorificado, por Jesus Cristo, a quem é devida a glória e o poder pelos séculos dos séculos! Ámen.",
-          "note_refs": []
+          "text": "Se alguém fala, que diga palavras de Deus; se alguém exerce um ministério, que o exerça com a força que Deus lhe concede, para que em tudo seja Deus glorificado, por Jesus Cristo, a quem é devida a glória e o poder pelos séculos dos séculos! Ámen.",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: tal como."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "1pd-4-n9",
+              "offset": 24,
+              "original_marker": "f",
+              "source_id": 87
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Amados meus, não fiqueis surpreendidos pelo fogo que lavra entre vós para vos pôr à prova, como se o que vos está a acontecer fosse algo, de facto, surpreendente.",
-          "note_refs": []
+          "note_refs": [
+            "10",
+            "11"
+          ],
+          "notes": {
+            "10": "Meus é acrescento da tradução. Nos vv.12-19 desenvolve-se a ideia de que participar nos sofrimentos de Cristo é motivo de alegria e de felicidade (cf. Mt 5,11s; Tg 1,2ss) e terá como recompensa a glória junto de Cristo ressuscitado (1,11; cf. Rm 8,17; 2Cor 4,17; Flp 3,11).",
+            "11": "Lit.: para provação."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "1pd-4-n10",
+              "offset": 11,
+              "original_marker": "g",
+              "source_id": 88
+            },
+            {
+              "ref": "11",
+              "id": "1pd-4-n11",
+              "offset": 89,
+              "original_marker": "h",
+              "source_id": 89
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Pelo contrário, alegrai-vos, na medida em que estais a participar nos sofrimentos de Cristo, a fim de que também possais alegrar-vos e exultar quando se revelar a sua glória.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: na revelação da sua glória."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "1pd-4-n12",
+              "offset": 173,
+              "original_marker": "i",
+              "source_id": 90
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Felizes de vós, se sois insultados por causa do nome de Cristo, pois o Espírito da glória, o Espírito de Deus, repousa sobre vós.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Alguns mss. leem o Espírito da glória e do poder de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "1pd-4-n13",
+              "offset": 109,
+              "original_marker": "j",
+              "source_id": 91
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Assim, pois, que jamais aconteça que a razão do sofrimento de alguém resida no facto de ser um assassino, um ladrão, um malfeitor ou um intriguista;",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Lit.: não [aconteça que] algum de vós sofra como."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "1pd-4-n14",
+              "offset": 91,
+              "original_marker": "k",
+              "source_id": 92
+            }
+          ]
         },
         {
           "verse": 16,
-          "text": "mas, se é por ser cristão, não se enver - gonhe, antes dê glória a Deus por nela participar.",
-          "note_refs": []
+          "text": "mas, se é por ser cristão, não se envergonhe, antes dê glória a Deus por nela participar.",
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Lit.: nesta parte."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "1pd-4-n15",
+              "offset": 88,
+              "original_marker": "l",
+              "source_id": 93
+            }
+          ]
         },
         {
           "verse": 17,
@@ -467,11 +1696,37 @@
         {
           "verse": 18,
           "text": "Se o justo dificilmente se salva, que será do ímpio e do pecador?",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Pr 11,31."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "1pd-4-n16",
+              "offset": 65,
+              "original_marker": "m",
+              "source_id": 94
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "Por isso, aqueles que estão a sofrer segundo a vontade de Deus confiem as suas vidas ao fiel Criador, continuando a fazer o bem.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A paixão de Cristo e a rutura com o pecado",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Alegria no meio da provação",
           "note_refs": []
         }
       ]
@@ -487,27 +1742,110 @@
         {
           "verse": 2,
           "text": "apascentai o rebanho de Deus, que vos foi confiado, velando por ele, não constrangidos, mas de boa vontade, tal como Deus quer; não por um vergonhoso interesse, mas por dedicação;",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2",
+            "3"
+          ],
+          "notes": {
+            "1": "Lit.: apascentai o rebanho de Deus que [está] entre vós.",
+            "2": "Lit.: segundo Deus.",
+            "3": "A advertência deriva do facto de alguns pastores serem mantidos financeiramente pelas comunidades (At 20,33s; 1Cor 9,7-14; 2Cor 12,13-18; 1Tm 5,17s; Mt 10,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1pd-5-n1",
+              "offset": 50,
+              "original_marker": "n",
+              "source_id": 95
+            },
+            {
+              "ref": "2",
+              "id": "1pd-5-n2",
+              "offset": 126,
+              "original_marker": "o",
+              "source_id": 96
+            },
+            {
+              "ref": "3",
+              "id": "1pd-5-n3",
+              "offset": 159,
+              "original_marker": "p",
+              "source_id": 97
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "não pretendendo dominar aqueles que vos foram confiados, mas tornando-vos modelos do rebanho.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O grego utiliza uma expressão que parece fazer referência a uma herança (klêros) que só a Deus pertence."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1pd-5-n4",
+              "offset": 55,
+              "original_marker": "q",
+              "source_id": 98
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "E, quando aparecer o supremo Pastor, rece - bereis a coroa imperecível da glória.",
+          "text": "E, quando aparecer o supremo Pastor, recebereis a coroa imperecível da glória.",
           "note_refs": []
         },
         {
           "verse": 5,
           "text": "De igual modo, vós, jovens, sede dóceis aos presbíteros. Revesti-vos todos de humildade uns para com os outros, porque Deus opõe-se aos soberbos, mas concede a graça aos humildes.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "A mesma palavra do v.1 que, tal como ali, parece referir-se aos responsáveis da comunidade, e não tanto aos mais velhos (outra hipótese de tradução).",
+            "6": "Pr 3,34."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "1pd-5-n5",
+              "offset": 55,
+              "original_marker": "r",
+              "source_id": 99
+            },
+            {
+              "ref": "6",
+              "id": "1pd-5-n6",
+              "offset": 178,
+              "original_marker": "s",
+              "source_id": 100
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Humilhai-vos, portanto, sob a poderosa mão de Deus, para que Ele vos exalte no tempo oportuno.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Alguns mss. acrescentam da visita."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "1pd-5-n7",
+              "offset": 93,
+              "original_marker": "t",
+              "source_id": 101
+            }
+          ]
         },
         {
           "verse": 7,
@@ -517,36 +1855,159 @@
         {
           "verse": 8,
           "text": "Sede sóbrios e vigiai. O vosso inimigo, o Diabo, anda à vossa volta, como um leão que ruge, procurando a quem devorar;",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Sl 22,14."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "1pd-5-n8",
+              "offset": 90,
+              "original_marker": "u",
+              "source_id": 102
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "resisti-lhe, firmes na fé, sabendo que os mesmos sofrimentos são suportados pelos vossos irmãos dispersos pelo mundo.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Dispersos é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "1pd-5-n9",
+              "offset": 105,
+              "original_marker": "v",
+              "source_id": 103
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "O Deus de toda a graça, que vos chamou para a sua eterna glória em Cristo, depois de terdes sofrido por um pouco, vos há de restabelecer, tornar firmes, forta - lecer e dar sólidos alicerces.",
+          "text": "O Deus de toda a graça, que vos chamou para a sua eterna glória em Cristo, depois de terdes sofrido por um pouco, vos há de restabelecer, tornar firmes, fortalecer e dar sólidos alicerces.",
           "note_refs": []
         },
         {
           "verse": 11,
           "text": "A Ele o poder pelos séculos! Ámen.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Muitos mss. acrescentam e a glória."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "1pd-5-n10",
+              "offset": 13,
+              "original_marker": "w",
+              "source_id": 104
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Foi por meio de Silvano, a quem considero um irmão fiel, que vos escrevi estas breves palavras, para vos exortar e dar testemunho de que é esta a verdadeira graça de Deus. Permanecei firmes nela.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "A conclusão resume o conteúdo e a finalidade da carta: encorajar os cristãos a manterem-se firmes na fé no meio das tribulações causadas pelo ambiente hostil."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "1pd-5-n11",
+              "offset": 94,
+              "original_marker": "x",
+              "source_id": 105
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Saúda-vos a Igreja, eleita como vós, que está na Babilónia, e também Marcos, meu filho.",
-          "note_refs": []
+          "note_refs": [
+            "12",
+            "13",
+            "14"
+          ],
+          "notes": {
+            "12": "Igreja é acrescento da tradução.",
+            "13": "Referência, por analogia, à Igreja de Roma, visto serem ambas capitais de impérios idólatras, que destruíram o templo de Jerusalém (cf. Ap 14,8; 16,19; 17,5; 2Br 11,1s; 67,7; 2Esd 3,12.28; Or. Sib. 5,143.159).",
+            "14": "Segundo a tradição (S. Ireneu), tratar-se-ia de João Marcos de Jerusalém, em cuja casa Pedro se refugiou depois da sua libertação (At 12,12) e que acompanhou Paulo e Barnabé no seu regresso a Antioquia (At 12,25) e, posteriormente, em missão. Eusébio de Cesareia, citando Pápias (cf. Hist.Eccl 3,39,15), associa-o a Pedro, afirmando ter sido ele a escrever o evangelho que lhe é atribuído, de acordo com o que ouviu do apóstolo."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "1pd-5-n12",
+              "offset": 18,
+              "original_marker": "a",
+              "source_id": 106
+            },
+            {
+              "ref": "13",
+              "id": "1pd-5-n13",
+              "offset": 58,
+              "original_marker": "b",
+              "source_id": 107
+            },
+            {
+              "ref": "14",
+              "id": "1pd-5-n14",
+              "offset": 86,
+              "original_marker": "c",
+              "source_id": 108
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Saudai-vos uns aos outros com o beijo do amor fraterno. Que a paz esteja com todos vós que estais em Cristo.",
+          "note_refs": [
+            "15",
+            "16"
+          ],
+          "notes": {
+            "15": "Vários mss. leem com um beijo santo (cf. Rm 16,16; 1Cor 16,20).",
+            "16": "Alguns mss. acrescentam Jesus, e outros ámen."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "1pd-5-n15",
+              "offset": 54,
+              "original_marker": "d",
+              "source_id": 109
+            },
+            {
+              "ref": "16",
+              "id": "1pd-5-n16",
+              "offset": 107,
+              "original_marker": "e",
+              "source_id": 110
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Exortação aos responsáveis da comunidade",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Saudações finais",
           "note_refs": []
         }
       ]

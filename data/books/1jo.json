@@ -1,5 +1,73 @@
 {
+  "schema_version": 2,
   "book": "1 João",
+  "book_id": "1jo",
+  "source": {
+    "format": "docx",
+    "file": "69_JoCartas.docx",
+    "title": "Cartas de São João",
+    "segment": "PRIMEIRA CARTA DE SÃO JOÃO"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Autoria",
+        "paragraphs": [
+          "O cânone da Sagrada Escritura, seguindo a tradição, para além do evangelho (e do Apocalipse), atribui ao apóstolo João um conjunto de três cartas. A primeira carta não explicita o autor que, em 1,1-4, se refere a si próprio com um nós e utiliza uma linguagem e um estilo muito semelhantes aos do prólogo do evangelho (cf. Jo 1, 1-18). Também por isso, a tradição identificou-o com o Discípulo Amado, o autor do Quarto Evangelho (cf. Jo 13,23 nota) e fundador das comunidades a quem se destinam estas três cartas, e que, segundo a mesma tradição, seria o apóstolo João, o filho de Zebedeu (cf. a questão da autoria na introdução a Jo). Na segunda e terceira cartas, porém, o autor identifica-se como o presbítero (cf. 2Jo 1; 3Jo 1), que a tradição com maior peso sempre considerou tratar-se do mesmo autor do evangelho e da primeira carta. São, pois, escritos que, mesmo não tendo sido redigidos pelo apóstolo, remetem implicitamente à sua autoridade e autoria, pertencendo à mesma escola teológica e reproduzindo o seu pensamento, como é notório nas grandes semelhanças, não só no vocabulário e na doutrina, como também nas expressões e no estilo simples e linear."
+        ]
+      },
+      {
+        "title": "Datação",
+        "paragraphs": [
+          "As cartas terão sido escritas alguns anos depois do Quarto Evangelho (Jo), para dar resposta a situações vividas pela(s) comunidade(s) de tradição joanina. Assim, por exemplo, a primeira carta rebate a cristologia deficitária de alguns membros da comunidade que, fazendo uma errada interpretação da alta cristologia do evangelho de João – que sublinha de forma particular a divindade de Jesus –, acabaram por negar a verdade da encarnação e, portanto, da sua verdadeira humanidade. O facto de terem sido escritas depois do evangelho (redigido possivelmente em finais do séc. I) e de fazerem eco destas tendências gnosticizantes remete a redação das cartas para finais do séc. I ou princípios do séc. II."
+        ]
+      },
+      {
+        "title": "Destinatários e finalidade",
+        "paragraphs": [
+          "A primeira de carta, que não nos dá a conhecer o seu destinatário, terá sido enviada a várias comunidades da Ásia Menor fundadas pelo apóstolo João, com a finalidade de exortar os seus membros a manterem-se fiéis à verdade do testemunho que receberam e, consequentemente, unidos no amor recíproco. O escrito parece ter sido motivado pela já referida interpretação cristológica deturpada de alguns membros da comunidade. Estes, a quem o autor chama de anticristos e que parecem estar já separados da comunidade (cf. 1Jo 2,18s.22s), continuam a tentar seduzir os restantes com a sua doutrina, a qual: 1) negava que o Jesus humano fosse o Cristo celeste (1Jo 2,22s), no sentido de não aceitar que o Filho de Deus tivesse encarnado",
+          "e morrido (cf. 1Jo 4,1-3); 2) defendia que apenas os que assim pensavam estavam em comunhão com Deus (1Jo 1,6; 2,6) e o conheciam (1Jo 2,4), o que tinha como consequência o desprezo pelos restantes membros da comunidade, denúncia presente nas afirmações do autor sobre os mentirosos que dizem amar a Deus quando não amam o irmão (1Jo 4,20s); 3) afirmava que apenas eles eram mestres e profetas guiados diretamente pelo Espírito (cf. 1Jo 4,1-6).",
+          "Já a segunda carta é dirigida à Senhora eleita e aos seus filhos (2Jo 1), ou seja, a uma comunidade (ou conjunto de comunidades) da Ásia Menor, de tradição joanina, com o objetivo de a(s) exortar a manter(em)-se fiel(éis) à verdade, no cumprimento do mandamento do amor e resistindo aos que negavam a encarnação do Filho de Deus.",
+          "Por fim, a terceira carta é endereçada pelo presbítero a Gaio, pedindo-lhe que acolha os missionários por ele enviados e que lhes dê provisões, ao mesmo tempo que se queixa de Diótrefes – provavelmente o responsável de uma comunidade vizinha – que não só recusou recebê-los, como procurava minar na comunidade a autoridade do presbítero (cf. 3Jo 9s). Entre esses missionários estaria Demétrio, que é especialmente recomendado a Gaio pelo seu bom testemunho (cf. 3Jo 12)."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "A primeira carta tem um estilo exortativo, doutrinal e homilético; a segunda e a terceira, embora sejam mais bilhetes que propriamente cartas, têm um estilo epistolar e assemelham-se pela sua pequena dimensão e estrutura."
+        ]
+      },
+      {
+        "title": "Estrutura da 1Jo",
+        "paragraphs": [
+          "Prólogo (1,1-4)",
+          "I. Caminhar na luz (1,5-2,27)",
+          "II. Viver como filhos de Deus (2,28-4,6)",
+          "III. Acreditar e amar (4,7-5,13)",
+          "Conclusão (5,14-21)"
+        ]
+      },
+      {
+        "title": "Estrutura da 2Jo",
+        "paragraphs": [
+          "Saudação (1-3)",
+          "O comportamento correto (4-6)",
+          "A autêntica profissão de fé e o comportamento com os hereges (7-11)",
+          "Conclusão (12s)"
+        ]
+      },
+      {
+        "title": "Estrutura da 3Jo",
+        "paragraphs": [
+          "Saudação (1-4)",
+          "Hospitalidade de Gaio (5-8)",
+          "Recusa de Diótrefes (9-11)",
+          "Boa conduta de Demétrio e conclusão (12-15)"
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -12,7 +80,21 @@
         {
           "verse": 2,
           "text": "é isso que vos anunciamos. Pois a vida manifestou-se; nós vimo-la e disso damos testemunho: anunciamos-vos a vida eterna, que estava junto do Pai e que a nós se manifestou.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "É o que vos anunciamos é acrescento da tradução, como antecipação da afirmação do v.3."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "1jo-1-n2",
+              "offset": 25,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 3,
@@ -21,7 +103,7 @@
         },
         {
           "verse": 4,
-          "text": "Escrevemos estas coisas para que a nossa alegria seja completa. (1,5-2,2)",
+          "text": "Escrevemos estas coisas para que a nossa alegria seja completa.",
           "note_refs": []
         },
         {
@@ -32,7 +114,21 @@
         {
           "verse": 6,
           "text": "Se dissermos que estamos em comunhão com Ele, mas caminhamos nas trevas, estamos a mentir e não praticamos a verdade.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Esta é a primeira de várias afirmações que parecem reproduzir doutrinas heterodoxas de tendências gnósticas de alguns dissidentes da comunidade, que, ao sublinhar de tal forma a divindade de Jesus, diluíam – e pareciam negar – a sua verdadeira encarnação (4,2; cf. 2,22). Assim, estavam convencidos de que apenas eles estavam em comunhão com Deus (1,6), não tinham pecado nem o cometiam (1,8-10), conheciam a Deus (2,4), estavam nele (2,6) e na luz (2,9), e o amavam (4,20). Repetindo as afirmações dos cismáticos, o autor rebate-as, sobretudo pela apresentação da doutrina, tal como foi transmitida por aquele que foi testemunha ocular e apóstolo (cf. 1,1-4 nota)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "1jo-1-n3",
+              "offset": 116,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 7,
@@ -54,6 +150,37 @@
           "text": "Se dissermos que não pecámos, fazemos dele um mentiroso, e a sua palavra não está em nós.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Prólogo (1,1-4)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O prólogo assemelha-se muito ao do Quarto Evangelho (Jo 1,1-18), o que parece confirmar a opinião quase unânime de que todos estes escritos (a que muitos acrescentam o Ap) tiveram origem nas mesmas comunidades, que se remetem, portanto, à autoridade do Discípulo Amado, que as teria fundado, e que, segundo a tradição, seria o apóstolo João, filho de Zebedeu. A comunidade guarda fielmente aquilo que lhe foi transmitido por tal testemunha ocular da vida e da mensagem de Jesus, a Palavra do Pai, a ponto de o autor usar um nós para se expressar. A fidelidade ao testemunho recebido é condição para manter a comunhão com Deus (e, consequentemente, com a comunidade) e participar na sua vida."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1jo-1-n1",
+              "offset": 15,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
+        },
+        {
+          "before_verse": 5,
+          "text": "CAMINHAR NA LUZ (1,5-2,27)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "Rutura com o pecado, caminhar na luz (1,5-2,2)",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -62,12 +189,40 @@
         {
           "verse": 1,
           "text": "Meus filhos, escrevo-vos estas coisas para que não pequeis. Mas, se alguém pecar, temos junto do Pai um intercessor: Jesus Cristo, o justo.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Em grego Paráclito, que o Quarto Evangelho aplica ao Espírito Santo (Jo 14,16.26; 15,26; 16,7)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1jo-2-n1",
+              "offset": 115,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "É Ele a vítima O A A de expiação pelos nossos pecados, e não somente pelos nossos, mas também pelos do mundo inteiro. (2,3-11)",
-          "note_refs": []
+          "text": "É Ele a vítima de expiação pelos nossos pecados, e não somente pelos nossos, mas também pelos do mundo inteiro.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Jesus é o intercessor dos homens junto do Pai, pois foi por eles que ofereceu a sua vida, em expiação pelo pecado do mundo (cf. Jo 1,29), que impossibilitava a relação com Deus e, portanto, de participar na sua vida, na salvação. Mais do que um sentido vicário, o termo expiação tem, por isso, um enquadramento na teologia da reconciliação (cf. Nm 5,8; Ez 44,27; 2Mac 3,33)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "1jo-2-n3",
+              "offset": 110,
+              "original_marker": "a",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 3,
@@ -81,7 +236,7 @@
         },
         {
           "verse": 5,
-          "text": "Mas quem guarda a sua palavra, é nesse que verdadeiramente é nisto que sabemos que estamos nele.",
+          "text": "Mas quem guarda a sua palavra, é nesse que verdadeiramente o amor de Deus é perfeito – é nisto que sabemos que estamos nele.",
           "note_refs": []
         },
         {
@@ -92,12 +247,49 @@
         {
           "verse": 7,
           "text": "Amados meus, não vos escrevo um mandamento novo, mas um mandamento antigo, que tendes convosco desde o princípio. Esse mandamento antigo é a Palavra que ouvistes.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Meus é acrescento da tradução, assim como em todas as ocorrências desta expressão (3,2.21; 4,1.7.11).",
+            "5": "Convosco é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1jo-2-n4",
+              "offset": 11,
+              "original_marker": "c",
+              "source_id": 7
+            },
+            {
+              "ref": "5",
+              "id": "1jo-2-n5",
+              "offset": 94,
+              "original_marker": "d",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "E, no entanto, é um mandamento novo que vos escrevo o qual é verdadeiro nele e em vós –, porque as trevas estão a dissipar-se e já brilha a luz verdadeira.",
-          "note_refs": []
+          "text": "E, no entanto, é um mandamento novo que vos escrevo – o qual é verdadeiro nele e em vós –, porque as trevas estão a dissipar-se e já brilha a luz verdadeira.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O mandamento de Jesus (o amor fraterno) não é novidade no que diz respeito à sua explicitação (cf. Lv 19,18), mas quanto ao fundamento: o amor de Cristo, manifestado eloquentemente na cruz (verdadeiro nele e em vós – v.8). Nesse sentido, o autor sublinha a vitória da luz sobre as trevas, cujo início se manifesta na nova ordem salvífica, presente na comunidade daqueles que caminham na luz (cf. Jo 1,5.9)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "1jo-2-n6",
+              "offset": 156,
+              "original_marker": "e",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 9,
@@ -111,23 +303,83 @@
         },
         {
           "verse": 11,
-          "text": "Mas quem odeia o seu irmão está nas trevas, caminha nas trevas e não sabe para onde vai, porque as trevas lhe cegaram os olhos. (2,12-27)",
+          "text": "Mas quem odeia o seu irmão está nas trevas, caminha nas trevas e não sabe para onde vai, porque as trevas lhe cegaram os olhos.",
           "note_refs": []
         },
         {
           "verse": 12,
           "text": "Escrevo-vos, meus filhos, porque pelo nome de Jesus vos foram perdoados os pecados.",
-          "note_refs": []
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Meus é acrescento da tradução, assim como em todas as ocorrências desta expressão (2,28; 3,7.18; 4,4; 5,21).",
+            "8": "Lit.: por meio do nome dele."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "1jo-2-n7",
+              "offset": 17,
+              "original_marker": "f",
+              "source_id": 10
+            },
+            {
+              "ref": "8",
+              "id": "1jo-2-n8",
+              "offset": 51,
+              "original_marker": "g",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 13,
-          "text": "Escrevo-vos, pais, porque conhecestes Aquele que existe desde o princí - pio. Escrevo-vos, jovens, porque vencestes o Maligno.",
-          "note_refs": []
+          "text": "Escrevo-vos, pais, porque conhecestes Aquele que existe desde o princípio. Escrevo-vos, jovens, porque vencestes o Maligno.",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "No sentido em que vivem na verdade de Jesus, que venceu o mundo e o príncipe deste mundo (Jo 12,31; 16,11.33)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "1jo-2-n9",
+              "offset": 122,
+              "original_marker": "h",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Escrevi-vos, meus filhos, porque conhecestes o Pai. Escrevi-vos, pais, porque conhecestes Aquele que existe desde o princípio. Escrevi-vos, jovens, porque sois fortes, a palavra de Deus permanece em vós e vencestes o Maligno.",
-          "note_refs": []
+          "note_refs": [
+            "10",
+            "11"
+          ],
+          "notes": {
+            "10": "Lit.: crianças, tal como no v.18.",
+            "11": "A salvação experimentada na primeira pessoa pelos membros da comunidade é a grande manifestação da verdade do testemunho por eles recebido e, por isso, é a razão fundamental para não acreditar em doutrinas desviantes que a diluem e destroem."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "1jo-2-n10",
+              "offset": 24,
+              "original_marker": "i",
+              "source_id": 13
+            },
+            {
+              "ref": "11",
+              "id": "1jo-2-n11",
+              "offset": 224,
+              "original_marker": "j",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 15,
@@ -136,8 +388,22 @@
         },
         {
           "verse": 16,
-          "text": "porque tudo o que há no mundo os desejos da carne, os desejos dos olhos e a arrogância com que se vive não vem do Pai, mas do mundo.",
-          "note_refs": []
+          "text": "porque tudo o que há no mundo – os desejos da carne, os desejos dos olhos e a arrogância com que se vive – não vem do Pai, mas do mundo.",
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: a soberba da vida."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "1jo-2-n12",
+              "offset": 104,
+              "original_marker": "k",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 17,
@@ -147,12 +413,40 @@
         {
           "verse": 18,
           "text": "Meus filhos, esta é a última hora. Ouvistes dizer que havia de vir um anticristo; pois bem, surgiram agora muitos anticristos, pelo que sabemos que esta é a última hora.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Esta é acrescento da tradução, tal como no final do v."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "1jo-2-n13",
+              "offset": 17,
+              "original_marker": "l",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "Eles saíram de entre nós, mas não eram dos nossos, pois se fossem dos nossos, teriam permanecido connosco. Mas isto aconteceu para que se tornasse manifesto que nem todos são dos nossos.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Isto aconteceu é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "1jo-2-n14",
+              "offset": 125,
+              "original_marker": "m",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 20,
@@ -172,7 +466,21 @@
         {
           "verse": 23,
           "text": "Todo aquele que nega o Filho, nem o Pai tem consigo; aquele que confessa o Filho tem consigo também o Pai.",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Consigo é acrescento da tradução, nas duas ocorrências no v."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "1jo-2-n15",
+              "offset": 51,
+              "original_marker": "n",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 24,
@@ -191,17 +499,81 @@
         },
         {
           "verse": 27,
-          "text": "E quanto a vós, a unção que recebestes de Cristo permanece em vós e não tendes necessidade de que alguém vos ensine. Pelo contrário, visto que é a sua unção que vos ensina todas as coisas e ela é verdadeira e não mentirosa permanecei nele, conforme ela vos ensinou. (2,28-3,10)",
-          "note_refs": []
+          "text": "E quanto a vós, a unção que recebestes de Cristo permanece em vós e não tendes necessidade de que alguém vos ensine. Pelo contrário, visto que é a sua unção que vos ensina todas as coisas – e ela é verdadeira e não mentirosa – permanecei nele, conforme ela vos ensinou.",
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Lit.: dele."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "1jo-2-n16",
+              "offset": 48,
+              "original_marker": "o",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 28,
           "text": "E agora, meus filhos, permanecei em Cristo, para que possamos ter plena confiança quando Ele se manifestar e não fiquemos envergonhados, longe dele, por ocasião da sua vinda.",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "Lit.: nele."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "1jo-2-n17",
+              "offset": 42,
+              "original_marker": "p",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 29,
           "text": "Se sabeis que Ele é justo, reconhecereis também que foi dele que nasceu todo aquele que pratica a justiça.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 3,
+          "text": "Observar os mandamentos: o amor fraterno (2,3-11)",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Contra os dissidentes que pretendiam ter um conhecimento privilegiado de Deus, em detrimento dos outros membros da comunidade, que desconsideravam, o autor sublinha que a manifestação de que verdadeiramente se conhece Deus é a observância dos mandamentos, nomeadamente o do amor ao irmão."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "1jo-2-n2",
+              "offset": 49,
+              "original_marker": "b",
+              "source_id": 6
+            }
+          ]
+        },
+        {
+          "before_verse": 12,
+          "text": "Rutura com o mundo, fé autêntica (2,12-27)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 28,
+          "text": "VIVER COMO FILHOS DE DEUS (2,28-4,6)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 28,
+          "text": "Rutura com o pecado, praticar a justiça (2,28-3,10)",
           "note_refs": []
         }
       ]
@@ -227,7 +599,21 @@
         {
           "verse": 4,
           "text": "Todo aquele que comete o pecado, comete também a iniquidade, pois o pecado é, de facto, a iniquidade.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O termo grego anomía, que no corpus constituído por Jo e 1-3Jo apenas ocorre aqui, significa lit. ilegalidade ou sem lei; aqui, porém, é traduzido por iniquidade, na medida em que o autor se refere a todo o comportamento que se opõe a Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1jo-3-n1",
+              "offset": 100,
+              "original_marker": "a",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 5,
@@ -247,16 +633,53 @@
         {
           "verse": 8,
           "text": "quem comete o pecado é do Diabo, porque o Diabo é pecador desde o princípio. Foi para isto que o Filho de Deus se manifestou: para destruir as obras do Diabo.",
-          "note_refs": []
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "Lit.: peca.",
+            "3": "Justos e pecadores distinguem-se pelo seu agir, e este corresponde a um modelo: aqueles que praticam a justiça (os que são fiéis à doutrina recebida e à comunhão fraterna) tornam-se semelhantes a Jesus; aqueles que praticam o pecado (os dissidentes) repetem apenas aquilo que o Diabo fez desde sempre."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "1jo-3-n2",
+              "offset": 57,
+              "original_marker": "b",
+              "source_id": 22
+            },
+            {
+              "ref": "3",
+              "id": "1jo-3-n3",
+              "offset": 157,
+              "original_marker": "c",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Todo aquele que nasceu de Deus não comete pecado, porque nele permanece uma semente divina; e não pode pecar, porque nasceu de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: uma semente dele nele permanece."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1jo-3-n4",
+              "offset": 90,
+              "original_marker": "d",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "É nisto que se manifesta quem são os filhos de Deus e quem são os filhos do Diabo: todo aquele que não pratica a justiça não é de Deus, nem o é aquele que não ama o seu irmão. (3,11-24)",
+          "text": "É nisto que se manifesta quem são os filhos de Deus e quem são os filhos do Diabo: todo aquele que não pratica a justiça não é de Deus, nem o é aquele que não ama o seu irmão.",
           "note_refs": []
         },
         {
@@ -282,7 +705,30 @@
         {
           "verse": 15,
           "text": "Todo aquele que odeia o seu irmão é homicida, e vós sabeis que todo aquele que é homicida não continua a ter em si a vida eterna.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "O termo homicida evoca Jo 8,44, a outra única passagem no NT onde ocorre, designando aí o Diabo. Aqui refere-se aos que, como Caim, matam os seus irmãos, mais concretamente a vida divina (e comunitária) que neles existe. Tendo em consideração Jo 8, o autor parece considerá-los instrumentos diabólicos.",
+            "6": "Lit.: não tem a vida eterna nele permanecendo."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "1jo-3-n5",
+              "offset": 44,
+              "original_marker": "e",
+              "source_id": 25
+            },
+            {
+              "ref": "6",
+              "id": "1jo-3-n6",
+              "offset": 128,
+              "original_marker": "f",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 16,
@@ -292,7 +738,30 @@
         {
           "verse": 17,
           "text": "Ora, se alguém possui meios para viver neste mundo e vê o seu irmão passar por necessidades e, no entanto, lhe fecha o seu coração, como pode permanecer nele o amor de Deus?",
-          "note_refs": []
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Lit.: a vida do mundo e, por extensão de sentido, os bens deste mundo necessários para viver. O texto marca uma ligação entre o amor manifestado por Jesus na sua vida (zōḗ) doada e o amor que os seus discípulos devem concretizar na partilha daquilo que é necessário para a vida (bíos) neste mundo.",
+            "8": "Lit.: as suas entranhas."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "1jo-3-n7",
+              "offset": 50,
+              "original_marker": "g",
+              "source_id": 27
+            },
+            {
+              "ref": "8",
+              "id": "1jo-3-n8",
+              "offset": 130,
+              "original_marker": "h",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 18,
@@ -317,7 +786,21 @@
         {
           "verse": 22,
           "text": "de que aquilo que lhe pedirmos, dele receberemos, porque guardamos os seus mandamentos e fazemos o que lhe agrada.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: fazemos as coisas agradáveis diante dele."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "1jo-3-n9",
+              "offset": 113,
+              "original_marker": "i",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 23,
@@ -327,6 +810,27 @@
         {
           "verse": 24,
           "text": "Quem guarda os seus mandamentos permanece em Deus, e Deus permanece nele. É nisto que sabemos que Ele permanece em nós: pelo Espírito que nos concedeu.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: nele permanece e Ele nele."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "1jo-3-n10",
+              "offset": 72,
+              "original_marker": "j",
+              "source_id": 30
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 11,
+          "text": "Observar os mandamentos: o amor fraterno (3,11-24)",
           "note_refs": []
         }
       ]
@@ -337,7 +841,30 @@
         {
           "verse": 1,
           "text": "Amados meus, não acrediteis em todos os espíritos, mas examinai-os para ver se provêm de Deus, porque no mundo surgiram muitos falsos profetas.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Lit.: mas examinai os espíritos.",
+            "2": "Este v. resume a admoestação feita aos membros da comunidade até ao v.6, para que, no conflito com os hereges, se mantenham fiéis à verdade recebida, o que necessariamente implica um discernimento dos espíritos."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1jo-4-n1",
+              "offset": 66,
+              "original_marker": "k",
+              "source_id": 31
+            },
+            {
+              "ref": "2",
+              "id": "1jo-4-n2",
+              "offset": 142,
+              "original_marker": "l",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 2,
@@ -347,21 +874,63 @@
         {
           "verse": 3,
           "text": "e todo o espírito que não confessa Jesus não é de Deus. Esse é o espírito do anticristo, aquele que ouvistes dizer que estava para vir; pois bem, agora já está no mundo.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Espírito é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "1jo-4-n3",
+              "offset": 73,
+              "original_marker": "m",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "Vós, meus filhos, sois de Deus e já os vencestes, porque Aquele que está em vós é maior do que aquele que está no mundo.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Ou seja, os falsos profetas do v.1."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1jo-4-n4",
+              "offset": 38,
+              "original_marker": "n",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Eles são do mundo; por isso falam a linguagem do mundo, e o mundo escuta-os.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: falam a partir do mundo."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "1jo-4-n5",
+              "offset": 54,
+              "original_marker": "o",
+              "source_id": 35
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "Nós somos de Deus: quem conhece Deus escuta-nos; quem não é de Deus não nos escuta. É com base nisto que reconhecemos o espírito da verdade e o espírito do erro. (4,7-21)",
+          "text": "Nós somos de Deus: quem conhece Deus escuta-nos; quem não é de Deus não nos escuta. É com base nisto que reconhecemos o espírito da verdade e o espírito do erro.",
           "note_refs": []
         },
         {
@@ -372,12 +941,40 @@
         {
           "verse": 8,
           "text": "Quem não ama não conheceu Deus, porque Deus é amor.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "A declaração Deus é amor pretende expressar não uma qualidade, mas a própria natureza divina e, tal como a afirmação Deus é luz (1,5), não procura expressar apenas uma verdade metafísica, mas, sobretudo, a relação de Deus com os homens, conforme será descrito nos vv. seguintes."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "1jo-4-n6",
+              "offset": 50,
+              "original_marker": "a",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Nisto se manifestou, entre nós, o amor de Deus: Deus enviou ao mundo o seu Filho Unigénito, para que por meio dele pudéssemos ter a vida.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: vivêssemos."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "1jo-4-n7",
+              "offset": 136,
+              "original_marker": "b",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 10,
@@ -417,12 +1014,40 @@
         {
           "verse": 17,
           "text": "É nisto que o amor entre nós é perfeito: em estarmos confiantes no dia do juízo, pelo facto de estarmos no mundo do mesmo modo com que Ele esteve.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: que tenhamos confiança no dia do juízo, porque tal como Ele é, também nós somos neste mundo. Ou seja, os cristãos estão no mundo sujeitos às mesmas contingências e tribulações por que Jesus passou, mas tal como Ele serão vencedores, pelo que, sabendo-se amados por Deus e fiéis ao seu amor, é com confiança e sem temor que aguardam o dia do juízo (cf. Jo 16,33;12,31)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "1jo-4-n8",
+              "offset": 145,
+              "original_marker": "c",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "No amor não há temor. Pelo contrário, o amor perfeito expulsa o temor, porque o temor supõe um castigo; quem teme não é perfeito no amor.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "O crente vive a sua relação com Deus com confiança e, a partir desta, enfrenta o mundo e o futuro com coragem (Jo 16,33; 17,14ss)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "1jo-4-n9",
+              "offset": 136,
+              "original_marker": "d",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 19,
@@ -439,6 +1064,23 @@
           "text": "É este o mandamento que dele recebemos: quem ama a Deus, ame também o seu irmão.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Rutura com o mundo e a fé autêntica (4,1-6)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "ACREDITAR E AMAR (4,7-5,13)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "Observar os mandamentos: o amor fraterno (4,7-21)",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -447,17 +1089,45 @@
         {
           "verse": 1,
           "text": "Todo aquele que acredita que Jesus é o Cristo nasceu de Deus; e todo aquele que ama quem o gerou ama também quem dele nasceu.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Ou seja, todos os que, pelo batismo, nasceram de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1jo-5-n1",
+              "offset": 124,
+              "original_marker": "e",
+              "source_id": 40
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "É nisto que sabemos que amamos os filhos de Deus: quando amamos a Deus e cumprimos os seus manda - mentos.",
+          "text": "É nisto que sabemos que amamos os filhos de Deus: quando amamos a Deus e cumprimos os seus mandamentos.",
           "note_refs": []
         },
         {
           "verse": 3,
           "text": "É nisto, de facto, que consiste o amor a Deus: em guardar os seus mandamentos. E os seus mandamentos não são pesados.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: de Deus, no sentido em que Deus é o objeto do amor."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "1jo-5-n2",
+              "offset": 45,
+              "original_marker": "f",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 4,
@@ -472,7 +1142,21 @@
         {
           "verse": 6,
           "text": "Ele é Aquele que veio pela água e pelo sangue: Jesus Cristo. Não apenas na água, mas na água e no sangue. E é o Espírito quem dá testemunho, porque o Espírito é a verdade.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Na tradição joanina a água é símbolo do Espírito Santo (Jo 7,37-39; cf. 4,14; 19,34) e o sangue torna visível a humanidade da pessoa; ao afirmar que Jesus veio não apenas na água (na sua natureza divina) mas também no sangue, o autor afirma a verdade da encarnação: Ele era verdadeiramente Deus, mas também verdadeiramente homem. A finalidade da afirmação parece ser rebater a sensibilidade de natureza gnóstica de alguns membros da comunidade, que defenderiam que a natureza humana de Jesus seria apenas aparente. Ora, negar a sua encarnação tem como consequência negar a salvação que, por ela, Deus realizou. A verdade da dupla natureza de Jesus continua a ser testemunhada (como é sublinhado pelo uso do tempo presente do verbo) pelo Espírito Santo (vv.7s)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "1jo-5-n3",
+              "offset": 104,
+              "original_marker": "g",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 7,
@@ -482,17 +1166,59 @@
         {
           "verse": 8,
           "text": "o Espírito, a água e o sangue, e os três estão de acordo.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: os três estão para uma coisa."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1jo-5-n4",
+              "offset": 56,
+              "original_marker": "h",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Se aceitamos o testemunho dos homens, maior é o testemunho de Deus, e o testemunho de Deus é aquele que Ele deu acerca do seu Filho.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: o testemunho."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "1jo-5-n5",
+              "offset": 99,
+              "original_marker": "i",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Quem acredita no Filho de Deus tem em si esse testemunho; quem não acredita em Deus faz de Deus um mentiroso, porque não acredita no testemunho que Deus deu acerca do seu Filho.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: dele."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "1jo-5-n6",
+              "offset": 95,
+              "original_marker": "j",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 11,
@@ -517,12 +1243,58 @@
         {
           "verse": 15,
           "text": "E se sabemos que nos escuta naquilo que lhe pedimos, sabemos também que obteremos os pedidos que lhe tivermos feito.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: os pedidos que lhe pedimos."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "1jo-5-n7",
+              "offset": 115,
+              "original_marker": "k",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 16,
-          "text": "Se alguém vir o seu irmão cometer um pecado que não conduz à morte, reze, e Deus lhe dará a vida isto em relação aos que cometem um pecado que não conduz à morte. É que há um pecado que conduz à morte: não é por um tal pecado que digo que se reze.",
-          "note_refs": []
+          "text": "Se alguém vir o seu irmão cometer um pecado que não conduz à morte, reze, e Deus lhe dará a vida – isto em relação aos que cometem um pecado que não conduz à morte. É que há um pecado que conduz à morte: não é por um tal pecado que digo que se reze.",
+          "note_refs": [
+            "8",
+            "9",
+            "10"
+          ],
+          "notes": {
+            "8": "Lit.: não para morte (nas duas ocorrências no v.).",
+            "9": "Deus é acrescento da tradução.",
+            "10": "Lit.: peça e dar-lhe-á vida."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "1jo-5-n8",
+              "offset": 66,
+              "original_marker": "l",
+              "source_id": 47
+            },
+            {
+              "ref": "9",
+              "id": "1jo-5-n9",
+              "offset": 80,
+              "original_marker": "m",
+              "source_id": 48
+            },
+            {
+              "ref": "10",
+              "id": "1jo-5-n10",
+              "offset": 96,
+              "original_marker": "n",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 17,
@@ -532,7 +1304,21 @@
         {
           "verse": 18,
           "text": "Sabemos que todo aquele que nasceu de Deus não peca; pelo contrário, o Filho de Deus guarda-o e o Maligno não lhe toca.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: mas o gerado por Deus guarda. A tradução segue a NVg, assim como vários autores. Outra hipótese de tradução seria pelo contrário, quem nasceu de Deus guarda-se a si mesmo."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "1jo-5-n11",
+              "offset": 93,
+              "original_marker": "a",
+              "source_id": 50
+            }
+          ]
         },
         {
           "verse": 19,
@@ -547,6 +1333,18 @@
         {
           "verse": 21,
           "text": "Meus filhos, guardai-vos dos ídolos.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Acreditar e amar: vitória da vida sobre o mundo (5,1-13)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 14,
+          "text": "CONCLUSÃO (5,14-21)",
           "note_refs": []
         }
       ]

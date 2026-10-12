@@ -1,5 +1,51 @@
 {
+  "schema_version": 2,
   "book": "1 Tessalonicenses",
+  "book_id": "1ts",
+  "source": {
+    "format": "docx",
+    "file": "59_1Ts.docx",
+    "title": "Primeira Carta aos Tessalonicenses"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "A cidade de Tessalónica",
+        "paragraphs": [
+          "A cidade de Tessalónica foi fundada em 315 a.C. por um dos generais de Alexandre Magno, Cassandro, que lhe deu o nome da sua esposa, por sua vez uma meia-irmã de Alexandre. Sob o domínio romano desde 148 a.C., tornou-se uma cidade livre, com os seus próprios governantes, em 42 a.C., por ter apoiado Octávio na batalha de Filipos. Talvez por isso, muitas inscrições da época comprovam que os tessalonicenses encaravam os imperadores romanos com alguma simpatia. Entre os cultos pagãos presentes na cidade contavam-se, para além dos autóctones, os cultos aos deuses egípcios e romanos, bem como o culto imperial. Porém, existia pelo menos uma sinagoga (cf. At 17,1), o que assinala a presença da fé judaica na cidade, e que terá facilitado o início da missionação cristã. A localização na Via Egnatia e o seu porto fizeram da cidade um grande centro de comércio."
+        ]
+      },
+      {
+        "title": "Os cristãos de Tessalónica",
+        "paragraphs": [
+          "Sabemos muito pouco sobre esta comunidade. Evangelizada por Paulo e Silas (At 17,4), era muito provavelmente uma comunidade humilde (4,11) e mista (cf. At 17,4), formada por judeus (como atestam as categorias apocalípticas usadas pelo apóstolo, o que pressupõe a familiaridade local com as tradições do AT) e cristãos de origem helenista (pois muitos se converteram dos ídolos a Deus: cf. 1,9). Perante a instigação dos judeus, que se opunham à pregação (2,15s), Paulo e Silas tiveram de partir abruptamente (At 17,5.10). Tendo consciência da brevidade da sua presença entre os tessalonicenses e da fragilidade dos fundamentos desta comunidade, sob influência do ambiente pagão, Paulo estava preocupado e envia, por isso, Timóteo, que lhe traz boas notícias sobre a consistência da fé e da caridade dos membros da comunidade (cf. 2,17; 3,1.5-8)."
+        ]
+      },
+      {
+        "title": "Conteúdo",
+        "paragraphs": [
+          "Trata-se do escrito mais antigo do NT, redigido por volta do ano 51, provavelmente a partir de Corinto, aquando da segunda viagem missionária de Paulo (3,1.6; At 18,5). Marcada pela forte relação pessoal e espiritual que se gerou entre a comunidade e o apóstolo, em apenas três sábados (At 17,2), a carta responde à inquietação dos tessalonicenses sobre a parusia, isto é, a última vinda de Cristo, nomeadamente sobre o destino daqueles que entretanto tinham morrido (4,13ss). Neste contexto, Paulo reafirma a ideia de uma parusia iminente (4,15-18), embora sublinhe que o importante não é o momento nem o modo, mas a vigilância e a esperança (5,1-11). Nas cartas posteriores manifesta-se um amadurecimento teológico que dilui a convicção sobre a iminência da parusia (cf. 2Ts 2,2)."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "Introdução (1,1)",
+          "I. Ação de graças (1,2-3,13)",
+          "Ministério de Paulo em Tessalónica (1,2-2,16)",
+          "Desejo de visitar a comunidade (2,17-20)",
+          "Envio e regresso de Timóteo (3,1-13)",
+          "II. A práxis cristã (4,1-5,24)",
+          "Exortação à santidade e ao amor (4,1-12)",
+          "A última vinda de Jesus e a questão dos que morreram (4,13-18)",
+          "Convite à vigilância (5,1-11)",
+          "Exortações finais (5,12-24)",
+          "Conclusão (5,25-28)"
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,7 +53,21 @@
         {
           "verse": 1,
           "text": "Paulo, Silvano e Timóteo à Igreja dos tessalonicenses, que está em Deus Pai e no Senhor Jesus Cristo: a vós, a graça e a paz.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Alguns mss. acrescentam da parte de Deus, nosso Pai, e do nosso Senhor Jesus Cristo."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1ts-1-n1",
+              "offset": 124,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
         },
         {
           "verse": 2,
@@ -17,17 +77,68 @@
         {
           "verse": 3,
           "text": "ao recordarmos a obra da vossa fé, o empenho do vosso amor, e a perseverança da vossa esperança em nosso Senhor Jesus Cristo, diante de Deus e nosso Pai.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A tríade das virtudes teologais é usada várias vezes no epistolário do NT, deixando sempre para último lugar aquela que se quer fazer sobressair (cf. 5,8; Cl 1,4s: fé, amor e esperança; Rm 5,1-5; 1Cor 13,13; 1Pd 1,21s: fé, esperança e amor)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "1ts-1-n2",
+              "offset": 152,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "Nós sabemos, irmãos amados por Deus, como fostes escolhidos:",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: a eleição de vós."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "1ts-1-n3",
+              "offset": 59,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "o nosso evangelho não vos foi anunciado apenas com palavras, mas também com o poder do Espírito Santo e com profunda convicção. Bem sabeis, aliás, que foi assim que procedemos entre vós, para vosso bem.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Lit.: não só na palavra, mas também no poder e no Espírito Santo e em toda a convicção. A interpretação justifica-se porque a contraposição é entre palavra e poder e os outros dois termos são apostos a poder: a fonte divina (Espírito Santo) e os seus efeitos no ministério apostólico (profunda convicção).",
+            "5": "Lit.: como sabeis quais fomos entre vós por causa de vós."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1ts-1-n4",
+              "offset": 126,
+              "original_marker": "d",
+              "source_id": 4
+            },
+            {
+              "ref": "5",
+              "id": "1ts-1-n5",
+              "offset": 201,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 6,
@@ -52,6 +163,37 @@
         {
           "verse": 10,
           "text": "e esperar dos céus o seu Filho, a quem ressuscitou de entre os mortos: Jesus, Aquele que nos livrará da ira que está para vir.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Rm 1,18-20 acrescenta que esta ira divina se manifesta já no presente sobre aqueles que rejeitam Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "1ts-1-n6",
+              "offset": 125,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "INTRODUÇÃO (1,1)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 2,
+          "text": "AÇÃO DE GRAÇAS (1,2-3,13)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 2,
+          "text": "Ministério de Paulo em Tessalónica",
           "note_refs": []
         }
       ]
@@ -72,17 +214,77 @@
         {
           "verse": 3,
           "text": "De facto, a nossa exortação à fé não provém de intenções enganosas ou impuras, nem é feita com falsidade;",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "À fé é acrescento da tradução.",
+            "2": "Lit.: do engano, nem da impureza nem com falsidade."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1ts-2-n1",
+              "offset": 32,
+              "original_marker": "g",
+              "source_id": 7
+            },
+            {
+              "ref": "2",
+              "id": "1ts-2-n2",
+              "offset": 104,
+              "original_marker": "a",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "pelo contrário, tal como nos foi confiado o evangelho, por termos sido considerados dignos por Deus, assim o anunciamos, não procurando agradar aos homens, mas a Deus, que examina os nossos corações.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A ideia de que Deus perscruta os corações é tomada do AT (cf. Sl 7,9; 139,1; Pr 17,3; Jr 11,20)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "1ts-2-n3",
+              "offset": 198,
+              "original_marker": "b",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Como bem sabeis, não usámos nem uma só vez palavras lisonjeiras, nem tivemos motivações gananciosas; Deus é testemunha.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Lit.: nem, com efeito, uma só vez, em palavra de adulação surgimos.",
+            "5": "A ganância é um dos vícios que, nas palavras do próprio Jesus, saem do interior do homem e o tornam impuro (cf. Mc 7,22)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1ts-2-n4",
+              "offset": 63,
+              "original_marker": "c",
+              "source_id": 10
+            },
+            {
+              "ref": "5",
+              "id": "1ts-2-n5",
+              "offset": 99,
+              "original_marker": "d",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 6,
@@ -92,7 +294,39 @@
         {
           "verse": 7,
           "text": "nós que nos podíamos fazer valer da nossa autoridade como apóstolos de Cristo. Pelo contrário, apresentámo-nos no meio de vós com gentileza. Tal como uma mãe que cuida dos próprios filhos,",
-          "note_refs": []
+          "note_refs": [
+            "6",
+            "7",
+            "8"
+          ],
+          "notes": {
+            "6": "Lit.: podendo no peso ser como apóstolos de Cristo.",
+            "7": "Muitos mss. leem apresentámo-nos no meio de vós [como] crianças, que é a opção de NA28 e da NVg; nesta interpretação, Paulo estaria talvez a sugerir que teve de falar e relacionar-se com a comunidade como uma criança para se poder fazer entender.",
+            "8": "Lit.: alimentadora."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "1ts-2-n6",
+              "offset": 77,
+              "original_marker": "e",
+              "source_id": 12
+            },
+            {
+              "ref": "7",
+              "id": "1ts-2-n7",
+              "offset": 139,
+              "original_marker": "f",
+              "source_id": 13
+            },
+            {
+              "ref": "8",
+              "id": "1ts-2-n8",
+              "offset": 157,
+              "original_marker": "g",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 8,
@@ -102,7 +336,21 @@
         {
           "verse": 9,
           "text": "Recordai, irmãos, as nossas fadigas e esforços: foi enquanto trabalhávamos noite e dia, para não sermos pesados a nenhum de vós, que vos proclamámos o evangelho de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Mesmo durante a sua atividade missionária, Paulo nunca deixou o seu ofício de fabricante de tendas (At 18,3; 20,34; 1Cor 4,12)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "1ts-2-n9",
+              "offset": 168,
+              "original_marker": "h",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 10,
@@ -122,12 +370,49 @@
         {
           "verse": 13,
           "text": "Também por isto damos constantemente graças a Deus: porque, ao receber a palavra de Deus por nós pregada, vós a acolhestes não como palavra humana, mas como ela é verdadeiramente, ou seja, como palavra de Deus, que atua em vós, os que acreditais.",
-          "note_refs": []
+          "note_refs": [
+            "10",
+            "11"
+          ],
+          "notes": {
+            "10": "Nos vv.13-16 Paulo retoma a ação de graças de 1,2.",
+            "11": "O apóstolo resume neste v. a tradição apostólica: pela pregação, a Palavra é ouvida (cf., por ex., Rm 10,17; Ef 1,13; At 15,7), ou seja, recebida (cf. 2Ts 3,6; 1Cor 11,23; 15,1.3; Gl 1,9; Flp 4,9; Cl 2,6) e, posteriormente, acolhida (cf., por ex., Mc 4,20; 2Ts 2,10; 2Cor 11,4; At 8,14), quando entra no coração (Rm 10,8-10)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "1ts-2-n10",
+              "offset": 50,
+              "original_marker": "i",
+              "source_id": 16
+            },
+            {
+              "ref": "11",
+              "id": "1ts-2-n11",
+              "offset": 245,
+              "original_marker": "j",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "De facto, irmãos, vós próprios vos tornastes imitadores das Igrejas de Deus que estão na Judeia, em Cristo Jesus, porque padecestes às mãos dos vossos compatriotas exatamente o mesmo que elas sofreram às mãos dos judeus,",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: eles, ou seja, os membros das Igrejas da Judeia."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "1ts-2-n12",
+              "offset": 191,
+              "original_marker": "k",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 15,
@@ -136,27 +421,126 @@
         },
         {
           "verse": 16,
-          "text": "e impedem-nos de pregar A AT A aos pagãos para que estes possam ser salvos. Deste modo enchem cada vez mais a medida dos seus pecados. Mas, por fim, a ira de Deus caiu sobre eles.",
-          "note_refs": []
+          "text": "e impedem-nos de pregar aos pagãos para que estes possam ser salvos. Deste modo enchem cada vez mais a medida dos seus pecados. Mas, por fim, a ira de Deus caiu sobre eles.",
+          "note_refs": [
+            "13",
+            "14",
+            "15",
+            "16"
+          ],
+          "notes": {
+            "13": "Lit.: falar.",
+            "14": "Lit.: para encher sempre os seus pecados.",
+            "15": "De Deus é acrescento da tradução.",
+            "16": "Os estudiosos interpretam esta afirmação de maneiras diferentes: uns pensam que alude à expulsão dos judeus de Roma pelo imperador Cláudio (c. 49 d.C.), para outros poderá ser uma interpolação textual posterior a Paulo, referindo-se à destruição do templo de Jerusalém em 70 d.C."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "1ts-2-n13",
+              "offset": 23,
+              "original_marker": "l",
+              "source_id": 19
+            },
+            {
+              "ref": "14",
+              "id": "1ts-2-n14",
+              "offset": 126,
+              "original_marker": "m",
+              "source_id": 20
+            },
+            {
+              "ref": "15",
+              "id": "1ts-2-n15",
+              "offset": 155,
+              "original_marker": "n",
+              "source_id": 21
+            },
+            {
+              "ref": "16",
+              "id": "1ts-2-n16",
+              "offset": 171,
+              "original_marker": "o",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 17,
-          "text": "Quanto a nós, irmãos, separados que estivemos de vós por algum tempo fisi - camente, mas não em coração desejámos ardentemente ver-vos de novo.",
-          "note_refs": []
+          "text": "Quanto a nós, irmãos, separados que estivemos de vós por algum tempo – fisicamente, mas não em coração – desejámos ardentemente ver-vos de novo.",
+          "note_refs": [
+            "17",
+            "18"
+          ],
+          "notes": {
+            "17": "Lit.: com o rosto.",
+            "18": "Lit.: apressámo-nos em grande desejo para ver o vosso rosto."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "1ts-2-n17",
+              "offset": 82,
+              "original_marker": "p",
+              "source_id": 23
+            },
+            {
+              "ref": "18",
+              "id": "1ts-2-n18",
+              "offset": 143,
+              "original_marker": "q",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 18,
-          "text": "Por isso, quisemos ir ter convosco e em particular, eu, Paulo, mais de uma vez mas Satanás impediu-nos.",
-          "note_refs": []
+          "text": "Por isso, quisemos ir ter convosco – e em particular, eu, Paulo, mais de uma vez – mas Satanás impediu-nos.",
+          "note_refs": [
+            "19"
+          ],
+          "notes": {
+            "19": "Talvez através de algum adversário ou de alguma adversidade."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "1ts-2-n19",
+              "offset": 106,
+              "original_marker": "r",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "Pois quem, senão vós, é a nossa esperança, a nossa alegria e a nossa coroa de glória diante do nosso Senhor Jesus, no dia da sua vinda?",
-          "note_refs": []
+          "note_refs": [
+            "20"
+          ],
+          "notes": {
+            "20": "Lit.: parusia. Sendo 1Ts o escrito mais antigo do NT, esta é a primeira vez que surge este termo, que se refere à vinda gloriosa de Cristo no final dos tempos e que se tornou um termo técnico da escatologia cristã."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "1ts-2-n20",
+              "offset": 134,
+              "original_marker": "s",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "Vós sois, de facto, a nossa glória e a nossa alegria.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 17,
+          "text": "Desejo de visitar a comunidade",
           "note_refs": []
         }
       ]
@@ -172,12 +556,40 @@
         {
           "verse": 2,
           "text": "e enviámos Timóteo, nosso irmão e colaborador de Deus no evangelho de Cristo, para vos confirmar e animar na vossa fé,",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Vários mss. apresentam servidor (diákonos em grego)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1ts-3-n1",
+              "offset": 45,
+              "original_marker": "t",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "a fim de que ninguém se deixe perturbar por essas tribulações, pois bem sabeis que era isto que nos estava reservado.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: vós mesmos, pois, sabeis que para isto estamos colocados."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "1ts-3-n2",
+              "offset": 116,
+              "original_marker": "u",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 4,
@@ -187,12 +599,49 @@
         {
           "verse": 5,
           "text": "Foi por causa disso que, não podendo aguardar mais, eu o enviei para ter notícias da vossa fé, não fosse acontecer que o tentador vos tivesse tentado e a nossa fadiga tivesse sido em vão.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: enviei para conhecer a vossa fé."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "1ts-3-n3",
+              "offset": 93,
+              "original_marker": "v",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Mas agora Timóteo regressou de junto de vós e deu-nos boas notícias da vossa fé e do vosso amor, e de que guardais sempre uma boa recordação nossa, desejando vivamente ver-nos, tal como nós desejamos ver-vos a vós.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Lit.: vindo a nós de vós.",
+            "5": "Lit.: como também nós a vós."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1ts-3-n4",
+              "offset": 43,
+              "original_marker": "w",
+              "source_id": 30
+            },
+            {
+              "ref": "5",
+              "id": "1ts-3-n5",
+              "offset": 213,
+              "original_marker": "x",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 7,
@@ -202,17 +651,59 @@
         {
           "verse": 8,
           "text": "Agora sentimo-nos reviver, por continuardes firmes no Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: porque agora vivemos se vós vos mantiverdes no Senhor."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "1ts-3-n6",
+              "offset": 60,
+              "original_marker": "y",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Como poderemos agradecer a Deus por vós, por toda a alegria que sentimos por vossa causa, diante do nosso Deus,",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: que ação de graças podemos retribuir a Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "1ts-3-n7",
+              "offset": 31,
+              "original_marker": "z",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "nós que, noite e dia, pedimos insistentemente para vos vermos de novo e completarmos o que falta à vossa fé?",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: para ver o vosso rosto."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "1ts-3-n8",
+              "offset": 69,
+              "original_marker": "a",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 11,
@@ -226,7 +717,37 @@
         },
         {
           "verse": 13,
-          "text": "a fim de conservar os vossos corações irre - preensíveis na santidade, diante de Deus, nosso Pai, por ocasião da vinda do nosso Senhor Jesus, com todos os seus santos. Ámen.",
+          "text": "a fim de conservar os vossos corações irrepreensíveis na santidade, diante de Deus, nosso Pai, por ocasião da vinda do nosso Senhor Jesus, com todos os seus santos. Ámen.",
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "Lit.: na vinda.",
+            "10": "Vários mss. omitem ámen. Os santos podem referir-se quer aos eleitos (os cristãos), quer aos anjos (Dt 33,2 LXX)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "1ts-3-n9",
+              "offset": 115,
+              "original_marker": "b",
+              "source_id": 35
+            },
+            {
+              "ref": "10",
+              "id": "1ts-3-n10",
+              "offset": 169,
+              "original_marker": "c",
+              "source_id": 36
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Envio e regresso de Timóteo",
           "note_refs": []
         }
       ]
@@ -236,13 +757,50 @@
       "verses": [
         {
           "verse": 1,
-          "text": "De resto, irmãos, nós vos pedimos e exortamos no Senhor Jesus que, tendo aprendido de nós como vos deveis comportar e agradar a Deus o que, de facto, assim continueis a progredir cada vez mais.",
-          "note_refs": []
+          "text": "De resto, irmãos, nós vos pedimos e exortamos no Senhor Jesus que, tendo aprendido de nós como vos deveis comportar e agradar a Deus – o que, de facto, já fazeis – assim continueis a progredir cada vez mais.",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Lit.: tal como recebestes de nós.",
+            "2": "Lit.: abundeis mais."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1ts-4-n1",
+              "offset": 89,
+              "original_marker": "d",
+              "source_id": 37
+            },
+            {
+              "ref": "2",
+              "id": "1ts-4-n2",
+              "offset": 206,
+              "original_marker": "e",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Com efeito, conheceis as instruções que vos demos da parte do Senhor Jesus.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A pregação inicial já incluía consequências éticas, na medida em que a vida em Cristo, ou seja, o discipulado, envolve todas as dimensões da vida pessoal e social."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "1ts-4-n3",
+              "offset": 74,
+              "original_marker": "f",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 3,
@@ -252,7 +810,21 @@
         {
           "verse": 4,
           "text": "que cada um de vós saiba manter o seu corpo na santidade e na dignidade,",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: possuir o seu vaso, expressão que poderá assumir mais do que um sentido. De facto, alguns interpretam como referido ao corpo da mulher que era considerado pertença do marido (cf. Ef 5,21-33), pelo que a advertência aludiria ao pecado do adultério (cf. 1Cor 7,1s); para outros, porém, trata-se de uma referência ao próprio corpo, inclusivamente ao órgão sexual masculino. O sentido, porém, é claro: sublinhar a função do ser humano como criatura destinada a refletir a santidade do Criador e, de modo particular, a condição do cristão, que é templo do Espírito (cf. 1Cor 6,19s)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1ts-4-n4",
+              "offset": 43,
+              "original_marker": "g",
+              "source_id": 40
+            }
+          ]
         },
         {
           "verse": 5,
@@ -262,17 +834,59 @@
         {
           "verse": 6,
           "text": "Ninguém prejudique ou engane o seu irmão nesta matéria, porque o Senhor punirá todas estas coisas, tal como já vos dissemos e assegurámos.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: é punidor de tudo isto. A expressão faz ecoar o Sl 94,1s."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "1ts-4-n5",
+              "offset": 97,
+              "original_marker": "h",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Deus não nos chamou a viver na impureza, mas na santidade.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: nos chamou sobre impureza mas na santidade."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "1ts-4-n6",
+              "offset": 57,
+              "original_marker": "i",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Por conseguinte, quem rejeita estas instruções não está a rejeitar um homem, mas o próprio Deus, que vos concede o seu Espírito Santo.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Estas instruções é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "1ts-4-n7",
+              "offset": 46,
+              "original_marker": "j",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 9,
@@ -287,32 +901,116 @@
         {
           "verse": 11,
           "text": "empenhando-vos em viver em paz, ocupando-vos dos vossos próprios assuntos, e trabalhando com as próprias mãos, de acordo com as instruções que vos demos,",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "A afirmação explica-se no contexto de que alguns, ao esperarem a vinda iminente de Cristo, tinham deixado de trabalhar (cf. 2Ts 3,11)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "1ts-4-n8",
+              "offset": 152,
+              "original_marker": "k",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "a fim de que vos comporteis honestamente para com os de fora e não dependais de ninguém.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "A partir do v.13 e até 5,11, o apóstolo responde às dúvidas da comunidade sobre o modo e os tempos da escatologia. Tal como se manifesta nos tempos verbais, os vv.13-18 estão orientados para o futuro, para a parusia (última vinda de Jesus), enquanto a secção paralela de 5,1-11 se centra no presente, na necessidade de vigilância."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "1ts-4-n9",
+              "offset": 87,
+              "original_marker": "l",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 13,
-          "text": "Irmãos, não queremos que fiqueis na ignorância acerca daqueles que já ador - meceram, para não vos entristecerdes como os outros, os que não têm esperança.",
-          "note_refs": []
+          "text": "Irmãos, não queremos que fiqueis na ignorância acerca daqueles que já adormeceram, para não vos entristecerdes como os outros, os que não têm esperança.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "O verbo adormecer, já usado no AT e na cultura grega para falar do sono da morte, surge no NT como forma de expressar a fé cristã na ressurreição (cf. 1Cor 7,39; 11,30; 15,6.18.20.51; Mt 27,52; At 7,60; 2Pd 3,4)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "1ts-4-n10",
+              "offset": 81,
+              "original_marker": "m",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Pois se acreditamos que Jesus morreu e ressuscitou, assim também acreditamos que Deus levará com Jesus os que em Jesus tiverem adormecido.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: assim também Deus conduzirá os que adormeceram por meio de Jesus com Ele. Esta última expressão corresponde à teologia paulina de que nada na vida do crente acontece fora da relação com Jesus, inclusivamente a própria morte, como o apóstolo passa a explicar."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "1ts-4-n11",
+              "offset": 137,
+              "original_marker": "n",
+              "source_id": 47
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "É isto o que vos dizemos, com base na palavra do Senhor: nós, os vivos, os que ficarmos para a vinda do Senhor, não precederemos os que tiverem adormecido.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: na palavra do Senhor."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "1ts-4-n12",
+              "offset": 55,
+              "original_marker": "o",
+              "source_id": 48
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "À ordem dada, à voz do Arcanjo e ao som da trombeta divina, o próprio Senhor descerá do céu, e os mortos em Cristo ressuscitarão primeiro.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "O apóstolo recorre a várias imagens do AT e da literatura apocalíptica: o brado (Jl 4,16); o arcanjo (1Hen 20,1-7); a trombeta (Is 27,13). Paulo não especifica qual o destino dos não crentes; a sua preocupação é responder às dúvidas da comunidade sobre o que aconteceria àqueles que já tinham morrido antes da última vinda de Cristo."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "1ts-4-n13",
+              "offset": 137,
+              "original_marker": "p",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 17,
@@ -322,6 +1020,23 @@
         {
           "verse": 18,
           "text": "Portanto, consolai-vos uns aos outros com estas palavras.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A PRÁXIS CRISTÃ (4,1-5,24)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Exortação à santidade e ao amor",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "A última de vinda de Jesus e a questão dos que morreram",
           "note_refs": []
         }
       ]
@@ -337,12 +1052,40 @@
         {
           "verse": 2,
           "text": "visto que sabeis perfeitamente que o dia do Senhor chega como um ladrão durante a noite.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Não se fala sobre se a última vinda de Cristo está ou não prestes a realizar-se, mas sim que irá acontecer sem aviso prévio, afirmação concordante com os evangelhos (cf., por ex., Mt 24,36.42.50; 25,13)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1ts-5-n1",
+              "offset": 87,
+              "original_marker": "q",
+              "source_id": 50
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "E quando disserem: «Há paz e segurança», é então que subitamente cairá sobre eles a ruína, como as dores de parto sobre a mulher que está grávida, e não poderão escapar.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: [sobre] a que tem no ventre."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "1ts-5-n2",
+              "offset": 145,
+              "original_marker": "r",
+              "source_id": 51
+            }
+          ]
         },
         {
           "verse": 4,
@@ -356,7 +1099,7 @@
         },
         {
           "verse": 6,
-          "text": "Por isso, não durmamos como os outros, mas permaneçamos vigilantes e sóbrios. A A",
+          "text": "Por isso, não durmamos como os outros, mas permaneçamos vigilantes e sóbrios.",
           "note_refs": []
         },
         {
@@ -367,17 +1110,59 @@
         {
           "verse": 8,
           "text": "mas nós, que somos do dia, permaneçamos sóbrios, revestidos com a couraça da fé e do amor e com o capacete da esperança da salvação.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A linguagem militar e desportiva em Paulo serve para sublinhar a luta que a vivência da fé cristã exige (cf. 1Cor 9,24; 2Tm 4,7s)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "1ts-5-n3",
+              "offset": 131,
+              "original_marker": "a",
+              "source_id": 52
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Porque Deus não nos reservou para a ira, mas para alcançar a salvação por meio do nosso Senhor Jesus Cristo,",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: para a posse da salvação."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1ts-5-n4",
+              "offset": 69,
+              "original_marker": "b",
+              "source_id": 53
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "que morreu por nós, para que, quer estejamos ainda vigilantes, quer tenhamos já adormecido, vivamos com Ele.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: estejamos dormindo."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "1ts-5-n5",
+              "offset": 90,
+              "original_marker": "c",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 11,
@@ -387,12 +1172,49 @@
         {
           "verse": 12,
           "text": "Nós vos pedimos, irmãos, que respeiteis aqueles que no meio de vós se afadigam, que, no Senhor, exercem sobre vós a presidência e que vos admoestam,",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Paulo retoma o discurso sobre a vida comunitária, interrompido em 4,12."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "1ts-5-n6",
+              "offset": 15,
+              "original_marker": "d",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "e que tenhais por eles a máxima consideração e amor, por causa da obra que estão a realizar. Vivei em paz uns com os outros.",
-          "note_refs": []
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Lit.: e que os considereis abundantemente no amor.",
+            "8": "Lit.: da sua obra."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "1ts-5-n7",
+              "offset": 51,
+              "original_marker": "e",
+              "source_id": 56
+            },
+            {
+              "ref": "8",
+              "id": "1ts-5-n8",
+              "offset": 91,
+              "original_marker": "f",
+              "source_id": 57
+            }
+          ]
         },
         {
           "verse": 14,
@@ -402,7 +1224,21 @@
         {
           "verse": 15,
           "text": "Vede bem: que ninguém pague o mal com o mal; pelo contrário, procurai sempre o bem uns dos outros e o de todos.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: persegui o que é bom quer para uns e outros, quer para todos."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "1ts-5-n9",
+              "offset": 110,
+              "original_marker": "g",
+              "source_id": 58
+            }
+          ]
         },
         {
           "verse": 16,
@@ -422,7 +1258,21 @@
         {
           "verse": 19,
           "text": "Não apagueis o Espírito,",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "No sentido de não anular a ação do Espírito na vida pessoal e comunitária."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "1ts-5-n10",
+              "offset": 23,
+              "original_marker": "h",
+              "source_id": 59
+            }
+          ]
         },
         {
           "verse": 20,
@@ -437,17 +1287,59 @@
         {
           "verse": 22,
           "text": "Afastai-vos de toda a espécie de mal.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Segue-se uma série de frases curtas e fáceis de memorizar, úteis para uma catequese prática. O discernimento, atitude na qual Paulo insiste (cf. Rm 12,2s; Flp 1,9ss; Cl 3,8), é essencial na vida cristã, como forma de coadunar a vida com a vontade de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "1ts-5-n11",
+              "offset": 36,
+              "original_marker": "i",
+              "source_id": 60
+            }
+          ]
         },
         {
           "verse": 23,
-          "text": "O Deus da paz vos santifique totalmente, para que todo o vosso ser espírito, alma e corpo se conserve irrepreensível para a vinda do nosso Senhor Jesus Cristo.",
-          "note_refs": []
+          "text": "O Deus da paz vos santifique totalmente, para que todo o vosso ser – espírito, alma e corpo – se conserve irrepreensível para a vinda do nosso Senhor Jesus Cristo.",
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Esta é a única ocorrência no epistolário paulino que apresenta uma visão tripartida da condição humana, não se referindo a compostos, mas a dimensões do ser humano. Ao apresentar em primeiro lugar o espírito, o apóstolo parece querer acentuar a dimensão da vida renovada do crente pela presença do Espírito de Deus, que ilumina e dirige o espírito humano (cf. Rm 5,5; 8,4-16; At 1,8)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "1ts-5-n12",
+              "offset": 91,
+              "original_marker": "j",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 24,
-          "text": "É fiel Aquele que vos chama: Ele realizará tudo isto. A",
-          "note_refs": []
+          "text": "É fiel Aquele que vos chama: Ele realizará tudo isto.",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Tudo isto é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "1ts-5-n13",
+              "offset": 52,
+              "original_marker": "k",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 25,
@@ -457,16 +1349,75 @@
         {
           "verse": 26,
           "text": "Saudai todos os irmãos com o beijo santo.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "A referência ao beijo (cf. 1Cor 16,20-22), assim como a exortação a que a carta seja lida a todos (v.27), sugere que esta se destina à leitura comunitária, nomeadamente na Eucaristia."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "1ts-5-n14",
+              "offset": 40,
+              "original_marker": "l",
+              "source_id": 63
+            }
+          ]
         },
         {
           "verse": 27,
           "text": "Conjuro-vos, pelo Senhor: que esta carta seja lida a todos os irmãos.",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Muitos mss. acrescentam santos."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "1ts-5-n15",
+              "offset": 68,
+              "original_marker": "m",
+              "source_id": 64
+            }
+          ]
         },
         {
           "verse": 28,
           "text": "A graça do nosso Senhor Jesus Cristo esteja convosco.",
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Alguns mss. acrescentam ámen."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "1ts-5-n16",
+              "offset": 52,
+              "original_marker": "n",
+              "source_id": 65
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Convite à vigilância",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Exortações finais",
+          "note_refs": []
+        },
+        {
+          "before_verse": 25,
+          "text": "CONCLUSÃO (5,25-28)",
           "note_refs": []
         }
       ]

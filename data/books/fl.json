@@ -1,5 +1,49 @@
 {
+  "schema_version": 2,
   "book": "Filipenses",
+  "book_id": "fl",
+  "source": {
+    "format": "docx",
+    "file": "57_Flp.docx",
+    "title": "Carta aos Filipenses"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "A comunidade de Filipos",
+        "paragraphs": [
+          "Fundada e fortificada por Filipe II, pai de Alexandre Magno, a cidade de Filipos, situada na Macedónia, era, na época neotestamentária, uma cidade importante, estrategicamente edificada ao longo da Via Egnatia, que ligava Roma aos territórios da Ásia. Nela surgiu a primeira comunidade cristã da Europa. Paulo chegou à cidade no decurso da segunda viagem apostólica, juntamente com Timóteo e Silvano, provavelmente no ano 49 ou 50 (At 16,11-40). O anúncio do evangelho teve como destinatários sobretudo os pagãos e foi interrompido por uma perseguição (1Ts 2,2). Posteriormente, Paulo passou ainda por Filipos, pelo menos duas vezes, durante a terceira viagem (At 20,1-2.6). O apóstolo ficou sempre muito ligado à comunidade de Filipos e esta também correspondeu aos seus sentimentos, sendo a única da qual ele aceitou auxílio económico (Flp 4,16; 2Cor 11,9)."
+        ]
+      },
+      {
+        "title": "Ocasião da carta",
+        "paragraphs": [
+          "Embora faça referência a certas dificuldades por que passam os filipenses, a carta não parece ter o objetivo de clarificar assuntos doutrinais ou mesmo resolver problemas específicos da comunidade. Embora acabe por abordar algumas destas questões – como as divisões existentes (2,1-5), a infiltração de cristãos judaizantes que põem em causa o evangelho pregado na comunidade (3,1-11), ou a mentalidade laxista de alguns cristãos de Filipos (3,17-19) – o apóstolo parece querer evitar tais temas. A ocasião para a missiva parece ter surgido com a chegada de Epafrodito, portador de um auxílio económico da comunidade de Filipos (4,10-19); durante a sua estadia, porém, este adoeceu gravemente e Paulo, que tinha já feito planos para enviar Timóteo a fim de ter notícias da comunidade, decide mandar de volta o próprio Epafrodito, entretanto já recuperado, para descansar o espírito dos filipenses, que tinham sabido da sua enfermidade (2,19-30). É provavelmente ele o portador da carta."
+        ]
+      },
+      {
+        "title": "Local e data",
+        "paragraphs": [
+          "O local onde a carta foi escrita tem suscitado muita discussão. Paulo afirma-se prisioneiro (1,7.12-17) e menciona o pretório e a casa de César (1,13; 4,22). A partir destes e de outros elementos, têm sido propostos três lugares para a emissão da carta: Roma, Cesareia ou Éfeso. Temos notícias certas da prisão de Paulo em Cesareia (At 23,23ss) e de uma espécie de cárcere domiciliário em Roma (At 28,16.30-31). A capital do império foi tradicionalmente considerada como o local de redação da carta, mas tanto Roma como Cesareia estão demasiado distantes de Filipos para permitirem a facilidade de contactos que nela se presume. Mas Paulo fala também de outras tribulações e prisões na Ásia (2Cor 1,8; 11,23) e, em 1Cor 15,32, fala da luta contra as feras em Éfeso, referindo-se às dificuldades sofridas no decurso da sua",
+          "presença de mais de dois anos na cidade (At 19,1-11). Hoje, a maioria dos exegetas coloca nesta cidade o cativeiro de Paulo, durante o qual escreve aos filipenses, entre os anos 52 e 54."
+        ]
+      },
+      {
+        "title": "Unidade e conteúdo",
+        "paragraphs": [
+          "A autenticidade paulina da carta não é contestada, mas a sua unidade literária é posta em causa devido às ruturas e mudanças bruscas de assunto que o texto apresenta, embora alguns autores argumentem que este estilo redacional se encontra presente em outras cartas de Paulo. Ainda assim, os estudiosos colocam a hipótese de o presente texto ser o resultado de duas ou três diferentes mensagens de Paulo à comunidade. Mas, quando se trata de individuar quais seriam concretamente essas cartas, dificilmente se encontra acordo entre os comentadores.",
+          "A estrutura da carta também está longe de granjear consenso, pelo que importa, pelo menos, ter em conta a articulação dos seus temas, como surgem no texto atual:",
+          "Introdução (1,1-11)",
+          "Corpo da carta (1,12-4,20)",
+          "I. Paulo, Cristo e a vida fraterna (1,12-2,30)",
+          "II. Exortações (3,1-4,9)",
+          "III. Agradecimento pelos dons recebidos (4,10-20)",
+          "Conclusão (4,21-23)"
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,7 +51,21 @@
         {
           "verse": 1,
           "text": "Paulo e Timóteo, servos de Cristo Jesus, a todos os santos em Cristo Jesus que estão em Filipos, com os seus bispos e diáconos:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Seus é acrescento da tradução. Os termos originais – epískopoi (supervisores) e diákonoi (ministros, servidores, cf. 2Cor 3,6 nota) – não constituem ainda, no contexto desta carta, uma designação clara dos específicos ministérios do bispo e do diácono, como se fixarão na tradição eclesial. Referem-se, de uma forma genérica, àqueles que assumem funções de responsabilidade e de serviço na comunidade."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "fl-1-n1",
+              "offset": 126,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
         },
         {
           "verse": 2,
@@ -17,17 +75,68 @@
         {
           "verse": 3,
           "text": "Dou graças ao meu Deus, cada vez que vos recordo,",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: em toda a memória de vós."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "fl-1-n2",
+              "offset": 48,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "nas minhas constantes súplicas por todos vós, rezando com alegria,",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Lit.: sempre em toda a minha súplica.",
+            "4": "A alegria é uma temática transversal a toda a carta: 1,18.25; 2,2.17s.28s; 3,1; 4,1.4.10."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "fl-1-n3",
+              "offset": 30,
+              "original_marker": "c",
+              "source_id": 3
+            },
+            {
+              "ref": "4",
+              "id": "fl-1-n4",
+              "offset": 65,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "por causa da vossa participação no anúncio do evangelho, desde o primeiro dia até agora.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: perante a comunhão de vós para o evangelho."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "fl-1-n5",
+              "offset": 55,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 6,
@@ -37,12 +146,49 @@
         {
           "verse": 7,
           "text": "É justo que eu assim pense de todos vós, pois vos tenho a todos no coração, a vós que participais comigo na graça que me foi concedida, tanto na minha prisão, como na defesa e consolidação do evangelho.",
-          "note_refs": []
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Que me foi concedida é acrescento da tradução. Esta graça é vista por Paulo como um eco do evangelho que se manifesta nas situações adversas (cf. 2Cor 4,7-15; 6,3-10) e na dádiva que a comunidade fez ao apóstolo (cf. 1,29s).",
+            "7": "Lit.: nas minhas cadeias."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "fl-1-n6",
+              "offset": 134,
+              "original_marker": "f",
+              "source_id": 6
+            },
+            {
+              "ref": "7",
+              "id": "fl-1-n7",
+              "offset": 157,
+              "original_marker": "g",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Deus é testemunha das saudades que tenho de todos vós, no profundo amor de Cristo Jesus.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: entranhas."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "fl-1-n8",
+              "offset": 71,
+              "original_marker": "h",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 9,
@@ -52,22 +198,87 @@
         {
           "verse": 10,
           "text": "para que saibais discernir o que é melhor. Assim chegareis ao dia de Cristo puros e irrepreensíveis,",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: para que sejais puros e irrepreensíveis para o dia de Cristo."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "fl-1-n9",
+              "offset": 99,
+              "original_marker": "i",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "repletos do fruto da justificação que vem por Jesus Cristo, para glória e louvor de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Justificação (dikaiosýnē) é um termo fundamental no pensamento de Paulo (cf. 1,11;3,9), com o qual traduz o conceito de salvação. Designa a ação do Espírito de Cristo no crente, libertando-o do poder do pecado e da Lei, para a liberdade dos filhos de Deus e herdeiros, com Cristo, da vida em plenitude."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "fl-1-n10",
+              "offset": 33,
+              "original_marker": "j",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Quero que saibais, irmãos, que aquilo que me aconteceu acabou por resultar em vantagem para o evangelho,",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Paulo refere-se à sua prisão e ao processo pendente."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "fl-1-n11",
+              "offset": 54,
+              "original_marker": "k",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "ao ponto de se tornar manifesto para todo o pretório e para os demais que é por causa de Cristo que eu estou preso.",
-          "note_refs": []
+          "note_refs": [
+            "12",
+            "13"
+          ],
+          "notes": {
+            "12": "O pretório designa o local onde Paulo se encontra prisioneiro. Se se colocar a hipótese de Paulo se encontrar em Roma (cf. introdução), refere-se à sede da guarda pretoriana, junto aos muros da cidade; se se trata de Éfeso ou Cesareia, refere-se ao palácio do governador, onde estaciona a guarda.",
+            "13": "Lit.: de tal modo que as minhas cadeias em Cristo se tornaram manifestas em todo o pretório e para todos os demais."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "fl-1-n12",
+              "offset": 52,
+              "original_marker": "l",
+              "source_id": 12
+            },
+            {
+              "ref": "13",
+              "id": "fl-1-n13",
+              "offset": 95,
+              "original_marker": "a",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 14,
@@ -77,12 +288,40 @@
         {
           "verse": 15,
           "text": "É certo que alguns o fazem por inveja e rivalidade, mas outros anunciam Cristo com boa intenção.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "O fazem é acrescento da tradução (tal como no v.16)."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "fl-1-n14",
+              "offset": 26,
+              "original_marker": "b",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "Os que o fazem por amor sabem que fui posto aqui para defesa do evangelho,",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Aqui é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "fl-1-n15",
+              "offset": 48,
+              "original_marker": "c",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 17,
@@ -91,38 +330,149 @@
         },
         {
           "verse": 18,
-          "text": "Mas que importa? De qualquer modo com segundas intenções ou de modo verdadeiro Cristo é anunciado; e com isso me alegro. Mais ainda: sempre me hei de alegrar,",
+          "text": "Mas que importa? De qualquer modo – com segundas intenções ou de modo verdadeiro – Cristo é anunciado; e com isso me alegro. Mais ainda: sempre me hei de alegrar,",
           "note_refs": []
         },
         {
           "verse": 19,
           "text": "pois sei que isto servirá para a minha salvação, graças à vossa oração e à assistência do Espírito de Jesus Cristo.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Também a tradição sinóptica apresenta o auxílio do Espírito aos crentes quando são submetidos aos tribunais por causa do evangelho e da fidelidade ao Senhor Jesus (cf. Mc 13,11; Mt 10,20; Lc 12,12)."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "fl-1-n16",
+              "offset": 98,
+              "original_marker": "d",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "Tenho a firme expectativa e esperança de que em nada serei confundido; pelo contrário, agora como sempre, será com total desassombro que a grandeza de Cristo será proclamada no meu corpo, seja pela vida, seja pela morte.",
-          "note_refs": []
+          "note_refs": [
+            "17",
+            "18",
+            "19",
+            "20"
+          ],
+          "notes": {
+            "17": "Lit.: segundo a expectativa e minha esperança.",
+            "18": "Paulo remete para a recompensa escatológica, pela fidelidade da vida em Cristo.",
+            "19": "Lit.: Cristo será engrandecido.",
+            "20": "1,20-26 é um dos textos mais significativos de Paulo sobre a sua conceção de vida em Cristo. A partir do momento em que foi alcançado por Cristo (3,12) e transfigurado pelo seu Espírito, a vida de Paulo passou a pertencer ao seu Senhor, o que lhe confere renovada liberdade e amplidão de horizontes, para além dos limites da própria existência humana. Por isso, tanto a vida como a morte se converterão em glória de Cristo. Viver e morrer são apenas modos e etapas do estar em Cristo (1,13; 3,14; 4,19)."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "fl-1-n17",
+              "offset": 37,
+              "original_marker": "e",
+              "source_id": 18
+            },
+            {
+              "ref": "18",
+              "id": "fl-1-n18",
+              "offset": 104,
+              "original_marker": "f",
+              "source_id": 19
+            },
+            {
+              "ref": "19",
+              "id": "fl-1-n19",
+              "offset": 173,
+              "original_marker": "g",
+              "source_id": 20
+            },
+            {
+              "ref": "20",
+              "id": "fl-1-n20",
+              "offset": 219,
+              "original_marker": "h",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 21,
           "text": "Pois, para mim, viver é Cristo, e morrer, um ganho.",
-          "note_refs": []
+          "note_refs": [
+            "21"
+          ],
+          "notes": {
+            "21": "Pelo batismo Paulo vive uma vida nova, tendo abandonado a condição anterior: cf. Rm 6,3-11."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "fl-1-n21",
+              "offset": 30,
+              "original_marker": "i",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "Mas, se o facto de continuar a viver neste mundo for para mim ocasião para um trabalho frutuoso, já não sei o que deva preferir.",
-          "note_refs": []
+          "note_refs": [
+            "22"
+          ],
+          "notes": {
+            "22": "Lit.: na carne (tal como no v.24)."
+          },
+          "note_positions": [
+            {
+              "ref": "22",
+              "id": "fl-1-n22",
+              "offset": 48,
+              "original_marker": "j",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 23,
-          "text": "Sinto-me num grande dilema: tenho o",
-          "note_refs": []
+          "text": "Sinto-me num grande dilema: tenho o desejo de partir e de estar com Cristo – o que seria, de longe, o melhor –",
+          "note_refs": [
+            "23"
+          ],
+          "notes": {
+            "23": "Lit.: estou apertado por dois [lados]."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "fl-1-n23",
+              "offset": 26,
+              "original_marker": "k",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 24,
           "text": "mas, por vossa causa, é preciso que eu permaneça neste mundo.",
-          "note_refs": []
+          "note_refs": [
+            "24"
+          ],
+          "notes": {
+            "24": "Lit.: o permanecer na carne [é] mais necessário por vós."
+          },
+          "note_positions": [
+            {
+              "ref": "24",
+              "id": "fl-1-n24",
+              "offset": 60,
+              "original_marker": "l",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 25,
@@ -136,22 +486,100 @@
         },
         {
           "verse": 27,
-          "text": "O importante é que vos comporteis como dignos cidadãos do evangelho de Cristo. Desta forma, seja quando vos for ver, seja quando estiver ausente, poderei sempre ouvir a vosso respeito que permaneceis firmes no mesmo Espírito, comba - O tendo numa só alma pela fé do evangelho.",
-          "note_refs": []
+          "text": "O importante é que vos comporteis como dignos cidadãos do evangelho de Cristo. Desta forma, seja quando vos for ver, seja quando estiver ausente, poderei sempre ouvir a vosso respeito que permaneceis firmes no mesmo Espírito, combatendo numa só alma pela fé do evangelho.",
+          "note_refs": [
+            "25",
+            "26"
+          ],
+          "notes": {
+            "25": "Lit.: somente.",
+            "26": "O verbo grego aqui usado (com raiz em pólis) designa a conduta correta de cidadão perante as leis da sua cidade. Para Paulo, a adesão ao evangelho constitui uma nova cidadania (3,20; Ef 2,19) com um código próprio de comportamento, onde se distingue a qualidade do relacionamento fraterno."
+          },
+          "note_positions": [
+            {
+              "ref": "25",
+              "id": "fl-1-n25",
+              "offset": 18,
+              "original_marker": "m",
+              "source_id": 26
+            },
+            {
+              "ref": "26",
+              "id": "fl-1-n26",
+              "offset": 54,
+              "original_marker": "n",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 28,
           "text": "E em nada vos deixeis intimidar pelos adversários: o que para eles é um sinal de perdição, para vós é um sinal de salvação; e tudo isto provém de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "27"
+          ],
+          "notes": {
+            "27": "Um sinal é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "27",
+              "id": "fl-1-n27",
+              "offset": 110,
+              "original_marker": "o",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 29,
-          "text": "Com efeito, foi-vos concedida a graça, não só de acre - ditar em Cristo, mas também de sofrer por Ele,",
+          "text": "Com efeito, foi-vos concedida a graça, não só de acreditar em Cristo, mas também de sofrer por Ele,",
           "note_refs": []
         },
         {
           "verse": 30,
           "text": "enfrentando o mesmo combate que me vistes travar e que, como tendes ouvido dizer, continuo a travar agora.",
+          "note_refs": [
+            "28"
+          ],
+          "notes": {
+            "28": "Lit.: tendo o mesmo combate, o qual vistes em mim e agora ouvis em mim. O combate travado por Paulo é provavelmente uma alusão às dificuldades a que teve de fazer frente em Filipos (cf. At 16,16ss; 1Ts 2,2) e pelas quais continua a passar agora na prisão."
+          },
+          "note_positions": [
+            {
+              "ref": "28",
+              "id": "fl-1-n28",
+              "offset": 105,
+              "original_marker": "p",
+              "source_id": 29
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Saudação",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "Ação de graças",
+          "note_refs": []
+        },
+        {
+          "before_verse": 9,
+          "text": "Súplica",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "I. PAULO, CRISTO E A VIDA FRATERNA (1,12-2,30)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Paulo na prisão por causa do evangelho",
           "note_refs": []
         }
       ]
@@ -161,18 +589,69 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Portanto, se considerais que há alguma consolação em Cristo, algum con - forto no amor, alguma comunhão no Espírito, algum sentimento de profunda compaixão e de misericórdia,",
-          "note_refs": []
+          "text": "Portanto, se considerais que há alguma consolação em Cristo, algum conforto no amor, alguma comunhão no Espírito, algum sentimento de profunda compaixão e de misericórdia,",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Considerais que é acrescento da tradução.",
+            "2": "Lit.: vísceras."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "fl-2-n1",
+              "offset": 28,
+              "original_marker": "q",
+              "source_id": 30
+            },
+            {
+              "ref": "2",
+              "id": "fl-2-n2",
+              "offset": 152,
+              "original_marker": "r",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "então completai a minha alegria: procurai todos ter os mesmos sentimentos, conservando o mesmo amor, com uma só alma, num só pensamento.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Paulo não se refere a um pensamento único, mas a uma comum maneira de agir de acordo com o evangelho. O apóstolo tem uma recordação muito grata dos filipenses, mas teme pela unidade e estabilidade da comunidade (cf. 2,19), devido a rivalidades e invejas entre os próprios anunciadores do evangelho (cf. 3,18)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "fl-2-n3",
+              "offset": 135,
+              "original_marker": "s",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Não façais nada por rivalidade ou por vanglória, mas com humildade cada um considere os outros superiores a si mesmo.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Esta é a atitude apropriada diante do Senhor (cf. 1QS 5,3s), estabelecida pelo próprio Cristo (vv.5-11)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "fl-2-n4",
+              "offset": 116,
+              "original_marker": "t",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 4,
@@ -182,17 +661,86 @@
         {
           "verse": 5,
           "text": "Tende entre vós o modo de pensar de Cristo Jesus:",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: isto pensai em vós: o que também [há] em Cristo Jesus. O hino cristológico de 2,6-11 é um texto, não necessariamente de Paulo, mas aqui inserido por ele, como modelo da exortação à unidade e ao comportamento segundo a nova cidadania fundada no evangelho. Segue o esquema da humilhação (v.6-8) e exaltação (v.9-11) do justo inocente, frequente na tradição bíblica (cf. Sl 22; Is 52,13-53,12; Ez 21,31; Lc 14,11; Tg 4,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "fl-2-n5",
+              "offset": 48,
+              "original_marker": "u",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Ele, que é de condição divina, não se valeu da sua igualdade com Deus,",
-          "note_refs": []
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Lit.: em forma de Deus. Paulo não se refere ao simples aspeto externo, prevalente no uso de forma (morphḗ) na filosofia grega, mas à realidade intrínseca, segundo a mentalidade semita, que lhe está subjacente. A contraposição com a condição (morphḗ) de servo do v. seguinte realça a grandeza do amor de Deus revelado na encarnação de Jesus.",
+            "7": "Lit.: não considerou uma usurpação o ser igual a Deus. O sentido da frase é discutido, embora a maioria considere que se trata de uma expressão idiomática, cujo sentido é o de Cristo não ter usado em proveito próprio o facto de ser igual a Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "fl-2-n6",
+              "offset": 29,
+              "original_marker": "v",
+              "source_id": 35
+            },
+            {
+              "ref": "7",
+              "id": "fl-2-n7",
+              "offset": 69,
+              "original_marker": "w",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "mas despojou-se a si próprio, assumindo a condição de servo, O O O tornando-se idêntico aos homens. Aparecendo como homem,",
-          "note_refs": []
+          "text": "mas despojou-se a si próprio, assumindo a condição de servo, tornando-se idêntico aos homens. Aparecendo como homem,",
+          "note_refs": [
+            "8",
+            "9",
+            "10"
+          ],
+          "notes": {
+            "8": "Se por um lado esta condição de servo evoca a figura do quarto canto do Servo de Javé (cf. Is 53,12) que dá livremente a vida pela multidão, por outro também traduz a condição da humanidade, carente de redenção, e que, por isso, vive ainda uma experiência de submissão ao poder da morte (cf. Gl 4,1-11; 4,21-5,1; Rm 8,15).",
+            "9": "Não se trata de uma encarnação em aparência ou em semelhança (como o grego homoíōma poderia ser traduzido), mas da plena assunção da condição humana.",
+            "10": "Lit.: sendo encontrado na aparência como homem. O despojamento – lit. esvaziamento (kenṓsis) – de Jesus é descrito em dois tempos: primeiro, na passagem da condição divina à humana, sem reivindicar a sua prerrogativa divina (2,6-7); segundo, ao aceitar radicalmente a contingência humana até à morte e a mais humilhante das mortes, na cruz (2,8). Tudo isto é visto como obediência, isto é, como consciente aceitação do projeto salvador de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "fl-2-n8",
+              "offset": 59,
+              "original_marker": "x",
+              "source_id": 37
+            },
+            {
+              "ref": "9",
+              "id": "fl-2-n9",
+              "offset": 81,
+              "original_marker": "a",
+              "source_id": 38
+            },
+            {
+              "ref": "10",
+              "id": "fl-2-n10",
+              "offset": 115,
+              "original_marker": "b",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 8,
@@ -202,7 +750,21 @@
         {
           "verse": 9,
           "text": "Por isso Deus o exaltou e lhe concedeu o nome que está acima de todos os nomes,",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "O nome aqui referido é Senhor, solenemente proclamado no último v. do hino. Na mentalidade semita, o nome não é apenas um apelativo prático, mas contém a identidade, o ser, da própria pessoa."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "fl-2-n11",
+              "offset": 45,
+              "original_marker": "c",
+              "source_id": 40
+            }
+          ]
         },
         {
           "verse": 10,
@@ -212,12 +774,40 @@
         {
           "verse": 11,
           "text": "e toda a língua confesse que Jesus Cristo é Senhor, para glória de Deus Pai.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Senhor (kýrios) é, na tradução grega da bíblia, o nome de Deus. Com este título, Paulo traduz uma das principais fórmulas da primitiva cristologia da exaltação: Jesus morreu, foi exaltado, está sentado à direita de Deus Pai e é Senhor (cf. Rm 1,3ss; 10,9; 14,9; 1Cor 12,3)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "fl-2-n12",
+              "offset": 50,
+              "original_marker": "d",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Assim, amados meus, obedientes como sempre tendes sido, tornai efetiva a vossa salvação, com temor e tremor, não só na minha presença, mas muito mais agora na minha ausência.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Expressão tipicamente paulina (Cf. 1Cor 2,3; 2Cor 7,15; Ef. 6,5)."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "fl-2-n13",
+              "offset": 107,
+              "original_marker": "e",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 13,
@@ -227,7 +817,21 @@
         {
           "verse": 14,
           "text": "Fazei tudo sem murmurações e sem discussões,",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Possível alusão às murmurações do povo de Israel no deserto (cf. Ex 16-17; Nm 14-17)."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "fl-2-n14",
+              "offset": 26,
+              "original_marker": "f",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 15,
@@ -241,12 +845,26 @@
         },
         {
           "verse": 17,
-          "text": "Mas, mesmo que o meu sangue venha a ser derramado em libação sobre a oferenda sacrificial da vossa fé, alegro - -me e congratulo-me com todos vós.",
-          "note_refs": []
+          "text": "Mas, mesmo que o meu sangue venha a ser derramado em libação sobre a oferenda sacrificial da vossa fé, alegro- -me e congratulo-me com todos vós.",
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Lit.: mas se também sou derramado sobre o sacrifício e liturgia da vossa fé. Usando uma metáfora cultual, Paulo compara o anúncio do evangelho, que levou os filipenses à fé, a um sacrifício agradável a Deus. Continuando a metáfora, a eventualidade da sua morte seria o feliz coroar desta oferta, com o derramar do seu sangue sobre o altar, à imagem do que acontecia com o sangue das vítimas sacrificiais (Nm 28,31;29,6)."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "fl-2-n15",
+              "offset": 101,
+              "original_marker": "g",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 18,
-          "text": "E vós alegrai-vos e congratulai-vos também comigo. O",
+          "text": "E vós alegrai-vos e congratulai-vos também comigo.",
           "note_refs": []
         },
         {
@@ -256,7 +874,7 @@
         },
         {
           "verse": 20,
-          "text": "É que não tenho mais ninguém que parti - lhe comigo os mesmos sentimentos, e que tão sinceramente se preocupe convosco,",
+          "text": "É que não tenho mais ninguém que partilhe comigo os mesmos sentimentos, e que tão sinceramente se preocupe convosco,",
           "note_refs": []
         },
         {
@@ -266,13 +884,27 @@
         },
         {
           "verse": 22,
-          "text": "Vós conhe - ceis o seu comprovado valor: como um filho com o seu pai, ele colocou-se comigo ao serviço do evangelho.",
+          "text": "Vós conheceis o seu comprovado valor: como um filho com o seu pai, ele colocou-se comigo ao serviço do evangelho.",
           "note_refs": []
         },
         {
           "verse": 23,
           "text": "Espero, pois, enviá-lo logo que veja como se resolve a minha situação.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Lit.: logo que veja as coisas acerca de mim."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "fl-2-n16",
+              "offset": 69,
+              "original_marker": "h",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 24,
@@ -307,6 +939,32 @@
         {
           "verse": 30,
           "text": "porque foi pela obra de Cristo que ele esteve às portas da morte, ao arriscar a própria vida, para vos substituir no serviço que vos era impossível prestar-me.",
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "Lit.: aproximou-se da morte pondo em risco a vida, para suprir a vossa falta do serviço a mim."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "fl-2-n17",
+              "offset": 158,
+              "original_marker": "i",
+              "source_id": 46
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Cristo, modelo da vida fraterna",
+          "note_refs": []
+        },
+        {
+          "before_verse": 19,
+          "text": "Contactos com a comunidade: Timóteo e Epafrodito",
           "note_refs": []
         }
       ]
@@ -322,17 +980,77 @@
         {
           "verse": 2,
           "text": "Tomai cuidado com os cães! Tomai cuidado com os maus operários! Tomai cuidado com os falsos circuncisos!",
-          "note_refs": []
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "Na cultura judaica (onde eram considerados, tal como os porcos, animais impuros) e na greco-romana, chamar “cão” a alguém era um grave insulto (cf. 1Sm 17,43; 2Sm 9,8; 16,9; 2Rs 8,13). Era também um título depreciativo que os judeus davam aos pagãos e que Paulo, ironicamente, reverte contra os que insistem em exigir a observância judaica.",
+            "3": "Lit.: a mutilação (katatomḗ). Paulo ironiza a partir da homofonia com a palavra circuncisão (peritomḗ). O apóstolo aproveita a ocasião para pôr de sobreaviso os filipenses, contra as ideias dos judaizantes, que colocam a sua esperança na justiça da Lei, com todos os seus tabus e as suas prescrições rituais. O tom relativamente brando, embora decidido, deve-se provavelmente ao facto de, mais do que corrigir, Paulo desejar precaver contra o perigo. Maus operários e falsos circuncisos são os cristãos de mentalidade judaica, que se apresentam como operários do evangelho, mas que o negam por não aceitarem a liberdade e gratuidade de Cristo."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "fl-3-n2",
+              "offset": 25,
+              "original_marker": "k",
+              "source_id": 48
+            },
+            {
+              "ref": "3",
+              "id": "fl-3-n3",
+              "offset": 103,
+              "original_marker": "l",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Nós é que somos a verdadeira circuncisão, nós que prestamos culto no Espírito de Deus, que nos gloriamos em Cristo Jesus e não pomos a confiança na carne.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Também a tradição judaica falava da necessidade de uma circuncisão espiritual, interior (do coração), que superava o sinal visível exterior: cf. Jr 4,4; 9,24s; Lv 26,41; Dt 10,16; 30,6; Ez 44,7; 1QS 5,5.26. Esta é apresentada por Paulo como a única válida para a comunidade cristã: cf. Rm 12,1; 2,25-29; Cl 2,11.",
+            "5": "Embora pareçam envolvidas de uma roupagem religiosa, a circuncisão feita na carne e as prescrições rituais não passam de realidades humanas. Não podem oferecer a vida em plenitude, que só Deus pode oferecer gratuitamente em Cristo, através da adesão da fé."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "fl-3-n4",
+              "offset": 40,
+              "original_marker": "a",
+              "source_id": 50
+            },
+            {
+              "ref": "5",
+              "id": "fl-3-n5",
+              "offset": 153,
+              "original_marker": "b",
+              "source_id": 51
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "E, contudo, também eu poderia ter confiança na carne. Se alguém pensa poder confiar na carne, muito mais razões teria eu para o fazer:",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: muito mais eu."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "fl-3-n6",
+              "offset": 133,
+              "original_marker": "c",
+              "source_id": 52
+            }
+          ]
         },
         {
           "verse": 5,
@@ -352,12 +1070,40 @@
         {
           "verse": 8,
           "text": "Mais ainda: considero todas as coisas como perda, perante o bem supremo que é conhecer Cristo Jesus, o meu Senhor. Por Ele tudo perdi e considerei como lixo, para ganhar a Cristo",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Não se trata apenas de um saber teórico, mas sobretudo de uma comunhão de vida, que o torna participante de tudo o que Cristo é, e o faz considerar tudo o resto como lixo (cf. 1Cor 15,45; 2Cor 3,17)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "fl-3-n7",
+              "offset": 86,
+              "original_marker": "d",
+              "source_id": 53
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "e nele me encontrar, não com uma justificação que seja minha e a partir da Lei, mas com aquela que acontece por meio da fé em Cristo, a justificação que vem de Deus e que assenta na fé.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Assenta é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "fl-3-n8",
+              "offset": 178,
+              "original_marker": "e",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 10,
@@ -372,52 +1118,226 @@
         {
           "verse": 12,
           "text": "Não quero dizer com isto que já tenha alcançado este propósito, ou que já tenha atingido a perfeição, mas continuo a correr para o poder alcançar, uma vez que também eu fui alcançado por Cristo Jesus.",
-          "note_refs": []
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "Lit.: não que já recebi.",
+            "10": "Os verbos denotam uma imagem desportiva, como se encontra em Rm 9,30 e 1Cor 9,24. Aqui, os corredores são Cristo (que já alcançou o apóstolo) e Paulo, que corre para alcançar a condição de Cristo, morto e ressuscitado."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "fl-3-n9",
+              "offset": 62,
+              "original_marker": "f",
+              "source_id": 55
+            },
+            {
+              "ref": "10",
+              "id": "fl-3-n10",
+              "offset": 123,
+              "original_marker": "g",
+              "source_id": 56
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Irmãos, eu não penso que já o tenha alcançado, mas uma coisa faço: esquecendo o que está para trás e lançando-me para diante,",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Faço é acrescento de tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "fl-3-n11",
+              "offset": 65,
+              "original_marker": "h",
+              "source_id": 57
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "corro para a meta, para o prémio a que Deus, lá do alto, nos chama, em Cristo Jesus.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: para o prémio, do alto, do chamamento de Deus em Cristo."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "fl-3-n12",
+              "offset": 83,
+              "original_marker": "i",
+              "source_id": 58
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Portanto, todos nós, que somos adultos na fé, é deste modo que devemos pensar. E se em algum aspeto pensais de modo diferente, Deus vo-lo há de revelar.",
-          "note_refs": []
+          "note_refs": [
+            "13",
+            "14",
+            "15"
+          ],
+          "notes": {
+            "13": "Lit.: acabados ou perfeitos. Cf. 1Cor 2,6 nota.",
+            "14": "Lit.: quantos, portanto, (somos) perfeitos isto pensemos.",
+            "15": "No sentido em que Deus lhes mostrará que não estão a pensar de forma correta, ou que lhes fará ver a verdade do que Paulo afirma."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "fl-3-n13",
+              "offset": 44,
+              "original_marker": "j",
+              "source_id": 59
+            },
+            {
+              "ref": "14",
+              "id": "fl-3-n14",
+              "offset": 77,
+              "original_marker": "k",
+              "source_id": 60
+            },
+            {
+              "ref": "15",
+              "id": "fl-3-n15",
+              "offset": 151,
+              "original_marker": "l",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "De qualquer modo, mantenhamos o rumo já traçado.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Lit.: àquilo a que chegámos, andar no mesmo."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "fl-3-n16",
+              "offset": 47,
+              "original_marker": "m",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Tornai-vos meus imitadores, irmãos, e ponde os olhos naqueles que seguem o exemplo que tendes em nós.",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "Lit.: olhai os que assim caminham, tal como tendes nós [como] exemplo."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "fl-3-n17",
+              "offset": 100,
+              "original_marker": "n",
+              "source_id": 63
+            }
+          ]
         },
         {
           "verse": 18,
-          "text": "É que muitos de quem tantas vezes vos falei e comportam-se como inimigos da cruz de Cristo:",
+          "text": "É que muitos – de quem tantas vezes vos falei e agora falo a chorar – comportam-se como inimigos da cruz de Cristo:",
           "note_refs": []
         },
         {
           "verse": 19,
-          "text": "o seu fim é a perdição; o seu deus é o ventre e a sua glória está naquilo que é vergonhoso eles que só pensam nas coisas da terra.",
-          "note_refs": []
+          "text": "o seu fim é a perdição; o seu deus é o ventre e a sua glória está naquilo que é vergonhoso – eles que só pensam nas coisas da terra.",
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "Lit.: na vergonha deles."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "fl-3-n18",
+              "offset": 90,
+              "original_marker": "o",
+              "source_id": 64
+            }
+          ]
         },
         {
           "verse": 20,
-          "text": "Quanto a nós, temos a nossa cidadania nos céus, de onde aguardamos ansio - samente que venha o Salvador, o Senhor Jesus Cristo.",
+          "text": "Quanto a nós, temos a nossa cidadania nos céus, de onde aguardamos ansiosamente que venha o Salvador, o Senhor Jesus Cristo.",
           "note_refs": []
         },
         {
           "verse": 21,
           "text": "Ele transformará o nosso corpo miserável, configurando-o ao seu corpo glorioso, pelo poder que Ele tem de submeter a si todas as coisas.",
+          "note_refs": [
+            "19",
+            "20"
+          ],
+          "notes": {
+            "19": "Lit.: o corpo da nossa humilhação.",
+            "20": "Lit.: segundo a energia de Ele poder também submeter a si todas as coisas. O poder de Cristo realiza-se através do caminho do despojamento solidário e da obediência ao projeto salvador de Deus, para oferecer a vida em plenitude (cf. 2,6-11). Por isso, também a submissão a esse poder não significa sujeição a um domínio despótico, mas a libertação da debilidade humana (corpo miserável) e a transfiguração à imagem do Senhor ressuscitado."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "fl-3-n19",
+              "offset": 40,
+              "original_marker": "p",
+              "source_id": 65
+            },
+            {
+              "ref": "20",
+              "id": "fl-3-n20",
+              "offset": 135,
+              "original_marker": "q",
+              "source_id": 66
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "II. EXORTAÇÕES (3,1-4,9)",
           "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Pretensões humanas e vida em Cristo",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Esta secção (3,1-4,1), sob a forma de um autoelogio, está dividida em quatro partes: nos vv.1-6, aponta exemplos de comportamentos negativos; nos vv.7-11, relata a sua história pessoal de sacrifício para conhecer Jesus; nos vv.12-16, apresenta, por meio da linguagem desportiva, a fé como um percurso; em 3,17-4,1 apresenta-se como exemplo, em contraponto com os inimigos da cruz de Cristo, mostrando a realidade da cruz na sua vida e a esperança na ressurreição."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "fl-3-n1",
+              "offset": 35,
+              "original_marker": "j",
+              "source_id": 47
+            }
+          ]
         }
       ]
     },
@@ -427,12 +1347,40 @@
         {
           "verse": 1,
           "text": "Deste modo, meus amados e saudosos irmãos, minha alegria e minha coroa, permanecei, ó amados meus, firmes no Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Meus é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "fl-4-n1",
+              "offset": 97,
+              "original_marker": "r",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Exorto Evódia e Síntique a que tenham, no Senhor, os mesmos sentimentos.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O grego acrescenta exorto."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "fl-4-n2",
+              "offset": 15,
+              "original_marker": "s",
+              "source_id": 68
+            }
+          ]
         },
         {
           "verse": 3,
@@ -447,12 +1395,49 @@
         {
           "verse": 5,
           "text": "Que a vossa bondade seja conhecida por todos. O Senhor está próximo.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: todos os homens."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "fl-4-n3",
+              "offset": 44,
+              "original_marker": "t",
+              "source_id": 69
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Que nada vos inquiete; pelo contrário, recorrei em todas as circunstâncias à oração e à súplica, juntamente com a ação de graças, apresentando a Deus os vossos pedidos.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Lit.: pelo contrário, em toda a oração e súplica com ação de graças.",
+            "5": "Lit.: [que] os pedidos de vós sejam conhecidos junto de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "fl-4-n4",
+              "offset": 128,
+              "original_marker": "u",
+              "source_id": 70
+            },
+            {
+              "ref": "5",
+              "id": "fl-4-n5",
+              "offset": 167,
+              "original_marker": "v",
+              "source_id": 71
+            }
+          ]
         },
         {
           "verse": 7,
@@ -461,7 +1446,7 @@
         },
         {
           "verse": 8,
-          "text": "Quanto ao resto, irmãos, tudo o que é verdadeiro e nobre, tudo o que é justo e puro, tudo o que é amável e digno de elogio tudo aquilo que possa ser virtude e é isso que deveis ter no pensamento.",
+          "text": "Quanto ao resto, irmãos, tudo o que é verdadeiro e nobre, tudo o que é justo e puro, tudo o que é amável e digno de elogio – tudo aquilo que possa ser virtude e digno de louvor – é isso que deveis ter no pensamento.",
           "note_refs": []
         },
         {
@@ -471,18 +1456,69 @@
         },
         {
           "verse": 10,
-          "text": "Muito me alegrei no Senhor por terem, finalmente, reflorescido os vossos senti - mentos por mim. Na verdade, os sentimentos já os tínheis, mas ainda não tínheis tido a oportunidade de os demonstrar.",
-          "note_refs": []
+          "text": "Muito me alegrei no Senhor por terem, finalmente, reflorescido os vossos sentimentos por mim. Na verdade, os sentimentos já os tínheis, mas ainda não tínheis tido a oportunidade de os demonstrar.",
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "A concluir, Paulo manifesta o seu grande afeto pelos filipenses, não tanto pelas ofertas recebidas, que agradece, mas sobretudo a fiel solicitude que tal gesto da comunidade significa.",
+            "7": "De os demonstrar é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "fl-4-n6",
+              "offset": 92,
+              "original_marker": "a",
+              "source_id": 72
+            },
+            {
+              "ref": "7",
+              "id": "fl-4-n7",
+              "offset": 194,
+              "original_marker": "b",
+              "source_id": 73
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Não o digo por necessidade, pois aprendi a bastar-me a mim próprio, seja qual for a situação em que me encontre.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Paulo nunca quis depender financeiramente da comunidade para salvaguardar a sua liberdade e a do evangelho (cf. 1Cor 9,4-18; 2Cor 11,7-10; 12,13-18; 1Ts 2,5-9)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "fl-4-n8",
+              "offset": 66,
+              "original_marker": "c",
+              "source_id": 74
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Sei viver na pobreza e sei viver na abundância; estou preparado em tudo e para tudo: a viver saciado e a passar fome, a viver na abundância e a passar necessidades.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: fui iniciado."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "fl-4-n9",
+              "offset": 63,
+              "original_marker": "d",
+              "source_id": 75
+            }
+          ]
         },
         {
           "verse": 13,
@@ -497,17 +1533,59 @@
         {
           "verse": 15,
           "text": "Vós bem sabeis, filipenses, que, no início da pregação do evangelho, quando saí da Macedónia, nenhuma Igreja abriu uma conta corrente a meu favor senão vós.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: comungou comigo para a conta do ato de dar e de receber."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "fl-4-n10",
+              "offset": 145,
+              "original_marker": "e",
+              "source_id": 76
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "E, quando estava em Tessalónica, várias vezes me enviastes o que era necessário.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: enviastes-me uma vez e duas para a necessidade."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "fl-4-n11",
+              "offset": 79,
+              "original_marker": "f",
+              "source_id": 77
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Não é que eu ande à procura de dádivas; pelo contrário, o que eu procuro é o fruto que faça aumentar o vosso crédito.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: mas procuro o fruto, que aumenta para a vossa conta (lógos)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "fl-4-n12",
+              "offset": 116,
+              "original_marker": "g",
+              "source_id": 78
+            }
+          ]
         },
         {
           "verse": 18,
@@ -517,12 +1595,40 @@
         {
           "verse": 19,
           "text": "E o meu Deus, de acordo com a sua riqueza, há de prover com generosidade, em Cristo Jesus, a todas as vossas necessidades.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Lit.: em glória."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "fl-4-n13",
+              "offset": 72,
+              "original_marker": "h",
+              "source_id": 79
+            }
+          ]
         },
         {
           "verse": 20,
-          "text": "Ao nosso Deus e Pai seja dada a glória, pelos séculos dos séculos! Ámen. (4,21-23)",
-          "note_refs": []
+          "text": "Ao nosso Deus e Pai seja dada a glória, pelos séculos dos séculos! Ámen.",
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Seja dada é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "fl-4-n14",
+              "offset": 29,
+              "original_marker": "i",
+              "source_id": 80
+            }
+          ]
         },
         {
           "verse": 21,
@@ -532,11 +1638,47 @@
         {
           "verse": 22,
           "text": "Saúdam-vos todos os santos, especialmente os da casa de César.",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "A expressão refere-se aos funcionários do imperador, em Roma, ou aos da administração imperial nas províncias, à semelhança da referência ao pretório em 1,13. Em ambos os casos significa que, entre essas pessoas, havia já cristãos."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "fl-4-n15",
+              "offset": 61,
+              "original_marker": "j",
+              "source_id": 81
+            }
+          ]
         },
         {
           "verse": 23,
           "text": "A graça do Senhor Jesus Cristo esteja com o vosso espírito!",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 2,
+          "text": "Recomendações",
+          "note_refs": []
+        },
+        {
+          "before_verse": 10,
+          "text": "III. AGRADECIMENTO PELOS DONS RECEBIDOS (4,10-20)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 21,
+          "text": "CONCLUSÃO",
+          "note_refs": []
+        },
+        {
+          "before_verse": 21,
+          "text": "Saudações finais (4,21-23)",
           "note_refs": []
         }
       ]

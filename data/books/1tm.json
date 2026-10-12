@@ -1,5 +1,38 @@
 {
+  "schema_version": 2,
   "book": "1 Timóteo",
+  "book_id": "1tm",
+  "source": {
+    "format": "docx",
+    "file": "61_1Tm2TmTt.docx",
+    "title": "As Cartas Pastorais",
+    "segment": "PRIMEIRA CARTA A TIMÓTEO"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": null,
+        "paragraphs": [
+          "As duas cartas que Paulo dirigiu a Timóteo e a que endereçou a Tito são designadas por pastorais, pelo facto de, ao contrário das do restante epistolário paulino remetidas a comunidades determinadas, estas serem destinadas, respetivamente, aos responsáveis das comunidades eclesiais de Éfeso e de Creta. Tal como as cartas fazem notar, estes tinham a missão de organizar as suas comunidades, investir presbíteros e garantir a fidelidade à doutrina recebida, defendendo-a dos heréticos. As três cartas apresentam afinidades a nível da terminologia, do estilo e do género literário, com abundantes recomendações, advertências e disposições normativas em relação à vida das comunidades.",
+          "Todas elas evidenciam elementos comuns em relação às cartas que a maioria dos autores atribui a Paulo (as chamadas protopaulinas), mas também diferenças significativas, começando pelo facto de o apóstolo não intervir diretamente na comunidade, mas por meio dos seus responsáveis. Essas diferenças fazem-se notar, sobretudo, na língua e no estilo (muitas palavras compostas e construções sintáticas que não se encontram nos demais escritos paulinos, uso de palavras-chave ausentes nos escritos anteriores, etc.), na presença de novos temas teológicos (Cristo-Salvador, a encarnação como epifania, etc.), na ausência de outros importantes para o apóstolo (a justificação, a cruz, a liberdade, etc.) e na apresentação de uma realidade eclesial muito mais organizada do que a refletida nas protopaulinas. Por isso – e embora alguns autores expliquem tais factos por uma evolução no pensamento paulino e na realidade das comunidades – a maioria considera estas cartas como pseudoepigráficas – um procedimento comum na Antiguidade – em que o autor seria alguém posterior a Paulo e seu discípulo, que, remetendo-se para a autoridade dos ensinamentos do apóstolo, os atualiza para as novas realidades eclesiais. Tais realidades parecem enquadrar-se no contexto vital da terceira geração cristã, o que coloca a datação das cartas no período entre os finais do séc. I e princípios do séc. II."
+        ]
+      },
+      {
+        "title": null,
+        "paragraphs": [
+          "Contexto",
+          "Timóteo, originário de Listra (no sul da atual Turquia), era discípulo e colaborador de Paulo desde a segunda viagem missionária (At 16,1-3). Paulo, ao partir para a Macedónia, deixa-o em Éfeso (1,3) e endereça-lhe a presente carta, onde apresenta orientações claras para a organização desta comunidade eclesial. Timóteo deverá defender a verdade do evangelho diante dos falsos mestres (1,3-7; 4,1-5; 6,3-12), educar os cristãos para a oração e cumprimento das boas obras (2,1-10), e escolher com prudência os responsáveis das comunidades (3,1-13; 5,17-22).",
+          "Estrutura",
+          "Endereço e saudação (1,1s)",
+          "Corpo da carta (1,3-6,19)",
+          "I. Instruções básicas (1,3-20)",
+          "II. Organização interna da comunidade eclesial (2,1-6,19)",
+          "Epílogo (6,20s)"
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,12 +40,40 @@
         {
           "verse": 1,
           "text": "Paulo, apóstolo de Cristo Jesus, por ordem de Deus, nosso Salvador, e de Cristo Jesus, nossa esperança,",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Ao contrário do que acontece no resto do NT, em que o título Salvador é aplicado a Jesus (com exceção de Lc 1,47; Jd 25), nas cartas pastorais é aplicado quer a Jesus (2Tm 1,10; Tt 1,4; 2,13; 3,6), quer a Deus (1,1; 2,3; 4,10; Tt 1,3; 2,10; 3,4)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1tm-1-n1",
+              "offset": 66,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "a Timóteo, meu verdadeiro filho na fé: a graça, a misericórdia e a paz da parte de Deus Pai e de Cristo Jesus, nosso Senhor. (1,3-20)",
-          "note_refs": []
+          "text": "a Timóteo, meu verdadeiro filho na fé: a graça, a misericórdia e a paz da parte de Deus Pai e de Cristo Jesus, nosso Senhor.",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Meu é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "1tm-1-n2",
+              "offset": 14,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 3,
@@ -22,12 +83,58 @@
         {
           "verse": 4,
           "text": "nem aderir a fábulas e a genealogias intermináveis, que mais favorecem as polémicas do que o desígnio de Deus, que se realiza na fé.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4",
+            "5"
+          ],
+          "notes": {
+            "3": "Possível referência às fábulas dos cultos pagãos (cf. 4,7), ou mesmo judaicas (cf. Tt 1,14), e às longas listas genealógicas próprias dos patriarcas e heróis bíblicos, tal como surgem no Livro dos Jubileus.",
+            "4": "Lit.: economia de Deus.",
+            "5": "Se realiza é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "1tm-1-n3",
+              "offset": 50,
+              "original_marker": "c",
+              "source_id": 3
+            },
+            {
+              "ref": "4",
+              "id": "1tm-1-n4",
+              "offset": 109,
+              "original_marker": "d",
+              "source_id": 4
+            },
+            {
+              "ref": "5",
+              "id": "1tm-1-n5",
+              "offset": 125,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Tal instrução tem como finalidade incrementar o amor que procede de um coração puro, de uma boa consciência e de uma fé sem fingimento.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Incrementar é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "1tm-1-n6",
+              "offset": 45,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 6,
@@ -47,12 +154,40 @@
         {
           "verse": 9,
           "text": "tendo em conta o seguinte: a lei não foi estabelecida para o justo, mas para os iníquos e insubordinados, para os ímpios e pecadores, para os sacrílegos e profanadores, para os parricidas e matricidas, para assassinos,",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: está posta."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "1tm-1-n7",
+              "offset": 53,
+              "original_marker": "g",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "promíscuos, homens que se deitam com homens, traficantes de seres humanos, mentirosos, perjuros, e para tudo aquilo que se opõe à salutar doutrina,",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: está posto contra, verbo que cria contraposição com o verbo usado no v. anterior."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "1tm-1-n8",
+              "offset": 127,
+              "original_marker": "h",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 11,
@@ -67,7 +202,21 @@
         {
           "verse": 13,
           "text": "a mim, que antes era blasfemo, perseguidor e injurioso. Mas alcancei misericórdia, porque o fazia por ignorância, por viver ainda na incredulidade.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Por viver ainda é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "1tm-1-n9",
+              "offset": 129,
+              "original_marker": "i",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 14,
@@ -77,31 +226,142 @@
         {
           "verse": 15,
           "text": "É digna de fé e de toda a aceitação esta palavra: Cristo Jesus veio ao mundo para salvar os pecadores, e eu sou o primeiro deles.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: a palavra [é] fiável e digna de toda a aceitação. A expressão grega, que é sempre traduzida por é digna de fé esta palavra, aparece com frequência nas cartas pastorais como forma de vincar a legitimidade apostólica do que se afirma e, portanto, enfatizar não só o facto de ser doutrina certa e segura (cf. 3,1; 4,9; 2Tm 2,11; Tt 3,8), mas também a necessidade de a acolher e viver."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "1tm-1-n10",
+              "offset": 48,
+              "original_marker": "a",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "No entanto, e precisamente por isso, alcancei misericórdia, para que fosse em mim, em primeiro lugar, que Cristo Jesus mostrasse toda a sua magnanimidade, a fim de eu servir de exemplo àqueles que haveriam de acreditar nele, para terem a vida eterna.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: para a vida eterna."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "1tm-1-n11",
+              "offset": 235,
+              "original_marker": "b",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Ao Rei dos séculos, ao Deus incorruptível, invisível e único, honra e glória pelos séculos dos séculos! Ámen.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Alguns mss. leem imortal."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "1tm-1-n12",
+              "offset": 41,
+              "original_marker": "c",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "É esta a instrução que te dou, meu filho Timóteo, de acordo com as profecias já sobre ti pronunciadas, a fim de que, assente nelas, tu combatas o bom combate,",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Assente é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "1tm-1-n13",
+              "offset": 124,
+              "original_marker": "d",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 19,
-          "text": "conservando a fé e uma boa consciência. Por a terem rejeitado, alguns naufraga - ram,",
-          "note_refs": []
+          "text": "conservando a fé e uma boa consciência. Por a terem rejeitado, alguns naufragaram,",
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Lit.: tendo."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "1tm-1-n14",
+              "offset": 11,
+              "original_marker": "e",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 20,
-          "text": "como é o caso de Himeneu e Alexandre, que entreguei a Satanás para que aprendam a não blasfemar. (2,1-6,19)",
+          "text": "como é o caso de Himeneu e Alexandre, que entreguei a Satanás para que aprendam a não blasfemar.",
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "O nome de Himeneu encontra-se em 2Tm 2,17 e o de Alexandre em 2Tm 4,14. A referência à entrega destes homens a Satanás, por parte de Paulo, refere-se à sua exclusão da comunidade (cf. 1Cor 5,5)."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "1tm-1-n15",
+              "offset": 36,
+              "original_marker": "f",
+              "source_id": 15
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "ENDEREÇO E SAUDAÇÃO (1,1-2)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "INSTRUÇÕES BÁSICAS (1,3-20)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "Advertência contra falsas doutrinas",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Ação de graças",
+          "note_refs": []
+        },
+        {
+          "before_verse": 18,
+          "text": "Combater o bom combate da fé",
           "note_refs": []
         }
       ]
@@ -112,12 +372,40 @@
         {
           "verse": 1,
           "text": "Exorto, portanto, primeiro que tudo, a que se façam preces, orações, súplicas e ações de graças por todos os homens,",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Paulo passa, a partir deste v., a tratar de assuntos relativos à vida interna da Igreja em geral (cf. 3,14s), dos quais a oração é considerada como o mais importante."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1tm-2-n1",
+              "offset": 35,
+              "original_marker": "g",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "pelos reis e por todos aqueles que estão investidos de autoridade, para que possamos ter uma vida tranquila e sossegada, com toda a piedade e dignidade.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: os que estão em proeminência."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "1tm-2-n2",
+              "offset": 65,
+              "original_marker": "h",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 3,
@@ -137,21 +425,49 @@
         {
           "verse": 6,
           "text": "que a si mesmo se entregou em resgate por todos. Tal é o testemunho que foi dado no tempo oportuno,",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: o testemunho em tempos próprios."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "1tm-2-n3",
+              "offset": 98,
+              "original_marker": "i",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "e do qual digo a verdade, não minto eu fui constituído arauto e apóstolo, mestre dos pagãos, na fé e na verdade.",
+          "text": "e do qual – digo a verdade, não minto – eu fui constituído arauto e apóstolo, mestre dos pagãos, na fé e na verdade.",
           "note_refs": []
         },
         {
           "verse": 8,
           "text": "O meu desejo é, pois, que em todos os lugares os homens rezem, erguendo ao céu as mãos puras, sem ira nem discussões,",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Ao céu é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1tm-2-n4",
+              "offset": 78,
+              "original_marker": "j",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "e que, do mesmo modo, as mulheres se apresentem em trajes decentes e se adornem com modéstia e bom senso, sem pen - teados elaborados, ouro, pérolas ou vestidos sumptuosos,",
+          "text": "e que, do mesmo modo, as mulheres se apresentem em trajes decentes e se adornem com modéstia e bom senso, sem penteados elaborados, ouro, pérolas ou vestidos sumptuosos,",
           "note_refs": []
         },
         {
@@ -167,7 +483,21 @@
         {
           "verse": 12,
           "text": "Não permito à mulher que ensine, nem que exerça autoridade sobre o homem; pelo contrário, permaneça sossegada.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Paulo, ao longo dos seus escritos, revelou um grande apreço pelas mulheres, aceitando-as como cooperadoras ou líderes em várias comunidades eclesiais (cf. Flp 4,2s; Rm 16,1-16; 1Cor 16,19). As restrições impostas às mulheres, que aparecem nesta passagem e em dois outros textos (1Cor 11,2-17; 14,34s), refletem problemas particulares locais que não têm necessariamente incidência ou consequências universais, e há mesmo quem defenda que se trata de acrescentos posteriores."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "1tm-2-n5",
+              "offset": 109,
+              "original_marker": "k",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 13,
@@ -182,6 +512,37 @@
         {
           "verse": 15,
           "text": "Mas salvar-se-á pela maternidade, se, com bom senso, permanecer na fé, no amor e na santidade.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Estas afirmações sobre a missão da mulher como mãe e educadora, como condição para a sua salvação, parecem ser uma resposta aos falsos mestres que condenariam o matrimónio e a procriação (4,3)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "1tm-2-n6",
+              "offset": 32,
+              "original_marker": "l",
+              "source_id": 21
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "ORGANIZAÇÃO INTERNA DA COMUNIDADE ECLESIAL (2,1-6,19)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Recomendações sobre a oração litúrgica",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "Atitudes na assembleia litúrgica",
           "note_refs": []
         }
       ]
@@ -197,7 +558,30 @@
         {
           "verse": 2,
           "text": "É necessário, contudo, que o bispo seja irrepreensível, casado uma só vez, sóbrio, de bom senso, respeitável, hospitaleiro, capaz de ensinar,",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "O termo epískopos (bispo: cf. At 20,28; Flp 1,1) significa algo como vigilante e não tem aqui ainda o significado de chefe único da comunidade local, como acontecerá no tempo das cartas de S. Inácio de Antioquia (primórdios do séc. II). Na presidência das comunidades, ao lado dos epískopoí, encontramos também presbýteroi (presbíteros, anciãos: cf. At 11,30; 14,23; 15,2-5; 20,17; 21,18; Tt 1,5; Tg 5,14; 1Pd 5,1; 2Jo 1; 3Jo 1); os dois termos na prática designam a mesma missão (dirigir as comunidades, ensinar a palavra de Deus, defender a comunidade de falsas doutrinas) e, por vezes, parecem referir-se indiscriminadamente às mesmas pessoas (cf. At 20,17.28).",
+            "2": "Lit.: homem de uma única mulher (cf. 3,12; 5,9; Tt 1,6), expressão que pode ter três interpretações: que case uma única vez (o que significa que, no caso de enviuvar, deve manter-se célibe; esta é a interpretação que vingou na tradição disciplinar de muitas Igrejas); que não seja polígamo (o que no contexto judaico parece não ter sentido, pois a poligamia não fazia parte nem do ambiente judaico nem do greco-romano); que não tenha deixado a mulher para se casar com outra (o que, tendo em conta a tradição cristã atestada em Mc 10,1-12 par. não parece ter cabimento)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1tm-3-n1",
+              "offset": 34,
+              "original_marker": "m",
+              "source_id": 22
+            },
+            {
+              "ref": "2",
+              "id": "1tm-3-n2",
+              "offset": 73,
+              "original_marker": "n",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 3,
@@ -206,8 +590,22 @@
         },
         {
           "verse": 4,
-          "text": "e governe bem a sua própria casa, fazendo com que os filhos sejam dóceis e inteiramen - te dignos.",
-          "note_refs": []
+          "text": "e governe bem a sua própria casa, fazendo com que os filhos sejam dóceis e inteiramente dignos.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: tendo os filhos na docilidade, com toda a dignidade."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "1tm-3-n3",
+              "offset": 94,
+              "original_marker": "o",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 5,
@@ -217,22 +615,82 @@
         {
           "verse": 6,
           "text": "Que não seja um recém-convertido, não aconteça que, cegado pela vaidade, venha a cair na mesma condenação do Diabo.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Lit.: neófito, termo que se refere a um recém-batizado.",
+            "5": "Lit.: se encha de fumo."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1tm-3-n4",
+              "offset": 32,
+              "original_marker": "p",
+              "source_id": 25
+            },
+            {
+              "ref": "5",
+              "id": "1tm-3-n5",
+              "offset": 71,
+              "original_marker": "q",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "É também necessário O que tenha boa reputação entre os de fora, para que não caia no descrédito e nas armadilhas do Diabo.",
+          "text": "É também necessário que tenha boa reputação entre os de fora, para que não caia no descrédito e nas armadilhas do Diabo.",
           "note_refs": []
         },
         {
           "verse": 8,
           "text": "Que, do mesmo modo, os diáconos sejam dignos, homens de palavra, não sejam propensos ao excesso de vinho nem dados a lucros desonestos,",
-          "note_refs": []
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Cf. Flp 1,1 nota.",
+            "7": "Lit.: não de duas palavras."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "1tm-3-n6",
+              "offset": 31,
+              "original_marker": "a",
+              "source_id": 27
+            },
+            {
+              "ref": "7",
+              "id": "1tm-3-n7",
+              "offset": 63,
+              "original_marker": "b",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "e que conservem o mistério da fé numa consciência pura.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "O mistério da fé é o plano divino de salvação, revelado plenamente e realizado em Jesus Cristo (cf. Rm 16,25; Ef 1,9s; Cl 1,26; 2,2)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "1tm-3-n8",
+              "offset": 32,
+              "original_marker": "c",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 10,
@@ -247,12 +705,40 @@
         {
           "verse": 12,
           "text": "Que os diáconos sejam casados uma só vez, e saibam governar bem os filhos e a sua própria casa.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: sejam homens de uma única mulher (cf. 3,2; 5,9; Tt 1,6)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "1tm-3-n9",
+              "offset": 40,
+              "original_marker": "d",
+              "source_id": 30
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Pois aqueles que exercem bem o diaconado obtêm para si mesmos uma boa reputação e uma grande confiança assente na fé em Cristo Jesus.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Ou na fé [com o sentido de fidelidade] que há em Cristo Jesus."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "1tm-3-n10",
+              "offset": 132,
+              "original_marker": "e",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 14,
@@ -267,6 +753,46 @@
         {
           "verse": 16,
           "text": "Tal como todos nós o confessamos, é grande o mistério da piedade: Aquele que foi manifestado na carne, foi declarado justo pelo Espírito, visto pelos anjos, anunciado entre as nações, acreditado no mundo, exaltado na glória.",
+          "note_refs": [
+            "11",
+            "12"
+          ],
+          "notes": {
+            "11": "Lit.: e confessadamente é grande.",
+            "12": "Para o conceito de justiça/justificação, cf. Rm 1,17 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "1tm-3-n11",
+              "offset": 42,
+              "original_marker": "f",
+              "source_id": 32
+            },
+            {
+              "ref": "12",
+              "id": "1tm-3-n12",
+              "offset": 122,
+              "original_marker": "g",
+              "source_id": 33
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Qualidades dos bispos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "Qualidades dos diáconos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 14,
+          "text": "Comportamento na casa de Deus",
           "note_refs": []
         }
       ]
@@ -277,12 +803,49 @@
         {
           "verse": 1,
           "text": "O Espírito diz expressamente que, nos últimos tempos, alguns se afastarão da fé, aderindo a espíritos enganadores e a doutrinas demoníacas,",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Ou apostatarão, no sentido de renegar a fé."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1tm-4-n1",
+              "offset": 73,
+              "original_marker": "h",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "seduzidos pela hipocrisia dos mentirosos, que têm a sua própria consciência como que destruída por um ferro em brasa.",
-          "note_refs": []
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "Seduzidos é acrescento da tradução.",
+            "3": "Lit.: tendo queimado a própria consciência. Esta imagem inspira-se na marca que, com um ferro em brasa, se fazia nos escravos fugitivos e que destruía a carne que queimava."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "1tm-4-n2",
+              "offset": 9,
+              "original_marker": "i",
+              "source_id": 35
+            },
+            {
+              "ref": "3",
+              "id": "1tm-4-n3",
+              "offset": 116,
+              "original_marker": "j",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 3,
@@ -292,7 +855,21 @@
         {
           "verse": 4,
           "text": "Porque tudo o que Deus criou é bom, e nada do que é tomado com ações de graças se deve rejeitar,",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: é rejeitável."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1tm-4-n4",
+              "offset": 95,
+              "original_marker": "k",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 5,
@@ -302,12 +879,49 @@
         {
           "verse": 6,
           "text": "Ao expores estas coisas aos irmãos, estarás a ser um bom ministro de Cristo Jesus, alimentado com as palavras da fé e da boa doutrina, que tens seguido com rigor.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A palavra grega utilizada é diákonos (cf. 2Cor 3,6 nota), com a qual Paulo recorda a Timóteo que a diaconia, ou seja, o serviço, é uma atitude de todos e, de um modo particular, dos responsáveis das comunidades, que se concretiza também nas orientações disciplinares."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "1tm-4-n5",
+              "offset": 65,
+              "original_marker": "l",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Rejeita as fábulas profanas e que são próprias de gente senil. Exercita-te a ti mesmo na piedade,",
-          "note_refs": []
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Cf. 1,4 nota.",
+            "7": "Lit.: própria de velhas."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "1tm-4-n6",
+              "offset": 18,
+              "original_marker": "m",
+              "source_id": 39
+            },
+            {
+              "ref": "7",
+              "id": "1tm-4-n7",
+              "offset": 61,
+              "original_marker": "n",
+              "source_id": 40
+            }
+          ]
         },
         {
           "verse": 8,
@@ -317,7 +931,21 @@
         {
           "verse": 9,
           "text": "É digna de fé esta palavra e de toda a aceitação.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: A palavra [é] fiável e digna de aceitação."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "1tm-4-n8",
+              "offset": 48,
+              "original_marker": "o",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 10,
@@ -347,11 +975,37 @@
         {
           "verse": 15,
           "text": "Presta especial atenção a estas coisas e sê nelas perseverante, para que o teu progresso seja manifesto a todos.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: fica."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "1tm-4-n9",
+              "offset": 62,
+              "original_marker": "p",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "Tem cuidado contigo e com a doutrina, persevera nestas coisas, pois, ao agires deste modo, não só te salvarás a ti, como também àqueles que te ouvirem.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Contra os falsos mestres",
+          "note_refs": []
+        },
+        {
+          "before_verse": 6,
+          "text": "Modelo dos fiéis",
           "note_refs": []
         }
       ]
@@ -377,7 +1031,21 @@
         {
           "verse": 4,
           "text": "Se uma viúva tem filhos ou netos, que eles aprendam, primeiro que tudo, a praticar a piedade para com os da própria casa e a retribuir aos pais o que deles receberam, pois isto é agradável a Deus.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.: entregar aos pais as retribuições."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1tm-5-n1",
+              "offset": 165,
+              "original_marker": "q",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 5,
@@ -402,12 +1070,40 @@
         {
           "verse": 9,
           "text": "Que seja inscrita como viúva apenas aquela que tiver uma idade não inferior a sessenta anos, que tiver sido casada uma só vez",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: mulher de um só homem (cf. 3,2; 3,12; Tt 1,6)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "1tm-5-n2",
+              "offset": 125,
+              "original_marker": "a",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "e dado testemunho com boas obras, isto é, se tiver educado os filhos, praticado a hospitalidade, lavado os pés dos santos, assistido os atribulados, e se tiver dedicado a toda a espécie de boas obras.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Trata-se de um gesto humilde de acolhimento e hospitalidade para com os missionários itinerantes, ou mesmo para com os cristãos (os santos, santificados pelo batismo) que passavam pela comunidade."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "1tm-5-n3",
+              "offset": 121,
+              "original_marker": "b",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 11,
@@ -421,13 +1117,36 @@
         },
         {
           "verse": 13,
-          "text": "Além disso, habituam-se a viver no ócio, andando de casa em casa, o que faz com que sejam não só ociosas, mas também tagarelas e introme - tidas, falando daquilo que não se deve.",
+          "text": "Além disso, habituam-se a viver no ócio, andando de casa em casa, o que faz com que sejam não só ociosas, mas também tagarelas e intrometidas, falando daquilo que não se deve.",
           "note_refs": []
         },
         {
           "verse": 14,
           "text": "O meu desejo é, pois, que as viúvas mais jovens se casem de novo, tenham filhos e governem a própria casa, para não dar ao adversário um pretexto para a maledicência.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Própria é acrescento da tradução.",
+            "5": "Referência aos que se opõem à fé cristã, ou a Satanás, referido no v. seguinte."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "1tm-5-n4",
+              "offset": 100,
+              "original_marker": "c",
+              "source_id": 46
+            },
+            {
+              "ref": "5",
+              "id": "1tm-5-n5",
+              "offset": 133,
+              "original_marker": "d",
+              "source_id": 47
+            }
+          ]
         },
         {
           "verse": 15,
@@ -436,23 +1155,115 @@
         },
         {
           "verse": 16,
-          "text": "Se alguma mulher crente tem viúvas na família, preste-lhes assistência e não sobrecarregue a Igreja, para que esta possa prestar assistência às que são verdadei - ramente viúvas.",
-          "note_refs": []
+          "text": "Se alguma mulher crente tem viúvas na família, preste-lhes assistência e não sobrecarregue a Igreja, para que esta possa prestar assistência às que são verdadeiramente viúvas.",
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Na família é acrescento da tradução.",
+            "7": "Ou seja, às que não têm ninguém que as ajude."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "1tm-5-n6",
+              "offset": 45,
+              "original_marker": "e",
+              "source_id": 48
+            },
+            {
+              "ref": "7",
+              "id": "1tm-5-n7",
+              "offset": 174,
+              "original_marker": "f",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Que os presbíteros, que exercem bem a presidência, sejam considerados merecedores de uma estima redobrada, sobretudo os que se afadigam na pregação e no ensino.",
-          "note_refs": []
+          "note_refs": [
+            "8",
+            "9",
+            "10"
+          ],
+          "notes": {
+            "8": "Cf. 3,2 nota.",
+            "9": "Lit.: dupla estima; alguns traduzem como dupla remuneração.",
+            "10": "Lit.: palavra."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "1tm-5-n8",
+              "offset": 49,
+              "original_marker": "g",
+              "source_id": 50
+            },
+            {
+              "ref": "9",
+              "id": "1tm-5-n9",
+              "offset": 105,
+              "original_marker": "h",
+              "source_id": 51
+            },
+            {
+              "ref": "10",
+              "id": "1tm-5-n10",
+              "offset": 147,
+              "original_marker": "i",
+              "source_id": 52
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "Diz, de facto, a Escritura: Não açaimarás o boi que debulha, e ainda: O trabalhador merece o seu salário.",
-          "note_refs": []
+          "note_refs": [
+            "11",
+            "12"
+          ],
+          "notes": {
+            "11": "Dt 25,4.",
+            "12": "Citação de uma frase proferida por Jesus em Lc 10,7, o que significa que já nesta altura a comunidade considerava os escritos com as palavras de Jesus como Escritura sagrada."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "1tm-5-n11",
+              "offset": 59,
+              "original_marker": "j",
+              "source_id": 53
+            },
+            {
+              "ref": "12",
+              "id": "1tm-5-n12",
+              "offset": 104,
+              "original_marker": "k",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 19,
-          "text": "Não aceites uma acusação contra um presbíte - ro, a não ser na presença de duas ou três testemunhas,",
-          "note_refs": []
+          "text": "Não aceites uma acusação contra um presbítero, a não ser na presença de duas ou três testemunhas,",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Dt. 19,15."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "1tm-5-n13",
+              "offset": 96,
+              "original_marker": "l",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 20,
@@ -471,17 +1282,48 @@
         },
         {
           "verse": 23,
-          "text": "Não bebas apenas água, mas toma um pouco de vinho por causa do teu estôma - go e das tuas frequentes indisposições.",
+          "text": "Não bebas apenas água, mas toma um pouco de vinho por causa do teu estômago e das tuas frequentes indisposições.",
           "note_refs": []
         },
         {
           "verse": 24,
           "text": "Enquanto os pecados de alguns homens se tornam evidentes antes de serem submetidos a juízo, os de outros surgem apenas depois.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Lit.: seguem."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "1tm-5-n14",
+              "offset": 111,
+              "original_marker": "m",
+              "source_id": 56
+            }
+          ]
         },
         {
           "verse": 25,
           "text": "Do mesmo modo, também as obras boas se tornam evidentes; e aquelas que o não são não poderão manter-se escondidas.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Diversas categorias de fiéis",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "As viúvas",
+          "note_refs": []
+        },
+        {
+          "before_verse": 17,
+          "text": "Os presbíteros",
           "note_refs": []
         }
       ]
@@ -491,13 +1333,27 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Que todos aqueles que se encontram sob o jugo da escravidão considerem os seus senhores merecedores de toda a estima, para que o nome de Deus e a dou - trina não fiquem sujeitos à blasfémia.",
+          "text": "Que todos aqueles que se encontram sob o jugo da escravidão considerem os seus senhores merecedores de toda a estima, para que o nome de Deus e a doutrina não fiquem sujeitos à blasfémia.",
           "note_refs": []
         },
         {
           "verse": 2,
           "text": "Aqueles, porém, que têm senhores que são crentes não lhes tenham menos respeito pelo facto de serem irmãos; pelo contrário, sirvam-nos ainda melhor, porque os que beneficiam dos seus serviços são crentes e irmãos amados. É isto que deves ensinar e exortar.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Irmãos é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "1tm-6-n1",
+              "offset": 212,
+              "original_marker": "n",
+              "source_id": 57
+            }
+          ]
         },
         {
           "verse": 3,
@@ -506,8 +1362,22 @@
         },
         {
           "verse": 4,
-          "text": "é alguém cegado pela vaidade, um ignorante, um obcecado por controvérsias e discussões, das quais nascem invejas, discórdias, calúnias, conje - turas maldosas",
-          "note_refs": []
+          "text": "é alguém cegado pela vaidade, um ignorante, um obcecado por controvérsias e discussões, das quais nascem invejas, discórdias, calúnias, conjeturas maldosas",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: se encha de fumo."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "1tm-6-n2",
+              "offset": 28,
+              "original_marker": "o",
+              "source_id": 58
+            }
+          ]
         },
         {
           "verse": 5,
@@ -517,7 +1387,30 @@
         {
           "verse": 6,
           "text": "A piedade é, de facto, uma fonte de grande lucro, mas apenas para aquele que se contenta com o que tem.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Apenas é acrescento da tradução.",
+            "4": "Em grego autárkeia, um termo corrente já na tradição filosófica grega para descrever a virtude de se viver tranquilo com o que se tem."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "1tm-6-n3",
+              "offset": 60,
+              "original_marker": "p",
+              "source_id": 59
+            },
+            {
+              "ref": "4",
+              "id": "1tm-6-n4",
+              "offset": 102,
+              "original_marker": "q",
+              "source_id": 60
+            }
+          ]
         },
         {
           "verse": 7,
@@ -527,22 +1420,87 @@
         {
           "verse": 8,
           "text": "Se tivermos o que comer e o que vestir, fiquemos contentes com isso.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: tendo alimentos e roupas."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "1tm-6-n5",
+              "offset": 38,
+              "original_marker": "r",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Aqueles que querem enriquecer caem na tentação, numa armadilha de muitos desejos insensatos e funestos, que afundam os homens na ruína e na perdição.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: em armadilha e muitos desejos."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "1tm-6-n6",
+              "offset": 80,
+              "original_marker": "s",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "De facto, o amor ao dinheiro é a raiz de todos os males; guiados por tal desejo, alguns afastaram-se da fé e a si mesmos infligiram muitos sofrimentos.",
-          "note_refs": []
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Lit.: desejando-o [o amor ao dinheiro].",
+            "8": "Lit.: trespassaram-se a si mesmos com muitos sofrimentos."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "1tm-6-n7",
+              "offset": 79,
+              "original_marker": "t",
+              "source_id": 63
+            },
+            {
+              "ref": "8",
+              "id": "1tm-6-n8",
+              "offset": 150,
+              "original_marker": "u",
+              "source_id": 64
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Tu, porém, homem de Deus, foge destas coisas. Procura, pelo contrário, a justiça, a piedade, a fé, o amor, a perseverança, a mansidão.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "A expressão homem de Deus era aplicada a Moisés e aos profetas (cf. Dt 33,1; 1Sm 2,27; 1Rs 12,22; 13,1); o serviço dedicado ao Senhor faz Paulo igualar Timóteo às grandes personagens do AT."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "1tm-6-n9",
+              "offset": 24,
+              "original_marker": "a",
+              "source_id": 65
+            }
+          ]
         },
         {
           "verse": 12,
@@ -557,12 +1515,40 @@
         {
           "verse": 14,
           "text": "que guardes o mandamento, sem mancha e de modo irrepreensível, até à manifestação do nosso Senhor Jesus Cristo,",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Expressão sintética que indica a doutrina cristã na sua totalidade."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "1tm-6-n10",
+              "offset": 24,
+              "original_marker": "b",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "que há de acontecer no tempo oportuno, Ele que é o bem-aventurado e único Soberano, o Rei dos reis e Senhor dos senhores,",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: mostrará."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "1tm-6-n11",
+              "offset": 19,
+              "original_marker": "c",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 16,
@@ -571,7 +1557,7 @@
         },
         {
           "verse": 17,
-          "text": "Ordena aos ricos deste mundo que não sejam altivos, nem ponham a sua espe - rança na incerteza das riquezas, mas em Deus que tudo nos dá com abundância para nosso proveito.",
+          "text": "Ordena aos ricos deste mundo que não sejam altivos, nem ponham a sua esperança na incerteza das riquezas, mas em Deus que tudo nos dá com abundância para nosso proveito.",
           "note_refs": []
         },
         {
@@ -581,17 +1567,77 @@
         },
         {
           "verse": 19,
-          "text": "Assim acumularão para si um sólido tesouro para o futuro, a fim de alcançarem a verdadeira vida. (6,20s)",
-          "note_refs": []
+          "text": "Assim acumularão para si um sólido tesouro para o futuro, a fim de alcançarem a verdadeira vida.",
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: entesourando para si próprios um belo fundamento."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "1tm-6-n12",
+              "offset": 42,
+              "original_marker": "d",
+              "source_id": 68
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "Timóteo, guarda o depósito da fé, evitando conversas profanas e as objeções da falsa ciência;",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Lit.: o depósito, termo usado aqui e em 2Tm 1,12.14 para referir o evangelho autêntico, especificado e desdobrado num conjunto de ensinamentos, que constitui o objeto de fé e que deve ser cuidadosamente transmitido e explicado."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "1tm-6-n13",
+              "offset": 32,
+              "original_marker": "e",
+              "source_id": 69
+            }
+          ]
         },
         {
           "verse": 21,
-          "text": "foi por a terem professado que alguns se desviaram da fé. A graça esteja convosco. INTRODUÇÃO Preso em Roma (1,8.16s; 2,9) e sentindo que o seu fim está próximo (4,16), Pau - lo escreve um texto que se distingue das outras cartas pelo tom caloroso e por se apresentar como uma espécie de testamento espiritual, em que o apóstolo dirige a Timóteo as suas últimas recomendações, recordando o que, de viva voz ou por escrito, lhe tinha ensinado sobre os deveres de um dirigente da Igreja, com particular ênfase na necessidade de permanecer firme na doutrina recebida. Endereço, saudação e ação de graças (1,1-5) Corpo da carta: instruções várias a Timóteo (1,6-4,8) Epílogo: notícias pessoais e saudação (4,9-22). (1,1-5)",
+          "text": "foi por a terem professado que alguns se desviaram da fé. A graça esteja convosco.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Os escravos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "Os falsos mestres e a verdadeira piedade",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "O bom combate da fé",
+          "note_refs": []
+        },
+        {
+          "before_verse": 17,
+          "text": "Deveres dos ricos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 20,
+          "text": "EPÍLOGO (6,20s)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 20,
+          "text": "Recomendações e saudação final",
           "note_refs": []
         }
       ]

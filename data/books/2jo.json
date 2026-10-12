@@ -1,5 +1,73 @@
 {
+  "schema_version": 2,
   "book": "2 João",
+  "book_id": "2jo",
+  "source": {
+    "format": "docx",
+    "file": "69_JoCartas.docx",
+    "title": "Cartas de São João",
+    "segment": "SEGUNDA CARTA DE SÃO JOÃO"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Autoria",
+        "paragraphs": [
+          "O cânone da Sagrada Escritura, seguindo a tradição, para além do evangelho (e do Apocalipse), atribui ao apóstolo João um conjunto de três cartas. A primeira carta não explicita o autor que, em 1,1-4, se refere a si próprio com um nós e utiliza uma linguagem e um estilo muito semelhantes aos do prólogo do evangelho (cf. Jo 1, 1-18). Também por isso, a tradição identificou-o com o Discípulo Amado, o autor do Quarto Evangelho (cf. Jo 13,23 nota) e fundador das comunidades a quem se destinam estas três cartas, e que, segundo a mesma tradição, seria o apóstolo João, o filho de Zebedeu (cf. a questão da autoria na introdução a Jo). Na segunda e terceira cartas, porém, o autor identifica-se como o presbítero (cf. 2Jo 1; 3Jo 1), que a tradição com maior peso sempre considerou tratar-se do mesmo autor do evangelho e da primeira carta. São, pois, escritos que, mesmo não tendo sido redigidos pelo apóstolo, remetem implicitamente à sua autoridade e autoria, pertencendo à mesma escola teológica e reproduzindo o seu pensamento, como é notório nas grandes semelhanças, não só no vocabulário e na doutrina, como também nas expressões e no estilo simples e linear."
+        ]
+      },
+      {
+        "title": "Datação",
+        "paragraphs": [
+          "As cartas terão sido escritas alguns anos depois do Quarto Evangelho (Jo), para dar resposta a situações vividas pela(s) comunidade(s) de tradição joanina. Assim, por exemplo, a primeira carta rebate a cristologia deficitária de alguns membros da comunidade que, fazendo uma errada interpretação da alta cristologia do evangelho de João – que sublinha de forma particular a divindade de Jesus –, acabaram por negar a verdade da encarnação e, portanto, da sua verdadeira humanidade. O facto de terem sido escritas depois do evangelho (redigido possivelmente em finais do séc. I) e de fazerem eco destas tendências gnosticizantes remete a redação das cartas para finais do séc. I ou princípios do séc. II."
+        ]
+      },
+      {
+        "title": "Destinatários e finalidade",
+        "paragraphs": [
+          "A primeira de carta, que não nos dá a conhecer o seu destinatário, terá sido enviada a várias comunidades da Ásia Menor fundadas pelo apóstolo João, com a finalidade de exortar os seus membros a manterem-se fiéis à verdade do testemunho que receberam e, consequentemente, unidos no amor recíproco. O escrito parece ter sido motivado pela já referida interpretação cristológica deturpada de alguns membros da comunidade. Estes, a quem o autor chama de anticristos e que parecem estar já separados da comunidade (cf. 1Jo 2,18s.22s), continuam a tentar seduzir os restantes com a sua doutrina, a qual: 1) negava que o Jesus humano fosse o Cristo celeste (1Jo 2,22s), no sentido de não aceitar que o Filho de Deus tivesse encarnado",
+          "e morrido (cf. 1Jo 4,1-3); 2) defendia que apenas os que assim pensavam estavam em comunhão com Deus (1Jo 1,6; 2,6) e o conheciam (1Jo 2,4), o que tinha como consequência o desprezo pelos restantes membros da comunidade, denúncia presente nas afirmações do autor sobre os mentirosos que dizem amar a Deus quando não amam o irmão (1Jo 4,20s); 3) afirmava que apenas eles eram mestres e profetas guiados diretamente pelo Espírito (cf. 1Jo 4,1-6).",
+          "Já a segunda carta é dirigida à Senhora eleita e aos seus filhos (2Jo 1), ou seja, a uma comunidade (ou conjunto de comunidades) da Ásia Menor, de tradição joanina, com o objetivo de a(s) exortar a manter(em)-se fiel(éis) à verdade, no cumprimento do mandamento do amor e resistindo aos que negavam a encarnação do Filho de Deus.",
+          "Por fim, a terceira carta é endereçada pelo presbítero a Gaio, pedindo-lhe que acolha os missionários por ele enviados e que lhes dê provisões, ao mesmo tempo que se queixa de Diótrefes – provavelmente o responsável de uma comunidade vizinha – que não só recusou recebê-los, como procurava minar na comunidade a autoridade do presbítero (cf. 3Jo 9s). Entre esses missionários estaria Demétrio, que é especialmente recomendado a Gaio pelo seu bom testemunho (cf. 3Jo 12)."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "A primeira carta tem um estilo exortativo, doutrinal e homilético; a segunda e a terceira, embora sejam mais bilhetes que propriamente cartas, têm um estilo epistolar e assemelham-se pela sua pequena dimensão e estrutura."
+        ]
+      },
+      {
+        "title": "Estrutura da 1Jo",
+        "paragraphs": [
+          "Prólogo (1,1-4)",
+          "I. Caminhar na luz (1,5-2,27)",
+          "II. Viver como filhos de Deus (2,28-4,6)",
+          "III. Acreditar e amar (4,7-5,13)",
+          "Conclusão (5,14-21)"
+        ]
+      },
+      {
+        "title": "Estrutura da 2Jo",
+        "paragraphs": [
+          "Saudação (1-3)",
+          "O comportamento correto (4-6)",
+          "A autêntica profissão de fé e o comportamento com os hereges (7-11)",
+          "Conclusão (12s)"
+        ]
+      },
+      {
+        "title": "Estrutura da 3Jo",
+        "paragraphs": [
+          "Saudação (1-4)",
+          "Hospitalidade de Gaio (5-8)",
+          "Recusa de Diótrefes (9-11)",
+          "Boa conduta de Demétrio e conclusão (12-15)"
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -16,8 +84,22 @@
         },
         {
           "verse": 3,
-          "text": "A graça, a misericórdia e a paz, da parte de Deus Pai e de Jesus Cristo, o Filho do Pai, estarão connosco na verdade e no amor. Comportamento correto",
-          "note_refs": []
+          "text": "A graça, a misericórdia e a paz, da parte de Deus Pai e de Jesus Cristo, o Filho do Pai, estarão connosco na verdade e no amor.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O termo presbítero (ancião), no contexto da Igreja primitiva, é usado para referir o responsável da comunidade cristã e, neste caso, indica alguém que preside a um conjunto de comunidades da tradição joanina, entendidas como uma única Igreja, saudada aqui como Senhora. Segundo a tradição, tratar-se-ia do mesmo autor da 1Jo, o apóstolo João, filho de Zebedeu. À saudação habitual usada nas cartas cristãs (cf. Cl 1,2; 1Tm 1,2) o autor acrescenta dois temas muito caros à tradição joanina: o amor e a verdade."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "2jo-1-n1",
+              "offset": 126,
+              "original_marker": "b",
+              "source_id": 51
+            }
+          ]
         },
         {
           "verse": 4,
@@ -31,13 +113,27 @@
         },
         {
           "verse": 6,
-          "text": "Ora, o amor consiste nisto: em que caminhemos segundo os seus mandamentos. E, tal como ouvistes desde o princípio, o mandamento é este: que caminheis na verdade. A autêntica profissão de fé e o comportamento com os hereges",
+          "text": "Ora, o amor consiste nisto: em que caminhemos segundo os seus mandamentos. E, tal como ouvistes desde o princípio, o mandamento é este: que caminheis na verdade.",
           "note_refs": []
         },
         {
           "verse": 7,
           "text": "É que surgiram no mundo muitos impostores, que não confessam Jesus Cristo, que veio na carne. É esse o impostor e o anticristo!",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Sobre estes cristãos de tendência gnóstica, cf. 1Jo 1,5 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "2jo-1-n2",
+              "offset": 92,
+              "original_marker": "c",
+              "source_id": 52
+            }
+          ]
         },
         {
           "verse": 8,
@@ -47,26 +143,108 @@
         {
           "verse": 9,
           "text": "Todo aquele que se afasta e não permanece no ensinamento de Cristo não tem Deus consigo; quem permanece no seu ensinamento, esse tem consigo quer o Pai, quer o Filho.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: vai à frente, no sentido de querer impor um caminho de acordo com as suas próprias doutrinas."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "2jo-1-n3",
+              "offset": 25,
+              "original_marker": "d",
+              "source_id": 53
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Se alguém vem ter convosco e não traz consigo esse ensinamento, não o recebais em casa, nem o saudeis,",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: Não lhe digais para se alegrar; referência (tal como no v.11) à usual saudação grega, que consistia em dizer khaíre (alegra-te!)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "2jo-1-n4",
+              "offset": 101,
+              "original_marker": "e",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "pois quem o saúda torna-se participante das suas más obras. Conclusão",
+          "text": "pois quem o saúda torna-se participante das suas más obras.",
           "note_refs": []
         },
         {
           "verse": 12,
           "text": "Apesar de ter muitas coisas para vos escrever, não o quis fazer com papel e tinta. Espero ir ter convosco e falar-vos face a face, para que a nossa alegria seja completa.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Lit.: folha de papiro.",
+            "6": "Lit.: boca a boca."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "2jo-1-n5",
+              "offset": 73,
+              "original_marker": "a",
+              "source_id": 55
+            },
+            {
+              "ref": "6",
+              "id": "2jo-1-n6",
+              "offset": 129,
+              "original_marker": "b",
+              "source_id": 56
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Saúdam-te os filhos da tua irmã eleita.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Muito provavelmente a Igreja a partir da qual o presbítero está a escrever."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "2jo-1-n7",
+              "offset": 38,
+              "original_marker": "c",
+              "source_id": 57
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 4,
+          "text": "Comportamento correto",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "A autêntica profissão de fé e o comportamento com os hereges",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Conclusão",
           "note_refs": []
         }
       ]

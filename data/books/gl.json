@@ -1,13 +1,69 @@
 {
+  "schema_version": 2,
   "book": "Gálatas",
+  "book_id": "gl",
+  "source": {
+    "format": "docx",
+    "file": "55_Gl.docx",
+    "title": "Carta aos Gálatas"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": null,
+        "paragraphs": [
+          "A Carta aos Gálatas faz parte do conjunto das chamadas grandes cartas (Rm, 1-2Cor, Gl). Oferece-nos importantes dados biográficos e o eixo do pensamento teológico de Paulo. Teve grande importância na polémica de S. Agostinho com Pelágio (séc. IV-V), sobre o livre arbítrio e a necessidade da graça divina para a salvação, e no debate com os cristãos da Reforma."
+        ]
+      },
+      {
+        "title": "Data e destinatários",
+        "paragraphs": [
+          "A carta apresenta temas e um desenvolvimento semelhantes aos da Carta aos Romanos. Teria sido escrita provavelmente alguns meses antes desta, por volta do ano 56, durante a estadia de Paulo em Éfeso (At 19,8.10), ou pouco depois disso.",
+          "Dirigindo-se às Igrejas da Galácia (1,2; cf. 3,1), o apóstolo parece referir-se às comunidades da zona meridional da província romana da Ásia Menor (centro da atual Turquia), evangelizadas por si e Barnabé na primeira viagem missionária (At 13,13-14,25)."
+        ]
+      },
+      {
+        "title": "Conteúdo",
+        "paragraphs": [
+          "O apóstolo manifesta-se profundamente desagradado com a conduta dos gálatas que, depois de terem acolhido o evangelho por ele pregado, se deixaram perturbar pela doutrina dos comummente chamados judaizantes, ou seja, cristãos de origem judaica que, remetendo-se aos costumes da Igreja de Jerusalém, defendem a necessidade da circuncisão dos cristãos vindos do paganismo e a obrigatoriedade destes observarem a Lei e os costumes judaicos, pois só assim, segundo eles, poderão participar da linhagem de Abraão e alcançar a vida. Paulo insurge-se fortemente contra estas ideias, que pervertem o evangelho (2,6.14), apresentando de novo o coração do seu anúncio: a salvação não acontece pelo cumprimento da Lei (por mérito pessoal), mas pela obra de Cristo realizada na cruz (1,4; 6,12), através da qual Deus possibilitou o acesso de todos os homens à bênção dada a Abraão (3,10-14); pela fé no Filho de Deus, o crente torna-se também filho adotivo, passando da escravidão da Lei à liberdade da vida nova no Espírito (4,5-7; 6,15), aquilo a que Paulo chama a justificação."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "Exórdio: saudação e reprimenda (1,1-10)",
+          "I. A origem divina do evangelho de Paulo (1,11-2,21)",
+          "II. A Escritura prepara a vida no Espírito (3,1-4,7)",
+          "III. A vida no Espírito: da escravidão à liberdade (4,8-5,12)",
+          "IV. A vida no Espírito: o amor, guia da liberdade (5,13-6,10)",
+          "Conclusão (6,11-18)"
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "verse": 1,
-          "text": "Paulo, apóstolo não da parte dos homens, nem por meio de um homem, mas",
-          "note_refs": []
+          "text": "Paulo, apóstolo – não da parte dos homens, nem por meio de um homem, mas por meio de Jesus Cristo e de Deus Pai, que o ressuscitou dos mortos –",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Paulo evoca a autoridade do seu apostolado, que foi recebido diretamente de Jesus, de acordo com a vontade de Deus, como diz no início da 1Cor (v.4) e da 2Cor (cf. também início de Ef, Cl, 2Ts). Esta afirmação é retomada e desenvolvida a partir do v.11 e é o fundamento do evangelho pregado pelo apóstolo."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "gl-1-n1",
+              "offset": 141,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
         },
         {
           "verse": 2,
@@ -17,12 +73,40 @@
         {
           "verse": 3,
           "text": "a vós, a graça e a paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo,",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O termo graça expressa a liberalidade de Deus em relação ao ser humano e, de certa forma, resume todos os bens concedidos por Deus; a paz é o resultado da ação da graça."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "gl-1-n2",
+              "offset": 14,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "que a si mesmo se entregou pelos nossos pecados, para nos resgatar deste mundo maligno, de acordo com a vontade de Deus e nosso Pai.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Cf. 1Cor 1,20 nota. A finalidade da vinda de Jesus é libertar o homem, subjugado ao poder do Mal, para o conduzir a uma nova realidade em que Deus é verdadeiramente Senhor (reino de Deus) e cuja plenitude acontecerá na parusia (vinda gloriosa de Jesus no final dos tempos)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "gl-1-n3",
+              "offset": 86,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 5,
@@ -32,17 +116,86 @@
         {
           "verse": 6,
           "text": "Estou admirado por tão rapidamente vos terdes desviado daquele que na graça de Cristo vos chamou, abraçando outro evangelho!",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Abraçando é acrescento da tradução.",
+            "5": "A ausência da habitual ação de graças a Deus (por ex.: Rm 1,8-12; 1Cor 1,4-9; 1Ts 1,2s) revela a irritação de Paulo (cf. 3,1); entra imediatamente na polémica questão da circuncisão, que está a perverter a pureza do evangelho por si pregado. Os «perturbadores» são os chamados judaizantes, ou seja, alguns cristãos de origem judaica que defendem a necessidade da circuncisão e da observância da Lei judaica para a salvação."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "gl-1-n4",
+              "offset": 107,
+              "original_marker": "d",
+              "source_id": 4
+            },
+            {
+              "ref": "5",
+              "id": "gl-1-n5",
+              "offset": 123,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Não que haja outro; o que há são alguns que vos perturbam e querem perverter o evangelho de Cristo!",
-          "note_refs": []
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Lit.: Não existe outro; senão alguns.",
+            "7": "O verbo metastréphō significa mudar, no sentido de «fazer algo contrário». A expressão evangelho de Cristo é muito frequente em Paulo e não significa apenas que Cristo é o autor do evangelho ou o seu conteúdo, mas também que Ele próprio é o pregador daquilo que se anuncia e lhe dá eficácia (cf. Rm 15,18s; 2Cor 4,4; 5,20; 1Ts 4,2; Ef 3,8s)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "gl-1-n6",
+              "offset": 39,
+              "original_marker": "f",
+              "source_id": 6
+            },
+            {
+              "ref": "7",
+              "id": "gl-1-n7",
+              "offset": 98,
+              "original_marker": "g",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "No entanto, ainda que fôssemos nós próprios, ou mesmo um anjo do céu, a anunciar-vos como evangelho algo diferente daquilo que vos anunciámos, que seja anátema!",
-          "note_refs": []
+          "note_refs": [
+            "8",
+            "9"
+          ],
+          "notes": {
+            "8": "Expressão que traduz o verbo euangelízō (evangelizar).",
+            "9": "Ser anátema: a expressão, no judaísmo intertestamentário, adquiriu um carácter de maldição e era usada para excluir da sinagoga, como se percebe em At 23,14. Paulo usa-a no mesmo sentido e equivale a declarar alguém como condenado por Deus (5,10), na medida em que distorce a verdade e a obra de Cristo, ficando, por isso, excluído da comunidade e das suas celebrações, por ter rompido a comunhão com ela."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "gl-1-n8",
+              "offset": 99,
+              "original_marker": "h",
+              "source_id": 8
+            },
+            {
+              "ref": "9",
+              "id": "gl-1-n9",
+              "offset": 159,
+              "original_marker": "i",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 9,
@@ -51,43 +204,182 @@
         },
         {
           "verse": 10,
-          "text": "É porventura o favor dos homens que eu agora procuro, ou o favor de Deus? Andarei a tentar O A A agradar aos homens? Se ainda andasse à procura de agradar aos homens, não seria servo de Cristo.",
-          "note_refs": []
+          "text": "É porventura o favor dos homens que eu agora procuro, ou o favor de Deus? Andarei a tentar agradar aos homens? Se ainda andasse à procura de agradar aos homens, não seria servo de Cristo.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Referência a uma possível acusação dos judaizantes a Paulo, de que, ao recusar a circuncisão, pretende agradar aos gentios. O apóstolo, com ironia, faz notar que o período de querer agradar aos homens foi o anterior ao da sua «conversão», e é precisamente disto que acusa Pedro em 2,11ss."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "gl-1-n10",
+              "offset": 159,
+              "original_marker": "j",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Recordo-vos, irmãos, que o evangelho anunciado por mim não segue critérios humanos,",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: não é segundo homem. Os acusadores de Paulo (os judaizantes) punham em causa a natureza apostólica da sua pregação."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "gl-1-n11",
+              "offset": 82,
+              "original_marker": "k",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "pois nem eu o recebi de um homem, nem me foi ensinado, mas recebi-o por revelação de Jesus Cristo.",
-          "note_refs": []
+          "note_refs": [
+            "12",
+            "13"
+          ],
+          "notes": {
+            "12": "Recebi-o é acrescento da tradução.",
+            "13": "Cf. At 9,1-22; 22,6-16; 26,12-23; 1Cor 9,1; 15,9s."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "gl-1-n12",
+              "offset": 67,
+              "original_marker": "l",
+              "source_id": 12
+            },
+            {
+              "ref": "13",
+              "id": "gl-1-n13",
+              "offset": 97,
+              "original_marker": "m",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Certamente ouvistes falar da minha conduta, outrora, no judaísmo: como perseguia ferozmente a Igreja de Deus e a devastava.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Lit.: até ao excesso."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "gl-1-n14",
+              "offset": 91,
+              "original_marker": "n",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Progredia no judaísmo mais do que muitos do meu povo com a minha idade, por ser extremamente zeloso em relação às tradições dos meus pais.",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Em grego génos (raça, nação, povo)."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "gl-1-n15",
+              "offset": 52,
+              "original_marker": "o",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "Mas quando aprouve a Deus que me escolheu desde o ventre de minha mãe e me chamou pela",
-          "note_refs": []
+          "text": "Mas quando aprouve a Deus – que me escolheu desde o ventre de minha mãe e me chamou pela sua graça –",
+          "note_refs": [
+            "16",
+            "17"
+          ],
+          "notes": {
+            "16": "Lit.: separou.",
+            "17": "Expressão que equipara a vocação de Paulo à dos grandes profetas (Is 49,1; Jr 1,5)."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "gl-1-n16",
+              "offset": 43,
+              "original_marker": "p",
+              "source_id": 16
+            },
+            {
+              "ref": "17",
+              "id": "gl-1-n17",
+              "offset": 71,
+              "original_marker": "q",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "revelar o seu Filho em mim, para que o anunciasse como evangelho entre os pagãos, não fui imediatamente consultar ninguém,",
-          "note_refs": []
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "Lit.: não fui imediatamente consultar carne e sangue; a expressão é um semitismo para referir o homem natural."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "gl-1-n18",
+              "offset": 121,
+              "original_marker": "r",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "nem subi a Jerusalém para ir ter com os que foram apóstolos antes de mim, mas parti para a Arábia e voltei de novo a Damasco.",
-          "note_refs": []
+          "note_refs": [
+            "19",
+            "20"
+          ],
+          "notes": {
+            "19": "Talvez a atual Jordânia.",
+            "20": "É a primeira vez que o apóstolo fala em Damasco; se afirma ter regressado, é porque partiu de lá, o que parece concordar com At 9 e paralelos, que aí situa a revelação de Jesus a Paulo."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "gl-1-n19",
+              "offset": 97,
+              "original_marker": "s",
+              "source_id": 19
+            },
+            {
+              "ref": "20",
+              "id": "gl-1-n20",
+              "offset": 124,
+              "original_marker": "t",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 18,
@@ -97,22 +389,78 @@
         {
           "verse": 19,
           "text": "mas não vi nenhum outro dos apóstolos, a não ser Tiago, o irmão do Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "21"
+          ],
+          "notes": {
+            "21": "Irmão (parente muito próximo) de Jesus; era o responsável pela Igreja de Jerusalém (At 1,14; 12,17; 1Cor 9,5)."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "gl-1-n21",
+              "offset": 73,
+              "original_marker": "u",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "O que vos escrevo, faço-o diante de Deus: não estou a mentir.",
-          "note_refs": []
+          "note_refs": [
+            "22"
+          ],
+          "notes": {
+            "22": "Lit.: vê/eis (que) diante de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "22",
+              "id": "gl-1-n22",
+              "offset": 40,
+              "original_marker": "v",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 21,
           "text": "Depois fui para as regiões da Síria e da Cilícia.",
-          "note_refs": []
+          "note_refs": [
+            "23"
+          ],
+          "notes": {
+            "23": "Cf. At 9,30; 11,25s."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "gl-1-n23",
+              "offset": 48,
+              "original_marker": "w",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "Porém, as Igrejas da Judeia que estão em Cristo não me conheciam pessoalmente;",
-          "note_refs": []
+          "note_refs": [
+            "24"
+          ],
+          "notes": {
+            "24": "Lit.: era desconhecido pelo rosto às Igrejas da Judeia."
+          },
+          "note_positions": [
+            {
+              "ref": "24",
+              "id": "gl-1-n24",
+              "offset": 77,
+              "original_marker": "x",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 23,
@@ -121,7 +469,34 @@
         },
         {
           "verse": 24,
-          "text": "E davam glória a Deus por minha causa. O",
+          "text": "E davam glória a Deus por minha causa.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "EXÓRDIO: SAUDAÇÃO E REPRIMENDA (1,1-10)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Saudação",
+          "note_refs": []
+        },
+        {
+          "before_verse": 6,
+          "text": "Reprimenda",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "A ORIGEM DIVINA DO EVANGELHO DE PAULO (1,11-2,21)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "A revelação a Paulo",
           "note_refs": []
         }
       ]
@@ -136,8 +511,22 @@
         },
         {
           "verse": 2,
-          "text": "Subi de acordo com uma revelação. E expus-lhes o evangelho que proclamo entre os pagãos o que fiz em privado àqueles que eram considerados os mais importantes –, não fosse acontecer que eu estivesse a correr ou tivesse corrido em vão.",
-          "note_refs": []
+          "text": "Subi de acordo com uma revelação. E expus-lhes o evangelho que proclamo entre os pagãos – o que fiz em privado àqueles que eram considerados os mais importantes –, não fosse acontecer que eu estivesse a correr ou tivesse corrido em vão.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Embora tenha recebido o evangelho por revelação de Jesus (1,12), Paulo sentiu necessidade de ser confirmado pela Igreja apostólica de Jerusalém. Os mais importantes são os mesmos do v.6: provavelmente os apóstolos."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "gl-2-n1",
+              "offset": 235,
+              "original_marker": "a",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 3,
@@ -146,53 +535,229 @@
         },
         {
           "verse": 4,
-          "text": "A questão pôs-se por causa dos falsos irmãos infiltrados, que se tinham introduzido para espiar a nossa liberdade a que temos em Cristo Jesus –, com o propósito de nos reduzirem à escravidão;",
-          "note_refs": []
+          "text": "A questão pôs-se por causa dos falsos irmãos infiltrados, que se tinham introduzido para espiar a nossa liberdade – a que temos em Cristo Jesus –, com o propósito de nos reduzirem à escravidão;",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A questão pôs-se é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "gl-2-n2",
+              "offset": 16,
+              "original_marker": "b",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "a essa gente não nos submetemos nem por um momento, a fim de que para vós se mantenha intacta a verdade do evangelho.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: a esses nem por uma hora cedemos em submissão. A construção a esses nem falta em alguns mss., o que afirmaria que o apóstolo se teria submetido por pouco tempo à vontade dos que pretendiam a circuncisão dos pagãos (estando, assim, de acordo com afirmação de At 16,3 de que o próprio Paulo teria circuncidado Timóteo). Mas esta variante textual não tem sentido no contexto, pois significaria que Paulo se teria submetido para conservar a verdade do evangelho, quando o que afirma é exatamente o contrário."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "gl-2-n3",
+              "offset": 50,
+              "original_marker": "c",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "E quanto aos considerados os mais importantes o que eles eram na realidade nada me importa, pois Deus não escolhe pela aparência esses mais importantes, de facto, não me impuseram nada.",
-          "note_refs": []
+          "text": "E quanto aos considerados os mais importantes – o que eles eram na realidade nada me importa, pois Deus não escolhe pela aparência – esses mais importantes, de facto, não me impuseram nada.",
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Lit.: Deus não toma o rosto do homem, no sentido de não fazer aceção de pessoas (cf. Lc 20,21). Trata-se de um semitismo, nasa’ panîm (levantar o rosto), com o sentido de tomar decisões de acordo com o aspeto da pessoa.",
+            "5": "Lit.: acrescentaram."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "gl-2-n4",
+              "offset": 130,
+              "original_marker": "d",
+              "source_id": 28
+            },
+            {
+              "ref": "5",
+              "id": "gl-2-n5",
+              "offset": 183,
+              "original_marker": "e",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Antes pelo contrário, viram que me tinha sido confiado anunciar o evangelho aos incircuncisos, como a Pedro aos circuncisos",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: o evangelho da incircuncisão como a Pedro da circuncisão. Não se trata de dois evangelhos diferentes, mas de dois mundos culturais e religiosos distintos aos quais o mesmo evangelho é pregado."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "gl-2-n6",
+              "offset": 123,
+              "original_marker": "f",
+              "source_id": 30
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "pois Aquele que atuou em Pedro para o apostolado entre os circuncisos, atuou também em mim para o apostolado entre os pagãos.",
-          "note_refs": []
+          "text": "– pois Aquele que atuou em Pedro para o apostolado entre os circuncisos, atuou também em mim para o apostolado entre os pagãos.",
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Ou seja, Deus ou Cristo.",
+            "8": "Lit.: e em mim para os pagãos."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "gl-2-n7",
+              "offset": 13,
+              "original_marker": "g",
+              "source_id": 31
+            },
+            {
+              "ref": "8",
+              "id": "gl-2-n8",
+              "offset": 126,
+              "original_marker": "h",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "E, reconhecendo a graça que me foi concedida, Tiago, Cefas e João que são considerados como colunas deram-nos a mão direita, a mim e a Barnabé, num gesto de comunhão, para que nós fôssemos aos pagãos e eles aos circuncisos.",
-          "note_refs": []
+          "text": "E, reconhecendo a graça que me foi concedida, Tiago, Cefas e João – que são considerados como colunas – deram-nos a mão direita, a mim e a Barnabé, num gesto de comunhão, para que nós fôssemos aos pagãos e eles aos circuncisos.",
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "Lit.: deram as direitas. Alguns mss. apresentam a ordem Pedro, Tiago e João.",
+            "10": "Lit.: em comunhão."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "gl-2-n9",
+              "offset": 127,
+              "original_marker": "i",
+              "source_id": 33
+            },
+            {
+              "ref": "10",
+              "id": "gl-2-n10",
+              "offset": 169,
+              "original_marker": "j",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "Apenas nos pediram que nos lembrássemos dos pobres, o que também procurei fazer com o maior empenho. A A",
-          "note_refs": []
+          "text": "Apenas nos pediram que nos lembrássemos dos pobres, o que também procurei fazer com o maior empenho.",
+          "note_refs": [
+            "11",
+            "12"
+          ],
+          "notes": {
+            "11": "Nos pediram é acrescento da tradução.",
+            "12": "Esta preocupação de Paulo pela coleta em favor da Igreja de Jerusalém é uma constante (Rm 15,26s; 1Cor 16,3; 2Cor 9,1ss; At 24,17)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "gl-2-n11",
+              "offset": 18,
+              "original_marker": "k",
+              "source_id": 35
+            },
+            {
+              "ref": "12",
+              "id": "gl-2-n12",
+              "offset": 99,
+              "original_marker": "l",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Porém, quando Cefas foi a Antioquia, opus-me frontalmente a ele, porque merecia ser repreendido.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Lit.: porque [ele] era condenável."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "gl-2-n13",
+              "offset": 95,
+              "original_marker": "m",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "De facto, antes de terem chegado alguns da parte de Tiago, ele comia com os gentios; mas, quando eles chegaram, começou a retrair-se e a pôr-se de parte, com medo dos partidários da circuncisão.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Lit.: temeroso dos da circuncisão."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "gl-2-n14",
+              "offset": 193,
+              "original_marker": "n",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "E juntamente com ele também os restantes judeus foram hipócritas, de tal modo que até Barnabé foi arrastado pela hipocrisia deles.",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Na Igreja de Antioquia, os cristãos vindos do judaísmo e os oriundos do paganismo comiam à mesma mesa. Ora, segundo a Lei, os judeus não podiam tomar refeição com os pagãos, sob pena de ficarem impuros. Quando chegam os judaizantes, Pedro, Barnabé e outros afastaram-se da mesa dos cristãos de origem pagã e começaram a comer à parte."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "gl-2-n15",
+              "offset": 129,
+              "original_marker": "o",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 14,
@@ -202,17 +767,86 @@
         {
           "verse": 15,
           "text": "Nós, pela nossa condição natural, somos judeus e não pecadores de origem pagã.",
-          "note_refs": []
+          "note_refs": [
+            "16",
+            "17"
+          ],
+          "notes": {
+            "16": "Alguns defendem que este nós se refere a Paulo e a Pedro, e outros que também inclui os judeus diante dos quais o discurso é proferido (v.14).",
+            "17": "Lit.: pecadores [vindos] dos pagãos. Ironia paulina, embora o apóstolo nunca negue o papel específico de Israel (cf. Rm 1,16; 3,1s; 9,4s)."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "gl-2-n16",
+              "offset": 3,
+              "original_marker": "p",
+              "source_id": 40
+            },
+            {
+              "ref": "17",
+              "id": "gl-2-n17",
+              "offset": 77,
+              "original_marker": "q",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "Sabemos, porém, que o homem não é justificado pelas obras da Lei, mas pela fé em Jesus Cristo. Por isso, também nós acreditámos em Cristo Jesus, para podermos ser justificados pela fé em Cristo e não pelas obras da Lei, porque pelas obras da Lei ninguém será justificado!",
-          "note_refs": []
+          "note_refs": [
+            "18",
+            "19",
+            "20"
+          ],
+          "notes": {
+            "18": "Sobre o conceito de justificação, cf. Rm 1,17 nota.",
+            "19": "Lit.: senão pela fé de Jesus Cristo (nas duas ocorrências no v. o genitivo é objetivo, ou seja, Jesus Cristo é o conteúdo da fé).",
+            "20": "Lit.: não será justificada carne alguma (semitismo); citação livre do Sl 143,2."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "gl-2-n18",
+              "offset": 45,
+              "original_marker": "r",
+              "source_id": 42
+            },
+            {
+              "ref": "19",
+              "id": "gl-2-n19",
+              "offset": 93,
+              "original_marker": "s",
+              "source_id": 43
+            },
+            {
+              "ref": "20",
+              "id": "gl-2-n20",
+              "offset": 270,
+              "original_marker": "t",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Ora, se nós que procuramos a justificação em Cristo, nos descobrimos pecadores como os outros, será então Cristo um servidor do pecado? De modo nenhum!",
-          "note_refs": []
+          "note_refs": [
+            "21"
+          ],
+          "notes": {
+            "21": "Paulo apresenta uma premissa que deveria ser óbvia para os gálatas: se a justificação viesse pela Lei, os judeus não precisariam de Cristo e Ele seria, por isso, um servidor do pecado. Não há dois caminhos de justificação: ela acontece, para judeus e pagãos, exclusivamente em e por Cristo."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "gl-2-n21",
+              "offset": 135,
+              "original_marker": "u",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 18,
@@ -222,16 +856,70 @@
         {
           "verse": 19,
           "text": "De facto, por meio da Lei, eu morri para a Lei, a fim de viver para Deus. Com Cristo estou crucificado.",
-          "note_refs": []
+          "note_refs": [
+            "22"
+          ],
+          "notes": {
+            "22": "A concisão torna difícil a interpretação: uns pensam que se refere à morte do cristão juntamente com Cristo para a Lei de Moisés (Rm 7,1s; Gl 3,13) para com Ele participar na ressurreição (2,20; Rm 6,4-10; 7,4-6); outros, que o cristão morreu para a Lei pela força da lei do Espírito (Rm 8,2); outros, ainda, que o cristão deixou de obedecer à Lei para obedecer a todo o NT, o tempo da fé (3,24-29). No entanto, o sentido parece ser o de que a própria Lei apresenta as razões para morrer para a Lei e viver para Deus (3,13)."
+          },
+          "note_positions": [
+            {
+              "ref": "22",
+              "id": "gl-2-n22",
+              "offset": 46,
+              "original_marker": "v",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "Já não sou eu que vivo, mas é Cristo que vive em mim. O que agora vivo na carne, vivo-o na fé no Filho de Deus, que me amou e a si mesmo se entregou por mim.",
-          "note_refs": []
+          "note_refs": [
+            "23",
+            "24"
+          ],
+          "notes": {
+            "23": "Lit.: na fé do Filho de Deus (cf. v.16 nota).",
+            "24": "No sentido de em meu favor e não tanto em minha vez (sentido vicário)."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "gl-2-n23",
+              "offset": 110,
+              "original_marker": "a",
+              "source_id": 47
+            },
+            {
+              "ref": "24",
+              "id": "gl-2-n24",
+              "offset": 156,
+              "original_marker": "b",
+              "source_id": 48
+            }
+          ]
         },
         {
           "verse": 21,
           "text": "Eu não torno inválida a graça de Deus! É que se a justificação vem pela Lei, então Cristo morreu em vão!",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "O reconhecimento em Jerusalém",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Confronto com Pedro em Antioquia",
+          "note_refs": []
+        },
+        {
+          "before_verse": 15,
+          "text": "O evangelho de Paulo",
           "note_refs": []
         }
       ]
@@ -242,12 +930,49 @@
         {
           "verse": 1,
           "text": "Ó gálatas sem inteligência, quem vos enfeitiçou, a vós, perante cujos olhos foi apresentado Jesus Cristo crucificado?",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A expressão vinca a ortodoxia do anúncio feito por Paulo e, por isso, feito publicamente, em contraposição com a forma sub-reptícia como os judaizantes estavam a subverter a verdade do evangelho. Alguns mss. apresentam crucificado em vós."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "gl-3-n1",
+              "offset": 91,
+              "original_marker": "c",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "De vós, apenas quero saber isto: foi pelas obras da Lei que recebestes o Espírito, ou pela fé com que escutastes a pregação?",
-          "note_refs": []
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "O verbo grego utilizado (manthánō), que tem o significado primeiro de aprender (saber é o resultado), marca a ironia de Paulo: será que agora deverá ele aprender com os gálatas?",
+            "3": "Lit.: a partir de escuta de fé (tal como no v.5). A fé surge pela escuta da pregação, mas ao mesmo tempo é condição para acolher o que se escuta."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "gl-3-n2",
+              "offset": 26,
+              "original_marker": "d",
+              "source_id": 50
+            },
+            {
+              "ref": "3",
+              "id": "gl-3-n3",
+              "offset": 123,
+              "original_marker": "e",
+              "source_id": 51
+            }
+          ]
         },
         {
           "verse": 3,
@@ -257,27 +982,106 @@
         {
           "verse": 4,
           "text": "Terá sido em vão que experienciastes tão grandes coisas? Se é que foi em vão!",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: experimentastes tais coisas em vão? Outra possibilidade de tradução do verbo seria sofrestes."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "gl-3-n4",
+              "offset": 55,
+              "original_marker": "f",
+              "source_id": 52
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Ora, Aquele que vos concede o Espírito e realiza entre vós ações poderosas, fá-lo pelas obras da Lei ou pela fé com que escutastes a pregação?",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Cf. 3,2 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "gl-3-n5",
+              "offset": 141,
+              "original_marker": "g",
+              "source_id": 53
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Se Abraão acreditou em Deus e isso foi-lhe considerado como causa de justificação,",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Gn 15,6. Rm 4 desenvolve este pensamento."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "gl-3-n6",
+              "offset": 81,
+              "original_marker": "h",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "então ficai a saber que aqueles que procedem da fé é que são filhos de Abraão!",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: os da fé (também no v.9)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "gl-3-n7",
+              "offset": 50,
+              "original_marker": "i",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "A Escritura, prevendo que é a partir da fé que Deus justifica os pagãos, anunciou antecipadamente como evangelho a Abraão: «Em ti serão abençoadas todas as nações».",
-          "note_refs": []
+          "note_refs": [
+            "8",
+            "9"
+          ],
+          "notes": {
+            "8": "Para o conceito de justiça/justificação, cf. Rm 1,17 nota.",
+            "9": "Gn 12,3; 18,18."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "gl-3-n8",
+              "offset": 61,
+              "original_marker": "j",
+              "source_id": 56
+            },
+            {
+              "ref": "9",
+              "id": "gl-3-n9",
+              "offset": 162,
+              "original_marker": "k",
+              "source_id": 57
+            }
+          ]
         },
         {
           "verse": 9,
@@ -287,67 +1091,339 @@
         {
           "verse": 10,
           "text": "De facto, todos os que vivem das obras da Lei estão sujeitos à maldição, pois está escrito: Maldito todo o que não persevera em todas as coisas escritas no livro da Lei, para as pôr em prática.",
-          "note_refs": []
+          "note_refs": [
+            "10",
+            "11"
+          ],
+          "notes": {
+            "10": "O sujeito à maldição corresponde ao sujeito à Lei de 4,4; 5,18 (cf. Rm 6,14).",
+            "11": "Dt 27,26. Os que pensam que são justificados pela Lei enganam-se a si próprios, pois é impossível cumprir toda a Lei (cf. Rm 7,18ss); assim, ironicamente, os judaizantes, de acordo com aquilo que defendem, tornam-se malditos."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "gl-3-n10",
+              "offset": 71,
+              "original_marker": "l",
+              "source_id": 58
+            },
+            {
+              "ref": "11",
+              "id": "gl-3-n11",
+              "offset": 192,
+              "original_marker": "m",
+              "source_id": 59
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "Que perante Deus ninguém é justificado pela Lei, é coisa A evidente, porque o justo viverá a partir da fé.",
-          "note_refs": []
+          "text": "Que perante Deus ninguém é justificado pela Lei, é coisa evidente, porque o justo viverá a partir da fé.",
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Hab 2,4."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "gl-3-n12",
+              "offset": 103,
+              "original_marker": "n",
+              "source_id": 60
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "A Lei não vem da fé; pelo contrário, ela própria diz: Quem praticar estas coisas viverá por elas.",
-          "note_refs": []
+          "note_refs": [
+            "13",
+            "14"
+          ],
+          "notes": {
+            "13": "Ela própria diz é acrescento da tradução.",
+            "14": "Lv 18,5."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "gl-3-n13",
+              "offset": 52,
+              "original_marker": "o",
+              "source_id": 61
+            },
+            {
+              "ref": "14",
+              "id": "gl-3-n14",
+              "offset": 96,
+              "original_marker": "p",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Cristo resgatou-nos da maldição da Lei ao fazer-se maldição por nós, pois está escrito: Maldito todo aquele que é suspenso no madeiro;",
-          "note_refs": []
+          "note_refs": [
+            "15",
+            "16"
+          ],
+          "notes": {
+            "15": "O verbo grego usado significa tanto comprar/adquirir, como resgatar/libertar escravos (cf. 4,5; 1Cor 6,20; 7,23; 2Pe 2,1; Ap 5,9).",
+            "16": "Dt 21,23; cf. 2Cor 5,21. Ao morrer na cruz, Jesus aceitou tornar-se maldito, como meio de resgatar judeus e pagãos."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "gl-3-n15",
+              "offset": 19,
+              "original_marker": "q",
+              "source_id": 63
+            },
+            {
+              "ref": "16",
+              "id": "gl-3-n16",
+              "offset": 133,
+              "original_marker": "r",
+              "source_id": 64
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "e isto para que, em Cristo Jesus, a bênção de Abraão chegasse aos pagãos, a fim de que nós recebêssemos, por meio da fé, a promessa do Espírito.",
-          "note_refs": []
+          "note_refs": [
+            "17",
+            "18",
+            "19"
+          ],
+          "notes": {
+            "17": "Ou nações, como no v.8.",
+            "18": "Cf. 2,19 nota. Paulo apresenta a dupla finalidade da morte de Jesus, em que a segunda explicita a primeira: a bênção dada a Abraão, o conteúdo da promessa, é o Espírito, dado em Jesus.",
+            "19": "Alguns mss. apresentam a variante a bênção do Espírito."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "gl-3-n17",
+              "offset": 72,
+              "original_marker": "s",
+              "source_id": 65
+            },
+            {
+              "ref": "18",
+              "id": "gl-3-n18",
+              "offset": 119,
+              "original_marker": "t",
+              "source_id": 66
+            },
+            {
+              "ref": "19",
+              "id": "gl-3-n19",
+              "offset": 143,
+              "original_marker": "u",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Irmãos, falo a partir do ponto de vista humano: isto é como um testamento de um homem devidamente ratificado, que ninguém pode anular ou alterar.",
-          "note_refs": []
+          "note_refs": [
+            "20"
+          ],
+          "notes": {
+            "20": "Lit.: Irmãos, segundo homem digo."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "gl-3-n20",
+              "offset": 46,
+              "original_marker": "v",
+              "source_id": 68
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "Ora, as promessas foram proferidas para Abraão e para a sua descendência. A Escritura não diz: e às descendências, como se fossem muitas, mas como sendo uma só: e à tua descendência, que é Cristo.",
-          "note_refs": []
+          "note_refs": [
+            "21",
+            "22"
+          ],
+          "notes": {
+            "21": "A Escritura é acrescento da tradução.",
+            "22": "Gn 12,7; 13,14-16. Cf. Gn 17,1-11 que, tal como Paulo, identifica as promessas (epangelíai) com o testamento, aliança (diathḗkē), as quais no texto do AT contêm três dimensões: a fecundidade de Abraão e da sua descendência, a terra, e o facto de o Senhor ser o Deus de Abraão e da sua descendência. As duas primeiras dimensões são vistas por Paulo como garantia da terceira, que é cumprida plenamente em Cristo. Jesus é descendência de Abraão não biologicamente, mas na atitude de fé. No grego percebe-se melhor o jogo de palavras de Paulo entre sementes (traduzido por descendências) e o singular semente (descendência)."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "gl-3-n21",
+              "offset": 85,
+              "original_marker": "w",
+              "source_id": 69
+            },
+            {
+              "ref": "22",
+              "id": "gl-3-n22",
+              "offset": 181,
+              "original_marker": "x",
+              "source_id": 70
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "O que digo é isto: uma lei que apareceu quatrocentos e trinta anos mais tarde não pode tornar inválido um testamento, anteriormente ratificado por Deus, a ponto de anular a promessa.",
-          "note_refs": []
+          "note_refs": [
+            "23"
+          ],
+          "notes": {
+            "23": "Introduz-se aqui (com a fórmula grega légō dé) a conclusão lógica e explicativa das afirmações feitas anteriormente (tal como em 4,1; 5,16; cf. 5,2)."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "gl-3-n23",
+              "offset": 17,
+              "original_marker": "y",
+              "source_id": 71
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "Pois se a herança procedesse da Lei, então já não procederia da promessa. Ora, foi pela promessa que Deus concedeu a sua graça a Abraão!",
-          "note_refs": []
+          "note_refs": [
+            "24"
+          ],
+          "notes": {
+            "24": "Ao contrário da tradição judaica, que estabelece uma estreita ligação entre promessa e Lei e faz depender a participação nas promessas do cumprimento da Lei (cf. 2Mac 2,17; 2Br 46,5; 57,2), Paulo acentua que tal participação, que se recebe na fé, é exclusivamente fruto da benevolência de Deus em Cristo."
+          },
+          "note_positions": [
+            {
+              "ref": "24",
+              "id": "gl-3-n24",
+              "offset": 135,
+              "original_marker": "z",
+              "source_id": 72
+            }
+          ]
         },
         {
           "verse": 19,
-          "text": "Porquê, então, a Lei? Foi por causa das transgressões que ela foi estabelecida, até que viesse a descendência a quem tinha sido feita a promessa; e foi ordenada por O meio de anjos, pela mão de um mediador.",
-          "note_refs": []
+          "text": "Porquê, então, a Lei? Foi por causa das transgressões que ela foi estabelecida, até que viesse a descendência a quem tinha sido feita a promessa; e foi ordenada por meio de anjos, pela mão de um mediador.",
+          "note_refs": [
+            "25"
+          ],
+          "notes": {
+            "25": "Sobre a mediação de anjos no Sinai, cf., por ex., At 7,53; Heb 2,2; Jub 2,2s."
+          },
+          "note_positions": [
+            {
+              "ref": "25",
+              "id": "gl-3-n25",
+              "offset": 203,
+              "original_marker": "a",
+              "source_id": 73
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "Ora, não há mediador quando se trata de um só, e Deus é um só.",
-          "note_refs": []
+          "note_refs": [
+            "26",
+            "27"
+          ],
+          "notes": {
+            "26": "Lit.: O mediador de um não é.",
+            "27": "A promessa emana diretamente de Deus, ao contrário da Lei que teve um mediador: Moisés."
+          },
+          "note_positions": [
+            {
+              "ref": "26",
+              "id": "gl-3-n26",
+              "offset": 45,
+              "original_marker": "b",
+              "source_id": 74
+            },
+            {
+              "ref": "27",
+              "id": "gl-3-n27",
+              "offset": 61,
+              "original_marker": "c",
+              "source_id": 75
+            }
+          ]
         },
         {
           "verse": 21,
           "text": "Estará, então, a Lei contra as promessas de Deus? De modo nenhum! Se, de facto, tivesse sido dada uma Lei capaz de dar vida, realmente a justificação procederia da Lei;",
-          "note_refs": []
+          "note_refs": [
+            "28",
+            "29"
+          ],
+          "notes": {
+            "28": "Alguns mss. omitem de Deus.",
+            "29": "Para o conceito de justiça/justificação, cf. Rm 1,17 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "28",
+              "id": "gl-3-n28",
+              "offset": 48,
+              "original_marker": "d",
+              "source_id": 76
+            },
+            {
+              "ref": "29",
+              "id": "gl-3-n29",
+              "offset": 149,
+              "original_marker": "e",
+              "source_id": 77
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "no entanto, a Escritura encerrou tudo sob o pecado, para que a promessa fosse dada, pela fé em Jesus Cristo, àqueles que acreditam.",
-          "note_refs": []
+          "note_refs": [
+            "30",
+            "31",
+            "32"
+          ],
+          "notes": {
+            "30": "Tudo no sentido de todos, ou seja, judeus e gregos (Rm 11,32). Todos estavam sob o domínio do pecado (Rm 3,9), pelo que apenas Jesus, e não a Lei, pode resgatar o homem dessa situação de perdição.",
+            "31": "Lit.: fé de Jesus Cristo (cf. 2,16 nota).",
+            "32": "Cf. Rm 3,9-23."
+          },
+          "note_positions": [
+            {
+              "ref": "30",
+              "id": "gl-3-n30",
+              "offset": 37,
+              "original_marker": "f",
+              "source_id": 78
+            },
+            {
+              "ref": "31",
+              "id": "gl-3-n31",
+              "offset": 107,
+              "original_marker": "g",
+              "source_id": 79
+            },
+            {
+              "ref": "32",
+              "id": "gl-3-n32",
+              "offset": 130,
+              "original_marker": "h",
+              "source_id": 80
+            }
+          ]
         },
         {
           "verse": 23,
@@ -357,7 +1433,21 @@
         {
           "verse": 24,
           "text": "de modo que a Lei foi nosso pedagogo até Cristo, para que fôssemos justificados pela fé.",
-          "note_refs": []
+          "note_refs": [
+            "33"
+          ],
+          "notes": {
+            "33": "O pedagogo era um escravo, que, nas famílias gregas e romanas, cuidava das crianças, sensivelmente dos seis aos dezasseis anos."
+          },
+          "note_positions": [
+            {
+              "ref": "33",
+              "id": "gl-3-n33",
+              "offset": 36,
+              "original_marker": "i",
+              "source_id": 81
+            }
+          ]
         },
         {
           "verse": 25,
@@ -372,16 +1462,85 @@
         {
           "verse": 27,
           "text": "pois todos vós, que em Cristo fostes batizados, de Cristo vos revestistes.",
-          "note_refs": []
+          "note_refs": [
+            "34"
+          ],
+          "notes": {
+            "34": "Ou para Cristo, ambas as traduções sublinham a nova realidade e relação."
+          },
+          "note_positions": [
+            {
+              "ref": "34",
+              "id": "gl-3-n34",
+              "offset": 29,
+              "original_marker": "j",
+              "source_id": 82
+            }
+          ]
         },
         {
           "verse": 28,
           "text": "Não há judeu nem grego, não há escravo nem homem livre, não há homem e mulher, pois todos vós sois um só em Cristo Jesus.",
-          "note_refs": []
+          "note_refs": [
+            "35",
+            "36"
+          ],
+          "notes": {
+            "35": "Homem é acrescento da tradução.",
+            "36": "Lit.: macho e fêmea."
+          },
+          "note_positions": [
+            {
+              "ref": "35",
+              "id": "gl-3-n35",
+              "offset": 54,
+              "original_marker": "k",
+              "source_id": 83
+            },
+            {
+              "ref": "36",
+              "id": "gl-3-n36",
+              "offset": 77,
+              "original_marker": "l",
+              "source_id": 84
+            }
+          ]
         },
         {
           "verse": 29,
           "text": "Ora, se vós sois de Cristo, então sois da descendência de Abraão, herdeiros segundo a promessa.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A ESCRITURA PREPARA A VIDA NO ESPÍRITO (3,1-4,7)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "O Espírito veio pela fé",
+          "note_refs": []
+        },
+        {
+          "before_verse": 6,
+          "text": "Os filhos de Abraão nasceram da fé",
+          "note_refs": []
+        },
+        {
+          "before_verse": 15,
+          "text": "A Lei não revoga a promessa a Abraão",
+          "note_refs": []
+        },
+        {
+          "before_verse": 19,
+          "text": "A Lei foi válida até Cristo chegar",
+          "note_refs": []
+        },
+        {
+          "before_verse": 26,
+          "text": "Descendentes de Abraão e filhos de Deus",
           "note_refs": []
         }
       ]
@@ -392,7 +1551,30 @@
         {
           "verse": 1,
           "text": "Digo-vos, então: enquanto o herdeiro é criança, em nada se diferencia de um escravo, embora seja senhor de tudo;",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Sobre a fórmula grega légō dé, cf. 3,17 nota.",
+            "2": "Lit.: em quanto tempo."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "gl-4-n1",
+              "offset": 15,
+              "original_marker": "m",
+              "source_id": 85
+            },
+            {
+              "ref": "2",
+              "id": "gl-4-n2",
+              "offset": 25,
+              "original_marker": "n",
+              "source_id": 86
+            }
+          ]
         },
         {
           "verse": 2,
@@ -412,17 +1594,86 @@
         {
           "verse": 5,
           "text": "para resgatar os que estavam sujeitos à Lei, a fim de recebermos o estatuto de filhos.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Cf. 3,13 nota.",
+            "4": "Hyiothesía: substantivo composto de huiós (filho) e títhēmi (pôr, estabelecer), significa, portanto, o estatuto de filho, a adoção."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "gl-4-n3",
+              "offset": 13,
+              "original_marker": "o",
+              "source_id": 87
+            },
+            {
+              "ref": "4",
+              "id": "gl-4-n4",
+              "offset": 85,
+              "original_marker": "p",
+              "source_id": 88
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "E, porque sois filhos, Deus O A enviou aos nossos corações o Espírito do seu Filho, que clama: «Abbá! Pai!».",
-          "note_refs": []
+          "text": "E, porque sois filhos, Deus enviou aos nossos corações o Espírito do seu Filho, que clama: «Abbá! Pai!».",
+          "note_refs": [
+            "5",
+            "6",
+            "7"
+          ],
+          "notes": {
+            "5": "Do seu Filho falta em alguns mss.",
+            "6": "Nos LXX, o verbo traduzido por clamar refere-se também, como aqui, ao clamor inspirado (por ex.: Ex 22,22; Sl 3,5; 17,7; 21,6); assim também em Mt 27,50; Mc 15,39; Ap 6,10; 7,10.",
+            "7": "Cf. Rm 8,15s. É a oração dos batizados que, no Filho, foram tornados filhos, e que, por isso, podem dirigir-se a Deus como o faz Jesus (Mt 6,9; Lc 11,2)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "gl-4-n5",
+              "offset": 78,
+              "original_marker": "q",
+              "source_id": 89
+            },
+            {
+              "ref": "6",
+              "id": "gl-4-n6",
+              "offset": 89,
+              "original_marker": "r",
+              "source_id": 90
+            },
+            {
+              "ref": "7",
+              "id": "gl-4-n7",
+              "offset": 103,
+              "original_marker": "s",
+              "source_id": 91
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Portanto, já não és escravo, mas filho. E, se és filho, és também herdeiro, por graça de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: por meio de Deus. Outros mss. apresentam por meio de Jesus Cristo, e outros de Deus por meio de (Jesus) Cristo."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "gl-4-n8",
+              "offset": 93,
+              "original_marker": "t",
+              "source_id": 92
+            }
+          ]
         },
         {
           "verse": 8,
@@ -431,33 +1682,126 @@
         },
         {
           "verse": 9,
-          "text": "Mas agora que conhecestes Deus ou melhor, que fostes conhecidos por Deus como podeis voltar novamente a esses princípios elementares, fracos e pobres, querendo ser novamente seus escravos, como antes?",
-          "note_refs": []
+          "text": "Mas agora que conhecestes Deus – ou melhor, que fostes conhecidos por Deus – como podeis voltar novamente a esses princípios elementares, fracos e pobres, querendo ser novamente seus escravos, como antes?",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "No sentido bíblico de amados por Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "gl-4-n9",
+              "offset": 74,
+              "original_marker": "u",
+              "source_id": 93
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "É que continuais a observar escrupulosamente dias e meses, estações e anos!",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Referência ao calendário das festas judaicas (observar no sentido de celebrar)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "gl-4-n10",
+              "offset": 74,
+              "original_marker": "v",
+              "source_id": 94
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Temo ter sido em vão que me tenha afadigado por vós!",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "O verbo kopiáō (tal como o substantivo kópos) refere-se ao duro trabalho missionário (Rm 16,6.12; 1Cor 15,10; Flp 2,16; Col 1,29; 1Ts 5,12; 1Tm 4,10; 5,17; cf. 2Cor 10,15; 1Ts 1,3)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "gl-4-n11",
+              "offset": 43,
+              "original_marker": "w",
+              "source_id": 95
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Tornai-vos como eu, porque também eu me tornei como vós: eu vo-lo peço, irmãos! Em nada me ofendestes.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Paulo refere-se ao facto de que ele, sendo judeu e sujeito à Lei, se tornou sem lei (ánomos) por causa dos sem lei (ánomoi) gálatas pagãos, não só por uma questão pragmática, mas sobretudo teológica, na medida em que a Lei já não é caminho de salvação; agora, tal como Paulo, os gálatas devem viver na lei de Cristo (cf. 1Cor 9,21)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "gl-4-n12",
+              "offset": 79,
+              "original_marker": "x",
+              "source_id": 96
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Sabeis que foi por ocasião de uma doença que vos anunciei o evangelho na primeira vez",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Lit.: fraqueza da carne. O mesmo no v. seguinte. O anúncio aos gálatas aconteceu durante a segunda viagem missionária (At 16,6) e, pelo que afirma Paulo, tal parece ter sucedido por causa de uma doença grave que o reteve na Galácia."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "gl-4-n13",
+              "offset": 40,
+              "original_marker": "y",
+              "source_id": 97
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "e, embora a condição do meu corpo fosse para vós uma provação, não manifestastes desprezo nem sentistes repugnância; pelo contrário, recebestes-me como a um anjo de Deus, como a Cristo Jesus.",
-          "note_refs": []
+          "note_refs": [
+            "14",
+            "15"
+          ],
+          "notes": {
+            "14": "Lit.: o meu corpo.",
+            "15": "Lit.: e a vossa provação na minha carne não desprezastes nem cuspistes."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "gl-4-n14",
+              "offset": 33,
+              "original_marker": "z",
+              "source_id": 98
+            },
+            {
+              "ref": "15",
+              "id": "gl-4-n15",
+              "offset": 115,
+              "original_marker": "aa",
+              "source_id": 99
+            }
+          ]
         },
         {
           "verse": 15,
@@ -467,12 +1811,49 @@
         {
           "verse": 16,
           "text": "Será que agora, por vos dizer a verdade, me tornei vosso inimigo?",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Refere-se à verdade do evangelho: cf. 2,5.14."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "gl-4-n16",
+              "offset": 39,
+              "original_marker": "ab",
+              "source_id": 100
+            }
+          ]
         },
         {
           "verse": 17,
-          "text": "Eles são-vos É muito dedicados, mas não é por bons motivos; pelo contrário, querem isolar-vos, para que sejais vós a dedicar-vos a eles.",
-          "note_refs": []
+          "text": "Eles são-vos muito dedicados, mas não é por bons motivos; pelo contrário, querem isolar-vos, para que sejais vós a dedicar-vos a eles.",
+          "note_refs": [
+            "17",
+            "18"
+          ],
+          "notes": {
+            "17": "Lit.: não bem.",
+            "18": "Ou excluir-vos [de mim]."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "gl-4-n17",
+              "offset": 56,
+              "original_marker": "a",
+              "source_id": 101
+            },
+            {
+              "ref": "18",
+              "id": "gl-4-n18",
+              "offset": 91,
+              "original_marker": "b",
+              "source_id": 102
+            }
+          ]
         },
         {
           "verse": 18,
@@ -492,12 +1873,40 @@
         {
           "verse": 21,
           "text": "Dizei-me, vós que quereis estar sujeitos à Lei: não ouvis o que diz a Lei?",
-          "note_refs": []
+          "note_refs": [
+            "19"
+          ],
+          "notes": {
+            "19": "O que diz é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "gl-4-n19",
+              "offset": 67,
+              "original_marker": "c",
+              "source_id": 103
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "Pois está escrito: Abraão teve dois filhos, um da escrava e outro da mulher livre.",
-          "note_refs": []
+          "note_refs": [
+            "20"
+          ],
+          "notes": {
+            "20": "Mulher é acrescento da tradução, tal como nos vv.23.30.31. Paulo refere-se aos dois filhos de Abraão: Ismael (filho da escrava, Agar) e Isaac (filho da esposa, Sara)."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "gl-4-n20",
+              "offset": 81,
+              "original_marker": "d",
+              "source_id": 104
+            }
+          ]
         },
         {
           "verse": 23,
@@ -507,27 +1916,115 @@
         {
           "verse": 24,
           "text": "Estas coisas são ditas alegoricamente, pois as duas mulheres representam as duas alianças. Uma, a do monte Sinai, gerou filhos para a escravidão: essa é Agar.",
-          "note_refs": []
+          "note_refs": [
+            "21",
+            "22"
+          ],
+          "notes": {
+            "21": "Mulheres é acrescento da tradução.",
+            "22": "Filhos é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "gl-4-n21",
+              "offset": 60,
+              "original_marker": "e",
+              "source_id": 105
+            },
+            {
+              "ref": "22",
+              "id": "gl-4-n22",
+              "offset": 126,
+              "original_marker": "f",
+              "source_id": 106
+            }
+          ]
         },
         {
           "verse": 25,
           "text": "Ora, Agar é o monte Sinai que fica na Arábia, mas corresponde à atual Jerusalém, visto que está reduzida à escravidão juntamente com os seus filhos.",
-          "note_refs": []
+          "note_refs": [
+            "23"
+          ],
+          "notes": {
+            "23": "A Jerusalém terrena é símbolo dos judeus presos à Lei, por contraposição à Jerusalém do céu, anunciada pelos profetas para os tempos messiânicos e que é símbolo dos que nasceram pelo Espírito."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "gl-4-n23",
+              "offset": 147,
+              "original_marker": "g",
+              "source_id": 107
+            }
+          ]
         },
         {
           "verse": 26,
           "text": "Pelo contrário, a Jerusalém do alto é livre e essa é a nossa mãe,",
-          "note_refs": []
+          "note_refs": [
+            "24"
+          ],
+          "notes": {
+            "24": "A Jerusalém do alto é uma expressão judaica para falar da esperança da reedificação escatológica da Jerusalém terrestre (Is 54,10s; 60-61; Tb 13,9s.16ss; 14,5-7). Na literatura intertestamentária esta intuição é redimensionada pela ideia de que a Jerusalém do alto substituirá a terrena (4Esd 7,26s; 10,40; 1Hen 90,28s; Elias 10); a mesma ideia é apresentada em Ap 3,12; 21,2s. Para Paulo, esta Jerusalém celeste está já presente na Igreja."
+          },
+          "note_positions": [
+            {
+              "ref": "24",
+              "id": "gl-4-n24",
+              "offset": 43,
+              "original_marker": "h",
+              "source_id": 108
+            }
+          ]
         },
         {
           "verse": 27,
           "text": "pois está escrito: Alegra-te, ó estéril que não dás à luz, irrompe em gritos de alegria, tu que não sofres as dores de parto; porque muitos são os filhos da desolada, mais do que os daquela que tem marido.",
-          "note_refs": []
+          "note_refs": [
+            "25",
+            "26"
+          ],
+          "notes": {
+            "25": "Lit.: Irrompe e grita.",
+            "26": "Is 54,1."
+          },
+          "note_positions": [
+            {
+              "ref": "25",
+              "id": "gl-4-n25",
+              "offset": 87,
+              "original_marker": "i",
+              "source_id": 109
+            },
+            {
+              "ref": "26",
+              "id": "gl-4-n26",
+              "offset": 204,
+              "original_marker": "j",
+              "source_id": 110
+            }
+          ]
         },
         {
           "verse": 28,
           "text": "Vós, irmãos, à semelhança de Isaac, sois filhos da promessa.",
-          "note_refs": []
+          "note_refs": [
+            "27"
+          ],
+          "notes": {
+            "27": "Outros mss. apresentam nós… somos."
+          },
+          "note_positions": [
+            {
+              "ref": "27",
+              "id": "gl-4-n27",
+              "offset": 40,
+              "original_marker": "k",
+              "source_id": 111
+            }
+          ]
         },
         {
           "verse": 29,
@@ -537,11 +2034,47 @@
         {
           "verse": 30,
           "text": "Mas o que diz a Escritura? Expulsa a escrava e o seu filho, pois jamais o filho da escrava poderá receber a herança juntamente com o filho da mulher livre.",
-          "note_refs": []
+          "note_refs": [
+            "28"
+          ],
+          "notes": {
+            "28": "Gn 21,10."
+          },
+          "note_positions": [
+            {
+              "ref": "28",
+              "id": "gl-4-n28",
+              "offset": 138,
+              "original_marker": "l",
+              "source_id": 112
+            }
+          ]
         },
         {
           "verse": 31,
-          "text": "Por isso, irmãos, não somos filhos de uma escrava, mas da mulher livre. O",
+          "text": "Por isso, irmãos, não somos filhos de uma escrava, mas da mulher livre.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 8,
+          "text": "A VIDA NO ESPÍRITO: DA ESCRAVIDÃO À LIBERDADE (4,8-5,12)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "Perigo de regresso à escravidão",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Regressar à fidelidade",
+          "note_refs": []
+        },
+        {
+          "before_verse": 21,
+          "text": "Agar e Sara: as duas alianças",
           "note_refs": []
         }
       ]
@@ -552,12 +2085,49 @@
         {
           "verse": 1,
           "text": "Foi para a liberdade que Cristo nos libertou! Permanecei, pois, firmes e não vos deixeis sujeitar de novo a um jugo de escravidão.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Ou na liberdade."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "gl-5-n1",
+              "offset": 20,
+              "original_marker": "m",
+              "source_id": 113
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Sou eu próprio, Paulo, que vos digo: se vos circuncidardes, Cristo de nada vos servirá!",
-          "note_refs": []
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "O grego antepõe vê/eis (que).",
+            "3": "A expressão introduz a conclusão lógica das afirmações anteriores (cf. 3,17 nota)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "gl-5-n2",
+              "offset": 3,
+              "original_marker": "n",
+              "source_id": 114
+            },
+            {
+              "ref": "3",
+              "id": "gl-5-n3",
+              "offset": 35,
+              "original_marker": "o",
+              "source_id": 115
+            }
+          ]
         },
         {
           "verse": 3,
@@ -567,7 +2137,30 @@
         {
           "verse": 4,
           "text": "Separastes-vos de Cristo, vós, os que pela Lei quereis ser justificados; abandonastes a graça!",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Ou sois justificados. Para o conceito de justiça/justificação, cf. Rm 1,17 nota.",
+            "5": "Lit.: caístes da graça (na qual estavam desde o batismo; cf. Rm 5,2; 6,4s)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "gl-5-n4",
+              "offset": 71,
+              "original_marker": "p",
+              "source_id": 116
+            },
+            {
+              "ref": "5",
+              "id": "gl-5-n5",
+              "offset": 93,
+              "original_marker": "q",
+              "source_id": 117
+            }
+          ]
         },
         {
           "verse": 5,
@@ -577,17 +2170,59 @@
         {
           "verse": 6,
           "text": "De facto, em Cristo Jesus, nem a circuncisão nem a incircuncisão têm importância alguma, mas apenas a fé que atua através do amor.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O amor é a plenitude da Lei (Rm 13,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "gl-5-n6",
+              "offset": 129,
+              "original_marker": "r",
+              "source_id": 118
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Estáveis a correr tão bem! Quem vos obstruiu o caminho, para não obedecerdes à verdade?",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Caminho é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "gl-5-n7",
+              "offset": 54,
+              "original_marker": "s",
+              "source_id": 119
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Essa tentativa de persuasão não vem daquele que vos chama.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Tentativa de é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "gl-5-n8",
+              "offset": 17,
+              "original_marker": "t",
+              "source_id": 120
+            }
+          ]
         },
         {
           "verse": 9,
@@ -597,37 +2232,139 @@
         {
           "verse": 10,
           "text": "Eu, em relação a vós, tenho confiança no Senhor de que não pensareis de outro modo; porém, quem vos anda a perturbar sofrerá a condenação, seja ele quem for!",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Ou: Eu confio em vós, no Senhor."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "gl-5-n9",
+              "offset": 47,
+              "original_marker": "u",
+              "source_id": 121
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Quanto a mim, irmãos, se é verdade que ainda proclamo a circuncisão, por que razão sou ainda perseguido? Nesse caso foi tornado ineficaz o escândalo da cruz!",
-          "note_refs": []
+          "note_refs": [
+            "10",
+            "11",
+            "12"
+          ],
+          "notes": {
+            "10": "É verdade que é acrescento da tradução. Ainda falta em alguns mss.",
+            "11": "Parece que alguns acusavam Paulo de, apesar do seu discurso, praticar também ele a circuncisão, talvez porque circuncidara Timóteo (At 16,1-3). Com ironia, o apóstolo rebate a acusação com o facto de ser perseguido pelos judaizantes: se fosse verdade, por que razão o perseguiriam? A fórmula pregar a circuncisão opõe-se à de pregar Cristo (1Cor 1,23; 2Cor 4,5; 11,4; Flp 1,15).",
+            "12": "Ou foi abolido, foi destruído."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "gl-5-n10",
+              "offset": 44,
+              "original_marker": "v",
+              "source_id": 122
+            },
+            {
+              "ref": "11",
+              "id": "gl-5-n11",
+              "offset": 104,
+              "original_marker": "w",
+              "source_id": 123
+            },
+            {
+              "ref": "12",
+              "id": "gl-5-n12",
+              "offset": 136,
+              "original_marker": "x",
+              "source_id": 124
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "E aqueles que vos andam a desestabilizar deviam era castrar-se!",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "A ironia de Paulo é mordaz: os perturbadores devem levar até às últimas consequências a sua lógica e fazer-se castrar, como fazem os sacerdotes do culto de Cibele, muito difundido na zona."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "gl-5-n13",
+              "offset": 62,
+              "original_marker": "y",
+              "source_id": 125
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "É que vós, irmãos, fostes chamados para a liberdade. No entanto, que a liberdade não seja um pretexto para viverdes segundo a carne; pelo contrário, pelo amor, fazei-vos servos uns dos outros.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Lit.: para pretexto para a carne."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "gl-5-n14",
+              "offset": 131,
+              "original_marker": "z",
+              "source_id": 126
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "De facto, toda a Lei se cumpre nesta única palavra: Amarás o teu próximo como a ti mesmo.",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Lv 19,18; cf. Mc 12,31."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "gl-5-n15",
+              "offset": 88,
+              "original_marker": "aa",
+              "source_id": 127
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "Mas, se vos andais a morder e a devorar uns aos outros, tende cuidado para que não acabeis por vos destruir mutuamente! O A",
+          "text": "Mas, se vos andais a morder e a devorar uns aos outros, tende cuidado para que não acabeis por vos destruir mutuamente!",
           "note_refs": []
         },
         {
           "verse": 16,
           "text": "Digo-vos então: caminhai no Espírito e jamais consumareis os desejos da carne.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Cf. 3,17 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "gl-5-n16",
+              "offset": 14,
+              "original_marker": "a",
+              "source_id": 128
+            }
+          ]
         },
         {
           "verse": 17,
@@ -667,16 +2404,80 @@
         {
           "verse": 24,
           "text": "Os que são de Cristo Jesus crucificaram a carne juntamente com as paixões e os desejos.",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "O uso do tempo verbal em grego (o aoristo, crucificaram) faz referência a um momento concreto, o batismo, no qual a vida segundo os critérios da carne, com as suas paixões e desejos, foi destruída, para dar lugar à vida no e pelo Espírito (Rm 8,1-17)."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "gl-5-n17",
+              "offset": 86,
+              "original_marker": "b",
+              "source_id": 129
+            }
+          ]
         },
         {
           "verse": 25,
           "text": "Se vivemos pelo Espírito, é também guiados pelo Espírito que devemos caminhar.",
-          "note_refs": []
+          "note_refs": [
+            "18",
+            "19"
+          ],
+          "notes": {
+            "18": "Guiados é acrescento da tradução.",
+            "19": "O verbo grego utilizado é originalmente um termo militar (marchar em ordem), mas tem, no NT, um duplo sentido: mas no NT tem o sentido de caminhar, na aceção de comportar-se (cf. Rm 4,12; At 21,24) ou ajustar-se a (cf. Gl 6,16; Flp 3,16); ambos parecem estar presentes."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "gl-5-n18",
+              "offset": 42,
+              "original_marker": "c",
+              "source_id": 130
+            },
+            {
+              "ref": "19",
+              "id": "gl-5-n19",
+              "offset": 77,
+              "original_marker": "d",
+              "source_id": 131
+            }
+          ]
         },
         {
           "verse": 26,
           "text": "Não sejamos arrogantes, provocando-nos mutuamente e com inveja uns dos outros!",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A circuncisão invalida a obra de Cristo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "A VIDA NO ESPÍRITO: O AMOR, GUIA DA LIBERDADE (5,13-6,10)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "A verdadeira liberdade",
+          "note_refs": []
+        },
+        {
+          "before_verse": 19,
+          "text": "As obras da carne",
+          "note_refs": []
+        },
+        {
+          "before_verse": 22,
+          "text": "Os frutos do Espírito",
           "note_refs": []
         }
       ]
@@ -686,8 +2487,31 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Irmãos, se alguém for apanhado em alguma falta, vós que sois espirituais, corrigi-o com espírito de mansidão mas vigiando-te a ti mesmo, não vá acontecer que também tu sejas tentado!",
-          "note_refs": []
+          "text": "Irmãos, se alguém for apanhado em alguma falta, vós que sois espirituais, corrigi-o com espírito de mansidão – mas vigiando-te a ti mesmo, não vá acontecer que também tu sejas tentado!",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Ou seja, os que nasceram do Espírito (os batizados).",
+            "2": "Esta e as frases que se seguem, se tomadas isoladamente, são de difícil interpretação. Há um pensamento que as liga: a autossuficiência é um engano; todos precisam de todos para poderem viver a vida nova no Espírito, e se cada um se examinar a si próprio percebe que, tal como o que foi apanhado nalguma falta, também ele nada é, pois ambos têm um fardo a carregar."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "gl-6-n1",
+              "offset": 72,
+              "original_marker": "e",
+              "source_id": 132
+            },
+            {
+              "ref": "2",
+              "id": "gl-6-n2",
+              "offset": 183,
+              "original_marker": "f",
+              "source_id": 133
+            }
+          ]
         },
         {
           "verse": 2,
@@ -702,17 +2526,68 @@
         {
           "verse": 4,
           "text": "Examine cada um a sua própria conduta, e então encontrará vanglória somente em si e não no outro;",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Ou a sua própria obra."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "gl-6-n3",
+              "offset": 37,
+              "original_marker": "g",
+              "source_id": 134
+            }
+          ]
         },
         {
           "verse": 5,
-          "text": "cada um, de facto, terá de levar a sua própria carga. O",
-          "note_refs": []
+          "text": "cada um, de facto, terá de levar a sua própria carga.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Este v. não desdiz o que Paulo afirmou no v.2, pois ali o grego tà bárē (fardo) refere-se a algo pesado e aqui a palavra é phortíon, diminutivo de equipamento, bagagem, ou seja, embora cada um carregue a sua própria vida, é chamado a ajudar a carregar o pesado fardo do outro. Paulo usa o mesmo verbo em 6,17 para afirmar que ele próprio carrega no seu corpo as marcas de Jesus."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "gl-6-n4",
+              "offset": 52,
+              "original_marker": "h",
+              "source_id": 135
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Aquele que está a ser instruído na Palavra torne aquele que o instrui participante em todos os seus bens.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Lit.: catecúmeno.",
+            "6": "A exortação ao discípulo pode ser interpretada num duplo sentido: para que ajude à sustentação do seu mestre, ou para que mantenha a comunhão com ele naquilo que é espiritual e moralmente bom."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "gl-6-n5",
+              "offset": 31,
+              "original_marker": "i",
+              "source_id": 136
+            },
+            {
+              "ref": "6",
+              "id": "gl-6-n6",
+              "offset": 104,
+              "original_marker": "j",
+              "source_id": 137
+            }
+          ]
         },
         {
           "verse": 7,
@@ -747,31 +2622,122 @@
         {
           "verse": 13,
           "text": "Pois nem os próprios circuncisos observam a Lei, mas querem que vos circuncideis para que se possam gloriar na vossa carne.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Cf. 5,3."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "gl-6-n7",
+              "offset": 47,
+              "original_marker": "k",
+              "source_id": 138
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Quanto a mim, que de modo nenhum me glorie, a não ser na cruz do nosso Senhor Jesus Cristo, pela qual o mundo está crucificado para mim e eu para o mundo!",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Ou pelo qual."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "gl-6-n8",
+              "offset": 101,
+              "original_marker": "l",
+              "source_id": 139
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Pois nem a circuncisão é coisa alguma, nem a incircuncisão, mas sim a nova criação.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Cf. Rm 8,22; Ap 3,14."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "gl-6-n9",
+              "offset": 82,
+              "original_marker": "m",
+              "source_id": 140
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "Paz e misericórdia para todos aqueles que caminharem segundo esta norma, e também para o Israel de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "10",
+            "11"
+          ],
+          "notes": {
+            "10": "Sobre o sentido do verbo, cf. 5,25 nota.",
+            "11": "A expressão Israel de Deus refere-se à totalidade da comunidade cristã, herdeira das promessas (3,6- 9.29; 4,21ss; Rm 9,6ss), que também engloba os cristãos vindos do judaísmo (todo o Israel será salvo: Rm 11,26), e não apenas o Israel segundo a carne, ou seja, o Israel da circuncisão (1Cor 10,18ss; Rm 7,5; 9,6)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "gl-6-n10",
+              "offset": 52,
+              "original_marker": "n",
+              "source_id": 141
+            },
+            {
+              "ref": "11",
+              "id": "gl-6-n11",
+              "offset": 103,
+              "original_marker": "o",
+              "source_id": 142
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "E que doravante ninguém me importune, pois eu carrego no meu corpo as marcas de Jesus!",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Ironia de Paulo: se a salvação se baseia em marcas na carne, como pretendem os defensores da circuncisão, ele tem aquelas que verdadeiramente importam, ou seja, as cicatrizes dos ferimentos causados pelo anúncio do evangelho (2Cor 4,10s; 11,18.23-28; Cl 1,24)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "gl-6-n12",
+              "offset": 85,
+              "original_marker": "p",
+              "source_id": 143
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "A graça do nosso Senhor Jesus Cristo esteja com o vosso espírito, irmãos. Ámen.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "O amor fraterno",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "CONCLUSÃO (6,11-18)",
           "note_refs": []
         }
       ]

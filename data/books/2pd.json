@@ -1,5 +1,52 @@
 {
+  "schema_version": 2,
   "book": "2 Pedro",
+  "book_id": "2pd",
+  "source": {
+    "format": "docx",
+    "file": "68_2Pd.docx",
+    "title": "Segunda Carta de Pedro"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Autor, destinatários e datação",
+        "paragraphs": [
+          "Embora o autor seja apresentado como Simão Pedro, servo e apóstolo de Jesus Cristo (1,1) e recorde a sua presença no episódio da transfiguração do Senhor (1,16-18), provavelmente não é o apóstolo Pedro o autor da carta, mas sim alguém a quem é reconhecida autoridade para escrever em seu nome e que o terá feito depois da sua morte. A atribuição da carta a Pedro enquadra-se numa prática recorrente no mundo antigo, que invoca a autoridade de uma personagem importante para reforçar a autoridade do escrito, e sobretudo justifica-se por parecer recolher pensamentos e mensagens da pregação de Pedro, provavelmente em Roma.",
+          "Os destinatários são cristãos da Ásia Menor, pagãos convertidos à fé cristã. A finalidade da carta é alertá-los para o perigo dos falsos mestres, infiltrados na Igreja (2,1ss), que serão provavelmente os precursores do movimento gnóstico que se desenvolverá no séc. II, e responder à inquietação que lhes provocava a demora da última vinda do Senhor, anunciando-lhes um mundo novo em que habitará a justiça (3,3-13).",
+          "A redação da carta terá acontecido por volta do ano 100, visto que já integra muito texto da carta de Judas (2,1,3b = Jd 4; 2,4.6 = Jd 5-7; 2,5 = Jd 5; 2,10s = Jd 8-9; 2,12 = Jd 10; 2,13-15 = Jd 11-12; 2,17 = Jd 12bs; 2,18 = Jd 16; 3,1-4 = Jd 17s; 3,10-13 = Jd 14s; 3,14-18 = Jd 20-25), e apresenta algumas semelhanças com uma das obras de Plutarco (De sera numinis vindicta), redigida c. 96 d.C."
+        ]
+      },
+      {
+        "title": "Género literário",
+        "paragraphs": [
+          "O escrito revela uma composição cuidada, com variedade de recursos literários; a atribuição, porém, deste texto ao género epistolar é problemática, já que lhe falta, por exemplo, a saudação final, apresentando em seu lugar uma doxologia (3,18). Assemelha-se antes ao género de testamento ou discurso de despedida, que uma personagem faz antes da sua morte e no qual desenvolve, sob a forma de exortação, uma série de pontos doutrinais que considera oportuno lembrar à sua comunidade."
+        ]
+      },
+      {
+        "title": "Conteúdo",
+        "paragraphs": [
+          "Sendo a carta motivada pelo problema dos falsos mestres (2,1), que se infiltraram na comunidade e que punham em perigo a ortodoxia da fé, o seu conteúdo apresenta e rebate os seus erros doutrinais, tal como os seus comportamentos (2,1-22; 3,17). Assim, entre outras afirmações, aparecem como temas doutrinais fundamentais: a inspiração das Sagradas Escrituras (cf. 1,20s); a salvação cristã como participação na natureza divina (1,4); a enfática confissão da divindade de Jesus Cristo pelo recurso aos títulos que lhe são atribuídos (Deus e Salvador: 1,1; Senhor e Salvador, 1,11; 2,20; 3,2.18); o anúncio de um mundo novo, perante a demora da parusia (última",
+          "vinda do Senhor), e que anima a esperança (3,8; 3,13); a precariedade deste mundo (3,7).",
+          "Sublinhe-se também o facto de ser a primeira vez, no NT, em que se faz referência a uma coleção das cartas de Paulo (3,15s)."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "A estrutura assenta num procedimento retórico em que as partes do discurso se articulam à volta de um eixo central, que neste caso é constituído pela invetiva contra os falsos doutores (estrutura concêntrica):",
+          "(A) Saudação inicial: 1,1-2",
+          "(B) Exortação sobre a vocação cristã: 1,3-11",
+          "(C) Memória das palavras de Cristo e dos profetas: 1,12-21",
+          "(D) Invetiva contra os falsos mestres: 2,1-21",
+          "(C’) Memória das palavras dos apóstolos: 3,1-10",
+          "(B’) Exortação à santidade: 3,11-16",
+          "(A’) Conclusão (doxologia): 3,17-18"
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,22 +54,96 @@
         {
           "verse": 1,
           "text": "Simão Pedro, servo e apóstolo de Jesus Cristo, àqueles que, pela justiça do nosso Deus e Salvador Jesus Cristo, receberam uma fé tão preciosa como a nossa:",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "O autor apresenta-se com o nome próprio do chefe dos apóstolos, Simão (cf. At 15,14), e com o que lhe foi dado por Jesus, Pedro (cf. Mt 16,18), sentindo-se, na continuidade da tradição hebraica, um obediente servo de Deus, como o foram Moisés (Dt 34,5) ou David (2Sm 7,5-29).",
+            "2": "A carta acentua a centralidade da pessoa de Jesus Cristo (1,3.8; 2,20; 3,18) e a identificação da fé nele com o conhecimento, termo muito usado na carta (cf. 1,2.3.8; 2,20) e sempre no sentido bíblico, ou seja, indicando uma relação pessoal."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "2pd-1-n1",
+              "offset": 45,
+              "original_marker": "a",
+              "source_id": 1
+            },
+            {
+              "ref": "2",
+              "id": "2pd-1-n2",
+              "offset": 154,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "a graça e a paz vos sejam concedidas em abundância, pelo conhecimento de Deus e de Jesus, nosso Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Vários mss. acrescentam Cristo."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "2pd-1-n3",
+              "offset": 88,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "O seu poder divino concedeu-nos tudo o que é necessário para a vida e para a piedade, ao dar-nos a conhecer Aquele que nos chamou por sua própria glória e virtude.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "A fé abre o crente ao poder divino, fazendo com que brotem atitudes e virtudes (1,5-8) que, tal como na literatura cristã primitiva e mesmo helenística, são apresentadas em forma de catálogo. A plenitude da vocação cristã (v.10) é expressa como uma participação na natureza divina (v.4), ideia que não é estranha ao NT, mas que apenas aqui encontra uma formulação tão objetiva.",
+            "5": "Lit.: por meio do conhecimento."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "2pd-1-n4",
+              "offset": 84,
+              "original_marker": "d",
+              "source_id": 4
+            },
+            {
+              "ref": "5",
+              "id": "2pd-1-n5",
+              "offset": 107,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "Foi por elas que Ele nos concedeu os mais preciosos e sublimes bens, que nos tinham sido prometidos, para que por meio deles vos tornásseis participantes da natureza divina, tendo fugido da corrupção que existe no mundo, causada pelas paixões.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: Ele concedeu-nos as promessas preciosas e maiores."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "2pd-1-n6",
+              "offset": 99,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 5,
@@ -42,7 +163,21 @@
         {
           "verse": 8,
           "text": "Pois, se estas virtudes existirem e crescerem em vós, elas não permitirão que sejais inoperantes ou estéreis no conhecimento do nosso Senhor Jesus Cristo.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: estas coisas."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "2pd-1-n7",
+              "offset": 23,
+              "original_marker": "g",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 9,
@@ -52,27 +187,119 @@
         {
           "verse": 10,
           "text": "Por isso, irmãos, empenhai-vos cada vez mais em consolidar a vossa vocação e eleição. Se o fizerdes, nunca mais pecareis.",
-          "note_refs": []
+          "note_refs": [
+            "8",
+            "9",
+            "10"
+          ],
+          "notes": {
+            "8": "Vários mss. acrescentam por meio das boas obras.",
+            "9": "Lit.: fazer firme.",
+            "10": "Lit.: tropeçareis."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "2pd-1-n8",
+              "offset": 30,
+              "original_marker": "h",
+              "source_id": 8
+            },
+            {
+              "ref": "9",
+              "id": "2pd-1-n9",
+              "offset": 58,
+              "original_marker": "i",
+              "source_id": 9
+            },
+            {
+              "ref": "10",
+              "id": "2pd-1-n10",
+              "offset": 120,
+              "original_marker": "j",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "Deste modo vos será amplamente concedida a entrada no reino eterno do nosso Senhor e Salvador Jesus Cristo. O",
+          "text": "Deste modo vos será amplamente concedida a entrada no reino eterno do nosso Senhor e Salvador Jesus Cristo.",
           "note_refs": []
         },
         {
           "verse": 12,
           "text": "É por isso que sempre vos hei de recordar estas coisas, ainda que já as saibais e estejais firmes na verdade que já conheceis.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: na verdade presente. A fé assenta nos ensinamentos de Jesus e dos apóstolos (vv.14-18) e dos profetas (vv.19-21). É neste quadro que se contrapõe o ensinamento dos falsos mestres – provavelmente gnósticos, cujos ensinamentos são meramente especulativos e desligados das propostas de vida evangélica – à inspiração da Sagrada Escritura (v.21), que deve ser interpretada pelo mesmo Espírito presente na comunidade."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "2pd-1-n11",
+              "offset": 125,
+              "original_marker": "a",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 13,
-          "text": "Enquanto viver na tenda que é este corpo, entendo que é meu dever desper - tar-vos com estas advertências,",
-          "note_refs": []
+          "text": "Enquanto viver na tenda que é este corpo, entendo que é meu dever despertar-vos com estas advertências,",
+          "note_refs": [
+            "12",
+            "13"
+          ],
+          "notes": {
+            "12": "Que é este corpo é acrescento da tradução.",
+            "13": "Lit.: que é justo."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "2pd-1-n12",
+              "offset": 40,
+              "original_marker": "b",
+              "source_id": 12
+            },
+            {
+              "ref": "13",
+              "id": "2pd-1-n13",
+              "offset": 65,
+              "original_marker": "c",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "sabendo que está para breve o momento de deixar esta minha tenda, como também mo deu a conhecer o nosso Senhor Jesus Cristo.",
-          "note_refs": []
+          "note_refs": [
+            "14",
+            "15"
+          ],
+          "notes": {
+            "14": "Lit.: a separação da tenda.",
+            "15": "O autor alude ao anúncio feito por Jesus sobre a morte de Pedro (cf. Jo 21,18s)."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "2pd-1-n14",
+              "offset": 64,
+              "original_marker": "d",
+              "source_id": 14
+            },
+            {
+              "ref": "15",
+              "id": "2pd-1-n15",
+              "offset": 123,
+              "original_marker": "e",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 15,
@@ -82,12 +309,40 @@
         {
           "verse": 16,
           "text": "De facto, não foi por seguirmos fábulas habilmente inventadas que vos demos a conhecer o poder e a vinda do nosso Senhor Jesus, mas por termos sido testemunhas oculares da sua grandeza.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Cf. 1Tm 1,4 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "2pd-1-n16",
+              "offset": 61,
+              "original_marker": "f",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Pois Ele recebeu de Deus Pai honra e glória, quando da majestosa glória de Deus lhe chegou esta voz: «Este é o meu Filho amado, no qual Eu me comprazo».",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "Lit.: quando lhe foi trazida uma tal voz pela majestosa glória."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "2pd-1-n17",
+              "offset": 99,
+              "original_marker": "g",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 18,
@@ -107,6 +362,37 @@
         {
           "verse": 21,
           "text": "pois nunca foi por vontade humana que uma profecia foi proferida; pelo contrário, foi pela ação do Espírito Santo que os homens falaram em nome de Deus.",
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "Lit.: que foram levados a falar da parte de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "2pd-1-n18",
+              "offset": 151,
+              "original_marker": "h",
+              "source_id": 18
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Saudação",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "A vocação cristã",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Fidelidade ao testemunho dos apóstolos e profetas",
           "note_refs": []
         }
       ]
@@ -116,8 +402,49 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Assim como surgiram falsos profetas entre o povo, assim também hão de surgir entre vós falsos mestres, que introduzirão heresias que levam à perdição e, A É chegando ao ponto de renegar o Senhor que os resgatou, atrairão sobre si uma perdição que há de vir sem demora.",
-          "note_refs": []
+          "text": "Assim como surgiram falsos profetas entre o povo, assim também hão de surgir entre vós falsos mestres, que introduzirão heresias que levam à perdição e, chegando ao ponto de renegar o Senhor que os resgatou, atrairão sobre si uma perdição que há de vir sem demora.",
+          "note_refs": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "notes": {
+            "1": "Nos vv.1-22 encontram-se descritos os falsos mestres (cf. Jd 4), que põem em perigo a fé cristã com o seu ensinamento e sua conduta moral (vv.1ss). Apelando a exemplos de personagens bíblicas e extrabíblicas que receberam o castigo do Senhor – os anjos que pecaram (1Hen 6,1-7), os incrédulos contemporâneos de Noé (Gn 6,5-8), os habitantes de Sodoma e Gomorra (Gn 19), e de Balaão, filho de Bosor (cf. Nm 22,5) – o autor exorta os cristãos a manterem-se fiéis, porque o Senhor salva os que seguem o caminho da verdade, como aconteceu com Noé e a sua família (cf. Gn 7,7; 1Pd 3,20), e com Lot, sobrinho de Abraão (Gn 19,12-29).",
+            "2": "Lit.: de perdição.",
+            "3": "Não no sentido de não terem fé, mas de a deturparem gravemente, a ponto de rejeitarem o julgamento de Deus, sendo por isso comparáveis aos ímpios que negam que Deus conheça os seus pecados e os julgue (cf. Sl 10,11.13; 14,1; 73,11).",
+            "4": "Lit.: rápida perdição."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "2pd-2-n1",
+              "offset": 48,
+              "original_marker": "i",
+              "source_id": 19
+            },
+            {
+              "ref": "2",
+              "id": "2pd-2-n2",
+              "offset": 149,
+              "original_marker": "j",
+              "source_id": 20
+            },
+            {
+              "ref": "3",
+              "id": "2pd-2-n3",
+              "offset": 181,
+              "original_marker": "k",
+              "source_id": 21
+            },
+            {
+              "ref": "4",
+              "id": "2pd-2-n4",
+              "offset": 263,
+              "original_marker": "l",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 2,
@@ -127,12 +454,49 @@
         {
           "verse": 3,
           "text": "Por ganância, hão-de explorar-vos com palavras falsas. Mas há já muito tempo que a sua condenação está em curso e a sua perdição não se fará esperar.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Lit.: não está inativa.",
+            "6": "Lit.: não dorme."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "2pd-2-n5",
+              "offset": 111,
+              "original_marker": "m",
+              "source_id": 23
+            },
+            {
+              "ref": "6",
+              "id": "2pd-2-n6",
+              "offset": 148,
+              "original_marker": "n",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "Pois se Deus não poupou os anjos que pecaram, mas colocou-os acorrentados no abismo das trevas, onde os mantém guardados para o julgamento;",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "No grego Tártaro, o inferno dos pagãos. Ao usar esta figura mitológica, o autor parece querer enquadrar o seu discurso na cultura dos seus destinatários, tal como a aventura de Noé poderá evocar o episódio da sobrevivência de Deucalião (filho de Prometeu), e o fogo de Sodoma recordar a punição de Faetonte (filho de Hélios)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "2pd-2-n7",
+              "offset": 83,
+              "original_marker": "o",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 5,
@@ -142,17 +506,45 @@
         {
           "verse": 6,
           "text": "se condenou à ruína as cidades de Sodoma e Gomorra, reduzindo-as a cinzas para servirem de exemplo aos ímpios que viriam depois,",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: [como] exemplo dos que iriam viver impiamente."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "2pd-2-n8",
+              "offset": 127,
+              "original_marker": "p",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "mas livrou o justo Lot, que vivia angustiado pela conduta devassa daquela gente perversa",
+          "text": "mas livrou o justo Lot, que vivia angustiado pela conduta devassa daquela gente perversa –",
           "note_refs": []
         },
         {
           "verse": 8,
           "text": "este justo, de facto, que vivia no meio dessa gente, sentia, dia após dia, a sua alma justa atormentada por causa das más obras que via e ouvia –,",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: pelo olhar e pela audição."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "2pd-2-n9",
+              "offset": 143,
+              "original_marker": "q",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 9,
@@ -162,22 +554,96 @@
         {
           "verse": 10,
           "text": "sobretudo aqueles que, movidos por desejos impuros, vão atrás da carne e desprezam a soberania do Senhor. Atrevidos e presunçosos, não temem injuriar os seres gloriosos,",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: na cobiça de corrupção."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "2pd-2-n10",
+              "offset": 50,
+              "original_marker": "r",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "enquanto nem os anjos, superiores a eles em força e em poder, proferem qualquer juízo injurioso contra eles diante do Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Os anjos mais importantes, perante a desfaçatez de tão ímpios comportamentos, abstêm-se de pronunciar qualquer castigo no tribunal celeste (Jb 1,6; Zc 3,2-7; Mt 10,32s), pois deixam que seja Deus a exercer a sua prerrogativa – a do julgamento supremo."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "2pd-2-n11",
+              "offset": 124,
+              "original_marker": "s",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Eles são semelhantes a animais irracionais, por natureza destinados a serem capturados e mortos; injuriam aquilo que desconhecem e acabarão por morrer por causa da sua conduta corrupta,",
-          "note_refs": []
+          "note_refs": [
+            "12",
+            "13"
+          ],
+          "notes": {
+            "12": "Lit.: à captura e à corrupção.",
+            "13": "Lit.: na corrupção deles."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "2pd-2-n12",
+              "offset": 95,
+              "original_marker": "t",
+              "source_id": 30
+            },
+            {
+              "ref": "13",
+              "id": "2pd-2-n13",
+              "offset": 184,
+              "original_marker": "u",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "recebendo, desta forma, a recompensa da sua iniquidade. De facto, consideram uma delícia entregar-se ao deboche em pleno dia, são imundos e desavergonhados, e têm prazer em enganar-vos, enquanto se banqueteiam convosco.",
-          "note_refs": []
+          "note_refs": [
+            "14",
+            "15"
+          ],
+          "notes": {
+            "14": "Lit.: considerando prazer o deleite no dia.",
+            "15": "Lit.: nos seus enganos."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "2pd-2-n14",
+              "offset": 124,
+              "original_marker": "v",
+              "source_id": 32
+            },
+            {
+              "ref": "15",
+              "id": "2pd-2-n15",
+              "offset": 184,
+              "original_marker": "w",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 14,
@@ -187,7 +653,21 @@
         {
           "verse": 15,
           "text": "Abandonando o caminho reto, deixaram-se seduzir e seguiram o caminho de Balaão, filho de Bosor, que se perdeu de amores por uma recompensa iníqua,",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Balaão deixou-se seduzir pela proposta infame do rei moabita Balac – amaldiçoar Israel (cf. Dt 23,4s) – em troca de honras e de glória, o que acabou por fazer dele a figura-tipo do falso profeta (Ap 2,14)."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "2pd-2-n16",
+              "offset": 78,
+              "original_marker": "a",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 16,
@@ -197,7 +677,21 @@
         {
           "verse": 17,
           "text": "Esses homens são fontes sem água e nuvens arrastadas pela tempestade: está-lhes reservada a profundeza das trevas.",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "Homens é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "2pd-2-n17",
+              "offset": 12,
+              "original_marker": "b",
+              "source_id": 35
+            }
+          ]
         },
         {
           "verse": 18,
@@ -222,6 +716,36 @@
         {
           "verse": 22,
           "text": "Aconteceu-lhes o que diz aquele provérbio tão verdadeiro: «O cão volta ao seu vómito» e «a porca, acabada de lavar, volta a rebolar-se na lama».",
+          "note_refs": [
+            "18",
+            "19"
+          ],
+          "notes": {
+            "18": "Pr 26,11.",
+            "19": "Trata-se provavelmente de uma citação de um texto apócrifo, sobre os ensinamentos do sábio Ahikar, cuja história na corte de Senaquerib remonta ao séc. V a.C."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "2pd-2-n18",
+              "offset": 85,
+              "original_marker": "c",
+              "source_id": 36
+            },
+            {
+              "ref": "19",
+              "id": "2pd-2-n19",
+              "offset": 143,
+              "original_marker": "d",
+              "source_id": 37
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Os falsos mestres",
           "note_refs": []
         }
       ]
@@ -232,12 +756,49 @@
         {
           "verse": 1,
           "text": "Amados meus, esta é já a segunda carta que vos escrevo, procurando, tanto numa como noutra, despertar na vossa memória aquela que é a correta maneira de pensar,",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "A demora da vinda do Senhor provocou nas primeiras gerações cristãs alguma perplexidade. De facto, os pais (os apóstolos ou os cristãos da primeira geração) tinham já morrido (v.4), sem que tal tivesse acontecido, o que abriu caminho a que os falsos mestres negassem a parusia. O autor responde-lhes com o Sl 90,4 (v.8), evidenciando que o tempo de Deus não é o dos homens. A paciência de Deus supera a vontade humana de castigo e destruição (v.9), e os novos céus e a nova terra acabarão por surgir (v.10). Esta realidade radicalmente nova é expressa mediante imagens e expressões tomadas da apocalíptica judeo-cristã (Mt 24,29.35.43; 1Ts 5,2-4; Ap 20,11; 21,1).",
+            "2": "Lit.: pensamento puro."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "2pd-3-n1",
+              "offset": 11,
+              "original_marker": "e",
+              "source_id": 38
+            },
+            {
+              "ref": "2",
+              "id": "2pd-3-n2",
+              "offset": 159,
+              "original_marker": "f",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "a fim de que vos recordeis das palavras já ditas pelos santos profetas e do mandamento do Senhor e Salvador, transmitido pelos vossos apóstolos.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: do mandamento dos vossos apóstolos do Senhor e Salvador."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "2pd-3-n3",
+              "offset": 143,
+              "original_marker": "g",
+              "source_id": 40
+            }
+          ]
         },
         {
           "verse": 3,
@@ -247,7 +808,21 @@
         {
           "verse": 4,
           "text": "vos dirá: “O que é feito da sua vinda, que Ele tinha prometido? Pois desde que os nossos pais morreram, tudo continua como no princípio da criação”.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: onde está a promessa da sua vinda? A fórmula o que é feito (lit.: onde está?) é usada no AT para colocar em causa a existência de uma divindade estrangeira (cf. Dt 32,37; 2Rs 18,34) ou exprimir dúvidas sobre a ação do próprio Deus (cf. Jz 6,13; Sl 42,4.11)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "2pd-3-n4",
+              "offset": 62,
+              "original_marker": "h",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 5,
@@ -262,7 +837,21 @@
         {
           "verse": 7,
           "text": "Ora, os céus e a terra que existem agora estão reservados, pela mesma Palavra, para o fogo, aguardando o dia do juízo e da perdição dos ímpios.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: guardados para o fogo, para o dia do juízo e para a perdição dos homens ímpios."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "2pd-3-n5",
+              "offset": 142,
+              "original_marker": "i",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 8,
@@ -272,12 +861,49 @@
         {
           "verse": 9,
           "text": "O Senhor não tardará em cumprir a sua promessa, como pensam alguns. No entanto, usa de paciência para convosco, por não querer que ninguém se perca, mas que, pelo contrário, todos cheguem à conversão.",
-          "note_refs": []
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Alguns mss. mais tardios leem connosco.",
+            "7": "A paciência de Deus e o consequente adiamento do seu julgamento constituem uma oportunidade para a conversão; assim foi entendido na tradição judaica, segundo a qual Deus deu mais tempo a Adão para se arrepender e ser salvo (GnR 22,1; Jub 4,29s; cf. Fílon, Leg. alleg. 3, 106). Não se trata, portanto, de um argumento contra a teodiceia, mas de um sinal da benevolência de Deus (Sb 12,10; Nm 14,18; Ex 34,6s; Ne 9,17; Sl 86,15; Rm 2,4)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "2pd-3-n6",
+              "offset": 110,
+              "original_marker": "j",
+              "source_id": 43
+            },
+            {
+              "ref": "7",
+              "id": "2pd-3-n7",
+              "offset": 199,
+              "original_marker": "k",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Contudo, o dia do Senhor virá como um ladrão. Nesse dia, os céus desaparecerão com estrondo, os elementos do mundo serão destruídos, devorados pelas chamas, juntamente com a terra e as obras que nela existem.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Do mundo é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "2pd-3-n8",
+              "offset": 114,
+              "original_marker": "l",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 11,
@@ -287,27 +913,106 @@
         {
           "verse": 12,
           "text": "enquanto esperais e apressais a vinda do dia de Deus! Nesse dia, os céus, consumidos pelo fogo, serão destruídos, e os elementos do mundo, devorados pelas chamas, fundir-se-ão.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "No AT, este verbo é usado para falar sobre o intenso desejo em relação à vinda do messias (cf. Is 16,5; 60,22), que só acontecerá quando o povo estiver preparado (Sir 36,7). Do mesmo modo, a parusia só terá lugar quando a comunidade estiver pronta; não será antes da conversão de Israel (At 3,20; Rm 11,15), nem da aparição do anticristo (2Ts 2,6s). Assim, os discípulos de Cristo apressam, i.e., antecipam a segunda vinda de Cristo pela pregação do evangelho (Mt 24,14), pela oração (Mt 6,10), pela santidade de vida."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "2pd-3-n9",
+              "offset": 29,
+              "original_marker": "m",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Mas, de acordo com a sua promessa, nós esperamos novos céus e uma nova terra, onde habitará a justiça.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Is 65,17; 66,22."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "2pd-3-n10",
+              "offset": 76,
+              "original_marker": "n",
+              "source_id": 47
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Por isso, amados meus, enquanto esperais tudo isto, empenhai-vos para que o Senhor vos encontre na paz, sem mancha e sem motivo algum de censura.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: Ele."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "2pd-3-n11",
+              "offset": 82,
+              "original_marker": "o",
+              "source_id": 48
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Considerai que a paciência do nosso Senhor tem em vista a salvação, tal como o nosso amado irmão Paulo vos escreveu, de acordo com a sabedoria que lhe foi concedida:",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: considerei a paciência do nosso Senhor salvação."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "2pd-3-n12",
+              "offset": 66,
+              "original_marker": "p",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 16,
-          "text": "ele fala disto em todas as suas cartas. Há nelas alguns pontos difíceis de compreender, que os ignorantes e inconstantes na fé deturparão, como fazem com as outras Escrituras, para sua própria perdição. A",
-          "note_refs": []
+          "text": "ele fala disto em todas as suas cartas. Há nelas alguns pontos difíceis de compreender, que os ignorantes e inconstantes na fé deturparão, como fazem com as outras Escrituras, para sua própria perdição.",
+          "note_refs": [
+            "13",
+            "14"
+          ],
+          "notes": {
+            "13": "De compreender é acrescento da tradução.",
+            "14": "Na fé é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "2pd-3-n13",
+              "offset": 86,
+              "original_marker": "q",
+              "source_id": 50
+            },
+            {
+              "ref": "14",
+              "id": "2pd-3-n14",
+              "offset": 126,
+              "original_marker": "r",
+              "source_id": 51
+            }
+          ]
         },
         {
           "verse": 17,
@@ -317,6 +1022,37 @@
         {
           "verse": 18,
           "text": "Crescei na graça e no conhecimento do nosso Senhor e Salvador Jesus Cristo. A Ele seja dada a glória, agora e até ao dia eterno. Ámen.",
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Alguns mss. omitem ámen. Contrariamente ao que é habitual nas cartas, o autor substitui as saudações pessoais e as despedidas por uma doxologia."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "2pd-3-n15",
+              "offset": 133,
+              "original_marker": "a",
+              "source_id": 52
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A vinda de Cristo e o fim do mundo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 14,
+          "text": "Exortação à vigilância",
+          "note_refs": []
+        },
+        {
+          "before_verse": 17,
+          "text": "Conclusão",
           "note_refs": []
         }
       ]

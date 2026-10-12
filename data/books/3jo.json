@@ -1,5 +1,73 @@
 {
+  "schema_version": 2,
   "book": "3 João",
+  "book_id": "3jo",
+  "source": {
+    "format": "docx",
+    "file": "69_JoCartas.docx",
+    "title": "Cartas de São João",
+    "segment": "TERCEIRA CARTA DE SÃO JOÃO"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Autoria",
+        "paragraphs": [
+          "O cânone da Sagrada Escritura, seguindo a tradição, para além do evangelho (e do Apocalipse), atribui ao apóstolo João um conjunto de três cartas. A primeira carta não explicita o autor que, em 1,1-4, se refere a si próprio com um nós e utiliza uma linguagem e um estilo muito semelhantes aos do prólogo do evangelho (cf. Jo 1, 1-18). Também por isso, a tradição identificou-o com o Discípulo Amado, o autor do Quarto Evangelho (cf. Jo 13,23 nota) e fundador das comunidades a quem se destinam estas três cartas, e que, segundo a mesma tradição, seria o apóstolo João, o filho de Zebedeu (cf. a questão da autoria na introdução a Jo). Na segunda e terceira cartas, porém, o autor identifica-se como o presbítero (cf. 2Jo 1; 3Jo 1), que a tradição com maior peso sempre considerou tratar-se do mesmo autor do evangelho e da primeira carta. São, pois, escritos que, mesmo não tendo sido redigidos pelo apóstolo, remetem implicitamente à sua autoridade e autoria, pertencendo à mesma escola teológica e reproduzindo o seu pensamento, como é notório nas grandes semelhanças, não só no vocabulário e na doutrina, como também nas expressões e no estilo simples e linear."
+        ]
+      },
+      {
+        "title": "Datação",
+        "paragraphs": [
+          "As cartas terão sido escritas alguns anos depois do Quarto Evangelho (Jo), para dar resposta a situações vividas pela(s) comunidade(s) de tradição joanina. Assim, por exemplo, a primeira carta rebate a cristologia deficitária de alguns membros da comunidade que, fazendo uma errada interpretação da alta cristologia do evangelho de João – que sublinha de forma particular a divindade de Jesus –, acabaram por negar a verdade da encarnação e, portanto, da sua verdadeira humanidade. O facto de terem sido escritas depois do evangelho (redigido possivelmente em finais do séc. I) e de fazerem eco destas tendências gnosticizantes remete a redação das cartas para finais do séc. I ou princípios do séc. II."
+        ]
+      },
+      {
+        "title": "Destinatários e finalidade",
+        "paragraphs": [
+          "A primeira de carta, que não nos dá a conhecer o seu destinatário, terá sido enviada a várias comunidades da Ásia Menor fundadas pelo apóstolo João, com a finalidade de exortar os seus membros a manterem-se fiéis à verdade do testemunho que receberam e, consequentemente, unidos no amor recíproco. O escrito parece ter sido motivado pela já referida interpretação cristológica deturpada de alguns membros da comunidade. Estes, a quem o autor chama de anticristos e que parecem estar já separados da comunidade (cf. 1Jo 2,18s.22s), continuam a tentar seduzir os restantes com a sua doutrina, a qual: 1) negava que o Jesus humano fosse o Cristo celeste (1Jo 2,22s), no sentido de não aceitar que o Filho de Deus tivesse encarnado",
+          "e morrido (cf. 1Jo 4,1-3); 2) defendia que apenas os que assim pensavam estavam em comunhão com Deus (1Jo 1,6; 2,6) e o conheciam (1Jo 2,4), o que tinha como consequência o desprezo pelos restantes membros da comunidade, denúncia presente nas afirmações do autor sobre os mentirosos que dizem amar a Deus quando não amam o irmão (1Jo 4,20s); 3) afirmava que apenas eles eram mestres e profetas guiados diretamente pelo Espírito (cf. 1Jo 4,1-6).",
+          "Já a segunda carta é dirigida à Senhora eleita e aos seus filhos (2Jo 1), ou seja, a uma comunidade (ou conjunto de comunidades) da Ásia Menor, de tradição joanina, com o objetivo de a(s) exortar a manter(em)-se fiel(éis) à verdade, no cumprimento do mandamento do amor e resistindo aos que negavam a encarnação do Filho de Deus.",
+          "Por fim, a terceira carta é endereçada pelo presbítero a Gaio, pedindo-lhe que acolha os missionários por ele enviados e que lhes dê provisões, ao mesmo tempo que se queixa de Diótrefes – provavelmente o responsável de uma comunidade vizinha – que não só recusou recebê-los, como procurava minar na comunidade a autoridade do presbítero (cf. 3Jo 9s). Entre esses missionários estaria Demétrio, que é especialmente recomendado a Gaio pelo seu bom testemunho (cf. 3Jo 12)."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "A primeira carta tem um estilo exortativo, doutrinal e homilético; a segunda e a terceira, embora sejam mais bilhetes que propriamente cartas, têm um estilo epistolar e assemelham-se pela sua pequena dimensão e estrutura."
+        ]
+      },
+      {
+        "title": "Estrutura da 1Jo",
+        "paragraphs": [
+          "Prólogo (1,1-4)",
+          "I. Caminhar na luz (1,5-2,27)",
+          "II. Viver como filhos de Deus (2,28-4,6)",
+          "III. Acreditar e amar (4,7-5,13)",
+          "Conclusão (5,14-21)"
+        ]
+      },
+      {
+        "title": "Estrutura da 2Jo",
+        "paragraphs": [
+          "Saudação (1-3)",
+          "O comportamento correto (4-6)",
+          "A autêntica profissão de fé e o comportamento com os hereges (7-11)",
+          "Conclusão (12s)"
+        ]
+      },
+      {
+        "title": "Estrutura da 3Jo",
+        "paragraphs": [
+          "Saudação (1-4)",
+          "Hospitalidade de Gaio (5-8)",
+          "Recusa de Diótrefes (9-11)",
+          "Boa conduta de Demétrio e conclusão (12-15)"
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,12 +75,58 @@
         {
           "verse": 1,
           "text": "O presbítero ao amado Gaio, a quem eu amo na verdade.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O amor que o autor da carta tem por Gaio resulta fundamentalmente do facto de este não só ter acolhido a mensagem da salvação e de se manter fiel à verdade (v.3), como de ter recebido com amor os missionários itinerantes enviados pelo presbítero (v.5), ao contrário de Diótrefes (vv.9ss)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "3jo-1-n1",
+              "offset": 52,
+              "original_marker": "d",
+              "source_id": 58
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Amado Gaio, desejo que estejas a prosperar em tudo e que a saúde do teu corpo seja tão boa como a da tua alma.",
-          "note_refs": []
+          "note_refs": [
+            "2",
+            "3",
+            "4"
+          ],
+          "notes": {
+            "2": "Gaio é acrescento da tradução, tal como nos vv.5.11.",
+            "3": "Ou rezo.",
+            "4": "Lit.: desejo que em tudo tu prosperes e estejas de saúde, tal como prospera a tua alma."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "3jo-1-n2",
+              "offset": 10,
+              "original_marker": "e",
+              "source_id": 59
+            },
+            {
+              "ref": "3",
+              "id": "3jo-1-n3",
+              "offset": 18,
+              "original_marker": "f",
+              "source_id": 60
+            },
+            {
+              "ref": "4",
+              "id": "3jo-1-n4",
+              "offset": 109,
+              "original_marker": "g",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 3,
@@ -21,7 +135,7 @@
         },
         {
           "verse": 4,
-          "text": "Não tenho alegria maior do que esta: a de saber que os meus filhos caminham na verdade. Hospitalidade de Gaio",
+          "text": "Não tenho alegria maior do que esta: a de saber que os meus filhos caminham na verdade.",
           "note_refs": []
         },
         {
@@ -37,32 +151,111 @@
         {
           "verse": 7,
           "text": "Foi pelo nome do Senhor que eles se puseram a caminho, sem nada aceitar dos gentios.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Do Senhor é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "3jo-1-n5",
+              "offset": 23,
+              "original_marker": "h",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Devemos, pois, acolher homens como estes, para sermos colaboradores da verdade. Recusa de Diótrefes",
-          "note_refs": []
+          "text": "Devemos, pois, acolher homens como estes, para sermos colaboradores da verdade.",
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Lit.: os tais.",
+            "7": "Os missionários itinerantes dedicavam-se a visitar as diferentes comunidades, para as animar na fé e na fidelidade à verdade do evangelho recebido."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "3jo-1-n6",
+              "offset": 40,
+              "original_marker": "i",
+              "source_id": 63
+            },
+            {
+              "ref": "7",
+              "id": "3jo-1-n7",
+              "offset": 78,
+              "original_marker": "j",
+              "source_id": 64
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Escrevi algumas palavras à Igreja, mas Diótrefes, que ambiciona o primeiro lugar entre eles, não nos aceita.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: escrevi algo."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "3jo-1-n8",
+              "offset": 24,
+              "original_marker": "k",
+              "source_id": 65
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Por isso, se eu lá for, fá-lo-ei lembrar-se das obras que anda a praticar: critica-nos com palavras maldosas e, como se isso não bastasse, não só não acolhe os irmãos, como impede e expulsa da Igreja aqueles que o desejam fazer.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lá é acrescento da tradução, partindo do pressuposto de que se trata de comunidades distintas. De facto, Diótrefes parece ser o responsável de outra comunidade – que não a de Gaio – que ignorou a autoridade do presbítero, recusando-se a recebê-lo na pessoa dos missionários enviados por ele."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "3jo-1-n9",
+              "offset": 18,
+              "original_marker": "l",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "Amado Gaio, não imites o mal, mas o bem. Quem pratica o bem é de Deus; quem pratica o mal não viu a Deus. Boa conduta de Demétrio e conclusão",
+          "text": "Amado Gaio, não imites o mal, mas o bem. Quem pratica o bem é de Deus; quem pratica o mal não viu a Deus.",
           "note_refs": []
         },
         {
           "verse": 12,
           "text": "Quanto a Demétrio, todos dão testemunho dele, até a própria verdade. Também nós damos testemunho, e tu sabes que o nosso testemunho é verdadeiro.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Provavelmente um dos missionários enviados pelo presbítero, ou mesmo o portador da carta."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "3jo-1-n10",
+              "offset": 17,
+              "original_marker": "a",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 13,
@@ -72,11 +265,56 @@
         {
           "verse": 14,
           "text": "Espero ver-te em breve, e falaremos face a face.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: boca a boca."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "3jo-1-n11",
+              "offset": 47,
+              "original_marker": "b",
+              "source_id": 68
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "A paz esteja contigo. Saúdam-te os amigos. Saúda também tu os amigos, um por um.",
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: saúda os amigos nome a nome."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "3jo-1-n12",
+              "offset": 79,
+              "original_marker": "c",
+              "source_id": 69
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 5,
+          "text": "Hospitalidade de Gaio",
+          "note_refs": []
+        },
+        {
+          "before_verse": 9,
+          "text": "Recusa de Diótrefes",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Boa conduta de Demétrio e conclusão",
           "note_refs": []
         }
       ]

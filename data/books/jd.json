@@ -1,132 +1,585 @@
 {
+  "schema_version": 2,
   "book": "Judas",
+  "book_id": "jd",
+  "source": {
+    "format": "docx",
+    "file": "72_Jd.docx",
+    "title": "Carta de Judas"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Autor",
+        "paragraphs": [
+          "Na saudação inicial, o autor desta breve carta apresenta-se como Judas, servo de Jesus Cristo, e irmão de Tiago (v.1; cf. Mc 6,3; Mt 13,55; Lc 6,16; Jo 14,22 e At 1,13). Esta afirmação levou a tradição a identificá-los com os irmãos do Senhor, Judas e Tiago (Mc 6,3 e Mt 13,55; cf. Gl 1,19). No entanto, para além de Judas ser um nome frequente tanto no judaísmo como na Igreja primitiva, o autor não parece considerar-se um membro do grupo apostólico (v.17); será, mais provavelmente, um judeo-cristão, talvez do círculo dos parentes de Jesus e, por isso, ligado à tradição representada por Tiago, o irmão do Senhor (cf. Tg 1,1; At 15,13 e Gl 1,19), cuja autoridade invoca. Para além disso, a referência à fé que foi transmitida (v.3), assim como a escritos apócrifos (Henoc, nos vv.7.14; Assunção de Moisés, no v.9), sugere uma fase tardia no processo de composição do NT. Todos estes elementos parecem, portanto, apontar no sentido de se tratar de um escrito pseudoepigráfico, o que não era inusitado nos últimos tempos da era apostólica. Trata-se de um escrito de tipo exortativo e de carácter polémico, típico do judaísmo contemporâneo da era cristã (tal como o apocalipse siríaco de Baruc), e muito semelhante a Segunda Carta de Pedro; aliás, o autor desta última carta terá provavelmente conhecido o texto de Judas, pois desenvolve os temas nele aludidos. De qualquer das formas, desde o séc. II que a carta é aceite como canónica, na medida em que aparece como texto reconhecido em Tertuliano e no Fragmento de Muratori."
+        ]
+      },
+      {
+        "title": "Destinatários",
+        "paragraphs": [
+          "O autor dirige-se aos cristãos em geral – os eleitos por Deus e chamados à fé cristã (v.1) – e não a uma comunidade ou a um indivíduo concretos. Terá, provavelmente, como destinatários judeo-cristãos da diáspora, tal como acontece com a Segunda Carta de Pedro, pois só assim se explicam as possíveis referências a passagens da literatura apócrifa judaica. Na comunidade, ou comunidades, a quem o autor endereça esta carta, tinham-se infiltrado alguns falsos mestres – que não são identificados – cuja doutrina colocava em perigo a fé cristã, e a quem o autor censura as blasfémias contra o Senhor Jesus e contra os anjos, bem como a perversão sexual que tentam justificar (vv.4.8ss). Neste contexto, a carta pode ser lida como uma exortação à fidelidade em relação à fé recebida (v.3)."
+        ]
+      },
+      {
+        "title": "Conteúdo",
+        "paragraphs": [
+          "A reação do autor às doutrinas dos falsos mestres infiltrados é a chave para se perceber o alcance teológico da carta, de modo particular o valor salvífico da fé e a centralidade de Jesus Cristo na salvação (v.21), por contraposição à afeição e à",
+          "veneração demonstrada pela comunidade, ou parte dela, aos anjos e a seres de outra natureza (vv.7s).",
+          "Com uma linguagem apocalíptica, o autor anuncia o julgamento de tais adversários, a quem chama ímpios (v.4): sobre eles virá o castigo, já prefigurado na condenação dos anjos rebeldes (v.6), na destruição de Sodoma e Gomorra (v.7) e na exterminação, no deserto, da geração incrédula (v.5). Esta leitura é uma forma de afirmar que o modo de atuar de Deus é inalterável e que o alcance da Escritura é intemporal e universal, iluminando a história em todas as suas épocas."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "Introdução (1s)",
+          "A resistência na fé (3s)",
+          "Os maus exemplos do passado (5-7)",
+          "Os falsos mestres (8-16)",
+          "Exortação aos fiéis (17-23)",
+          "Conclusão (24s)"
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "verse": 1,
-          "text": "",
-          "note_refs": []
+          "text": "Judas, servo de Jesus Cristo, e irmão de Tiago, aos eleitos, amados em Deus Pai e guardados por Jesus Cristo:",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Sobre a identificação de Judas e de Tiago, cf. introdução.",
+            "2": "Alguns mss. mais tardios leem santificados, provavelmente por influência de 1Cor 1,2."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "jd-1-n1",
+              "offset": 46,
+              "original_marker": "a",
+              "source_id": 1
+            },
+            {
+              "ref": "2",
+              "id": "jd-1-n2",
+              "offset": 67,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "",
+          "text": "a vós sejam concedidas em abundância a misericórdia, a paz e o amor.",
           "note_refs": []
         },
         {
           "verse": 3,
-          "text": "",
-          "note_refs": []
+          "text": "Amados meus, embora já tivesse uma grande vontade de vos escrever a respeito da nossa comum salvação, vi-me na necessidade de o fazer para vos exortar a combater pela fé que, de uma vez para sempre, foi transmitida aos santos.",
+          "note_refs": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "notes": {
+            "3": "Meus é acrescento da tradução, assim como nos vv.17.20. Em contraste evidente com os ímpios, os cristãos (os santos, ou seja, santificados pelo batismo) caracterizam-se por se empenharem na defesa da fé recebida no batismo e que conduz à salvação, não dando ouvidos aos ímpios, que se recusam a acreditar e vivem ao sabor das paixões, e a quem está reservada a condenação e não a salvação, que é concedida apenas aos que acreditam no único Senhor Jesus Cristo (2Pd 2,1).",
+            "4": "Lit.: tendo toda a pressa.",
+            "5": "Alguns mss. acrescentam e vida.",
+            "6": "Lit.: tive necessidade de vos escrever.",
+            "7": "Verbo que constitui um termo técnico para referir a tradição recebida (cf. 1Cor 11,23; 15,3)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "jd-1-n3",
+              "offset": 11,
+              "original_marker": "c",
+              "source_id": 3
+            },
+            {
+              "ref": "4",
+              "id": "jd-1-n4",
+              "offset": 49,
+              "original_marker": "d",
+              "source_id": 4
+            },
+            {
+              "ref": "5",
+              "id": "jd-1-n5",
+              "offset": 100,
+              "original_marker": "e",
+              "source_id": 5
+            },
+            {
+              "ref": "6",
+              "id": "jd-1-n6",
+              "offset": 133,
+              "original_marker": "f",
+              "source_id": 6
+            },
+            {
+              "ref": "7",
+              "id": "jd-1-n7",
+              "offset": 214,
+              "original_marker": "g",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "",
-          "note_refs": []
+          "text": "Com efeito, infiltrou-se no meio de vós uma certa gente que, desde há muito, está inscrita para ser condenada: uns ímpios que trocaram a graça do nosso Deus pela devassidão, renegando o nosso único soberano e Senhor, Jesus Cristo.",
+          "note_refs": [
+            "9",
+            "10",
+            "11"
+          ],
+          "notes": {
+            "9": "Lit.: está pré-inscrita para isto, a condenação. Esta expressão poderia evocar uma punição cujo anúncio era exposto num espaço público para que todos vissem a pena que iria ser aplicada. Não se tratará de uma questão de predestinação, uma vez que o anterior advérbio grego traduzido por há muito nunca é usado no NT para traduzir os desígnios eternos de Deus, pelo que esta expressão recordará antes o critério profético da retribuição proporcional conhecido da história bíblica (cf. Sl 28,4; Is 4,3; Ap 20,12; 2Br 24,1; Dn 7,10).",
+            "10": "Lit.: tendo transposto a graça do nosso Deus para devassidão.",
+            "11": "Alguns mss. acrescentam Deus provavelmente porque o título de soberano é-lhe atribuído em outras passagens do NT (cf. Lc 2,29; At 4,24; Ap 6,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "jd-1-n9",
+              "offset": 109,
+              "original_marker": "h",
+              "source_id": 8
+            },
+            {
+              "ref": "10",
+              "id": "jd-1-n10",
+              "offset": 172,
+              "original_marker": "i",
+              "source_id": 9
+            },
+            {
+              "ref": "11",
+              "id": "jd-1-n11",
+              "offset": 206,
+              "original_marker": "j",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 5,
-          "text": "",
-          "note_refs": []
+          "text": "Embora já saibais tudo isto, quero recordar-vos que o Senhor, depois de ter salvado o povo da terra do Egito, destruiu os que não acreditaram;",
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "NA28 segue a lição de muitos mss. relevantes que leem Jesus, o que constituiria uma afirmação da sua pré-existência. Todavia, o autor da carta nunca utiliza isoladamente o nome Jesus, mas sempre Jesus Cristo. Talvez por isso, outros mss. e a própria NVg mantêm a lição adotada, que se enquadra melhor com o contexto e a afirmação proferida."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "jd-1-n12",
+              "offset": 60,
+              "original_marker": "l",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "",
+          "text": "e que, em relação aos anjos que não conservaram o seu estatuto e que, pelo contrário, abandonaram a sua morada, Ele os mantém perpetuamente acorrentados nas trevas, para o julgamento do grande dia.",
           "note_refs": []
         },
         {
           "verse": 7,
-          "text": "",
-          "note_refs": []
+          "text": "Assim também Sodoma e Gomorra e as cidades vizinhas, que da mesma maneira se entregaram à promiscuidade e cobiçaram seres de natureza diferente da sua, são apontadas como exemplo, sofrendo o castigo de um fogo eterno.",
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Lit.: partindo atrás de outra carne. Trata-se de um possível paralelismo entre a atitude dos anjos que se deixaram seduzir pelas filhas dos homens (Gn 6,1s) e a sugestão de os habitantes das cidades referidas terem praticado atos sexuais com animais (o bestialismo, prática condenada em Lv 18,23-24)."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "jd-1-n14",
+              "offset": 150,
+              "original_marker": "a",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "",
-          "note_refs": []
+          "text": "De igual modo, também essa tal gente, nos seus delírios, não só contamina o corpo, como rejeita a soberania de Deus e blasfema contra a glória dos anjos.",
+          "note_refs": [
+            "15",
+            "16",
+            "17",
+            "18"
+          ],
+          "notes": {
+            "15": "Lit.: esses (assim como no v.10, 12 e 16).",
+            "16": "Lit.: a carne.",
+            "17": "de Deus é acrescento da tradução.",
+            "18": "Lit.: blasfemam as glórias."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "jd-1-n15",
+              "offset": 36,
+              "original_marker": "c",
+              "source_id": 15
+            },
+            {
+              "ref": "16",
+              "id": "jd-1-n16",
+              "offset": 81,
+              "original_marker": "d",
+              "source_id": 16
+            },
+            {
+              "ref": "17",
+              "id": "jd-1-n17",
+              "offset": 115,
+              "original_marker": "e",
+              "source_id": 17
+            },
+            {
+              "ref": "18",
+              "id": "jd-1-n18",
+              "offset": 152,
+              "original_marker": "f",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "",
-          "note_refs": []
+          "text": "Quando o arcanjo Miguel, ao enfrentar o Diabo, lhe disputava o corpo de Moisés, não se atreveu a pronunciar, com palavras injuriosas, uma sentença contra ele, dizendo em vez disso: «Que seja o Senhor a repreender-te severamente!».",
+          "note_refs": [
+            "19"
+          ],
+          "notes": {
+            "19": "Zc 3,2."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "jd-1-n19",
+              "offset": 229,
+              "original_marker": "g",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "",
+          "text": "Essa tal gente, pelo contrário, profere palavras injuriosas contra tudo o que não conhece, ao mesmo tempo que se corrompe com tudo aquilo que aprende por meio dos instintos, como os animais irracionais.",
           "note_refs": []
         },
         {
           "verse": 11,
-          "text": "",
-          "note_refs": []
+          "text": "Ai deles! Seguiram o caminho de Caim e, por amor ao dinheiro, deixaram-se cair nos desvarios de Balaão e morreram na rebelião de Coré.",
+          "note_refs": [
+            "20"
+          ],
+          "notes": {
+            "20": "Lit.: precipitaram-se no engano da recompensa de Balaão."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "jd-1-n20",
+              "offset": 102,
+              "original_marker": "h",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "",
+          "text": "Essa gente é uma nódoa nas vossas refeições fraternas, banqueteando-se convosco sem temor e apascentando-se a si mesma. São nuvens sem água arrastadas pelo vento; árvores de fim de outono, sem fruto, duas vezes mortas, desenraizadas;",
           "note_refs": []
         },
         {
           "verse": 13,
-          "text": "",
+          "text": "impetuosas ondas do mar, que espumam a sua própria ignomínia; estrelas errantes, para as quais estão reservadas para sempre as trevas mais tenebrosas.",
           "note_refs": []
         },
         {
           "verse": 14,
-          "text": "",
-          "note_refs": []
+          "text": "Acerca deles profetizou também Henoc, o sétimo patriarca depois de Adão, ao dizer: «Eis que vem o Senhor com milhares dos seus anjos,",
+          "note_refs": [
+            "21"
+          ],
+          "notes": {
+            "21": "Patriarca é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "jd-1-n21",
+              "offset": 56,
+              "original_marker": "i",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "",
-          "note_refs": []
+          "text": "para submeter todos a julgamento e denunciar todos aqueles que praticaram obras ímpias e todos os insultos que esses ímpios pecadores proferiram contra Ele».",
+          "note_refs": [
+            "22",
+            "23",
+            "24"
+          ],
+          "notes": {
+            "22": "Lit.: toda alma.",
+            "23": "para denunciar toda a alma acerca de todas as obras de impiedade deles que eles impiamente cometeram.",
+            "24": "Lit.: coisas duras. Procurando talvez uma maior precisão, vários mss. apresentam palavras duras."
+          },
+          "note_positions": [
+            {
+              "ref": "22",
+              "id": "jd-1-n22",
+              "offset": 19,
+              "original_marker": "j",
+              "source_id": 22
+            },
+            {
+              "ref": "23",
+              "id": "jd-1-n23",
+              "offset": 86,
+              "original_marker": "k",
+              "source_id": 23
+            },
+            {
+              "ref": "24",
+              "id": "jd-1-n24",
+              "offset": 106,
+              "original_marker": "l",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 16,
-          "text": "",
-          "note_refs": []
+          "text": "Essa gente anda sempre a murmurar e a queixar-se da sua sorte, e vive de acordo com as suas paixões. Embora a sua boca profira palavras arrogantes, são bajuladores quando lhes interessa.",
+          "note_refs": [
+            "26",
+            "27"
+          ],
+          "notes": {
+            "26": "Lit.: estes são murmuradores queixosos.",
+            "27": "Lit.: e maravilham os rostos em favor de uma vantagem."
+          },
+          "note_positions": [
+            {
+              "ref": "26",
+              "id": "jd-1-n26",
+              "offset": 61,
+              "original_marker": "m",
+              "source_id": 25
+            },
+            {
+              "ref": "27",
+              "id": "jd-1-n27",
+              "offset": 185,
+              "original_marker": "n",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 17,
-          "text": "",
+          "text": "Vós, porém, amados meus, lembrai-vos daquilo que foi predito pelos apóstolos do nosso Senhor Jesus Cristo.",
           "note_refs": []
         },
         {
           "verse": 18,
-          "text": "",
-          "note_refs": []
+          "text": "Eles diziam-vos: «No fim dos tempos aparecerá gente que escarnece de tudo, que vive de acordo com as suas ímpias paixões».",
+          "note_refs": [
+            "28"
+          ],
+          "notes": {
+            "28": "Paulo tinha já alertado que as comunidades seriam invadidas por pregadores que as tentariam iludir com falsas promessas (cf. At 20,29s; 2Pd 3,3)."
+          },
+          "note_positions": [
+            {
+              "ref": "28",
+              "id": "jd-1-n28",
+              "offset": 73,
+              "original_marker": "p",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 19,
-          "text": "",
-          "note_refs": []
+          "text": "É essa gente que provoca divisões e que segue apenas os impulsos naturais, por não ter consigo o Espírito.",
+          "note_refs": [
+            "29"
+          ],
+          "notes": {
+            "29": "Lit.: [esses são] naturais, não tendo o Espírito."
+          },
+          "note_positions": [
+            {
+              "ref": "29",
+              "id": "jd-1-n29",
+              "offset": 105,
+              "original_marker": "q",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 20,
-          "text": "",
+          "text": "Vós, porém, amados meus, edificando-vos uns aos outros na vossa santíssima fé e rezando no Espírito Santo,",
           "note_refs": []
         },
         {
           "verse": 21,
-          "text": "",
+          "text": "conservai-vos no amor de Deus, esperando a misericórdia do nosso Senhor Jesus Cristo, que conduz à vida eterna.",
           "note_refs": []
         },
         {
           "verse": 22,
-          "text": "",
+          "text": "Sede misericordiosos para com aqueles que vacilam",
           "note_refs": []
         },
         {
           "verse": 23,
-          "text": "",
-          "note_refs": []
+          "text": "e salvai os outros, arrancando-os ao fogo; sede misericordiosos para com eles, mas ainda assim com cautela, detestando até a túnica que está contaminada pelo seu corpo.",
+          "note_refs": [
+            "30"
+          ],
+          "notes": {
+            "30": "Lit.: pela carne."
+          },
+          "note_positions": [
+            {
+              "ref": "30",
+              "id": "jd-1-n30",
+              "offset": 167,
+              "original_marker": "r",
+              "source_id": 30
+            }
+          ]
         },
         {
           "verse": 24,
-          "text": "",
+          "text": "Àquele que vos pode preservar da queda e apresentar-vos irrepreensíveis e cheios de alegria diante da sua glória,",
           "note_refs": []
         },
         {
           "verse": 25,
-          "text": "",
+          "text": "ao Deus único, nosso Salvador, por Jesus Cristo, nosso Senhor: a Ele a glória, a majestade, a força e o poder, antes de todos os séculos, agora e por todos os séculos. Ámen.",
+          "note_refs": [
+            "31",
+            "32"
+          ],
+          "notes": {
+            "31": "Alguns mss. acrescentam sábio, talvez por influência de Rm 16,27.",
+            "32": "Alguns mss. mais tardios omitem esta expressão."
+          },
+          "note_positions": [
+            {
+              "ref": "31",
+              "id": "jd-1-n31",
+              "offset": 13,
+              "original_marker": "s",
+              "source_id": 31
+            },
+            {
+              "ref": "32",
+              "id": "jd-1-n32",
+              "offset": 136,
+              "original_marker": "t",
+              "source_id": 32
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "INTRODUÇÃO (1s)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "A resistência na fé",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "Os maus exemplos do passado",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Os vv.5-7, recorrendo a motivos bíblicos ou da tradição judaica, apresentam os pecados da recusa em acreditar (Nm 14,26-37), da subversão da ordem criada (Gn 6,1-4 e 2Pd 2,4) e da perversão sexual (Gn 19,4-25.30-36 e 2Pd 2,6s). Todos estes exemplos são postos à consideração dos cristãos, para que evitem seguir o mesmo caminho."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "jd-1-n8",
+              "offset": 27,
+              "original_marker": "k",
+              "source_id": 11
+            }
+          ]
+        },
+        {
+          "before_verse": 8,
+          "text": "Os falsos mestres",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Os vv.8-16 atribuem aos falsos mestres do presente, que se encontram na comunidade, os erros de outras figuras da história bíblica: Caim, o fratricida (Gn 4), Balaão (Nm 22-24) e os habitantes de Coré (Nm 16,1). Estes falsos mestres infiltram-se até nas refeições fraternas (ágapes), desvirtuando- -lhes o significado. Estes ágapes, no seu sentido técnico, encontram aqui a sua primeira e talvez única referência no NT (cf. 2Pd 2,13)."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "jd-1-n13",
+              "offset": 17,
+              "original_marker": "b",
+              "source_id": 14
+            }
+          ]
+        },
+        {
+          "before_verse": 17,
+          "text": "Exortação aos fiéis",
+          "note_refs": [
+            "25"
+          ],
+          "notes": {
+            "25": "A preocupação da fé, recebida dos apóstolos, está patente nos vv.17-23. O autor exorta os fiéis a serem indiferentes aos falsos mestres, que seduzem e enganam com as suas ideias e comportamentos, e a solidificarem a fé pela oração e pela caridade para com todos."
+          },
+          "note_positions": [
+            {
+              "ref": "25",
+              "id": "jd-1-n25",
+              "offset": 19,
+              "original_marker": "o",
+              "source_id": 27
+            }
+          ]
+        },
+        {
+          "before_verse": 24,
+          "text": "CONCLUSÃO (24s)",
           "note_refs": []
         }
       ]

@@ -1,5 +1,36 @@
 {
+  "schema_version": 2,
   "book": "2 Tessalonicenses",
+  "book_id": "2ts",
+  "source": {
+    "format": "docx",
+    "file": "60_2Ts.docx",
+    "title": "Segunda Carta aos Tessalonicenses"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Autoria",
+        "paragraphs": [
+          "A atribuição desta carta a Paulo tem sido objeto de discussão, sem conclusões definitivas. Um dos problemas reside na interpretação de 2,4, que faz referência à figura que se senta no templo apresentando-se como sendo Deus. Na hipótese de evocar a profanação e destruição do templo de Jerusalém no ano 70 (como já defendia S. Ireneu, Adv.Haer. 5), tal significaria que a carta teria recebido acrescentos posteriores à morte de Paulo. Se, como defendem outros, alude à tentativa do imperador Calígula de colocar a sua estátua no templo de Jerusalém (cf. Flávio Josefo, Bell. Jud. 2,184s), nesse caso tratar-se-ia de um texto original do apóstolo. Não é ainda de excluir a hipótese de que Paulo se refira a um acontecimento conhecido pelos destinatários, mas não pelos leitores de hoje.",
+          "O maior problema, porém, prende-se com as semelhanças entre as duas cartas dirigidas aos Tessalonicenses: por que razão Paulo teria sentido a necessidade de se repetir por tantas vezes (cf. 1Ts 2,12 e 2Ts 1,5; 1Ts 3,13 e 2Ts 1,7; 1Ts 3,11ss e 2Ts 2,16s; 1Ts 2,9 e 2Ts 3,8; 1Ts 5,23 e 2Ts 3,16)? A última vinda de Jesus continua a ser o tema de fundo, embora, em relação à forma, o autor seja menos descritivo do que em 1Ts 4,13-18. Isto porque a segunda carta responde a um problema diferente do da primeira; se na primeira havia a convicção de que a parusia estava para breve, durante a vida do autor e dos interlocutores (1Ts 4,15), nesta segunda percebe-se que o apóstolo já não a considera iminente (2Ts 2,2), e a questão parece agora residir no facto de alguns membros da comunidade terem deixado de trabalhar (2Ts 3,10s), atitude que Paulo recrimina. Assim, esta segunda carta poderá ter sido motivada pelos efeitos indesejados da primeira: os ouvintes ter-se-iam convencido de que a parusia estava muito próxima e abandonado as suas ocupações, pelo que o apóstolo sente a necessidade de corrigir uma tal interpretação das suas palavras (2Ts 2,2)."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "Introdução (1,1-2)",
+          "Ação de graças e pedido de oração (1,3-12)",
+          "A parusia e a iniquidade (2,1-12)",
+          "Encorajamento (2,13-17)",
+          "Pedido de oração (3,1-5)",
+          "Advertências (3,6-15)",
+          "Conclusão (3,16-18)"
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -22,12 +53,40 @@
         {
           "verse": 4,
           "text": "a tal ponto que nós próprios nos gloriamos de vós nas Igrejas de Deus, por causa da vossa perseverança e da vossa fé, no meio de todas as perseguições e tribulações que suportais.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Paulo não se gloria em si mesmo, mas na obra de Deus, pois, tal como noutras cartas (1Cor 1,31; 2Cor 10,17), considera-se um seu humilde instrumento."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "2ts-1-n1",
+              "offset": 178,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Elas são um indício do justo juízo de Deus, para vos tornar dignos do seu reino, pelo qual também padeceis.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: para o vós serdes considerados dignos do reino de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "2ts-1-n2",
+              "offset": 79,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 6,
@@ -42,26 +101,117 @@
         {
           "verse": 8,
           "text": "no meio de um fogo flamejante, para punir aqueles que não conhecem Deus e os que não obedecem ao evangelho do nosso Senhor Jesus Cristo.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A citação resulta da confluência de Ex 3,2; Is 66,4.15; Jr 10,25; Sl 79,6."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "2ts-1-n3",
+              "offset": 71,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Estes receberão o castigo da ruína eterna, longe da face do Senhor, da glória da sua força,",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Is 2,10.19.21."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "2ts-1-n4",
+              "offset": 90,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "quando, naquele dia, Ele vier para ser glorificado nos seus santos e admirado em todos aqueles que acreditaram e vós acreditastes no nosso testemunho.",
-          "note_refs": []
+          "text": "quando, naquele dia, Ele vier para ser glorificado nos seus santos e admirado em todos aqueles que acreditaram – e vós acreditastes no nosso testemunho.",
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Ou seja, os cristãos, que foram santificados pelo batismo.",
+            "6": "O juízo que o AT atribui a Deus é aqui consistentemente atribuído ao Senhor Jesus."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "2ts-1-n5",
+              "offset": 66,
+              "original_marker": "e",
+              "source_id": 5
+            },
+            {
+              "ref": "6",
+              "id": "2ts-1-n6",
+              "offset": 151,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "É também para isto que rezamos sempre por vós: para que o nosso Deus vos considere dignos do seu chamamento e, com o seu poder, leve a cumprimento todos os vossos bons propósitos e a obra da vossa fé.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: e encha todo o desejo de bondade e obra de fé com poder."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "2ts-1-n7",
+              "offset": 199,
+              "original_marker": "g",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Assim, o nome do nosso Senhor Jesus será glorificado em vós, e vós nele, segundo a graça do nosso Deus e do Senhor Jesus Cristo.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Vários mss. acrescentam Cristo."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "2ts-1-n8",
+              "offset": 35,
+              "original_marker": "h",
+              "source_id": 8
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Introdução (1,1-2)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "Ação de Graças e pedido de oração",
           "note_refs": []
         }
       ]
@@ -77,17 +227,86 @@
         {
           "verse": 2,
           "text": "que não vos deixeis abalar facilmente no vosso modo de pensar, nem fiqueis assustados, perante inspirações, discursos, ou cartas que digam ser da nossa parte, em que se afirme que o dia do Senhor está iminente.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Lit.: para não serdes abalados rapidamente do vosso pensamento.",
+            "2": "Lit.: como que o dia do Senhor estivesse [iminente]."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "2ts-2-n1",
+              "offset": 61,
+              "original_marker": "i",
+              "source_id": 9
+            },
+            {
+              "ref": "2",
+              "id": "2ts-2-n2",
+              "offset": 209,
+              "original_marker": "j",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Que ninguém vos engane, seja de que modo for! De facto, primeiro tem de vir a apostasia, e revelar-se o homem da iniquidade, o filho da perdição,",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "A utilização deste termo sugere que alguns membros da comunidade teriam renegado a fé.",
+            "4": "Vários mss. leem homem do pecado."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "2ts-2-n3",
+              "offset": 87,
+              "original_marker": "k",
+              "source_id": 11
+            },
+            {
+              "ref": "4",
+              "id": "2ts-2-n4",
+              "offset": 123,
+              "original_marker": "l",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "aquele que se opõe e se eleva acima de tudo o que é chamado deus ou destinado ao culto, chegando ao ponto de se instalar no templo de Deus, apresentando-se como sendo Deus.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Esta caracterização recorda a de Antíoco IV Epífanes, feita em Dn 11,36. Na tradição joanina, esta figura adversária de Deus é chamada o anticristo (1Jo 2,18; 4,3; 2Jo 7), uma personificação do Mal, instrumento de Satanás (v.9).",
+            "6": "Entre outras hipóteses (cf. introdução), o texto poder-se-á referir à tentativa de Calígula de colocar uma estátua sua no templo de Jerusalém (c. 40 d.C.), sacrilégio que recorda a abominação da desolação de 1Mac 1,54, quando Antíoco IV instalou no mesmo lugar um altar dedicado a Zeus (167 a.C.)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "2ts-2-n5",
+              "offset": 18,
+              "original_marker": "m",
+              "source_id": 13
+            },
+            {
+              "ref": "6",
+              "id": "2ts-2-n6",
+              "offset": 171,
+              "original_marker": "n",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 5,
@@ -102,22 +321,78 @@
         {
           "verse": 7,
           "text": "Com efeito, o mistério da iniquidade já se encontra em ação, aguardando apenas que se afaste aquele que até agora o tem impedido.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: apenas o que o detém até agora saia do meio. A situação (v.6) ou a entidade (v.7) que detém a vinda do anticristo, que há de anteceder a parusia, é enigmática para o leitor de hoje, mas não, segundo parece, para os destinatários da carta."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "2ts-2-n7",
+              "offset": 128,
+              "original_marker": "o",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "E então se revelará o iníquo, aquele que o Senhor Jesus destruirá com o sopro da sua boca e aniquilará com o esplendor da sua vinda.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Vários mss. omitem Jesus."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "2ts-2-n8",
+              "offset": 55,
+              "original_marker": "p",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "A vinda do iníquo acontecerá por obra de Satanás, com toda a espécie de ações poderosas, sinais e prodígios falsos,",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: a vinda do qual."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "2ts-2-n9",
+              "offset": 28,
+              "original_marker": "q",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "com todo o género de seduções iníquas para aqueles que acabam por se perder porque não acolheram o amor da verdade, que os teria salvado.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: para eles serem salvos."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "2ts-2-n10",
+              "offset": 136,
+              "original_marker": "r",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 11,
@@ -132,7 +407,21 @@
         {
           "verse": 13,
           "text": "Quanto a nós, devemos dar sempre graças a Deus por vós, irmãos amados pelo Senhor, porque Deus vos escolheu como primícias para a salvação, por meio da santificação do Espírito e da fé na verdade.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Vários mss. leem desde o início."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "2ts-2-n11",
+              "offset": 122,
+              "original_marker": "s",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 14,
@@ -154,6 +443,18 @@
           "text": "console os vossos corações e vos conserve firmes em toda a espécie de boas obras e palavras.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A Parusia e a iniquidade",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "Encorajamento",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -162,7 +463,21 @@
         {
           "verse": 1,
           "text": "De resto, irmãos, rezai por nós, para que a palavra do Senhor se expanda e seja glorificada como já acontece entre vós,",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.: corra."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "2ts-3-n1",
+              "offset": 72,
+              "original_marker": "a",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 2,
@@ -172,7 +487,21 @@
         {
           "verse": 3,
           "text": "Mas o Senhor é fiel: Ele vos conservará firmes e guardará do Maligno.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Alguns mss. leem Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "2ts-3-n2",
+              "offset": 12,
+              "original_marker": "b",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 4,
@@ -187,7 +516,30 @@
         {
           "verse": 6,
           "text": "Nós vos ordenamos, irmãos, em nome do nosso Senhor Jesus Cristo, que vos afasteis de todos os irmãos que levem uma vida desordenada, e que não esteja de acordo com a tradição que de nós recebestes.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Os vv.6-15, pelo tom severo, destacam-se da secção anterior; este registo parece ser motivado pelos deslumbramentos apocalípticos que assolavam a comunidade.",
+            "4": "Lit.: caminham desordenadamente."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "2ts-3-n3",
+              "offset": 17,
+              "original_marker": "c",
+              "source_id": 22
+            },
+            {
+              "ref": "4",
+              "id": "2ts-3-n4",
+              "offset": 131,
+              "original_marker": "d",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 7,
@@ -202,7 +554,21 @@
         {
           "verse": 9,
           "text": "Não é que não tivéssemos esse direito, mas quisemos dar-vos um exemplo a imitar.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: para vos darmos a nós próprios como exemplo para nos imitardes."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "2ts-3-n5",
+              "offset": 79,
+              "original_marker": "e",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 10,
@@ -212,12 +578,49 @@
         {
           "verse": 11,
           "text": "É que ouvimos dizer que alguns, entre vós, levam uma vida desordenada, sem fazer trabalho algum, exceto o de se intrometer na vida dos outros.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Com ironia, nos vv.10s, Paulo contrapõe dois verbos com a mesma raiz, mas de significados diferentes: trabalhar (ergázesthai) e fazer que se trabalha (periergázesthai), que, por extensão de sentido, significa meter-se na vida dos outros."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "2ts-3-n6",
+              "offset": 141,
+              "original_marker": "f",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "A esses ordenamos e exortamos, em nome do Senhor Jesus Cristo, a que ganhem o seu próprio pão, trabalhando em sossego.",
-          "note_refs": []
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Nome do é acrescento da tradução.",
+            "8": "Lit.: comam."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "2ts-3-n7",
+              "offset": 41,
+              "original_marker": "g",
+              "source_id": 26
+            },
+            {
+              "ref": "8",
+              "id": "2ts-3-n8",
+              "offset": 75,
+              "original_marker": "h",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 13,
@@ -227,11 +630,25 @@
         {
           "verse": 14,
           "text": "E se alguém não obedecer ao que dizemos nesta carta, assinalai-o, e não tenhais qualquer contacto com ele, para que fique envergonhado.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: à nossa palavra por meio da carta."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "2ts-3-n9",
+              "offset": 51,
+              "original_marker": "i",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "Porém, não o considereis como inimigo; pelo contrário, admoestai-o como a um irmão. (3,16-18)",
+          "text": "Porém, não o considereis como inimigo; pelo contrário, admoestai-o como a um irmão.",
           "note_refs": []
         },
         {
@@ -242,11 +659,56 @@
         {
           "verse": 17,
           "text": "A saudação foi escrita pela minha própria mão: Paulo; é deste modo que assino todas as minhas cartas.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: este é o sinal em toda a carta: assim escrevo."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "2ts-3-n10",
+              "offset": 100,
+              "original_marker": "j",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "A graça do nosso Senhor Jesus Cristo esteja com todos vós.",
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Depois de ditada a carta a um escriba, muitas vezes o próprio apóstolo autenticava-a com a sua assinatura (cf. 1Cor 16,21; Gl 6,11). Vós é omitido em vários mss., enquanto outros da tradição alexandrina acrescentam que a carta foi redigida em Atenas."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "2ts-3-n11",
+              "offset": 57,
+              "original_marker": "k",
+              "source_id": 30
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Pedido de oração",
+          "note_refs": []
+        },
+        {
+          "before_verse": 6,
+          "text": "Advertências",
+          "note_refs": []
+        },
+        {
+          "before_verse": 16,
+          "text": "Conclusão (3,16-18)",
           "note_refs": []
         }
       ]

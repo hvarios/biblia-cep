@@ -1,5 +1,65 @@
 {
+  "schema_version": 2,
   "book": "Carta aos Hebreus",
+  "book_id": "carta-aos-hebreus",
+  "source": {
+    "format": "docx",
+    "file": "65_Heb.docx",
+    "title": "Epístola aos Hebreus"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": null,
+        "paragraphs": [
+          "A Carta aos Hebreus está centrada na pessoa de Jesus, não apenas como figura histórica, mas como o Filho de Deus presente e atuante na vida dos fiéis como mediador, que vive perpetuamente para interceder por eles (7,25); com efeito, Jesus Cristo é o mesmo, ontem, hoje e para sempre (13,8). Sem que proceda de uma família sacerdotal, Jesus é apresentado como sumo sacerdote, mediante uma argumentação bíblica firmemente estruturada; aliás, nenhum outro livro do NT encerra um tão grande número de citações explícitas do AT, nem apresenta expressamente Jesus como sacerdote."
+        ]
+      },
+      {
+        "title": "Género literário",
+        "paragraphs": [
+          "A epístola começa com um solene prólogo doutrinal, sem a habitual saudação, indicação do autor e dos destinatários. No corpo da obra não há referências pessoais ao seu autor, que aparece como alguém que fala em nome da comunidade (cf. 2,5; 5,11; 6,9; 8,1; 9,5; 11,32). O estilo solene e oratório não condiz com o género epistolar, assemelhando-se mais a um discurso que interpela vivamente o seu auditório, animando, admoestando e louvando; o autor chega mesmo a classificar o seu escrito como palavra ou discurso de exortação (13,22), que é a mesma expressão usada em Atos dos Apóstolos para designar o sermão de S. Paulo na sinagoga de Antioquia da Pisídia (At 13,15). No entanto, a carta termina com as características próprias do género epistolar, com referências pessoais e saudações típicas (13,19.22-25). Poderemos, pois, estar perante uma pregação escrita, possivelmente enviada a uma comunidade distinta da dos ouvintes, acompanhada de uma nota pessoal."
+        ]
+      },
+      {
+        "title": "Autor e canonicidade",
+        "paragraphs": [
+          "Os mss. gregos mais antigos colocam a carta, ainda que em várias posições no cânone, sempre entre os escritos paulinos, sinal de que a consideravam uma obra do apóstolo.",
+          "Assim, em todo o Oriente, sempre foi tida como uma carta canónica e quase todos consideraram que o autor é S. Paulo, embora a Orígenes não tenha escapado o problema da autoria paulina: «Eu diria que os pensamentos são do apóstolo, mas o estilo e a composição são de alguém que evocava a memória dos ensinamentos do apóstolo... Quem escreveu a carta? Só Deus o sabe» (Eusébio, História Eclesiástica, 6, 25, 13).",
+          "No Ocidente, embora já citada por Clemente no séc. I, tardou em ser reconhecida por todos como escrito inspirado e canónico, não aparecendo no Cânone de Muratori, nem em Santo Ireneu. Tal deveu-se às dúvidas quanto à autoria paulina e ao uso que dela fizeram grupos heréticos, como novicianos e montanistas, no sentido de negarem qualquer possibilidade de reconciliação para os que tivessem apostatado da fé cristã ou mesmo pecado gravemente depois do batismo, fazendo uma leitura",
+          "rigorista de passagens como 6,4-8 e 10,26-31. No séc. IV, a obra foi aceite por todos como paulina e canónica, embora alguns, como S. Jerónimo, mantivessem a dúvida sobre a sua autoria paulina. Esta voltou a ser negada no séc. XVI por Erasmo, Lutero e Calvino, e hoje a maioria dos estudiosos pensa da mesma maneira. De facto, o autor é um mestre que não se considera apóstolo, colocando-se, pelo contrário, num segundo plano (2,3; 13,7); nunca usa a expressão em Cristo, tipicamente paulina; o estilo, a linguagem e o tema central não correspondem aos dos escritos paulinos. No entanto, as afinidades com a doutrina cristológica e soteriológica de Paulo levam a que grande parte dos estudiosos considere que o seu autor é alguém ligado ao apóstolo, embora se discuta quem: Apolo, Clemente, Barnabé, Lucas, Silas, entre outros."
+        ]
+      },
+      {
+        "title": "Destinatários, data e lugar da redação",
+        "paragraphs": [
+          "O seu título, Aos Hebreus, apesar de remontar ao séc. II, só se justifica pelas múltiplas citações do AT e, sobretudo, pelas pormenorizadas referências ao culto judaico. O texto é dirigido não aos chefes da comunidade (13,17), mas a cristãos (cf. 3,14) não recentemente convertidos (cf. 5,12), que já não têm entre eles os seus primeiros pastores (cf. 13,7), e que viviam num ambiente hostil e mesmo de perseguição (cf. 10,32-35), sujeitos ao desalento e até à apostasia (cf. 3,12s; 4,1.11; 6,4-9; 12,3.12.15- 17). Não se sabe ao certo quem eram, mas provavelmente constituiriam um grupo em que predominavam os judeo-cristãos de origem helenista, visto que o original da carta parece ter sido redigido em grego. Embora não se saiba em que cidade esta comunidade habitava, Jerusalém parece ser uma hipótese provável (cf. At 6,1; 8,1).",
+          "A data da composição parece ser anterior à destruição do templo no ano 70. É certo que as frequentes alusões ao culto do santuário (8,4; 9,7.13.25; 10,1s; 13,11) não servem de prova decisiva de que a obra foi escrita durante a vigência do templo, uma vez que a argumentação usada teria valor como uma simples referência à regulamentação ideal da lei mosaica. Mas a verdade é que se, com a destruição do templo, o culto levítico já não estivesse em vigor, o autor não deixaria de referir este desastre, que seria a melhor prova da verdade do seu ensino sobre a caducidade do culto antigo (cf. 7,11-19; 9,1-14).",
+          "Quanto ao lugar em que foi redigida a carta, nada se pode dizer com certeza, pois a expressão os da Itália vos saúdam (13,24) não significa que tenha sido escrita ou mesmo enviada desde a Itália."
+        ]
+      },
+      {
+        "title": "Conteúdo",
+        "paragraphs": [
+          "Para além do prólogo e do epílogo, a carta apresenta três grandes unidades, dispostas em forma concêntrica. A unidade central, bastante desenvolvida, põe em evidência o valor incomparável do sacerdócio e do sacrifício de Cristo; organizada em paralelismos simétricos, une elementos expositivos e exortativos, tendo como núcleo, ou ponto capital, a afirmação de 8,1: temos um sumo sacerdote que se sentou",
+          "nos céus, à direita do trono da divina Majestade, o que está na base da exortação a uma vida cristã generosa.",
+          "No restante texto da carta também se encadeiam exortações parenéticas e ensinamentos doutrinais, nos quais ocupa um lugar central a tese (muito presente em Paulo) de que a obra da redenção da humanidade é levada a cabo pela mediação de Jesus Cristo que, com o sangue oferecido de uma vez para sempre no sacrifício da cruz, como sacerdote e vítima, expia os pecados de todos, inaugurando o culto novo e perpétuo da nova Lei.",
+          "Além deste título de sumo sacerdote, central e exclusivo desta carta, Jesus, em conformidade com a teologia do NT, é apresentado como Filho de Deus, herdeiro, Messias, pastor, mediador, Senhor, santificador e, além disso, como o apóstolo e sumo sacerdote da fé que professamos (3,1). É também chamado precursor (6,20), na medida em que, solidário e identificado connosco, exceto no pecado (4,15), entrou na pátria celeste, para onde nos encaminha."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "Prólogo: A revelação divina definitiva (1,1-4)",
+          "I. A superioridade de Cristo como Filho (1,5 – 4,13)",
+          "II. O sacerdócio de Cristo, perfeito e para sempre (4,14 – 10,18)",
+          "III. A perseverança na fé (10,19 – 13,19)",
+          "Epílogo (13,20-25)"
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -12,12 +72,49 @@
         {
           "verse": 2,
           "text": "nestes dias, que são os últimos, falou-nos por meio do Filho, a quem constituiu herdeiro de todas as coisas e por meio do qual também fez o universo.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: os séculos (cf. 1Cor 1,20 nota)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "carta-aos-hebreus-1-n2",
+              "offset": 148,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Ele, que é o esplendor da sua glória e a expressão da sua substância, e que tudo sustenta com a sua poderosa palavra, depois de ter realizado a purificação dos peca - dos, sentou-se nas alturas à direita da divina Majestade,",
-          "note_refs": []
+          "text": "Ele, que é o esplendor da sua glória e a expressão da sua substância, e que tudo sustenta com a sua poderosa palavra, depois de ter realizado a purificação dos pecados, sentou-se nas alturas à direita da divina Majestade,",
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "O termo pode ser entendido em sentido passivo (reflexo, esplendor) ou ativo (irradiação).",
+            "4": "Divina é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "carta-aos-hebreus-1-n3",
+              "offset": 22,
+              "original_marker": "c",
+              "source_id": 3
+            },
+            {
+              "ref": "4",
+              "id": "carta-aos-hebreus-1-n4",
+              "offset": 210,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 4,
@@ -27,17 +124,86 @@
         {
           "verse": 5,
           "text": "Com efeito, a qual dos anjos disse Deus alguma vez: «Tu és meu Filho, Eu hoje te gerei»? E ainda: «Eu serei para Ele um Pai, e Ele será para mim um Filho»?",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "notes": {
+            "5": "Com o recurso a uma leitura cristológica de textos em catadupa do AT, segundo a redação dos LXX, nos vv.5-14 demonstra-se a excelência de Jesus em relação aos anjos, a quem o mundo judaico dava uma importância extraordinária: Ele é Filho (v.5: Sl 2,7; 2Sm 7,14; 1Cr, 17,13; Heb 5,5), adorado pelos anjos (v.6: Sl 96 LXX,7; Dt 32,43 LXX), como servos que são (v.7: Sl 103 LXX,4), mas é também Deus, tal como se afirma nos vv.8-12, onde as palavras do Sl 44 LXX,7-8 são dirigidas pelo Pai ao Filho, chamando-o Deus (v.8) e Senhor (v.10: Sl 101 LXX,26-28; cf. Cl 1,16-18). A secção termina com a pergunta retórica do v.13 (Sl 109 LXX,1; cf. Mt 22,44; At 2,33-35), que lhe reconhece toda a primazia.",
+            "6": "Deus é acrescento da tradução.",
+            "7": "Sl 2,7.",
+            "8": "2Sm 7,14; 1Cr 17,13."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "carta-aos-hebreus-1-n5",
+              "offset": 10,
+              "original_marker": "e",
+              "source_id": 5
+            },
+            {
+              "ref": "6",
+              "id": "carta-aos-hebreus-1-n6",
+              "offset": 39,
+              "original_marker": "f",
+              "source_id": 6
+            },
+            {
+              "ref": "7",
+              "id": "carta-aos-hebreus-1-n7",
+              "offset": 87,
+              "original_marker": "g",
+              "source_id": 7
+            },
+            {
+              "ref": "8",
+              "id": "carta-aos-hebreus-1-n8",
+              "offset": 154,
+              "original_marker": "h",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Quando, porém, introduziu o Primogénito no mundo, disse: «Que o adorem todos os anjos de Deus».",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Dt 32,43 LXX; Sl 96,7 (LXX)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "carta-aos-hebreus-1-n9",
+              "offset": 94,
+              "original_marker": "i",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "E enquanto diz a respeito dos anjos: «Ele faz dos seus anjos espíritos e dos seus servidores chamas de fogo»,",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Sl 103,4 (LXX)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "carta-aos-hebreus-1-n10",
+              "offset": 108,
+              "original_marker": "j",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 8,
@@ -47,7 +213,21 @@
         {
           "verse": 9,
           "text": "Amaste a justiça e odiaste a iniquidade, por isso Deus, o teu Deus, te ungiu com ο óleo da alegria, preferindo-te aos teus companheiros».",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Sl 44,7s (LXX)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "carta-aos-hebreus-1-n11",
+              "offset": 136,
+              "original_marker": "k",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 10,
@@ -57,21 +237,122 @@
         {
           "verse": 11,
           "text": "Eles hão de desaparecer, mas Tu permaneces. Envelhecerão todos como um vestido,",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Is 50,9."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "carta-aos-hebreus-1-n12",
+              "offset": 78,
+              "original_marker": "l",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Tu os hás de enrolar como se faz a um manto, e serão trocados, como se fossem um vestido. Mas Tu és sempre o mesmo, e os teus anos não terão fim».",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Sl 101,26-28 (LXX)."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "carta-aos-hebreus-1-n13",
+              "offset": 145,
+              "original_marker": "m",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "A qual dos anjos disse Deus alguma vez: «Senta-te à minha direita até que ponha os teus inimigos como estrado dos teus pés»?",
-          "note_refs": []
+          "note_refs": [
+            "14",
+            "15"
+          ],
+          "notes": {
+            "14": "Deus é acrescento da tradução.",
+            "15": "Sl 109,1 (LXX)."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "carta-aos-hebreus-1-n14",
+              "offset": 27,
+              "original_marker": "n",
+              "source_id": 14
+            },
+            {
+              "ref": "15",
+              "id": "carta-aos-hebreus-1-n15",
+              "offset": 123,
+              "original_marker": "o",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Porventura não são todos eles espíritos enviados em serviço, por causa daqueles que estão para receber em herança a salvação?",
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Lit.: não são todos espíritos ministeriais enviados para serviço."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "carta-aos-hebreus-1-n16",
+              "offset": 59,
+              "original_marker": "p",
+              "source_id": 16
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "PRÓLOGO (1,1-4)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Com esta abertura solene, o leitor é situado perante a dignidade da figura central da carta, Jesus, na sua condição de revelador. Ressalta o contraste na atuação reveladora de Deus na história: antigamente e nos últimos dias, aos antepassados e a nós, pelos profetas e por alguém que é Filho, deixando claro que é nele que o Pai se revela de modo pleno e definitivo e já não de forma fragmentária, muitas vezes (isto é, aos poucos), e de muitos modos, como tinha sido em oráculos, sonhos e visões. Jesus é o Messias de Deus, herdeiro universal (cf. Sl 2,8), não em virtude de uma sucessão, mas de uma posse em plenitude; associado à obra da criação do universo, Ele é um só com o Pai, como esplendor da sua glória (tal como o brilho do Sol é uma só coisa com ele) e, ao mesmo tempo, distinto dele, como expressão (kharaktḗr) da sua substância (o termo grego designa a marca ou cunho gravado pela matriz na moeda cunhada). Ele tem uma trajetória histórico-salvífica singular: intervém na obra da Criação e no governo do universo com a sua poderosa palavra; realiza a obra da redenção com a purificação dos pecados, para culminar na entronização, na glória celeste, à direita da Majestade (uma forma respeitosa de evitar dizer o nome de Deus), numa superioridade absoluta relativamente aos seres mais próximos de Deus (tema desenvolvido em seguida: vv.5-14). Esta superioridade vem-lhe do nome, ou seja, dignidade de Filho recebida do Pai."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "carta-aos-hebreus-1-n1",
+              "offset": 15,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
+        },
+        {
+          "before_verse": 1,
+          "text": "A Revelação divina definitiva",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "A SUPERIORIDADE DE CRISTO COMO FILHO (1,5 – 4,13)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "Cristo é superior aos anjos",
           "note_refs": []
         }
       ]
@@ -81,13 +362,41 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Por isso, é necessário dedicarmos uma atenção muito maior àquilo que escu - támos, para não nos desviarmos do rumo.",
-          "note_refs": []
+          "text": "Por isso, é necessário dedicarmos uma atenção muito maior àquilo que escutámos, para não nos desviarmos do rumo.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Nos vv.1-4, a palavra que começou a ser pregada pelo Senhor (v.3), bem confirmada (vv.3b-4), exige a máxima atenção (v.1), pois é muito superior à palavra anunciada por meio dos anjos (v.2); é que segundo a tradição judaica a Lei de Moisés deveu-se à mediação dos anjos (cf. Gl 3,19)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "carta-aos-hebreus-2-n1",
+              "offset": 8,
+              "original_marker": "q",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Com efeito, se a palavra anunciada por meio de anjos se manteve válida, e se toda a transgressão e desobediência receberam uma justa punição,",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: falada (o mesmo no v.3)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "carta-aos-hebreus-2-n2",
+              "offset": 34,
+              "original_marker": "r",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 3,
@@ -96,58 +405,266 @@
         },
         {
           "verse": 4,
-          "text": "ao mesmo tempo que Deus dava testemunho com sinais, prodígios e todo o género de ações poderosas, e com os dons do Espírito Santo, distribuídos segundo a sua vonta - de.",
-          "note_refs": []
+          "text": "ao mesmo tempo que Deus dava testemunho com sinais, prodígios e todo o género de ações poderosas, e com os dons do Espírito Santo, distribuídos segundo a sua vontade.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: com as repartições do Espírito Santo."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "carta-aos-hebreus-2-n3",
+              "offset": 143,
+              "original_marker": "a",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Não foi a anjos que Deus submeteu o mundo que há de vir e do qual estamos a falar.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Nos vv.5-9, o Sl 8,5-7 (LXX) é aplicado a Jesus para insistir na sua superioridade face aos anjos, apesar de, por momentos, aparecer em situação de inferioridade, em especial na hora da Paixão, uma humilhação que lhe trouxe a glorificação (cf. Flp 2,6-8)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "carta-aos-hebreus-2-n4",
+              "offset": 81,
+              "original_marker": "b",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Numa passagem da Escritura, alguém testemunhou precisamente isso, ao dizer: «Que é o homem, para que te lembres dele, ou o filho do homem, para que dele cuides?",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: mas alguém testemunhou algures."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "carta-aos-hebreus-2-n5",
+              "offset": 74,
+              "original_marker": "c",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Fizeste-o um pouco inferior aos anjos; de glória e de honra o coroaste.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Muitos mss. acrescentam e o colocaste sobre as obras das tuas mãos."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "carta-aos-hebreus-2-n6",
+              "offset": 70,
+              "original_marker": "d",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Tudo submeteste a seus pés». Com efeito, ao submeter-lhe todas as coisas, Deus nada deixou por lhe submeter. Todavia, ainda não vemos que tudo lhe esteja submetido;",
-          "note_refs": []
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Sl 8,5-7 (LXX).",
+            "8": "Deus é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "carta-aos-hebreus-2-n7",
+              "offset": 27,
+              "original_marker": "e",
+              "source_id": 23
+            },
+            {
+              "ref": "8",
+              "id": "carta-aos-hebreus-2-n8",
+              "offset": 78,
+              "original_marker": "f",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "mas vemos Jesus, que por pouco tempo foi inferior aos anjos, coroado de glória e de honra por causa da morte que sofreu, a fim de que, pela graça de Deus, provasse a morte em favor de todos nós.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: por causa do sofrimento da morte."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "carta-aos-hebreus-2-n9",
+              "offset": 119,
+              "original_marker": "g",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "De facto, ao querer conduzir muitos filhos à glória, convinha que Aquele, por causa de quem e por quem tudo existe, levasse à perfeição, por meio do sofrimento, o autor da salvação.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: o autor da salvação deles. Nos vv.10-18, o autor demonstra-nos a conveniência do plano salvador de Deus, através da plena participação de Jesus na nossa condição humana: faz-se nosso irmão (v.11), solidário nos sofrimentos, mas apoiado na confiança em Deus (vv.12s; cf. Is 8,17s LXX; Sl 21,23 LXX), para nos libertar da escravidão e da morte (vv.14-16). Aqui reside a original explicitação doutrinária de Hebreus e a ideia chave: Ele realiza a expiação dos pecados como sumo sacerdote misericordioso e fiel (v.17)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "carta-aos-hebreus-2-n10",
+              "offset": 180,
+              "original_marker": "h",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Pois tanto Aquele que santifica como os que são santificados procedem todos de um só. Por essa razão, Ele não se envergonha de lhes chamar irmãos,",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Verbo usado nos LXX para se referir à consagração sacerdotal (cf. Ex 29,9.29.33; Lv 16,32; 21,10; Nm 3,3)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "carta-aos-hebreus-2-n11",
+              "offset": 60,
+              "original_marker": "i",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "quando diz: «Hei de anunciar o teu nome aos meus irmãos, no meio da assembleia cantarei os teus louvores».",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Sl 21,23 (LXX). Este Sl é evocado na paixão (cf. Mt 27,43-46; Mc 15,34; Jo 19,24)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "carta-aos-hebreus-2-n12",
+              "offset": 105,
+              "original_marker": "j",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "E ainda: «Eu porei nele a minha confiança». E noutra passagem: «Eis-me aqui, com os filhos que Deus me deu».",
-          "note_refs": []
+          "note_refs": [
+            "13",
+            "14",
+            "15"
+          ],
+          "notes": {
+            "13": "Is 8,17.",
+            "14": "Lit.: novamente.",
+            "15": "Is 8,18."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "carta-aos-hebreus-2-n13",
+              "offset": 42,
+              "original_marker": "k",
+              "source_id": 29
+            },
+            {
+              "ref": "14",
+              "id": "carta-aos-hebreus-2-n14",
+              "offset": 61,
+              "original_marker": "l",
+              "source_id": 30
+            },
+            {
+              "ref": "15",
+              "id": "carta-aos-hebreus-2-n15",
+              "offset": 107,
+              "original_marker": "m",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Uma vez que os filhos dos homens têm em comum a carne e o sangue, também Jesus participou dessa mesma natureza, a fim de, pela morte, destruir aquele que tem o poder da morte, isto é, o Diabo,",
-          "note_refs": []
+          "note_refs": [
+            "16",
+            "17",
+            "18",
+            "19"
+          ],
+          "notes": {
+            "16": "Dos homens é acrescento da tradução.",
+            "17": "A expressão a carne e o sangue é um semitismo para referir a natureza humana (cf. Sir 14,18; 17,31; Mt 16,17; Gl 1,16; Ef 6,12).",
+            "18": "Lit.: e Ele participou deles igualmente.",
+            "19": "Para o judaísmo da diáspora grega a morte foi introduzida no mundo pelo Diabo, não fazendo parte do plano de Deus (cf. Sb 1,13; 2,23s)."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "carta-aos-hebreus-2-n16",
+              "offset": 32,
+              "original_marker": "n",
+              "source_id": 32
+            },
+            {
+              "ref": "17",
+              "id": "carta-aos-hebreus-2-n17",
+              "offset": 64,
+              "original_marker": "o",
+              "source_id": 33
+            },
+            {
+              "ref": "18",
+              "id": "carta-aos-hebreus-2-n18",
+              "offset": 110,
+              "original_marker": "p",
+              "source_id": 34
+            },
+            {
+              "ref": "19",
+              "id": "carta-aos-hebreus-2-n19",
+              "offset": 191,
+              "original_marker": "q",
+              "source_id": 35
+            }
+          ]
         },
         {
           "verse": 15,
@@ -157,16 +674,70 @@
         {
           "verse": 16,
           "text": "É que, de facto, Ele não veio em auxílio dos anjos, mas veio em auxílio da descendência de Abraão.",
-          "note_refs": []
+          "note_refs": [
+            "20"
+          ],
+          "notes": {
+            "20": "Is 41,8."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "carta-aos-hebreus-2-n20",
+              "offset": 97,
+              "original_marker": "r",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Por isso, tinha de se tornar em tudo semelhante aos irmãos, para ser um sumo sacerdote misericordioso e fiel naquilo que diz respeito a Deus, e assim expiar os pecados do povo.",
-          "note_refs": []
+          "note_refs": [
+            "21"
+          ],
+          "notes": {
+            "21": "Em Jesus cumpre-se a promessa messiânica de 1Sm 2,35."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "carta-aos-hebreus-2-n21",
+              "offset": 108,
+              "original_marker": "s",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "É precisamente por ter sido provado pelo sofrimento que Ele é capaz de vir em socorro daqueles que passam pela provação.",
+          "note_refs": [
+            "22"
+          ],
+          "notes": {
+            "22": "Lit.: no que sofreu."
+          },
+          "note_positions": [
+            {
+              "ref": "22",
+              "id": "carta-aos-hebreus-2-n22",
+              "offset": 51,
+              "original_marker": "t",
+              "source_id": 38
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Exortação à perseverança na fé",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "Cristo, irmão dos homens, sofredor e glorioso",
           "note_refs": []
         }
       ]
@@ -177,17 +748,77 @@
         {
           "verse": 1,
           "text": "Portanto, irmãos santos, vós que sois participantes de uma vocação celeste, considerai como Jesus, o apóstolo e sumo sacerdote da fé que professamos,",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2",
+            "3"
+          ],
+          "notes": {
+            "1": "Para fundamentar a necessidade da fidelidade a Cristo, nos vv.1-6 o autor apresenta-o como apóstolo e sumo sacerdote, em contraposição com Moisés: enquanto este é servo, Jesus é Filho.",
+            "2": "I.e. santificados pelo batismo.",
+            "3": "É a única vez no NT que o título é usado em relação a Jesus, embora a ideia de que Ele foi enviado pelo Pai seja frequentemente usada por Jo."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "carta-aos-hebreus-3-n1",
+              "offset": 8,
+              "original_marker": "u",
+              "source_id": 39
+            },
+            {
+              "ref": "2",
+              "id": "carta-aos-hebreus-3-n2",
+              "offset": 23,
+              "original_marker": "v",
+              "source_id": 40
+            },
+            {
+              "ref": "3",
+              "id": "carta-aos-hebreus-3-n3",
+              "offset": 109,
+              "original_marker": "w",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "é fiel Àquele que assim o constituiu, como também o foi Moisés na casa de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: em toda a casa dele (o mesmo no v.5). Nm 12,7."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "carta-aos-hebreus-3-n4",
+              "offset": 78,
+              "original_marker": "x",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Ele, de facto, foi considerado digno de uma glória maior do que a de Moisés, na medida em que o construtor de uma casa tem maior dignidade do que ela.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: segundo quanto maior honra do que a casa tem quem a construiu."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "carta-aos-hebreus-3-n5",
+              "offset": 149,
+              "original_marker": "y",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 4,
@@ -197,17 +828,68 @@
         {
           "verse": 5,
           "text": "Moisés foi fiel na casa de Deus, como servo, para dar testemunho daquilo que havia de ser anunciado;",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Nm 12,7."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "carta-aos-hebreus-3-n6",
+              "offset": 43,
+              "original_marker": "z",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "mas Cristo é fiel, como Filho, posto à frente da sua casa. E essa casa somos nós, se mantivermos a confiança e a esperança de que nos gloriamos. A",
-          "note_refs": []
+          "text": "mas Cristo é fiel, como Filho, posto à frente da sua casa. E essa casa somos nós, se mantivermos a confiança e a esperança de que nos gloriamos.",
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Fiel é acrescento da tradução.",
+            "8": "Muitos mss. acrescentam firme até ao fim."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "carta-aos-hebreus-3-n7",
+              "offset": 17,
+              "original_marker": "aa",
+              "source_id": 45
+            },
+            {
+              "ref": "8",
+              "id": "carta-aos-hebreus-3-n8",
+              "offset": 143,
+              "original_marker": "ab",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Por isso, como diz o Espírito Santo: «Hoje, se escutardes a sua voz,",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Nos vv.3,7-4,13, a partir do Sl 95,7-11, é apresentada uma longa advertência, para que o ouvinte não caia na mesma infidelidade dos judeus na peregrinação do deserto (cf. Nm 14s), não alcançando a meta, o descanso de Deus. Este, para os hebreus, era a terra prometida da Palestina; para os cristãos, o santuário celeste, segundo a imagem do descanso sabático do próprio Deus (Gn 2,2; cf. Ex 20,11). Esta passagem é um exemplo de uma leitura atualizante da palavra de Deus (3,13; 4,2). Os vv. finais exaltam a força desta palavra que, sendo como uma espada (cf. Is 49,2; Sb 18,15; Ef 6,17), penetra até ao mais íntimo do ser humano, a tal ponto que nada nem ninguém pode escapar ao seu juízo inapelável."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "carta-aos-hebreus-3-n9",
+              "offset": 8,
+              "original_marker": "a",
+              "source_id": 47
+            }
+          ]
         },
         {
           "verse": 8,
@@ -222,12 +904,40 @@
         {
           "verse": 10,
           "text": "durante quarenta anos. Por isso me indignei contra esta geração e disse: andam sempre de coração extraviado; não conheceram os meus caminhos.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: sempre se extraviam no coração."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "carta-aos-hebreus-3-n10",
+              "offset": 107,
+              "original_marker": "b",
+              "source_id": 48
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Assim, jurei na minha ira: não entrarão no meu repouso!».",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Sl 95,7-11."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "carta-aos-hebreus-3-n11",
+              "offset": 56,
+              "original_marker": "c",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 12,
@@ -236,28 +946,116 @@
         },
         {
           "verse": 13,
-          "text": "Exortai-vos todos os dias uns aos outros, enquanto dura o tempo que se chama hoje, para que nenhum de vós se deixe endu - recer pela sedução do pecado.",
-          "note_refs": []
+          "text": "Exortai-vos todos os dias uns aos outros, enquanto dura o tempo que se chama hoje, para que nenhum de vós se deixe endurecer pela sedução do pecado.",
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: enquanto o hoje é chamado."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "carta-aos-hebreus-3-n12",
+              "offset": 81,
+              "original_marker": "d",
+              "source_id": 50
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "De facto, nós tornámo-nos e somos participantes de Cristo, desde que mantenhamos a confiança inicial firme até ao fim.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Tornámo-nos e somos corresponde a uma só forma verbal em grego."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "carta-aos-hebreus-3-n13",
+              "offset": 33,
+              "original_marker": "e",
+              "source_id": 51
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Quando se diz: «Hoje, se escutardes a sua voz, não endureçais os vossos corações, como aconteceu na revolta»,",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Sl 95,7."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "carta-aos-hebreus-3-n14",
+              "offset": 108,
+              "original_marker": "f",
+              "source_id": 52
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "quem foram esses que, depois de terem ouvido a sua voz, se revoltaram? Não foram, porventura, todos os que saíram do Egito, conduzidos por Moisés?",
-          "note_refs": []
+          "note_refs": [
+            "15",
+            "16"
+          ],
+          "notes": {
+            "15": "A sua voz é acrescento da tradução.",
+            "16": "Lit.: por meio de Moisés."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "carta-aos-hebreus-3-n15",
+              "offset": 54,
+              "original_marker": "g",
+              "source_id": 53
+            },
+            {
+              "ref": "16",
+              "id": "carta-aos-hebreus-3-n16",
+              "offset": 145,
+              "original_marker": "h",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "E contra quem se indignou Deus durante quarenta anos? Não foi contra os que pecaram e cujos cadáveres ficaram tombados no deserto?",
-          "note_refs": []
+          "note_refs": [
+            "17",
+            "18"
+          ],
+          "notes": {
+            "17": "Deus é acrescento da tradução.",
+            "18": "Nm 14,29."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "carta-aos-hebreus-3-n17",
+              "offset": 30,
+              "original_marker": "i",
+              "source_id": 55
+            },
+            {
+              "ref": "18",
+              "id": "carta-aos-hebreus-3-n18",
+              "offset": 130,
+              "original_marker": "j",
+              "source_id": 56
+            }
+          ]
         },
         {
           "verse": 18,
@@ -269,6 +1067,18 @@
           "text": "Assim, vemos que foi por causa da sua incredulidade que eles não puderam entrar.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Cristo é superior a Moisés",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "Exortação a entrar no repouso de Deus",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -277,7 +1087,21 @@
         {
           "verse": 1,
           "text": "Portanto, embora se mantenha em vigor a promessa de entrar no repouso de Deus, temos receio que algum de vós seja considerado excluído.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.: dele."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "carta-aos-hebreus-4-n1",
+              "offset": 77,
+              "original_marker": "k",
+              "source_id": 57
+            }
+          ]
         },
         {
           "verse": 2,
@@ -287,36 +1111,142 @@
         {
           "verse": 3,
           "text": "Pois somos nós, os que acreditámos, que entramos no repouso, tal como está dito: «Assim jurei na minha ira: não entrarão no meu repouso». Isto apesar de as obras de Deus estarem terminadas desde a criação do mundo,",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Sl 95,11."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "carta-aos-hebreus-4-n2",
+              "offset": 136,
+              "original_marker": "l",
+              "source_id": 58
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "pois está dito numa passagem da Escritura, a propósito do sétimo dia: «E no sétimo dia Deus repousou de todas as suas obras»;",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Escritura é acrescento da tradução.",
+            "4": "Gn 2,2."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "carta-aos-hebreus-4-n3",
+              "offset": 41,
+              "original_marker": "m",
+              "source_id": 59
+            },
+            {
+              "ref": "4",
+              "id": "carta-aos-hebreus-4-n4",
+              "offset": 124,
+              "original_marker": "n",
+              "source_id": 60
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "e nesta passagem acrescenta: «Não entrarão no meu repouso!».",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Lit.: e nesta de novo.",
+            "6": "Sl 95,11."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "carta-aos-hebreus-4-n5",
+              "offset": 27,
+              "original_marker": "o",
+              "source_id": 61
+            },
+            {
+              "ref": "6",
+              "id": "carta-aos-hebreus-4-n6",
+              "offset": 59,
+              "original_marker": "p",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "Portanto, tendo em conta que é para alguns que está reservado entrar nele, e que os primeiros a receber o anúncio da boa nova não entraram devido à sua desobe - diência,",
+          "text": "Portanto, tendo em conta que é para alguns que está reservado entrar nele, e que os primeiros a receber o anúncio da boa nova não entraram devido à sua desobediência,",
           "note_refs": []
         },
         {
           "verse": 7,
-          "text": "Deus volta a fixar um dia um hoje quando tanto tempo depois diz, por meio de David, aquilo que já foi citado: «Hoje, se escutardes a sua voz, não endureçais os vossos corações».",
-          "note_refs": []
+          "text": "Deus volta a fixar um dia – um hoje – quando tanto tempo depois diz, por meio de David, aquilo que já foi citado: «Hoje, se escutardes a sua voz, não endureçais os vossos corações».",
+          "note_refs": [
+            "7",
+            "8",
+            "9"
+          ],
+          "notes": {
+            "7": "Deus é acrescento da tradução.",
+            "8": "Lit.: tal como dito antes.",
+            "9": "Sl 95,7s."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "carta-aos-hebreus-4-n7",
+              "offset": 4,
+              "original_marker": "q",
+              "source_id": 63
+            },
+            {
+              "ref": "8",
+              "id": "carta-aos-hebreus-4-n8",
+              "offset": 112,
+              "original_marker": "r",
+              "source_id": 64
+            },
+            {
+              "ref": "9",
+              "id": "carta-aos-hebreus-4-n9",
+              "offset": 180,
+              "original_marker": "s",
+              "source_id": 65
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Com efeito, se Josué lhes tivesse assegurado este repouso, Deus não teria, depois disso, falado de outro dia.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Deus é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "carta-aos-hebreus-4-n10",
+              "offset": 63,
+              "original_marker": "t",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "Por conseguinte, continua reservado um repouso sabáti - co para o povo de Deus.",
+          "text": "Por conseguinte, continua reservado um repouso sabático para o povo de Deus.",
           "note_refs": []
         },
         {
@@ -342,7 +1272,30 @@
         {
           "verse": 14,
           "text": "Tendo nós um grande sumo sacerdote, que atravessou os céus, Jesus, o Filho de Deus, permaneçamos firmes na profissão da fé.",
-          "note_refs": []
+          "note_refs": [
+            "11",
+            "12"
+          ],
+          "notes": {
+            "11": "A secção de 4,14-5,10 começa com uma exortação (vv.14-16) seguida de um desenvolvimento doutrinal. Jesus não é sumo sacerdote como o do templo de Jerusalém, pois é Filho de Deus. O autor expõe como Jesus satisfaz os requisitos da condição sacerdotal (5,1-4), que lhe foi outorgada pelo Pai (vv.5s) e que Ele cumpriu pela sua obediência total, embora com um sacerdócio distinto do levítico, ideia que vai desenvolver no cap. 7.",
+            "12": "Da fé é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "carta-aos-hebreus-4-n11",
+              "offset": 9,
+              "original_marker": "a",
+              "source_id": 67
+            },
+            {
+              "ref": "12",
+              "id": "carta-aos-hebreus-4-n12",
+              "offset": 122,
+              "original_marker": "b",
+              "source_id": 68
+            }
+          ]
         },
         {
           "verse": 15,
@@ -352,6 +1305,32 @@
         {
           "verse": 16,
           "text": "Portanto, vamos com confiança ao trono da graça, a fim de alcançarmos misericórdia e encontrarmos graça, para que possamos ser socorridos no momento oportuno.",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Lit.: para auxílio oportuno."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "carta-aos-hebreus-4-n13",
+              "offset": 157,
+              "original_marker": "c",
+              "source_id": 69
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 14,
+          "text": "O SACERDÓCIO DE CRISTO, PERFEITO E PARA SEMPRE (4,14 – 10,18)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 14,
+          "text": "Cristo, sumo sacerdote misericordioso",
           "note_refs": []
         }
       ]
@@ -361,12 +1340,12 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Com efeito, todo o sumo sacerdote, escolhido de entre os homens, é consti - tuído em favor dos homens, nas suas relações com Deus, para oferecer dons e sacrifícios pelos pecados.",
+          "text": "Com efeito, todo o sumo sacerdote, escolhido de entre os homens, é constituído em favor dos homens, nas suas relações com Deus, para oferecer dons e sacrifícios pelos pecados.",
           "note_refs": []
         },
         {
           "verse": 2,
-          "text": "Ele é capaz de se compadecer dos ignorantes e extra - viados, porque também ele está sujeito à debilidade.",
+          "text": "Ele é capaz de se compadecer dos ignorantes e extraviados, porque também ele está sujeito à debilidade.",
           "note_refs": []
         },
         {
@@ -382,17 +1361,86 @@
         {
           "verse": 5,
           "text": "Assim também, não foi Cristo que se glorificou a si mesmo tornando-se sumo sacerdote, mas fê-lo Aquele que lhe disse: «Tu és meu Filho, Eu hoje te gerei»,",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Fê-lo é acrescento da tradução.",
+            "2": "Sl 2,7."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "carta-aos-hebreus-5-n1",
+              "offset": 95,
+              "original_marker": "d",
+              "source_id": 70
+            },
+            {
+              "ref": "2",
+              "id": "carta-aos-hebreus-5-n2",
+              "offset": 153,
+              "original_marker": "e",
+              "source_id": 71
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "e que disse, ainda, noutra passagem: «Tu és sacerdote para sempre, segundo a ordem de Melquisedec».",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Lit.: tal como também noutro diz.",
+            "4": "Sl 110,4."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "carta-aos-hebreus-5-n3",
+              "offset": 35,
+              "original_marker": "f",
+              "source_id": 72
+            },
+            {
+              "ref": "4",
+              "id": "carta-aos-hebreus-5-n4",
+              "offset": 98,
+              "original_marker": "g",
+              "source_id": 73
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Nos dias da sua vida terrena, Ele dirigiu preces e súplicas, com grandes clamores e lágrimas, Àquele que o podia salvar da morte, e foi escutado por causa da sua piedade.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Lit.: nos dias da sua carne.",
+            "6": "Se as súplicas com lágrimas se referem à oração no Getsémani, pode dizer-se que Jesus foi atendido, ao ser plenamente obediente à vontade do Pai (Mt 26,39.42; cf. Jo 19,30)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "carta-aos-hebreus-5-n5",
+              "offset": 28,
+              "original_marker": "h",
+              "source_id": 74
+            },
+            {
+              "ref": "6",
+              "id": "carta-aos-hebreus-5-n6",
+              "offset": 144,
+              "original_marker": "i",
+              "source_id": 75
+            }
+          ]
         },
         {
           "verse": 8,
@@ -401,32 +1449,118 @@
         },
         {
           "verse": 9,
-          "text": "levado à perfeição no seu ministério, tornou-se causa de salvação eterna para todos A O os que lhe obedecem,",
-          "note_refs": []
+          "text": "levado à perfeição no seu ministério, tornou-se causa de salvação eterna para todos os que lhe obedecem,",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: foi consumado, ou seja, atingiu a plenitude da sua mediação, não só enquanto sacerdote, mas também como vítima."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "carta-aos-hebreus-5-n7",
+              "offset": 36,
+              "original_marker": "j",
+              "source_id": 76
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "tendo sido proclamado por Deus sumo sacerdote segundo a ordem de Melquisedec.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Os vv.9s apresentam três notas distintivas do sacerdócio de Jesus, que são desenvolvidas posteriormente: um sacerdócio segundo a ordem de Melquisedec (6,20-7,27; cf. Sl 110,4), dotado de perfeição (7,28-9,27), e causa de salvação eterna (9,28-10,18)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "carta-aos-hebreus-5-n8",
+              "offset": 76,
+              "original_marker": "k",
+              "source_id": 77
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "Muito teríamos a dizer acerca deste assunto, mas é difícil explicá-lo, visto que sois lentos em compreender.",
-          "note_refs": []
+          "text": "Muito teríamos a dizer acerca deste assunto , mas é difícil explicá-lo, visto que sois lentos em compreender.",
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "Lit.: acerca disto existe para nós muita palavra. A secção de 5,11-6,20 apresenta três séries de exortações: à maturidade cristã (5,11-6,3), a evitar o perigo da apostasia (vv.4-12) e a confiar nas promessas de Deus (vv.13-20).",
+            "10": "Lit.: vos tornastes preguiçosos para os ouvidos."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "carta-aos-hebreus-5-n9",
+              "offset": 44,
+              "original_marker": "l",
+              "source_id": 78
+            },
+            {
+              "ref": "10",
+              "id": "carta-aos-hebreus-5-n10",
+              "offset": 108,
+              "original_marker": "m",
+              "source_id": 79
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Com efeito, vós que, tendo em conta o tempo decorrido, devíeis ser mestres, ainda tendes necessidade de que alguém vos ensine os princípios elementares das palavras de Deus; em vez de alimento sólido, ainda necessitais de leite.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: tornastes-vos (como) tendo necessidade de leite e não de alimento sólido."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "carta-aos-hebreus-5-n11",
+              "offset": 227,
+              "original_marker": "n",
+              "source_id": 80
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Ora, quem se alimenta de leite não tem experiência suficiente para entender o discurso da justiça, pois é como uma criança.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: é inexperiente de palavra de justiça. Esta expressão poderá designar a palavra de Deus, sobretudo o ensinamento sobre a sua justiça, revelada no sumo sacerdócio de Cristo, prefigurado em Melquisedec, o rei da justiça (7,2)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "carta-aos-hebreus-5-n12",
+              "offset": 97,
+              "original_marker": "o",
+              "source_id": 81
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "O alimento sólido é para os adultos, para aqueles que, pela prática, já têm bem exercitada a faculdade de discernir o bem do mal.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 11,
+          "text": "Necessidade de uma fé sólida",
           "note_refs": []
         }
       ]
@@ -437,12 +1571,49 @@
         {
           "verse": 1,
           "text": "Portanto, deixando de parte este discurso elementar sobre Cristo, avancemos para outro mais perfeito, sem ter de voltar a lançar os seus fundamentos, como seja a renúncia às obras mortas, a fé em Deus,",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Ou conversão das obras mortas, no sentido de as abandonar; mortas, porque realizadas fora de Cristo e da sua salvação e, por isso, fruto do pecado e conducentes à morte.",
+            "2": "Ou seja, obras realizadas sem a fé, que conduz à vida."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "carta-aos-hebreus-6-n1",
+              "offset": 170,
+              "original_marker": "p",
+              "source_id": 82
+            },
+            {
+              "ref": "2",
+              "id": "carta-aos-hebreus-6-n2",
+              "offset": 186,
+              "original_marker": "q",
+              "source_id": 83
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "o ensinamento sobre os batismos, a imposição das mãos, a ressurreição dos mortos e o juízo eterno.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A expressão, no plural, poderá ser uma referência à distinção entre a prática ritual judaica da imersão e o batismo cristão."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "carta-aos-hebreus-6-n3",
+              "offset": 31,
+              "original_marker": "r",
+              "source_id": 84
+            }
+          ]
         },
         {
           "verse": 3,
@@ -451,22 +1622,45 @@
         },
         {
           "verse": 4,
-          "text": "De facto, é impossível àqueles que foram iluminados de uma vez para sempre que saborearam o dom celeste e se tornaram participantes do Espírito Santo,",
+          "text": "De facto, é impossível àqueles que foram iluminados de uma vez para sempre – que saborearam o dom celeste e se tornaram participantes do Espírito Santo,",
           "note_refs": []
         },
         {
           "verse": 5,
-          "text": "que",
+          "text": "que saborearam a beleza da palavra de Deus e as maravilhas do mundo que há de vir –",
           "note_refs": []
         },
         {
           "verse": 6,
           "text": "e que ainda assim caíram, é-lhes impossível renovar a conversão uma segunda vez, já que assim, por sua parte, eles crucificam de novo o Filho de Deus e o expõem ao escárnio.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Lit.: novamente.",
+            "5": "Montanistas e novacianos interpretaram à letra os vv.4-6, negando a possibilidade do perdão aos que renegam a fé. Do que se fala, porém, é da impossibilidade da salvação enquanto o apóstata permanecer no erro, cuja gravidade é comparável ao ato de crucificar Jesus. Outra interpretação lê a afirmação no sentido da impossibilidade de um segundo batismo."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "carta-aos-hebreus-6-n4",
+              "offset": 79,
+              "original_marker": "s",
+              "source_id": 85
+            },
+            {
+              "ref": "5",
+              "id": "carta-aos-hebreus-6-n5",
+              "offset": 172,
+              "original_marker": "t",
+              "source_id": 86
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "Com efeito, quando a terra bebe a chuva que tantas vezes sobre ela A cai e produz plantas úteis para aqueles que a cultivam, recebe a bênção de Deus;",
+          "text": "Com efeito, quando a terra bebe a chuva que tantas vezes sobre ela cai e produz plantas úteis para aqueles que a cultivam, recebe a bênção de Deus;",
           "note_refs": []
         },
         {
@@ -476,18 +1670,60 @@
         },
         {
           "verse": 9,
-          "text": "Mas quanto a vós, amados irmãos, ainda que falemos desta maneira, estamos certos de que vos encontrais em condições melhores, no que diz respeito à salva - ção.",
-          "note_refs": []
+          "text": "Mas quanto a vós, amados irmãos, ainda que falemos desta maneira, estamos certos de que vos encontrais em condições melhores, no que diz respeito à salvação.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Irmãos é acrescento de alguns mss."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "carta-aos-hebreus-6-n6",
+              "offset": 31,
+              "original_marker": "a",
+              "source_id": 87
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Pois Deus não é injusto de modo a esquecer o vosso trabalho e o amor que mostrastes pelo seu nome, ao terdes servido os santos e ao continuardes a servi-los.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Ou seja, os que foram santificados pelo batismo, os cristãos."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "carta-aos-hebreus-6-n7",
+              "offset": 126,
+              "original_marker": "b",
+              "source_id": 88
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Desejamos que cada um de vós demonstre esse empenho até ao fim, para que a vossa esperança atinja a sua plenitude,",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: para plenitude da esperança."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "carta-aos-hebreus-6-n8",
+              "offset": 113,
+              "original_marker": "c",
+              "source_id": 89
+            }
+          ]
         },
         {
           "verse": 12,
@@ -502,12 +1738,49 @@
         {
           "verse": 14,
           "text": "dizendo: «Cumular-te-ei de bênçãos e multiplicarei a tua descendência».",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Gn 22,17. Lit.: certamente abençoando te abençoarei e multiplicando multiplicar-te-ei."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "carta-aos-hebreus-6-n9",
+              "offset": 70,
+              "original_marker": "d",
+              "source_id": 90
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "E assim, depois de ter esperado com paciência, Abraão obteve aquilo que tinha sido prometido.",
-          "note_refs": []
+          "note_refs": [
+            "10",
+            "11"
+          ],
+          "notes": {
+            "10": "Abraão é acrescento da tradução.",
+            "11": "Lit.: alcançou a promessa."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "carta-aos-hebreus-6-n10",
+              "offset": 53,
+              "original_marker": "e",
+              "source_id": 91
+            },
+            {
+              "ref": "11",
+              "id": "carta-aos-hebreus-6-n11",
+              "offset": 92,
+              "original_marker": "f",
+              "source_id": 92
+            }
+          ]
         },
         {
           "verse": 16,
@@ -522,16 +1795,83 @@
         {
           "verse": 18,
           "text": "para que, graças a dois atos irrevogáveis, nos quais é impossível que Deus minta, nós, que nele procurámos refúgio, tenhamos um forte incentivo para nos agarrarmos à esperança que nos foi colocada diante de nós.",
-          "note_refs": []
+          "note_refs": [
+            "12",
+            "13",
+            "14"
+          ],
+          "notes": {
+            "12": "Isto é, a promessa de Deus e o seu juramento (cf. Gn 12,1-3, Heb 11,8).",
+            "13": "Nele é acrescento da tradução.",
+            "14": "De nós é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "carta-aos-hebreus-6-n12",
+              "offset": 41,
+              "original_marker": "g",
+              "source_id": 93
+            },
+            {
+              "ref": "13",
+              "id": "carta-aos-hebreus-6-n13",
+              "offset": 95,
+              "original_marker": "h",
+              "source_id": 94
+            },
+            {
+              "ref": "14",
+              "id": "carta-aos-hebreus-6-n14",
+              "offset": 210,
+              "original_marker": "i",
+              "source_id": 95
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "Temos nela como que uma âncora da alma, segura e firme, que penetra para além do véu do santuário,",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Do santuário é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "carta-aos-hebreus-6-n15",
+              "offset": 97,
+              "original_marker": "j",
+              "source_id": 96
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "onde Jesus entrou como nosso precursor, tornando-se para sempre sumo sacerdote segundo a ordem de Melquisedec.",
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Sl 110,4."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "carta-aos-hebreus-6-n16",
+              "offset": 109,
+              "original_marker": "k",
+              "source_id": 97
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 13,
+          "text": "Esperança segura nas promessas de Deus",
           "note_refs": []
         }
       ]
@@ -542,12 +1882,58 @@
         {
           "verse": 1,
           "text": "Com efeito, este Melquisedec, rei de Salém, sacerdote do Deus Altíssimo, foi ao encontro de Abraão, quando este regressava da derrota que infligiu aos reis, e abençoou-o;",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Nos vv.1-3, com base em Gn 14,17-20, mostra-se como o sacerdócio de Jesus cumpre o modelo profético do sacerdócio eterno do Sl 110, recorrendo ao argumento rabínico do silêncio, segundo o qual o que não está na Torá não está no mundo; assim, o facto de não se falar nem da genealogia nem do princípio e do fim de vida de Melquisedec, significa que tem uma origem celestial, o que condiz com a condição de Cristo, sacerdote eterno.",
+            "2": "Gn 14,17-20."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "carta-aos-hebreus-7-n1",
+              "offset": 10,
+              "original_marker": "l",
+              "source_id": 98
+            },
+            {
+              "ref": "2",
+              "id": "carta-aos-hebreus-7-n2",
+              "offset": 169,
+              "original_marker": "m",
+              "source_id": 100
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Abraão entregou-lhe, então, o dízimo de todas as coisas. O seu nome significa, em primeiro lugar, «rei de justiça», mas também rei de Salém, isto é, «rei de paz».",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Lit.: dividiu.",
+            "4": "Nome é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "carta-aos-hebreus-7-n3",
+              "offset": 19,
+              "original_marker": "n",
+              "source_id": 101
+            },
+            {
+              "ref": "4",
+              "id": "carta-aos-hebreus-7-n4",
+              "offset": 67,
+              "original_marker": "o",
+              "source_id": 102
+            }
+          ]
         },
         {
           "verse": 3,
@@ -557,16 +1943,44 @@
         {
           "verse": 4,
           "text": "Considerai, pois, como era grande este a quem o patriarca Abraão deu o dízimo dos melhores despojos.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A argumentação dos vv.4-17 parte de dois princípios: o facto de serem os levitas a receber habitualmente o dízimo, e o de Levi (e, portanto, a sua tribo) estar ainda nas entranhas de Abraão (v.10), na medida em que este é o seu bisavô. Ao pagar o dízimo a Melquisedec, Abraão (e, consequentemente, Levi) manifesta a superioridade do sacerdócio daquele em relação ao sacerdócio levítico. Assim, anuncia-se uma mudança da lei (v.12), que já não assenta na genealogia da tribo levítica (descendência carnal), mas na vida indestrutível de Jesus ressuscitado (v.16)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "carta-aos-hebreus-7-n5",
+              "offset": 99,
+              "original_marker": "p",
+              "source_id": 103
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "É certo que os filhos de Levi que recebem o sacerdócio têm, segundo a lei, o mandato de receber o dízimo do povo, isto é, dos seus irmãos, embora eles sejam também da descendência de Abraão.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: do baixo-ventre, isto é, a zona onde se encontram os órgãos sexuais (cf. v.10)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "carta-aos-hebreus-7-n6",
+              "offset": 179,
+              "original_marker": "q",
+              "source_id": 104
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "Mas aquele, que não era da sua linhagem, recebeu o dízimo de Abraão e abençoou o depositário das pro - messas.",
+          "text": "Mas aquele, que não era da sua linhagem, recebeu o dízimo de Abraão e abençoou o depositário das promessas.",
           "note_refs": []
         },
         {
@@ -587,12 +2001,49 @@
         {
           "verse": 10,
           "text": "visto que ainda estava nas entranhas de seu pai, quando Melquisedec foi ao seu encontro.",
-          "note_refs": []
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Cf. v.5 nota.",
+            "8": "Gn 14,17."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "carta-aos-hebreus-7-n7",
+              "offset": 36,
+              "original_marker": "r",
+              "source_id": 105
+            },
+            {
+              "ref": "8",
+              "id": "carta-aos-hebreus-7-n8",
+              "offset": 87,
+              "original_marker": "s",
+              "source_id": 106
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "Portanto, se a perfeição tivesse sido alcançada por meio do sacerdócio levítico pois foi nele que o povo recebeu a Lei que necessidade haveria de que surgisse outro sacerdote segundo a ordem de Melquisedec, e não segundo a ordem de Aarão?",
-          "note_refs": []
+          "text": "Portanto, se a perfeição tivesse sido alcançada por meio do sacerdócio levítico – pois foi nele que o povo recebeu a Lei – que necessidade haveria de que surgisse outro sacerdote segundo a ordem de Melquisedec, e não segundo a ordem de Aarão?",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Sl 110,4."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "carta-aos-hebreus-7-n9",
+              "offset": 209,
+              "original_marker": "t",
+              "source_id": 107
+            }
+          ]
         },
         {
           "verse": 12,
@@ -602,7 +2053,21 @@
         {
           "verse": 13,
           "text": "Pois Aquele de quem se dizem estas coisas pertencia a outra tribo, da qual ninguém se dedicou ao serviço do altar.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Ao serviço é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "carta-aos-hebreus-7-n10",
+              "offset": 104,
+              "original_marker": "u",
+              "source_id": 108
+            }
+          ]
         },
         {
           "verse": 14,
@@ -612,27 +2077,106 @@
         {
           "verse": 15,
           "text": "E isto é ainda mais evidente quando surge um outro sacerdote à semelhança de Melquisedec,",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Sl 110,4."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "carta-aos-hebreus-7-n11",
+              "offset": 88,
+              "original_marker": "v",
+              "source_id": 109
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "que foi constituído como tal, não segundo a lei de uma norma que diz respeito à descendência carnal, mas segundo o poder de uma vida indestrutível.",
-          "note_refs": []
+          "note_refs": [
+            "12",
+            "13"
+          ],
+          "notes": {
+            "12": "Lit.: segundo lei de mandamento carnal.",
+            "13": "Segundo Ex 40,15, o sacerdócio aarónico era eterno."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "carta-aos-hebreus-7-n12",
+              "offset": 99,
+              "original_marker": "a",
+              "source_id": 110
+            },
+            {
+              "ref": "13",
+              "id": "carta-aos-hebreus-7-n13",
+              "offset": 146,
+              "original_marker": "b",
+              "source_id": 111
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Com efeito, é dele que se dá este testemunho: «Tu és sacerdote para sempre, segundo a ordem de Melquisedec».",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Sl 110,4."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "carta-aos-hebreus-7-n14",
+              "offset": 107,
+              "original_marker": "c",
+              "source_id": 112
+            }
+          ]
         },
         {
           "verse": 18,
-          "text": "Deste modo, por um lado, fica revogada a norma precedente, tendo em conta",
-          "note_refs": []
+          "text": "Deste modo, por um lado, fica revogada a norma precedente, tendo em conta a sua ineficácia e inutilidade –",
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Os vv.18-28 apresentam o sacerdócio levítico como inútil e ineficaz, na medida em que não passava de uma introdução ao de Cristo."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "carta-aos-hebreus-7-n15",
+              "offset": 104,
+              "original_marker": "d",
+              "source_id": 113
+            }
+          ]
         },
         {
           "verse": 19,
-          "text": "pois a Lei não levou nada à perfeição e, por outro, introduz-se uma esperança superior, pela qual nos podemos aproximar de Deus.",
-          "note_refs": []
+          "text": "pois a Lei não levou nada à perfeição – e, por outro, introduz-se uma esperança superior, pela qual nos podemos aproximar de Deus.",
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "A tribo de Levi, à qual não foi atribuído território, recebeu como missão o culto, pelo qual tinha o privilégio da proximidade a Deus, no Santo dos Santos (cf. Lv 10,3)."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "carta-aos-hebreus-7-n16",
+              "offset": 129,
+              "original_marker": "e",
+              "source_id": 114
+            }
+          ]
         },
         {
           "verse": 20,
@@ -642,7 +2186,21 @@
         {
           "verse": 21,
           "text": "ao passo que Este o foi com um juramento feito por Aquele que lhe disse: «O Senhor jurou e não se arrependerá: Tu és sacerdote para sempre».",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "Sl 110,4. Muitos mss. acrescentam segundo a ordem de Melquisedec, para harmonizar com o v.17."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "carta-aos-hebreus-7-n17",
+              "offset": 139,
+              "original_marker": "f",
+              "source_id": 115
+            }
+          ]
         },
         {
           "verse": 22,
@@ -651,13 +2209,27 @@
         },
         {
           "verse": 23,
-          "text": "Eles foram constituídos sacerdotes em grande número, porque a morte os impe - dia de durar para sempre;",
+          "text": "Eles foram constituídos sacerdotes em grande número, porque a morte os impedia de durar para sempre;",
           "note_refs": []
         },
         {
           "verse": 24,
           "text": "mas Jesus, por permanecer para sempre, possui um sacerdócio perene.",
-          "note_refs": []
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "Lit.: Ele."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "carta-aos-hebreus-7-n18",
+              "offset": 9,
+              "original_marker": "g",
+              "source_id": 116
+            }
+          ]
         },
         {
           "verse": 25,
@@ -667,7 +2239,21 @@
         {
           "verse": 26,
           "text": "Era precisamente Este o sumo sacerdote que nos convinha: santo, inocente, sem mancha, separado dos pecadores e elevado acima dos céus;",
-          "note_refs": []
+          "note_refs": [
+            "19"
+          ],
+          "notes": {
+            "19": "Na tradição judaica, o sumo sacerdote preparava-se para a oferta do Yom Kippur (Dia da Expiação), ficando afastado da sua casa durante sete dias (cf. mYoma 1,1)."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "carta-aos-hebreus-7-n19",
+              "offset": 108,
+              "original_marker": "h",
+              "source_id": 117
+            }
+          ]
         },
         {
           "verse": 27,
@@ -679,6 +2265,23 @@
           "text": "A Lei constitui como sumos sacerdotes homens que têm fraquezas, mas a palavra do juramento, posterior à Lei, estabeleceu como sumo sacerdote o Filho, eternamente perfeito.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Melquisedec, figura de Cristo sacerdote",
+          "note_refs": []
+        },
+        {
+          "before_verse": 4,
+          "text": "O sacerdócio de Melquisedec, superior ao de Levi",
+          "note_refs": []
+        },
+        {
+          "before_verse": 18,
+          "text": "O sacerdócio de Cristo substitui o levítico",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -687,17 +2290,68 @@
         {
           "verse": 1,
           "text": "O principal ponto do que estamos a dizer é este: nós temos um sumo sacerdote que se sentou nos céus, à direita do trono da divina Majestade.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "No cap. 8, apresenta-se não só a superioridade do sacerdócio de Cristo e do novo santuário (vv.1-5), como também a sua mediação numa aliança superior, a nova aliança (vv.6-13).",
+            "2": "Divina é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "carta-aos-hebreus-8-n1",
+              "offset": 47,
+              "original_marker": "i",
+              "source_id": 118
+            },
+            {
+              "ref": "2",
+              "id": "carta-aos-hebreus-8-n2",
+              "offset": 129,
+              "original_marker": "j",
+              "source_id": 119
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Ele é o ministro do santuário e da verdadeira tenda, levantada pelo Senhor e não pelo homem.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Por contraposição à tenda do encontro, lugar da reunião do Senhor com Moisés e com o povo (Ex 33, 7-11; Nm 11,16s; 12,4-10; cf. Ex 29,42s; Lv 1,1)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "carta-aos-hebreus-8-n3",
+              "offset": 51,
+              "original_marker": "k",
+              "source_id": 120
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Ora, é para oferecer dons e sacrifícios que todo o sumo sacerdote é constituído; portanto, é necessário que também Jesus tenha algo para oferecer.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: Este."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "carta-aos-hebreus-8-n4",
+              "offset": 120,
+              "original_marker": "l",
+              "source_id": 121
+            }
+          ]
         },
         {
           "verse": 4,
@@ -706,47 +2360,188 @@
         },
         {
           "verse": 5,
-          "text": "Estes exercem um culto que é uma figura e uma sombra das rea - lidades celestes, tal como foi revelado a Moisés a respeito de como se devia construir a tenda: «Olha!» foi-lhe dito «Farás tudo segundo o modelo que te foi mostrado no monte».",
-          "note_refs": []
+          "text": "Estes exercem um culto que é uma figura e uma sombra das realidades celestes, tal como foi revelado a Moisés a respeito de como se devia construir a tenda: «Olha!» – foi-lhe dito – «Farás tudo segundo o modelo que te foi mostrado no monte».",
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Lit.: estando para completar a tenda.",
+            "6": "Ex 25,40."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "carta-aos-hebreus-8-n5",
+              "offset": 154,
+              "original_marker": "m",
+              "source_id": 122
+            },
+            {
+              "ref": "6",
+              "id": "carta-aos-hebreus-8-n6",
+              "offset": 239,
+              "original_marker": "n",
+              "source_id": 123
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Mas agora Jesus obteve um ministério tanto mais excelente, quanto superior é a aliança de que é mediador e que está fundada em promessas superiores.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Jesus é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "carta-aos-hebreus-8-n7",
+              "offset": 15,
+              "original_marker": "o",
+              "source_id": 124
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "De facto, se a primeira aliança fosse perfeita, não teria havido lugar para uma segunda.",
-          "note_refs": []
+          "note_refs": [
+            "8",
+            "9",
+            "10"
+          ],
+          "notes": {
+            "8": "Aliança é acrescento da tradução.",
+            "9": "Lit.: irrepreensível.",
+            "10": "Esta é uma tese paulina: a necessidade da nova aliança é consequência da insuficiência da Lei da primeira aliança (a Torá) para a salvação (cf. Rm 7,11-24)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "carta-aos-hebreus-8-n8",
+              "offset": 31,
+              "original_marker": "p",
+              "source_id": 125
+            },
+            {
+              "ref": "9",
+              "id": "carta-aos-hebreus-8-n9",
+              "offset": 46,
+              "original_marker": "q",
+              "source_id": 126
+            },
+            {
+              "ref": "10",
+              "id": "carta-aos-hebreus-8-n10",
+              "offset": 87,
+              "original_marker": "r",
+              "source_id": 127
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Mas, repreendendo-os, Deus disse: «Dias virão» diz o Senhor «em que Eu concluirei uma aliança com a casa de Israel e com a casa de Judá.",
-          "note_refs": []
+          "text": "Mas, repreendendo-os, Deus disse: «Dias virão» – diz o Senhor – «em que Eu concluirei uma aliança com a casa de Israel e com a casa de Judá.",
+          "note_refs": [
+            "11",
+            "12"
+          ],
+          "notes": {
+            "11": "Deus é acrescento da tradução.",
+            "12": "O grego antepõe vê/eis (que)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "carta-aos-hebreus-8-n11",
+              "offset": 26,
+              "original_marker": "s",
+              "source_id": 128
+            },
+            {
+              "ref": "12",
+              "id": "carta-aos-hebreus-8-n12",
+              "offset": 45,
+              "original_marker": "t",
+              "source_id": 129
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "Não será como a aliança que fiz com os seus pais, no dia em que os tomei pela mão para os fazer sair da terra do Egito. Visto que eles não permaneceram fiéis à minha aliança, tam - diz o Senhor.",
+          "text": "Não será como a aliança que fiz com os seus pais, no dia em que os tomei pela mão para os fazer sair da terra do Egito. Visto que eles não permaneceram fiéis à minha aliança, também Eu os abandonei» – diz o Senhor.",
           "note_refs": []
         },
         {
           "verse": 10,
-          "text": "«Esta é a aliança que estabelecerei com a casa de Israel, depois daqueles dias» diz o Senhor «Porei as minhas leis na sua mente e gravá-las-ei no seu coração. Eu serei o seu Deus e eles serão o meu povo.",
+          "text": "«Esta é a aliança que estabelecerei com a casa de Israel, depois daqueles dias» – diz o Senhor – «Porei as minhas leis na sua mente e gravá-las-ei no seu coração. Eu serei o seu Deus e eles serão o meu povo.",
           "note_refs": []
         },
         {
           "verse": 11,
-          "text": "E ninguém mais terá de ensinar o seu concidadão ou o seu irmão, dizendo: “ Conhece o Senhor!”. Porque todos me conhecerão, do mais pequeno ao maior,",
-          "note_refs": []
+          "text": "E ninguém mais terá de ensinar o seu concidadão ou o seu irmão, dizendo: “Conhece o Senhor!”. Porque todos me conhecerão, do mais pequeno ao maior,",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Lit.: até ao maior deles."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "carta-aos-hebreus-8-n13",
+              "offset": 146,
+              "original_marker": "u",
+              "source_id": 130
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "pois serei misericordioso para com as suas iniquidades e não mais me lembrarei dos seus pecados».",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Jr 31,31-34. Alguns mss. acrescentam, no final da citação, das suas iniquidades."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "carta-aos-hebreus-8-n14",
+              "offset": 96,
+              "original_marker": "v",
+              "source_id": 131
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Ao falar de «nova» aliança, Deus tornou velha a primeira. Ora, aquilo que se tornou velho e obsoleto está prestes a desaparecer.",
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Deus é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "carta-aos-hebreus-8-n15",
+              "offset": 32,
+              "original_marker": "w",
+              "source_id": 132
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Cristo, sumo sacerdote de uma nova aliança",
           "note_refs": []
         }
       ]
@@ -757,17 +2552,68 @@
         {
           "verse": 1,
           "text": "Também a primeira aliança tinha normas para o culto e um santuário terrestre.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Aliança é acrescento da tradução.",
+            "2": "O cap. 9 apresenta o santuário do deserto e os ritos antigos, em especial o da expiação anual, o Yom Kippur, como alegoria ou figura do novo culto (vv.1-10; cf. Ex 25,10-40; 26,31-34; Nm 17,16-26;18,2- 6; Lv 16,2-9.14-15). Cristo, com o seu sangue, ofereceu-se como vítima sacrificial definitiva, o único capaz de obter uma verdadeira purificação e a possibilidade da relação salvífica com Deus (vv.11-14), em virtude da sua condição divina (v.14: um Espírito eterno). Ele é o mediador da nova aliança (diathḗkē em grego tanto significa aliança como testamento) através da sua morte (vv.15-17) e do seu sangue redentor (vv.18-22; cf. Mt 26,28), prefigurado no sacrifício da aliança mosaica (Ex 24,3-8). Tendo-se oferecido de uma só vez, entrou no santuário do céu, onde intercede em nosso favor e de onde há de vir para salvação daqueles que aguardam ansiosamente por Ele (vv.23-28)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "carta-aos-hebreus-9-n1",
+              "offset": 25,
+              "original_marker": "a",
+              "source_id": 133
+            },
+            {
+              "ref": "2",
+              "id": "carta-aos-hebreus-9-n2",
+              "offset": 76,
+              "original_marker": "b",
+              "source_id": 134
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "De facto, foi construída uma tenda, a primeira, chamada «o Santo», na qual se encontrava o candelabro, a mesa, e os pães da oferenda.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Alguns mss. acrescentam [a tenda santa] das santas para harmonizar com o v.3."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "carta-aos-hebreus-9-n3",
+              "offset": 65,
+              "original_marker": "c",
+              "source_id": 135
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Atrás do segundo véu ficava a tenda chamada «santuário»,",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: [a tenda] Santa das Santas, no sentido superlativo de santíssima."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "carta-aos-hebreus-9-n4",
+              "offset": 55,
+              "original_marker": "d",
+              "source_id": 136
+            }
+          ]
         },
         {
           "verse": 4,
@@ -787,7 +2633,39 @@
         {
           "verse": 7,
           "text": "Na segunda tenda, porém, apenas entrava o sumo sacerdote, uma vez por ano, levando o sangue que oferecia por si mesmo e pelos pecados que o povo cometera por ignorância.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6",
+            "7"
+          ],
+          "notes": {
+            "5": "Tenda é acrescento da tradução.",
+            "6": "Lit.: não sem sangue.",
+            "7": "Lit.: pelas ignorâncias do povo."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "carta-aos-hebreus-9-n5",
+              "offset": 16,
+              "original_marker": "e",
+              "source_id": 137
+            },
+            {
+              "ref": "6",
+              "id": "carta-aos-hebreus-9-n6",
+              "offset": 91,
+              "original_marker": "f",
+              "source_id": 138
+            },
+            {
+              "ref": "7",
+              "id": "carta-aos-hebreus-9-n7",
+              "offset": 168,
+              "original_marker": "g",
+              "source_id": 139
+            }
+          ]
         },
         {
           "verse": 8,
@@ -797,12 +2675,40 @@
         {
           "verse": 9,
           "text": "Esta era uma espécie de prefiguração em relação ao tempo presente, no qual se continuam a oferecer dons e sacrifícios que não podem levar à perfeição, na sua consciência, aquele que exerce esse culto.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: segundo a qual [prefiguração]."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "carta-aos-hebreus-9-n8",
+              "offset": 74,
+              "original_marker": "h",
+              "source_id": 140
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "São meras normas humanas, referentes a alimentos, bebidas e abluções diversas, e que estavam em vigor apenas até ao tempo em que seriam reformadas.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: da carne (semitismo)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "carta-aos-hebreus-9-n9",
+              "offset": 24,
+              "original_marker": "i",
+              "source_id": 141
+            }
+          ]
         },
         {
           "verse": 11,
@@ -816,23 +2722,88 @@
         },
         {
           "verse": 13,
-          "text": "Pois, se o sangue de bodes e de touros e as cinzas de uma vitela, aspergidos sobre aqueles que estão impuros, os santificam, purificando-os na carne, O",
-          "note_refs": []
+          "text": "Pois, se o sangue de bodes e de touros e as cinzas de uma vitela, aspergidos sobre aqueles que estão impuros, os santificam, purificando-os na carne,",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: para a purificação da carne."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "carta-aos-hebreus-9-n10",
+              "offset": 148,
+              "original_marker": "j",
+              "source_id": 142
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "quanto mais o sangue de Cristo que, por meio do Espírito eterno, a si próprio se ofereceu imaculado a Deus purificará a nossa consciência das obras mortas, para prestarmos culto ao Deus vivo!",
-          "note_refs": []
+          "text": "quanto mais o sangue de Cristo – que, por meio do Espírito eterno, a si próprio se ofereceu imaculado a Deus – purificará a nossa consciência das obras mortas, para prestarmos culto ao Deus vivo!",
+          "note_refs": [
+            "11",
+            "12"
+          ],
+          "notes": {
+            "11": "Alguns mss. acrescentam Santo.",
+            "12": "Alguns mss. acrescentam verdadeiro."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "carta-aos-hebreus-9-n11",
+              "offset": 58,
+              "original_marker": "k",
+              "source_id": 143
+            },
+            {
+              "ref": "12",
+              "id": "carta-aos-hebreus-9-n12",
+              "offset": 194,
+              "original_marker": "l",
+              "source_id": 144
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Por isso, Ele é o mediador de uma nova aliança, para que, tendo a sua morte acontecido para redenção das transgressões cometidas durante a primeira aliança, aqueles que são chamados recebam a herança eterna prometida.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Cometidas é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "carta-aos-hebreus-9-n13",
+              "offset": 128,
+              "original_marker": "m",
+              "source_id": 145
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "Pois, quando existe um testamento, é necessário que se constate a morte do testador,",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "A palavra grega diathḗkē é a mesma para aliança (vv.15.20) e para testamento (vv.16.17)."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "carta-aos-hebreus-9-n14",
+              "offset": 33,
+              "original_marker": "n",
+              "source_id": 146
+            }
+          ]
         },
         {
           "verse": 17,
@@ -841,8 +2812,22 @@
         },
         {
           "verse": 18,
-          "text": "Por conseguinte, nem sequer a primeira aliança foi inaugurada sem derra - mamento de sangue.",
-          "note_refs": []
+          "text": "Por conseguinte, nem sequer a primeira aliança foi inaugurada sem derramamento de sangue.",
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Derramamento é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "carta-aos-hebreus-9-n15",
+              "offset": 78,
+              "original_marker": "o",
+              "source_id": 147
+            }
+          ]
         },
         {
           "verse": 19,
@@ -852,7 +2837,21 @@
         {
           "verse": 20,
           "text": "dizendo: «Este é o sangue da aliança que Deus estabeleceu convosco».",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Ex 24,8."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "carta-aos-hebreus-9-n16",
+              "offset": 67,
+              "original_marker": "p",
+              "source_id": 148
+            }
+          ]
         },
         {
           "verse": 21,
@@ -862,7 +2861,21 @@
         {
           "verse": 22,
           "text": "Com efeito, segundo a Lei, quase todas as coisas são purificadas com sangue, e sem derramamento de sangue não há perdão.",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "O AT apresenta outros meios para a remissão dos pecados: o jejum (Jl 2,12), a esmola (Dn 4,24) e o arrependimento (Sl 51,19)."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "carta-aos-hebreus-9-n17",
+              "offset": 119,
+              "original_marker": "q",
+              "source_id": 149
+            }
+          ]
         },
         {
           "verse": 23,
@@ -882,16 +2895,70 @@
         {
           "verse": 26,
           "text": "nesse caso, teria sido necessário que Cristo tivesse padecido muitas vezes desde a criação do mundo. Porém, foi agora, no fim dos tempos e de uma vez para sempre, que Ele se manifestou, a fim de destruir o pecado pelo sacrifício de si mesmo.",
-          "note_refs": []
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "Lit.: Ele."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "carta-aos-hebreus-9-n18",
+              "offset": 44,
+              "original_marker": "r",
+              "source_id": 150
+            }
+          ]
         },
         {
           "verse": 27,
           "text": "E como para os homens está estabelecido que morram uma só vez e que a seguir tenha lugar o julgamento,",
-          "note_refs": []
+          "note_refs": [
+            "19"
+          ],
+          "notes": {
+            "19": "Lit.: depois disto, porém, julgamento."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "carta-aos-hebreus-9-n19",
+              "offset": 101,
+              "original_marker": "s",
+              "source_id": 151
+            }
+          ]
         },
         {
           "verse": 28,
           "text": "assim também Cristo, depois de se ter oferecido de uma vez para sempre, a fim de tomar sobre si os pecados de muitos, aparecerá uma segunda vez, já não por causa do pecado, mas para a salvação daqueles que por Ele ansiosamente aguardam.",
+          "note_refs": [
+            "20"
+          ],
+          "notes": {
+            "20": "Lit.: àqueles que o esperam para salvação. Cf. Sir 50,5-10; alguns mss. acrescentam por meio da fé."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "carta-aos-hebreus-9-n20",
+              "offset": 235,
+              "original_marker": "t",
+              "source_id": 152
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "O culto da antiga aliança, imagem do novo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "A nova aliança selada no sangue de Cristo",
           "note_refs": []
         }
       ]
@@ -901,13 +2968,59 @@
       "verses": [
         {
           "verse": 1,
-          "text": "A Lei, de facto, por possuir apenas uma sombra dos bens futuros e não a verdadeira imagem das coisas, jamais poderá levar à perfeição aqueles que se aproxi - mam do altar com os mesmos sacrifícios que se oferecem ano após ano.",
-          "note_refs": []
+          "text": "A Lei, de facto, por possuir apenas uma sombra dos bens futuros e não a verdadeira imagem das coisas, jamais poderá levar à perfeição aqueles que se aproximam do altar com os mesmos sacrifícios que se oferecem ano após ano.",
+          "note_refs": [
+            "1",
+            "2",
+            "3"
+          ],
+          "notes": {
+            "1": "Nos vv.10,1-10, recapitulam-se as afirmações sobre a perfeição e a eficácia do sacrifício de Cristo. Os sacrifícios do templo não podem obter o perdão dos pecados (vv.1-4), pelo que é Cristo que, pela sua encarnação, cumpre a profecia messiânica do Sl 40,6-9, estabelecendo o culto perfeito (vv.5-10).",
+            "2": "Lit.: para sempre jamais.",
+            "3": "Altar é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "carta-aos-hebreus-10-n1",
+              "offset": 15,
+              "original_marker": "a",
+              "source_id": 153
+            },
+            {
+              "ref": "2",
+              "id": "carta-aos-hebreus-10-n2",
+              "offset": 108,
+              "original_marker": "b",
+              "source_id": 154
+            },
+            {
+              "ref": "3",
+              "id": "carta-aos-hebreus-10-n3",
+              "offset": 167,
+              "original_marker": "c",
+              "source_id": 155
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "De outro modo, ao ficarem purificados de uma vez para sempre, não teriam aqueles que pres - tam culto deixado de oferecer sacrifícios, se, de facto, tivessem consciência de já não ter qualquer pecado?",
-          "note_refs": []
+          "text": "De outro modo, ao ficarem purificados de uma vez para sempre, não teriam aqueles que prestam culto deixado de oferecer sacrifícios, se, de facto, tivessem consciência de já não ter qualquer pecado?",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: não teriam porventura cessado de oferecer, por ninguém ter já consciência de pecados os que prestam culto, purificados uma vez."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "carta-aos-hebreus-10-n4",
+              "offset": 197,
+              "original_marker": "d",
+              "source_id": 156
+            }
+          ]
         },
         {
           "verse": 3,
@@ -922,7 +3035,21 @@
         {
           "verse": 5,
           "text": "Por isso, ao entrar no mundo, Cristo diz: «Não quiseste sacrifícios nem oblações, mas preparaste-me um corpo.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Cristo é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "carta-aos-hebreus-10-n5",
+              "offset": 36,
+              "original_marker": "e",
+              "source_id": 157
+            }
+          ]
         },
         {
           "verse": 6,
@@ -931,18 +3058,55 @@
         },
         {
           "verse": 7,
-          "text": "Então Eu disse: “Eis que venho como está escrito no livro a meu respeito para fazer, ó Deus, a tua vontade”».",
-          "note_refs": []
+          "text": "Então Eu disse: “Eis que venho – como está escrito no livro a meu respeito – para fazer, ó Deus, a tua vontade”».",
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Lit.: na cabeça do livro, expressão que originalmente se referia ao princípio ou à parte mais importante de um livro, mas que passou a designar o livro em si.",
+            "7": "Sl 40,7-9."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "carta-aos-hebreus-10-n6",
+              "offset": 59,
+              "original_marker": "f",
+              "source_id": 158
+            },
+            {
+              "ref": "7",
+              "id": "carta-aos-hebreus-10-n7",
+              "offset": 112,
+              "original_marker": "g",
+              "source_id": 159
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Depois de ter dito: «Não quiseste e não te agradaram nem sacrifícios, nem oblações, nem holocaustos, nem vítimas pelo pecado» coisas que são oferecidas segun - do a Lei –,",
+          "text": "Depois de ter dito: «Não quiseste e não te agradaram nem sacrifícios, nem oblações, nem holocaustos, nem vítimas pelo pecado» – coisas que são oferecidas segundo a Lei –,",
           "note_refs": []
         },
         {
           "verse": 9,
           "text": "acrescenta: «Eis que venho para fazer a tua vontade». Assim aboliu o primeiro culto, para estabelecer o segundo.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Culto é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "carta-aos-hebreus-10-n8",
+              "offset": 83,
+              "original_marker": "h",
+              "source_id": 160
+            }
+          ]
         },
         {
           "verse": 10,
@@ -952,17 +3116,59 @@
         {
           "verse": 11,
           "text": "Todo o sacerdote se apresenta, dia após dia, para celebrar o culto e oferecer várias vezes os mesmos sacrifícios, que jamais poderão eliminar os pecados.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Vários mss. leem sumo sacerdote. Os vv.11-18 sublinham a razão da abolição do culto antigo: o sacrifício único e perfeito de Jesus, que perdoou os pecados de uma vez para sempre."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "carta-aos-hebreus-10-n9",
+              "offset": 16,
+              "original_marker": "i",
+              "source_id": 161
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Cristo, porém, depois de oferecer um único sacrifício pelos pecados, sentou-se para sempre à direita de Deus,",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: Este."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "carta-aos-hebreus-10-n10",
+              "offset": 6,
+              "original_marker": "j",
+              "source_id": 162
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "aguardando apenas que os seus inimigos sejam postos como estrado dos seus pés.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Sl 110,1."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "carta-aos-hebreus-10-n11",
+              "offset": 77,
+              "original_marker": "k",
+              "source_id": 163
+            }
+          ]
         },
         {
           "verse": 14,
@@ -977,22 +3183,78 @@
         {
           "verse": 16,
           "text": "«Esta é a aliança que, depois daqueles dias, estabelecerei com eles», o Senhor diz: «Porei as minhas leis nos seus corações e gravá-las-ei nas suas mentes,",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Jr 31,33."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "carta-aos-hebreus-10-n12",
+              "offset": 154,
+              "original_marker": "l",
+              "source_id": 164
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "e não mais me recordarei dos seus pecados e das suas iniquidades».",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Jr 31,34."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "carta-aos-hebreus-10-n13",
+              "offset": 65,
+              "original_marker": "m",
+              "source_id": 165
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "Ora, onde há perdão dos pecados e das iniquidades, já não há lugar para oblações pelo pecado.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Lit.: onde [há] perdão destas coisas."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "carta-aos-hebreus-10-n14",
+              "offset": 49,
+              "original_marker": "n",
+              "source_id": 166
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "Portanto, irmãos, tendo nós, graças ao sangue de Jesus, plena confiança de entrar no santuário",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Os vv.19-39 são uma exortação tripartida: 1) a avançar, seguros, pelo caminho do santuário do céu, aberto por Cristo (vv.19-25); 2) a evitar o perigo da apostasia (vv.26-31), incomparavelmente superior à transgressão da lei de Moisés, sob pena de cair no inexorável juízo de Deus; 3) a recordar a fidelidade corajosa dos primeiros tempos, sabendo que a justiça de Deus não tarda (vv.32-39)."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "carta-aos-hebreus-10-n15",
+              "offset": 8,
+              "original_marker": "o",
+              "source_id": 167
+            }
+          ]
         },
         {
           "verse": 20,
@@ -1007,7 +3269,30 @@
         {
           "verse": 22,
           "text": "aproximemo-nos com um coração sincero e cheio de fé, purificados nos nossos corações de toda a espécie de má consciência e lavados, no corpo, pela água pura.",
-          "note_refs": []
+          "note_refs": [
+            "16",
+            "17"
+          ],
+          "notes": {
+            "16": "Lit.: em plenitude de fé.",
+            "17": "Lit.: aspergindo os corações."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "carta-aos-hebreus-10-n16",
+              "offset": 51,
+              "original_marker": "p",
+              "source_id": 168
+            },
+            {
+              "ref": "17",
+              "id": "carta-aos-hebreus-10-n17",
+              "offset": 84,
+              "original_marker": "q",
+              "source_id": 169
+            }
+          ]
         },
         {
           "verse": 23,
@@ -1022,7 +3307,21 @@
         {
           "verse": 25,
           "text": "não faltemos às nossas assembleias, como é costume de alguns, mas exortemo-nos mutuamente, tanto mais quanto vos ides apercebendo de que se aproxima o dia do Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "Do Senhor é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "carta-aos-hebreus-10-n18",
+              "offset": 164,
+              "original_marker": "r",
+              "source_id": 170
+            }
+          ]
         },
         {
           "verse": 26,
@@ -1037,17 +3336,45 @@
         {
           "verse": 28,
           "text": "Quando alguém transgride a lei de Moisés, é condenado à morte sem misericórdia, com base em duas ou três testemunhas.",
-          "note_refs": []
+          "note_refs": [
+            "19"
+          ],
+          "notes": {
+            "19": "Dt 17,6."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "carta-aos-hebreus-10-n19",
+              "offset": 116,
+              "original_marker": "s",
+              "source_id": 171
+            }
+          ]
         },
         {
           "verse": 29,
-          "text": "Ora, não julgais vós que merecerá um castigo muito pior aquele que tiver calcado aos pés o Filho de Deus, que tiver tratado como pro - fano o sangue da aliança, pelo qual foi santificado, e que tiver ultrajado o Espírito da graça?",
+          "text": "Ora, não julgais vós que merecerá um castigo muito pior aquele que tiver calcado aos pés o Filho de Deus, que tiver tratado como profano o sangue da aliança, pelo qual foi santificado, e que tiver ultrajado o Espírito da graça?",
           "note_refs": []
         },
         {
           "verse": 30,
           "text": "Pois nós conhecemos Aquele que disse: «É minha a vingança; Eu darei a retribuição». E ainda: «O Senhor julgará o seu povo».",
-          "note_refs": []
+          "note_refs": [
+            "20"
+          ],
+          "notes": {
+            "20": "Dt 32,35s; Sl 134,14 (LXX)."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "carta-aos-hebreus-10-n20",
+              "offset": 122,
+              "original_marker": "t",
+              "source_id": 172
+            }
+          ]
         },
         {
           "verse": 31,
@@ -1061,7 +3388,7 @@
         },
         {
           "verse": 33,
-          "text": "ora expostos publicamente a injú - rias e a tribulações, ora tornando-vos solidários com os que assim eram tratados.",
+          "text": "ora expostos publicamente a injúrias e a tribulações, ora tornando-vos solidários com os que assim eram tratados.",
           "note_refs": []
         },
         {
@@ -1077,21 +3404,99 @@
         {
           "verse": 36,
           "text": "Com efeito, é de perseverança que tendes necessidade, para que, ao cumprirdes a vontade de Deus, possais obter aquilo que foi prometido.",
-          "note_refs": []
+          "note_refs": [
+            "21"
+          ],
+          "notes": {
+            "21": "Lit.: obter a promessa."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "carta-aos-hebreus-10-n21",
+              "offset": 135,
+              "original_marker": "a",
+              "source_id": 173
+            }
+          ]
         },
         {
           "verse": 37,
           "text": "De facto, mais um pouco, muito pouco, e Aquele que está para vir chegará e não tardará.",
-          "note_refs": []
+          "note_refs": [
+            "22"
+          ],
+          "notes": {
+            "22": "Is 26,20; Hab 2,3."
+          },
+          "note_positions": [
+            {
+              "ref": "22",
+              "id": "carta-aos-hebreus-10-n22",
+              "offset": 86,
+              "original_marker": "b",
+              "source_id": 174
+            }
+          ]
         },
         {
           "verse": 38,
           "text": "O meu justo viverá pela fé, mas, se retroceder, nele não se há de comprazer a minha alma.",
-          "note_refs": []
+          "note_refs": [
+            "23"
+          ],
+          "notes": {
+            "23": "Hab 2,4 (LXX)."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "carta-aos-hebreus-10-n23",
+              "offset": 88,
+              "original_marker": "c",
+              "source_id": 175
+            }
+          ]
         },
         {
           "verse": 39,
           "text": "Nós não somos daqueles que retrocedem para a sua perdição, mas daqueles que conservam a fé para a salvação da alma.",
+          "note_refs": [
+            "24"
+          ],
+          "notes": {
+            "24": "Lit.: nós não somos de retrocesso para perdição, mas de fé para conservação de alma."
+          },
+          "note_positions": [
+            {
+              "ref": "24",
+              "id": "carta-aos-hebreus-10-n24",
+              "offset": 114,
+              "original_marker": "d",
+              "source_id": 176
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A ineficácia dos sacrifícios antigos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Eficácia do sacrifício de Cristo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 19,
+          "text": "A PERSEVERANÇA NA FÉ (10,19 – 13,19)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 19,
+          "text": "Apelo à perseverança no caminho da fé",
           "note_refs": []
         }
       ]
@@ -1102,17 +3507,59 @@
         {
           "verse": 1,
           "text": "A fé é o fundamento daquilo que se espera e a certeza das realidades que não se veem.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Depois do louvor à fé dos destinatários (10,39), e da descrição da relação desta com as promessas divinas, cujo cumprimento se aguarda na esperança (v.1), passa-se ao elogio da fé dos antepassados, fundamentando o que antes se afirmou (vv.2-38). No entanto, a plenitude da promessa apenas se cumpriu em Cristo, pelo que os cristãos tiveram melhor ventura do que os antigos, já que estes não puderam alcançar a perfeição antes dos cristãos e sem eles (vv.39s)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "carta-aos-hebreus-11-n1",
+              "offset": 84,
+              "original_marker": "e",
+              "source_id": 177
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Foi nela, de facto, que os nossos antepassados receberam o testemunho.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: os anciãos."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "carta-aos-hebreus-11-n2",
+              "offset": 46,
+              "original_marker": "f",
+              "source_id": 178
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Pela fé, sabemos que o universo foi formado pela palavra de Deus e que aquilo que é visível proveio do que é invisível.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Cf. 1,2."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "carta-aos-hebreus-11-n3",
+              "offset": 31,
+              "original_marker": "g",
+              "source_id": 179
+            }
+          ]
         },
         {
           "verse": 4,
@@ -1122,7 +3569,21 @@
         {
           "verse": 5,
           "text": "Pela fé, Henoc foi arrebatado, para não ver a morte, e não mais foi encontrado, porque Deus o arrebatou; antes de ser arrebatado, recebeu o testemunho de que tinha agradado a Deus.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Gn 5,24 (LXX)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "carta-aos-hebreus-11-n4",
+              "offset": 179,
+              "original_marker": "h",
+              "source_id": 180
+            }
+          ]
         },
         {
           "verse": 6,
@@ -1131,12 +3592,35 @@
         },
         {
           "verse": 7,
-          "text": "Pela fé, Noé, prevenido por Deus acerca daquilo que ainda não era visível, cons - truiu, com reverente temor, uma arca para salvar a sua família; pela sua fé, condenou o mundo e tornou-se herdeiro da justificação que se obtém pela fé.",
-          "note_refs": []
+          "text": "Pela fé, Noé, prevenido por Deus acerca daquilo que ainda não era visível, construiu, com reverente temor, uma arca para salvar a sua família; pela sua fé, condenou o mundo e tornou-se herdeiro da justificação que se obtém pela fé.",
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "A fé de Noé condenou o mundo, no sentido em que evidenciou a incredulidade dos seus contemporâneos, que os levou à destruição.",
+            "6": "Lit.: da justiça segundo a fé. Para o conceito de justiça/justificação, cf. Rm 1,17 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "carta-aos-hebreus-11-n5",
+              "offset": 172,
+              "original_marker": "i",
+              "source_id": 181
+            },
+            {
+              "ref": "6",
+              "id": "carta-aos-hebreus-11-n6",
+              "offset": 230,
+              "original_marker": "j",
+              "source_id": 182
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Pela fé, Abraão, quando foi chamado, obedeceu e partiu para um lugar que have - ria de receber como herança; e partiu sem saber para onde ia.",
+          "text": "Pela fé, Abraão, quando foi chamado, obedeceu e partiu para um lugar que haveria de receber como herança; e partiu sem saber para onde ia.",
           "note_refs": []
         },
         {
@@ -1147,22 +3631,73 @@
         {
           "verse": 10,
           "text": "pois esperava a cidade bem alicerçada, cujo arquiteto e construtor é Deus.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: a cidade que tem alicerces."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "carta-aos-hebreus-11-n7",
+              "offset": 37,
+              "original_marker": "k",
+              "source_id": 183
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "Pela fé, também a Sara, embora estéril e já passada a idade, lhe foi dada a possibi - lidade de dar início a uma descendência, por ter considerado digno de fé quem lho tinha prometido.",
+          "text": "Pela fé, também a Sara, embora estéril e já passada a idade, lhe foi dada a possibilidade de dar início a uma descendência, por ter considerado digno de fé quem lho tinha prometido.",
           "note_refs": []
         },
         {
           "verse": 12,
-          "text": "E foi por isso que de um só homem e que já estava próximo da morte nasceram descendentes tão numerosos como as estrelas do céu e como a incontável areia da praia do mar.",
-          "note_refs": []
+          "text": "E foi por isso que de um só homem – e que já estava próximo da morte – nasceram descendentes tão numerosos como as estrelas do céu e como a incontável areia da praia do mar.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Gn 22,17; 15,5."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "carta-aos-hebreus-11-n8",
+              "offset": 172,
+              "original_marker": "l",
+              "source_id": 184
+            }
+          ]
         },
         {
           "verse": 13,
-          "text": "Foi na fé que todos estes morreram, sem terem obtido o que fora prometido. Mas, vendo e saudando ao longe tais promessas, confessaram que eram estrangei - ros e peregrinos sobre a terra.",
-          "note_refs": []
+          "text": "Foi na fé que todos estes morreram, sem terem obtido o que fora prometido. Mas, vendo e saudando ao longe tais promessas, confessaram que eram estrangeiros e peregrinos sobre a terra.",
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "Lit.: não tomando as promessas.",
+            "10": "Tais promessas é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "carta-aos-hebreus-11-n9",
+              "offset": 73,
+              "original_marker": "m",
+              "source_id": 185
+            },
+            {
+              "ref": "10",
+              "id": "carta-aos-hebreus-11-n10",
+              "offset": 120,
+              "original_marker": "n",
+              "source_id": 186
+            }
+          ]
         },
         {
           "verse": 14,
@@ -1181,18 +3716,46 @@
         },
         {
           "verse": 17,
-          "text": "Pela fé, Abraão, posto à prova, ofereceu Isaac; ele, que tinha recebido as promes - sas, estava pronto para oferecer o seu filho único,",
+          "text": "Pela fé, Abraão, posto à prova, ofereceu Isaac; ele, que tinha recebido as promessas, estava pronto para oferecer o seu filho único,",
           "note_refs": []
         },
         {
           "verse": 18,
           "text": "acerca do qual tinha sido dito: «Por Isaac terás uma descendência com o teu nome».",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Gn 21,12 (LXX)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "carta-aos-hebreus-11-n11",
+              "offset": 81,
+              "original_marker": "o",
+              "source_id": 187
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "Ele considerava que Deus tinha poder até de ressuscitar os mortos; por isso, numa espécie de prefiguração, recuperou o filho.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "O sacrifício de Isaac é visto como uma referência tipológica à ressurreição de Jesus."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "carta-aos-hebreus-11-n12",
+              "offset": 105,
+              "original_marker": "p",
+              "source_id": 188
+            }
+          ]
         },
         {
           "verse": 20,
@@ -1202,17 +3765,59 @@
         {
           "verse": 21,
           "text": "Pela fé, Jacob, estando a morrer, abençoou cada um dos filhos de José e prostrou- -se apoiado na extremidade do seu bastão.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Gn 47,31 (LXX)."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "carta-aos-hebreus-11-n13",
+              "offset": 122,
+              "original_marker": "q",
+              "source_id": 189
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "Pela fé, José, no fim da vida, recordou o êxodo dos filhos de Israel e deu instruções acerca dos seus restos mortais.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Lit.: acerca dos ossos dele."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "carta-aos-hebreus-11-n14",
+              "offset": 116,
+              "original_marker": "r",
+              "source_id": 190
+            }
+          ]
         },
         {
           "verse": 23,
           "text": "Pela fé, Moisés, recém-nascido, foi escondido pelos seus pais durante três meses, porque viram que o menino era belo e não tiveram medo do decreto do rei.",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Alguns mss. acrescentam pela fé, Moisés, quando cresceu, destruiu o Egito ao aperceber-se da humilhação dos seus irmãos."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "carta-aos-hebreus-11-n15",
+              "offset": 153,
+              "original_marker": "a",
+              "source_id": 191
+            }
+          ]
         },
         {
           "verse": 24,
@@ -1227,7 +3832,21 @@
         {
           "verse": 26,
           "text": "Ele considerou a injúria sofrida por Cristo uma riqueza maior do que os tesouros do Egito, pois tinha os olhos postos na recompensa.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Referência ao Sl 89,51s, em que cristo (ungido) indica o povo de Israel consagrado a Deus (Ex 19,6), e a injúria evoca as humilhações por ele sofridas. O autor aplica esta passagem a Jesus."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "carta-aos-hebreus-11-n16",
+              "offset": 43,
+              "original_marker": "b",
+              "source_id": 192
+            }
+          ]
         },
         {
           "verse": 27,
@@ -1236,13 +3855,59 @@
         },
         {
           "verse": 28,
-          "text": "Pela fé, celebrou a Páscoa e fez a aspersão do sangue para que o anjo extermina - dor não ferisse os primogénitos de Israel.",
-          "note_refs": []
+          "text": "Pela fé, celebrou a Páscoa e fez a aspersão do sangue para que o anjo exterminador não ferisse os primogénitos de Israel.",
+          "note_refs": [
+            "17",
+            "18",
+            "19"
+          ],
+          "notes": {
+            "17": "Lit.: fez.",
+            "18": "Anjo é acrescento da tradução. Cf. 1Cor 10,10 nota.",
+            "19": "De Israel é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "carta-aos-hebreus-11-n17",
+              "offset": 17,
+              "original_marker": "c",
+              "source_id": 193
+            },
+            {
+              "ref": "18",
+              "id": "carta-aos-hebreus-11-n18",
+              "offset": 82,
+              "original_marker": "d",
+              "source_id": 194
+            },
+            {
+              "ref": "19",
+              "id": "carta-aos-hebreus-11-n19",
+              "offset": 120,
+              "original_marker": "e",
+              "source_id": 195
+            }
+          ]
         },
         {
           "verse": 29,
           "text": "Pela fé, atravessaram o Mar Vermelho, como se fosse terra seca, enquanto os egípcios foram engolidos pelas águas, quando o tentaram fazer.",
-          "note_refs": []
+          "note_refs": [
+            "20"
+          ],
+          "notes": {
+            "20": "Pelas águas é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "carta-aos-hebreus-11-n20",
+              "offset": 137,
+              "original_marker": "f",
+              "source_id": 196
+            }
+          ]
         },
         {
           "verse": 30,
@@ -1251,7 +3916,7 @@
         },
         {
           "verse": 31,
-          "text": "Pela fé, Raab, a prostituta, não morreu com os incrédulos, por ter acolhido paci - ficamente os exploradores.",
+          "text": "Pela fé, Raab, a prostituta, não morreu com os incrédulos, por ter acolhido pacificamente os exploradores.",
           "note_refs": []
         },
         {
@@ -1261,8 +3926,22 @@
         },
         {
           "verse": 33,
-          "text": "Por meio da fé, eles conquistaram reinos, exerceram a justiça, obtiveram o que lhes foi pro - metido, fecharam a boca de leões,",
-          "note_refs": []
+          "text": "Por meio da fé, eles conquistaram reinos, exerceram a justiça, obtiveram o que lhes foi prometido, fecharam a boca de leões,",
+          "note_refs": [
+            "21"
+          ],
+          "notes": {
+            "21": "Lit.: obtiveram as promessas."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "carta-aos-hebreus-11-n21",
+              "offset": 97,
+              "original_marker": "g",
+              "source_id": 197
+            }
+          ]
         },
         {
           "verse": 34,
@@ -1282,7 +3961,21 @@
         {
           "verse": 37,
           "text": "foram apedrejados, serrados, mortos à espada, andaram errantes, cobertos de peles de ovelha e de cabra, desprovidos de tudo, atribulados, maltratados.",
-          "note_refs": []
+          "note_refs": [
+            "22"
+          ],
+          "notes": {
+            "22": "Lit.: morreram no assassínio da espada."
+          },
+          "note_positions": [
+            {
+              "ref": "22",
+              "id": "carta-aos-hebreus-11-n22",
+              "offset": 44,
+              "original_marker": "h",
+              "source_id": 198
+            }
+          ]
         },
         {
           "verse": 38,
@@ -1292,11 +3985,46 @@
         {
           "verse": 39,
           "text": "E todos eles, apesar de terem recebido um bom testemunho por meio da fé, não obtiveram o que tinha sido prometido,",
-          "note_refs": []
+          "note_refs": [
+            "23"
+          ],
+          "notes": {
+            "23": "Lit.: não receberam a promessa."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "carta-aos-hebreus-11-n23",
+              "offset": 113,
+              "original_marker": "i",
+              "source_id": 199
+            }
+          ]
         },
         {
           "verse": 40,
           "text": "e isto porque Deus tinha previsto para nós um destino melhor, pelo que eles não deviam chegar sem nós à perfeição.",
+          "note_refs": [
+            "24"
+          ],
+          "notes": {
+            "24": "Texto de difícil interpretação, cujo sentido parece ser este: apesar da extraordinária fé demonstrada em tão duras circunstâncias, nenhum dos antigos teve a felicidade de ver o cumprimento das promessas messiânicas, embora viesse a beneficiar delas juntamente com os cristãos."
+          },
+          "note_positions": [
+            {
+              "ref": "24",
+              "id": "carta-aos-hebreus-11-n24",
+              "offset": 113,
+              "original_marker": "j",
+              "source_id": 200
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Louvor da fé dos antigos",
           "note_refs": []
         }
       ]
@@ -1307,12 +4035,40 @@
         {
           "verse": 1,
           "text": "Assim sendo, estando envolvidos por uma tal nuvem de testemunhas, corramos também nós com perseverança a prova que nos é proposta, pondo de parte tudo aquilo que nos estorva e o pecado que tão facilmente nos assedia,",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Nos vv.1-13, apresenta-se o caminho da fé como uma corrida – imagem desportiva usada também por Paulo (cf. 1Cor 9,24-27; Flp 3,12-14; 1Tm 6,12; 2Tm 2,5; 4,7). Nela importa sobretudo pôr os olhos no exemplo de Cristo, que tudo suportou até à glorificação (vv.1-4; cf. Flp 2,6-11; Heb 2,10). Os sofrimentos que Deus permite (vv.5s) devem ser vistos, no enquadramento do AT, como uma correção paterna (vv.7-13; cf. Jb 5,17-18; Pr 3,11s; 23,13s; Sb 3,5; 2Mac 6,12-16)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "carta-aos-hebreus-12-n1",
+              "offset": 11,
+              "original_marker": "k",
+              "source_id": 201
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "e colocando o olhar em Jesus, que é a origem da nossa fé e quem leva à perfeição. Renunciando à alegria que tinha ao seu alcance, Ele suportou a cruz, desprezando a ignomínia a que foi sujeito, e está sentado à direita do trono de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: em vez da alegria que estava diante dele."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "carta-aos-hebreus-12-n2",
+              "offset": 128,
+              "original_marker": "l",
+              "source_id": 202
+            }
+          ]
         },
         {
           "verse": 3,
@@ -1332,7 +4088,30 @@
         {
           "verse": 6,
           "text": "pois o Senhor corrige aquele a quem ama, e disciplina todo aquele que reconhece como filho».",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Lit.: chicoteia.",
+            "4": "Pr 3,11s (LXX)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "carta-aos-hebreus-12-n3",
+              "offset": 53,
+              "original_marker": "m",
+              "source_id": 203
+            },
+            {
+              "ref": "4",
+              "id": "carta-aos-hebreus-12-n4",
+              "offset": 91,
+              "original_marker": "n",
+              "source_id": 204
+            }
+          ]
         },
         {
           "verse": 7,
@@ -1341,18 +4120,46 @@
         },
         {
           "verse": 8,
-          "text": "Se, pelo contrário, ficais excluídos daquela cor - reção de que todos tomam parte, então é porque sois bastardos e não filhos.",
+          "text": "Se, pelo contrário, ficais excluídos daquela correção de que todos tomam parte, então é porque sois bastardos e não filhos.",
           "note_refs": []
         },
         {
           "verse": 9,
           "text": "Além disso, tivemos os nossos pais terrenos, que nos corrigiam e a quem respeitávamos; não haveríamos de nos submeter, com muito mais razão, ao Pai dos espíritos, para termos a vida?",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: segundo a carne."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "carta-aos-hebreus-12-n5",
+              "offset": 43,
+              "original_marker": "o",
+              "source_id": 205
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "Os nossos pais, com efeito, corrigiam-nos por pouco tempo e con - forme entendiam, ao passo que Ele o faz, tendo em conta o que nos convém, a fim de podermos participar da sua santidade.",
-          "note_refs": []
+          "text": "Os nossos pais, com efeito, corrigiam-nos por pouco tempo e conforme entendiam, ao passo que Ele o faz, tendo em conta o que nos convém, a fim de podermos participar da sua santidade.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: eles."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "carta-aos-hebreus-12-n6",
+              "offset": 14,
+              "original_marker": "p",
+              "source_id": 206
+            }
+          ]
         },
         {
           "verse": 11,
@@ -1362,32 +4169,116 @@
         {
           "verse": 12,
           "text": "Por isso, fortalecei as vossas mãos inertes e os vossos joelhos vacilantes,",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Is 35,3; Jb 4,3s."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "carta-aos-hebreus-12-n7",
+              "offset": 74,
+              "original_marker": "a",
+              "source_id": 207
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "e fazei caminhos retos para os vossos pés, para que o coxo não coxeie mais, mas antes seja curado.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Pr 4,26 (LXX)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "carta-aos-hebreus-12-n8",
+              "offset": 41,
+              "original_marker": "b",
+              "source_id": 208
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Procurai a paz com todos e a santificação, sem a qual ninguém verá o Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Os vv.14-17 apresentam uma exortação à santificação (v.14), por contraposição ao exemplo de Esaú (vv.15-17; cf. Gn 25,24-34; 27,30-40), sem a nostalgia da antiga aliança do Sinai, baseada numa experiência, terrível e assustadora, da majestade esmagadora do Senhor (vv.18-21; cf. Ex 19,12-13; 20,18- 21; Dt 9,19). Pelo contrário, a experiência cristã é a da proximidade de Deus e da intimidade com Ele (vv.22-24), o que implica um constante acolhimento da sua Palavra (v.25) que, transformando todas as coisas, as fez entrar nos tempos escatológicos, nos quais o cristão já participa (vv.26-29)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "carta-aos-hebreus-12-n9",
+              "offset": 75,
+              "original_marker": "c",
+              "source_id": 209
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "Estai vigilantes, para que ninguém fique sem a graça de Deus, e para que nenhu - ma raiz venenosa venha a brotar e a causar dano, fazendo com que muitos sejam contaminados por ela.",
-          "note_refs": []
+          "text": "Estai vigilantes, para que ninguém fique sem a graça de Deus, e para que nenhuma raiz venenosa venha a brotar e a causar dano, fazendo com que muitos sejam contaminados por ela.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: amarga."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "carta-aos-hebreus-12-n10",
+              "offset": 94,
+              "original_marker": "d",
+              "source_id": 210
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "Estai também vigilantes para que ninguém seja promíscuo ou profanador, como Esaú, que por um prato de comida vendeu os seus direitos de primogénito.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: e também para que."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "carta-aos-hebreus-12-n11",
+              "offset": 23,
+              "original_marker": "e",
+              "source_id": 211
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Bem sabeis que mais tarde, quando ele quis receber a bênção em herança, apesar de a ter procurado em lágrimas, foi rejeitado, por não ser possível reverter a situação.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: lugar de mudança (metánoia)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "carta-aos-hebreus-12-n12",
+              "offset": 166,
+              "original_marker": "f",
+              "source_id": 212
+            }
+          ]
         },
         {
           "verse": 18,
@@ -1397,17 +4288,59 @@
         {
           "verse": 19,
           "text": "nem do som da trombeta, nem daquela voz a quem os ouvintes suplicaram que não lhes falasse mais,",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "O grego acrescenta de palavras."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "carta-aos-hebreus-12-n13",
+              "offset": 39,
+              "original_marker": "g",
+              "source_id": 213
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "pois não podiam suportar o que lhes era ordenado: «Até um animal, se tocar a montanha, será apedrejado».",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Ex 19,13."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "carta-aos-hebreus-12-n14",
+              "offset": 103,
+              "original_marker": "h",
+              "source_id": 214
+            }
+          ]
         },
         {
           "verse": 21,
           "text": "E aquilo que se via era tão aterrador, que Moisés exclamou: «Estou apavorado e a tremer».",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Dt 9,19."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "carta-aos-hebreus-12-n15",
+              "offset": 76,
+              "original_marker": "i",
+              "source_id": 215
+            }
+          ]
         },
         {
           "verse": 22,
@@ -1422,22 +4355,105 @@
         {
           "verse": 24,
           "text": "de Jesus, mediador de uma nova aliança, e do sangue de aspersão, que fala mais eloquentemente do que o sangue de Abel.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Lit.: melhor falante do que o de Abel."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "carta-aos-hebreus-12-n16",
+              "offset": 117,
+              "original_marker": "j",
+              "source_id": 216
+            }
+          ]
         },
         {
           "verse": 25,
           "text": "Tende cuidado para não rejeitardes Aquele que vos fala; pois se aqueles não escaparam ao castigo, por terem rejeitado quem lhes transmitia os oráculos na terra, quanto menos escaparemos nós, se voltarmos as costas Àquele que dos céus nos fala,",
-          "note_refs": []
+          "note_refs": [
+            "17",
+            "18"
+          ],
+          "notes": {
+            "17": "Ao castigo é acrescento da tradução.",
+            "18": "Escaparemos é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "carta-aos-hebreus-12-n17",
+              "offset": 96,
+              "original_marker": "k",
+              "source_id": 217
+            },
+            {
+              "ref": "18",
+              "id": "carta-aos-hebreus-12-n18",
+              "offset": 185,
+              "original_marker": "l",
+              "source_id": 218
+            }
+          ]
         },
         {
           "verse": 26,
           "text": "cuja voz outrora abalou a terra, e que agora faz esta promessa: «Eu farei tremer uma vez mais não só a terra, mas também o céu».",
-          "note_refs": []
+          "note_refs": [
+            "19",
+            "20"
+          ],
+          "notes": {
+            "19": "O grego acrescenta dizendo.",
+            "20": "Ag 2,6."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "carta-aos-hebreus-12-n19",
+              "offset": 62,
+              "original_marker": "m",
+              "source_id": 219
+            },
+            {
+              "ref": "20",
+              "id": "carta-aos-hebreus-12-n20",
+              "offset": 127,
+              "original_marker": "n",
+              "source_id": 220
+            }
+          ]
         },
         {
           "verse": 27,
           "text": "Esta expressão «uma vez mais» indica a transformação de tudo o que participa da instabilidade do mundo criado, para que permaneça o que é estável.",
-          "note_refs": []
+          "note_refs": [
+            "21",
+            "22"
+          ],
+          "notes": {
+            "21": "Expressão é acrescento da tradução.",
+            "22": "Lit.: indica a transposição das coisas abaladas, como feitas, para que permaneçam as não abaladas."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "carta-aos-hebreus-12-n21",
+              "offset": 14,
+              "original_marker": "o",
+              "source_id": 221
+            },
+            {
+              "ref": "22",
+              "id": "carta-aos-hebreus-12-n22",
+              "offset": 145,
+              "original_marker": "p",
+              "source_id": 222
+            }
+          ]
         },
         {
           "verse": 28,
@@ -1447,6 +4463,32 @@
         {
           "verse": 29,
           "text": "pois o nosso Deus é um fogo devorador.",
+          "note_refs": [
+            "23"
+          ],
+          "notes": {
+            "23": "Dt 4,24; Is 33,14."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "carta-aos-hebreus-12-n23",
+              "offset": 37,
+              "original_marker": "q",
+              "source_id": 223
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "O exemplo de Jesus",
+          "note_refs": []
+        },
+        {
+          "before_verse": 14,
+          "text": "Procurar a santificação",
           "note_refs": []
         }
       ]
@@ -1457,7 +4499,21 @@
         {
           "verse": 1,
           "text": "Que permaneça o amor fraterno!",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Nos vv.1-19 tem lugar uma série de exortações finais que concretizam o culto agradável a Deus que acaba de ser proposto (v.12,28): o amor fraterno (vv.1-3), a castidade (v.4), o desapego dos bens e a confiança na providência divina (v.5-7), a fidelidade ao anúncio recebido (vv.8s) e ao culto estabelecido por Jesus (vv.10-16), o que é garantido pela obediência aos responsáveis da comunidade (v.17). O autor termina afirmando a sua convicção naquilo que acaba de explanar e pedindo a oração da comunidade (vv.18s)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "carta-aos-hebreus-13-n1",
+              "offset": 29,
+              "original_marker": "r",
+              "source_id": 224
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1467,7 +4523,21 @@
         {
           "verse": 3,
           "text": "Recordai-vos dos prisioneiros, como se estivésseis presos com eles, e dos que são maltratados, pois também vós tendes um corpo.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: [vós] próprios sendo num corpo."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "carta-aos-hebreus-13-n2",
+              "offset": 126,
+              "original_marker": "s",
+              "source_id": 225
+            }
+          ]
         },
         {
           "verse": 4,
@@ -1476,13 +4546,59 @@
         },
         {
           "verse": 5,
-          "text": "Que não seja o amor ao dinheiro a guiar a vossa conduta; contentai-vos com o que tendes. Pois Deus disse: «Jamais te deixarei, jamais te abandonarei!».",
-          "note_refs": []
+          "text": "Que não seja o amor ao dinheiro a guiar a vossa conduta; contentai-vos com o que tendes. Pois Deus disse: «Jamais te deixarei, jamais te abandonarei! ».",
+          "note_refs": [
+            "3",
+            "4",
+            "5"
+          ],
+          "notes": {
+            "3": "Lit.: sem amor ao dinheiro [seja a vossa] conduta.",
+            "4": "Lit.: Ele.",
+            "5": "Dt 31,6.8."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "carta-aos-hebreus-13-n3",
+              "offset": 55,
+              "original_marker": "t",
+              "source_id": 226
+            },
+            {
+              "ref": "4",
+              "id": "carta-aos-hebreus-13-n4",
+              "offset": 98,
+              "original_marker": "u",
+              "source_id": 227
+            },
+            {
+              "ref": "5",
+              "id": "carta-aos-hebreus-13-n5",
+              "offset": 150,
+              "original_marker": "v",
+              "source_id": 228
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Assim, confiantes, poderemos dizer: «O Senhor é o meu auxílio, nada temerei; que poderão fazer-me os homens?»",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Sl 117,6 (LXX)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "carta-aos-hebreus-13-n6",
+              "offset": 108,
+              "original_marker": "w",
+              "source_id": 229
+            }
+          ]
         },
         {
           "verse": 7,
@@ -1496,28 +4612,98 @@
         },
         {
           "verse": 9,
-          "text": "Não vos deixeis levar por ensinamentos dife - rentes e estranhos, pois o que é bom é fortalecer o coração com a graça e não com normas sobre os alimentos, que em nada aproveitaram àqueles que as observaram.",
-          "note_refs": []
+          "text": "Não vos deixeis levar por ensinamentos diferentes e estranhos, pois o que é bom é fortalecer o coração com a graça e não com normas sobre os alimentos, que em nada aproveitaram àqueles que as observaram.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: e não com alimentos, com os quais não foram ajudados os que caminhavam; referência às regras sobre os alimentos impuros, problema muito sentido nas comunidades cristãs de origem judaica (cf. Gl 2,11-14; 1Cor 8,1-13; 10,14-31; Rm 14; Cl 2,16-23; 1Tm 4,3-5). Já em 9,9s esta questão tinha sido colocada no contexto do culto sacrificial antigo."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "carta-aos-hebreus-13-n7",
+              "offset": 202,
+              "original_marker": "x",
+              "source_id": 230
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Nós temos um altar, do qual não têm direito a comer aqueles que prestam culto na tenda da antiga Lei.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Da antiga Lei é acrescento da tradução. Referência à tenda do encontro (cf. 8,2 nota)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "carta-aos-hebreus-13-n8",
+              "offset": 100,
+              "original_marker": "y",
+              "source_id": 231
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "Com efeito, os corpos dos animais, cujo sangue é levado O pelo sumo sacerdote ao santuário para a expiação dos pecados, são queimados fora do acampamento.",
-          "note_refs": []
+          "text": "Com efeito, os corpos dos animais, cujo sangue é levado pelo sumo sacerdote ao santuário para a expiação dos pecados, são queimados fora do acampamento.",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: para os pecados."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "carta-aos-hebreus-13-n9",
+              "offset": 116,
+              "original_marker": "a",
+              "source_id": 232
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Por isso, também Jesus, para santificar o povo por meio do seu próprio sangue, padeceu fora das portas da cidade.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Da cidade é acrescento da tradução. Evoca-se o ritual do Yom Kippur, no qual, depois de o sumo sacerdote aspergir com o sangue das vítimas o Santo dos Santos, o corpo destas era levado para fora da cidade e queimado (Lv 16,27). Jesus, por sua vez, também levado para fora da cidade, é aí sacrificado, santificando o povo com o seu sangue. Por isso, o verdadeiro culto acontece já não no templo, mas no santuário celeste, cujo caminho foi aberto por Jesus e onde Ele se encontra (v.13s)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "carta-aos-hebreus-13-n10",
+              "offset": 112,
+              "original_marker": "b",
+              "source_id": 233
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Por conseguinte, saiamos ao seu encontro, para fora do acampamento, carregando a injúria que Ele sofreu,",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: levando o insulto dele."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "carta-aos-hebreus-13-n11",
+              "offset": 103,
+              "original_marker": "c",
+              "source_id": 234
+            }
+          ]
         },
         {
           "verse": 14,
@@ -1552,7 +4738,21 @@
         {
           "verse": 20,
           "text": "O Deus da paz, que ressuscitou dos mortos Aquele que, pelo sangue de uma aliança eterna, é o grande pastor das ovelhas, nosso Senhor Jesus,",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Ou o Deus da paz que, pelo sangue de uma aliança eterna, ressuscitou dos mortos o grande pastor de ovelhas, nosso Senhor Jesus... Alguns mss. apresentam nosso Senhor Jesus Cristo."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "carta-aos-hebreus-13-n12",
+              "offset": 138,
+              "original_marker": "d",
+              "source_id": 235
+            }
+          ]
         },
         {
           "verse": 21,
@@ -1562,7 +4762,21 @@
         {
           "verse": 22,
           "text": "Peço-vos, irmãos, que aceiteis esta palavra de exortação, que de forma sucinta vos dirigi.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Em grego, o mesmo verbo do v.19 (exorto-vos)."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "carta-aos-hebreus-13-n13",
+              "offset": 8,
+              "original_marker": "e",
+              "source_id": 236
+            }
+          ]
         },
         {
           "verse": 23,
@@ -1572,11 +4786,42 @@
         {
           "verse": 24,
           "text": "Saudai todos aqueles que vos guiam e todos os santos. Os da Itália saúdam-vos.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "I.e. os batizados."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "carta-aos-hebreus-13-n14",
+              "offset": 52,
+              "original_marker": "f",
+              "source_id": 237
+            }
+          ]
         },
         {
           "verse": 25,
           "text": "A graça esteja com todos vós.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Exortações finais",
+          "note_refs": []
+        },
+        {
+          "before_verse": 20,
+          "text": "EPÍLOGO (13,20-25)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 20,
+          "text": "Bênção e saudação final",
           "note_refs": []
         }
       ]

@@ -343,7 +343,7 @@
 
 <script>
 'use strict';
-const APP_VERSION='5.01';
+const APP_VERSION='5.02';
 const APP_COMMIT_DATE='outubro 2026';
 const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{},book:''},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all',noteItems:new Map(),noteCounter:0,lastNoteFocus:null,activeNote:null};
 applyFontScale();
@@ -393,7 +393,7 @@ const CANON=[
   {id:'NT',label:'Novo Testamento',groups:[
     {id:'evangelhos',label:'Evangelhos',books:['Mateus','Marcos','Lucas','João']},
     {id:'atos',label:'Atos',books:['Atos dos Apóstolos']},
-    {id:'cartas-paulinas',label:'Cartas Paulinas',books:['Romanos','1 Coríntios','2 Coríntios','Gálatas','Efésios','Filipenses','Colossenses','1 Tessalonicenses','2 Tessalonicenses','1 Timóteo','2 Timóteo','Tito','Filémon','Hebreus']},
+    {id:'cartas-paulinas',label:'Cartas Paulinas',books:['Romanos','1 Coríntios','2 Coríntios','Gálatas','Efésios','Filipenses','Colossenses','1 Tessalonicenses','2 Tessalonicenses','1 Timóteo','2 Timóteo','Tito','Filémon','Carta aos Hebreus']},
     {id:'cartas-catolicas',label:'Cartas Católicas',books:['Tiago','1 Pedro','2 Pedro','1 João','2 João','3 João','Judas']},
     {id:'apocalipse',label:'Apocalipse',books:['Apocalipse']}
   ]}

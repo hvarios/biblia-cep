@@ -1,5 +1,48 @@
 {
+  "schema_version": 2,
   "book": "Colossenses",
+  "book_id": "cl",
+  "source": {
+    "format": "docx",
+    "file": "58_Cl.docx",
+    "title": "Carta aos Colossenses"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": null,
+        "paragraphs": [
+          "Colossos era uma pequena cidade, situada no sul da antiga Frígia, na Ásia Menor, relativamente próxima de Laodiceia e Hierápolis. Em tempos, terá sido uma cidade rica e com uma população considerável, o que já não era o caso nos tempos de Paulo. A comunidade cristã aí existente não foi fundada pelo apóstolo, nem era conhecida pessoalmente por ele (cf. 2,1). A evangelização da cidade terá sido levada a cabo por Εpafras, um dos seus discípulos, natural de Colossos (cf. 4,12). A maior parte dos membros desta comunidade provinha do paganismo (cf. 1,21.26s; 2,13), embora provavelmente houvesse também cristãos de origem judaica. De Colossos eram também naturais Filémon – a quem o apóstolo dirigiu uma brevíssima missiva – e Arquipo (4,17)."
+        ]
+      },
+      {
+        "title": "Autor, datação e relação com a carta aos Efésios",
+        "paragraphs": [
+          "A carta pertence ao grupo dos escritos atribuídos a Paulo sobre os quais não há certeza se foram redigidos diretamente por ele ou, numa época mais tardia, por algum dos seus discípulos (as chamadas deuteropaulinas: Ef, Cl, 2Ts; e as tritopaulinas ou cartas pastorais: 1-2Tm, Tt). Certos elementos linguísticos e temáticos distanciam-se das cartas sobre as quais não há dúvida de terem sido redigidas por Paulo (as chamadas protopaulinas: Rm, 1-2Cor; Gl, Flp, 1Ts, Flm). Contudo, os traços essenciais da carta estão perfeitamente em linha com o pensamento do apóstolo.",
+          "Na hipótese de ter sido redigida, em parte, por Paulo, tal deve ter acontecido durante o seu cativeiro (4,3.10.18), na parte final do seu ministério, por volta do ano 64 d.C. Numa outra hipótese, terá sido escrita após o martírio de Paulo, numa fase mais tardia da comunidade primitiva, quando os problemas causados por doutrinas heterodoxas também se começaram a sentir na comunidade de Éfeso, a quem é escrita uma carta (Ef), bastante próxima desta, no tempo e no conteúdo, cuja autoria também é atribuída ao apóstolo. De facto, esta proximidade deteta-se na partilha dos seguintes temas entre os dois textos: o mistério (Cl 1,26s; 2,2; 4,3; Ef 1,9; 3,3-9; 5,32; 6,19); Cristo sentado à direita de Deus (Cl 3,1; Ef 1,20); os crentes ressuscitados com Cristo à direita de Deus (Cl 2,12; 3,1; Ef 2,5-6); Cristo cabeça da Igreja (Cl 1,18; Ef 1,22; 4,15; 5,23); a Igreja como corpo de Cristo (Cl 1,18-24; 2,19; Ef 1,23; 4,12.16; 5,23.30); a pacificação pelo sangue de Cristo (Cl 1,20; Ef 2,14-15); o tema da plenitude (Cl 1,19; Ef 1,10; 4,13); a oposição entre o passado anterior à conversão e a atual vida em Cristo (Cl 1,22s; 3,7s; Ef 2,1-3.11-13); os códigos domésticos (Cl 3,18-4,1; Ef 5,22-6,9); insistência no conhecimento e sabedoria dos crentes (Cl 1,9.27; 2,8; 3,10.16; Ef 1,8-9.17-18; 3,18-19; 4,14-17.23; 5,17); tendência para a hinologia (Cl 1,15-20; 2,13-15; Ef 1,3-14; 3,14-21); exortação à perseverança na oração (Cl 1,12; 2,7; 3,15s; 4,2-4; Ef 5,19s; 6,18ss)."
+        ]
+      },
+      {
+        "title": "Conteúdo",
+        "paragraphs": [
+          "Como sucede habitualmente com os escritos paulinos, o conteúdo da carta está ligado a situações concretas vividas pela comunidade à qual foi dirigida. Oriundos do paganismo, os cristãos de Colossos estavam ainda influenciados pelas crenças das suas antigas religiões, pelo que apreciavam e estimulavam certas práticas consideradas supersticiosas, contrárias ao evangelho. Assim, o autor reapresenta a doutrina de modo a fomentar a fé da comunidade (1,3-14) e a corrigir os erros (2,4-22) que muitos estudiosos entendem ser já resultado de uma presença das tendências gnósticas e dualistas.",
+          "No entanto, não se encontram na carta nem alguns dos termos teológicos centrais das cartas protopaulinas (como a justificação, a fé, a lei, a salvação), nem o estilo retórico e diatríbico de Rm ou de Gl. As diferenças prosseguem ao nível da cristologia: o Cristo de Cl é apresentado como a imagem do Deus invisível, o primogénito de entre os mortos (1,15-20), o conhecimento do mistério de Deus (1,27; 2,2s), o vencedor sobre os principados e as potestades (2,15). Sublinhando a singularidade e primazia de Cristo, o autor apresenta-o como o único mediador e redentor; pela sua preexistência, Ele é o único mediador da criação e, pela sua ressurreição, é o exclusivo reconciliador do universo. Deste modo, Ele é a cabeça de tudo o que existe. A temática da vinda de Cristo (parusia) está ausente, na medida em que se consideram os acontecimentos escatológicos (os dos últimos tempos) como realidades já presentes. Esta ideia é sublinhada sobretudo no desenvolvimento da teologia batismal, que considera os cristãos como já ressuscitados com Cristo pelo batismo. Por isso, a Igreja é entendida, sobretudo, como uma assembleia cósmica, cuja cabeça é Cristo (cf. 1,18.24; 2,19; 3,15)."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "Introdução (1,1-23)",
+          "Corpo da carta (1,24-4,6)",
+          "I. O ministério de Paulo (1,24-2,5)",
+          "II. Fidelidade ao evangelho (2,6-23)",
+          "III. A vida nova em Cristo (3,1-4,6)",
+          "Conclusão (4,7-18)"
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,12 +50,49 @@
         {
           "verse": 1,
           "text": "Paulo, apóstolo de Cristo Jesus por vontade de Deus, e o irmão Timóteo,",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Timóteo é incluído na saudação inicial de 1-2Ts, 2Cor, Flp e Flm, e chamado irmão em 2Cor 1,1 e Flm 1."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "cl-1-n1",
+              "offset": 70,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "aos santos e fiéis irmãos em Cristo, que estão em Colossos: a vós, a graça e a paz da parte de Deus, nosso Pai.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Também a comunidade de Qumran se revia como um povo santo (1QM 3,5; 6,6; 10,10), à semelhança de Israel (cf. Ex 19,6; Lv 11,44s; 19,2; 20,7.26; 21,6; 22,32). Mas aqui são santos não só porque Deus o quis (1Ts 4,3; 1Cor 1,2), mas porque já foram santificados no batismo.",
+            "4": "Alguns mss. acrescentam Jesus. É a única carta de todo o epistolário paulino em que o termo irmãos é usado para designar os destinatários da mesma."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "cl-1-n3",
+              "offset": 10,
+              "original_marker": "b",
+              "source_id": 2
+            },
+            {
+              "ref": "4",
+              "id": "cl-1-n4",
+              "offset": 35,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 3,
@@ -27,7 +107,21 @@
         {
           "verse": 5,
           "text": "assente na esperança que vos está reservada nos céus, e da qual ouvistes falar pela palavra da verdade, o evangelho,",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: por causa da esperança."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "cl-1-n5",
+              "offset": 10,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 6,
@@ -37,7 +131,48 @@
         {
           "verse": 7,
           "text": "Vós a aprendestes de Epafras, nosso amado companheiro no serviço, ele que, para vosso benefício, é um fiel ministro de Cristo,",
-          "note_refs": []
+          "note_refs": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "notes": {
+            "6": "Lit.: como aprendestes.",
+            "7": "Lit.: co-servo.",
+            "8": "Outros mss. leem nosso.",
+            "9": "O termo grego é diákonos (cf. 2Cor 3,6 nota), que é aplicado também a Timóteo (2Cor 11,23), Febe (Rm 16,1), Apolo (1Cor 3,5), ou Tíquico (Cl 4,7)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "cl-1-n6",
+              "offset": 17,
+              "original_marker": "f",
+              "source_id": 6
+            },
+            {
+              "ref": "7",
+              "id": "cl-1-n7",
+              "offset": 64,
+              "original_marker": "g",
+              "source_id": 7
+            },
+            {
+              "ref": "8",
+              "id": "cl-1-n8",
+              "offset": 85,
+              "original_marker": "h",
+              "source_id": 8
+            },
+            {
+              "ref": "9",
+              "id": "cl-1-n9",
+              "offset": 115,
+              "original_marker": "i",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 8,
@@ -47,27 +182,151 @@
         {
           "verse": 9,
           "text": "Por isso, também nós, desde o dia em que ouvimos falar disso, não cessamos de rezar por vós e de pedir que chegueis ao pleno conhecimento da vontade de Deus, com toda a sabedoria e inteligência espiritual,",
-          "note_refs": []
+          "note_refs": [
+            "10",
+            "11",
+            "12"
+          ],
+          "notes": {
+            "10": "Falar disso é acrescento da tradução.",
+            "11": "Lit.: da sua vontade.",
+            "12": "Estes dons eram já apontados pela literatura sapiencial e pós-exílica como necessários para o agir ético em conformidade com a vontade do Senhor (cf., por ex., Pr 1,7; Sb 6,22; Dn 1,17)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "cl-1-n10",
+              "offset": 60,
+              "original_marker": "j",
+              "source_id": 10
+            },
+            {
+              "ref": "11",
+              "id": "cl-1-n11",
+              "offset": 156,
+              "original_marker": "k",
+              "source_id": 11
+            },
+            {
+              "ref": "12",
+              "id": "cl-1-n12",
+              "offset": 204,
+              "original_marker": "l",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "para que leveis uma vida digna do Senhor, agradando-lhe em tudo, frutificando em toda a espécie de boas obras e crescendo no conhecimento de Deus,",
-          "note_refs": []
+          "note_refs": [
+            "13",
+            "14",
+            "15"
+          ],
+          "notes": {
+            "13": "Lit.: (para) caminhar.",
+            "14": "Nesta carta, o título nunca é atribuído a Deus, apenas a Cristo (cf. 1,3; 2,6; 3,17.24).",
+            "15": "Lit.: para todo o agrado."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "cl-1-n13",
+              "offset": 24,
+              "original_marker": "m",
+              "source_id": 13
+            },
+            {
+              "ref": "14",
+              "id": "cl-1-n14",
+              "offset": 40,
+              "original_marker": "n",
+              "source_id": 14
+            },
+            {
+              "ref": "15",
+              "id": "cl-1-n15",
+              "offset": 63,
+              "original_marker": "o",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "plenamente fortalecidos, segundo o poder da sua glória, em toda a perseverança e paciência. Com alegria,",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Lit.: em toda a força fortalecidos."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "cl-1-n16",
+              "offset": 23,
+              "original_marker": "p",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "dai graças ao Pai, É que vos tornou dignos de tomar parte na herança dos santos, na luz divina.",
-          "note_refs": []
+          "text": "dai graças ao Pai, que vos tornou dignos de tomar parte na herança dos santos, na luz divina.",
+          "note_refs": [
+            "17",
+            "18",
+            "19"
+          ],
+          "notes": {
+            "17": "Alguns mss. acrescentam que vos chamou.",
+            "18": "Santos são aqueles que, a partir do batismo, participam na vida divina (cf. 1,2 nota).",
+            "19": "Divina é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "cl-1-n17",
+              "offset": 22,
+              "original_marker": "a",
+              "source_id": 17
+            },
+            {
+              "ref": "18",
+              "id": "cl-1-n18",
+              "offset": 77,
+              "original_marker": "b",
+              "source_id": 18
+            },
+            {
+              "ref": "19",
+              "id": "cl-1-n19",
+              "offset": 92,
+              "original_marker": "c",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Ele nos livrou do poder das trevas e nos transferiu para o reino do seu amado Filho,",
-          "note_refs": []
+          "note_refs": [
+            "20"
+          ],
+          "notes": {
+            "20": "Lit.: do filho do seu amor."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "cl-1-n20",
+              "offset": 83,
+              "original_marker": "d",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 14,
@@ -77,12 +336,40 @@
         {
           "verse": 15,
           "text": "Ele é imagem de Deus invisível, o primogénito de toda a criatura,",
-          "note_refs": []
+          "note_refs": [
+            "21"
+          ],
+          "notes": {
+            "21": "Os vv.15-20 apresentam um hino cristológico, de inspiração sapiencial, em que é sublinhada a mediação criadora de Cristo (vv.15-17) e a sua mediação redentora (vv.18-20). O autor segue alguns modelos veterotestamentários de louvor, em que cada título divino é acompanhado pela sua justificação (cf. Sl 100; 117; Tb 11,14s; Sl 8; 93; 97; 103; 104)."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "cl-1-n21",
+              "offset": 30,
+              "original_marker": "e",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "porque nele foram criadas todas as coisas nos céus e na terra, visíveis e invisíveis, tronos, soberanias, principados e potestades: tudo foi criado por Ele e para Ele.",
-          "note_refs": []
+          "note_refs": [
+            "22"
+          ],
+          "notes": {
+            "22": "Isto é, tudo foi criado através de Cristo, e nada ficará excluído da sua obra salvífica, nem sequer os poderes sobrenaturais."
+          },
+          "note_positions": [
+            {
+              "ref": "22",
+              "id": "cl-1-n22",
+              "offset": 130,
+              "original_marker": "f",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 17,
@@ -92,12 +379,40 @@
         {
           "verse": 18,
           "text": "Ele é a cabeça do corpo, que é a Igreja; Ele é o princípio, o primogénito de entre os mortos, para que em tudo Ele tenha o primeiro lugar.",
-          "note_refs": []
+          "note_refs": [
+            "23"
+          ],
+          "notes": {
+            "23": "Em 1Cor 12,27 e Rm 12,5, a Igreja tinha sido apresentada como corpo de Cristo; aqui, ao aplicar-se a Cristo o título de cabeça da Igreja, evidencia-se a sua total autoridade sobre ela (cf. Ef 1,22; 5,23)."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "cl-1-n23",
+              "offset": 39,
+              "original_marker": "g",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "Porque aprouve a Deus que nele residisse toda a plenitude",
-          "note_refs": []
+          "note_refs": [
+            "24"
+          ],
+          "notes": {
+            "24": "A Deus é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "24",
+              "id": "cl-1-n24",
+              "offset": 21,
+              "original_marker": "h",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 20,
@@ -107,32 +422,161 @@
         {
           "verse": 21,
           "text": "Outrora, também vós éreis estrangeiros em relação a Deus e seus inimigos na forma de pensar, o que se manifestava nas vossas más obras.",
-          "note_refs": []
+          "note_refs": [
+            "26",
+            "27"
+          ],
+          "notes": {
+            "26": "Em relação a Deus é acrescento da tradução.",
+            "27": "Lit.: inimigos pelo pensamento nas más obras."
+          },
+          "note_positions": [
+            {
+              "ref": "26",
+              "id": "cl-1-n26",
+              "offset": 56,
+              "original_marker": "j",
+              "source_id": 26
+            },
+            {
+              "ref": "27",
+              "id": "cl-1-n27",
+              "offset": 134,
+              "original_marker": "k",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "Agora, porém, Ele reconciliou-vos no seu corpo carnal, por meio da sua morte, para vos apresentar diante dele santos, irrepreensíveis e imaculados,",
-          "note_refs": []
+          "note_refs": [
+            "28"
+          ],
+          "notes": {
+            "28": "Esta expressão refere-se ao corpo do Crucificado que foi sujeito à morte, para a distinguir do corpo eclesial do Ressuscitado (cf. v.18)."
+          },
+          "note_positions": [
+            {
+              "ref": "28",
+              "id": "cl-1-n28",
+              "offset": 53,
+              "original_marker": "l",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 23,
           "text": "desde que permaneçais alicerçados e firmes na fé, sem vos desviardes da esperança do evangelho que escutastes, que foi proclamado a toda a criatura que existe debaixo do céu, e do qual eu, Paulo, me tornei ministro.",
-          "note_refs": []
+          "note_refs": [
+            "29"
+          ],
+          "notes": {
+            "29": "Cf. 2Cor 3,6 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "29",
+              "id": "cl-1-n29",
+              "offset": 214,
+              "original_marker": "m",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 24,
           "text": "Agora alegro-me nos sofrimentos que suporto por vós, e completo aquilo que, dos padecimentos de Cristo, ainda falta na minha carne, em favor do seu Corpo, que é a Igreja.",
-          "note_refs": []
+          "note_refs": [
+            "30",
+            "31",
+            "32"
+          ],
+          "notes": {
+            "30": "Suporto é acrescento da tradução.",
+            "31": "Ainda é acrescento da tradução.",
+            "32": "Embora já tenha sofrido muito pelo evangelho, Paulo tem consciência de que a sua configuração com Cristo – motivo da sua alegria – ainda o conduzirá a padecimentos maiores."
+          },
+          "note_positions": [
+            {
+              "ref": "30",
+              "id": "cl-1-n30",
+              "offset": 43,
+              "original_marker": "n",
+              "source_id": 30
+            },
+            {
+              "ref": "31",
+              "id": "cl-1-n31",
+              "offset": 109,
+              "original_marker": "o",
+              "source_id": 31
+            },
+            {
+              "ref": "32",
+              "id": "cl-1-n32",
+              "offset": 169,
+              "original_marker": "p",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 25,
           "text": "Dela me tornei ministro, de acordo com a responsabilidade que tenho por vós e que me foi confiada por Deus: anunciar o cumprimento da palavra de Deus,",
-          "note_refs": []
+          "note_refs": [
+            "33",
+            "34"
+          ],
+          "notes": {
+            "33": "Cf. 2Cor 3,6 nota.",
+            "34": "Lit.: cumprir."
+          },
+          "note_positions": [
+            {
+              "ref": "33",
+              "id": "cl-1-n33",
+              "offset": 23,
+              "original_marker": "q",
+              "source_id": 33
+            },
+            {
+              "ref": "34",
+              "id": "cl-1-n34",
+              "offset": 130,
+              "original_marker": "r",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 26,
           "text": "o mistério que ficou oculto ao longo dos séculos e das gerações, mas que agora foi manifestado aos seus santos.",
-          "note_refs": []
+          "note_refs": [
+            "35",
+            "36"
+          ],
+          "notes": {
+            "35": "Contrariamente aos cultos sincretistas helenistas e judaicos, o mistério é o segredo de Deus manifestado na história, e não restrito apenas a alguns, como era prática, e.g., nos textos sectários de Qumran, em que o mistério (cf. Dn 2,18s.27-30.47; 4,6) só era conhecido pelo mestre de justiça: cf. 1QpHb 7,1-5. Este mistério é universal, tem uma origem divina, e Deus deseja que seja conhecido; os seus destinatários não são os sábios do mundo, mas os crentes (ainda que não possam por si só conhecê-lo). Paulo apresenta Cristo como o conteúdo desse mistério.",
+            "36": "Cf. 1,2 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "35",
+              "id": "cl-1-n35",
+              "offset": 10,
+              "original_marker": "s",
+              "source_id": 35
+            },
+            {
+              "ref": "36",
+              "id": "cl-1-n36",
+              "offset": 110,
+              "original_marker": "t",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 27,
@@ -147,6 +591,75 @@
         {
           "verse": 29,
           "text": "É para isso que eu me afadigo, combatendo com o apoio da sua força, que atua poderosamente em mim.",
+          "note_refs": [
+            "37"
+          ],
+          "notes": {
+            "37": "Apoio é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "37",
+              "id": "cl-1-n37",
+              "offset": 56,
+              "original_marker": "u",
+              "source_id": 37
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Saudação",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "Oração inicial",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "No início das cartas, quase sempre se encontra uma oração (normalmente de ação de graças), que aqui se desdobra em três momentos: 1) ação de graças (vv.3-8); 2) súplica (vv.9-14); 3) hino cristológico (vv.15-20)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "cl-1-n2",
+              "offset": 14,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
+        },
+        {
+          "before_verse": 21,
+          "text": "Temas da Carta",
+          "note_refs": [
+            "25"
+          ],
+          "notes": {
+            "25": "Os vv.21-23 apresentam os três principais temas da carta, embora desenvolvidos em ordem inversa: a obra de Cristo para a santidade dos crentes (tema desenvolvido em 3,1-4,1), a fidelidade ao evangelho recebido (2,6-23) e o serviço de Paulo a esse mesmo evangelho (1,24-2,5)."
+          },
+          "note_positions": [
+            {
+              "ref": "25",
+              "id": "cl-1-n25",
+              "offset": 14,
+              "original_marker": "i",
+              "source_id": 25
+            }
+          ]
+        },
+        {
+          "before_verse": 24,
+          "text": "O MINISTÉRIO DE PAULO (1,24-2,5)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 24,
+          "text": "Os sofrimentos pelo anúncio de Cristo",
           "note_refs": []
         }
       ]
@@ -157,7 +670,30 @@
         {
           "verse": 1,
           "text": "Quero que saibais como é grande a luta que travo por vós, pelos de Laodiceia e por tantos outros que não me conheceram pessoalmente,",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Paulo dá início à interpelação aos cristãos de Colossos, retomando as temáticas do amor (1,4.10), da sabedoria e do conhecimento (1,9.27s; cf. 3,8-10.16), do mistério de Deus que é o próprio Cristo (1,26s; cf. 4,3), da alegria dos apóstolos (1,24) e da fé da comunidade (1,4.23).",
+            "2": "Lit.: e quantos não viram o meu rosto em carne."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "cl-2-n1",
+              "offset": 17,
+              "original_marker": "v",
+              "source_id": 38
+            },
+            {
+              "ref": "2",
+              "id": "cl-2-n2",
+              "offset": 131,
+              "original_marker": "w",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 2,
@@ -177,7 +713,30 @@
         {
           "verse": 5,
           "text": "pois, embora fisicamente ausente, estou convosco em espírito, alegrando-me por ver a boa ordem que existe entre vós e a firmeza da vossa fé em Cristo.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Lit.: ausente na carne.",
+            "5": "Boa é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "cl-2-n4",
+              "offset": 32,
+              "original_marker": "a",
+              "source_id": 40
+            },
+            {
+              "ref": "5",
+              "id": "cl-2-n5",
+              "offset": 88,
+              "original_marker": "b",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 6,
@@ -186,13 +745,36 @@
         },
         {
           "verse": 7,
-          "text": "nele enraizados e edificados, firmes na fé, conforme fostes instruídos, e trans - bordando em ação de graças.",
+          "text": "nele enraizados e edificados, firmes na fé, conforme fostes instruídos, e transbordando em ação de graças.",
           "note_refs": []
         },
         {
           "verse": 8,
           "text": "Tende cuidado para que ninguém vos escravize com filosofias e artifícios vãos, que estão de acordo com a tradição dos homens ou com os princípios elementares do mundo, mas não com Cristo.",
-          "note_refs": []
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "A expressão filosofias, complementada com artifícios vãos, refere-se a teorias que se opõem ao essencial do evangelho, mesmo que possam aparentar estar próximas deste.",
+            "7": "Na confluência das diversas tradições religiosas gregas, a expressão refere-se provavelmente aos espíritos entendidos como poderes pessoais."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "cl-2-n6",
+              "offset": 59,
+              "original_marker": "d",
+              "source_id": 43
+            },
+            {
+              "ref": "7",
+              "id": "cl-2-n7",
+              "offset": 166,
+              "original_marker": "e",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 9,
@@ -202,17 +784,77 @@
         {
           "verse": 10,
           "text": "e é nele, que é a cabeça de todo o principado e potestade, que vós alcançastes a plenitude.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "A plenitude recebida no batismo, na qual está já presente a ressurreição."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "cl-2-n8",
+              "offset": 90,
+              "original_marker": "f",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Foi também nele que fostes circuncidados, não com uma circuncisão feita por mão humana, que vos teria removido uma parte do corpo carnal, mas sim com a circuncisão de Cristo.",
-          "note_refs": []
+          "note_refs": [
+            "9",
+            "10",
+            "11"
+          ],
+          "notes": {
+            "9": "Esta é a única vez que o NT equipara o batismo a uma circuncisão; a conceção de uma circuncisão espiritual está já presente no AT (cf. Dt 10,16; Jr 4,4; Ez 44,6s; 1QS 5,5).",
+            "10": "Lit.: no despojamento do corpo de carne. Alguns mss. mais tardios acrescentam dos pecados depois de do corpo.",
+            "11": "A expressão circuncisão de Cristo refere-se ao batismo que os crentes receberam."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "cl-2-n9",
+              "offset": 40,
+              "original_marker": "g",
+              "source_id": 46
+            },
+            {
+              "ref": "10",
+              "id": "cl-2-n10",
+              "offset": 136,
+              "original_marker": "h",
+              "source_id": 47
+            },
+            {
+              "ref": "11",
+              "id": "cl-2-n11",
+              "offset": 173,
+              "original_marker": "i",
+              "source_id": 48
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Sepultados com Ele no batismo, também com Ele fostes ressuscitados pela fé no poder de Deus, que o ressuscitou dos mortos.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Esta é a primeira vez que uma carta paulina fala da ressurreição como já alcançada, o que revela uma evolução no pensamento em relação a Rm 6,1-14; 1Cor 15; 2Cor 5,17; Gl 2,19s; Flp 1,20s."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "cl-2-n12",
+              "offset": 66,
+              "original_marker": "j",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 13,
@@ -222,12 +864,49 @@
         {
           "verse": 14,
           "text": "Anulou o documento da nossa dívida, que, com as suas disposições, nos era adverso, e aboliu-o inteiramente, ao cravá-lo na cruz.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Lit.: tirou-o do meio."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "cl-2-n13",
+              "offset": 106,
+              "original_marker": "k",
+              "source_id": 50
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Despojou os principados e as potestades e expô-los ao ridículo, arrastando-os no seu cortejo triunfal.",
-          "note_refs": []
+          "note_refs": [
+            "14",
+            "15"
+          ],
+          "notes": {
+            "14": "O autor refere-se aos espíritos que acusavam e ameaçavam a humanidade e que ficaram submetidos pela vitória na cruz.",
+            "15": "Sobre a imagem do cortejo triunfal, cf. 2Cor 2,14 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "cl-2-n14",
+              "offset": 39,
+              "original_marker": "l",
+              "source_id": 51
+            },
+            {
+              "ref": "15",
+              "id": "cl-2-n15",
+              "offset": 101,
+              "original_marker": "m",
+              "source_id": 52
+            }
+          ]
         },
         {
           "verse": 16,
@@ -237,22 +916,132 @@
         {
           "verse": 17,
           "text": "Essas coisas eram uma sombra do que estava para vir, pois a realidade é Cristo.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Lit.: o corpo [é] de Cristo. O texto grego joga com o contraste skía/sôma, (sombra/corpo), que, em português, se entende melhor com os termos sombra/realidade."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "cl-2-n16",
+              "offset": 78,
+              "original_marker": "n",
+              "source_id": 53
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "Que ninguém vos faça perder o prémio, querendo enganar-vos com uma falsa humildade e com o culto dos anjos; essa gente fecha-se no que diz ter visto, inchada de vão orgulho pela sua inteligência meramente carnal,",
-          "note_refs": []
+          "note_refs": [
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22"
+          ],
+          "notes": {
+            "17": "Enganar-vos é acrescento da tradução.",
+            "18": "Falsa é acrescento de tradução: a humildade é uma virtude cristã (3,12), mas aqui, no contexto de práticas de algumas filosofias sincretistas, é meramente aparente, visto que estas eram usadas para glorificação pessoal (cf. v.23).",
+            "19": "A expressão pode referir-se a um culto mistérico dirigido aos anjos, ou ao próprio culto dos anjos.",
+            "20": "Essa gente é acrescento da tradução.",
+            "21": "Lit.: entrando no que viu.",
+            "22": "Meramente é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "cl-2-n17",
+              "offset": 58,
+              "original_marker": "o",
+              "source_id": 54
+            },
+            {
+              "ref": "18",
+              "id": "cl-2-n18",
+              "offset": 82,
+              "original_marker": "p",
+              "source_id": 55
+            },
+            {
+              "ref": "19",
+              "id": "cl-2-n19",
+              "offset": 106,
+              "original_marker": "q",
+              "source_id": 56
+            },
+            {
+              "ref": "20",
+              "id": "cl-2-n20",
+              "offset": 118,
+              "original_marker": "r",
+              "source_id": 57
+            },
+            {
+              "ref": "21",
+              "id": "cl-2-n21",
+              "offset": 148,
+              "original_marker": "s",
+              "source_id": 58
+            },
+            {
+              "ref": "22",
+              "id": "cl-2-n22",
+              "offset": 204,
+              "original_marker": "t",
+              "source_id": 59
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "em vez de se manter unida Àquele que é cabeça, a partir da qual todo o corpo, alimentado e unido por meio de ligamentos e articulações, cresce como Deus quer.",
-          "note_refs": []
+          "note_refs": [
+            "23",
+            "24"
+          ],
+          "notes": {
+            "23": "Lit.: e não agarrando a cabeça.",
+            "24": "Lit.: cresce o crescimento de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "cl-2-n23",
+              "offset": 45,
+              "original_marker": "u",
+              "source_id": 60
+            },
+            {
+              "ref": "24",
+              "id": "cl-2-n24",
+              "offset": 157,
+              "original_marker": "v",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "Se morrestes com Cristo para os princípios elementares do mundo, porque vos deixais submeter, como se ainda vivêsseis no mundo, a disposições como",
-          "note_refs": []
+          "note_refs": [
+            "25"
+          ],
+          "notes": {
+            "25": "Cf. 2,8 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "25",
+              "id": "cl-2-n25",
+              "offset": 63,
+              "original_marker": "w",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 21,
@@ -266,7 +1055,71 @@
         },
         {
           "verse": 23,
-          "text": "Embora tenham uma aparência de sabedoria, graças à sua pretensa piedade e humildade e à prática da mor - tificação corporal, não têm qualquer valor; apenas servem para a satisfação da carne.",
+          "text": "Embora tenham uma aparência de sabedoria, graças à sua pretensa piedade e humildade e à prática da mortificação corporal, não têm qualquer valor; apenas servem para a satisfação da carne.",
+          "note_refs": [
+            "26",
+            "27"
+          ],
+          "notes": {
+            "26": "Cf. 2,18 nota.",
+            "27": "Lit.: As quais são palavras que tendo sabedoria em culto e humildade e austeridade de corpo, não (têm) qualquer valor, para satisfação da carne."
+          },
+          "note_positions": [
+            {
+              "ref": "26",
+              "id": "cl-2-n26",
+              "offset": 83,
+              "original_marker": "x",
+              "source_id": 63
+            },
+            {
+              "ref": "27",
+              "id": "cl-2-n27",
+              "offset": 186,
+              "original_marker": "y",
+              "source_id": 64
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A luta em favor dos crentes",
+          "note_refs": []
+        },
+        {
+          "before_verse": 6,
+          "text": "FIDELIDADE AO EVANGELHO (2,6-23)",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Esta secção está divida concentricamente em cinco partes: advertências (vv.6.7); aviso contra as falsas filosofias (v.8); fundamentação cristológica (vv.9-15); advertências contra a falsa piedade (vv.16-19); exortações conclusivas (vv.20-23)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "cl-2-n3",
+              "offset": 32,
+              "original_marker": "c",
+              "source_id": 42
+            }
+          ]
+        },
+        {
+          "before_verse": 6,
+          "text": "Advertências",
+          "note_refs": []
+        },
+        {
+          "before_verse": 9,
+          "text": "Cristo é a plenitude",
+          "note_refs": []
+        },
+        {
+          "before_verse": 16,
+          "text": "A falsa piedade",
           "note_refs": []
         }
       ]
@@ -281,13 +1134,27 @@
         },
         {
           "verse": 2,
-          "text": "Tende em mente as coisas do alto e não as da O O terra.",
+          "text": "Tende em mente as coisas do alto e não as da terra.",
           "note_refs": []
         },
         {
           "verse": 3,
           "text": "Pois morrestes, e a vossa vida está escondida com Cristo em Deus.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O verbo no passado (em grego, no aoristo) remete para a morte dos cristãos com Cristo no batismo, onde ressuscitam para uma vida nova: cf. Rm 6,8."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "cl-3-n2",
+              "offset": 14,
+              "original_marker": "a",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 4,
@@ -297,17 +1164,59 @@
         {
           "verse": 5,
           "text": "Por conseguinte, fazei morrer aquilo que pertence à terra: imoralidade, impureza, paixões, maus desejos e a ganância, que é uma idolatria.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: os membros [que estão] sobre a terra."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "cl-3-n3",
+              "offset": 57,
+              "original_marker": "b",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "É por causa destas coisas que a ira de Deus vem sobre os filhos da rebeldia.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Semitismo. Alguns mss. não apresentam a expressão."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "cl-3-n4",
+              "offset": 75,
+              "original_marker": "c",
+              "source_id": 68
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Outrora, também vós vos comportáveis assim, quando vivíeis entre eles.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Ou quando vivíeis nessas coisas."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "cl-3-n5",
+              "offset": 69,
+              "original_marker": "d",
+              "source_id": 69
+            }
+          ]
         },
         {
           "verse": 8,
@@ -322,47 +1231,209 @@
         {
           "verse": 10,
           "text": "e vos revestistes do homem novo, que, para alcançar o conhecimento, se vai renovando à imagem do seu Criador.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Homem é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "cl-3-n6",
+              "offset": 26,
+              "original_marker": "e",
+              "source_id": 70
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Aí não há grego nem judeu, circuncisão ou incircuncisão, bárbaro, cita, escravo ou homem livre, mas Cristo, que é tudo e está em todos.",
-          "note_refs": []
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Bárbaro, em grego, significa, em sentido próprio, qualquer pessoa estrangeira, enquanto cita designa um conjunto variado de povos nómadas que viviam a norte e a este do Mar Negro.",
+            "8": "Pelo batismo, a presença de Cristo fundamenta a igual identidade e dignidade de todos (cf. Gl 3,28; 1Cor 12,13)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "cl-3-n7",
+              "offset": 70,
+              "original_marker": "f",
+              "source_id": 71
+            },
+            {
+              "ref": "8",
+              "id": "cl-3-n8",
+              "offset": 134,
+              "original_marker": "g",
+              "source_id": 72
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Portanto, como eleitos de Deus, santos e amados, revesti-vos de sentimentos de misericórdia, de bondade, humildade, mansidão e paciência,",
-          "note_refs": []
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "Cf. 1,2 nota.",
+            "10": "Lit.: entranhas de misericórdia. Cf. Flp 2,1."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "cl-3-n9",
+              "offset": 38,
+              "original_marker": "h",
+              "source_id": 73
+            },
+            {
+              "ref": "10",
+              "id": "cl-3-n10",
+              "offset": 91,
+              "original_marker": "i",
+              "source_id": 74
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "suportando-vos uns aos outros e perdoando-vos mutuamente, se alguém tiver razão de queixa contra outro. Assim como o Senhor vos perdoou, também vós o deveis fazer.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Alguns mss. leem Cristo. O título de Senhor (Kýrios), normalmente aplicado a Deus, é reservado em Cl para Cristo, o que manifesta uma clara profissão de fé na divindade de Jesus."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "cl-3-n11",
+              "offset": 123,
+              "original_marker": "j",
+              "source_id": 75
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Mas, sobre tudo isso, revesti-vos do amor, que é o vínculo da perfeição.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Revesti-vos é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "cl-3-n12",
+              "offset": 33,
+              "original_marker": "k",
+              "source_id": 76
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Reine nos vossos corações a paz de Cristo, à qual também vós fostes chamados num só corpo, e vivei em ação de graças.",
-          "note_refs": []
+          "note_refs": [
+            "13",
+            "14"
+          ],
+          "notes": {
+            "13": "Trata-se do dom messiânico a receber, muito mais do que a promover ou conquistar (cf. Is 9,5s; 52,7; 57,19; Mq 5,4).",
+            "14": "Lit.: tornai-vos eucarísticos."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "cl-3-n13",
+              "offset": 31,
+              "original_marker": "l",
+              "source_id": 77
+            },
+            {
+              "ref": "14",
+              "id": "cl-3-n14",
+              "offset": 116,
+              "original_marker": "m",
+              "source_id": 78
+            }
+          ]
         },
         {
           "verse": 16,
-          "text": "A palavra de Cristo habite em vós com abundância, para que vos possais instruir e advertir uns aos outros com toda a sabedoria, cantando a Deus nos vossos corações, em ação de graças, com salmos, hinos e cânticos divinamente O inspirados.",
-          "note_refs": []
+          "text": "A palavra de Cristo habite em vós com abundância, para que vos possais instruir e advertir uns aos outros com toda a sabedoria, cantando a Deus nos vossos corações, em ação de graças, com salmos, hinos e cânticos divinamente inspirados.",
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Lit.: cânticos espirituais."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "cl-3-n15",
+              "offset": 235,
+              "original_marker": "n",
+              "source_id": 79
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "E tudo o que fizerdes, por palavras ou por obras, seja tudo em nome do Senhor Jesus, dando graças, por meio dele, a Deus Pai.",
-          "note_refs": []
+          "note_refs": [
+            "16",
+            "17"
+          ],
+          "notes": {
+            "16": "Alguns mss. acrescentam Cristo.",
+            "17": "Esta ação de graças é o objetivo último da vida dos batizados e do seu comportamento."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "cl-3-n16",
+              "offset": 83,
+              "original_marker": "o",
+              "source_id": 80
+            },
+            {
+              "ref": "17",
+              "id": "cl-3-n17",
+              "offset": 124,
+              "original_marker": "p",
+              "source_id": 81
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "Esposas, sede dóceis aos vossos maridos, como convém no Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "O autor distingue a docilidade (ou mais lit. sujeição, aplicada à esposa) da obediência (aplicada aos escravos e às crianças): a esposa não está na mesma situação dos segundos. Partindo da cultura do mundo antigo, partilhada pelos colossenses, em que o marido era considerado superior à esposa, Paulo recorda o essencial: a nova relação em Cristo, no amor."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "cl-3-n18",
+              "offset": 20,
+              "original_marker": "q",
+              "source_id": 82
+            }
+          ]
         },
         {
           "verse": 19,
@@ -382,21 +1453,127 @@
         {
           "verse": 22,
           "text": "Escravos, obedecei em tudo aos vossos senhores terrenos, não com uma atitude de serviço apenas aparente, com a intenção de agradar aos homens, mas com simplicidade de coração, tementes ao Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "19",
+            "20"
+          ],
+          "notes": {
+            "19": "Lit.: aos senhores segundo a carne. Sobre a expressão, cf. 1Cor 1,26 nota.",
+            "20": "Lit.: com um serviço."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "cl-3-n19",
+              "offset": 55,
+              "original_marker": "r",
+              "source_id": 83
+            },
+            {
+              "ref": "20",
+              "id": "cl-3-n20",
+              "offset": 87,
+              "original_marker": "s",
+              "source_id": 84
+            }
+          ]
         },
         {
           "verse": 23,
           "text": "Tudo o que fizerdes, realizai-o de bom ânimo, como sendo para o Senhor e não para os homens,",
-          "note_refs": []
+          "note_refs": [
+            "21"
+          ],
+          "notes": {
+            "21": "Lit.: de alma."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "cl-3-n21",
+              "offset": 44,
+              "original_marker": "t",
+              "source_id": 85
+            }
+          ]
         },
         {
           "verse": 24,
           "text": "sabendo que recebereis do Senhor a herança como recompensa. É a Cristo Senhor que vós servis.",
-          "note_refs": []
+          "note_refs": [
+            "22"
+          ],
+          "notes": {
+            "22": "Lit.: a recompensa da herança."
+          },
+          "note_positions": [
+            {
+              "ref": "22",
+              "id": "cl-3-n22",
+              "offset": 58,
+              "original_marker": "u",
+              "source_id": 86
+            }
+          ]
         },
         {
           "verse": 25,
           "text": "Quem cometer injustiça receberá como paga a injustiça que tiver cometido; não haverá aceção de pessoas.",
+          "note_refs": [
+            "23"
+          ],
+          "notes": {
+            "23": "A temática da imparcialidade divina é comum no AT (cf. Dt 10,17; 1Sm 16,7; 2Cr 19,7; Jb 34,19; Pr 18,5; 24,23s; 28,21) e no NT (Rm 2,11; At 10,34; 1Pd 1,17)."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "cl-3-n23",
+              "offset": 102,
+              "original_marker": "v",
+              "source_id": 87
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A VIDA NOVA EM CRISTO (3,1-4,6)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Nesta secção exortativa, tal como noutras cartas, Paulo apresenta listas de virtudes (2Cor 6,6s; Ef 6,14ss; cf. Mt 5,3-11), de vícios (Rm 1,24-31; 13,13; 1Cor 5,10s; 6,9s; Ef 5,3s; cf. 1Pd 4,3s), e códigos domésticos (cf. Ef 5,22-31)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "cl-3-n1",
+              "offset": 31,
+              "original_marker": "z",
+              "source_id": 65
+            }
+          ]
+        },
+        {
+          "before_verse": 1,
+          "text": "Ressuscitados com Cristo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "Renúncia ao mal",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Adesão ao bem",
+          "note_refs": []
+        },
+        {
+          "before_verse": 18,
+          "text": "Novas relações no Senhor",
           "note_refs": []
         }
       ]
@@ -417,7 +1594,21 @@
         {
           "verse": 3,
           "text": "Rezai, ao mesmo tempo, também por nós, para que Deus nos abra a porta à pregação, a fim de podermos anunciar o mistério de Cristo, por causa do qual estou preso,",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.: a porta da palavra."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "cl-4-n1",
+              "offset": 80,
+              "original_marker": "w",
+              "source_id": 88
+            }
+          ]
         },
         {
           "verse": 4,
@@ -427,22 +1618,78 @@
         {
           "verse": 5,
           "text": "Procedei com sabedoria para com os de fora, aproveitando cada ocasião.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: comprando o tempo (oportuno)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "cl-4-n2",
+              "offset": 69,
+              "original_marker": "x",
+              "source_id": 89
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "A vossa linguagem seja sempre agradável, temperada com sal, para que saibais o que é necessário responder a cada um.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: a vossa palavra [esteja] sempre na graça."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "cl-4-n3",
+              "offset": 39,
+              "original_marker": "y",
+              "source_id": 90
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "O amado irmão Tíquico, fiel ministro e colaborador no serviço ao Senhor, vos dará a conhecer tudo o que me diz respeito.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: co-servo no Senhor."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "cl-4-n4",
+              "offset": 71,
+              "original_marker": "a",
+              "source_id": 91
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Eu vo-lo envio precisamente para vos dar notícias nossas e consolar os vossos corações.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: para que conheçais as coisas acerca de nós."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "cl-4-n5",
+              "offset": 56,
+              "original_marker": "b",
+              "source_id": 92
+            }
+          ]
         },
         {
           "verse": 9,
@@ -457,7 +1704,30 @@
         {
           "verse": 11,
           "text": "Também vos saúda Jesus, o chamado Justo. Dos que vieram da circuncisão, estes são os únicos que colaboram comigo para o reino de Deus; eles têm sido o meu conforto.",
-          "note_refs": []
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Saúda é acrescento de tradução.",
+            "7": "Refere-se aos que são de origem judaica."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "cl-4-n6",
+              "offset": 16,
+              "original_marker": "c",
+              "source_id": 93
+            },
+            {
+              "ref": "7",
+              "id": "cl-4-n7",
+              "offset": 70,
+              "original_marker": "d",
+              "source_id": 94
+            }
+          ]
         },
         {
           "verse": 12,
@@ -477,7 +1747,21 @@
         {
           "verse": 15,
           "text": "Saudai os irmãos de Laodiceia, bem como Ninfa e a Igreja que se reúne em sua casa.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Nome feminino, possivelmente a responsável desta Igreja, algo que deixa entrever a importância das mulheres na liderança das comunidades cristãs primitivas."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "cl-4-n8",
+              "offset": 45,
+              "original_marker": "e",
+              "source_id": 95
+            }
+          ]
         },
         {
           "verse": 16,
@@ -492,6 +1776,42 @@
         {
           "verse": 18,
           "text": "A saudação foi escrita pela minha própria mão: Paulo. Lembrai-vos de que estou na cadeia. A graça esteja convosco!",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: das minhas cadeias."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "cl-4-n9",
+              "offset": 88,
+              "original_marker": "f",
+              "source_id": 96
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 2,
+          "text": "Oração e testemunho cristão",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "CONCLUSÃO (4,7-18)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "Os enviados de Paulo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 10,
+          "text": "Saudações",
           "note_refs": []
         }
       ]

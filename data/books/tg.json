@@ -1,18 +1,100 @@
 {
+  "schema_version": 2,
   "book": "Tiago",
+  "book_id": "tg",
+  "source": {
+    "format": "docx",
+    "file": "66_Tg.docx",
+    "title": "Carta de Tiago"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Autor",
+        "paragraphs": [
+          "A carta apresenta-nos o seu emitente: Tiago. No NT encontramos três personagens com este nome: 1) o filho de Zebedeu, que era irmão de João e que terá morrido no ano de 42 (cf. At 12,2); 2) o filho de Alfeu (este e o anterior Tiago pertenciam ao grupo dos Doze Apóstolos: cf. Lc 6,12-16); 3) o irmão do Senhor (cf. Gl 1,19 nota; At 12,17 nota; Mt 13,55; Mc 6,3).",
+          "Tiago, o irmão do Senhor, que foi responsável pela Igreja de Jerusalém, era considerado um homem justo e gozava de grande notoriedade na comunidade primitiva (cf. At 12,17, 15,13-21; 21,17-26; 1Cor 15,7; Gl 1,19; 2,9.12), tendo-lhe sido atribuída, em finais do séc. IV, a autoria desta carta. Há, no entanto, alguns óbices quanto a esta tese, entre eles: 1) o registo linguístico cuidado que o grego apresenta, que dificilmente poderia estar ao alcance de um galileu; 2) a dificuldade de entrar no cânone, tanto no Oriente como no Ocidente, o que só viria a acontecer nos finais do séc. IV; 3) o posicionamento da carta em relação à Lei, pois quando fala da observância desta não faz referência às normas de pureza, que o irmão do Senhor e demais cristãos seguiam nas comunidades judaico-cristãs (cf. Gl 2,11s; At 15,19-21; 21,25).",
+          "Deve-se, pois, considerar a hipótese da pseudoepigrafia, em que alguém – por exemplo, um ou vários líderes de comunidade(s) – terá atribuído a carta a Tiago, para dar autoridade às suas revelações e instruções, sem excluir que o pensamento nela expresso remeta para uma tradição com origem em Tiago."
+        ]
+      },
+      {
+        "title": "Lugar e data",
+        "paragraphs": [
+          "Optando pela hipótese tradicional, a carta terá tido origem em Jerusalém ou na Palestina, e a sua datação remontaria aproximadamente à morte do seu autor, c. 62 d.C. Seguindo a hipótese da autoria pseudepigráfica, a carta dataria do final do séc. I, com possível origem, segundo uns, em Antioquia da Síria (devido à proximidade do pensamento da carta com o Evangelho de Mateus, com o judaísmo helenístico e com a dinâmica da missão paulina), segundo outros, em Alexandria do Egito (considerando os pontos de contacto da carta com o ambiente cultural e literário desta cidade, e o facto de ter sido aí que, no Oriente, primeiro se atestou a carta), segundo outros ainda, em Roma (tendo em conta a proximidade a 1Pd e ao Pastor de Hermas). Em qualquer uma destas hipóteses da tese pseudoepigráfica, a carta terá surgido num ambiente urbano fora da Palestina, em igrejas judaico-cristãs de língua grega."
+        ]
+      },
+      {
+        "title": "Conteúdo",
+        "paragraphs": [
+          "O conteúdo teológico da carta de Tiago é eminentemente prático e, neste sentido, bastante exortativo, tendo como grande objetivo fundamentar e incentivar a vivên-",
+          "cia da fé. Assim, embora num estilo epistolar, a carta constitui uma grande instrução, homilia ou catequese, respondendo a questões concretas da vida das comunidades.",
+          "O texto desenvolve-se em torno de dois eixos estruturantes: 1) a amizade com o mundo (vista como negativa), em absoluta oposição com a amizade com Deus (cf. 4,4), pois enquanto no mundo impera o egoísmo, a inveja, o poder, a violência e a injustiça, em Deus opera a sabedoria do alto, a justiça, a paz, a verdade e a geração de vida; 2) a coerência entre dizer e fazer, a unidade entre a fé e o operar da mesma fé, ou seja, a integridade, a partir da atuação da palavra de Deus, cuja sabedoria surge como o motor de conversão do mundo.",
+          "Neste contexto, importa destacar a constante referência a Deus, a que se acrescenta ainda o epíteto de Pai (cf. 1,17.27; 3,9) e de Senhor (cf. 1,7; 3,9; 4,10.15; 5,4.10s). A figura de Jesus, aparentemente discreta na carta, é reforçada pelo facto de esta ser continuamente relacionada com Deus, o Senhor; aliás, o próprio Jesus é também chamado Senhor (cf. 1,1; 2,1; 5,7.8.14.15), sublinhando, assim, a sua natureza divina e a sua íntima união à ação de Deus.",
+          "Outro tema que percorre a carta é o da dimensão escatológica, com a promessa da coroa da vida a todos aqueles que amam a Deus (cf. 1,4.12; 2,5). É neste contexto que se entendem igualmente as sucessivas referências ao juízo divino (cf. 2,12s; 4,12; 5,3s).",
+          "No que diz respeito à vivência real e prática da fé, o autor evidencia três mediações particularmente importantes: 1) a Palavra da verdade semeada por Deus (cf. 1,18.21), chamada a ser acolhida e a ser praticada com perseverança e liberdade (cf. 1,25; 2,8); 2) a Lei como expressão de vivência íntegra da fé, pois é dada pelo próprio Deus (cf. 2,10s; 4,12; Lv 19,18); 3) a sabedoria dada do alto e que caracteriza as boas e as justas relações com o próximo (cf. 3,13.17). Com base nestas três mediações, apresenta-se uma série de instruções e exortações para a vivência diária e comunitária da fé: a paciência na provação, a solidariedade para com os mais necessitados, o uso moralmente correto da língua, o discernimento e o controlo das paixões, os perigos da riqueza, as relações fraternas, a oração e o perdão.",
+          "Nesse sentido, compreende-se melhor o enquadramento bíblico-sapiencial em que o autor expõe a sua visão antropológica (cf. 1,8.10s; 3,1-12; 4,5.14), que assenta na relação com Deus e na experiência do homem neste mundo, onde deve prevalecer a ideia fundamental da fraternidade universal (cf. 2,1-4; 3,1.13; 5,15)."
+        ]
+      },
+      {
+        "title": "Estrutura:",
+        "paragraphs": [
+          "Saudação (1,1)",
+          "Prólogo: perseverança nas provações (1,2-18)",
+          "Escutar e praticar a Palavra (1,19-27)",
+          "O amor imparcial para com todos (2,1-13)",
+          "A fé e as obras (2,14-26)",
+          "O domínio da língua (3,1-12)",
+          "A sabedoria do alto (3,13-18)",
+          "Origem dos conflitos (4,1-12)",
+          "Admoestação aos ricos (4,13-5,6)",
+          "A paciência e a oração (5,7-12)",
+          "A unção dos doentes (5,13-20)"
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "verse": 1,
-          "text": "Tiago, servo de Deus e do Senhor Jesus Cristo, às doze tribos que estão na diáspora: saudações! (1,2-18)",
-          "note_refs": []
+          "text": "Tiago, servo de Deus e do Senhor Jesus Cristo, às doze tribos que estão na diáspora: saudações!",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A fórmula de saudação traduz-se lit. por alegrar-se, o que parece dar o mote para a alegria nas provações referida no v. seguinte."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "tg-1-n2",
+              "offset": 94,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Meus irmãos, considerai como motivo de grande alegria as diversas provações por que tendes passado,",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: considerai toda alegria quando cairdes em diversas provações."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "tg-1-n3",
+              "offset": 98,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 3,
@@ -22,17 +104,59 @@
         {
           "verse": 4,
           "text": "E que a perseverança, por sua vez, seja em vós perfeita, a fim de serdes perfeitos e íntegros, sem falhar em nada.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: tenha obra perfeita."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "tg-1-n4",
+              "offset": 55,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Se algum de vós tem falta de sabedoria, peça-a a Deus, que a concede a todos sem reservas e sem recriminações, e ela ser-lhe-á concedida.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A relação entre Deus e o ser humano estrutura os vv.1-18. O homem é, pois, colocado diante de Deus, que é designado como Senhor (vv.1.7) e Pai das luzes (v.17), fonte da sabedoria e de todo o dom bom e perfeito."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "tg-1-n5",
+              "offset": 136,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Mas peça-a com fé, sem duvidar, pois aquele que duvida é semelhante a uma onda do mar, levantada e agitada pelo vento.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Esta é a primeira de uma série de comparações e metáforas que o autor desenvolve ao longo da carta. A imagem da tempestade ocorre noutros textos bíblicos como forma de evidenciar a insegurança que caracteriza a experiência humana (cf. Is 57,20; Jn 1,1ss; Sir 29,17; Mc 6,45-52)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "tg-1-n6",
+              "offset": 117,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 7,
@@ -42,27 +166,115 @@
         {
           "verse": 8,
           "text": "é um homem inconstante, instável em todos os seus caminhos.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: de duplo espírito."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "tg-1-n7",
+              "offset": 22,
+              "original_marker": "g",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Que o irmão de condição humilde se glorie em ser exaltado,",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: na sua elevação."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "tg-1-n8",
+              "offset": 57,
+              "original_marker": "h",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "e o rico em ser humilhado, porque este há de passar como a flor da erva.",
-          "note_refs": []
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "Lit.: na sua humilhação.",
+            "10": "Ao exortar os ricos à humildade, o autor reforça a ideia de que os critérios de Deus se opõem aos critérios do mundo. Em vários salmos e nos profetas, os ricos são acusados de impiedade, por enriquecerem à custa do pobre e do inocente (cf. Sl 9,19; Is 53,9; Am 2,6-16)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "tg-1-n9",
+              "offset": 25,
+              "original_marker": "i",
+              "source_id": 9
+            },
+            {
+              "ref": "10",
+              "id": "tg-1-n10",
+              "offset": 71,
+              "original_marker": "j",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "De facto, quando o sol nasce com o seu calor ardente, a erva seca, a sua flor cai e perde toda a sua beleza. Assim murchará também o rico no meio dos seus empreendimentos.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: e destrói-se toda a beleza do seu aspeto."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "tg-1-n11",
+              "offset": 107,
+              "original_marker": "k",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Feliz o homem que persevera diante das provações, pois, uma vez superada a prova, receberá a coroa da vida, prometida por Deus àqueles que o amam.",
-          "note_refs": []
+          "note_refs": [
+            "12",
+            "13"
+          ],
+          "notes": {
+            "12": "Lit.: tornando-se aprovado.",
+            "13": "Por Deus é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "tg-1-n12",
+              "offset": 80,
+              "original_marker": "l",
+              "source_id": 12
+            },
+            {
+              "ref": "13",
+              "id": "tg-1-n13",
+              "offset": 126,
+              "original_marker": "m",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 13,
@@ -71,7 +283,7 @@
         },
         {
           "verse": 14,
-          "text": "Pelo contrário, cada um é ten - A A tado pelas suas próprias paixões, que o arrastam e seduzem.",
+          "text": "Pelo contrário, cada um é tentado pelas suas próprias paixões, que o arrastam e seduzem.",
           "note_refs": []
         },
         {
@@ -86,38 +298,108 @@
         },
         {
           "verse": 17,
-          "text": "toda a boa dádiva e todo o dom per - feito vêm do alto, descem do Pai das luzes, no qual não há mudança nem sombra de variação.",
+          "text": "toda a boa dádiva e todo o dom perfeito vêm do alto, descem do Pai das luzes, no qual não há mudança nem sombra de variação.",
           "note_refs": []
         },
         {
           "verse": 18,
-          "text": "Foi por sua vontade que Ele nos gerou pela Palavra da verdade, para sermos a primícia das suas criaturas. (1,19-27)",
+          "text": "Foi por sua vontade que Ele nos gerou pela Palavra da verdade, para sermos a primícia das suas criaturas.",
           "note_refs": []
         },
         {
           "verse": 19,
           "text": "Tende isto bem presente, meus amados irmãos: que cada um de vós seja rápido em ouvir, lento para falar e lento para se irar,",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Lit.: seja todo o homem."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "tg-1-n14",
+              "offset": 68,
+              "original_marker": "n",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "pois a ira do homem não realiza o que é justo diante de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Lit.: não realiza a justiça de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "tg-1-n15",
+              "offset": 60,
+              "original_marker": "o",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 21,
           "text": "Por isso, rejeitando tudo o que é sórdido e qualquer vestígio de maldade, acolhei com mansidão a Palavra que em vós foi plantada e que pode salvar as vossas almas.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Lit.: toda a sujidade e abundância de mal."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "tg-1-n16",
+              "offset": 72,
+              "original_marker": "p",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "Sede gente que põe a Palavra em prática, e não apenas ouvintes, pois isso seria enganar-vos a vós próprios.",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "Lit.: sede praticantes da Palavra."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "tg-1-n17",
+              "offset": 39,
+              "original_marker": "q",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 23,
-          "text": "Porque, se alguém ouve a Palavra e não a põe em prá - tica, é semelhante a um homem que observa o seu rosto num espelho:",
-          "note_refs": []
+          "text": "Porque, se alguém ouve a Palavra e não a põe em prática, é semelhante a um homem que observa o seu rosto num espelho:",
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "Lit.: o rosto do nascimento."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "tg-1-n18",
+              "offset": 104,
+              "original_marker": "r",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 24,
@@ -127,7 +409,21 @@
         {
           "verse": 25,
           "text": "Aquele, porém, que põe toda a sua atenção na lei perfeita, que é a lei da liberdade, e nela permanece, não como um ouvinte que se esquece, mas como um verdadeiro praticante, esse será feliz ao pô-la em prática.",
-          "note_refs": []
+          "note_refs": [
+            "19"
+          ],
+          "notes": {
+            "19": "Lit.: não sendo ouvinte de esquecimento, mas praticante de obra."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "tg-1-n19",
+              "offset": 172,
+              "original_marker": "s",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 26,
@@ -137,6 +433,51 @@
         {
           "verse": 27,
           "text": "A religião pura e sem mancha diante de Deus Pai é esta: visitar os órfãos e as viúvas nas suas tribulações e não se deixar contaminar pelo mundo.",
+          "note_refs": [
+            "20"
+          ],
+          "notes": {
+            "20": "Lit.: imaculado guardar-se a si próprio do mundo."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "tg-1-n20",
+              "offset": 144,
+              "original_marker": "t",
+              "source_id": 20
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Saudação (1,1)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A carta inicia-se com uma fórmula de saudação típica das cartas do ambiente cultural helenístico, apresentando: o emitente (Tiago) e os seus títulos (servo de Deus e do Senhor Jesus Cristo); os destinatários (as doze tribos); a saudação propriamente dita. Considerando a hipótese de que a carta foi escrita e enviada de Jerusalém, as doze tribos na diáspora dirão sobretudo respeito a comunidades bem conhecidas do autor, que se encontrariam fora da Palestina."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "tg-1-n1",
+              "offset": 8,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
+        },
+        {
+          "before_verse": 2,
+          "text": "Prólogo: perseverança nas provações (1,2-18)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 19,
+          "text": "Escutar e praticar a Palavra (1,19-27)",
           "note_refs": []
         }
       ]
@@ -147,7 +488,21 @@
         {
           "verse": 1,
           "text": "Meus irmãos, não façais aceção de pessoas: a fé no nosso glorioso Senhor Jesus Cristo não o permite.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.: não tenhais na aceção de pessoas a fé do Senhor Nosso Jesus Cristo da glória."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "tg-2-n1",
+              "offset": 99,
+              "original_marker": "u",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 2,
@@ -157,17 +512,68 @@
         {
           "verse": 3,
           "text": "Se olhardes para aquele que enverga uma veste esplêndida e lhe disserdes: «Senta-te aqui, neste bom lugar», ao mesmo tempo que dizeis ao pobre: «Fica de pé» ou «Senta-te aí, abaixo do estrado dos meus pés»,",
-          "note_refs": []
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "Lit.: bem.",
+            "3": "Dos meus pés é acrescento da tradução (cf. Mt 5,35; Lc 20,43; At 2,35; 7,49; Heb 1,13; 10,13)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "tg-2-n2",
+              "offset": 105,
+              "original_marker": "v",
+              "source_id": 22
+            },
+            {
+              "ref": "3",
+              "id": "tg-2-n3",
+              "offset": 204,
+              "original_marker": "w",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "não estareis a fazer discriminações entre vós, e a tornar-vos juízes com maus critérios??",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: juízes de maus pensamentos."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "tg-2-n4",
+              "offset": 88,
+              "original_marker": "x",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Escutai, meus amados irmãos: porventura não escolheu Deus os pobres aos olhos do mundo, para serem ricos na fé e herdeiros do reino que prometeu àqueles que o amam?",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Nos textos veterotestamentários, o povo de Deus, a tribo de Judá, a casa de Aarão, o rei David, Jerusalém e a cidade de Sião são os destinatários da eleição de Deus (cf. At 13,17). Nesta eleição, Tiago, na linha da tradição evangélica, sublinha a predileção de Deus pelos pobres."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "tg-2-n5",
+              "offset": 164,
+              "original_marker": "a",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 6,
@@ -182,22 +588,73 @@
         {
           "verse": 8,
           "text": "Assim, se cumpris a lei do reino, de acordo com a Escritura que diz: Amarás o teu próximo como a ti mesmo, estais a proceder bem.",
-          "note_refs": []
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Que diz é acrescento da tradução.",
+            "7": "Lv 19,18."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "tg-2-n6",
+              "offset": 67,
+              "original_marker": "b",
+              "source_id": 26
+            },
+            {
+              "ref": "7",
+              "id": "tg-2-n7",
+              "offset": 105,
+              "original_marker": "c",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "Mas se fazeis aceção de pes - soas, estais a cometer pecado e sois denunciados pela Lei como transgressores.",
+          "text": "Mas se fazeis aceção de pessoas, estais a cometer pecado e sois denunciados pela Lei como transgressores.",
           "note_refs": []
         },
         {
           "verse": 10,
           "text": "De facto, quem observa toda a Lei, mas peca num só aspeto, torna-se réu de todos os outros;",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: tropeça."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "tg-2-n8",
+              "offset": 43,
+              "original_marker": "d",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "pois Aquele que disse: «Não cometerás adultério», também disse: «Não matarás». Portanto, se não cometeres adultério, mas matares, tornas-te um trans - gressor da Lei.",
-          "note_refs": []
+          "text": "pois Aquele que disse: «Não cometerás adultério», também disse: «Não matarás». Portanto, se não cometeres adultério, mas matares, tornas-te um transgressor da Lei.",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Ex 20,13s."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "tg-2-n9",
+              "offset": 77,
+              "original_marker": "e",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 12,
@@ -206,8 +663,22 @@
         },
         {
           "verse": 13,
-          "text": "Pois o juízo será sem misericórdia para aquele que não usa de misericórdia. A misericórdia triunfa sobre o juízo. (2,14-26)",
-          "note_refs": []
+          "text": "Pois o juízo será sem misericórdia para aquele que não usa de misericórdia. A misericórdia triunfa sobre o juízo.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: a misericórdia vangloria-se do juízo."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "tg-2-n10",
+              "offset": 112,
+              "original_marker": "f",
+              "source_id": 30
+            }
+          ]
         },
         {
           "verse": 14,
@@ -217,26 +688,82 @@
         {
           "verse": 15,
           "text": "Se um irmão ou uma irmã não tiverem o que vestir e lhes faltar o alimento de cada dia,",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: estão nus."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "tg-2-n11",
+              "offset": 48,
+              "original_marker": "g",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "e um de vós lhes disser: «Ide em paz, aquecei-vos e saciai-vos», sem lhes dar o necessário para o corpo, de que lhes servem as vossas palavras?",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: qual o benefício?"
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "tg-2-n12",
+              "offset": 143,
+              "original_marker": "h",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 17,
-          "text": "Assim também a fé: se não tiver obras, está comple - tamente morta.",
-          "note_refs": []
+          "text": "Assim também a fé: se não tiver obras, está completamente morta.",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Lit.: morta segundo si mesma, provavelmente no sentido em que a vitalidade da fé se expressa necessariamente nas obras."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "tg-2-n13",
+              "offset": 63,
+              "original_marker": "i",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "Alguém poderá até dizer: «Tu tens a fé e eu tenho as obras». Mostra-me a tua fé sem obras, que eu, pelas minhas obras, te mostrarei a minha fé.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "O fechar das aspas é motivo de debate; alguns editores fazem-no no v.18, outros no v.19 ou no v.23, e outros apresentam ainda outras hipóteses. O texto segue a organização textual da NVg."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "tg-2-n14",
+              "offset": 59,
+              "original_marker": "j",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 19,
-          "text": "Tu acreditas que existe um único Deus? Fazes bem! Mas os demónios também acreditam e estremecem!",
+          "text": "Tu acreditas que existe um único Deus? Fazes bem! Mas os demónios também acreditam – e estremecem!",
           "note_refs": []
         },
         {
@@ -257,7 +784,30 @@
         {
           "verse": 23,
           "text": "Assim se cumpriu a Escritura, que diz: «Abraão acreditou em Deus, e isso foi-lhe considerado como causa de justificação»; e foi chamado amigo de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "15",
+            "16"
+          ],
+          "notes": {
+            "15": "Gn 15,6 (LXX).",
+            "16": "Cf. Is 41,8."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "tg-2-n15",
+              "offset": 120,
+              "original_marker": "k",
+              "source_id": 35
+            },
+            {
+              "ref": "16",
+              "id": "tg-2-n16",
+              "offset": 149,
+              "original_marker": "l",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 24,
@@ -267,11 +817,37 @@
         {
           "verse": 25,
           "text": "Não foi, de igual modo, também pelas obras que Raab, a prostituta, foi justificada, quando acolheu os mensageiros e os fez partir por outro caminho?",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "Esta mulher pecadora e estrangeira (Js 2,1ss) é apresentada como exemplo de quem é justificado a partir das obras, concretamente, das obras de misericórdia, que expressam uma fé autêntica e não estéril (cf. 1,26s; 2,14-16). De acordo com o autor da carta, a justificação está fundada na iniciativa de Deus e consuma-se nas obras."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "tg-2-n17",
+              "offset": 148,
+              "original_marker": "m",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 26,
           "text": "Assim como o corpo sem o espírito está morto, assim também a fé sem obras está morta.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "O amor imparcial para com todos (2,1-13)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 14,
+          "text": "A fé e as obras (2,14-26)",
           "note_refs": []
         }
       ]
@@ -282,12 +858,67 @@
         {
           "verse": 1,
           "text": "Meus irmãos, que não haja entre vós muitos a querer ser mestres, pois sabeis que nós estamos sujeitos a um julgamento mais severo.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Lit.: não muitos mestres sejais.",
+            "2": "Ao utilizar esta pessoa verbal, Tiago assume-se como mestre da comunidade."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "tg-3-n1",
+              "offset": 63,
+              "original_marker": "n",
+              "source_id": 38
+            },
+            {
+              "ref": "2",
+              "id": "tg-3-n2",
+              "offset": 101,
+              "original_marker": "o",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "De facto, todos nós peca - mos em muitas coisas. Se alguém não peca pela palavra, esse é um homem perfeito, capaz de refrear também todos os impulsos do corpo.",
-          "note_refs": []
+          "text": "De facto, todos nós pecamos em muitas coisas. Se alguém não peca pela palavra, esse é um homem perfeito, capaz de refrear também todos os impulsos do corpo.",
+          "note_refs": [
+            "3",
+            "4",
+            "5"
+          ],
+          "notes": {
+            "3": "Lit.: tropeçamos.",
+            "4": "Lit.: tropeça.",
+            "5": "Lit.: todo o corpo."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "tg-3-n3",
+              "offset": 27,
+              "original_marker": "p",
+              "source_id": 40
+            },
+            {
+              "ref": "4",
+              "id": "tg-3-n4",
+              "offset": 64,
+              "original_marker": "q",
+              "source_id": 41
+            },
+            {
+              "ref": "5",
+              "id": "tg-3-n5",
+              "offset": 155,
+              "original_marker": "r",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 3,
@@ -306,8 +937,22 @@
         },
         {
           "verse": 6,
-          "text": "Também a língua é um fogo, um mundo de iniquidade; entre os nossos membros é a língua que contamina o corpo todo, e, inflamada pelo fogo da Geena, vai quei - mando o curso da nossa vida.",
-          "note_refs": []
+          "text": "Também a língua é um fogo, um mundo de iniquidade; entre os nossos membros é a língua que contamina o corpo todo, e, inflamada pelo fogo da Geena, vai queimando o curso da nossa vida.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "A imagem da Geena, que nos evangelhos tem uma dimensão fundamentalmente escatológica de condenação (cf. Mt 5,22 nota), serve aqui para indicar a origem infernal do poder destruidor da língua, recordando o castigo reservado àqueles que dela abusam."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "tg-3-n6",
+              "offset": 145,
+              "original_marker": "s",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 7,
@@ -336,23 +981,79 @@
         },
         {
           "verse": 12,
-          "text": "Poderá uma figueira, meus irmãos, dar azeitonas, ou uma videira dar figos? Nem a água salgada se pode tornar doce. (3,13-18)",
-          "note_refs": []
+          "text": "Poderá uma figueira, meus irmãos, dar azeitonas, ou uma videira dar figos? Nem a água salgada se pode tornar doce.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: nem a [água] salgada [pode] fazer água doce."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "tg-3-n7",
+              "offset": 113,
+              "original_marker": "t",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Há entre vós alguém que seja sábio e inteligente? Pois que mostre, pela sua boa conduta, que as suas obras são realizadas na mansidão, que é própria da sabedoria.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: as suas obras na mansidão da sabedoria. Uma das ideias principais da carta é a de que os cristãos devem considerar a sabedoria como a fonte para poder viver a fé na constância, ainda que no meio das provações; é ela que lhes possibilita pôr em prática na vida a Palavra, considerada como a expressão da lei perfeita da liberdade, a lei real do amor (cf. 1,22-25; 2,8.12)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "tg-3-n8",
+              "offset": 161,
+              "original_marker": "a",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Mas se tendes no vosso coração a amargura da inveja e ambições egoístas, não vos vanglorieis nem falseeis a verdade!",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: inveja amarga."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "tg-3-n9",
+              "offset": 51,
+              "original_marker": "b",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Tal sabedoria não vem do alto: é terrestre, com origem nos instintos, e demoníaca.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: psíquica, ou seja, uma sabedoria que radica numa psykhḗ (vida/alma) meramente natural ou animal (cf. 1Cor 2,14 nota)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "tg-3-n10",
+              "offset": 68,
+              "original_marker": "c",
+              "source_id": 47
+            }
+          ]
         },
         {
           "verse": 16,
@@ -367,6 +1068,32 @@
         {
           "verse": 18,
           "text": "É na paz que o fruto da justiça é semeado, em benefício daqueles que constroem a paz.",
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Outra hipótese seria por aqueles, mas a tradução proposta parece coadunar-se melhor com o contexto, visto se estar a falar da sabedoria, que é apresentada no v.17 como geradora da paz (cf. Os 10,12; Pr 11,18; 22,8; Gl 6,7)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "tg-3-n11",
+              "offset": 64,
+              "original_marker": "d",
+              "source_id": 48
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "O domínio da língua (3,1-12)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "A sabedoria do alto (3,13-18)",
           "note_refs": []
         }
       ]
@@ -376,7 +1103,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "De onde vêm as guerras? De onde vêm os conflitos entre vós? Não vêm pre - cisamente daqui, das paixões que combatem nos vossos membros?",
+          "text": "De onde vêm as guerras? De onde vêm os conflitos entre vós? Não vêm precisamente daqui, das paixões que combatem nos vossos membros?",
           "note_refs": []
         },
         {
@@ -387,22 +1114,96 @@
         {
           "verse": 3,
           "text": "Pedis e não recebeis, porque pedis mal, pois o que pedis é para satisfazer as vossas paixões.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.: porque pedis mal, para o gastardes nos vossos desejos."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "tg-4-n1",
+              "offset": 92,
+              "original_marker": "e",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "Ó gente adúltera! Não sabeis que a amizade com o mundo é inimiga de Deus? Portanto, quem deseja ser amigo do mundo constitui-se como inimigo de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: adúlteros, apóstrofe que ecoa os profetas bíblicos; estes, recorrendo à metáfora do adultério, denunciavam a infidelidade de Israel à aliança com Deus (cf. Os 1,1ss; Is 1,21; 50,1; Jr 2,2; 3,1ss), acentuando assim a diferença radical que existe entre os laços estabelecidos neste mundo e aqueles criados por Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "tg-4-n2",
+              "offset": 16,
+              "original_marker": "f",
+              "source_id": 50
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Ou pensais que é em vão que a Escritura diz: «Deus reclama com ciúme pelo Espírito que fez habitar em nós?».",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Deus é acrescento da tradução.",
+            "4": "Lit.: até ao ciúme anseia pelo Espírito que [Ele] fez habitar nós. A presença do Espírito divino no homem implica que ele fortaleça cada vez mais a amizade com Deus, e não com o mundo, do qual é necessário desapegar-se progressivamente. Fazer o contrário equivale a renegar a exclusiva relação de amizade com Deus, que a fé pressupõe, e, consequentemente, provocar o seu ciúme. O ciúme de Deus é um tema recorrente no AT (cf. Ex 20,5; Dt 4,24; 5,9; Sl 78,58). A citação, não identificável, poderá ser de um livro apócrifo, ou de um desenvolvimento do tema do ciúme de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "tg-4-n3",
+              "offset": 50,
+              "original_marker": "g",
+              "source_id": 51
+            },
+            {
+              "ref": "4",
+              "id": "tg-4-n4",
+              "offset": 107,
+              "original_marker": "h",
+              "source_id": 52
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Mas Ele concede uma graça maior, e por isso diz a Escritura: Deus opõe-se aos soberbos, mas concede a graça aos humildes.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "A Escritura é acrescento da tradução.",
+            "6": "Pr 3,34 (LXX)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "tg-4-n5",
+              "offset": 59,
+              "original_marker": "i",
+              "source_id": 53
+            },
+            {
+              "ref": "6",
+              "id": "tg-4-n6",
+              "offset": 120,
+              "original_marker": "j",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 7,
@@ -431,13 +1232,27 @@
         },
         {
           "verse": 12,
-          "text": "Ora, um só é o legislador e o juiz, Aquele que pode salvar ou destruir. Quem és tu, pois, para julgar o próximo? (4,13-5,6)",
+          "text": "Ora, um só é o legislador e o juiz, Aquele que pode salvar ou destruir. Quem és tu, pois, para julgar o próximo?",
           "note_refs": []
         },
         {
           "verse": 13,
           "text": "Pois bem, prestai atenção, vós que dizeis: «Hoje ou amanhã iremos a tal cidade, aí passaremos um ano, faremos negócios e ganharemos bom dinheiro»!",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Bom dinheiro é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "tg-4-n7",
+              "offset": 144,
+              "original_marker": "k",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 14,
@@ -452,11 +1267,60 @@
         {
           "verse": 16,
           "text": "E, no entanto, andais a gloriar-vos na vossa arrogância. Ora, é mau gloriar-se deste modo.",
-          "note_refs": []
+          "note_refs": [
+            "8",
+            "9"
+          ],
+          "notes": {
+            "8": "A vanglória dos comerciantes é denunciada, pois está alicerçada na falsidade e na arrogância, que expressa aqui o comportamento condenável de quem ama o mundo sem compreender o amor de Deus (cf. 1Jo 2,16).",
+            "9": "Lit.: toda essa glória é má."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "tg-4-n8",
+              "offset": 55,
+              "original_marker": "l",
+              "source_id": 56
+            },
+            {
+              "ref": "9",
+              "id": "tg-4-n9",
+              "offset": 89,
+              "original_marker": "m",
+              "source_id": 57
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Assim, quem sabe fazer o bem e não o faz, está a cometer um pecado.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: o pecado existe para ele."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "tg-4-n10",
+              "offset": 66,
+              "original_marker": "n",
+              "source_id": 58
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Origem dos conflitos (4,1-12)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "Admoestação aos ricos (4,13-5,6)",
           "note_refs": []
         }
       ]
@@ -471,33 +1335,107 @@
         },
         {
           "verse": 2,
-          "text": "As vossas riquezas apodreceram e as vossas vestes estão car - comidas pela traça,",
+          "text": "As vossas riquezas apodreceram e as vossas vestes estão carcomidas pela traça,",
           "note_refs": []
         },
         {
           "verse": 3,
           "text": "o vosso ouro e a vossa prata corroeram-se, e será a sua corrosão a dar testemunho contra vós e a devorar as vossas carnes como um fogo. Andastes a acumular tesouros nestes dias, que são os últimos!",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "A metáfora da corrosão está já presente nos textos bíblicos (cf. Ez 24,6.11s), que afirmam que nem o ouro nem a prata lhe podem escapar (cf. Br 6,9s). Tiago reforça a denúncia que faz dos ricos, sublinhando o facto de aqueles metais preciosos serem inúteis para a salvação.",
+            "2": "Lit.: entesourastes nos últimos dias."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "tg-5-n1",
+              "offset": 41,
+              "original_marker": "o",
+              "source_id": 59
+            },
+            {
+              "ref": "2",
+              "id": "tg-5-n2",
+              "offset": 196,
+              "original_marker": "p",
+              "source_id": 60
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "Eis que já clama o salário dos trabalhadores que ceifaram as vossas terras, e que vós retivestes; os gritos dos ceifei - ros chegaram aos ouvidos do Senhor do Universo!",
-          "note_refs": []
+          "text": "Eis que já clama o salário dos trabalhadores que ceifaram as vossas terras, e que vós retivestes; os gritos dos ceifeiros chegaram aos ouvidos do Senhor do Universo!",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Is 5,9."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "tg-5-n3",
+              "offset": 164,
+              "original_marker": "q",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Vivestes luxuosamente na terra e entregastes-vos aos prazeres: engordastes para o dia da matança!",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Jr 12,3."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "tg-5-n4",
+              "offset": 96,
+              "original_marker": "r",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "Condenastes e matastes o justo, e ele não vos opôs resistência. (5,7-12)",
+          "text": "Condenastes e matastes o justo, e ele não vos opôs resistência.",
           "note_refs": []
         },
         {
           "verse": 7,
-          "text": "Sede, pois, pacientes, irmãos, até à vinda do Senhor. Vede como o agricultor espe - ra pelo precioso fruto da terra, aguardando pacientemente que venham as primeiras e as últimas chuvas.",
-          "note_refs": []
+          "text": "Sede, pois, pacientes, irmãos, até à vinda do Senhor. Vede como o agricultor espera pelo precioso fruto da terra, aguardando pacientemente que venham as primeiras e as últimas chuvas.",
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Este imperativo introduz o discurso exortativo conclusivo, convidando todo o cristão a uma atitude de confiança na vinda do Senhor.",
+            "6": "Lit.: até receber."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "tg-5-n5",
+              "offset": 4,
+              "original_marker": "a",
+              "source_id": 63
+            },
+            {
+              "ref": "6",
+              "id": "tg-5-n6",
+              "offset": 149,
+              "original_marker": "b",
+              "source_id": 64
+            }
+          ]
         },
         {
           "verse": 8,
@@ -517,22 +1455,78 @@
         {
           "verse": 11,
           "text": "Vede como consideramos bem-aventurados aqueles que foram perseverantes. Ouvistes falar da perseverança de Job e conheceis qual o fim que o Senhor lhe concedeu, pois o Senhor é compassivo e misericordioso.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: e vedes qual o fim de Senhor."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "tg-5-n7",
+              "offset": 158,
+              "original_marker": "c",
+              "source_id": 65
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "Mas sobretudo, meus irmãos, não jureis nem pelo céu nem pela terra, nem façais qualquer outro tipo de juramento. Que o vosso «sim» seja sim, e que o vosso «não» seja não, para não incorrerdes em condenação. (5,13-20)",
-          "note_refs": []
+          "text": "Mas sobretudo, meus irmãos, não jureis nem pelo céu nem pela terra, nem façais qualquer outro tipo de juramento. Que o vosso «sim» seja sim, e que o vosso «não» seja não, para não incorrerdes em condenação.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: nem por outro qualquer juramento."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "tg-5-n8",
+              "offset": 111,
+              "original_marker": "d",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Se, entre vós, alguém está em sofrimento, que reze. Se alguém está alegre, que cante hinos de louvor.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: cante salmos."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "tg-5-n9",
+              "offset": 100,
+              "original_marker": "e",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Se, entre vós, alguém está doente, que chame os presbíteros da Igreja, e que estes rezem sobre ele, ungindo-o com óleo em nome do Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Texto onde se fundamenta o sacramento da unção dos enfermos. O título Senhor, que surge por diversas vezes nos relatos de cura, terá aqui como referente Jesus Cristo (cf. 1,1; 2,1; At 3,6; 4,10; 16,18; 19,13). O óleo é o símbolo de alegria, saúde e bem-estar (cf. Is 1,6; 61,1-3; Sl 45,8; 92,11; 133,2; Lc 10,34)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "tg-5-n10",
+              "offset": 136,
+              "original_marker": "f",
+              "source_id": 68
+            }
+          ]
         },
         {
           "verse": 15,
@@ -542,12 +1536,58 @@
         {
           "verse": 16,
           "text": "Confessai, pois, os pecados uns aos outros e rezai uns pelos outros, para que sejais curados. A oração perseverante do justo tem um grande poder.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: a oração operante do justo pode muito."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "tg-5-n11",
+              "offset": 144,
+              "original_marker": "g",
+              "source_id": 69
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Elias, que era um homem de natureza semelhante à nossa, rezou com fervor para que não chovesse, e não choveu na terra durante três anos e seis meses.",
-          "note_refs": []
+          "note_refs": [
+            "12",
+            "13",
+            "14"
+          ],
+          "notes": {
+            "12": "Elias é apresentado como o modelo do orante justo, cuja oração é extremamente eficaz. Inspirado em 1Rs 17,1 e 18,1, o autor integra igualmente o pensamento judaico sobre o tema, presente também em Lc e Ap (cf. Lc 4,25; Ap 11,6).",
+            "13": "Lit.: sofredor semelhante a nós.",
+            "14": "Lit.: rezou com reza."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "tg-5-n12",
+              "offset": 5,
+              "original_marker": "h",
+              "source_id": 70
+            },
+            {
+              "ref": "13",
+              "id": "tg-5-n13",
+              "offset": 54,
+              "original_marker": "i",
+              "source_id": 71
+            },
+            {
+              "ref": "14",
+              "id": "tg-5-n14",
+              "offset": 72,
+              "original_marker": "j",
+              "source_id": 72
+            }
+          ]
         },
         {
           "verse": 18,
@@ -562,6 +1602,18 @@
         {
           "verse": 20,
           "text": "sabei que aquele que reconduz um pecador do caminho do erro salvará da morte a sua alma e cobrirá uma multidão de pecados.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 7,
+          "text": "A paciência e a oração (5,7-12)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "A unção dos doentes (5,13-20)",
           "note_refs": []
         }
       ]

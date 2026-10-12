@@ -1,132 +1,555 @@
 {
+  "schema_version": 2,
   "book": "Filémon",
+  "book_id": "fm",
+  "source": {
+    "format": "docx",
+    "file": "64_Flm.docx",
+    "title": "Carta a Filémon"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Contexto",
+        "paragraphs": [
+          "A carta enviada por Paulo a Filémon é a mais breve (25vv.) e pessoal do seu epistolário. O apóstolo, já ancião (v.9), está preso por causa da sua atividade evangelizadora (vv.1.9). Embora não haja certeza de que prisão se trata (Éfeso, Cesareia ou Roma), muitos estudiosos tendem a datar a carta no período da estadia em Éfeso, durante a terceira viagem missionária de Paulo, nos anos 55-57d.C.",
+          "O motivo da carta a Filémon, seu amado colaborador, é interceder por um escravo deste, chamado Onésimo, que Paulo conheceu e gerou (converteu) na prisão (v.10; cf. 1Cor 4,15; Gl 4,19). Não se conhecem as circunstâncias em que o escravo abandonou a casa do seu senhor (se como fugitivo – o que o fazia incorrer em pesadas penas civis –, se como enviado do próprio Filémon a Paulo), mas o apóstolo pede a Filémon que o receba já não como escravo, mas mais do que escravo, como irmão amado (v.16), como se do próprio Paulo se tratasse (v.17).",
+          "Tendo em conta que o nome Arquipo (v.2) reaparece em Col 4,17e que o de Onésimo é referido em Col 4,9 como proveniente da comunidade de Colossos, parece ser nesta localidade que vive Filémon, o qual, segundo o apóstolo, está em dívida para consigo pela evangelização recebida. Não se sabe onde tal aconteceu, nem se Paulo esteve em Colossos; apenas se diz que é na casa de Filémon que a Igreja se reúne (v.2).",
+          "No início do séc. II d.C., S. Inácio de Antioquia recorda numa das suas cartas (Efésios 1,3): «Em nome de Deus recebi a vossa comunidade na pessoa de Onésimo, de indizível amor, vosso bispo na carne», o que, no caso de se tratar do mesmo Onésimo de Flm 10, significa que ele adquiriu, em finais do séc. I, um lugar de relevo na comunidade de Éfeso."
+        ]
+      },
+      {
+        "title": "Conteúdo",
+        "paragraphs": [
+          "Tal como noutras passagens em que fala da escravatura (1Cor 7,20-24; Ef 6,5-9; Cl 3,22-4,1), Paulo não questiona a forma como a sociedade está estruturada, talvez pela sua convicção de que a parusia (segunda vinda de Jesus, no final dos tempos), que tudo transformará, estaria próxima. Mais importante para o apóstolo é a situação nova que o crente adquire pelo batismo (santo: vv.5.7), na qual estabelece com todos os outros membros da comunidade uma relação de igualdade fraterna, marcada pelo amor (vv.5.7.9) no Senhor (vv.16.20). A participação de Paulo, Filémon e Onésimo na fé comum concretiza-se numa relação marcada não pelo dever, mas pelo amor, tal como Paulo sublinha (vv.8s), o que pode conduzir Filémon a fazer ainda mais do que o apóstolo lhe pede (v.21: tornar Onésimo um liberto?)."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "Querendo persuadir Filémon, Paulo recorre a uma estrutura retórica adequada a tal objetivo, ou seja, escreve segundo os princípios da recomendação (systatikós), género literário muito comum na época imperial (cf. 2Cor 3,1; cf. Plínio o Moço, Epistula 9,21.24.):",
+          "Introdução (1-9)",
+          "Intercessão por Onésimo (8-10)",
+          "Onésimo, de escravo a irmão em Cristo (11-19)",
+          "Exortação (20)",
+          "Conclusão (21-25)"
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "verse": 1,
-          "text": "",
-          "note_refs": []
+          "text": "Paulo, prisoneiro por causa de Cristo Jesus, e o irmão Timóteo, ao amado Filémon, nosso colaborador,",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Lit.: Paulo, prisioneiro de Cristo Jesus (o mesmo no v.9).",
+            "2": "Lit.: ao amado e nosso colaborador."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "fm-1-n1",
+              "offset": 43,
+              "original_marker": "a",
+              "source_id": 1
+            },
+            {
+              "ref": "2",
+              "id": "fm-1-n2",
+              "offset": 99,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "",
-          "note_refs": []
+          "text": "à irmã Ápia, a Arquipo, nosso companheiro de combate, e à Igreja que se reúne em tua casa:",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Reúne é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "fm-1-n3",
+              "offset": 77,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "",
+          "text": "a vós, a graça e a paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.",
           "note_refs": []
         },
         {
           "verse": 4,
-          "text": "",
-          "note_refs": []
+          "text": "Dou graças ao meu Deus, ao lembrar-me sempre de ti nas minhas orações,",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Ou dou sempre graças ao meu Deus, ao lembrar-me de ti nas minhas orações."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "fm-1-n4",
+              "offset": 22,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 5,
-          "text": "",
-          "note_refs": []
+          "text": "por ouvir falar do teu amor e da fé que tens no Senhor Jesus e em relação a todos os santos.",
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Falar é acrescento de tradução.",
+            "6": "Isto é, os batizados."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "fm-1-n5",
+              "offset": 15,
+              "original_marker": "e",
+              "source_id": 5
+            },
+            {
+              "ref": "6",
+              "id": "fm-1-n6",
+              "offset": 91,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "",
-          "note_refs": []
+          "text": "Que a comunhão da tua fé se torne operante ao dar a conhecer todo o bem que, em Cristo, existe entre nós!",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Alguns mss. apresentam em vós. A comunhão da fé manifesta-se no amor (v.5) que se concretiza no bem que a vida em Cristo implica."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "fm-1-n7",
+              "offset": 104,
+              "original_marker": "g",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "",
-          "note_refs": []
+          "text": "De facto, o teu amor foi para mim motivo de grande alegria e consolação, porque graças a ti, irmão, os santos ficaram reconfortados no seu íntimo mais profundo.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: porque as entranhas dos santos ficaram reconfortadas por causa de ti, irmão."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "fm-1-n8",
+              "offset": 159,
+              "original_marker": "h",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "",
-          "note_refs": []
+          "text": "Por isso, embora tenha em Cristo plena confiança para te ordenar o que deves fazer,",
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "Para este termo grego parrēsía, cf. 2Cor 3, 12 nota.",
+            "10": "Fazer é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "fm-1-n9",
+              "offset": 48,
+              "original_marker": "i",
+              "source_id": 9
+            },
+            {
+              "ref": "10",
+              "id": "fm-1-n10",
+              "offset": 82,
+              "original_marker": "j",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "",
-          "note_refs": []
+          "text": "prefiro antes pedir-to por amor – eu, Paulo, já velho como estou e agora também prisioneiro por causa de Cristo Jesus:",
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: tal sendo como Paulo velho."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "fm-1-n11",
+              "offset": 64,
+              "original_marker": "k",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "",
-          "note_refs": []
+          "text": "peço-te por este meu filho, Onésimo, que gerei na prisão.",
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "No sentido em que o levou à conversão (cf. 1Cor 4,15; Gl 4,19)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "fm-1-n12",
+              "offset": 46,
+              "original_marker": "l",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "",
-          "note_refs": []
+          "text": "Em tempos, ele não te era útil; agora, porém, tornou-se útil quer para ti, quer para mim.",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Os adjetivos ákhrēstos (inútil) e eúkhrēstos (útil) parecem constituir um jogo de palavras em grego com o nome Onésimo, que significa útil, proveitoso. Por outro lado, as palavras ecoam em Khrístos (Cristo), aproximando ákhrēstos de ákhristos (sem Cristo) e eúkhrēstos de eu Khrístos (bem [com] Cristo)."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "fm-1-n13",
+              "offset": 60,
+              "original_marker": "m",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "",
-          "note_refs": []
+          "text": "Envio-to de volta, como se fosse o meu próprio coração.",
+          "note_refs": [
+            "14",
+            "15"
+          ],
+          "notes": {
+            "14": "Alguns mss. apresentam tu recebe-o, numa tentativa de tornar o texto mais claro.",
+            "15": "Lit.: entranhas (como nos vv.7.20)."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "fm-1-n14",
+              "offset": 17,
+              "original_marker": "n",
+              "source_id": 14
+            },
+            {
+              "ref": "15",
+              "id": "fm-1-n15",
+              "offset": 54,
+              "original_marker": "o",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 13,
-          "text": "",
-          "note_refs": []
+          "text": "O meu desejo era retê-lo junto de mim, para que me prestasse assistência em teu lugar, enquanto estou na prisão por causa do evangelho.",
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Lit.: na prisão do evangelho."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "fm-1-n16",
+              "offset": 134,
+              "original_marker": "a",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "",
-          "note_refs": []
+          "text": "Mas, sem o teu consentimento, nada quis fazer, para que o bem que fizeres não seja forçado, mas feito de livre vontade.",
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "Lit.: o teu bem."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "fm-1-n17",
+              "offset": 73,
+              "original_marker": "b",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "",
-          "note_refs": []
+          "text": "Pois talvez tenha sido por isto que ele foi afastado de ti por algum tempo: para que tu o possas recuperar para sempre,",
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "De ti é acrescento da tradução. Foi afastado trata-se de um passivo teológico: Deus possibilitou a separação, para que um bem maior acontecesse (a conversão de Onésimo, que pelo batismo é recuperado para sempre, ou seja, para a vida eterna)."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "fm-1-n18",
+              "offset": 58,
+              "original_marker": "c",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 16,
-          "text": "",
-          "note_refs": []
+          "text": "já não como escravo, mas mais do que escravo, como irmão amado. É isto que ele é para mim; quanto mais o deverá ser para ti, quer do ponto de vista humano, quer como irmão no Senhor!",
+          "note_refs": [
+            "19",
+            "20"
+          ],
+          "notes": {
+            "19": "Pelo batismo Onésimo tornou-se filho de Deus e irmão de Paulo em Cristo. Por isso, o apóstolo trata-o como irmão, porque partilha a mesma condição, sendo este um tratamento comum do apóstolo aos membros das comunidades: cf. 1Cor 15,50.58; 1Ts 2,1; 2Cor 8,1; Rm 15,30; Gl 1,2; Ef 6,23; Flp 1,2; 2Tm 4,21.",
+            "20": "Lit.: quer na carne quer no Senhor. Na carne (dimensão natural), pelos laços da relação senhor-escravo, Onésimo já fazia parte da casa de Filémon; no Senhor (dimensão espiritual) os dois tornaram-se irmãos. Filémon, que já demonstrou o seu amor para com o Senhor concretizado no amor para com os santos (vv.5.7), é exortado por Paulo a manifestá-lo uma vez mais em relação a Onésimo, recebendo-o como irmão amado."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "fm-1-n19",
+              "offset": 62,
+              "original_marker": "d",
+              "source_id": 19
+            },
+            {
+              "ref": "20",
+              "id": "fm-1-n20",
+              "offset": 181,
+              "original_marker": "e",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 17,
-          "text": "",
+          "text": "Portanto, se estás em comunhão comigo, recebe-o como se de mim se tratasse.",
           "note_refs": []
         },
         {
           "verse": 18,
-          "text": "",
+          "text": "Se te causou algum prejuízo ou se te deve alguma coisa, põe isso na minha conta.",
           "note_refs": []
         },
         {
           "verse": 19,
-          "text": "",
-          "note_refs": []
+          "text": "Eu, Paulo, o escrevo com a minha própria mão: eu próprio pagarei o que ele te deve – e isto para não te dizer que também tens uma dívida para comigo, que és tu próprio!...",
+          "note_refs": [
+            "21",
+            "22",
+            "23"
+          ],
+          "notes": {
+            "21": "Normalmente era um secretário que escrevia o que se ditava; a afirmação enfatiza a solenidade do pedido e do compromisso.",
+            "22": "O que te deve é acrescento da tradução.",
+            "23": "Lit.: para que não te diga que também me deves a ti próprio. Paulo evangelizou Filémon, embora não se saiba onde."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "fm-1-n21",
+              "offset": 44,
+              "original_marker": "f",
+              "source_id": 21
+            },
+            {
+              "ref": "22",
+              "id": "fm-1-n22",
+              "offset": 82,
+              "original_marker": "g",
+              "source_id": 22
+            },
+            {
+              "ref": "23",
+              "id": "fm-1-n23",
+              "offset": 168,
+              "original_marker": "h",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 20,
-          "text": "",
-          "note_refs": []
+          "text": "Sim, irmão, que eu possa obter de ti este favor no Senhor! Dá descanso, em Cristo, ao meu coração.",
+          "note_refs": [
+            "24",
+            "25"
+          ],
+          "notes": {
+            "24": "Em grego há uma homofonia entre obter um favor (onínēmi) e Onésimo.",
+            "25": "Lit.: descansa as minhas entranhas."
+          },
+          "note_positions": [
+            {
+              "ref": "24",
+              "id": "fm-1-n24",
+              "offset": 47,
+              "original_marker": "i",
+              "source_id": 24
+            },
+            {
+              "ref": "25",
+              "id": "fm-1-n25",
+              "offset": 97,
+              "original_marker": "j",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 21,
-          "text": "",
-          "note_refs": []
+          "text": "Escrevo-te convencido da tua obediência, sabendo que farás ainda mais do que aquilo que digo.",
+          "note_refs": [
+            "26"
+          ],
+          "notes": {
+            "26": "Obediência da fé, ou seja, agir de acordo com a vida nova em Cristo."
+          },
+          "note_positions": [
+            {
+              "ref": "26",
+              "id": "fm-1-n26",
+              "offset": 39,
+              "original_marker": "k",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 22,
-          "text": "",
+          "text": "Entretanto, prepara-me também alojamento, pois, graças às vossas orações, espero ser-vos restituído.",
           "note_refs": []
         },
         {
           "verse": 23,
-          "text": "",
+          "text": "Saúda-te Epafras, meu companheiro de prisão em Cristo Jesus,",
           "note_refs": []
         },
         {
           "verse": 24,
-          "text": "",
+          "text": "e também Marcos, Aristarco, Demas e Lucas, meus colaboradores.",
           "note_refs": []
         },
         {
           "verse": 25,
-          "text": "",
+          "text": "A graça do Senhor Jesus Cristo esteja com o vosso espírito!",
+          "note_refs": [
+            "27"
+          ],
+          "notes": {
+            "27": "Alguns mss. acrescentam Ámen."
+          },
+          "note_positions": [
+            {
+              "ref": "27",
+              "id": "fm-1-n27",
+              "offset": 58,
+              "original_marker": "l",
+              "source_id": 27
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "INTRODUÇÃO (1-9)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Saudação",
+          "note_refs": []
+        },
+        {
+          "before_verse": 4,
+          "text": "Agradecimento",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "Intercessão por Onésimo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Onésimo, de escravo a irmão em Cristo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 20,
+          "text": "Exortação",
+          "note_refs": []
+        },
+        {
+          "before_verse": 21,
+          "text": "CONCLUSÃO (21-25)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 21,
+          "text": "Recomendações",
+          "note_refs": []
+        },
+        {
+          "before_verse": 23,
+          "text": "Saudações finais",
           "note_refs": []
         }
       ]
