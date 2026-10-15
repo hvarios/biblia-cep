@@ -66,6 +66,15 @@
     .sidebar-action .action-label{font-size:.84rem;letter-spacing:.03em;color:var(--ink)}
     .sidebar-action .action-detail{margin-top:2px;font-family:var(--font-body);font-size:.7rem;color:var(--ink3)}
     .sidebar-action .action-chevron{font-size:.85rem;color:var(--ink3);text-align:right}
+    .random-passage-card{border:1px solid var(--border);border-radius:7px;background:var(--bg3);overflow:hidden}
+    .random-passage-card .sidebar-action{border:0;border-radius:0;background:transparent}
+    .random-passage-card .sidebar-action:hover{background:var(--gold-lt)}
+    .random-scope-panel{margin:0;padding:6px 7px 7px;border:0;border-top:1px solid var(--border);border-radius:0;background:var(--bg);color:var(--ink3)}
+    .random-scope-title{margin:0 8px 4px;font-family:var(--font-ui);font-size:.7rem;line-height:1.3;letter-spacing:.06em;text-transform:uppercase}
+    .random-scope-option{display:flex;align-items:center;gap:8px;min-height:36px;padding:4px 8px;border-radius:5px;color:var(--ink2);font-family:var(--font-body);font-size:.76rem;line-height:1.2;cursor:pointer;transition:background .15s,color .15s}
+    .random-scope-option:hover,.random-scope-option:has(input:checked){background:var(--bg3);color:var(--ink)}
+    .random-scope-option input{width:18px;height:18px;flex:0 0 auto;accent-color:var(--gold);cursor:pointer}
+    .random-scope-option input:checked+span{font-weight:600}
     #book-list{flex:1;overflow-y:auto;padding:6px 0}
 
     .testament-item{display:flex;align-items:center;justify-content:space-between;padding:11px 18px;cursor:pointer;font-family:var(--font-ui);font-size:.92rem;letter-spacing:.09em;color:var(--ink);transition:background .15s;border-bottom:1px solid var(--border);user-select:none;text-transform:uppercase}
@@ -205,10 +214,18 @@
     #overlay.open{display:block}
     @keyframes fadeIn{from{opacity:0;transform:translateY(-4px)}to{opacity:1}}
 
+    #splash{position:fixed;inset:0;z-index:1200;display:flex;align-items:center;justify-content:center;padding:24px;background:var(--bg);color:var(--ink);opacity:1;visibility:visible;transition:opacity .28s ease,visibility 0s linear .28s}
+    #splash.hidden{opacity:0;visibility:hidden;pointer-events:none}
+    .splash-content{text-align:center}
+    .splash-logo{width:88px;height:88px;border-radius:20px;box-shadow:0 8px 24px var(--shadow);margin-bottom:22px}
+    .splash-title{font-family:var(--font-ui);font-size:1.7rem;font-weight:400;letter-spacing:.12em;text-transform:uppercase;color:var(--ink2)}
+    .splash-subtitle{margin-top:6px;font-size:1rem;line-height:1.4;color:var(--ink3);font-style:italic}
+    .splash-loading{margin-top:24px;font-family:var(--font-ui);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3)}
+
     @media(max-width:700px){
       #sidebar{position:fixed;top:calc(var(--topbar-h) + var(--safe-top));bottom:0;left:0;height:calc(100vh - var(--topbar-h) - var(--safe-top));height:calc(100dvh - var(--topbar-h) - var(--safe-top));transform:translateX(-100%);box-shadow:4px 0 20px var(--shadow);z-index:250}
       #sidebar.open{transform:translateX(0)}
-      #topbar h1{font-family:Georgia,'Times New Roman',serif;font-size:.94rem;font-weight:600;letter-spacing:.01em;line-height:1.1;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+      #topbar h1{font-family:var(--font-ui);font-size:.94rem;font-weight:400;letter-spacing:.06em;line-height:1.1}
       #reader{padding:20px 16px 80px}
       .introduction{padding-top:16px}
       #verses-container{max-width:100%;display:block}
@@ -246,6 +263,15 @@
 </head>
 <body>
 
+<div id="splash" role="status" aria-live="polite" aria-label="A carregar a Bíblia CEP">
+  <div class="splash-content">
+    <img class="splash-logo" src="icons/icon-192.png" alt="">
+    <div class="splash-title">Bíblia Católica</div>
+    <div class="splash-subtitle">Conferência Episcopal Portuguesa</div>
+    <div class="splash-loading">A carregar…</div>
+  </div>
+</div>
+
 <div id="topbar">
   <button class="topbar-btn" id="menu-btn" title="Menu">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
@@ -277,11 +303,19 @@
       </div>
     </div>
     <div id="sidebar-actions">
-      <button class="sidebar-action" id="random-passage-btn" type="button" aria-label="Abrir uma passagem aleatória do Antigo ou do Novo Testamento">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 3h5v5"/><path d="M4 20 21 3"/><path d="M21 16v5h-5"/><path d="m15 15 6 6"/><path d="M4 4l5 5"/></svg>
-        <span class="action-text"><span class="action-label">Passagem aleatória</span><span class="action-detail">Antigo ou Novo Testamento</span></span>
-        <span class="action-chevron" aria-hidden="true">›</span>
-      </button>
+      <div class="random-passage-card">
+        <button class="sidebar-action" id="random-passage-btn" type="button" aria-label="Abrir uma passagem aleatória de toda a Bíblia">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 3h5v5"/><path d="M4 20 21 3"/><path d="M21 16v5h-5"/><path d="m15 15 6 6"/><path d="M4 4l5 5"/></svg>
+          <span class="action-text"><span class="action-label">Passagem aleatória</span></span>
+          <span class="action-chevron" aria-hidden="true">›</span>
+        </button>
+        <fieldset class="random-scope-panel" aria-label="Escolher entre">
+          <div class="random-scope-title" aria-hidden="true">Escolher entre</div>
+          <label class="random-scope-option"><input type="radio" name="random-passage-scope" value="all" checked><span>Toda a Bíblia</span></label>
+          <label class="random-scope-option"><input type="radio" name="random-passage-scope" value="AT"><span>Antigo Testamento</span></label>
+          <label class="random-scope-option"><input type="radio" name="random-passage-scope" value="NT"><span>Novo Testamento</span></label>
+        </fieldset>
+      </div>
     </div>
     <div id="book-list"></div>
   </nav>
@@ -343,7 +377,7 @@
 
 <script>
 'use strict';
-const APP_VERSION='5.02';
+const APP_VERSION='5.03';
 const APP_COMMIT_DATE='outubro 2026';
 const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{},book:''},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all',noteItems:new Map(),noteCounter:0,lastNoteFocus:null,activeNote:null};
 applyFontScale();
@@ -770,7 +804,8 @@ async function openBookIntroduction(book){
 function randomItem(items){return items[Math.floor(Math.random()*items.length)]}
 async function openRandomPassage(){
   try{
-    const testamentChoices=CANON.map(testament=>({
+    const scope=document.querySelector('input[name="random-passage-scope"]:checked')?.value||'all';
+    const testamentChoices=CANON.filter(testament=>scope==='all'||testament.id===scope).map(testament=>({
       testament,
       books:testament.groups.flatMap(group=>group.books.map(findBookByName)).filter(bookHasContent)
     })).filter(choice=>choice.books.length);
@@ -949,6 +984,10 @@ $('share-selection-btn').addEventListener('click',shareSelectedVerses);
 $('clear-selection-btn').addEventListener('click',()=>clearVerseSelection(true));
 $('font-btn').addEventListener('click',cycleFontScale);
 $('random-passage-btn').addEventListener('click',openRandomPassage);
+document.querySelectorAll('input[name="random-passage-scope"]').forEach(radio=>radio.addEventListener('change',event=>{
+  const label=event.target.closest('label')?.querySelector('span')?.textContent||'Toda a Bíblia';
+  $('random-passage-btn').setAttribute('aria-label',`Abrir uma passagem aleatória de ${label.toLowerCase()}`);
+}));
 $('note-sheet-close').addEventListener('click',()=>closeNote(true));
 $('note-overlay').addEventListener('click',event=>{if(event.target===$('note-overlay'))closeNote(true)});
 $('note-select-btn').addEventListener('click',toggleActiveNoteSelection);
@@ -972,7 +1011,12 @@ function goHomeFromLogo(){
 $('topbar-logo').addEventListener('click',goHomeFromLogo);
 $('sidebar-logo').addEventListener('click',goHomeFromLogo);
 
-loadData().catch(err=>{$('reader').innerHTML=`<p style="color:var(--red);padding:20px">Erro: ${err.message}</p>`});
+const splashStarted=performance.now();
+function hideSplash(){
+  const elapsed=performance.now()-splashStarted;
+  setTimeout(()=>{$('splash').classList.add('hidden')},Math.max(0,650-elapsed));
+}
+loadData().catch(err=>{$('reader').innerHTML=`<p style="color:var(--red);padding:20px">Erro: ${err.message}</p>`}).finally(hideSplash);
 </script>
 </body>
 </html>
