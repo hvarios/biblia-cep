@@ -167,8 +167,16 @@
     .note-sheet-title span{display:block;margin-top:2px;color:var(--ink3);font-size:.78rem}
     #note-sheet-body{overflow:auto;padding:18px 20px 16px;overscroll-behavior:contain;white-space:pre-line;font-size:1rem;line-height:1.7}
     .note-sheet-actions{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;padding:10px 14px 14px;border-top:1px solid var(--border)}
+    .note-sheet-actions[hidden]{display:none}
     .note-action-btn{min-height:44px;border:1px solid var(--border);border-radius:6px;background:var(--bg);color:var(--ink2);font-family:var(--font-ui);font-size:.78rem;letter-spacing:.04em;cursor:pointer}
     .note-action-btn:hover,.note-action-btn:focus-visible,.note-action-btn.active{background:var(--gold);border-color:var(--gold);color:#fff;outline:none}
+    .bible-ref-link{display:inline;padding:0;border:0;background:transparent;color:var(--red);font:inherit;font-weight:600;text-decoration:underline;text-decoration-thickness:.08em;text-underline-offset:.14em;cursor:pointer}
+    .bible-ref-link:hover,.bible-ref-link:focus-visible{color:var(--gold);outline:2px solid transparent;text-decoration-thickness:.12em}
+    .reference-passage{white-space:normal}
+    .reference-chapter+.reference-chapter{margin-top:24px;padding-top:18px;border-top:1px solid var(--border)}
+    .reference-chapter h3{margin:0 0 12px;color:var(--gold);font-family:var(--font-ui);font-size:.9rem;letter-spacing:.06em}
+    .reference-verse{margin:.48em 0}
+    .reference-verse-number{display:inline-block;min-width:2.2em;color:var(--red);font-family:var(--font-ui);font-size:.76em;font-weight:600;vertical-align:.16em}
     body.note-open{overflow:hidden}
     .introduction{max-width:840px;margin:0 auto}
     .introduction>h2{text-align:center;font-family:var(--font-ui);font-size:1.5rem;letter-spacing:.11em;text-transform:uppercase;color:var(--ink2);margin:0 0 24px}
@@ -357,9 +365,30 @@
 
 <script>
 'use strict';
-const APP_VERSION='5.6';
+const APP_VERSION='6.0';
 const APP_COMMIT_DATE='outubro 2026';
-const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{},book:'',random:false},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all',noteItems:new Map(),noteCounter:0,lastNoteFocus:null,activeNote:null};
+const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{},book:'',random:false},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all',noteItems:new Map(),noteCounter:0,lastNoteFocus:null,activeNote:null,activeReference:null,noteScrollTop:0,noteReferenceRequest:0};
+const BIBLE_REFERENCE_BOOKS=[
+  {id:'gn',name:'Génesis',aliases:['Gn','Gen','Génesis']},{id:'ex',name:'Êxodo',aliases:['Ex','Êxodo']},{id:'lv',name:'Levítico',aliases:['Lv','Lev','Levítico']},{id:'nm',name:'Números',aliases:['Nm','Núm','Números']},{id:'dt',name:'Deuteronómio',aliases:['Dt','Deut','Deuteronómio']},
+  {id:'js',name:'Josué',aliases:['Js','Jos','Josué']},{id:'jz',name:'Juízes',aliases:['Jz','Jz','Juízes']},{id:'rt',name:'Rute',aliases:['Rt','Rute']},{id:'1sm',name:'1 Samuel',aliases:['1Sm','1 Sm','1Sam','1 Samuel']},{id:'2sm',name:'2 Samuel',aliases:['2Sm','2 Sm','2Sam','2 Samuel']},
+  {id:'1rs',name:'1 Reis',aliases:['1Rs','1 Rs','1 Reis']},{id:'2rs',name:'2 Reis',aliases:['2Rs','2 Rs','2 Reis']},{id:'1cr',name:'1 Crónicas',aliases:['1Cr','1 Cr','1Cro','1 Crónicas']},{id:'2cr',name:'2 Crónicas',aliases:['2Cr','2 Cr','2Cro','2 Crónicas']},{id:'esd',name:'Esdras',aliases:['Esd','Esdras']},
+  {id:'ne',name:'Neemias',aliases:['Ne','Neem','Neemias']},{id:'tb',name:'Tobite',aliases:['Tb','Tob','Tobite','Tobias']},{id:'jt',name:'Judite',aliases:['Jt','Jdt','Judite']},{id:'est',name:'Ester',aliases:['Est','Ester']},{id:'1mc',name:'1 Macabeus',aliases:['1Mc','1 Mc','1Mac','1 Mac','1 Macabeus']},
+  {id:'2mc',name:'2 Macabeus',aliases:['2Mc','2 Mc','2Mac','2 Mac','2 Macabeus']},{id:'job',name:'Job',aliases:['Jb','Job']},{id:'sl',name:'Salmos',aliases:['Sl','Salmo','Salmos']},{id:'pr',name:'Provérbios',aliases:['Pr','Prov','Provérbios']},{id:'co',name:'Eclesiastes',aliases:['Co','Ecl','Qo','Eclesiastes','Coélet']},
+  {id:'ct',name:'Cântico dos Cânticos',aliases:['Ct','Cântico dos Cânticos','Cantares']},{id:'sb',name:'Sabedoria',aliases:['Sb','Sab','Sabedoria']},{id:'ben-sira',name:'Ben Sira',aliases:['Sir','Eclo','Sr','Ben Sira','Eclesiástico']},{id:'is',name:'Isaías',aliases:['Is','Isaías']},{id:'jr',name:'Jeremias',aliases:['Jr','Jer','Jeremias']},
+  {id:'lm',name:'Lamentações',aliases:['Lm','Lam','Lamentações']},{id:'br',name:'Baruc',aliases:['Br','Bar','Baruc']},{id:'ez',name:'Ezequiel',aliases:['Ez','Ezeq','Ezequiel']},{id:'dn',name:'Daniel',aliases:['Dn','Dan','Daniel']},{id:'os',name:'Oseias',aliases:['Os','Oseias']},
+  {id:'jl',name:'Joel',aliases:['Jl','Joel']},{id:'am',name:'Amós',aliases:['Am','Amós']},{id:'abd',name:'Abdias',aliases:['Abd','Abdias']},{id:'jn',name:'Jonas',aliases:['Jn','Jonas']},{id:'mq',name:'Miqueias',aliases:['Mq','Mi','Miqueias']},
+  {id:'na',name:'Naum',aliases:['Na','Naum']},{id:'hab',name:'Habacuc',aliases:['Hab','Habacuc']},{id:'sf',name:'Sofonias',aliases:['Sf','Sof','Sofonias']},{id:'ag',name:'Ageu',aliases:['Ag','Ageu']},{id:'zc',name:'Zacarias',aliases:['Zc','Zac','Zacarias']},{id:'ml',name:'Malaquias',aliases:['Ml','Mal','Malaquias']},
+  {id:'sao-mateus',name:'Mateus',aliases:['Mt','Mateus']},{id:'sao-marcos',name:'Marcos',aliases:['Mc','Marcos']},{id:'sao-lucas',name:'Lucas',aliases:['Lc','Lucas']},{id:'sao-joao',name:'João',aliases:['Jo','João']},{id:'at',name:'Atos dos Apóstolos',aliases:['At','Act','Atos','Actos','Atos dos Apóstolos','Actos dos Apóstolos']},
+  {id:'rm',name:'Romanos',aliases:['Rm','Rom','Romanos']},{id:'1cor',name:'1 Coríntios',aliases:['1Cor','1 Cor','1Co','1 Coríntios']},{id:'2cor',name:'2 Coríntios',aliases:['2Cor','2 Cor','2Co','2 Coríntios']},{id:'gl',name:'Gálatas',aliases:['Gl','Gál','Gálatas']},{id:'ef',name:'Efésios',aliases:['Ef','Efésios']},
+  {id:'fl',name:'Filipenses',aliases:['Fl','Flp','Fil','Filipenses']},{id:'cl',name:'Colossenses',aliases:['Cl','Col','Colossenses']},{id:'1ts',name:'1 Tessalonicenses',aliases:['1Ts','1 Ts','1 Tessalonicenses']},{id:'2ts',name:'2 Tessalonicenses',aliases:['2Ts','2 Ts','2 Tessalonicenses']},{id:'1tm',name:'1 Timóteo',aliases:['1Tm','1 Tm','1 Timóteo']},
+  {id:'2tm',name:'2 Timóteo',aliases:['2Tm','2 Tm','2 Timóteo']},{id:'tt',name:'Tito',aliases:['Tt','Tito']},{id:'fm',name:'Filémon',aliases:['Fm','Flm','Filémon']},{id:'carta-aos-hebreus',name:'Carta aos Hebreus',aliases:['Hb','Heb','Hebreus','Carta aos Hebreus']},{id:'tg',name:'Tiago',aliases:['Tg','Tiago']},
+  {id:'1pd',name:'1 Pedro',aliases:['1Pd','1 Pd','1Pe','1 Pedro']},{id:'2pd',name:'2 Pedro',aliases:['2Pd','2 Pd','2Pe','2 Pedro']},{id:'1jo',name:'1 João',aliases:['1Jo','1 Jo','1 João']},{id:'2jo',name:'2 João',aliases:['2Jo','2 Jo','2 João']},{id:'3jo',name:'3 João',aliases:['3Jo','3 Jo','3 João']},
+  {id:'jd',name:'Judas',aliases:['Jd','Judas']},{id:'ap',name:'Apocalipse',aliases:['Ap','Apocalipse']}
+];
+function normalizeReferenceAlias(value){return String(value).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[.\s]+/g,'')}
+const BIBLE_REFERENCE_ALIAS_MAP=new Map(BIBLE_REFERENCE_BOOKS.flatMap(book=>book.aliases.map(alias=>[normalizeReferenceAlias(alias),book])));
+const BIBLE_REFERENCE_ALIAS_PATTERN=[...new Set(BIBLE_REFERENCE_BOOKS.flatMap(book=>book.aliases))].sort((a,b)=>b.length-a.length).map(alias=>escR(alias).replace(/\\ /g,'\\s*')).join('|');
+const BIBLE_REFERENCE_START_RE=new RegExp(`(^|[^\\p{L}\\p{N}])(${BIBLE_REFERENCE_ALIAS_PATTERN})\\s+(\\d{1,3})`,'giu');
 applyFontScale();
 function $(id){return document.getElementById(id)}
 function toast(msg,dur=2200){const el=$('toast');el.textContent=msg;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),dur)}
@@ -762,16 +791,169 @@ function renderAnnotatedText(item,context,meta){
   if(item.note_refs&&item.notes)item.note_refs.forEach(ref=>{html+=noteButton(ref,item.notes[ref],context,meta)});
   return html;
 }
+function skipReferenceSpaces(text,position){while(position<text.length&&/\s/u.test(text[position]))position++;return position}
+function readReferenceNumber(text,position){
+  const match=/^\d{1,3}/u.exec(text.slice(position));return match?{value:Number(match[0]),end:position+match[0].length}:null;
+}
+function parseReferenceSegment(text,start){
+  const chapterToken=readReferenceNumber(text,start);if(!chapterToken)return null;
+  const chapter=chapterToken.value;let position=chapterToken.end;let probe=skipReferenceSpaces(text,position);const ranges=[];let ambiguous=false;
+  if(text[probe]!==','){
+    if(text[probe]==='-'||text[probe]==='–'){
+      const endChapterStart=skipReferenceSpaces(text,probe+1);const endChapter=readReferenceNumber(text,endChapterStart);
+      if(endChapter){ranges.push({fromChapter:chapter,toChapter:endChapter.value});position=endChapter.end;return{end:position,ranges,ambiguous}}
+    }
+    ranges.push({fromChapter:chapter,toChapter:chapter});return{end:position,ranges,ambiguous};
+  }
+  const firstVerseStart=skipReferenceSpaces(text,probe+1);const firstVerse=readReferenceNumber(text,firstVerseStart);if(!firstVerse)return null;
+  let current={fromChapter:chapter,fromVerse:firstVerse.value,toChapter:chapter,toVerse:firstVerse.value};ranges.push(current);position=firstVerse.end;
+  while(position<text.length){
+    probe=skipReferenceSpaces(text,position);const marker=text[probe];
+    if(marker==='.'){
+      const nextVerse=readReferenceNumber(text,skipReferenceSpaces(text,probe+1));if(!nextVerse)break;
+      current={fromChapter:chapter,fromVerse:nextVerse.value,toChapter:chapter,toVerse:nextVerse.value};ranges.push(current);position=nextVerse.end;continue;
+    }
+    if(marker==='-'||marker==='–'){
+      const firstEnd=readReferenceNumber(text,skipReferenceSpaces(text,probe+1));if(!firstEnd)break;
+      const afterFirstEnd=skipReferenceSpaces(text,firstEnd.end);
+      if(text[afterFirstEnd]===','){
+        const finalVerse=readReferenceNumber(text,skipReferenceSpaces(text,afterFirstEnd+1));if(!finalVerse)break;
+        current.toChapter=firstEnd.value;current.toVerse=finalVerse.value;position=finalVerse.end;
+      }else{current.toVerse=firstEnd.value;position=firstEnd.end}
+      continue;
+    }
+    const following=/^s{1,2}(?!\p{L})/iu.exec(text.slice(probe));
+    if(following){if(following[0].length===1)current.toVerse=current.fromVerse+1;else ambiguous=true;position=probe+following[0].length}
+    break;
+  }
+  return{end:position,ranges,ambiguous};
+}
+function referenceEndsInNote(text,end){return /^\s+nota\b/iu.test(text.slice(end))}
+function validReferenceBook(book,ranges){
+  const indexed=state.books.find(item=>item.id===book.id);if(!indexed||indexed.available===false)return false;
+  const chapterCount=Number(indexed.chaptersCount||indexed.chapterCount||0);
+  return ranges.every(range=>range.fromChapter>0&&range.toChapter>=range.fromChapter&&(!chapterCount||range.toChapter<=chapterCount));
+}
+function noteReferences(note){
+  const text=String(note?.text||'');const references=[];BIBLE_REFERENCE_START_RE.lastIndex=0;let match;
+  while((match=BIBLE_REFERENCE_START_RE.exec(text))){
+    const book=BIBLE_REFERENCE_ALIAS_MAP.get(normalizeReferenceAlias(match[2]));if(!book)continue;
+    const bookStart=match.index+match[1].length;const chapterStart=match.index+match[0].length-match[3].length;
+    const first=parseReferenceSegment(text,chapterStart);if(!first)continue;
+    const addReference=(start,segment,explicit)=>{
+      if(segment.ambiguous||referenceEndsInNote(text,segment.end)||!validReferenceBook(book,segment.ranges))return;
+      const label=text.slice(start,segment.end);const suffix=explicit?text.slice(chapterStart,segment.end):label;
+      references.push({start,end:segment.end,label,title:`${book.name} ${suffix}`,bookId:book.id,ranges:segment.ranges});
+    };
+    addReference(bookStart,first,true);let groupEnd=first.end;
+    while(true){
+      const separator=/^\s*;\s*/u.exec(text.slice(groupEnd));if(!separator)break;
+      const inheritedStart=groupEnd+separator[0].length;if(!/^\d/u.test(text.slice(inheritedStart)))break;
+      const inherited=parseReferenceSegment(text,inheritedStart);if(!inherited)break;
+      if(/^\p{L}/u.test(text.slice(skipReferenceSpaces(text,inherited.end))))break;
+      addReference(inheritedStart,inherited,false);groupEnd=inherited.end;
+    }
+    BIBLE_REFERENCE_START_RE.lastIndex=Math.max(BIBLE_REFERENCE_START_RE.lastIndex,groupEnd);
+  }
+  return references.sort((a,b)=>a.start-b.start||a.end-b.end).filter((reference,index,all)=>!index||reference.start>=all[index-1].end);
+}
+function renderNoteText(note,references=[]){
+  const body=$('note-sheet-body');body.replaceChildren();
+  const text=String(note.text||'Nota sem texto.');
+  if(!references.length){body.textContent=text;return}
+  let cursor=0;
+  references.forEach((reference,index)=>{
+    body.append(document.createTextNode(text.slice(cursor,reference.start)));
+    const button=document.createElement('button');button.type='button';button.className='bible-ref-link';button.dataset.bibleRefIndex=String(index);button.textContent=text.slice(reference.start,reference.end);button.setAttribute('aria-label',`Ler ${reference.title}`);
+    button.addEventListener('click',()=>openReference(note,reference,index));body.append(button);cursor=reference.end;
+  });
+  body.append(document.createTextNode(text.slice(cursor)));
+}
+function referenceExistsInBook(book,reference){
+  return reference.ranges.every(range=>{
+    if(range.toChapter<range.fromChapter)return false;
+    for(let chapterNumber=range.fromChapter;chapterNumber<=range.toChapter;chapterNumber++){
+      const chapter=(book.chapters||[]).find(item=>Number(item.chapter)===chapterNumber);if(!chapter)return false;
+      const numbers=(chapter.verses||[]).map(verse=>Number(verse.verse));
+      const start=chapterNumber===range.fromChapter&&range.fromVerse!=null?range.fromVerse:Math.min(...numbers);
+      const end=chapterNumber===range.toChapter&&range.toVerse!=null?range.toVerse:Math.max(...numbers);
+      if(end<start||!numbers.some(number=>number>=start&&number<=end))return false;
+    }
+    return true;
+  });
+}
+async function renderNoteBody(note){
+  const request=++state.noteReferenceRequest;renderNoteText(note);
+  const candidates=noteReferences(note);if(!candidates.length)return;
+  const books=new Map();
+  await Promise.all([...new Set(candidates.map(reference=>reference.bookId))].map(async bookId=>{
+    const book=state.books.find(item=>item.id===bookId);if(!book)return;
+    try{await loadBook(book);books.set(bookId,book)}catch{}
+  }));
+  if(request!==state.noteReferenceRequest||state.activeNote!==note||state.activeReference)return;
+  renderNoteText(note,candidates.filter(reference=>{const book=books.get(reference.bookId);return!!book&&referenceExistsInBook(book,reference)}));
+}
+async function showNoteView(note,restoreScroll=false){
+  state.activeReference=null;
+  $('note-sheet-heading').textContent=`Nota ${visibleNoteRef(note.ref)}`;$('note-sheet-context').textContent=note.context;
+  $('note-sheet-close').setAttribute('aria-label','Fechar nota');$('note-sheet-close').title='Fechar';
+  document.querySelector('.note-sheet-actions').hidden=false;await renderNoteBody(note);updateNoteSelectionButton();
+  if(restoreScroll){$('note-sheet-body').scrollTop=state.noteScrollTop;requestAnimationFrame(()=>{const button=$('note-sheet-body').querySelector(`[data-bible-ref-index="${state.activeReferenceIndex}"]`);if(button)button.focus({preventScroll:true})})}
+}
+function referenceChapters(book,reference){
+  const selected=new Map();
+  reference.ranges.forEach(range=>{
+    for(let chapterNumber=range.fromChapter;chapterNumber<=range.toChapter;chapterNumber++){
+      const chapter=(book.chapters||[]).find(item=>Number(item.chapter)===chapterNumber);if(!chapter)continue;
+      const chapterVerses=selected.get(chapterNumber)||new Map();
+      (chapter.verses||[]).forEach(verse=>{
+        const number=Number(verse.verse);
+        const afterStart=chapterNumber!==range.fromChapter||range.fromVerse==null||number>=range.fromVerse;
+        const beforeEnd=chapterNumber!==range.toChapter||range.toVerse==null||number<=range.toVerse;
+        if(afterStart&&beforeEnd)chapterVerses.set(number,verse);
+      });
+      if(chapterVerses.size)selected.set(chapterNumber,chapterVerses);
+    }
+  });
+  return[...selected].sort((a,b)=>a[0]-b[0]).map(([chapter,verses])=>({chapter,verses:[...verses].sort((a,b)=>a[0]-b[0]).map(item=>item[1])}));
+}
+function renderReferencePassage(book,reference){
+  const body=$('note-sheet-body');body.replaceChildren();body.scrollTop=0;
+  const article=document.createElement('article');article.className='reference-passage';
+  const chapters=referenceChapters(book,reference);const showChapterHeadings=chapters.length>1;
+  chapters.forEach(item=>{
+    const section=document.createElement('section');section.className='reference-chapter';
+    if(showChapterHeadings){const heading=document.createElement('h3');heading.textContent=`${book.book} ${item.chapter}`;section.append(heading)}
+    item.verses.forEach(verse=>{
+      const paragraph=document.createElement('p');paragraph.className='reference-verse';
+      const number=document.createElement('span');number.className='reference-verse-number';number.textContent=verse.verse;
+      paragraph.append(number,document.createTextNode(verse.omitted?'Versículo omitido nesta edição.':String(verse.text||'')));section.append(paragraph);
+    });
+    article.append(section);
+  });
+  if(!article.childElementCount)article.textContent='Não foi possível localizar esta passagem.';body.append(article);
+}
+async function openReference(note,reference,index){
+  state.noteScrollTop=$('note-sheet-body').scrollTop;state.activeReferenceIndex=index;state.activeReference={note,reference};
+  $('note-sheet-heading').textContent=reference.title;$('note-sheet-context').textContent=`Referência da Nota ${visibleNoteRef(note.ref)} · ${note.context}`;
+  $('note-sheet-close').setAttribute('aria-label','Fechar passagem e voltar à nota');$('note-sheet-close').title='Voltar à nota';document.querySelector('.note-sheet-actions').hidden=true;
+  $('note-sheet-body').textContent='A carregar…';$('note-sheet-close').focus({preventScroll:true});
+  try{
+    const book=state.books.find(item=>item.id===reference.bookId);if(!book)throw new Error(`Livro não encontrado: ${reference.bookId}`);
+    await loadBook(book);if(!state.activeReference||state.activeReference.reference!==reference)return;renderReferencePassage(book,reference);
+  }catch(err){$('note-sheet-body').textContent=err.message||'Não foi possível carregar a passagem.'}
+}
 function openNote(key,source){
   const note=state.noteItems.get(key);if(!note)return;
-  state.lastNoteFocus=source||null;state.activeNote=note;
-  $('note-sheet-heading').textContent=`Nota ${visibleNoteRef(note.ref)}`;$('note-sheet-context').textContent=note.context;$('note-sheet-body').textContent=note.text||'Nota sem texto.';
-  updateNoteSelectionButton();$('note-overlay').classList.add('open');$('note-overlay').setAttribute('aria-hidden','false');document.body.classList.add('note-open');$('note-sheet-close').focus({preventScroll:true});
+  state.lastNoteFocus=source||null;state.activeNote=note;state.noteScrollTop=0;showNoteView(note);
+  $('note-overlay').classList.add('open');$('note-overlay').setAttribute('aria-hidden','false');document.body.classList.add('note-open');$('note-sheet-close').focus({preventScroll:true});
 }
 function closeNote(restoreFocus=true){
   const noteOverlay=$('note-overlay');if(!noteOverlay)return;
+  if(restoreFocus&&state.activeReference&&state.activeNote){showNoteView(state.activeNote,true);return}
+  state.noteReferenceRequest++;
   noteOverlay.classList.remove('open');noteOverlay.setAttribute('aria-hidden','true');document.body.classList.remove('note-open');
-  if(restoreFocus&&state.lastNoteFocus)state.lastNoteFocus.focus({preventScroll:true});state.lastNoteFocus=null;state.activeNote=null;
+  if(restoreFocus&&state.lastNoteFocus)state.lastNoteFocus.focus({preventScroll:true});state.lastNoteFocus=null;state.activeNote=null;state.activeReference=null;
 }
 function updateNoteSelectionButton(){
   const selected=state.activeNote&&state.selectedVerses.has(state.activeNote.selectionKey);
