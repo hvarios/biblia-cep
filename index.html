@@ -357,7 +357,7 @@
 
 <script>
 'use strict';
-const APP_VERSION='5.51';
+const APP_VERSION='5.6';
 const APP_COMMIT_DATE='outubro 2026';
 const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{},book:'',random:false},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all',noteItems:new Map(),noteCounter:0,lastNoteFocus:null,activeNote:null};
 applyFontScale();
@@ -792,9 +792,17 @@ function copyText(text,message){
 }
 function renderIntroduction(){
   const book=state.currentBook;if(!book?.introduction)return;
-  closeNote(false);clearVerseSelection(false);$('topbar-title').textContent=`${book.book} · Introdução`;
+  closeNote(false);clearVerseSelection(false);state.noteItems.clear();state.noteCounter=0;$('topbar-title').textContent=`${book.book} · Introdução`;
   const sections=book.introduction.sections||[];$('reader').removeAttribute('style');
-  $('reader').innerHTML=`<article class="introduction"><h2>${esc(book.introduction.title||'Introdução')}</h2>${sections.map(section=>`<section class="introduction-section">${section.title?`<h3>${esc(section.title)}</h3>`:''}${(section.paragraphs||[]).map(paragraph=>`<p>${esc(paragraph)}</p>`).join('')}</section>`).join('')}</article>`;$('reader').scrollTop=0;
+  let paragraphNumber=0;
+  const sectionHtml=sections.map(section=>`<section class="introduction-section">${section.title?`<h3>${esc(section.title)}</h3>`:''}${(section.paragraphs||[]).map(paragraph=>{
+    paragraphNumber++;
+    const item=typeof paragraph==='string'?{text:paragraph}:paragraph;
+    const context=`${book.book} · ${section.title||book.introduction.title||'Introdução'}`;
+    return`<p>${renderAnnotatedText(item,context,{book:book.book,chapter:0,verse:paragraphNumber})}</p>`;
+  }).join('')}</section>`).join('');
+  $('reader').innerHTML=`<article class="introduction"><h2>${esc(book.introduction.title||'Introdução')}</h2>${sectionHtml}</article>`;$('reader').scrollTop=0;
+  $('reader').querySelectorAll('.note-hit').forEach(button=>button.addEventListener('click',()=>openNote(button.dataset.noteKey,button)));
 }
 
 async function openBookIntroduction(book){

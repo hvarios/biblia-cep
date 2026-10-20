@@ -1,5 +1,47 @@
 {
+  "schema_version": 2,
   "book": "Números",
+  "book_id": "nm",
+  "source": {
+    "format": "docx",
+    "file": "04_Nm.docx",
+    "title": "Livro dos Números"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": null,
+        "paragraphs": [
+          "O livro dos Números é o quarto livro do Pentateuco. O título em português deriva da tradução grega dos LXX (Septuaginta) e justifica-se pelos recenseamentos que nele são relatados. O título hebraico deste livro é No deserto (Bamidbar). Este título sublinha um dado geográfico, o fim da estadia dos filhos de Israel no deserto do Sinai (Ex 19,1–Nm 10,10) e a caminhada rumo à terra prometida (10,11). Essa caminhada teve várias etapas (33), onde se evidenciam principalmente dois acampamentos: Cadés (20,1) e Moab (21,10-19). Este livro refere os dois recenseamentos dos filhos de Israel que estavam aptos para a guerra (1; 26). A tribo de Levi foi contada à parte, pois foi reservada para os serviços da tenda do encontro. Além dos números destes dois recenseamentos, o livro contém outras listas, nomeadamente, a oferta das tribos para a tenda do encontro (7); os exploradores de Canaã (13); as medidas de grão, azeite e vinho que acompanham os sacrifícios (15); a designação dos sacrifícios segundo as várias ocasiões (28–29); a lista das etapas da caminhada no deserto (33) e, finalmente, as fronteiras da terra prometida (34)."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "O livro dos Números apresenta uma estrutura em três partes, segundo a geografia apresentada. Na primeira parte, os filhos de Israel, por ordem do Senhor, recebem instruções e preparam-se para deixar o Sinai (1,1–10,10). Na segunda parte, são descritos os acontecimentos ocorridos desde a saída do Sinai até às margens do Jordão, no lado oriental ou Transjordânia (10,11–21,35). Na terceira parte, são descritos os acontecimentos ocorridos nas estepes de Moab (22,1–36,13).",
+          "Existe também a possibilidade de considerar uma divisão do livro em duas partes, com base nos dois recenseamentos. De 1,1 a 25,19 seria a primeira parte e diz respeito à geração que foi contada antes de sair do Egito (1) e que não recebeu o direito de entrar na terra prometida. Devido às várias murmurações, essa geração pereceu no deserto. De 26,1 a 36,13 seria a segunda parte e diz respeito à nova geração (26), que nasceu no deserto e recebeu o direito de entrar e tomar posse da terra prometida. Da geração precedente, apenas Caleb com a sua família e Josué com a sua família receberam o direito de entrar e viver na terra prometida por terem permanecido fiéis à voz do Senhor que havia ordenado a conquista da terra boa e fértil (13–14). Este modo de estruturar o livro valoriza a cronologia e a geografia. De facto, existem indicações cronológicas (1,1; 7,1; 9,1; 10,11; 33,38) e topográficas que permitem distinguir as várias etapas da permanência dos filhos de Israel no deserto: Sinai (1,1–10,10); Paran (10,12–12,16); Edom (20,23–21,4); Négueb (21,1); Moab (21,11.13.20; 22,1); o país dos Amorreus (21,13.21.31); e, enfim, as estepes de Moab (22–36)."
+        ]
+      },
+      {
+        "title": "Conteúdo",
+        "paragraphs": [
+          "O livro pode eventualmente não ser muito apreciado pelos leitores, porque as suas listas e genealogias são dados literários pouco expressivos para a cultura ocidental. No entanto, estas dificuldades são superadas, quando o leitor atento se apercebe de que este livro trata dos acontecimentos referentes aos quarenta anos que os filhos de Israel passaram no deserto. Este tempo tornou-se um espaço simbólico privilegiado para falar das relações entre Deus e o povo que ele escolheu para lhe dar a terra que havia prometido sob juramento aos patriarcas (14,23; 32,11). A permanência dos filhos de Israel no deserto, descrita neste livro, foi, ao longo da história bíblica, interpretada sob vários pontos de vista: a) como um tempo de noivado (Os 2,16-25; Jr 2,2-3); b) como um tempo de educação e formação (Dt 8,2-6); c) como um tempo de infidelidade (Ez 20). O livro permite responder a uma questão fundamental: como é que o povo eleito pode caminhar na presença do Senhor, seu Deus, que decidiu aceitar viver no seu meio, a fim de juntos habitarem a terra prometida?",
+          "Os dados e as informações contidos no livro mostram a organização e o processo educativo do povo eleito em relação à sua vida civil e religiosa. Neste contexto, os relatos das ações e intervenções salvíficas de Deus são realizados através de Moisés, nas mais variadas vicissitudes e dificuldades que o período do deserto proporcionou e colocou aos filhos de Israel. A luta pela sobrevivência é existencial. Por isso, são frequentes as murmurações por comida e por água, bem como as rebeliões, na disputa pelo poder, contra Moisés e até contra o próprio Deus (cf. 11–12; 13–14; 16–17; 20,1-13).",
+          "O livro permite perceber a verdadeira realidade dos filhos de Israel como povo eleito: ao manifestar confiança em Deus e em Moisés, o povo avança na caminhada, alcança favores e obtém êxito nas suas ações. Ao manifestar desconfiança, encontra dificuldades e retrocede. Por um lado, evidenciam-se os atos de vigor e fraqueza, nobreza e malícia. Por outro lado, todo este contexto serve para demonstrar que, diante das inconstâncias dos filhos de Israel, emerge e sobressai a fidelidade constante do Senhor, que acompanha a caminhada com as suas intervenções, demonstrando soberania, justiça e misericórdia para com o seu povo.",
+          "Na dinâmica do livro dos Números, Moisés tem um papel fundamental como mediador entre Deus e os filhos de Israel. Moisés é apresentado como profeta e homem de Deus (12,6-8). Ele é um servo que coloca a sua confiança no Senhor (10,29-32) e no seu amor pelo povo (11,2.10-15; 21,7). Por isso intercede constantemente e demonstra generosidade (cf. 11,27-29; 12). Apesar da exaltação da figura de Moisés, o livro não esconde as fraquezas humanas do grande líder (16,15; 20,10-12) e os momentos em que ele próprio se mostrou inapto, fraco e sem coragem para a missão (11,11-15). Não obstante todos os favores concedidos a Moisés, Deus não lhe permitiu entrar na terra nem aos seus irmãos, Miriam e Aarão."
+        ]
+      },
+      {
+        "title": "Mensagem",
+        "paragraphs": [
+          "O livro dos Números tornou-se indispensável para se compreender os livros precedentes, particularmente o Êxodo e o Levítico, que apresentam os filhos de Israel após a saída do Egito. Nesta lógica, ele serve para explicar as disposições e as condições que o povo liberto da opressão do Egito deve cultivar e realizar para que Israel reencontre sempre o caminho que conduz para a terra prometida. Resulta de tudo isto a clareza da mensagem teológica contida no livro dos Números: o êxito na caminhada não depende da preparação, das estratégias e da força humana, mas da obediência à voz do Senhor. Quando o povo não obedece, experimenta fracassos. Ao contrário, quando ouve, obedece e segue as instruções dadas por Moisés, acontece o êxito e alcança grandes conquistas (21,21-32; 21,33-35; 31).",
+          "A forma final e canónica deste livro ocorreu no período do pós-exílio (entre os séculos V-IV a.C.), certamente através de mãos sacerdotais que souberam recolher, integrar e reinterpretar antigas tradições orais e escritas. A memória do período do deserto, desde o Sinai até às estepes de Moab, permitiu integrar tradições importantes como sejam o maná, as codornizes, os exploradores da terra prometida, o dom do espírito aos setenta anciãos, a serpente, a escolha da vara de Aarão, Balaão e a sua jumenta, os critérios para a divisão da terra, o direito das mulheres à herança dos seus pais, etc.",
+          "Toda esta dinâmica permite ao leitor compreender uma narrativa fascinante que contempla e associa o contexto social, religioso e cultural do antigo Israel no período pré-exílico com a sua nova configuração no pós-exílio, no contexto da província persa de Yehud (Judá). Deste modo, os dois censos referidos no livro dos Números podem evocar, respetivamente, a relação com a terra prometida nas suas duas principais fases, gerando uma consciência de identidade entre os que foram libertos do Egito e os que foram libertos da Babilónia. A preocupação com a formação das futuras gerações torna-se o elemento fundamental entre estas duas fases. Assim como a nova geração, nascida no deserto sob o comando de Moisés, foi a que recebeu o direito de entrar na terra, de igual modo a nova geração nascida no exílio da Babilónia pôde regressar sob a proteção do decreto de Ciro, ungido do Senhor (Is 45,1), recomeçar a vida na terra e reconstruir o templo."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,7 +49,21 @@
         {
           "verse": 1,
           "text": "No deserto do Sinai, o Senhor falou a Moisés na tenda do encontro, no primeiro dia do segundo mês do segundo ano, depois de eles terem saído da terra do Egito, dizendo:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Este enquadramento no deserto do Sinai está conforme a Ex 19,1 e Lv 7,38 e mantém-se como uma referência ao longo de todo este livro (Nm 1,19; 3,4.14; 9,1.5; 10,12; 26,64; 33,15)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-1-n1",
+              "offset": 19,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
         },
         {
           "verse": 2,
@@ -17,7 +73,21 @@
         {
           "verse": 3,
           "text": "dos vinte anos para cima, todos os que são aptos para o exército em Israel. Tu e Aarão recenseá-los-eis segundo os seus agrupamentos.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O termo agrupamentos (seba’ot) é tomado aqui como uma divisão de um exército (saba’). Este primeiro recenseamento tem um caráter militar, pois diz respeito ao exército do Senhor (Ex 7,4; 12,41.51). O segundo (Nm 26), apesar de manter o mesmo carácter, destina-se à partilha da terra pelo contingente de cada tribo. Ex 30,11-16 alude ainda a um recenseamento em função do tributo para o santuário, válido igualmente tanto para o rico como para o pobre, tendo em conta o valor do siclo do santuário. A alusão a esta moeda requer que o povo já estivesse instalado na terra. E este é um indício relativamente ao tempo de redação final do texto."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-1-n2",
+              "offset": 132,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 4,
@@ -72,7 +142,21 @@
         {
           "verse": 14,
           "text": "de Gad, Eliasaf, filho de Deuel;",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A forma Deuel deve ser preferida, apesar de em Nm 2,14 se referir Reuel. A Septuaginta preferiu harmonizar em todas as ocorrências (Nm 1,14; 2,14; 7,42.47; 10,20) e usou uma forma helenizada, Raguel, inclusive para Nm 10,29, onde se fala de Hobab, filho de Raguel, o madianita, que é outra pessoa. A confusão entre Deuel e Reuel é fácil e frequente no hebraico e explica-se pela semelhança entre as letras iniciais, dalet e resh."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-1-n3",
+              "offset": 31,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 15,
@@ -92,7 +176,21 @@
         {
           "verse": 18,
           "text": "e convocaram toda a comunidade no primeiro dia do segundo mês. Registaram por genealogia, segundo as suas famílias e a casa dos seus pais, os nomes dos que tinham mais de vinte anos, um por um.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O termo hebraico usado para genealogia deriva do verbo nascer e ígualmente usado com o sentido de história. Por isso, a seguir, o recenseamento, tribo por tribo, faz-se repetindo a expressão literal: pelos seus nascimentos. O registo genealógico é o critério que garante que alguém pertence ao povo de Israel (cf. Esd 2,61-63)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-1-n4",
+              "offset": 88,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 19,
@@ -186,7 +284,7 @@
         },
         {
           "verse": 37,
-          "text": "Foram recenseados pela tribo de Benjamim trinta e cinco mil e quatrocentos. O",
+          "text": "Foram recenseados pela tribo de Benjamim trinta e cinco mil e quatrocentos.",
           "note_refs": []
         },
         {
@@ -237,7 +335,21 @@
         {
           "verse": 47,
           "text": "Contudo, os levitas não foram contados segundo a tribo dos seus pais como os outros.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A tribo de Levi não foi contada como as outras tribos, com o objetivo de sublinhar a diferença na natureza do seu serviço (cf. Nm 2,33). Os filhos de Israel, tribo por tribo, foram contados para o serviço militar, enquanto os levitas foram contados apenas para o serviço da tenda do encontro (Nm 3,14–4,49)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "nm-1-n5",
+              "offset": 83,
+              "original_marker": "a",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 48,
@@ -252,12 +364,40 @@
         {
           "verse": 50,
           "text": "Encarrega-os tu mesmo da morada do testemunho, de todos os seus vasos e de tudo o que lhe pertence. Eles transportarão a morada e todos os seus utensílios, estarão ao seu serviço e acamparão ao redor da morada.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Existe alguma diversidade nas designações: Nm 1,50.53 e 10,11 aparece a expressão santuário do testemunho (do documento da aliança); Nm 17,22; 18,2 usa tenda do testemunho; Nm 16,24 faz referência ao santuário de Coré, Datan e Abiram. A locução mais comum no livro dos Números é tenda do encontro. Nm 4 é o lugar que contém o maior índice de ocorrências, devido às funções que os levitas desempenham. Nm 9,15 diz que o santuário é a tenda do encontro."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "nm-1-n6",
+              "offset": 45,
+              "original_marker": "b",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 51,
           "text": "E quando a morada tiver de partir, os levitas desmontam-na e, ao acampar, os levitas erguem-na. E qualquer estranho que se aproximar morrerá.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Esta sentença de morte repete-se quatro vezes neste livro: Nm 1,51; 3.10.38; 18,4.7. O intuito é salvaguardar a pureza ritual, pois apenas os descendentes de Aarão são admitidos às funções cultuais (Nm 17,5)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "nm-1-n7",
+              "offset": 140,
+              "original_marker": "c",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 52,
@@ -267,11 +407,37 @@
         {
           "verse": 53,
           "text": "Porém, os levitas acamparão em torno da morada do testemunho, para que não se abata a indignação sobre a comunidade dos filhos de Israel; e os levitas farão a guarda à morada do testemunho».",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Esta alusão ao ministério dos levitas, envolvidos no serviço do santuário, encontra uma aplicação concreta no relato da revolta de Coré, Datan e Abiram (Nm 16,22; 17,11), na referência às faltas cometidas contra o santuário (Nm 18,5) e à desobediência na guerra contra os madianitas. Estes factos exigiram a purificação pelas mãos do sacerdote Eleázar (Nm 31,14)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "nm-1-n8",
+              "offset": 136,
+              "original_marker": "d",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 54,
-          "text": "E os filhos de Israel fizeram tudo conforme o Senhor havia ordenado a Moisés. Assim eles o fizeram. A",
+          "text": "E os filhos de Israel fizeram tudo conforme o Senhor havia ordenado a Moisés. Assim eles o fizeram.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "I – ORDENS E DISPOSIÇÕES À PARTIDA DO SINAI",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Primeiro recenseamento",
           "note_refs": []
         }
       ]
@@ -287,12 +453,40 @@
         {
           "verse": 2,
           "text": "«Os filhos de Israel acamparão, cada um junto do seu estandarte, junto do estandarte da casa dos seus pais, diante e ao redor da tenda do encontro.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Esta descrição lembra Ez 48,30-34, onde se pretende organizar idealmente a distribuição das tribos na nova ordem restaurada no território de Israel. O povo retoma a caminhada pelo deserto, organizado em quatro grupos de três tribos, segundo os quatro pontos cardeais, rodeando a tenda do encontro (Ex 26), junto da qual toma posição a tribo autónoma de Levi. É uma disposição idealizada e atualmente retomada na festa das Tendas (Ne 8,14-17), entre os meses de Tisri e Maresvan. ou seja, entre setembro-outubro, cujo objetivo é preservar a memória do tempo de peregrinação pelo deserto. Ao mesmo tempo que as tribos protegem a tenda do encontro, são protegidas por ela. Entre as tribos e a tenda do encontro está o acampamento dos levitas, sublinhando assim o seu papel de mediação que lhes compete."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-2-n1",
+              "offset": 63,
+              "original_marker": "e",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "A leste estão acampados os do estandarte do acampamento de Judá, segundo os seus agrupamentos. Nachon, filho de Aminadab, será o principal dos filhos de Judá;",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O termo hebraico nasî’, traduzido por principal, indica um notável de entre os demais, podendo ainda ser traduzido por “líder”, “chefe”, “príncipe”. Esta classificação atesta, portanto, uma estratificação social diversificada entre os leigos no antigo Israel."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-2-n2",
+              "offset": 138,
+              "original_marker": "f",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 4,
@@ -331,7 +525,7 @@
         },
         {
           "verse": 11,
-          "text": "Do seu agrupa - mento foram contados quarenta e seis mil e quinhentos.",
+          "text": "Do seu agrupamento foram contados quarenta e seis mil e quinhentos.",
           "note_refs": []
         },
         {
@@ -406,7 +600,7 @@
         },
         {
           "verse": 26,
-          "text": "Do seu agrupa - mento foram contados sessenta e dois mil e setecentos.",
+          "text": "Do seu agrupamento foram contados sessenta e dois mil e setecentos.",
           "note_refs": []
         },
         {
@@ -449,6 +643,13 @@
           "text": "Os filhos de Israel fizeram tudo como o Senhor tinha ordenado a Moisés. Assim acampavam segundo os seus estandartes e assim partiam, cada um segundo a sua família e junto com a casa dos seus pais.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Ordem das tribos",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -457,7 +658,21 @@
         {
           "verse": 1,
           "text": "Estes são os da genealogia de Aarão e de Moisés, no dia em que o Senhor falou a Moisés no monte Sinai.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Moisés e Aarão não são contados entre os levitas como em Nm 26,59 (cf. Ex 6,20). Em razão das suas funções, a eleição dos sacerdotes precede a dos levitas. Em Dt 10,8-9; 18,1-8 existe uma disposição inversa, que não faz distinção entre levitas e sacerdotes, tratando ambos os grupos com igual dignidade. Isto pode significar que, depois da instalação do santuário em Jerusalém, terão sido instituídas novas funções para os levitas."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-3-n1",
+              "offset": 101,
+              "original_marker": "a",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 2,
@@ -472,7 +687,21 @@
         {
           "verse": 4,
           "text": "Nadab e Abiú morreram diante do Senhor, quando apresentaram um fogo profano diante do Senhor, no deserto do Sinai. Não tiveram filhos. Eleázar e Itamar exerceram o sacerdócio diante de Aarão, seu pai.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A morte de Nadab e Abiú parece ser usada como uma justificação para os levitas serem convocados como auxiliares de Aarão e dos seus dois filhos, Eleázar e Itamar, nas tarefas que diziam respeito à tenda do encontro (Lv 1,1–7,38). A relação que o texto de Nm 3,11-13 estabelece entre os levitas e os primogénitos encontra um eco muito forte nos textos de Ex 11,4-8; 13,2.11-16; 34,19."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-3-n2",
+              "offset": 38,
+              "original_marker": "b",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 5,
@@ -532,7 +761,21 @@
         {
           "verse": 16,
           "text": "Então, Moisés contou-os, segundo a palavra do Senhor, como lhe tinha sido ordenado.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: pela boca do Senhor. Esta expressão ocorre dezasseis vezes ao longo do livro. Em alguns casos, como em Nm 3,16, é possível traduzir literalmente; na grande maioria dos casos o sentido é segundo a palavra do Senhor."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-3-n3",
+              "offset": 82,
+              "original_marker": "c",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 17,
@@ -657,7 +900,21 @@
         {
           "verse": 41,
           "text": "Tomarás os levitas para mim em substituição de todos os primogénitos dos filhos de Israel, pois Eu sou o Senhor. E tomarás o gado dos levitas em vez de todos os primogénitos do gado dos filhos de Israel».",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O autor alude aqui a Ex 13,12; 22,29 e Dt 15,19-23, onde se prescreve o sacrifício do animal primogénito em honra do Senhor."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-3-n4",
+              "offset": 202,
+              "original_marker": "a",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 42,
@@ -687,7 +944,21 @@
         {
           "verse": 47,
           "text": "tomarás cinco siclos por cabeça, segundo o siclo do santuário, que é o siclo de vinte gueras.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O valor do resgate não é alto se considerarmos que o siclo pesava 12 gramas e podia ser de ouro (Gn 24,22; Nm 7,86) ou de prata. Na maioria das vezes, era de prata (Gn 23,15; Lv 5,15; 27,3; 1Sm 9,8). Uma guera era uma parcela do siclo que valia aproximadamente 0,6 gr. O texto refere que o santuário calculava um siclo com uma gramagem um pouco diferente."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "nm-3-n5",
+              "offset": 20,
+              "original_marker": "b",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 48,
@@ -701,12 +972,29 @@
         },
         {
           "verse": 50,
-          "text": "Dos primogé - nitos dos filhos de Israel tomou o valor de mil trezentos e sessenta e cinco siclos, segundo o siclo do santuário.",
+          "text": "Dos primogénitos dos filhos de Israel tomou o valor de mil trezentos e sessenta e cinco siclos, segundo o siclo do santuário.",
           "note_refs": []
         },
         {
           "verse": 51,
           "text": "Moisés entregou, então, o montante do resgate a Aarão e aos seus filhos, segundo a ordem do Senhor, tal como ele tinha ordenado a Moisés.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Aarão e seus filhos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 14,
+          "text": "Contagem dos levitas",
+          "note_refs": []
+        },
+        {
+          "before_verse": 40,
+          "text": "Resgate dos primogénitos",
           "note_refs": []
         }
       ]
@@ -741,8 +1029,22 @@
         },
         {
           "verse": 6,
-          "text": "colocarão sobre ela uma cobertu - ra de pele trabalhada e estenderão por cima um pano de púrpura e colocarão os seus varais.",
-          "note_refs": []
+          "text": "colocarão sobre ela uma cobertura de pele trabalhada e estenderão por cima um pano de púrpura e colocarão os seus varais.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Pensa-se que seria uma pele ricamente trabalhada, que podia lembrar um tecido em forma de escamas (cf. Ex 25,5.14; 35,7.23; 36,19.34)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-4-n1",
+              "offset": 52,
+              "original_marker": "c",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 7,
@@ -959,6 +1261,42 @@
           "text": "Ele recenseou, segundo a palavra do Senhor, por meio de Moisés, cada um segundo a sua função de serviço e de transporte. E as suas tarefas foram estabelecidas como o Senhor ordenou a Moisés.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Funções dos filhos de Queat",
+          "note_refs": []
+        },
+        {
+          "before_verse": 21,
+          "text": "Funções dos filhos de Gérson",
+          "note_refs": []
+        },
+        {
+          "before_verse": 29,
+          "text": "Funções dos filhos de Merari",
+          "note_refs": []
+        },
+        {
+          "before_verse": 34,
+          "text": "Recenseamento dos levitas",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Após a contagem dos levitas, as funções já haviam sido distribuídas de acordo com os filhos de Levi: Gérson, Queat e Merari (Nm 3,17 está conforme Ex 6,16). Este novo recenseamento amplia as funções que são destinadas aos gersonitas, aos queatitas e aos meraritas. Houve, porém, uma inversão na ordem. Gérson, apesar de ser o primogénito, deixou lugar a Queat. Tal mudança tem a ver com o facto de Ameram ser o primogénito de Queat e o pai de Moisés e Aarão (Ex 6,20). Além disso, Gérson, filho de Levi, não deve ser confundido com um outro Gérson, filho de Moisés (Ex 2,22; 18,3)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-4-n2",
+              "offset": 25,
+              "original_marker": "a",
+              "source_id": 18
+            }
+          ]
+        }
       ]
     },
     {
@@ -972,7 +1310,21 @@
         {
           "verse": 2,
           "text": "«Ordena aos filhos de Israel que expulsem do acampamento todo o leproso, todo o afetado por um fluxo e todo o que ficou impuro por causa de um cadáver.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.:...com uma alma. O termo hebraico utilizado é nefesh, alma, que aqui exprime uma situação em que a alma deixou de estar presente (cf. Lv 19,28; 22,4). As leis quanto à pureza e à santidade exigidas pelo Senhor estão catalogadas em Lv 11–16; 17-26."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-5-n1",
+              "offset": 150,
+              "original_marker": "b",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 3,
@@ -996,13 +1348,27 @@
         },
         {
           "verse": 7,
-          "text": "Então con - fessarão o pecado que eles fizeram e sobre a cabeça de cada um recairá a sua culpa; e acrescentará um quinto ao prejuízo e entrega-lo-á àquele a quem prejudicou.",
+          "text": "Então confessarão o pecado que eles fizeram e sobre a cabeça de cada um recairá a sua culpa; e acrescentará um quinto ao prejuízo e entrega-lo-á àquele a quem prejudicou.",
           "note_refs": []
         },
         {
           "verse": 8,
           "text": "Se, porém, o prejudicado não tiver um defensor para lhe ser restituído o prejuízo da culpa, esse prejuízo é restituído ao Senhor, ao sacerdote, para que este com aquele montante possa fazer a expiação por ele, sem contar o carneiro de expiação.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Esta norma parece completar o que é dito em Lv 5,20-26."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-5-n2",
+              "offset": 208,
+              "original_marker": "c",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 9,
@@ -1037,7 +1403,21 @@
         {
           "verse": 15,
           "text": "então esse homem fará com que a sua mulher se dirija ao sacerdote e fará por ela uma oferta: um décimo de efá de farinha de cevada. Não derramará azeite sobre a oferta e não colocará incenso sobre ela, pois isto é uma oferta por ciúmes, uma oferta que lembra a memória de um pecado.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Efá é uma medida de capacidade para sólidos e equivalia aproximadamente a trinta litros."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-5-n4",
+              "offset": 109,
+              "original_marker": "b",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 16,
@@ -1067,12 +1447,40 @@
         {
           "verse": 21,
           "text": "Então o sacerdote fará com que a mulher jure com um juramento de imprecação; e o sacerdote dirá à mulher: ‘Que o Senhor te torne exemplo de imprecação e de juramento no meio do teu povo; que o Senhor faça murchar a tua coxa e inchar o teu ventre.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A palavra hebraica traduzida por coxa é também usada na Bíblia para significar os órgãos sexuais (Gn 24,2.9). Para o sentido de murchar o hebraico usa um verbo que significa descair. A ameaça tem a ver com a fertilidade, se bem que a expressão complementar de inchar o ventre possa ter mais a ver propriamente com algum mal-estar intestinal que possa ter sido provocado por aquelas águas de maldição."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "nm-5-n5",
+              "offset": 245,
+              "original_marker": "c",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "Que estas águas de maldição entrem nas tuas entranhas, fazendo inchar o teu ventre e descair a tua coxa!’ A mulher responderá: ‘Amen! Amen!’",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O termo amen reaparece em Dt 27,15-26 como uma fórmula de sentido quase litúrgico, como acontecerá nas tradições judaicas e cristãs. O próprio texto da referida imprecação (Is 65,15; Jr 42,18) podia ainda ser ingerido pelo acusado (Ez 2,8–3,3)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "nm-5-n6",
+              "offset": 140,
+              "original_marker": "d",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 23,
@@ -1119,6 +1527,32 @@
           "text": "O marido ficará inocente de pecado e aquela mulher carregará o seu próprio pecado”».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Pureza ritual e roubo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Infidelidade conjugal",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Esta lei aproxima-se das antigas práticas testemunhadas entre os sumérios, acádios, assírios e babilónios, quando não havia como provar a culpa de uma pessoa. O ritual prevê a acusação do delito por parte do marido, fazendo comparecer a mulher diante do sacerdote para cumprir os vários passos determinados, nomeadamente fazendo sobre si uma imprecação em nome do Senhor e bebendo água misturada com pó do chão do santuário. Visto que só o Senhor conhece a verdade, a Ele compete revelá-la (Jr 29,22- 23). Jo 8,1-11 pode conter um eco desta legislação."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-5-n3",
+              "offset": 21,
+              "original_marker": "a",
+              "source_id": 21
+            }
+          ]
+        }
       ]
     },
     {
@@ -1132,7 +1566,21 @@
         {
           "verse": 2,
           "text": "«Fala aos filhos de Israel e diz-lhes: “Se um homem ou uma mulher se comprometem a fazer um voto extraordinário de nazireu, consagrando-se ao Senhor,",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O termo nazir significa separado ou o que se abstém de algo para se dedicar exclusivamente a outro empenho. O voto do nazireu aproxima-se da eleição ou consagração sacerdotal. Enquanto esta ocorre por escolha de Deus, o nazir é alguém que se consagra a Deus por um voto que fica obrigado a cumprir. A afirmação de que o nazireu será santo concretiza, de um modo singular, a vontade divina expressa em Ex 19,5 e Lv 19,2, pois aproxima-se do ideal da santidade. A abstinência do fruto da videira encontra a sua razão de ser no ano sabático, no ano jubilar (Lv 25,5.11) e testemunha uma opção de vida não sedentária (Jr 35,5-8). A insistência na proibição de tudo o que tem a ver com a vinha aponta para a oposição à vida sedentária."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-6-n2",
+              "offset": 122,
+              "original_marker": "f",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 3,
@@ -1187,7 +1635,21 @@
         {
           "verse": 13,
           "text": "«Esta é a lei sobre o nazireu. Quando se completarem os dias do seu voto de nazireu, levá-lo-á à entrada da tenda do encontro",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O que o consagrado deve levar é o cabelo a respeito do qual fizera o seu voto."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-6-n3",
+              "offset": 94,
+              "original_marker": "a",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 14,
@@ -1201,7 +1663,7 @@
         },
         {
           "verse": 16,
-          "text": "O sacer - dote apresentará tudo isto diante do Senhor e fará o seu sacrifício expiatório e o seu holocausto.",
+          "text": "O sacerdote apresentará tudo isto diante do Senhor e fará o seu sacrifício expiatório e o seu holocausto.",
           "note_refs": []
         },
         {
@@ -1237,7 +1699,21 @@
         {
           "verse": 23,
           "text": "«Fala a Aarão e aos seus filhos e diz-lhes: “Assim deveis abençoar os filhos de Israel, dizendo-lhes:",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Cf. Lv 17,2 e 22,2 que tem também como como destinatários Aarão e seus filhos. Lv 22,18 inclui também os filhos de Israel."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "nm-6-n5",
+              "offset": 31,
+              "original_marker": "c",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 24,
@@ -1259,6 +1735,46 @@
           "text": "Assim eles colocarão o meu nome sobre os filhos de Israel e Eu abençoá-los-ei».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Lei sobre os nazireus",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "As narrativas que mais se aproximam deste texto são aquelas que falam da mãe de Sansão e dele próprio (Jz 13,5.7; 16,17) que violou os três votos (vinho, cabelo e contacto com um cadáver), e também a de Ana, mãe de Samuel (1Sm 1,11). O anúncio do nascimento de João Batista está muito próximo destes dois exemplos (Lc 1,15). Am 2,11-12 fala da prática do voto de nazireu entre os israelitas, mas contém uma crítica à sua violação. O mesmo se encontra em Lm 4,7. A bênção de Jacob a José em Gn 49,26 é lembrada em Dt 33,16, sob a perspetiva de um voto de nazireu. Em At 18,18; 21,24 é referido também a prática de se fazer voto do nazireu."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-6-n1",
+              "offset": 21,
+              "original_marker": "e",
+              "source_id": 25
+            }
+          ]
+        },
+        {
+          "before_verse": 22,
+          "text": "Bênção de Aarão",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Abençoar, pela eficácia concedida à palavra, é invocar o nome do Senhor sobre objetos e pessoas. O nome divino, invocado três vezes sobre o povo, expressava a sublimidade da sua presença que é três vezes santo (Is 6,3); indica também a pertença do povo ao seu Deus (Is 44,5; Ex 9,4; Ap 7,3; 14,1). Esta bênção podia estar ligada às funções litúrgicas e cultuais (Lv 9,22; Eclo 50,21-22), mas podia ser invocada também por levitas (Dt 10,8; 21,5; 28,10) e por quem tinha autoridade sobre o povo (Js 22,6; 2Sm 6,18). Os Salmos 4,7; 31,17; 67; 121,7-8; 122,6 apresentam expressões semelhantes às da bênção que Aarão deve proferir (cf. Jo 14,27; 17,11-12)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-6-n4",
+              "offset": 15,
+              "original_marker": "b",
+              "source_id": 28
+            }
+          ]
+        }
       ]
     },
     {
@@ -1267,7 +1783,21 @@
         {
           "verse": 1,
           "text": "No dia em que Moisés acabou de erguer a morada, ungiu-a e consagrou-a. Ungiu e consagrou igualmente todos os seus vasos, o altar e todos os seus utensílios.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Cf. Is 60 e Sl 68 onde são os estrangeiros os que trazem ofertas. O texto de 1Cr 22,14 regista igualmente a grande quantidade de material que David reuniu para a construção do templo de Jerusalém."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-7-n1",
+              "offset": 46,
+              "original_marker": "d",
+              "source_id": 30
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1277,7 +1807,21 @@
         {
           "verse": 3,
           "text": "e fizeram chegar a sua oferta diante do Senhor: seis liteiras e doze bois, um carro por cada dois dos principais, um boi por cada um, fazendo-os aproximar da morada.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O termo hebraico aqui usado parece algo solene e raro, uma vez que aparece apenas aqui e em Is 66,20, num desfile de carácter algo épico de regresso dos exilados que vêm de todo o mundo. Muitas traduções traduzem-no como carros cobertos."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-7-n2",
+              "offset": 61,
+              "original_marker": "e",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 4,
@@ -1312,7 +1856,30 @@
         {
           "verse": 10,
           "text": "Os principais apresentaram a sua oferta para a consagração do altar no dia da sua unção; então os principais apresentaram a oferta diante do altar.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Esta é a primeira alusão à cerimónia da ḥanukâ (2Cr 7,9; Ne 12,27; Sl 30,1). No período dos Macabeus transformar-se-á numa festa anual que lembra a nova consagração do templo, posterior à profanação feita pelos selêucidas e que ficou representada por um candelabro de oito braços (1Mc 4,56.59; 2Mc 2,9; Jo 10,22).",
+            "4": "Existe uma proximidade deste episódio com o de Ex 40,1-33, que narra a consagração e a realização das ofertas ao Senhor na tomada de posse da tenda do encontro (Ex 40,34-35). Neste capítulo é apresentada uma participação dos chefes das doze tribos, segundo a disposição de marcha (Nm 2,1-31). Durante doze dias, cada chefe, representando a sua tribo, apresentava-se com as ofertas que trazia ao santuário. O facto de as ofertas dos chefes serem as mesmas, em espécie e quantidade, indica que não existia desigualdade entre as tribos."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-7-n3",
+              "offset": 58,
+              "original_marker": "f",
+              "source_id": 32
+            },
+            {
+              "ref": "4",
+              "id": "nm-7-n4",
+              "offset": 146,
+              "original_marker": "g",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 11,
@@ -1707,6 +2274,36 @@
         {
           "verse": 89,
           "text": "Quando Moisés entrava na tenda do encontro para falar com Deus, ouvia a voz que lhe falava vinda de cima do propiciatório, que estava sobre a arca do testemunho, entre os dois querubins, e falava com Ele.",
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "A tradução dos LXX quis evitar equívocos na leitura e atribuiu esta voz claramente ao Senhor.",
+            "6": "Os querubins (Ex 25,17-22) eram figuras aladas conhecidas no Próximo Oriente Antigo e eram guardiães do palácio do monarca e do templo (Gn 3,24). O facto de estarem entre a tenda e o documento da aliança sugere que havia um trono vazio no lugar onde seria suposto estar uma figura do Senhor. Em Nm 7,89 alude-se a um pormenor importante: Moisés não vê o Senhor, mas ouve a sua voz vinda do propiciatório; e não se faz referência ao significado específico desta palavra. Percebe-se que tem a ver com a expiação, porque esse é o sentido da raíz hebraica da palavra."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "nm-7-n5",
+              "offset": 75,
+              "original_marker": "a",
+              "source_id": 34
+            },
+            {
+              "ref": "6",
+              "id": "nm-7-n6",
+              "offset": 185,
+              "original_marker": "b",
+              "source_id": 35
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Dedicação do altar",
           "note_refs": []
         }
       ]
@@ -1722,7 +2319,21 @@
         {
           "verse": 2,
           "text": "«Fala a Aarão e dir-lhe-ás: “Quando colocares as lâmpadas, as sete lâmpadas darão luz voltadas para a frente do candelabro”».",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Cf. Lv 21,7 onde se narra uma ordem do Senhor a Aarão proibindo a participação de descendentes seus defeituosos no serviço do culto. O candelabro foi fabricado segundo instruções e um modelo específico (Ex 25,31-40): era de ouro puro (Ex 37,17-24); tinha sete braços e nas suas pontas ficavam as lamparinas que deviam arder constantemente, sendo alimentadas com azeite (Ex 30,7-8; Lv 21,1-4)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-8-n1",
+              "offset": 26,
+              "original_marker": "c",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 3,
@@ -1762,7 +2373,21 @@
         {
           "verse": 10,
           "text": "Farás aproximar os levitas para diante do Senhor e os filhos de Israel imporão as suas mãos sobre os levitas.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O gesto da imposição das mãos era feito em diversas situações e com diferentes sentidos (Gn 48,14; Ex 29,10; Lv 3,2.8; 4,4; 16,20-22; Nm 27,18; Dt 34,9)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-8-n2",
+              "offset": 91,
+              "original_marker": "d",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 11,
@@ -1796,7 +2421,7 @@
         },
         {
           "verse": 17,
-          "text": "Pois a mim per - tence todo o primogénito de entre os filhos de Israel, homens ou animais. No dia em que feri todos os primogénitos na terra do Egito, consagrei-os a mim.",
+          "text": "Pois a mim pertence todo o primogénito de entre os filhos de Israel, homens ou animais. No dia em que feri todos os primogénitos na terra do Egito, consagrei-os a mim.",
           "note_refs": []
         },
         {
@@ -1807,7 +2432,21 @@
         {
           "verse": 19,
           "text": "Entreguei os levitas como dom a Aarão e aos seus filhos, de entre os filhos de Israel, para cumprirem o serviço dos filhos de Israel na tenda do encontro e para fazerem expiação pelos filhos de Israel; e não haverá flagelo para os filhos de Israel, por se aproximarem do santuário».",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Este rito de expiação estava reservado aos sacerdotes (Ex 30,10; Lv 4,20.26.31; Nm 15,25). Ou se trata de um caso único atribuído aos levitas ou de uma tentativa de redimensionar o serviço, atribuindo-lhes eventualmente uma nova função."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-8-n3",
+              "offset": 200,
+              "original_marker": "e",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 20,
@@ -1831,17 +2470,43 @@
         },
         {
           "verse": 24,
-          "text": "«Isto é o que Eu determino para os levi - tas. Aquele que tiver de vinte e cinco anos para cima entrará no agrupamento de serviço da tenda do encontro.",
+          "text": "«Isto é o que Eu determino para os levitas. Aquele que tiver de vinte e cinco anos para cima entrará no agrupamento de serviço da tenda do encontro.",
           "note_refs": []
         },
         {
           "verse": 25,
-          "text": "O que tiver mais de cinquenta anos deixará o agru - pamento de serviço e não mais prestará serviço.",
-          "note_refs": []
+          "text": "O que tiver mais de cinquenta anos deixará o agrupamento de serviço e não mais prestará serviço.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A idade de vinte e cinco anos para entrar ao serviço como levita representava uma idade adulta já bem madura; e cinquenta anos para deixar de estar ao serviço representava igualmente uma velhice já bem significativa para aquela época."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-8-n4",
+              "offset": 67,
+              "original_marker": "a",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 26,
           "text": "Ajudará os seus irmãos na tenda do encontro, participando na sua guarda, mas não prestará serviço cultual. Assim farás relativamente aos levitas quanto às suas funções de guarda».",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "As lâmpadas do candelabro",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "Purificação e tempo de serviço dos levitas",
           "note_refs": []
         }
       ]
@@ -1852,12 +2517,40 @@
         {
           "verse": 1,
           "text": "Então, o Senhor falou a Moisés no deserto do Sinai, no primeiro mês do segundo ano depois de saírem da terra do Egito, dizendo:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Das referências cronológicas, presentes no livro, três são completas, com indicação de dia, mês e ano (Nm 1,1; 10,11; 33,38) e duas incompletas (Nm 7,1; 9,1). A referência inicial do calendário do deserto é a saída do Egito. Este tempo é concluído com a entrada na terra prometida, mas antecedida pela morte dos líderes: a de Maria no deserto de Cin (Nm 20,1), a de Aarão no monte Hor (Nm 20,22-29; 33,38) e a de Moisés no monte Nebo (Dt 34)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-9-n1",
+              "offset": 117,
+              "original_marker": "b",
+              "source_id": 40
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "«Os filhos de Israel celebrarão a Páscoa no tempo devido.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A celebração anual da Páscoa é uma grande solenidade litúrgica que combina agricultura, representada pelos ázimos ou pães sem fermento (Ex 12,15-20; 13,3-10; 23,15; Lv 23,6; Dt 16,3-4; Ez 45,21), e a pastorícia, representada pelo sacrifício de um animal do rebanho (Ex 12,21-28; Lv 23,8; Dt 16,1-2; Ez 45,21-24). Ao contrário de Ex 12,21 não se alude aqui ao tamanho do animal compatível com o número dos membros da família."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-9-n2",
+              "offset": 56,
+              "original_marker": "c",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 3,
@@ -1871,7 +2564,7 @@
         },
         {
           "verse": 5,
-          "text": "No déci - mo quarto dia do primeiro mês, ao entardecer, celebraram a Páscoa no deserto do Sinai. Tal como o que o Senhor ordenara a Moisés, assim fizeram os filhos de Israel.",
+          "text": "No décimo quarto dia do primeiro mês, ao entardecer, celebraram a Páscoa no deserto do Sinai. Tal como o que o Senhor ordenara a Moisés, assim fizeram os filhos de Israel.",
           "note_refs": []
         },
         {
@@ -1882,7 +2575,21 @@
         {
           "verse": 7,
           "text": "e disseram-lhe: «Estamos impuros pelo contacto com um morto. Por que razão temos de ficar impedidos de nos aproximar com a oferta ao Senhor no tempo devido, juntamente com os filhos de Israel?»",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: alma de homem; trata-se provavelmente dos que estavam encarregados de sepultar os mortos e que, com isso, ficavam contaminados (Nm 5,2; 6,6; 31,19)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-9-n3",
+              "offset": 59,
+              "original_marker": "d",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 8,
@@ -1922,7 +2629,21 @@
         {
           "verse": 15,
           "text": "No dia em que foi erguida a morada, a nuvem cobriu a morada, isto é, a tenda com o documento da aliança. À tarde permanecia sobre a morada sob forma de fogo até de manhã.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Desde a saída do Egito, a nuvem foi uma proteção de dia e de noite para os filhos de Israel (Ex 13,21-22). Ela era um sinal da presença do Senhor (Ex 16,10). Em Ex 40,34-38 refere-se que nuvem veio sobre a tenda do encontro."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-9-n4",
+              "offset": 43,
+              "original_marker": "e",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 16,
@@ -1964,6 +2685,18 @@
           "text": "À ordem do Senhor acampavam e à ordem do Senhor partiam. E mantinham o serviço do Senhor segundo a ordem do Senhor por meio de Moisés.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Celebração da Páscoa",
+          "note_refs": []
+        },
+        {
+          "before_verse": 15,
+          "text": "A nuvem sobre o santuário",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -1977,7 +2710,21 @@
         {
           "verse": 2,
           "text": "«Faz para ti duas cornetas de prata: fá-las de prata maciça e servir-te-ão para convocar a comunidade e dar a partida dos acampamentos.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Ao invés da bem conhecida trombeta feita de chifre de carneiro (chofar), que ressoou no Sinai (Ex 19,16.19; 20,18) e que foi usada na estratégia para tomar Jericó (Js 6,4-20), fala-se aqui de uma corneta direita feita de prata (hatsotserah) que serve para orientar os líderes e o seu acampamento, conforme o modo como for tocada pelos sacerdotes, filhos de Aarão; serve também quando os filhos de Israel entram em combate (1Cr 15,24; 2Cr 5,12)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-10-n1",
+              "offset": 35,
+              "original_marker": "f",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 3,
@@ -2006,7 +2753,7 @@
         },
         {
           "verse": 8,
-          "text": "Os sacerdotes, filhos de Aarão, tocarão as cornetas e serão para vós e para os vossos descendentes como um preceito eter - no.",
+          "text": "Os sacerdotes, filhos de Aarão, tocarão as cornetas e serão para vós e para os vossos descendentes como um preceito eterno.",
           "note_refs": []
         },
         {
@@ -2017,17 +2764,59 @@
         {
           "verse": 10,
           "text": "Nos vossos dias de alegria, nas vossas festas e no início dos vossos meses, tocareis as cornetas sobre os vossos holocaustos e sacrifícios de comunhão; e serão para vós um memorial diante da face do vosso Deus. Eu sou o Senhor, vosso Deus».",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A expressão: Eu sou o Senhor, vosso Deus serve como justificação de um decreto e conclui a parte das instruções dadas a respeito da partida do Sinai (Nm 1,1–10,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-10-n2",
+              "offset": 238,
+              "original_marker": "a",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "No vigésimo dia do segundo mês do segundo ano, a nuvem ergueu-se por cima da morada do testemunho da aliança.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "No Pentateuco samaritano, na versão siríaca e nas Hexaplas de Orígenes, o v. 11 é precedido por algumas informações que correspondem a Dt 1,6-8. Por esta indicação cronológica, em relação a Nm 1,1, foram necessários 20 dias para que Moisés organizasse o retomar da marcha dos filhos de Israel rumo à terra prometida. Desde que os filhos de Israel chegaram ao Sinai (Ex 19,1) até à sua partida, decorreu perto de um ano."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-10-n3",
+              "offset": 108,
+              "original_marker": "b",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Então os filhos de Israel partiram do deserto do Sinai, segundo a sua ordem de partida; e a nuvem parou no deserto de Paran.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A expressão deserto de Paran ocorre pela primeira vez em Gn 21,21 e refere-se à localidade na qual habitou Agar com o seu filho Ismael, que, por iniciativa da sua mãe, se casou com uma egípcia. O deserto de Paran está situado ao sul de Canaã e, por isso, fazia fronteira entre o Egito e a região da Idumeia. Uma segunda vez, os filhos de Israel acamparam nesse lugar (Nm 12,16)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-10-n4",
+              "offset": 123,
+              "original_marker": "c",
+              "source_id": 47
+            }
+          ]
         },
         {
           "verse": 13,
@@ -2066,7 +2855,7 @@
         },
         {
           "verse": 20,
-          "text": "e à cabeça da tribo dos filhos de Gad estava Eliasaf, filho de Deuel",
+          "text": "e à cabeça da tribo dos filhos de Gad estava Eliasaf, filho de Deuel.",
           "note_refs": []
         },
         {
@@ -2112,7 +2901,21 @@
         {
           "verse": 29,
           "text": "Então, Moisés disse a Hobab, filho de Reuel, o madianita, sogro de Moisés: «Nós partimos para o lugar que o Senhor indicou, dizendo: “Eu vo-lo darei”. Vem connosco e tratar-te-emos bem, porque o Senhor prometeu o bem a Israel».",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Cf. Jz 4,11, onde se afirma que Hobab era sogro de Moisés e era quenita, enquanto Nm 10,29 e Ex 2,18 chamam-lhe Reuel, sacerdote de Madian e dono de rebanhos (Ex 3,1). No entanto, Ex 4,18 e Ex 18,1 chamam-lhe Jetro, sacerdote de Madian. Deduz-se daqui que as tradições são diversas em relação a esta personagem madianita ou de outra etnia afim. Estas divergências podem ser um indício de que se trata de uma personagem que terá sido realmente importante nas tradições e na história antiga das tribos."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "nm-10-n5",
+              "offset": 73,
+              "original_marker": "d",
+              "source_id": 48
+            }
+          ]
         },
         {
           "verse": 30,
@@ -2131,7 +2934,7 @@
         },
         {
           "verse": 33,
-          "text": "Eles par - tiram da montanha do Senhor, caminhando durante três dias; e a arca da aliança do Senhor ia diante deles durante esses três dias, para lhes escolher um lugar de repouso.",
+          "text": "Eles partiram da montanha do Senhor, caminhando durante três dias; e a arca da aliança do Senhor ia diante deles durante esses três dias, para lhes escolher um lugar de repouso.",
           "note_refs": []
         },
         {
@@ -2147,6 +2950,23 @@
         {
           "verse": 36,
           "text": "E quando a arca parava, ele dizia: «Volta, Senhor! São inumeráveis os clãs de Israel!»",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "O sinal das trombetas",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "II – DO SINAI A MOAB",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Partida do Sinai",
           "note_refs": []
         }
       ]
@@ -2167,7 +2987,21 @@
         {
           "verse": 3,
           "text": "Chamaram àquele lugar Taberá, porque o fogo do Senhor se ateou contra eles.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O substantivo taberá significa o atiçar de um incêndio."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-11-n1",
+              "offset": 28,
+              "original_marker": "e",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 4,
@@ -2187,7 +3021,21 @@
         {
           "verse": 7,
           "text": "O maná era semelhante ao grão de coentro e tinha aspeto do bdélio.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Resinas oleosas são conhecidas como bdélio proveniente da região de Havilá (Gn 2,12)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-11-n2",
+              "offset": 65,
+              "original_marker": "f",
+              "source_id": 50
+            }
+          ]
         },
         {
           "verse": 8,
@@ -2242,7 +3090,21 @@
         {
           "verse": 18,
           "text": "E ao povo dirás: “Santificai-vos para amanhã, que ides comer carne, uma vez que chorastes aos ouvidos do Senhor, dizendo: ‘Quem nos dará carne para comer? Porque estávamos melhor no Egito’. Pois bem, o Senhor vos dará carne e comereis.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A ordem reflete o texto de Lv 19,2; 20,7. Porque a refeição tem um carácter sagrado e ritual, o povo deve estar purificado e à altura do benefício que lhe vai ser concedido (Ex 19,10-15.22). A exigência de se purificarem sublinha o teor religioso e cultual daquele acontecimento."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-11-n3",
+              "offset": 32,
+              "original_marker": "a",
+              "source_id": 51
+            }
+          ]
         },
         {
           "verse": 19,
@@ -2251,7 +3113,7 @@
         },
         {
           "verse": 20,
-          "text": "mas por um mês inteiro, até que vos saia pelo nariz e se vos torne repugnante. Visto que rejeitastes o Senhor que está no vosso meio e vos lamentas - tes diante da sua face, dizendo: ‘Por que saímos nós do Egito?”»",
+          "text": "mas por um mês inteiro, até que vos saia pelo nariz e se vos torne repugnante. Visto que rejeitastes o Senhor que está no vosso meio e vos lamentastes diante da sua face, dizendo: ‘Por que saímos nós do Egito?”»",
           "note_refs": []
         },
         {
@@ -2277,7 +3139,21 @@
         {
           "verse": 25,
           "text": "O Senhor desceu na nuvem e falou-lhe; tirou parte do espírito que estava sobre ele e pô-lo sobre cada um dos setenta anciãos. Aconteceu que, quando o espírito pousou sobre eles, puseram-se a profetizar, mas não voltaram a fazê-lo.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Esta distribuição do espírito relaciona-se sobretudo com o carisma profético, mais no sentido primitivo de extático (1Sm 10,5-13; 19,20-24) do que no sentido de julgamento ou de anúncio. O número setenta indica uma totalidade (Gn 46,27; 50,3; Ex 1,5; Jz 8,30; 2Rs 10,1; 2Cr 36,21; Sl 90,10; Jr 25,11-12; 29,10). O ponto de referência é a tenda do encontro. A cena lembra o Pentecostes descrito no livro dos Atos dos Apóstolos (At 2,17-21) que, por sua vez, reinterpreta a promessa do dom do espírito sobre toda a carne (Jl 3,1-2)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-11-n4",
+              "offset": 61,
+              "original_marker": "b",
+              "source_id": 52
+            }
+          ]
         },
         {
           "verse": 26,
@@ -2307,12 +3183,40 @@
         {
           "verse": 31,
           "text": "Então um vento da parte do Senhor veio do lado do mar e empurrou codornizes e fê-las cair sobre o acampamento, a uma distância de um dia para um lado e de um dia para o outro, à volta do acampamento. Era uma camada de cerca de dois côvados de altura sobre a superfície da terra.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Um côvado mede cerca de 50 centímetros."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "nm-11-n5",
+              "offset": 239,
+              "original_marker": "c",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 32,
           "text": "E, durante todo aquele dia e toda aquela noite e em todo o dia seguinte, o povo ergueu-se e recolheu codornizes. E cada um recolheu, no mínimo, dez medidas de um hómer. E dispuseram-nas à volta do acampamento.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O hómer é uma medida de capacidade que equivale a cerca de 300 litros, correspondendo a dez vezes a medida básica, o efá."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "nm-11-n6",
+              "offset": 167,
+              "original_marker": "d",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 33,
@@ -2322,11 +3226,47 @@
         {
           "verse": 34,
           "text": "Deram àquele lugar o nome de Túmulos da Gula, porque ali sepultaram um povo de gulosos.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: Quibrot-Hataavá. Esta seria a designação topográfica original."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "nm-11-n7",
+              "offset": 45,
+              "original_marker": "e",
+              "source_id": 56
+            }
+          ]
         },
         {
           "verse": 35,
           "text": "Dali, o povo partiu para Hacerot e ficou em Hacerot.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Murmurações do povo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 16,
+          "text": "Resposta de Deus",
+          "note_refs": []
+        },
+        {
+          "before_verse": 24,
+          "text": "Investidura dos anciãos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 31,
+          "text": "As codornizes e o castigo do povo",
           "note_refs": []
         }
       ]
@@ -2337,7 +3277,21 @@
         {
           "verse": 1,
           "text": "Maria e Aarão falaram contra Moisés por causa da mulher cuchita com quem ele casou, pelo facto de se ter casado com uma mulher cuchita.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ex 2,17 refere-se às sete filhas de Reuel como madianitas. O termo cuchita (2Sm 18,21-23; 13,23; Am 9,7) talvez possa também significar madianita (Hab 3,7) e alude a quem vivia nas proximidades do sul do Egito. Posteriormente tornou-se hábito usar para estas regiões o nome de Etiópia."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-12-n2",
+              "offset": 63,
+              "original_marker": "g",
+              "source_id": 58
+            }
+          ]
         },
         {
           "verse": 2,
@@ -2413,6 +3367,27 @@
           "verse": 16,
           "text": "Depois, partiram de Hacerot e acamparam no deserto de Paran.",
           "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A lepra de Maria",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A crise sobre a autoridade de Moisés ganha um âmbito familiar. A declaração de Deus enaltece Moisés ainda mais, pois define o modo como se comunica com ele (Ex 33,11; Dt 34,10). Deus desce e fala com os três, mas ao subir atinge apenas Maria com a lepra. Com isso se exemplifica Nm 5,2. A iniciativa de Aarão, que suplica Moisés, chamando-lhe meu senhor e pede que interceda por Maria (Ex 32,11), define a sua inferioridade. Aarão assume o pecado cometido junto com Maria, mas ele não foi punido. Isto, aos olhos dos filhos de Israel, daria início a uma crise de autoridade sacerdotal, pois o diagnóstico sobre a lepra recai sobre o sacerdote (Lv 13)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-12-n1",
+              "offset": 16,
+              "original_marker": "f",
+              "source_id": 57
+            }
+          ]
         }
       ]
     },
@@ -2497,12 +3472,49 @@
         {
           "verse": 16,
           "text": "Estes são os nomes dos homens que Moisés enviou a explorar a terra. Moisés deu a Hochea, filho de Nun, o nome de Josué.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "A estratégia da exploração do território por doze homens representantes das doze tribos era uma tática militar (Js 2,1; 6,22; 7,2; 14,7; Jz 1,23; 18,2); neste caso, ela antecipa a futura repartição da terra em doze territórios. A lista de exploradores não coincide, quanto à ordem e nomes, com a de Nm 1,5-16. Já Dt 1,22-23 afirma que a iniciativa da exploração partiu do povo e não do Senhor e foi aceite por Moisés. A mudança do nome indica a autoridade de Moisés sobre Josué. Esta forma, porém, já estava presente em Ex 17,9-14; 24,13; 32,17; 33,11.",
+            "2": "Tanto o nome de Hochea como o de Josué derivam da mesma raiz hebraica yacha´ que significa salvar."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-13-n1",
+              "offset": 66,
+              "original_marker": "a",
+              "source_id": 59
+            },
+            {
+              "ref": "2",
+              "id": "nm-13-n2",
+              "offset": 118,
+              "original_marker": "b",
+              "source_id": 60
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Moisés enviou-os a explorar a terra de Canaã e disse-lhes: «Subi ali pelo Négueb e depois subireis à região da montanha.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O Négueb é uma região desértica mas habitável (Gn 20,1; 24,62), que está entre o Egito e o sul de Canaã (Gn 12,9; 13,1-3), constituindo a parte superior do conjunto da península do Sinai."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-13-n3",
+              "offset": 80,
+              "original_marker": "c",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 18,
@@ -2521,13 +3533,41 @@
         },
         {
           "verse": 21,
-          "text": "Eles subiram e exploraram a terra, desde o deserto de Cin[ ] até Reob, à entrada para Hamat.",
-          "note_refs": []
+          "text": "Eles subiram e exploraram a terra, desde o deserto de Cin[] até Reob, à entrada para Hamat.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "No livro dos Números faz-se uma distinção entre o “deserto de Sin” (Nm 33,11-12; cf. Ex 16,1; 17,1) e o “deserto de Cin” (Nm 13,21; 20,1; 27,14; 33,36; 34,3; Dt 32,51; Js 15,1)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-13-n4",
+              "offset": 58,
+              "original_marker": "d",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "Subiram pelo Négueb e chegaram a Hebron, onde estavam Aiman, Chechai e Talmai, descendentes de Anac. Hebron tinha sido construída sete anos antes de Tânis, no Egito.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: Soan. Cidade egípcia situada na região do delta."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "nm-13-n5",
+              "offset": 154,
+              "original_marker": "e",
+              "source_id": 63
+            }
+          ]
         },
         {
           "verse": 23,
@@ -2542,7 +3582,21 @@
         {
           "verse": 25,
           "text": "Ao fim de quarenta dias regressaram de explorar a terra.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Quarenta dias foi o tempo de duração do dilúvio (Gn 7,4.12.17); o tempo do embalsamamento de Jacob (Gn 50,3); o tempo da permanência de Moisés no Sinai (Ex 24,18; 34,28; Dt 9,9.11.18; 10,10); o tempo do desafio feito por Golias (1Sm 1716); o tempo da peregrinação de Elias até chegar ao Horeb (1Rs 19,8); o tempo da expiação de Judá (Ez 4,6); o tempo para a destruição de Nínive (Jn 3,4); o tempo das aparições dos cavaleiros (2Mc 5,2); o tempo das tentações de Jesus no deserto (Mt 4,2; Mc 1,13; Lc 4,2); e o tempo das aparições do ressuscitado (At 1,3)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "nm-13-n6",
+              "offset": 55,
+              "original_marker": "f",
+              "source_id": 64
+            }
+          ]
         },
         {
           "verse": 26,
@@ -2557,7 +3611,21 @@
         {
           "verse": 28,
           "text": "Porém, o povo que habita nessa terra é forte e as cidades são muito grandes e fortificadas; vimos também lá os descendentes de Anac.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Anac é o nome de um antepassado de populações antigas de Canaã, referenciadas concretamente na região de Hebron e associado às lendas sobre populações de estatura e força acima do normal."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "nm-13-n7",
+              "offset": 131,
+              "original_marker": "g",
+              "source_id": 65
+            }
+          ]
         },
         {
           "verse": 29,
@@ -2566,7 +3634,7 @@
         },
         {
           "verse": 30,
-          "text": "Então, Caleb fez calar o povo que estava contra Moisés e disse: «Subamos e tomemos posse dela, porque cerA A A tamente conseguiremos ser mais fortes do que ela».",
+          "text": "Então, Caleb fez calar o povo que estava contra Moisés e disse: «Subamos e tomemos posse dela, porque certamente conseguiremos ser mais fortes do que ela».",
           "note_refs": []
         },
         {
@@ -2577,11 +3645,46 @@
         {
           "verse": 32,
           "text": "E espalharam o descrédito a respeito da terra que exploraram, diante dos filhos de Israel, dizendo: «A terra que percorremos para a explorar é uma terra que devora os seus habitantes; todo o povo que vimos no meio dela são homens de alta estatura.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "O facto de a terra devorar alguém (cf. Lv 26,38) é um castigo pela desobediência (Ez 36,13-15) e esta ideia é confirmada em Nm 16,29-33."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "nm-13-n8",
+              "offset": 163,
+              "original_marker": "a",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 33,
           "text": "Lá vimos os gigantes, de entre os gigantes descendentes de Anac; aos nossos olhos éramos como gafanhotos e isso mesmo éramos aos olhos deles».",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Dt 9,2 também se refere aos filhos de Anac, considerados fortes, altos e espadaúdos. Essa barreira assombrosa foi vencida não pela força dos filhos de Israel, que eram como gafanhotos aos seus olhos, mas graças à presença e ação do Senhor que é fiel às suas promessas. A menção dos filhos de Anac faz lembrar os semideuses de antes do dilúvio (Gn 6,1-4)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "nm-13-n9",
+              "offset": 63,
+              "original_marker": "b",
+              "source_id": 67
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Os exploradores de Canaã",
           "note_refs": []
         }
       ]
@@ -2612,12 +3715,40 @@
         {
           "verse": 5,
           "text": "Então, Moisés e Aarão prostraram-se com a face por terra, diante de toda a assembleia da comunidade dos filhos de Israel.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Prostrar-se com a face por terra é um gesto de humilhação diante do ser humano, mas sinal de reverência diante do Senhor (Ex 3,6; Lv 9,24). Esta atitude e renovar-se-á em Nm 16,22; 17,10; 20,6."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-14-n1",
+              "offset": 56,
+              "original_marker": "c",
+              "source_id": 68
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Josué, filho de Nun e Caleb, filho de Jefuné, de entre os que tinham explorado a terra,",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Caleb tinha falado sozinho na primeira vez (Nm 13,30-31). Agora é a vez de Josué; em conjunto, Josué e Caleb assumem o protagonismo e defendem a conquista da terra e a vitória sobre os habitantes, em obediência à voz de Deus. Josué já se havia tornado um comandante do exército (Ex 17,8-16). O gesto de rasgar as vestes representa a indignação diante de uma falta cometida (Gn 37,29; 44,13; Lv 10,6; 2Sm 3,31; 13,19; Jr 36,24). A frase o Senhor está conosco inspira a força para o combate (Jz 6,13)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-14-n2",
+              "offset": 19,
+              "original_marker": "d",
+              "source_id": 69
+            }
+          ]
         },
         {
           "verse": 7,
@@ -2637,11 +3768,25 @@
         {
           "verse": 10,
           "text": "Toda a comunidade falou em apedrejá-los, mas a glória do Senhor apareceu sobre a tenda do encontro a todos os filhos de Israel.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A sentença de morte por apedrejamento (Nm 15,35) era um ato coletivo pelo qual cada indivíduo que nela tomasse parte, se declarava responsável pela manutenção da ordem e cumprimento da lei (Jo 8,1-11; At 7, 58-59)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-14-n3",
+              "offset": 39,
+              "original_marker": "e",
+              "source_id": 70
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "O Senhor disse a Moisés: «Até quando este povo me desprezará e até quando recusará acreditar em mim? O Até quando, depois de todos os sinais que realizei no meio dele?",
+          "text": "O Senhor disse a Moisés: «Até quando este povo me desprezará e até quando recusará acreditar em mim? Até quando, depois de todos os sinais que realizei no meio dele?",
           "note_refs": []
         },
         {
@@ -2671,7 +3816,7 @@
         },
         {
           "verse": 17,
-          "text": "Agora, S enhor, mostra, por favor, a tua grande força, como prometeste, dizendo:",
+          "text": "Agora, Senhor, mostra, por favor, a tua grande força, como prometeste, dizendo:",
           "note_refs": []
         },
         {
@@ -2727,7 +3872,21 @@
         {
           "verse": 28,
           "text": "Diz-lhes: “Tão certo como Eu sou vivo, oráculo do Senhor, da maneira como tendes falado aos meus ouvidos assim vos tratarei.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "No Pentateuco, a locução tão certo como Eu sou vivo (outras traduções: pela minha vida ou Eu vivo) ocorre apenas aqui e em Nm 14,28. A sua função é reforçar uma promessa ou um juramento que o próprio Deus faz (Is 49,18; Jr 22,24; 46,18; Sf 2,9). Este uso é muito comum no livro de Ezequiel (Ez 14,16.18.20; 33,11.27)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-14-n4",
+              "offset": 37,
+              "original_marker": "f",
+              "source_id": 71
+            }
+          ]
         },
         {
           "verse": 29,
@@ -2752,7 +3911,21 @@
         {
           "verse": 33,
           "text": "Os vossos filhos serão pastores no deserto por quarenta anos e carregarão as vossas prostituições até que os vossos cadáveres sejam consumidos no deserto.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O sentido pode ser metafórico, significando prática de cultos diferentes, tal como é usado pelos profetas (Jr 3,2.9; 13,27; Ez 23,27; 43,7.9; Os 4,11; 6,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "nm-14-n5",
+              "offset": 97,
+              "original_marker": "a",
+              "source_id": 72
+            }
+          ]
         },
         {
           "verse": 34,
@@ -2814,6 +3987,18 @@
           "text": "Então os amalecitas e os cananeus, habitantes deste monte, desceram, venceram-nos e perseguiram-nos até Horma.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Discussão sobre a entrada na terra",
+          "note_refs": []
+        },
+        {
+          "before_verse": 26,
+          "text": "Insucesso de uma tentativa temerária",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -2836,8 +4021,22 @@
         },
         {
           "verse": 4,
-          "text": "aquele que se apresenta com a sua oferta ao S enhor oferecerá uma oblação de um décimo de flor de farinha amassada em um quarto de hin de azeite,",
-          "note_refs": []
+          "text": "aquele que se apresenta com a sua oferta ao Senhor oferecerá uma oblação de um décimo de flor de farinha amassada em um quarto de hin de azeite,",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Um hin, capacidade de medida para líquidos, equivalia a aproximadamente cinco, isto é, um sexto de um bato, que equivale ao efá para as medidas de sólidos (Nm 5,15)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-15-n2",
+              "offset": 133,
+              "original_marker": "c",
+              "source_id": 74
+            }
+          ]
         },
         {
           "verse": 5,
@@ -2951,7 +4150,7 @@
         },
         {
           "verse": 27,
-          "text": "Se uma pessoa pecou por inadver - tência, oferecerá uma cabra de um ano em sacrifício pelo pecado.",
+          "text": "Se uma pessoa pecou por inadvertência, oferecerá uma cabra de um ano em sacrifício pelo pecado.",
           "note_refs": []
         },
         {
@@ -3007,7 +4206,21 @@
         {
           "verse": 38,
           "text": "«Fala aos filhos de Israel e diz-lhes que façam, para eles e para as futuras gerações, uma franja nos cantos das suas vestes e coloquem na franja de cada canto um fio de púrpura.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Esta norma tem o seu paralelo em Dt 22,12 que regista o costume sem dar mais detalhes. A motivação encontra eco na profissão de fé no Deus único, contida em Dt 6,4-9. A relação com a santidade exigida tem a ver com Lv 19,2. O último versículo é a fórmula que abre o Decálogo (Ex 20,2; Dt 5,6). O Novo Testamento regista a prática desta norma (Mt 9,20; Mc 6,56; Lc 8,14)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-15-n4",
+              "offset": 177,
+              "original_marker": "b",
+              "source_id": 76
+            }
+          ]
         },
         {
           "verse": 39,
@@ -3022,6 +4235,56 @@
         {
           "verse": 41,
           "text": "Eu sou o Senhor, vosso Deus, que vos fiz sair da terra do Egito para ser o vosso Deus. Eu sou o Senhor, vosso Deus».",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Leis sobre as ofertas",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "As ofertas provêm do âmbito pastoril e agrícola, mas aparecem unidas, como em Ex 29,40-41, de modo a criar uma relação de dependência entre os dois grupos de atividades (Gn 4). Alguns tipos de peixes, de água salgada ou doce, eram lícitos para o consumo (Lv 11,9-12) e até comerciados em Jerusalém numa porta específica (2Cr 33,14; Ne 3,3; 12,39; 13,16), mas não constituíam matéria de oferta no templo. Nm 15,2-16 trata dos diversos tipos de sacrifícios (Lv 1–7) e Nm 15,17-21 trata sobre os primeiros frutos. Carne, pães, bolos e vinho constituem uma farta e completa refeição (1Sm 1,24; 10,3; 2Rs 16,13). Os pães ou bolos ofertados são obtidos com grãos moídos das primícias (Ez 44,30; Ne 10,38). O estrangeiro e o imigrante não podem ser admitidos às funções sacerdotais, sob pena de morte (Nm 1,51; 3.10.38; 18,4.7), mas, enquanto residentes na terra prometida, foram incorporados à dinâmica cultual dos filhos de Israel (Dt 26,1-11) e ficam debaixo dos mesmos decretos e obrigações (Ex 12,48-49)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-15-n1",
+              "offset": 21,
+              "original_marker": "b",
+              "source_id": 73
+            }
+          ]
+        },
+        {
+          "before_verse": 22,
+          "text": "Erros por inadvertência",
+          "note_refs": []
+        },
+        {
+          "before_verse": 32,
+          "text": "Violação do sábado",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Esta é a primeira referência ao sábado no livro dos Números e o caso narrado serve para exemplificar a questão do pecado voluntário. A violação do sábado só foi punida com a pena de morte (Ex 31,14; 35,2) após consulta ao Senhor. Esta violação equipara-se ao caso de blasfémia (Lv 24,10-23). Desta lei deriva a proibição de acender um fogo no dia de sábado. Nota-se que nos dois casos, o infrator foi posto na prisão, aguardando decisão. Jesus Cristo foi preso, julgado e condenado com base nestas duas causas: violar o sábado e blasfemar (Mt 26,57-68; Jo 9,16)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-15-n3",
+              "offset": 18,
+              "original_marker": "a",
+              "source_id": 75
+            }
+          ]
+        },
+        {
+          "before_verse": 37,
+          "text": "Símbolo das franjas",
           "note_refs": []
         }
       ]
@@ -3042,7 +4305,21 @@
         {
           "verse": 3,
           "text": "Estes juntaram-se contra Moisés e Aarão e disseram-lhes: «Estais a exagerar! Se na comunidade todos são santos e o Senhor está no meio deles, por que razão vos elevais acima da assembleia do Senhor?»",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O teor do v. 4 sugere que o termo santos, neste caso significa que alguém se encontra em estado em estado de pureza ritual requerida para se aproximar de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-16-n2",
+              "offset": 110,
+              "original_marker": "d",
+              "source_id": 79
+            }
+          ]
         },
         {
           "verse": 4,
@@ -3052,7 +4329,21 @@
         {
           "verse": 5,
           "text": "e falou a Coré e a todo o seu grupo, dizendo: «Pela manhã, o Senhor dará a conhecer quem é dele e quem é santo para se aproximar dele; e aquele que Ele escolher poderá aproximar-se dele.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Para designar este grupo de Coré, o texto hebraico usa o mesmo termo que significa a comunidade. A diferença entre ambos os significados parece claramente sublinhada nos vv. 19-21. Os pronomes possessivos, seu, teu, identificam claramente quando se trata da comunidade, isto é, do grupo de Coré."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-16-n3",
+              "offset": 35,
+              "original_marker": "e",
+              "source_id": 80
+            }
+          ]
         },
         {
           "verse": 6,
@@ -3071,7 +4362,7 @@
         },
         {
           "verse": 9,
-          "text": "É pouco para vós que o Deus de Israel vos tenha separado do meio da comunidade de Israel para vos fazer aproximar de si, para desempenhar o serviço da morada do Senhor e para permane - cer à frente da comunidade ao serviço deles?",
+          "text": "É pouco para vós que o Deus de Israel vos tenha separado do meio da comunidade de Israel para vos fazer aproximar de si, para desempenhar o serviço da morada do Senhor e para permanecer à frente da comunidade ao serviço deles?",
           "note_refs": []
         },
         {
@@ -3092,7 +4383,21 @@
         {
           "verse": 13,
           "text": "Acaso é pouco que nos tenhas feito subir de uma terra onde corre leite e mel para nos fazeres morrer no deserto? E pretendes ainda armar-te em nosso comandante, precisamente o comandante?",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Classificar o Egito como uma terra onde corre leite e mel é inverter os valores que o povo tem como referência, pois aquela descrição serve na Bíblia para caracterizar especificamente a terra de Israel, como ocorre nesta mesma declaração dos contestatários."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-16-n4",
+              "offset": 76,
+              "original_marker": "f",
+              "source_id": 81
+            }
+          ]
         },
         {
           "verse": 14,
@@ -3101,8 +4406,22 @@
         },
         {
           "verse": 15,
-          "text": "Então Moisés irritou-se muito e disse ao Senhor: «Não te voltes para a obla - ção deles! Não recebi deles nem sequer um asno e não maltratei nenhum deles».",
-          "note_refs": []
+          "text": "Então Moisés irritou-se muito e disse ao Senhor: «Não te voltes para a oblação deles! Não recebi deles nem sequer um asno e não maltratei nenhum deles».",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O burro representa um bem precioso (Ex 21,33; 22,3.8-9; 34,20; Dt 22,4)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "nm-16-n5",
+              "offset": 121,
+              "original_marker": "g",
+              "source_id": 82
+            }
+          ]
         },
         {
           "verse": 16,
@@ -3116,7 +4435,7 @@
         },
         {
           "verse": 18,
-          "text": "E cada um tomou o seu turíbulo; puseram sobre ele as brasas e colocaram por cima o incenso e puseram-se de pé, diante da entrada da tenda do encontro, com Moisés e Aarão. A É O",
+          "text": "E cada um tomou o seu turíbulo; puseram sobre ele as brasas e colocaram por cima o incenso e puseram-se de pé, diante da entrada da tenda do encontro, com Moisés e Aarão.",
           "note_refs": []
         },
         {
@@ -3137,7 +4456,21 @@
         {
           "verse": 22,
           "text": "Eles caíram de face por terra e disseram: «Ó Deus, Deus dos espíritos de vida para toda a humanidade, foi um só homem que pecou e vais enfurecer-te contra toda a comunidade?»",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: para toda a carne."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "nm-16-n6",
+              "offset": 100,
+              "original_marker": "a",
+              "source_id": 83
+            }
+          ]
         },
         {
           "verse": 23,
@@ -3167,7 +4500,21 @@
         {
           "verse": 28,
           "text": "Então Moisés disse: «Nisto conhecereis que o Senhor me mandou fazer todas estas tarefas e que não partem da minha vontade.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: do meu coração."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "nm-16-n7",
+              "offset": 121,
+              "original_marker": "b",
+              "source_id": 84
+            }
+          ]
         },
         {
           "verse": 29,
@@ -3177,7 +4524,21 @@
         {
           "verse": 30,
           "text": "Se, pelo contrário, por um prodígio criado pelo Senhor, o chão abrir a sua boca e os engolir com tudo o que é deles, e descerem vivos ao mundo dos mortos, reconhecereis que estes homens desprezaram o Senhor».",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: ao Cheol. O mundo dos mortos é o estado de quem deixa o mundo dos vivos. Era entendido, naquela altura, como um mundo subterrâneo. Jacob, ao receber a notícia da morte de José, deseja unir-se a ele (Gn 37,35). Dt 32,22 liga o fogo divino ao Cheol."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "nm-16-n8",
+              "offset": 153,
+              "original_marker": "c",
+              "source_id": 85
+            }
+          ]
         },
         {
           "verse": 31,
@@ -3203,81 +4564,27 @@
           "verse": 35,
           "text": "E um fogo do Senhor saiu e devorou os duzentos e cinquenta homens que apresentavam o incenso.",
           "note_refs": []
-        },
+        }
+      ],
+      "headings": [
         {
-          "verse": 36,
-          "text": "O Senhor falou a Moisés, dizendo:",
-          "note_refs": []
-        },
-        {
-          "verse": 37,
-          "text": "«Diz a Eleázar, filho do sacerdote Aarão, que afaste os turíbulos do meio das chamas e espalhe ao longe o fogo, porque são sagrados.",
-          "note_refs": []
-        },
-        {
-          "verse": 38,
-          "text": "Com os turíbulos destes pecadores que pagaram com a sua vida fareis lâminas de metal batido para revestir o altar, porque estavam próximos da face do Senhor e são sagrados. Que eles sirvam de sinal para os filhos de Israel».",
-          "note_refs": []
-        },
-        {
-          "verse": 39,
-          "text": "O sacerdote Eleázar tomou os turíbulos de bronze dos que se apresentaram e foram queimados; e deles fez lâminas de metal batido para revestir o altar.",
-          "note_refs": []
-        },
-        {
-          "verse": 40,
-          "text": "Isto serve de lembrança para os filhos de Israel, de modo que nenhum forasteiro que não seja descendente de Aarão se aproxime para oferecer incenso ao Senhor. Que não aconteça como a Coré e à sua comunidade, quando o Senhor lhe falou por meio de Moisés.",
-          "note_refs": []
-        },
-        {
-          "verse": 41,
-          "text": "No dia seguinte, toda a comunidade dos filhos de Israel murmurou contra Moisés e Aarão, dizendo: «Vós fizestes morrer o povo do Senhor!»",
-          "note_refs": []
-        },
-        {
-          "verse": 42,
-          "text": "E quando a comuni - dade se reuniu contra Moisés e Aarão e se virou para a tenda do encontro, eis que a nuvem a cobriu e a glória do Senhor se manifestou.",
-          "note_refs": []
-        },
-        {
-          "verse": 43,
-          "text": "Moisés e Aarão chegaram em frente da tenda do encontro.",
-          "note_refs": []
-        },
-        {
-          "verse": 44,
-          "text": "E o Senhor falou a Moisés, dizendo:",
-          "note_refs": []
-        },
-        {
-          "verse": 45,
-          "text": "«Afastai-vos do meio desta comunidade, pois vou devorá-los num instante». Eles caíram com a sua face por terra",
-          "note_refs": []
-        },
-        {
-          "verse": 46,
-          "text": "e Moisés disse a Aarão: «Toma o turíbulo e coloca sobre ele fogo do altar e põe incenso; e anda depressa na direção da comunidade e faz a expiação por eles, porque se desencadeou a ira de diante do Senhor e teve início o flagelo».",
-          "note_refs": []
-        },
-        {
-          "verse": 47,
-          "text": "Aarão pegou no turíbulo, como Moisés lhe falou, e correu na direção do centro da assembleia; e eis que o flagelo já tinha iniciado contra o povo. Então colocou o incenso e fez a expiação pelo povo.",
-          "note_refs": []
-        },
-        {
-          "verse": 48,
-          "text": "Pôs-se de pé entre os mortos e os vivos e o flagelo acabou.",
-          "note_refs": []
-        },
-        {
-          "verse": 49,
-          "text": "Com este flagelo, morreram catorze mil e setecentos, além dos mortos por causa da questão de Coré.",
-          "note_refs": []
-        },
-        {
-          "verse": 50,
-          "text": "Aarão regressou para junto de Moisés à entrada da tenda do encontro e o flagelo acabou.",
-          "note_refs": []
+          "before_verse": 1,
+          "text": "Revolta de Coré, Datan e Abiram",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Este episódio descreve uma crise de autoridade com relação a Moisés e a Aarão (v. 3). Há indícios de que inicialmente se poderia tratar de dois grupos diferentes (cf. v. 18). O texto hebraico atual parece juntá-los sob a liderança de Coré. O que começou em família (Nm 12), agora estende-se a um dos clãs de Levi, Coré e seus seguidores, e a dois clãs pertencentes à tribo de Rúben. O Sl 106,16-18 regista o facto. Enquanto Dt 18,6-8 é favorável aos levitas, 2Rs 23,9 mostra-se contrário. A queixa parece encontrar fundamento no que Deus diz em Ex 19,6. Esta afirmação, porém, não deu a todos o direito de se aproximar do Senhor e da sua tenda. É o que Moisés lembra a Coré e ao seu grupo. O que está em jogo é o desejo de conseguir o sacerdócio dado a Aarão e aos seus filhos (Nm 8)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-16-n1",
+              "offset": 31,
+              "original_marker": "c",
+              "source_id": 77
+            }
+          ]
         }
       ]
     },
@@ -3286,68 +4593,197 @@
       "verses": [
         {
           "verse": 1,
-          "text": "",
+          "text": "O Senhor falou a Moisés, dizendo:",
           "note_refs": []
         },
         {
           "verse": 2,
-          "text": "",
+          "text": "«Diz a Eleázar, filho do sacerdote Aarão, que afaste os turíbulos do meio das chamas e espalhe ao longe o fogo, porque são sagrados.",
           "note_refs": []
         },
         {
           "verse": 3,
-          "text": "",
+          "text": "Com os turíbulos destes pecadores que pagaram com a sua vida fareis lâminas de metal batido para revestir o altar, porque estavam próximos da face do Senhor e são sagrados. Que eles sirvam de sinal para os filhos de Israel».",
           "note_refs": []
         },
         {
           "verse": 4,
-          "text": "",
+          "text": "O sacerdote Eleázar tomou os turíbulos de bronze dos que se apresentaram e foram queimados; e deles fez lâminas de metal batido para revestir o altar.",
           "note_refs": []
         },
         {
           "verse": 5,
-          "text": "",
+          "text": "Isto serve de lembrança para os filhos de Israel, de modo que nenhum forasteiro que não seja descendente de Aarão se aproxime para oferecer incenso ao Senhor. Que não aconteça como a Coré e à sua comunidade, quando o Senhor lhe falou por meio de Moisés.",
           "note_refs": []
         },
         {
           "verse": 6,
-          "text": "",
+          "text": "No dia seguinte, toda a comunidade dos filhos de Israel murmurou contra Moisés e Aarão, dizendo: «Vós fizestes morrer o povo do Senhor!»",
           "note_refs": []
         },
         {
           "verse": 7,
-          "text": "",
+          "text": "E quando a comunidade se reuniu contra Moisés e Aarão e se virou para a tenda do encontro, eis que a nuvem a cobriu e a glória do Senhor se manifestou.",
           "note_refs": []
         },
         {
           "verse": 8,
-          "text": "",
+          "text": "Moisés e Aarão chegaram em frente da tenda do encontro.",
           "note_refs": []
         },
         {
           "verse": 9,
-          "text": "",
+          "text": "E o Senhor falou a Moisés, dizendo:",
           "note_refs": []
         },
         {
           "verse": 10,
-          "text": "",
+          "text": "«Afastai-vos do meio desta comunidade, pois vou devorá-los num instante». Eles caíram com a sua face por terra",
           "note_refs": []
         },
         {
           "verse": 11,
-          "text": "",
+          "text": "e Moisés disse a Aarão: «Toma o turíbulo e coloca sobre ele fogo do altar e põe incenso; e anda depressa na direção da comunidade e faz a expiação por eles, porque se desencadeou a ira de diante do Senhor e teve início o flagelo».",
           "note_refs": []
         },
         {
           "verse": 12,
-          "text": "",
+          "text": "Aarão pegou no turíbulo, como Moisés lhe falou, e correu na direção do centro da assembleia; e eis que o flagelo já tinha iniciado contra o povo. Então colocou o incenso e fez a expiação pelo povo.",
           "note_refs": []
         },
         {
           "verse": 13,
-          "text": "",
+          "text": "Pôs-se de pé entre os mortos e os vivos e o flagelo acabou.",
           "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Com este flagelo, morreram catorze mil e setecentos, além dos mortos por causa da questão de Coré.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Aarão regressou para junto de Moisés à entrada da tenda do encontro e o flagelo acabou.",
+          "note_refs": []
+        },
+        {
+          "verse": 16,
+          "text": "O Senhor falou a Moisés, dizendo:",
+          "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "«Fala aos filhos de Israel e toma deles uma vara, uma vara pela casa paterna de todos os principais das casas dos pais, doze varas. Na vara de cada homem escreverás o nome dele,",
+          "note_refs": []
+        },
+        {
+          "verse": 18,
+          "text": "mas o nome de Aarão escrevê-lo-ás sobre a vara de Levi, porque é uma vara por cada cabeça da casa de seus pais.",
+          "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Elas serão depositadas na tenda do encontro, diante do testemunho da aliança, pois ali me vou encontrar convosco.",
+          "note_refs": []
+        },
+        {
+          "verse": 20,
+          "text": "E a vara do homem que Eu escolher florescerá. Assim retirarei da minha frente as murmurações que os filhos de Israel fazem contra vós».",
+          "note_refs": []
+        },
+        {
+          "verse": 21,
+          "text": "Moisés falou aos filhos de Israel e todos os seus principais lhe entregaram uma vara por cada um dos principais, uma vara por cada casa dos seus pais, doze varas. E no meio das varas deles estava a vara de Aarão.",
+          "note_refs": []
+        },
+        {
+          "verse": 22,
+          "text": "Moisés depositou as varas diante do Senhor na tenda do testemunho.",
+          "note_refs": []
+        },
+        {
+          "verse": 23,
+          "text": "No dia seguinte Moisés entrou na tenda do testemunho e eis que tinha florescido a vara de Aarão, da casa de Levi; ela tinha feito brotar o rebento, desabrochar a flor e produzir amêndoas maduras.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "Moisés mandou tirar todas as varas que estavam diante do Senhor para os filhos de Israel; estes viram e cada homem voltou a pegar na sua vara.",
+          "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "O Senhor disse então a Moisés: «Volta a colocar a vara de Aarão diante do testemunho para a guardar como sinal contra os revoltosos. Que cessem as suas murmurações contra mim e assim não morrerão».",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: os filhos da revolta."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-17-n3",
+              "offset": 131,
+              "original_marker": "a",
+              "source_id": 88
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "text": "Moisés fez tal como o Senhor lhe ordenou.",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Os filhos de Israel dirigiram-se a Moisés, dizendo: «Vamos morrer! Estamos perdidos! Estamos todos perdidos!",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Todo aquele que ousar aproximar-se da morada do Senhor morrerá. Será que acabamos todos exterminados?»",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "O flagelo exterminador",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O altar dos holocaustos tinha sido feito de madeira de acácia e estava revestido de bronze (Ex 27,1-12; 38,1-2). Talvez aqui se encontre uma explicação para o revestimento e porque somente Aarão e seus filhos eram os que podiam aproximar-se do altar. Apesar do ocorrido com Coré, Datan e Abiram, a crise da autoridade persiste contra Moisés e Aarão. Sb 18,20-25, para exaltar a figura do sacerdócio aaronita, faz referência a este episódio."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-17-n1",
+              "offset": 22,
+              "original_marker": "d",
+              "source_id": 86
+            }
+          ]
+        },
+        {
+          "before_verse": 16,
+          "text": "A vara de Aarão",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O prodígio do florescimento da vara de Aarão é apresentado como um ato de criação (Gn 1,11.22.28) e serve para comprovar não apenas a sua proeminência sobre as demais casas patriarcais, mas a função reservada por Deus à tribo de Levi. Ex 6,16-20 indica uma posição pouco relevante da família de Aarão e Moisés, inclusive são filhos de um incesto, caso que foi proibido por lei (Lv 18,12-13)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-17-n2",
+              "offset": 15,
+              "original_marker": "e",
+              "source_id": 87
+            }
+          ]
         }
       ]
     },
@@ -3422,7 +4858,21 @@
         {
           "verse": 14,
           "text": "Tudo o que está consagrado por interdito em Israel será teu.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A lei do interdito (hérem) significa a proibição de se aproveitar determinados bens por altura da conquista de uma cidade (Js 6,17); esta lei determina também que certas coisas estão proibidas e não podem ser aproveitadas para uso comum; têm de ser obrigatoriamente consagradas a Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-18-n2",
+              "offset": 40,
+              "original_marker": "c",
+              "source_id": 90
+            }
+          ]
         },
         {
           "verse": 15,
@@ -3447,7 +4897,21 @@
         {
           "verse": 19,
           "text": "Todas as coisas santas de tributo que os filhos de Israel separaram para o Senhor, dou-tas para ti e para os teus filhos e filhas que estão contigo, como uma norma eterna. Esta é uma aliança eterna de sal diante do Senhor, para ti e, juntamente contigo, para toda a tua descendência».",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A expressão aliança de sal indica, pelo contexto, que a retribuição sacerdotal foi estabelecida pelo Senhor, razão pela qual fica assegurado o sustento de Aarão, dos seus filhos e das suas filhas. 2Cr 13,5 atesta que a soberania dada a David e à sua descendência também é uma aliança de sal. O sal, além de essencial para a vida (Sir 39,16; Esd 4,14), e de ser uma forma de pagamento, tinha a propriedade de conservar o alimento (Lv 2,13; Ez 43,24Mt 5,13)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-18-n4",
+              "offset": 204,
+              "original_marker": "d",
+              "source_id": 91
+            }
+          ]
         },
         {
           "verse": 20,
@@ -3506,13 +4970,58 @@
         },
         {
           "verse": 31,
-          "text": "Vós e a vossa casa pode - reis comê-lo em qualquer lugar, porque isso é a vossa paga, em troca do vosso serviço na tenda do encontro.",
+          "text": "Vós e a vossa casa podereis comê-lo em qualquer lugar, porque isso é a vossa paga, em troca do vosso serviço na tenda do encontro.",
           "note_refs": []
         },
         {
           "verse": 32,
           "text": "Ao reservardes o melhor destas coisas não cometeis nenhum pecado nem profanais o que os filhos de Israel consagraram e não morrereis”».",
           "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Função dos sacerdotes e levitas",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lv 10,8 também alude a uma palavra do Senhor dirigida a Aarão. Esta, porém, é a primeira vez, no livro, que o Senhor se dirige diretamente a Aarão, deslocando ele o eixo das atenções antes voltadas sobretudo para Moisés. Com isto, se começa a preparar o leitor para perceber a eleição dos levitas para o serviço da tenda da reunião e de tudo o que a ela diz respeito."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-18-n1",
+              "offset": 31,
+              "original_marker": "b",
+              "source_id": 89
+            }
+          ]
+        },
+        {
+          "before_verse": 8,
+          "text": "A parte de Aarão, de seus filhos e filhas",
+          "note_refs": []
+        },
+        {
+          "before_verse": 20,
+          "text": "A parte dos levitas",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Em Dt 14,28-29 e 26,12 alude-se a um dízimo trienal. Não obstante a proibição de herança, Nm 35,1-8 concede aos levitas cidades e terras para a agricultura e pastorícia."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-18-n3",
+              "offset": 19,
+              "original_marker": "e",
+              "source_id": 92
+            }
+          ]
         }
       ]
     },
@@ -3542,7 +5051,21 @@
         {
           "verse": 5,
           "text": "A vaca será queimada aos seus olhos, com a sua pele, a sua carne, o seu sangue e os seus excrementos.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ou: os intestinos."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-19-n2",
+              "offset": 100,
+              "original_marker": "b",
+              "source_id": 94
+            }
+          ]
         },
         {
           "verse": 6,
@@ -3552,7 +5075,21 @@
         {
           "verse": 7,
           "text": "O sacerdote lavará as suas vestes e banhará o seu corpo na água; e depois entrará no acampamento. E o sacerdote ficará impuro até à tarde.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: a sua carne."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-19-n3",
+              "offset": 55,
+              "original_marker": "c",
+              "source_id": 95
+            }
+          ]
         },
         {
           "verse": 8,
@@ -3629,6 +5166,51 @@
           "text": "E tudo aquilo em que ele tocar fica impuro e a pessoa que tocar nele ficará impura até à tarde».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A vaca vermelha",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O boi e a vaca eram animais sagrados (Ex 24,5; 29; 2Rs 12,26-33). A cor vermelha da vaca evoca o sangue que simboliza a vida e o que é capaz de afastar os riscos de morte (Ex 4,25; 24,6-8). Este ritual é mencionado ainda em Nm 31,23 e Hb 9,13. A cor vermelha também aparece atribuída a outros animais (Zc 1,8; 6,2; Ap 6,4.7; 12,3)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-19-n1",
+              "offset": 15,
+              "original_marker": "a",
+              "source_id": 93
+            }
+          ]
+        },
+        {
+          "before_verse": 11,
+          "text": "Casos de impureza",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A secção de Lv 11–16 contém um longo tratado sobre o puro e o impuro relativo a animais e a seres humanos. Mas estes capítulos não mencionam a impureza causada pelo contacto com um cadáver, que é também considerada importante (Nm 6,9-11; 31,19; Lv 21,1-4.11). Esta legislação é a razão pela qual o sacerdote e o levita evitaram aproximar-se do homem semimorto na parábola do bom samaritano (Lc 10,31-32). Nm 19,17-22 indica que a purificação deve ser feita com água viva, que significa água de nascente ou água corrente, excluindo, portanto, as águas paradas de cisterna, que, em Jerusalém, eram as mais usadas na vida quotidiana. São igualmente aproveitados restos das cinzas da vaca vermelha."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-19-n4",
+              "offset": 17,
+              "original_marker": "d",
+              "source_id": 96
+            }
+          ]
+        },
+        {
+          "before_verse": 17,
+          "text": "Ritual de purificação",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -3676,7 +5258,7 @@
         },
         {
           "verse": 9,
-          "text": "Moisés pegou na vara que estava diante do Senhor, tal como Ele lhe tinha orde - nado.",
+          "text": "Moisés pegou na vara que estava diante do Senhor, tal como Ele lhe tinha ordenado.",
           "note_refs": []
         },
         {
@@ -3696,8 +5278,22 @@
         },
         {
           "verse": 13,
-          "text": "Estas são as águas de Meribá, onde os filhos de Israel litigaram com o Senhor e com as quais[ ] Ele mostrou que era santo.",
-          "note_refs": []
+          "text": "Estas são as águas de Meribá, onde os filhos de Israel litigaram com o Senhor e com as quais[] Ele mostrou que era santo.",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ou: aos quais. A afirmação de que Ele mostrou que era santo pode referir-se tanto aos filhos de Israel como às águas que, em hebraico, é também um substantivo masculino plural. O episódio das águas de Meribá (“águas da discussão) torna-se o contexto que permitiu falar tanto da morte de Maria como deu a ocasião para Moisés e Aarão serem sentenciados pelo Senhor, retirando-lhes a possibilidade de entrar na terra de Canaã. A notícia da morte de Aarão vem após Edom ter negado passagem aos filhos de Israel pelo seu território. O monte Hor está localizado na extremidade do território de Edom (Nm 20,22-29)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-20-n2",
+              "offset": 93,
+              "original_marker": "a",
+              "source_id": 98
+            }
+          ]
         },
         {
           "verse": 14,
@@ -3717,7 +5313,21 @@
         {
           "verse": 17,
           "text": "Por favor, deixa-nos passar pela tua terra. Não passaremos pelos campos ou pelas vinhas e não beberemos a água dos poços. Caminharemos pelo caminho do rei e não nos desviaremos nem para a direita nem para a esquerda, até ultrapassarmos o teu território».",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O caminho do rei é uma rota comercial que passa na Transjordânia, no sentido norte-sul. Foi controlada pelo Egito que, até o século XI a.C., dominou a entrada e a saída de contingentes e caravanas no território cananaico. Este caminho do rei opõe-se à Via Maris, que corre ao longo da costa do Mediterrâneo (Ex 13,17). Neste episódio, chama a atenção o facto de que Moisés não tenha combatido contra Edom, como a seguir fará com os reis da Transjordânia (Nm 21,10-35). Edom é um povo de descendentes de Esaú (Gn 25,30; 36,43) e, segundo a narrativa, estariam instalados na região, antes dos descendentes de Jacob (Gn 36,1-43). Tratar Edom como meu irmão poderia ainda ter essa ressonância de alguma relação de proximidade ou parentesco."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-20-n3",
+              "offset": 154,
+              "original_marker": "b",
+              "source_id": 99
+            }
+          ]
         },
         {
           "verse": 18,
@@ -3779,6 +5389,37 @@
           "text": "Toda a comunidade viu que Aarão tinha expirado e toda a casa de Israel chorou Aarão durante trinta dias.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "As águas de Meribá",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Maria entrou em cena em Ex 2,1-10, teve uma participação no cântico da vitória sobre o Egito (Ex 15,20-22), mas depois foi acometida de lepra, por ter murmurado contra Moisés (Nm 12,1-16). O relato das águas de Meribá, nome que significa águas da discussão, retoma Ex 17,1-7 também aludido no Sl 95,8-11. A notícia da morte de Maria e o relato sobre as águas de Meribá serviram para introduzir a sentença do Senhor contra Aarão e contra Moisés. A morte de Aarão será narrada logo a seguir com mais detalhes (Nm 20,22-29); e Moisés será impedido de entrar na terra (Nm 27,14; Dt 1,37; 3,26-27; 4,21; 34,4)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-20-n1",
+              "offset": 18,
+              "original_marker": "e",
+              "source_id": 97
+            }
+          ]
+        },
+        {
+          "before_verse": 14,
+          "text": "Edom recusa passagem pelo seu território",
+          "note_refs": []
+        },
+        {
+          "before_verse": 22,
+          "text": "Morte de Aarão",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -3792,27 +5433,97 @@
         {
           "verse": 2,
           "text": "Então Israel fez um voto ao Senhor e disse: «Se decidires entregar este povo nas minhas mãos, lançarei o interdito sobre as suas cidades.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O interdito (hérem) era uma prática segundo a qual um comandante de guerra podia reservar para si uma parte dos despojos numa conquista. Na literatura bíblica sobre a entrada dos hebreus em Canaã aparece o uso de impor um interdito total em favor de Javé. O sentido parece ser o de impedir que os hebreus seguissem as influências das culturas de Canaã (Nm 33,55; Dt 7,1-5), cujas práticas se pretendiam rejeitar."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-21-n1",
+              "offset": 114,
+              "original_marker": "c",
+              "source_id": 100
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "O Senhor escutou a voz de Israel e entregou-lhes os cananeus; eles e as suas cidades foram votados ao interdito. O nome do lugar foi chamado Horma.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "No impacte imediato de uma etimologia popular, o nome de Horma tem toda a aparência de ser derivado ou, pelo menos, de ser facilmente associado com o conceito de hérem, isto é, interdito."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-21-n2",
+              "offset": 146,
+              "original_marker": "d",
+              "source_id": 101
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "Do monte Hor, partiram pelo caminho do mar dos Juncos, para contornar a terra de Edom. No caminho, porém, diminuiu muito o ânimo do povo;",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O mar dos Juncos evoca o mar Vermelho, mas num local diferente do narrado em Ex 10,19; 13,18; 14,25. Moisés, ao fazer uma serpente de bronze (serafim), representou o castigo que caiu sobre o povo que tinha protestado e cumpriu a ordem recebida do Senhor. O mesmo termo, serafim, significa em Is 30,6 serpentes aladas. Moisés, mais uma vez, aparece como intercessor do povo junto de Deus. O rei Ezequias mandou destruir a serpente de bronze, denominada Neustan, isto é, um objeto de cobre (2Rs 18,4). Sb 16,5-12 interpreta o episódio e afirma que não era a serpente que curava, mas a misericórdia do Senhor. No episódio da conversa com Nicodemos, Jesus fez uma releitura do episódio (Jo 3,14-15)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-21-n3",
+              "offset": 53,
+              "original_marker": "e",
+              "source_id": 102
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "e este falou contra Deus e contra Moisés: «Por que nos fizestes subir do Egito para morrer no deserto? Pois não há pão nem água! A nossa alma já está enjoada com este pão tão leve».",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O mesmo tipo de queixa relativamente ao maná aparece em 11,6."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-21-n4",
+              "offset": 180,
+              "original_marker": "a",
+              "source_id": 103
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Então o Senhor mandou contra o povo as serpentes ardentes que mordiam o povo e morreu muita gente de Israel.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Serpentes ardentes, isto é, cuja mordidela venenosa queimava e matava (cf. Is 6,2.6;14,29; 30,6). O adjetivo ardentes (serafim) sugere alguma associação com os serafins dos textos de Isaías, que representam figuras de tipo angélico. Desconhece-se a origem desta designação, que pode ainda ter alguma analogia com os querubins de Gn 3,21, se bem que o nome seja diferente."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "nm-21-n5",
+              "offset": 57,
+              "original_marker": "b",
+              "source_id": 104
+            }
+          ]
         },
         {
           "verse": 7,
@@ -3822,7 +5533,21 @@
         {
           "verse": 8,
           "text": "e o Senhor disse a Moisés: «Faz para ti uma serpente ardente e coloca-a sobre um poste. E acontecerá que todo aquele que for mordido e olhar para ela viverá!»",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Para a expressão serpente ardente o hebraico usa simplesmente saraf que é realmente o singular de serafim."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "nm-21-n6",
+              "offset": 60,
+              "original_marker": "c",
+              "source_id": 105
+            }
+          ]
         },
         {
           "verse": 9,
@@ -3836,7 +5561,7 @@
         },
         {
           "verse": 11,
-          "text": "Partiram de Obot e acampa - ram em Ié-Abarim, no deserto que está em frente de Moab, do lado nascente do sol.",
+          "text": "Partiram de Obot e acamparam em Ié-Abarim, no deserto que está em frente de Moab, do lado nascente do sol.",
           "note_refs": []
         },
         {
@@ -3852,7 +5577,21 @@
         {
           "verse": 14,
           "text": "Por isso se diz no livro das Guerras do Senhor: «Vaeb em Sufá e as torrentes do Arnon,",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Trata-se de um escrito perdido sobre o qual estavam hinos de memoráveis batalhas. Ao livro das Guerras do Senhor junta-se o livro do Justo, citado em Js 10,13 e 2Sm 1,18."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "nm-21-n7",
+              "offset": 46,
+              "original_marker": "d",
+              "source_id": 106
+            }
+          ]
         },
         {
           "verse": 15,
@@ -3882,7 +5621,21 @@
         {
           "verse": 20,
           "text": "de Bamot para o vale que está nos campos de Moab e até ao cimo do Pisga, de onde se observa a superfície da região selvagem.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "O termo hebraico para designar região selvagem é yechimon. Como não aparece nunca na Bíblia com artigo, poderia ser considerado como um nome próprio com que se designava a zona árida situada ao sul de Israel, entre Judá e o deserto do Sinai. Esta era uma paisagem já visível a partir das montanhas da Transjordânia como é o monte Pisga. Ver esta região era para o povo dos hebreus antever já um pouco da terra prometida."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "nm-21-n8",
+              "offset": 123,
+              "original_marker": "e",
+              "source_id": 107
+            }
+          ]
         },
         {
           "verse": 21,
@@ -3907,7 +5660,21 @@
         {
           "verse": 25,
           "text": "Israel tomou todas estas cidades e habitou em todas as cidades dos amorreus, em Hesbon e em todas as suas povoações dependentes.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: as suas filhas. Trata-se de localidades ligadas e dependentes de uma cidade principal."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "nm-21-n9",
+              "offset": 127,
+              "original_marker": "f",
+              "source_id": 109
+            }
+          ]
         },
         {
           "verse": 26,
@@ -3917,7 +5684,21 @@
         {
           "verse": 27,
           "text": "Por isso diziam os poetas: «Vinde! Hesbon será reconstruída; e restabelecida, a cidade de Seon!",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "O termo hebraico, moshelim, designa aqueles que se ocupam de pequenos textos de sabor literário e poético, como são provérbios e parábolas. Pode referir-se aos que compõem e também aos que proclamam estes textos. O título do livro dos Provérbios é deriva da mesma raíz."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "nm-21-n10",
+              "offset": 25,
+              "original_marker": "g",
+              "source_id": 110
+            }
+          ]
         },
         {
           "verse": 28,
@@ -3927,12 +5708,40 @@
         {
           "verse": 29,
           "text": "Ai de ti, Moab! Pereceste, povo de Camós! Ele pôs os seus filhos em fuga e as suas filhas em cativeiro para o rei dos amorreus, Seon.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Camós era o deus de Moab e os moabitas, na frase que se segue, são tratados como seus filhos e filhas."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "nm-21-n11",
+              "offset": 41,
+              "original_marker": "h",
+              "source_id": 111
+            }
+          ]
         },
         {
           "verse": 30,
           "text": "Atirámos sobre eles; Hesbon está perdida até Dibon; devastámos até Nofa, até perto de Madabá».",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "O estado deste texto hebraico faz com que sejam possíveis diversas traduções."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "nm-21-n12",
+              "offset": 93,
+              "original_marker": "i",
+              "source_id": 112
+            }
+          ]
         },
         {
           "verse": 31,
@@ -3959,6 +5768,28 @@
           "text": "E eles bateram-no com os seus filhos e todo o seu povo até não lhe restar nem um sobrevivente; e tomaram posse da sua terra.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Tomada de Horma",
+          "note_refs": []
+        },
+        {
+          "before_verse": 4,
+          "text": "A serpente de bronze",
+          "note_refs": []
+        },
+        {
+          "before_verse": 10,
+          "text": "Conquista da Transjordânia",
+          "note_refs": []
+        },
+        {
+          "before_verse": 21,
+          "text": "Derrota de Seon e de Og",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -3982,12 +5813,58 @@
         {
           "verse": 4,
           "text": "Então Moab disse aos anciãos de Madian: «Agora esta multidão vai devorar tudo à nossa volta, como um boi devora a erva do campo». Balac, filho de Cipor, que naquele tempo era rei de Moab,",
-          "note_refs": []
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "Moisés teve profundas e boas relações com os madianitas (Ex 2,15-16; 3,1; 4,19; 18,1). Esta é a primeira alusão a Madian após o retomar da marcha no deserto. Madian desponta como inimigo do antigo Israel por causa de Balac.",
+            "3": "Lit.: assembleia."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-22-n2",
+              "offset": 38,
+              "original_marker": "b",
+              "source_id": 114
+            },
+            {
+              "ref": "3",
+              "id": "nm-22-n3",
+              "offset": 60,
+              "original_marker": "c",
+              "source_id": 115
+            }
+          ]
         },
         {
           "verse": 5,
-          "text": "man - dou mensageiros para chamar Balaão, filho de Beor, em Petor, que ficava junto ao rio, na terra dos filhos do seu povo, dizendo: «Eis que um povo que saiu do Egito cobre a face da terra e está a habitar na minha frente.",
-          "note_refs": []
+          "text": "mandou mensageiros para chamar Balaão, filho de Beor, em Petor, que ficava junto ao rio, na terra dos filhos do seu povo, dizendo: «Eis que um povo que saiu do Egito cobre a face da terra e está a habitar na minha frente.",
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "A expressão junto ao rio, sem dizer o nome do rio, normalmente refere-se ao Eufrates, por ser o rio de maior importância em toda a região.",
+            "5": "Lit.: cobre o olho da terra. Esta formulação é repetida em Nm 22,11 e, juntamente com Ex 10,5, estas são as três únicas ocorrências bíblicas. Os filhos de Israel estão a ser considerados como gafanhotos por Balac, o seu temor procede da praga que se abateu sobre o Egito (Ex 10,19)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-22-n4",
+              "offset": 87,
+              "original_marker": "d",
+              "source_id": 116
+            },
+            {
+              "ref": "5",
+              "id": "nm-22-n5",
+              "offset": 187,
+              "original_marker": "e",
+              "source_id": 117
+            }
+          ]
         },
         {
           "verse": 6,
@@ -4021,7 +5898,7 @@
         },
         {
           "verse": 12,
-          "text": "Deus disse a Balaão: «Não deves ir com eles. Não amaldiçoarás esse povo, porque O VIII A ele é bendito».",
+          "text": "Deus disse a Balaão: «Não deves ir com eles. Não amaldiçoarás esse povo, porque ele é bendito».",
           "note_refs": []
         },
         {
@@ -4162,12 +6039,52 @@
         {
           "verse": 40,
           "text": "Balac sacrificou bois e ovelhas e enviou parte a Balaão e aos oficiais que estavam com ele.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Trata-se provavelmente de um sacrifício do género dos de comunhão, no qual parte da vítima oferecida é consumida pela família que faz a oferta (1Sm 1,3.4-5). Neste caso serão os oficiais de Balac e Balaão é um seu ilustre convidado."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "nm-22-n6",
+              "offset": 90,
+              "original_marker": "a",
+              "source_id": 118
+            }
+          ]
         },
         {
           "verse": 41,
           "text": "Na manhã seguinte, Balac tomou Balaão consigo e fê-lo subir a Bamot-Baal e, de lá, este pôde ver uma extremidade do acampamento do povo.",
           "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "III – NA REGIÃO DE MOAB",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Balac convoca Balaão",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Nm 22–24 reúne tradições sobre o vidente Balaão de Beor. Nm 31,8.16 atesta uma tradição diferente, pois liga Balaão ao pecado do povo em Peor, narrado em Nm 25. O Novo Testamento manteve a visão negativa sobre Balaão (2Pd 2,15; Jd 1,11; Ap 2,14). Na inscrição encontrada numa das paredes do templo de Deir ’Allah, nas proximidades do Jordão (sec. VIII a.C.), está escrito que o famoso profeta Balaão teve uma visão e recebeu uma mensagem da parte do conselho dos deuses (shaddayim; Nm 24,16 menciona shadday). Balaão era um adivinho conhecido na região da Transjordânia, próxima de Moab, onde a narrativa é ambientada. Pitoresca é a figura da jumenta que, com a serpente do jardim do Éden, (Gn 3,1-5), são os dois únicos animais na Bíblia postos a falar com os humanos. A jumenta de Balaão e o peixe em Jonas (Jn 1,17) atuam, por vontade do Senhor, como instrumentos salvíficos."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-22-n1",
+              "offset": 20,
+              "original_marker": "a",
+              "source_id": 113
+            }
+          ]
         }
       ]
     },
@@ -4197,7 +6114,21 @@
         {
           "verse": 5,
           "text": "Então o Senhor pôs uma palavra na boca de Balaão e disse: «Volta para junto de Balac e assim lhe falarás».",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Tal como acontece com o mensageiro, um profeta transmite uma mensagem proveniente de Deus e repete-a junto dos destinatários. A comunicação da mensagem que normalmente podia consistir na entrega de um documento é aqui expressa com a metáfora de colocar uma palavra na boca do mensageiro."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-23-n1",
+              "offset": 56,
+              "original_marker": "b",
+              "source_id": 119
+            }
+          ]
         },
         {
           "verse": 6,
@@ -4207,7 +6138,21 @@
         {
           "verse": 7,
           "text": "Balaão proferiu a sua parábola e disse: «De Aram, dos montes do Oriente me trouxe Balac, o rei de Moab: “Vem amaldiçoar Jacob por mim! Vem fazer uma imprecação contra Israel!”",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O termo hebraico machal, que significa provérbio, comparação ou parábola, costuma ser traduzido por poema. Uma maldição era um momento solene em termos de comunicação e justificava um texto literariamente mais elaborado."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-23-n2",
+              "offset": 30,
+              "original_marker": "c",
+              "source_id": 120
+            }
+          ]
         },
         {
           "verse": 8,
@@ -4277,7 +6222,21 @@
         {
           "verse": 21,
           "text": "Não se descobriu iniquidade em Jacob, nem se viu transgressão em Israel; com ele está o Senhor, seu Deus, nele ressoa uma aclamação real.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A aclamação é uma expressão sonora de entusiasmo que se pode referir a Deus, ao rei ou servir de encorajamento para a guerra ou para celebração de uma vitória."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-23-n3",
+              "offset": 136,
+              "original_marker": "d",
+              "source_id": 121
+            }
+          ]
         },
         {
           "verse": 22,
@@ -4292,7 +6251,21 @@
         {
           "verse": 24,
           "text": "Eis um povo que como leoa se levanta e como leão se ergue; não se deitará enquanto não devorar a presa e não beber o sangue das vítimas».",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A dureza desta metáfora soa estranha no contexto da mentalidade judaica, bastante reticente quanto a familiaridades com o sangue. Uma origem estrangeira do texto ou mesmo o ambiente específico de guerra podem eventualmente contribuir para a sua presença aqui."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-23-n4",
+              "offset": 135,
+              "original_marker": "a",
+              "source_id": 122
+            }
+          ]
         },
         {
           "verse": 25,
@@ -4312,7 +6285,21 @@
         {
           "verse": 28,
           "text": "Balac conduziu Balaão ao cimo do Peor, de onde se observa a superfície da região selvagem.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Ver 21,20 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "nm-23-n5",
+              "offset": 89,
+              "original_marker": "b",
+              "source_id": 123
+            }
+          ]
         },
         {
           "verse": 29,
@@ -4322,6 +6309,23 @@
         {
           "verse": 30,
           "text": "Balac fez como disse Balaão e ofereceu em holocausto um touro e um carneiro sobre cada altar.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Balaão abençoa Israel",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "Primeiro oráculo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 16,
+          "text": "Segundo oráculo",
           "note_refs": []
         }
       ]
@@ -4397,7 +6401,21 @@
         {
           "verse": 14,
           "text": "E agora vou voltar para o meu povo. Anda! Quero advertir-te sobre o que este povo, nos dias futuros, vai fazer ao teu povo».",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Para evitar confusão com o povo de Israel, as traduções antigas explicitam: para o meu lugar (LXX) ou: para a minha terra (Siríaca)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-24-n1",
+              "offset": 34,
+              "original_marker": "c",
+              "source_id": 124
+            }
+          ]
         },
         {
           "verse": 15,
@@ -4412,7 +6430,30 @@
         {
           "verse": 17,
           "text": "Hei de vê-lo, mas não agora, hei de contemplá-lo, mas não próximo. Uma estrela desponta em Jacob, um cetro se ergue em Israel; ele esmagará as têmporas de Moab e massacrará todos os filhos de Set.",
-          "note_refs": []
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "O surgimento de uma estrela no antigo Oriente era visto como anúncio da chegada de um rei. O oráculo une a estrela ao cetro, o que fica a sugerir uma alusão ao messias (Gn 49,9-12). Mateus, provavelmente, fez uso desse oráculo no episódio dos magos que seguiram uma estrela (Mt 2,1-6), associando-o com Mq 5,1-3 e 2Sm 5,2.",
+            "3": "Filhos de Set parece ser uma designação alternativa para os moabitas ou para algum dos grupos de nómadas que frequentavam a região, os quais, segundo referências egípcias e assírias, eram conhecidos por um nome semelhante a este. Desconhece-se se poderá haver alguma ligação com o terceiro filho de Adão (Gn 4,25)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-24-n2",
+              "offset": 96,
+              "original_marker": "d",
+              "source_id": 125
+            },
+            {
+              "ref": "3",
+              "id": "nm-24-n3",
+              "offset": 195,
+              "original_marker": "e",
+              "source_id": 126
+            }
+          ]
         },
         {
           "verse": 18,
@@ -4432,7 +6473,21 @@
         {
           "verse": 21,
           "text": "Olhou para os quenitas, proferiu a sua parábola e disse: «A tua morada é estável e o teu ninho está assente na rocha.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O nome dos quenitas tem a ver com Caim, mas este nome tem semelhanças com a palavra hebraica que significa ninho. E a ideia do poema parece assentar precisamente num jogo de palavras que aproveita o som do nome étnico e o sentido metafórico de ninho."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-24-n4",
+              "offset": 94,
+              "original_marker": "a",
+              "source_id": 128
+            }
+          ]
         },
         {
           "verse": 22,
@@ -4447,11 +6502,46 @@
         {
           "verse": 24,
           "text": "E os navios virão pela mão de Kitim; eles dominarão Assur e dominarão Éber. Mas também ele irá à perdição».",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Kitim é um nome frequente em todas as épocas da Bíblia e designa as populações e poderes da ilha de Chipre e das margens do Mediterrâneo oriental e de outros que, em várias fases da história, venham dos lados do mar. Eventualmente, poderia mesmo representar os filisteus, cujas origens são igualmente ocidentais.",
+            "6": "Assur refere-se aos assírios cuja influência e domínio atingiu estas regiões. Éber é um nome que ocorre na genealogia dos descendentes de Sem (Gn 10,21-29) e dos antepassados de Abraão (Gn 14,13) e que parece implicar diversas populações nas regiões a ocidente do rio Eufrates. Nelas estão incluídos os hebreus e outros grupos."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "nm-24-n5",
+              "offset": 35,
+              "original_marker": "b",
+              "source_id": 129
+            },
+            {
+              "ref": "6",
+              "id": "nm-24-n6",
+              "offset": 74,
+              "original_marker": "c",
+              "source_id": 130
+            }
+          ]
         },
         {
           "verse": 25,
           "text": "Então Balaão ergueu-se e foi-se embora, regressando à sua terra; e também Balac seguiu o seu caminho.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Terceiro oráculo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 10,
+          "text": "Últimos oráculos",
           "note_refs": []
         }
       ]
@@ -4462,7 +6552,21 @@
         {
           "verse": 1,
           "text": "Israel habitou em Chitim e o povo começou a prostituir-se com as filhas de Moab.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A metáfora da prostituição com as filhas de Moab serve de contexto para introduzir o pecado da idolatria já atestado em Ex 34,10-16. Este perigo é apresentado como a grande tentação de violar a aliança por parte dos filhos de Israel, depois de entrar e tomar posse de Canaã (Ex 20,3; 22,19; 23,13; Dt 5,7; 6,14; 7,3-6). Esta é a maneira de descrever o convívio com outras religiões como um perigo de degradação e não propriamente um posicionamento rigoroso e puritano nos domínios específicos da sexualidade. Por isso, o convite das filhas de Moab chama os israelitas a frequentarem os santuários dos deuses delas (v. 2)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-25-n1",
+              "offset": 57,
+              "original_marker": "d",
+              "source_id": 131
+            }
+          ]
         },
         {
           "verse": 2,
@@ -4476,8 +6580,22 @@
         },
         {
           "verse": 4,
-          "text": "Por isso, o Senhor disse a Moisés: «Toma O E todos os principais do povo e suspende-os para o Senhor ao rigor do Sol. Assim se retirará a ira do Senhor do meio de Israel».",
-          "note_refs": []
+          "text": "Por isso, o Senhor disse a Moisés: «Toma todos os principais do povo e suspende-os para o Senhor ao rigor do Sol. Assim se retirará a ira do Senhor do meio de Israel».",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Esta prática, cujo significado preciso é difícil de definir, parece indicar um castigo destinado à reflexão e à reparação (Cf. 2Sm 21,6). O entendimento mais frequente é o de que se trate de morte por enforcamento ou empalamento. Entretanto, o v. 5 parece matizar mais a questão, dando a entender que apenas morreriam aqueles que fossem considerados culpados. Neste caso, poderia tratar-se de uma prova do tipo do ordálio."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-25-n2",
+              "offset": 112,
+              "original_marker": "e",
+              "source_id": 132
+            }
+          ]
         },
         {
           "verse": 5,
@@ -4497,7 +6615,21 @@
         {
           "verse": 8,
           "text": "e foi atrás daquele homem de Israel para a alcova, trespassando-os os dois, o homem de Israel e a mulher, pelo ventre. Então foi detido o flagelo que pesava sobre os filhos de Israel.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Esta palavra aparece apenas neste texto e parece significar um recinto abobadado de uso religioso, destinado à adivinhação ou à prostituição sagrada."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-25-n3",
+              "offset": 49,
+              "original_marker": "f",
+              "source_id": 133
+            }
+          ]
         },
         {
           "verse": 9,
@@ -4546,8 +6678,39 @@
         },
         {
           "verse": 18,
-          "text": "porque eles vos atacaram e com os seus enganos vos enganaram nos aconteci - mentos de Peor e de Cozebi, filha de um principal de Madian, irmã deles, que foi trespassada no dia do flagelo por causa do que aconteceu em Peor».",
+          "text": "porque eles vos atacaram e com os seus enganos vos enganaram nos acontecimentos de Peor e de Cozebi, filha de um principal de Madian, irmã deles, que foi trespassada no dia do flagelo por causa do que aconteceu em Peor».",
           "note_refs": []
+        },
+        {
+          "verse": 19,
+          "text": "Depois do flagelo, aconteceu que",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Idolatría de Israel em Baal-Peor",
+          "note_refs": []
+        },
+        {
+          "before_verse": 19,
+          "text": "Nova contagem nas estepes de Moab",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Este novo recenseamento diz respeito à geração nascida no deserto e que tomará posse da terra, pois a geração que saiu do Egito, e foi contada após a experiência do Sinai (Nm 1,1-54), morreu no deserto (Nm 14,20-39). Os dois recenseamentos servem para contrapor e distinguir a iniciativa do Senhor da iniciativa humana, como ocorre em 2Sm 24,1-17. Em 1Cr 21,1-16 aparece um texto paralelo a este e oferece possui uma outra leitura para este episódio. A terra será dividida de forma proporcional ao tamanho de cada tribo."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-25-n4",
+              "offset": 33,
+              "original_marker": "g",
+              "source_id": 134
+            }
+          ]
         }
       ]
     },
@@ -4816,7 +6979,7 @@
         },
         {
           "verse": 53,
-          "text": "«Para estes repartirás a terra como heran - ça, segundo o número dos nomes.",
+          "text": "«Para estes repartirás a terra como herança, segundo o número dos nomes.",
           "note_refs": []
         },
         {
@@ -4877,6 +7040,23 @@
         {
           "verse": 65,
           "text": "Isto, porque o Senhor lhes dissera: «Eles terão de morrer no deserto e deles não ficará homem algum, exceto Caleb, filho de Jefuné, e Josué, filho de Nun».",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 52,
+          "text": "Normas para a divisão da terra",
+          "note_refs": []
+        },
+        {
+          "before_verse": 57,
+          "text": "Contagem dos levitas",
+          "note_refs": []
+        },
+        {
+          "before_verse": 63,
+          "text": "Motivo da contagem",
           "note_refs": []
         }
       ]
@@ -4977,7 +7157,21 @@
         {
           "verse": 19,
           "text": "e mandá-lo-ás ficar de pé diante do sacerdote Eleázar, diante de toda a comunidade e, aos seus olhos, entregar-lhe-ás o comando.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A transmissão do encargo lembra um ritual de ordenação. A preocupação de Moisés com a comunidade faz lembrar a compaixão de Jesus em relação às “ovelhas sem pastor” (Mt 9,36). De igual modo, a eleição de Josué, recebendo o espírito, faz lembrar a unção de Jesus, recebendo o batismo das mãos de João no Jordão (Is 61,1; Lc 4,18)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-27-n3",
+              "offset": 127,
+              "original_marker": "c",
+              "source_id": 137
+            }
+          ]
         },
         {
           "verse": 20,
@@ -4987,7 +7181,21 @@
         {
           "verse": 21,
           "text": "Ele pôr-se-á de pé diante do sacerdote Eleázar e este pedirá para ele a sentença dos urim diante do Senhor. Por sua ordem sairão e por sua ordem entrarão, ele e toda a comunidade dos filhos de Israel».",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Os urim eram uma espécie de dados sagrados que serviam para obter respostas a perguntas formuladas pelos israelitas. Costumam andar associados a um objeto semelhante designado tumim e fariam parte das mesmas funções (cf. Ex 28,30; Dt 33,8; 1Sm 14,41; 28,6; Esd 2,63; Ne 7,65). Aqui estes dados foram usados para estabelecer Josué como sucessor de Moisés. A resposta obtida é designada sentença, porque, na circunstância, a questão era de grande importância."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-27-n4",
+              "offset": 89,
+              "original_marker": "d",
+              "source_id": 138
+            }
+          ]
         },
         {
           "verse": 22,
@@ -4998,6 +7206,46 @@
           "verse": 23,
           "text": "E então impôs sobre ele as suas mãos e transmitiu-lhe ordens, como o Senhor tinha falado por meio de Moisés.",
           "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A herança das filhas",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O episódio tem a ver com a informação de Nm 26,33 e diz respeito à falta de herdeiros masculinos. A questão relativa à transmissão da herança e a consequente permanência no clã será tratada em Nm 36,1-13."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-27-n1",
+              "offset": 20,
+              "original_marker": "a",
+              "source_id": 135
+            }
+          ]
+        },
+        {
+          "before_verse": 12,
+          "text": "Josué eleito como sucessor de Moisés",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O motivo da eleição de Josué tem a ver com o anúncio da morte de Moisés, devido ao episódio de Meribá em Nm 20,2-13 (Dt 1,37; 3,26). Esta escolha encontra-se atestada igualmente em Dt 31,1-8; Dt 34,9 e em Js 1,1-9. Josué aparece investido como pastor do rebanho; a sua investidura, além disso, recebe confirmação sacerdotal através de Eleázar que faz uso dos urim (Ex 28,30; Lv 8,8). Assim, fica confirmado por um rito sagrado aquilo que o Senhor pronunciou através da boca de Moisés. Josué e Eleázar conduzirão e instalarão o povo na terra; e morrerão praticamente também juntos (Js 24,29- 35). Esta dupla liderança, civil (Josué) e religiosa (Eleázar) retrata o modelo de governo assumido pelo grupo de exilados, na altura em que regressou da Babilónia (Esd 3,1-2; Ag 1,1.12-14)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-27-n2",
+              "offset": 36,
+              "original_marker": "b",
+              "source_id": 136
+            }
+          ]
         }
       ]
     },
@@ -5011,18 +7259,46 @@
         },
         {
           "verse": 2,
-          "text": "«Ordena aos filhos de Israel e diz-lhes que deveis ter o cuidado de me apresentar no tempo estabelecido a minha oferta, o meu alimento, as minhas ofertas no fogo, de odor agradável para mim». O",
-          "note_refs": []
+          "text": "«Ordena aos filhos de Israel e diz-lhes que deveis ter o cuidado de me apresentar no tempo estabelecido a minha oferta, o meu alimento, as minhas ofertas no fogo, de odor agradável para mim».",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Nota-se a relação com Nm 9 e com o calendário litúrgico de Lv 23. Os sacrifícios seguem o ciclo diário, sabático, mensal e anual, dando particular atenção às festas da Páscoa e das Tendas. Esta dinâmica encontra-se em Ez 45,13-25."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-28-n1",
+              "offset": 189,
+              "original_marker": "e",
+              "source_id": 139
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "«Dir-lhes-ás ainda: “Esta é a oferta no fogo que apresentareis ao Senhor: cor - deiros perfeitos de um ano, dois por dia, como holocausto perene.",
+          "text": "«Dir-lhes-ás ainda: “Esta é a oferta no fogo que apresentareis ao Senhor: cordeiros perfeitos de um ano, dois por dia, como holocausto perene.",
           "note_refs": []
         },
         {
           "verse": 4,
           "text": "Farás a oferta de um cordeiro pela manhã e o outro ao cair da tarde;",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Em 2Rs 16,15 é atestada a prática de um holocausto pela manhã (Lv 9,17) e uma oferenda à tarde (Esd 9,5). No tempo de Ezequiel menciona-se apenas um holocausto (Ez 46,13-15)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-28-n2",
+              "offset": 67,
+              "original_marker": "a",
+              "source_id": 141
+            }
+          ]
         },
         {
           "verse": 5,
@@ -5057,7 +7333,21 @@
         {
           "verse": 11,
           "text": "«No começo dos vossos meses apresentareis um holocausto para o Senhor: dois vitelos, um carneiro, sete cordeiros perfeitos de um ano,",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Os meses eram rigorosamente lunares. Por isso o primeiro do mês é a festa da lua nova. A neoménia ou lua nova estava associada ao sábado, porque os meses eram compostos por quatro semanas lunares completas e começavam sempre com o sábado (Lv 23,24-25; 2Rs 4,23; Os 2,13; Am 8,5; Is 1,13; Ez 46,6-7; Cl 2,16)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-28-n3",
+              "offset": 27,
+              "original_marker": "b",
+              "source_id": 142
+            }
+          ]
         },
         {
           "verse": 12,
@@ -5159,6 +7449,38 @@
           "text": "Fareis isto, além do holocausto perene e da sua oblação. Todos deverão ser perfeitos para vós e ter as respetivas libações.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Normas sobre os sacrifícios",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "Sacrifícios diários",
+          "note_refs": []
+        },
+        {
+          "before_verse": 9,
+          "text": "Sacrifícios sabáticos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Sacrifícios mensais",
+          "note_refs": []
+        },
+        {
+          "before_verse": 16,
+          "text": "A festa da Páscoa",
+          "note_refs": []
+        },
+        {
+          "before_verse": 26,
+          "text": "Festa das Semanas",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -5167,7 +7489,21 @@
         {
           "verse": 1,
           "text": "«No primeiro dia do sétimo mês haverá para vós uma assembleia sagrada; não fareis nenhum trabalho servil; será para vós um dia de aclamação.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O sétimo mês, segundo o calendário hebraico, é o mês de Tisri e começa em meados de setembro. As festividades aqui anunciadas na lua nova de Tisri são conhecidas como a festa da Aclamação. Esta coincidia com a da lua nova. Era um começo de calendário; e o facto de convergir com a época de início do ano, segundo as tradições siro-mesopotâmicas, acabou por fazer com que os hebreus passassem a celebrar nesta altura a festa do Ano Novo, como continuam a praticar ainda hoje. Segundo as tradições bíblicas mais antigas, o início do ano era na lua nova de Nisan, que culminava com a festa da Páscoa, na lua cheia do mesmo mês."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-29-n1",
+              "offset": 30,
+              "original_marker": "c",
+              "source_id": 143
+            }
+          ]
         },
         {
           "verse": 2,
@@ -5358,10 +7694,22 @@
           "verse": 39,
           "text": "Fareis isto em honra do Senhor, nas vossas solenidades, além dos vossos votos e ofertas voluntárias, para os vossos holocaustos, as vossas oblações, as vossas libações e os vossos sacrifícios de comunhão».",
           "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Festa da Aclamação",
+          "note_refs": []
         },
         {
-          "verse": 40,
-          "text": "Moisés falou aos filhos de Israel, de acordo com tudo aquilo que o Senhor lhe tinha ordenado, a ele Moisés.",
+          "before_verse": 7,
+          "text": "Festa da Expiação",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Festa das Tendas",
           "note_refs": []
         }
       ]
@@ -5371,7 +7719,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "",
+          "text": "Moisés falou aos filhos de Israel, de acordo com tudo aquilo que o Senhor lhe tinha ordenado, a ele Moisés.",
           "note_refs": []
         },
         {
@@ -5406,7 +7754,7 @@
         },
         {
           "verse": 8,
-          "text": "se o seu marido tomar conhe - cimento e nesse dia não lhe disser nada, os seus votos são válidos e os compromissos que assumiu para si mesma ficam válidos.",
+          "text": "se o seu marido tomar conhecimento e nesse dia não lhe disser nada, os seus votos são válidos e os compromissos que assumiu para si mesma ficam válidos.",
           "note_refs": []
         },
         {
@@ -5448,6 +7796,32 @@
           "verse": 16,
           "text": "Se deixar de os cumprir, depois de o marido ter tomado conhecimento, a culpa pesará sobre ela”».",
           "note_refs": []
+        },
+        {
+          "verse": 17,
+          "text": "Estas são as normas que o Senhor ordenou a Moisés para aplicar entre um homem e a sua mulher, entre um pai e a sua filha na sua juventude, enquanto está na casa do seu pai.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 2,
+          "text": "Normas sobre votos e promessas",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Este caso é único. Trata da mulher que faz um voto ou assume uma obrigação, seja enquanto solteira e sob a tutela do pai, seja enquanto casada e sob a tutela do marido,. Em 1Sm 1,9-28, Ana fez um voto ao Senhor e Elcana, seu marido, consentiu e colaborou. Em Jz 11,29-40, Jefté fez o voto, mas este recaiu sobre a filha virgem. No Novo Testamento, Maria, ao dizer ao Anjo Gabriel: “não conheço varão”, não estaria apenas a referir-se à condição de não casada, mas, segundo a tradição, a uma possível consagração a Deus (Lc 1,34)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-30-n1",
+              "offset": 30,
+              "original_marker": "a",
+              "source_id": 144
+            }
+          ]
         }
       ]
     },
@@ -5491,7 +7865,7 @@
         },
         {
           "verse": 8,
-          "text": "E entre as restantes vítimas mata - ram os reis de Madian: Evi, Réquem, Sur, Hur e Reba, cinco reis de Madian; e mataram também à espada Balaão, filho de Beor.",
+          "text": "E entre as restantes vítimas mataram os reis de Madian: Evi, Réquem, Sur, Hur e Reba, cinco reis de Madian; e mataram também à espada Balaão, filho de Beor.",
           "note_refs": []
         },
         {
@@ -5506,7 +7880,7 @@
         },
         {
           "verse": 11,
-          "text": "Reco - lheram todos os despojos e todo o espólio, fossem pessoas ou animais.",
+          "text": "Recolheram todos os despojos e todo o espólio, fossem pessoas ou animais.",
           "note_refs": []
         },
         {
@@ -5611,7 +7985,7 @@
         },
         {
           "verse": 32,
-          "text": "E o espólio que o exército de combatentes juntou como despojos era de seis - centas e setenta e cinco mil ovelhas,",
+          "text": "E o espólio que o exército de combatentes juntou como despojos era de seiscentas e setenta e cinco mil ovelhas,",
           "note_refs": []
         },
         {
@@ -5701,7 +8075,7 @@
         },
         {
           "verse": 50,
-          "text": "Queremos apresentar como oferta ao Senhor o que cada homem encon - trou em ouro: pulseiras, braceletes, anéis, brincos e colares, em expiação pelas nossas vidas diante do Senhor».",
+          "text": "Queremos apresentar como oferta ao Senhor o que cada homem encontrou em ouro: pulseiras, braceletes, anéis, brincos e colares, em expiação pelas nossas vidas diante do Senhor».",
           "note_refs": []
         },
         {
@@ -5724,6 +8098,37 @@
           "text": "Moisés com o sacerdote Eleázar tomou o ouro dos chefes de milhares e dos chefes de centenas e introduziram-no na tenda do encontro como memorial para os filhos de Israel, diante do Senhor.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Castigo dos madianitas",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Este episódio bélico além de concretizar Nm 25,1-18, permite introduzir a ação de Eleázar, sacerdote e filho de Aarão, no tocante aos despojos, que inclui também a vida poupada das jovens virgens. 1Sm 30,24-25 menciona uma prática para os despojos, segundo a qual o rei era mais favorecido que os soldados. Dt 21,10-14 alude a uma permissão com fins matrimoniais no caso de haver prisioneiras de guerra. Contudo, o matrimónio de israelitas com mulheres madianitas torna-se impensável após as determinações de Esd 9,1-15 e Ne 13,23-29. A ação de Fineias (Nm 25,7.11) é lembrada no Sl 106,30-31."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-31-n1",
+              "offset": 22,
+              "original_marker": "a",
+              "source_id": 145
+            }
+          ]
+        },
+        {
+          "before_verse": 21,
+          "text": "Instrução de Eleázar",
+          "note_refs": []
+        },
+        {
+          "before_verse": 25,
+          "text": "Ordem sobre os despojos",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -5732,7 +8137,21 @@
         {
           "verse": 1,
           "text": "Os rebanhos dos filhos de Rúben e dos filhos de Gad eram muito numerosos. Então viram que a terra de Jazer e a terra de Guilead eram um bom lugar para os rebanhos.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Esta região da Transjordânia diz respeito aos reinos de Seon, rei dos amorreus, e Og, rei de Basan (Nm 21,21-35; Dt 2,26-37; 3,1-17; Js 12,1-6). Apesar de Rúben ser o primogénito de Jacob (Gn 29,32), Gad obteve precedência. Js 13,8 conta-os como uma unidade territorial, mas a estela de Mecha, rei de Moab, atesta a presença de Gad na região, que também entrou no recenseamento de David (2Sm 24,5). Moisés, por este episódio, é o protagoniza da primeira divisão da terra entre os filhos de Israel. Contudo, a sua concretização ficou na dependência do cumprimento da promessa (Dt 3,12-17; Js 13,8-33; 1Cr 5,1-22)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-32-n1",
+              "offset": 72,
+              "original_marker": "a",
+              "source_id": 146
+            }
+          ]
         },
         {
           "verse": 2,
@@ -5746,7 +8165,7 @@
         },
         {
           "verse": 4,
-          "text": "a terra que o Senhor subjugou dian - te da comunidade de Israel é uma terra própria para rebanhos e os teus servos têm rebanhos».",
+          "text": "a terra que o Senhor subjugou diante da comunidade de Israel é uma terra própria para rebanhos e os teus servos têm rebanhos».",
           "note_refs": []
         },
         {
@@ -5831,7 +8250,7 @@
         },
         {
           "verse": 21,
-          "text": "se cada um dos vossos homens arma - dos atravessar o Jordão à frente do Senhor até que Ele desaloje da sua frente os seus inimigos,",
+          "text": "se cada um dos vossos homens armados atravessar o Jordão à frente do Senhor até que Ele desaloje da sua frente os seus inimigos,",
           "note_refs": []
         },
         {
@@ -5937,6 +8356,27 @@
         {
           "verse": 42,
           "text": "Noba avançou e conquistou Quenat e as localidades dela dependentes e chamou-lhe Noba, porque era este o seu próprio nome.",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: e as suas filhas."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-32-n2",
+              "offset": 66,
+              "original_marker": "a",
+              "source_id": 147
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Partilha da Transjordânia",
           "note_refs": []
         }
       ]
@@ -5952,7 +8392,21 @@
         {
           "verse": 2,
           "text": "Moisés escreveu os pontos de partida para as suas viagens, segundo a ordem do Senhor, e estas são as suas etapas segundo o seu ponto de partida.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Moisés é aqui apresentado como um escriba; e é nesta linha que a tradição judaico-cristã lhe atribuiu a autoria do Pentateuco (Ex 17,14; 24,4). As etapas tiveram início em Ex 12,37. A chegada ao Sinai marca o fim da primeira etapa da marcha (Nm 19,2). As ações de sair e partir indicam dois movimentos distintos. O sair é uma referência à libertação operada pelo Senhor, enquanto o partir tem a ver com a ordem de caminhar junto com o Senhor, visto que a tenda do encontro os acompanhava em cada etapa da marcha pelo deserto."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-33-n1",
+              "offset": 143,
+              "original_marker": "b",
+              "source_id": 148
+            }
+          ]
         },
         {
           "verse": 3,
@@ -5961,7 +8415,7 @@
         },
         {
           "verse": 4,
-          "text": "enquanto os egípcios sepul - tavam aqueles que o Senhor tinha derrubado dentre eles, todos os primogénitos. Assim o Senhor procedeu ao julgamento contra os seus deuses.",
+          "text": "enquanto os egípcios sepultavam aqueles que o Senhor tinha derrubado dentre eles, todos os primogénitos. Assim o Senhor procedeu ao julgamento contra os seus deuses.",
           "note_refs": []
         },
         {
@@ -6041,7 +8495,7 @@
         },
         {
           "verse": 20,
-          "text": "Partiram de Rimon - -Peres e acamparam em Libna.",
+          "text": "Partiram de Rimon- -Peres e acamparam em Libna.",
           "note_refs": []
         },
         {
@@ -6051,7 +8505,7 @@
         },
         {
           "verse": 22,
-          "text": "Parti - ram de Rissa e acamparam em Queelata.",
+          "text": "Partiram de Rissa e acamparam em Queelata.",
           "note_refs": []
         },
         {
@@ -6186,8 +8640,22 @@
         },
         {
           "verse": 49,
-          "text": "Então acampa - ram junto ao Jordão, desde Bet-Haiechimot até Abel-Chitim, nas estepes de Moab.",
-          "note_refs": []
+          "text": "Então acamparam junto ao Jordão, desde Bet-Haiechimot até Abel-Chitim, nas estepes de Moab.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "As etapas da marcha pelo deserto, desde Ramsés no Egito à margem do Jordão e nas estepes de Moab estão marcadas por quarenta e quatro lugares como pontos de partida e de chegada. Entretanto, são citados outros locais onde os filhos de Israel não acamparam (vv. 7.8.43). Neste percurso há duas marcas cronológicas e geográficas que aparecem bem delimitadas: Ramsés (Nm 33,3.5) e Cadés (Nm 33,36-37). Do monte Hor às estepes de Moab, diante do Jordão perto de Jericó (Nm 33,41-49), os libertos do Egito já estavam em território moabita. Da morte de Aarão à morte de Moisés transcorreram seis meses (Dt 1,3; 34,8). Em Nm fica evidente que a saída da terra do Egito ocorreu pela ação do Senhor, que atingiu os egípcios. O mesmo aconteceu na passagem pelos territórios de Moab, pois por ordem do Senhor foram derrotados Og, rei de Basan, e Seon, rei dos amorreus."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-33-n3",
+              "offset": 90,
+              "original_marker": "c",
+              "source_id": 149
+            }
+          ]
         },
         {
           "verse": 50,
@@ -6224,6 +8692,32 @@
           "text": "E aquilo que pensava fazer deles, isso mesmo farei convosco”».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "De Ramsés às estepes de Moab",
+          "note_refs": []
+        },
+        {
+          "before_verse": 50,
+          "text": "Ordem de expulsão dos cananeus",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Os livros de Josué e Juízes revelam que a conquista não foi total e que algumas cidades e grupos de cananeus permaneceram no território (Js 11,22-23; 15,13-19.63; 16,10; 17,12.18; 19,47; Jz 1,1-2,5; 3,1-6)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-33-n2",
+              "offset": 30,
+              "original_marker": "d",
+              "source_id": 150
+            }
+          ]
+        }
       ]
     },
     {
@@ -6242,7 +8736,21 @@
         {
           "verse": 3,
           "text": "A margem do lado do Négueb será para vós, desde o deserto de Cin, estendendo-se por Edom. A leste, a vossa fronteira do Négueb parte do extremo do mar Salgado;",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O mar Salgado é normalmente designado Mar Morto, devido à alta concentração salina que impede a existência de plantas e de peixes. Ez 47,1-12 contempla o extremo oposto dessa realidade. O grande mar é o mar Mediterrâneo."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-34-n1",
+              "offset": 158,
+              "original_marker": "a",
+              "source_id": 151
+            }
+          ]
         },
         {
           "verse": 4,
@@ -6282,12 +8790,40 @@
         {
           "verse": 11,
           "text": "a fronteira descerá desde Chafam até Ribla, a leste de Ain; e, continuando a descer, a fronteira tocará no lado oriental do mar de Quinéret.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Isto engloba o território junto ao lago (Dt 3,17; 1Rs 15,20), também denominado mar (Js 12,3; 13,27). No Novo Testamento aparece mencionado como lago de Genesaré (Lc 5,1), mar de Tiberíades (Jo 6,1; 21,1) ou mar da Galileia."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-34-n2",
+              "offset": 139,
+              "original_marker": "b",
+              "source_id": 152
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "E a fronteira descerá pelo Jordão e prosseguirá até ao mar Salgado. Esta será para vós a terra com as suas fronteiras em redor ”».",
-          "note_refs": []
+          "text": "E a fronteira descerá pelo Jordão e prosseguirá até ao mar Salgado. Esta será para vós a terra com as suas fronteiras em redor”».",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Pelos recenseamentos, pela delimitação do território e pela eliminação de inimigos, cumprem-se as promessas que o Senhor fez a Abraão (Gn 12,1-3.7). O monte Hor citado é distinto do lugar onde Aarão morreu (Nm 20,22-29; 33,37-41). Em Js 15,1-12 e Ez 47,15-20 são descritas outras fronteiras da terra prometida."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-34-n3",
+              "offset": 126,
+              "original_marker": "c",
+              "source_id": 153
+            }
+          ]
         },
         {
           "verse": 13,
@@ -6316,7 +8852,7 @@
         },
         {
           "verse": 18,
-          "text": "e um princi - pal; tomareis um principal por cada tribo para repartir a terra.",
+          "text": "e um principal; tomareis um principal por cada tribo para repartir a terra.",
           "note_refs": []
         },
         {
@@ -6372,6 +8908,13 @@
         {
           "verse": 29,
           "text": "Estes são os que o Senhor estabeleceu para repartir a terra de Canaã entre os filhos de Israel.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Fronteiras de Canaã",
           "note_refs": []
         }
       ]
@@ -6437,7 +8980,21 @@
         {
           "verse": 12,
           "text": "Essas cidades servir-vos-ão de refúgio contra o vingador e o homicida não morrerá, enquanto não for julgado diante da comunidade.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "No livro dos Números, apenas em 35,12.19.21.24-25 se encontram as referências à figura do goel, que é um parente próximo da vítima e seu defensor (Ex 22,1; Dt 19,6-13.21; 2Sm 14,7.11), vingador do sangue (Nm 35,19) e protetor contra a alienação da terra (Lv 25,23-25; Rt 4,3-4). Esta figura enquadra-se na dinâmica da pena de talião, podendo ferir de morte o homicida que tirou a vida de um membro da sua família. Contudo, a cidade de refúgio aparece como uma proteção para o homicida involuntário, travando esta vingança como justiça. O Senhor tornou-se assim a máxima expressão do goel (Is 41,14; 43,1-2; 60,16; 63,9; Jr 50,34; Sl 19,15); e o simbolismo desta figura passou para o Novo Testamento (1Pd 1,18-19)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "nm-35-n3",
+              "offset": 56,
+              "original_marker": "f",
+              "source_id": 156
+            }
+          ]
         },
         {
           "verse": 13,
@@ -6472,7 +9029,21 @@
         {
           "verse": 19,
           "text": "O vingador de sangue fará morrer o homicida; ao encontrá-lo fá-lo-á morrer.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "No sangue está a vida (Gn 9,5-6; Ex 21,12; Lv 24,17) que clama pelo Senhor, quando é tirada por ação de um homicida (Gn 4,10-11). Por isso não há nada capaz de o compensar (Sl 49,8-9)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "nm-35-n4",
+              "offset": 20,
+              "original_marker": "a",
+              "source_id": 158
+            }
+          ]
         },
         {
           "verse": 20,
@@ -6511,7 +9082,7 @@
         },
         {
           "verse": 27,
-          "text": "e o vin - gador de sangue o encontrar fora do perímetro da sua cidade refúgio e o matar, não existirá culpa de sangue para ele,",
+          "text": "e o vingador de sangue o encontrar fora do perímetro da sua cidade refúgio e o matar, não existirá culpa de sangue para ele,",
           "note_refs": []
         },
         {
@@ -6541,13 +9112,53 @@
         },
         {
           "verse": 33,
-          "text": "E assim não contaminareis a terra onde estais. Pois o sangue contamina a terra e a terra não terá expiação pelo sangue que nela foi derramado, senão pelo sangue O daquele que o derramou.",
+          "text": "E assim não contaminareis a terra onde estais. Pois o sangue contamina a terra e a terra não terá expiação pelo sangue que nela foi derramado, senão pelo sangue daquele que o derramou.",
           "note_refs": []
         },
         {
           "verse": 34,
           "text": "Não tornareis impura a terra em que habitais e no meio da qual Eu tenho morada, porque Eu sou o Senhor que moro no meio dos filhos de Israel».",
           "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Cidades para os levitas",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Dt 18,1-8 afirma que os levitas não terão território, mas vivem nas mesmas cidades dos filhos de Israel. O texto de Lv 25,32 alude, em contrapartida, às cidades que pertencem aos levitas; Js 21,1-42 fala de repartição de cidades entre os clãs dos levitas, referido também em 1Cr 6,39-66."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-35-n1",
+              "offset": 23,
+              "original_marker": "d",
+              "source_id": 154
+            }
+          ]
+        },
+        {
+          "before_verse": 9,
+          "text": "Cidades de refúgio",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "As cidades de refúgio (Dt 4,41-43; 19,1-13; Js 20,1-9), criadas entre os levitas (Js 21,1-8; 1Cr 6,39-66), são destinadas a abrigar o homicida involuntário, a fim de evitar a sua morte. Moisés, de certa forma, fez esta experiência na tenda de Jetro, sacerdote de Madian, na qual se refugiou até morrerem os seus perseguidores do Egito (Ex 2,13-14). Para os próximos do rei, o altar é o lugar do refúgio (1Rs 1,50-51; 2,28-29)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-35-n2",
+              "offset": 18,
+              "original_marker": "e",
+              "source_id": 155
+            }
+          ]
         }
       ]
     },
@@ -6607,7 +9218,21 @@
         {
           "verse": 11,
           "text": "Maalá, Tirça, Hogla, Milca e Noa, filhas de Selofad, tornaram-se esposas dos filhos dos seus tios;",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Isto é, acabaram por casar segundo o esquema familiar do levirato, ficando a propriedade não apenas na mesma tribo, mas também no mesmo clã familiar."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "nm-36-n2",
+              "offset": 97,
+              "original_marker": "c",
+              "source_id": 160
+            }
+          ]
         },
         {
           "verse": 12,
@@ -6616,8 +9241,29 @@
         },
         {
           "verse": 13,
-          "text": "Estes são os mandamentos e as sentenças que o Senhor, por meio de Moisés, ordenou aos filhos de Israel nas estepes de Moab, junto ao Jordão de Jericó. PARALELOS",
+          "text": "Estes são os mandamentos e as sentenças que o Senhor, por meio de Moisés, ordenou aos filhos de Israel nas estepes de Moab, junto ao Jordão de Jericó.",
           "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Sobre a herança das filhas",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A última situação narrada evoca Nm 27,1-11 para dar um ulterior desenvolvimento. A posse da terra, como dom do Senhor, tornou-se a razão para as leis sobre o jubileu (Ex 23,10-11; Lv 25,2-7) e sobre o levirato (Dt 25,5-10)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "nm-36-n1",
+              "offset": 26,
+              "original_marker": "b",
+              "source_id": 159
+            }
+          ]
         }
       ]
     }

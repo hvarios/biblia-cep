@@ -1,5 +1,81 @@
 {
+  "schema_version": 2,
   "book": "Baruc",
+  "book_id": "br",
+  "source": {
+    "format": "docx",
+    "file": "32_Br.docx",
+    "title": "Baruc"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Textos e modelos",
+        "paragraphs": [
+          "Na linha da tradição latina continuada, desde a Vulgata à Neovulgata, o livro de Baruc tem sido apresentado em ligação com um outro texto designado como Carta de Jeremias. Na edição grega dos LXX os dois textos aparecem em separado. Nesta edição, a Carta de Jeremias é, por conseguinte, colocada no final do livro de Baruc, como se fosse uma espécie de apêndice ao mesmo, numerada como mais um dos seus capítulos, constituindo assim como que o seu capítulo sexto. A tradição histórica que liga o nome de Baruc ao do profeta Jeremias contribuiu certamente para esta associação.",
+          "Sendo conhecidos apenas com base no respetivo original em grego, ambos os textos fazem parte do grupo de livros que se costumam chamar deuterocanónicos. Apesar de a sua conservação em grego estar sobretudo ligada ao cristianismo, a origem e os temas tratados fazem deste texto um produto de interesse claramente judaico. A análise linguística e literária sugere a hipótese de na base se poder encontrar algum original semítico.",
+          "Vários elementos importantes servem de denominador comum a estes textos e foram estes elementos comuns que os associaram de maneira tão consistente. Liga-os uma referência à figura profética de Jeremias e o facto de surgir em Jeremias uma personagem próxima deste profeta com o nome de Baruc (Jr 36,4ss; 43,3.6; 45,1ss; cf. 51,59ss). Por outro lado, o tema tratado, tanto no livro de Baruc, como na carta de Jeremias, está literariamente focado no contexto social e político em que Jeremias viveu. A carta de Jeremias, por seu lado, parece ter escolhido para seu modelo uma outra carta dirigida aos exilados, que aparece em Jr 29. Nela são tratadas preocupações que estão em convergência com os problemas referidos nesta carta de Jeremias associada ao livro de Baruc. De qualquer modo, estes textos podem enquadrar-se bem na rica tradição bíblica de literatura de ficção, aproveitando a ressonância de grandes nomes do passado.",
+          "No que toca à época histórica real em que estas criações literárias de modelo ficcional podem ter tido origem, as várias peças literárias que compõem o livro de Baruc e a própria carta de Jeremias parecem ser obra do século II a.C. Naquele tempo, as preocupações dos judeus palestinianos concentram-se nos conflitos e na pressão cultural resultante do confronto com a civilização do helenismo. Ressoa em fundo o programa político dos Selêucidas, que se mostrou mais insidioso no tempo do rei Antíoco IV Epífanes, cuja imagem ameaçadora se percebe como pano de fundo do livro de Daniel, sobretudo no seu cap. 7. Esta época pode estar representada na Bíblia por um volume significativo de literatura, da qual podem também fazer parte os livros de Daniel e de Judite. Uma imagem de modelo mais aproximado ao",
+          "da historiografia para os acontecimentos destes tempos é a que nos apresentam os livros dos Macabeus, também estes integrados nos livros deuterocanónicos, transmitidos pela tradução grega."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "Se mantivermos aqui integrada a carta de Jeremias, este conjunto literário pode dividir-se em cinco secções; e cada uma delas parece representar um género literário diferente. Poderia mesmo considerar-se a hipótese de alguns destes textos terem na sua origem documentos independentes. Os próprios indícios que nos dão sobre a língua em que cada um deles pode ter sido originalmente escrito parecem sugerir hipóteses diferentes. Uma outra caraterística é a rica intertextualidade bíblica de Baruc, que continuamente remete o leitor para temas e passagens esparsos ao longo da Bíblia. As divisões estruturais parecem ser as seguintes:",
+          "1. Enquadramento histórico (1,1-14), onde se apresenta o contexto que serve",
+          "de base ao livro e se mostra o interesse atribuído ao conjunto desta recolha.",
+          "O horizonte é inteiramente desenhado com referências da memória judaica,",
+          "e a língua de origem poderia ser uma das mais habitualmente faladas entre os",
+          "judeus do tempo, o hebraico e o aramaico. O contemporâneo livro de Daniel",
+          "junta textos tanto de uma língua como da outra.",
+          "2. Liturgia penitencial (1,15-3,8), que corresponde a um género literário bem",
+          "conhecido e característico da Bíblia (Esd 9,6-15; Ne 9; Sl 106; Dn 9,4-19).",
+          "Trata-se de uma espécie de ritual que oferece aos hebreus um espaço teoló-",
+          "gico para reflexão sobre os seus comportamentos coletivos e individuais, na",
+          "forma de um exame de consciência e do correspondente arrependimento. Os",
+          "temas abordados sugerem que se pode ver aqui espelhada a consciência de",
+          "uma comunidade judaica na diáspora, que alguns indícios poderiam levar a",
+          "localizar na Síria.",
+          "3. Meditação sobre a sabedoria (3,9-4,4), motivada pela difícil experiência",
+          "dos judeus na diáspora e realizada de acordo com o espírito contemplativo",
+          "dos textos sapienciais. Aqui se encontra não apenas o conteúdo mais refinado",
+          "da cultura religiosa bíblica, mas também o espírito patrimonial herdado das",
+          "outras culturas pré-clássicas. Tratada em sucessivas modulações, a sabedoria",
+          "aparece mais diretamente associada com Deus, com o Messias e com a própria",
+          "Lei. Nada obstaria a que esta meditação pudesse ter sido diretamente escrita",
+          "em grego, como acontece com o próprio livro da Sabedoria, também ele deu-",
+          "terocanónico e possivelmente escrito originalmente em grego. Com efeito, o",
+          "judaísmo helenístico cultivou de modo especial este tema, ampliando assim",
+          "o quadro metafórico adequado para uma conceção de Deus que se encaixa",
+          "bem naquela que o cristianismo continuou a desenvolver.",
+          "4. Exortação e encorajamento a Jerusalém (4,5-5,9), feita no contexto de",
+          "restauração e de afirmação por parte da consciência coletiva do judaísmo.",
+          "Este horizonte poderia eventualmente inscrever-se entre a revolta conseguida",
+          "pelos Macabeus contra os Selêucidas e a conquista de Jerusalém por Pompeio,",
+          "em 63 a.C.",
+          "5. Carta de Jeremias (6,1-72). Este texto começa por se apresentar como cópia",
+          "de uma alegada carta de Jeremias endereçada aos judeus exilados na Babiló-",
+          "nia. Esta referência à diáspora judaica na Babilónia pode justificar-se pelo",
+          "enquadramento ficcional focado na época de Jeremias, mas pode igualmente",
+          "estar ligado à hipótese de a carta, no seu enquadramento histórico da época",
+          "helenística, poder ter que ver realmente com alguma comunidade judaica",
+          "residente na diáspora babilónica, por volta do século II. a.C. Com efeito,",
+          "nesta época parece ter-se assistido a um renascimento dos cultos às divindades",
+          "mesopotâmicas tradicionais. De qualquer modo, o principal tema da carta é",
+          "um discurso apologético contra as divindades pagãs, consideradas como seres",
+          "artificiais, que não têm nenhuma utilidade e são indignas dos humanos que",
+          "lhes prestam culto. Este tema aparece em várias passagens da Bíblia (Jr 10,1-",
+          "16; Is 44,9-20; Sl 115,4-8) e, em tempos próximos dos desta carta, é igual-",
+          "mente marcante no livro da Sabedoria (Sb 13-15). Neste espaço continuava a",
+          "processar-se um intenso combate por parte do judaísmo da época helenística,",
+          "importante para a definição da sua espiritualidade, do seu humanismo e da",
+          "ideia de Deus, com base na qual se configurava a sua religiosidade."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,77 +83,413 @@
         {
           "verse": 1,
           "text": "Estas são as palavras do livro que Baruc, filho de Nerias, filho de Massaías, filho de Sedecias, filho de Hasadias, filho de Hilquias, escreveu na Babilónia.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2",
+            "3"
+          ],
+          "notes": {
+            "1": "Este título de livro para identificar o conteúdo do texto de Baruc bem como o título de carta de Jeremias (Br 6,1) são semelhantes entre si e ambos parecem imitar o início de uma carta enviada por Jeremias aos hebreus que tinham sido exilados para a Babilónia (Jr 29,1).",
+            "2": "Baruc é um nome frequente e uma personagem importante no livro do profeta Jeremias (Jr 32,12; 36,4.10.32; 43,3.6; 45). Esta proximidade com o profeta Jeremias pode justificar a quantidade de literatura, mesmo apócrifa, que apareceu associada ao seu nome. A genealogia de Baruc aqui apresentada aparece apenas neste texto.",
+            "3": "A personagem de Baruc contemporâneo de Jeremias poderá não ter estado realmente na Babilónia e poderá ter acompanhado o profeta Jeremias numa eventual ida para o Egito (Jr 43,6-7)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "br-1-n1",
+              "offset": 30,
+              "original_marker": "a",
+              "source_id": 1
+            },
+            {
+              "ref": "2",
+              "id": "br-1-n2",
+              "offset": 40,
+              "original_marker": "b",
+              "source_id": 2
+            },
+            {
+              "ref": "3",
+              "id": "br-1-n3",
+              "offset": 156,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Foi no quinto ano, no sétimo dia do mês, no tempo em que os caldeus tomaram Jerusalém e lhe lançaram fogo.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O quinto ano aponta provavelmente para 581 a.C., cinco anos após a destruição da cidade pelos Babilónios em 587/586 a.C. (cf. 2Rs 25,1-21)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "br-1-n4",
+              "offset": 17,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Baruc leu as palavras deste livro na presença de Jeconias, filho de Joaquim, rei de Judá, e na presença de todo o povo, que acorreu para a leitura do livro,",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6",
+            "7"
+          ],
+          "notes": {
+            "5": "Lit.: nos ouvidos (duas vezes no v., assim como nas três ocorrências do v.4). Esta expressão significa que cartas, mensagens e outros textos eram levados e lidos pelo mensageiro diante do destinatário.",
+            "6": "Jeconias ou Yehoyakin era rei de Judá, quando, na primeira deportação de exilados, foi levado para a Babilónia, poucos meses depois de ter subido ao trono.",
+            "7": "Lit.: que veio para o livro."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "br-1-n5",
+              "offset": 45,
+              "original_marker": "e",
+              "source_id": 5
+            },
+            {
+              "ref": "6",
+              "id": "br-1-n6",
+              "offset": 57,
+              "original_marker": "f",
+              "source_id": 6
+            },
+            {
+              "ref": "7",
+              "id": "br-1-n7",
+              "offset": 155,
+              "original_marker": "g",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "na presença dos poderosos e dos filhos dos reis, na presença dos anciãos e na presença de todo o povo, do mais pequeno ao maior, de todos, enfim, os que habitavam na Babilónia, junto ao rio Sud.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Trata-se provavelmente de algum dos canais em que o rio Eufrates se dividia, sobretudo ao passar junto das grandes cidades da Mesopotâmia."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "br-1-n8",
+              "offset": 193,
+              "original_marker": "h",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Todos choravam, jejuavam e rezavam diante do Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "Todos é acrescento da tradução.",
+            "10": "Estas manifestações características de liturgias penitenciais (Esd 10,1; Jl,1,14; 2,12) parecem remeter para o conteúdo da secção seguinte do livro."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "br-1-n9",
+              "offset": 5,
+              "original_marker": "i",
+              "source_id": 9
+            },
+            {
+              "ref": "10",
+              "id": "br-1-n10",
+              "offset": 34,
+              "original_marker": "j",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Reuniram, então, dinheiro, segundo as possibilidades de cada um",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: conforme a mão de cada um podia."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "br-1-n11",
+              "offset": 63,
+              "original_marker": "k",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "e enviaram-no para Jerusalém, para o sacerdote Joaquim, filho de Hilquias, filho de Salom, bem como para os outros e para os sacerdotes e para todo o povo, que se encontravam com ele em Jerusalém.",
-          "note_refs": []
+          "note_refs": [
+            "12",
+            "13"
+          ],
+          "notes": {
+            "12": "Nem este sacerdote nem a genealogia que lhe é atribuída são conhecidos na Bíblia.",
+            "13": "Outros é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "br-1-n12",
+              "offset": 54,
+              "original_marker": "l",
+              "source_id": 12
+            },
+            {
+              "ref": "13",
+              "id": "br-1-n13",
+              "offset": 114,
+              "original_marker": "m",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Foi, então, no décimo dia do mês de Sivan, que Baruc tomou os utensílios da casa do Senhor para os fazer regressar à terra de Judá, os utensílios de prata que o rei Sedecias de Judá, filho de Josias, fizera e que tinham sido levados do santuário,",
-          "note_refs": []
+          "note_refs": [
+            "14",
+            "15"
+          ],
+          "notes": {
+            "14": "O mês de Sivan é particularmente importante para os hebreus, pelo facto de coincidir com a festa de Pentecostes.",
+            "15": "O destino dos utensílios sagrados era um tema particularmente sensível na literatura pós-exílica e muito especialmente no tempo dos Macabeus (Dn 1,2; 5,23; 1Mac 1,21-24; 4,49-51; 2Mac 2,4-12). A informação não coincide com Esd 1,7-11."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "br-1-n14",
+              "offset": 41,
+              "original_marker": "n",
+              "source_id": 14
+            },
+            {
+              "ref": "15",
+              "id": "br-1-n15",
+              "offset": 181,
+              "original_marker": "o",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "depois de Nabucodonosor, rei da Babilónia, ter exilado Jeconias e os chefes, assim como prisioneiros, os poderosos e todo o povo da terra de Jerusalém, levando-os para a Babilónia.",
-          "note_refs": []
+          "note_refs": [
+            "16",
+            "17"
+          ],
+          "notes": {
+            "16": "Em Jr 24,1s e 29,2 diz-se os artesãos, variante que alguns mss. antigos assumiram.",
+            "17": "Todo é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "br-1-n16",
+              "offset": 100,
+              "original_marker": "p",
+              "source_id": 16
+            },
+            {
+              "ref": "17",
+              "id": "br-1-n17",
+              "offset": 121,
+              "original_marker": "q",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Disseram eles: «Estamos a enviar-vos este dinheiro, para com ele comprardes vítimas para os holocaustos e sacrifícios expiatórios, bem como incenso. Preparai oferendas e apresentai-as no altar do Senhor, nosso Deus.",
-          "note_refs": []
+          "note_refs": [
+            "18",
+            "19",
+            "20"
+          ],
+          "notes": {
+            "18": "Os intermediários que levavam uma carta faziam a sua leitura para os destinatários como se o remetente estivesse ali presente e lhes repetisse de viva voz a mensagem escrita.",
+            "19": "Lit.: eis que enviamos e comprai do dinheiro holocaustos e acerca de pecado.",
+            "20": "Lit.: Fazei manna… Para significar oferendas a tradução grega transcreveu a seu modo o som de um termo hebraico minḥah, que os tradutores assumiram como um termo técnico, dispensando-se, por isso, de lhe dar uma tradução em grego. Esta fórmula técnica aparece na tradução grega de frequentes passagens em Jeremias e Ezequiel."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "br-1-n18",
+              "offset": 13,
+              "original_marker": "r",
+              "source_id": 18
+            },
+            {
+              "ref": "19",
+              "id": "br-1-n19",
+              "offset": 129,
+              "original_marker": "s",
+              "source_id": 19
+            },
+            {
+              "ref": "20",
+              "id": "br-1-n20",
+              "offset": 167,
+              "original_marker": "t",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Rezai pela vida de Nabucodonosor, rei da Babilónia, e pela vida do seu filho Baltasar, para que os seus dias sejam longos como os dias do céu sobre a terra.",
-          "note_refs": []
+          "note_refs": [
+            "21"
+          ],
+          "notes": {
+            "21": "Longos é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "br-1-n21",
+              "offset": 121,
+              "original_marker": "u",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "E assim o Senhor nos dará força e iluminará os nossos olhos, para vivermos à sombra de Nabucodonosor, rei da Babilónia, e à sombra de Baltasar, seu filho, e os podermos servir por muito tempo e encontrarmos graça diante deles.",
-          "note_refs": []
+          "note_refs": [
+            "22",
+            "23"
+          ],
+          "notes": {
+            "22": "A distância entre o tempo de redação do texto e o tempo histórico das figuras referidas faz com que algumas confusões se possam instalar. Realmente Baltasar não era filho de Nabucodonosor, mas sim de Nabónido.",
+            "23": "Lit.: muitos dias."
+          },
+          "note_positions": [
+            {
+              "ref": "22",
+              "id": "br-1-n22",
+              "offset": 153,
+              "original_marker": "v",
+              "source_id": 22
+            },
+            {
+              "ref": "23",
+              "id": "br-1-n23",
+              "offset": 191,
+              "original_marker": "w",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Rezai também por nós ao Senhor, nosso Deus, porque pecámos contra o Senhor, nosso Deus, e até ao dia de hoje a sua ira e o seu furor não se afastaram de nós.",
-          "note_refs": []
+          "note_refs": [
+            "24"
+          ],
+          "notes": {
+            "24": "Lit.: até este dia."
+          },
+          "note_positions": [
+            {
+              "ref": "24",
+              "id": "br-1-n24",
+              "offset": 108,
+              "original_marker": "x",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "E deveis ler este livro que vos enviamos, para dele fazerdes leitura pública y na casa do Senhor, em dia de festa e nos dias convenientes. Liturgia penitencial",
-          "note_refs": []
+          "text": "E deveis ler este livro que vos enviamos, para dele fazerdes leitura pública  na casa do Senhor, em dia de festa e nos dias convenientes.",
+          "note_refs": [
+            "25",
+            "26"
+          ],
+          "notes": {
+            "25": "A expressão grega usada indica uma leitura em espaço público, condizendo com proclamação em voz alta.",
+            "26": "O termo grego kairós parece corresponder ao hebraico mo’ed, que se refere a uma assembleia solene marcada no calendário das festas."
+          },
+          "note_positions": [
+            {
+              "ref": "25",
+              "id": "br-1-n25",
+              "offset": 77,
+              "original_marker": "y",
+              "source_id": 25
+            },
+            {
+              "ref": "26",
+              "id": "br-1-n26",
+              "offset": 136,
+              "original_marker": "z",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "Então direis: «Ao Senhor, nosso Deus, pertenceaa a justiça; a nós, porém, a vergonha que sentimos hoje no rosto: a nós, genteab de Judá e habitantes de Jerusalémac,",
-          "note_refs": []
+          "text": "Então direis: «Ao Senhor, nosso Deus, pertence a justiça; a nós, porém, a vergonha que sentimos hoje no rosto: a nós, gente de Judá e habitantes de Jerusalém,",
+          "note_refs": [
+            "27",
+            "28",
+            "29"
+          ],
+          "notes": {
+            "27": "Pertence é acrescento da tradução.",
+            "28": "Lit.: homem.",
+            "29": "A primeira parte desta liturgia penitencial (1,15-2,10) é de confissão coletiva e reflexão sobre as causas morais da desgraça que atingiu Jerusalém. O “nós” que assume a consciência dos erros e a respetiva confissão são os próprios habitantes de Jerusalém. A segunda parte desta liturgia (2,22-3,8) é uma prece em favor dos exilados, referidos como “eles”. Para esses, o exílio é igualmente visto como ocasião de reflexão em ordem à conversão."
+          },
+          "note_positions": [
+            {
+              "ref": "27",
+              "id": "br-1-n27",
+              "offset": 46,
+              "original_marker": "aa",
+              "source_id": 27
+            },
+            {
+              "ref": "28",
+              "id": "br-1-n28",
+              "offset": 123,
+              "original_marker": "ab",
+              "source_id": 28
+            },
+            {
+              "ref": "29",
+              "id": "br-1-n29",
+              "offset": 157,
+              "original_marker": "ac",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 16,
@@ -97,7 +509,21 @@
         {
           "verse": 19,
           "text": "Desde o dia em que o Senhor fez sair os nossos pais da terra do Egito até ao dia de hoje, temos sido desobedientes ao Senhor, nosso Deus, e negligentes por não escutarmos a sua voz.",
-          "note_refs": []
+          "note_refs": [
+            "30"
+          ],
+          "notes": {
+            "30": "Esta consciência de pecado a marcar Israel ao longo de toda a sua história é um elemento persistente da pregação profética e das liturgias penitenciais. É a maneira que Israel tem de manter consciente uma espécie de responsabilidade histórica (Ez 16; 20; 23; Ne 9; Sl 78; 106; etc.)."
+          },
+          "note_positions": [
+            {
+              "ref": "30",
+              "id": "br-1-n30",
+              "offset": 136,
+              "original_marker": "a",
+              "source_id": 30
+            }
+          ]
         },
         {
           "verse": 20,
@@ -114,6 +540,18 @@
           "text": "Afastámo-nos, seguindo cada um o desígnio do seu coração perverso para servir a outros deuses, fazendo o que é mal aos olhos do Senhor, nosso Deus.»",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "ENQUADRAMENTO HISTÓRICO",
+          "note_refs": []
+        },
+        {
+          "before_verse": 15,
+          "text": "Liturgia penitencial",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -122,27 +560,115 @@
         {
           "verse": 1,
           "text": "«O Senhor cumpriu, então, a sua palavra, que tinha proferido contra nós e contra os nossos juízes que governaram Israel, contra os nossos reis e contra os nossos chefes, e contra cada homem de Israel e de Judá.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.: estabeleceu."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "br-2-n1",
+              "offset": 17,
+              "original_marker": "b",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Nunca tinha acontecido, sob a imensidão do céu, nada de semelhante ao que Ele fez em Jerusalém, de acordo com o que estava escrito na Lei de Moisés:",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: não foi feito debaixo de todo o céu conforme [Ele] fez em Jerusalém."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "br-2-n2",
+              "offset": 94,
+              "original_marker": "c",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "chegámos ao ponto de uns comerem a carne dos próprios filhos, e outros a carne das próprias filhas!",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: [para] nós comermos, homem carnes de seu filho e homem carnes de sua filha. O facto remete para Lv 26,29, onde Deus, por meio de Moisés, o tinha predito. Este tipo de tragédia familiar e humanitária representa uma das calamidades da guerra, frequentemente referida na Bíblia (2Rs 6,28s; Jr 19,9; Lm 4,10; Ez 5,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "br-2-n3",
+              "offset": 98,
+              "original_marker": "d",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "O Senhor entregou-os como súbditos a todos os reinos à nossa volta, para serem objeto de opróbrio e desolação por parte de todos os povos à volta, por onde o Senhor os dispersou.",
-          "note_refs": []
+          "text": "O Senhor entregou- -os como súbditos a todos os reinos à nossa volta, para serem objeto de opróbrio e desolação por parte de todos os povos à volta, por onde o Senhor os dispersou.",
+          "note_refs": [
+            "4",
+            "5",
+            "6"
+          ],
+          "notes": {
+            "4": "O Senhor é acrescento da tradução.",
+            "5": "O termo grego designa um lugar impróprio ou proibido, onde não se pode entrar ou circular. Esta é uma imagem de destruição, segundo o imaginário semítico. A mesma palavra surge no v.23.",
+            "6": "O grego acrescenta ali (tal como no final do vv.13.29). Trata-se de um semitismo."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "br-2-n4",
+              "offset": 8,
+              "original_marker": "e",
+              "source_id": 34
+            },
+            {
+              "ref": "5",
+              "id": "br-2-n5",
+              "offset": 111,
+              "original_marker": "f",
+              "source_id": 35
+            },
+            {
+              "ref": "6",
+              "id": "br-2-n6",
+              "offset": 179,
+              "original_marker": "g",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Passaram a ser súbditos em vez de serem senhores, porque pecámos contra o Senhor, nosso Deus, por não termos escutado a sua voz.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: foram tornados debaixo e não em cima."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "br-2-n7",
+              "offset": 48,
+              "original_marker": "h",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 6,
@@ -157,22 +683,78 @@
         {
           "verse": 8,
           "text": "Não implorámos diante do Senhor que fizesse com que cada um de nós abandonasse os pensamentos do seu coração perverso.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: da face do Senhor."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "br-2-n8",
+              "offset": 31,
+              "original_marker": "i",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "O Senhor esteve vigilante sobre tais males e fez com que caíssem sobre nós, porque o Senhor é justo em todas as obras que nos ordenou,",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "O grego acrescenta suas."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "br-2-n9",
+              "offset": 111,
+              "original_marker": "j",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "ao passo que nós não escutámos a sua voz, de modo a caminharmos de acordo com as determinações do Senhor, que Ele colocou diante de nós.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: com as quais deu segundo nosso rosto."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "br-2-n10",
+              "offset": 135,
+              "original_marker": "k",
+              "source_id": 40
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "E agora, Senhor, Deus de Israel – que fizeste sair o teu povo da terra do Egito com mão forte, sinais e prodígios, com grande poder e braço erguido e que assim adquiriste um nome que se mantém até ao dia de hoje –",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: fizeste para ti próprio nome como este dia. A saída do Egito constitui, ao longo de toda a Bíblia, a base da confiança em Deus que o judaísmo da era helenística continua a alimentar."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "br-2-n11",
+              "offset": 211,
+              "original_marker": "l",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 12,
@@ -187,42 +769,163 @@
         {
           "verse": 14,
           "text": "Escuta, Senhor, a nossa oração e a nossa súplica: por causa de ti mesmo, resgata-nos e concede-nos que encontremos graça diante daqueles que nos exilaram,",
-          "note_refs": []
+          "note_refs": [
+            "12",
+            "13"
+          ],
+          "notes": {
+            "12": "Ou seja, um Israel disperso e humilhado comprometeria a reputação de Deus perante as nações (cf. Ez 36,22s). A libertação é, pois, uma demonstração pública da sua fidelidade (cf. v.15). Alguns mss. leem por causa do teu nome.",
+            "13": "Lit.: e dá-nos graça de acordo com o rosto."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "br-2-n12",
+              "offset": 71,
+              "original_marker": "m",
+              "source_id": 42
+            },
+            {
+              "ref": "13",
+              "id": "br-2-n13",
+              "offset": 127,
+              "original_marker": "n",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "para que toda a terra saiba que Tu és o Senhor, nosso Deus, pois o teu nome foi invocado sobre Israel e sobre a sua descendência.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Invocar o nome do Senhor sobre uma pessoa ou uma coisa significa consagrá-la para sempre ao Senhor, como propriedade sua (2,26; Is 63,19; Jr 7,14; 14,9)."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "br-2-n14",
+              "offset": 128,
+              "original_marker": "o",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "Senhor, olha do alto da tua santa morada e pensa em nós; inclina, Senhor, o teu ouvido e escuta.",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Apesar da importância da morada de Deus no templo, Israel manteve sempre a ideia de que a primeira morada de Deus é no céu e, em certas épocas de insegurança, esta morada do céu era uma alternativa especialmente sublinhada."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "br-2-n15",
+              "offset": 40,
+              "original_marker": "p",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Abre, Senhor, os teus olhos e vê: não são aqueles que estão na morada dos mortos e cujo espírito foi retirado das suas entranhas, os que renderão glória e justiça ao Senhor,",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Lit.: os que morreram no Hades. É de assinalar que o pensamento tradicional hebraico sobre o mundo dos mortos recebe, no texto grego de Baruc, o nome grego tradicional de Hades; este fica, assim, a corresponder ao hebraico Sheol. Na época helenista, o judaísmo começou a abrir outras perspetivas sobre esta matéria, tratando nomeadamente a hipótese da ressurreição, como acontece em Dn 12,2. Antigas e novas conceções continuaram certamente a conviver."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "br-2-n16",
+              "offset": 80,
+              "original_marker": "q",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "mas sim a alma aflita pelo pesado fardo, aquele que caminha curvado e enfraquecido, os olhos vacilantes e a alma faminta, são estes que te renderão glória e justiça, Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "Lit.: pela magnitude que caminha curvada e enfraquecida. A expressão pela magnitude é notoriamente difícil de traduzir e as traduções divergem bastante: a alma profundamente angustiada, os que recordam dias melhores, a alma que sofre pela multidão ou a alma repleta de angústia são alguns exemplos de possibilidades de tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "br-2-n17",
+              "offset": 82,
+              "original_marker": "r",
+              "source_id": 47
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "Não é pelas obras de justiça dos nossos pais e dos nossos reis que clamamos por misericórdia diante de ti, Senhor, nosso Deus,",
-          "note_refs": []
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "Lit.: lançamos para baixo a nossa misericórdia segundo o teu rosto. O verbo grego causa estranheza, mas pode justificar-se pelo efeito que resulta de uma prostração, atitude que acompanha normalmente a oração."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "br-2-n18",
+              "offset": 105,
+              "original_marker": "s",
+              "source_id": 48
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "pois Tu lançaste sobre nós a tua cólera e a tua ira, tal como afirmaste por meio dos teus servos, os profetas, quando disseste:",
-          "note_refs": []
+          "note_refs": [
+            "19"
+          ],
+          "notes": {
+            "19": "Lit.: em/com mão dos teus servos, assim como no v.24."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "br-2-n19",
+              "offset": 80,
+              "original_marker": "t",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 21,
           "text": "“Assim fala o Senhor: ‘Curvai as vossas costas, servi o rei da Babilónia; e havereis de habitar na terra que Eu dei aos vossos pais.",
-          "note_refs": []
+          "note_refs": [
+            "20"
+          ],
+          "notes": {
+            "20": "Lit.: trabalhai para, assim como no v.24."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "br-2-n20",
+              "offset": 53,
+              "original_marker": "u",
+              "source_id": 50
+            }
+          ]
         },
         {
           "verse": 22,
@@ -232,17 +935,77 @@
         {
           "verse": 23,
           "text": "farei com que desapareça das cidades de Judá e das ruas de Jerusalém a voz de alegria e a voz de regozijo, a voz do noivo e a voz da noiva; e toda a terra ficará desolada, sem habitantes”.",
-          "note_refs": []
+          "note_refs": [
+            "21"
+          ],
+          "notes": {
+            "21": "Lit.: e de fora de. Esta poderia ter sido a maneira de traduzir um texto semita semelhante ao de Jr 7,34, onde o termo traduzido em grego por de fora de pode significar e das ruas de."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "br-2-n21",
+              "offset": 55,
+              "original_marker": "a",
+              "source_id": 51
+            }
+          ]
         },
         {
           "verse": 24,
           "text": "Mas não escutámos a tua voz de modo a servirmos o rei da Babilónia, e Tu cumpriste as tuas palavras, que tinhas proferido por meio dos teus servos, os profetas, de que os ossos dos nossos reis e os ossos dos nossos pais seriam retirados dos seus lugares.",
-          "note_refs": []
+          "note_refs": [
+            "22",
+            "23"
+          ],
+          "notes": {
+            "22": "Lit.: estabeleceste.",
+            "23": "Ficar sem sepultura ou ter uma sepultura que é objeto de violação é considerado maldição e abominação entre os hebreus (cf. Am, 2,1-3; Jr 16,4; 22,18s)."
+          },
+          "note_positions": [
+            {
+              "ref": "22",
+              "id": "br-2-n22",
+              "offset": 82,
+              "original_marker": "b",
+              "source_id": 52
+            },
+            {
+              "ref": "23",
+              "id": "br-2-n23",
+              "offset": 253,
+              "original_marker": "c",
+              "source_id": 53
+            }
+          ]
         },
         {
           "verse": 25,
           "text": "E eis que aí estão eles, lançados ao calor do dia e à geada da noite. Muitos morreram com dores terríveis, à fome, com a espada e com a peste.",
-          "note_refs": []
+          "note_refs": [
+            "24",
+            "25"
+          ],
+          "notes": {
+            "24": "Muitos é acrescento da tradução.",
+            "25": "Lit.: afastamento, na medida em que a peste obrigava à segregação de quem a contraía. Jr 32,36 apresenta a peste como um dos elementos da lista tripla de flagelos tradicionais na Bíblia (cf. 2Sm 24,13; Jr 14,12; 24,10; Ez 5,12)."
+          },
+          "note_positions": [
+            {
+              "ref": "24",
+              "id": "br-2-n24",
+              "offset": 76,
+              "original_marker": "d",
+              "source_id": 54
+            },
+            {
+              "ref": "25",
+              "id": "br-2-n25",
+              "offset": 141,
+              "original_marker": "e",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 26,
@@ -262,12 +1025,49 @@
         {
           "verse": 29,
           "text": "“Se não escutardes a minha voz, esta multidão ruidosa e numerosa será certamente reduzida a algo insignificante entre as nações, por onde os dispersei.",
-          "note_refs": []
+          "note_refs": [
+            "26",
+            "27"
+          ],
+          "notes": {
+            "26": "Nos vv.29-35, um discurso divino resume a teologia de Lv 26,14-45; Dt 4,25-31; 28,58-68; 30,1-10, intercalando expressões derivadas de Jeremias e de Ezequiel. Apenas a primeira frase do discurso se dirige diretamente ao povo; seguidamente, este passa a ser referido na terceira pessoa.",
+            "27": "Lit.: este ruído grande e muito voltará para pequeno."
+          },
+          "note_positions": [
+            {
+              "ref": "26",
+              "id": "br-2-n26",
+              "offset": 30,
+              "original_marker": "f",
+              "source_id": 56
+            },
+            {
+              "ref": "27",
+              "id": "br-2-n27",
+              "offset": 111,
+              "original_marker": "g",
+              "source_id": 57
+            }
+          ]
         },
         {
           "verse": 30,
           "text": "Pois Eu sei que não me escutarão, porque é um povo de dura cerviz. Mas na terra do seu exílio cairão em si",
-          "note_refs": []
+          "note_refs": [
+            "28"
+          ],
+          "notes": {
+            "28": "Lit.: regressarão ao seu coração. A expressão regressar ao coração — i.e, tomar consciência de si e converter-se — é um idioma bíblico associado ao regresso a Deus e à reunião do povo disperso (cf. 1Rs 8,47; 2Cr 6,37-38; Tb 13,5-6; Is 46,8; Jr 24,7). O paralelo mais estreito é Jr 24,7, onde Deus promete dar ao povo um coração novo para o conhecer."
+          },
+          "note_positions": [
+            {
+              "ref": "28",
+              "id": "br-2-n28",
+              "offset": 106,
+              "original_marker": "h",
+              "source_id": 58
+            }
+          ]
         },
         {
           "verse": 31,
@@ -282,7 +1082,21 @@
         {
           "verse": 33,
           "text": "Arrepender-se-ão da sua dura cerviz e das suas más ações, porque se lembrarão do caminho dos seus pais que pecaram contra o Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "29"
+          ],
+          "notes": {
+            "29": "Lit.: regressarão, o mesmo verbo do início do v.34."
+          },
+          "note_positions": [
+            {
+              "ref": "29",
+              "id": "br-2-n29",
+              "offset": 16,
+              "original_marker": "i",
+              "source_id": 59
+            }
+          ]
         },
         {
           "verse": 34,
@@ -312,17 +1126,59 @@
         {
           "verse": 3,
           "text": "Porque Tu reinas para sempre, enquanto nós estamos para sempre perdidos.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.: [estás] sentado. Esta expressão traduz a posição de poder do rei em funções no seu trono."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "br-3-n1",
+              "offset": 16,
+              "original_marker": "j",
+              "source_id": 60
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "Senhor omnipotente, Deus de Israel, escuta, pois, a súplica dos que já estão mortos em Israel, dos filhos daqueles que pecaram contra ti, daqueles que não escutaram a voz do Senhor seu Deus, de modo que os males se colaram a nós.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Se esta referência aos mortos não for uma metáfora sobre a deficiente condição dos exilados, resta a hipótese de se pensar nos antepassados defuntos, vistos como intercessores em favor do povo. Como esta ideia não parece ter enraizamento bíblico, há quem pense que poderia haver aqui mais um caso de tradução insegura de um termo hebraico que tanto pode significar os mortos como os mortais."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "br-3-n2",
+              "offset": 83,
+              "original_marker": "k",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Não te lembres das injustiças dos nossos pais, mas, neste tempo, lembra-te da tua mão poderosa e do teu nome,",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Poderosa é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "br-3-n3",
+              "offset": 94,
+              "original_marker": "l",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 6,
@@ -332,17 +1188,59 @@
         {
           "verse": 7,
           "text": "Foi por isso que puseste o temor a ti no nosso coração, para que invocássemos o teu nome e te louvássemos no nosso desterro, porque afastámos dos nossos corações toda a injustiça dos nossos pais, que pecaram contra ti.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Para o conceito do temor de Deus, não tão central neste livro como é em Ben Sira, cf. Sir 1,1 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "br-3-n4",
+              "offset": 37,
+              "original_marker": "m",
+              "source_id": 63
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Eis-nos hoje no nosso desterro, para onde nos dispersaste, para sermos objeto de vergonha, maldição e punição por todas as injustiças dos nossos pais, que se afastaram do Senhor, nosso Deus.» Meditação sobre a sabedoria",
-          "note_refs": []
+          "text": "Eis-nos hoje no nosso desterro, para onde nos dispersaste, para sermos objeto de vergonha, maldição e punição por todas as injustiças dos nossos pais, que se afastaram do Senhor, nosso Deus.»",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O grego acrescenta ali (cf. 2,4 nota)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "br-3-n6",
+              "offset": 57,
+              "original_marker": "n",
+              "source_id": 64
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Escuta, Israel, são mandamentos de vida! Dai ouvidos para conhecerdes a prudência.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Alguns temas próprios da tradição deuteronomista como sejam o da escuta (Dt 5,1; 6,4) e o dos mandamentos de vida (Dt 6,24; 8,1) aparecem integrados num horizonte sapiencial, como é o da meditação e do discernimento."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "br-3-n7",
+              "offset": 81,
+              "original_marker": "p",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 10,
@@ -352,7 +1250,21 @@
         {
           "verse": 11,
           "text": "Por que razão te contaminaste com os mortos, e foste contado entre os que vão para a morada dos mortos?",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: Hades, tal como no v.19. Cf. 2,17 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "br-3-n8",
+              "offset": 102,
+              "original_marker": "q",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 12,
@@ -372,7 +1284,21 @@
         {
           "verse": 15,
           "text": "Quem encontrou o sítio dela e quem já entrou nos seus tesouros?",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Um lugar bíblico de grande destaque, sobre os lugares secretos por onde se tem de procurar a sabedoria e descobrir o seu valor, é Job 28."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "br-3-n9",
+              "offset": 62,
+              "original_marker": "a",
+              "source_id": 68
+            }
+          ]
         },
         {
           "verse": 16,
@@ -382,32 +1308,125 @@
         {
           "verse": 17,
           "text": "Onde estão os que se divertem com as aves do céu e entesouram a prata e o ouro, nos quais os homens tanto confiam, sem pôr limites à sua aquisição?",
-          "note_refs": []
+          "note_refs": [
+            "10",
+            "11"
+          ],
+          "notes": {
+            "10": "Onde estão é acrescento da tradução, assim como no v.18.",
+            "11": "Lit.: e não há fim da aquisição/posse deles."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "br-3-n10",
+              "offset": 10,
+              "original_marker": "b",
+              "source_id": 69
+            },
+            {
+              "ref": "11",
+              "id": "br-3-n11",
+              "offset": 146,
+              "original_marker": "c",
+              "source_id": 70
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "Onde estão os que trabalham a prata e tanto se preocupam, sem que, no entanto, as suas obras deixem marca?",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: e não há descoberta das obras dele."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "br-3-n12",
+              "offset": 105,
+              "original_marker": "d",
+              "source_id": 71
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "Desapareceram e desceram à morada dos mortos, e outros surgiram no seu lugar.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Lit.: levantaram."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "br-3-n13",
+              "offset": 76,
+              "original_marker": "e",
+              "source_id": 72
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "Novas gerações viram a luz e habitaram na terra, mas não conheceram o caminho do conhecimento;",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Lit.: mais novos."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "br-3-n14",
+              "offset": 14,
+              "original_marker": "f",
+              "source_id": 73
+            }
+          ]
         },
         {
           "verse": 21,
           "text": "não prestaram atenção às suas sendas nem a acolheram, e os seus filhos ficaram longe do seu caminho.",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "A tradição dos mss. entende alternativamente o seu como sendo dele ou dela. A lógica do contexto parece, no entanto, sugerir mais que se trata do caminho da sabedoria."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "br-3-n15",
+              "offset": 99,
+              "original_marker": "g",
+              "source_id": 74
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "Dela nada se ouviu em Canaã nem foi vista em Teman.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Os vv.22s referem vários lugares aos quais ficou ligada a memória hebraica sobre a sabedoria, especificando curiosamente Canaã, onde se reconhece que assentam raízes bíblicas em matéria de sabedoria, apesar das conotações negativas que a Bíblia retém sobre a cultura cananaica; Teman e Meran, ou hipoteticamente Medan, são lugares situados a sul de Canaã, onde floresceram importantes centros de saber; será por causa destes que serão também referidos os povos do deserto arábico localizados igualmente a sul (os filhos de Agar, descendentes de Ismael). A ironia do v. é que todos estes povos, conotados com a busca do saber/inteligência (sýnesis), não chegaram ao conhecimento da sabedoria (sophía), que somente Deus concede."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "br-3-n16",
+              "offset": 27,
+              "original_marker": "h",
+              "source_id": 75
+            }
+          ]
         },
         {
           "verse": 23,
@@ -417,7 +1436,21 @@
         {
           "verse": 24,
           "text": "Ó Israel, como é grande a casa de Deus, como é vasta a extensão dos seus domínios!",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "Lit.: lugar."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "br-3-n17",
+              "offset": 63,
+              "original_marker": "i",
+              "source_id": 76
+            }
+          ]
         },
         {
           "verse": 25,
@@ -427,7 +1460,21 @@
         {
           "verse": 26,
           "text": "Ali nasceram os gigantes, famosos desde as origens, de enorme estatura e entendidos na guerra.",
-          "note_refs": []
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "Os gigantes dos tempos antigos (Gn 6,1-4) voltavam a estimular bastante o imaginário dos tempos mais recentes da Bíblia (Sb 14,6; Sir 16,7). Tais gigantes aparecem igualmente referidos em 1Hen 7; 15 e Jub 5;7."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "br-3-n18",
+              "offset": 93,
+              "original_marker": "j",
+              "source_id": 77
+            }
+          ]
         },
         {
           "verse": 27,
@@ -442,12 +1489,40 @@
         {
           "verse": 29,
           "text": "Há alguém que tenha subido ao céu e dela se tenha apoderado e que a tenha feito descer das nuvens?",
-          "note_refs": []
+          "note_refs": [
+            "19"
+          ],
+          "notes": {
+            "19": "A terminar esta meditação sapiencial reaparecem os temas deuteronomistas mais característicos (Dt 30,11-14), associados mais uma vez com a sabedoria e a Lei (4,1)."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "br-3-n19",
+              "offset": 59,
+              "original_marker": "k",
+              "source_id": 78
+            }
+          ]
         },
         {
           "verse": 30,
           "text": "Há alguém que tenha atravessado o mar e a tenha encontrado e trazido, adquirindo-a com ouro puro?",
-          "note_refs": []
+          "note_refs": [
+            "20"
+          ],
+          "notes": {
+            "20": "Adquirindo-a com é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "br-3-n20",
+              "offset": 86,
+              "original_marker": "l",
+              "source_id": 79
+            }
+          ]
         },
         {
           "verse": 31,
@@ -457,7 +1532,30 @@
         {
           "verse": 32,
           "text": "Mas Aquele tudo sabe conhece-a, inventou-a com a sua inteligência; Aquele que preparou a terra para durar para sempre e que a encheu de animais quadrúpedes;",
-          "note_refs": []
+          "note_refs": [
+            "21",
+            "22"
+          ],
+          "notes": {
+            "21": "Lit.: para tempo para sempre.",
+            "22": "Um dos temas ligados à sabedoria é o de considerar que ela participou com Deus na criação e continua a marcar a sua intervenção em tudo o que representa a organização do mundo (cf. Pr 8,22-31)."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "br-3-n21",
+              "offset": 117,
+              "original_marker": "m",
+              "source_id": 80
+            },
+            {
+              "ref": "22",
+              "id": "br-3-n22",
+              "offset": 155,
+              "original_marker": "n",
+              "source_id": 81
+            }
+          ]
         },
         {
           "verse": 33,
@@ -472,22 +1570,99 @@
         {
           "verse": 35,
           "text": "Ele chamou por elas e estas responderam: «Aqui estamos!» Brilharam com alegria para Aquele que as criou.",
-          "note_refs": []
+          "note_refs": [
+            "23"
+          ],
+          "notes": {
+            "23": "Lit.: fez."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "br-3-n23",
+              "offset": 103,
+              "original_marker": "o",
+              "source_id": 82
+            }
+          ]
         },
         {
           "verse": 36,
           "text": "Este é o nosso Deus; nenhum outro se pode comparar a Ele.",
-          "note_refs": []
+          "note_refs": [
+            "24"
+          ],
+          "notes": {
+            "24": "Lit.: não se pensará/considerará outro para Ele."
+          },
+          "note_positions": [
+            {
+              "ref": "24",
+              "id": "br-3-n24",
+              "offset": 56,
+              "original_marker": "p",
+              "source_id": 83
+            }
+          ]
         },
         {
           "verse": 37,
           "text": "Ele inventou todo o caminho do conhecimento e mostrou-o ao seu servo Jacob e a Israel, por Ele amado.",
-          "note_refs": []
+          "note_refs": [
+            "25"
+          ],
+          "notes": {
+            "25": "Lit.: deu."
+          },
+          "note_positions": [
+            {
+              "ref": "25",
+              "id": "br-3-n25",
+              "offset": 68,
+              "original_marker": "q",
+              "source_id": 84
+            }
+          ]
         },
         {
           "verse": 38,
           "text": "Depois disto, a sabedoria apareceu na terra e viveu entre os homens.",
-          "note_refs": []
+          "note_refs": [
+            "26"
+          ],
+          "notes": {
+            "26": "A sabedoria é acrescento da tradução. O sujeito dos verbos desta frase parece continuar a ser a sabedoria (embora a construção em grego permita também entender que é Deus o sujeito), que se tornou presente no mundo por meio da Lei de Moisés."
+          },
+          "note_positions": [
+            {
+              "ref": "26",
+              "id": "br-3-n26",
+              "offset": 25,
+              "original_marker": "a",
+              "source_id": 85
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 9,
+          "text": "Meditação sobre a sabedoria",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Esta meditação recolhe as características do discurso sapiencial e as da exortação profética. Por isso, o orador anónimo que assim fala tem a figura de um mestre e de um profeta. Esta secção divide-se em vários subtemas: exortação a refletir sobre as causas que provocaram o exílio (3,9-14); meditação sobre a relação entre Deus, a sabedoria e a Lei (3,15-4,1); breve exortação final (4,2-4). A versificação segue a versão da NVg."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "br-3-n5",
+              "offset": 27,
+              "original_marker": "o",
+              "source_id": 65
+            }
+          ]
         }
       ]
     },
@@ -497,12 +1672,49 @@
         {
           "verse": 1,
           "text": "Ela é o livro dos decretos de Deus e a Lei que permanece para sempre. Todos os que a ela se agarram caminham para a vida, mas os que a abandonam morrerão.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Ao contrário do que acontecia em 1,1, a palavra livro em grego não está no diminutivo. Este livro (bíblos) tem um sentido metafórico mais amplo e não se confina ao conceito de um documento ou carta de circunstância.",
+            "2": "Lit.: os agarrados dela para vida."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "br-4-n1",
+              "offset": 13,
+              "original_marker": "b",
+              "source_id": 86
+            },
+            {
+              "ref": "2",
+              "id": "br-4-n2",
+              "offset": 120,
+              "original_marker": "c",
+              "source_id": 87
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Volta, Jacob, e acolhe-a; caminha em direção ao esplendor na presença da sua luz.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O verbo voltar é aquele que exprime teologicamente, tanto em grego como em hebraico, o movimento de conversão como reencontro de algo que naturalmente se tem, mas do qual tinha havido um afastamento."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "br-4-n3",
+              "offset": 5,
+              "original_marker": "d",
+              "source_id": 88
+            }
+          ]
         },
         {
           "verse": 3,
@@ -511,28 +1723,93 @@
         },
         {
           "verse": 4,
-          "text": "Nós somos felizes, ó Israel, porque nos foi dado conhecer aquilo que agrada a Deus. Exortação e encorajamento de Jerusalém",
+          "text": "Nós somos felizes, ó Israel, porque nos foi dado conhecer aquilo que agrada a Deus.",
           "note_refs": []
         },
         {
           "verse": 5,
           "text": "Tem coragem, meu povo, vós que sois a memória de Israel!",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "As repetidas exortações à coragem constituem como que um refrão que dá ritmo a todo o texto (vv.5.21.27.30).",
+            "6": "Lit.: memorial de Israel. A expressão recorda o povo que está no exílio da sua identidade originária, sublinhando que transporta o nome de Israel quase como num ritual litúrgico (sentido que memorial tem no AT; cf. Lv 2,2)"
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "br-4-n5",
+              "offset": 11,
+              "original_marker": "f",
+              "source_id": 90
+            },
+            {
+              "ref": "6",
+              "id": "br-4-n6",
+              "offset": 55,
+              "original_marker": "g",
+              "source_id": 91
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Não fostes vendidos às nações para serdes destruídos; foi por terdes provocado a ira de Deus que fostes entregues aos inimigos.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: para destruição."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "br-4-n7",
+              "offset": 52,
+              "original_marker": "h",
+              "source_id": 92
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Irritastes Aquele que vos criou, ao sacrificardes a demónios e não a Deus.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: fez."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "br-4-n8",
+              "offset": 31,
+              "original_marker": "i",
+              "source_id": 93
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Esquecestes o Deus eterno que vos nutriu, entristecestes aquela que vos alimentou, Jerusalém.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "O paralelismo entre Deus e Jerusalém introduz a personificação da cidade. Por isso, nos vv. seguintes, ela dirige-se ao povo como uma mãe a seus filhos, com uma longa exortação (4,9-29. Cf. Os 2,4.7; Ez 19,2)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "br-4-n9",
+              "offset": 92,
+              "original_marker": "j",
+              "source_id": 94
+            }
+          ]
         },
         {
           "verse": 9,
@@ -542,17 +1819,59 @@
         {
           "verse": 10,
           "text": "pois vi o cativeiro dos meus filhos e filhas, que o Eterno fez vir sobre eles.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "O autor desta secção de Baruc mostra-se muito sensível à ideia de eternidade. Ele é o único na Bíblia a usar o título de Eterno sem mais, como nome de Deus (4,10.20.22.24.35; 5,2) e sublinha com insistência o carácter eterno dos dons de Deus (4,23.29; 5,1.4)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "br-4-n10",
+              "offset": 58,
+              "original_marker": "k",
+              "source_id": 95
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Eu, que os tinha nutrido na alegria, vi-os partir no pranto e na tristeza.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: enviei."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "br-4-n11",
+              "offset": 49,
+              "original_marker": "l",
+              "source_id": 96
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Que ninguém se alegre pela minha viuvez e por ter sido abandonada por tantos! Tornei-me um deserto por causa dos pecados dos meus filhos, porque se desviaram da lei de Deus,",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: que ninguém se alegre por mim, a viúva e abandonada por muitos. Na versificação da NVg, esta frase constitui um só verso."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "br-4-n12",
+              "offset": 76,
+              "original_marker": "m",
+              "source_id": 97
+            }
+          ]
         },
         {
           "verse": 13,
@@ -572,7 +1891,21 @@
         {
           "verse": 16,
           "text": "Levaram os amados filhos da viúva e deixaram-na só e desolada sem as suas filhas.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Filhos é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "br-4-n13",
+              "offset": 24,
+              "original_marker": "n",
+              "source_id": 98
+            }
+          ]
         },
         {
           "verse": 17,
@@ -592,7 +1925,21 @@
         {
           "verse": 20,
           "text": "Despi as vestes da paz, vesti-me de saco em atitude de súplica e clamarei ao Eterno ao longo dos meus dias.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Lit.: vesti o meu saco de súplica. Em situações que implicam espírito de penitência ou sofrimento, usar roupas de tecido áspero era um costume habitual entre os hebreus (cf., por exemplo, Gn 37,34; 2Sm 3,31; 1Rs 21,27; 2Rs 19,1; Jn 3,6; Dn 9,3)."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "br-4-n14",
+              "offset": 62,
+              "original_marker": "a",
+              "source_id": 99
+            }
+          ]
         },
         {
           "verse": 21,
@@ -602,17 +1949,68 @@
         {
           "verse": 22,
           "text": "Pois eu depositei no Eterno a esperança da vossa salvação e uma grande alegria me veio da parte do Santo, perante a misericórdia que em breve virá para vós da parte do vosso eterno salvador.",
-          "note_refs": []
+          "note_refs": [
+            "15",
+            "16"
+          ],
+          "notes": {
+            "15": "Lit.: pois eu esperei sobre o Eterno a vossa salvação.",
+            "16": "Grande é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "br-4-n15",
+              "offset": 57,
+              "original_marker": "b",
+              "source_id": 100
+            },
+            {
+              "ref": "16",
+              "id": "br-4-n16",
+              "offset": 70,
+              "original_marker": "c",
+              "source_id": 101
+            }
+          ]
         },
         {
           "verse": 23,
           "text": "Despedi-me de vós na tristeza e no pranto, mas Deus vos há de restituir a mim no regozijo e na alegria, para sempre.",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "O horizonte que se pressente neste texto é bastante convergente com a segunda parte do livro de Isaías. Daí as ressonâncias convergentes entre os textos de Br 4,23.29.36 e de Is 51,3.11; 52,9; 55,12; 60,15; 61,3."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "br-4-n17",
+              "offset": 115,
+              "original_marker": "d",
+              "source_id": 102
+            }
+          ]
         },
         {
           "verse": 24,
           "text": "Pois como agora as vizinhas de Sião viram o vosso cativeiro, assim em breve verão a vossa salvação, que virá da parte do vosso Deus sobre vós, com a imensa glória e o esplendor do Eterno.",
-          "note_refs": []
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "Este verso integra o anterior na NVg."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "br-4-n18",
+              "offset": 186,
+              "original_marker": "e",
+              "source_id": 103
+            }
+          ]
         },
         {
           "verse": 25,
@@ -622,17 +2020,68 @@
         {
           "verse": 26,
           "text": "Os meus filhos delicados percorreram ásperos caminhos, foram arrebatados como um rebanho raptado pelos inimigos.",
-          "note_refs": []
+          "note_refs": [
+            "19"
+          ],
+          "notes": {
+            "19": "Filhos é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "br-4-n19",
+              "offset": 14,
+              "original_marker": "f",
+              "source_id": 104
+            }
+          ]
         },
         {
           "verse": 27,
           "text": "Tende coragem, meus filhos! Bradai a Deus, pois Aquele que sobre vós fez vir tais coisas de vós se há de lembrar.",
-          "note_refs": []
+          "note_refs": [
+            "20"
+          ],
+          "notes": {
+            "20": "Lit.: pois existirá memória de vós da parte de quem fez vir [estas coisas]."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "br-4-n20",
+              "offset": 112,
+              "original_marker": "g",
+              "source_id": 105
+            }
+          ]
         },
         {
           "verse": 28,
           "text": "Tal como tivestes o pensamento de vos afastar de Deus assim, ao regressardes, procurai-o com dez vezes mais ardor.",
-          "note_refs": []
+          "note_refs": [
+            "21",
+            "22"
+          ],
+          "notes": {
+            "21": "Lit.: pois assim como o vosso pensamento aconteceu para o afastar-se de Deus.",
+            "22": "Ardor é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "br-4-n21",
+              "offset": 53,
+              "original_marker": "h",
+              "source_id": 106
+            },
+            {
+              "ref": "22",
+              "id": "br-4-n22",
+              "offset": 113,
+              "original_marker": "i",
+              "source_id": 107
+            }
+          ]
         },
         {
           "verse": 29,
@@ -642,7 +2091,21 @@
         {
           "verse": 30,
           "text": "Tem coragem, Jerusalém! Aquele que te deu o nome te consolará.",
-          "note_refs": []
+          "note_refs": [
+            "23"
+          ],
+          "notes": {
+            "23": "Dar nome a uma cidade significa assumir o papel de seu criador e senhor, responsável pelo seu destino (cf. Is 1,26; 60,14; 62,4.12; Jr 33,16; Ez 48,35; Zc 8,3; Sl 87,5). Em 5,4, o próprio Deus, criador de Jerusalém, estabelece para ela um novo nome eterno. Esta metáfora equivale a uma autêntica refundação."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "br-4-n23",
+              "offset": 48,
+              "original_marker": "j",
+              "source_id": 108
+            }
+          ]
         },
         {
           "verse": 31,
@@ -652,7 +2115,21 @@
         {
           "verse": 32,
           "text": "Malditas as cidades onde os teus filhos foram escravos, maldita aquela que recebeu os teus filhos.",
-          "note_refs": []
+          "note_refs": [
+            "24"
+          ],
+          "notes": {
+            "24": "Entre muitas cidades das quais existem razões de queixa, a maldição principal recai sobre a cidade da Babilónia, que foi a principal causadora do exílio e passou a ser o principal destino dos desterrados (cf. Jr 50-51; Is 47)."
+          },
+          "note_positions": [
+            {
+              "ref": "24",
+              "id": "br-4-n24",
+              "offset": 97,
+              "original_marker": "k",
+              "source_id": 109
+            }
+          ]
         },
         {
           "verse": 33,
@@ -672,12 +2149,61 @@
         {
           "verse": 36,
           "text": "Olha para o Oriente, Jerusalém, e vê a alegria que te vem da parte de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "25"
+          ],
+          "notes": {
+            "25": "O Oriente é um horizonte que sugere luz e salvação. O mundo semítico habituou-se a associar essa perspetiva de Oriente com a ideia de salvação. Nestes textos, entretanto, a expectativa que a ideia de Oriente suscita no imaginário é o entusiasmo pela notícia do regresso dos exilados (cf. Is 41,2.25; 46,11)."
+          },
+          "note_positions": [
+            {
+              "ref": "25",
+              "id": "br-4-n25",
+              "offset": 19,
+              "original_marker": "l",
+              "source_id": 110
+            }
+          ]
         },
         {
           "verse": 37,
           "text": "Eis que chegam os teus filhos, que viste partir; chegam reunidos do Oriente ao Ocidente pela palavra do Santo, rejubilando com a glória de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "26"
+          ],
+          "notes": {
+            "26": "Lit.: enviaste."
+          },
+          "note_positions": [
+            {
+              "ref": "26",
+              "id": "br-4-n26",
+              "offset": 47,
+              "original_marker": "m",
+              "source_id": 111
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 5,
+          "text": "Exortação e encorajamento de Jerusalém",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Esta última secção de Baruc (4,5-5,9) recolhe muita inspiração da segunda parte do livro de Isaías e de Jeremias, para construir uma exortação profética, com temas que remetem para Jeremias, Lamentações e Oseias, formando uma peça literária de rica intertextualidade, dividida em duas partes: 4,9-29, em que Jerusalém, personificada como mãe, fala sobre os seus filhos exilados e se lhes dirige para os encorajar; 4,30-5,9, uma exortação profética, que se volta de novo para Jerusalém, para a encorajar, anunciando-lhe o castigo dos inimigos (4,30-35) e celebrando o futuro regresso dos exilados e a esperança no triunfo (4,36-5,9)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "br-4-n4",
+              "offset": 38,
+              "original_marker": "e",
+              "source_id": 89
+            }
+          ]
         }
       ]
     },
@@ -697,27 +2223,106 @@
         {
           "verse": 3,
           "text": "Pois Deus mostrará o teu esplendor a todos os que estão debaixo do céu.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O esplendor de Jerusalém é aquele que lhe veio de Deus (cf. 4,24)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "br-5-n1",
+              "offset": 34,
+              "original_marker": "n",
+              "source_id": 112
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "Serás chamada para sempre com o nome que te vem de Deus: «Paz da Justiça» e «Glória da Piedade».",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Cf. 4,30 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "br-5-n2",
+              "offset": 95,
+              "original_marker": "o",
+              "source_id": 113
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Levanta-te, Jerusalém, e põe-te em lugar elevado; olha na direção do Oriente e vê os teus filhos reunidos, rejubilando desde o pôr do sol até ao Oriente pela palavra do Santo, por Deus se ter lembrado deles.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "A notícia do regresso tem que ver com os exilados do Oriente, mas o significado alarga-se e abrange-os a todos desde o Ocidente. A imagem que se projeta é a de um regresso universal e completo, possivelmente à semelhança do êxodo do povo, que saiu no seu completo para fora do Egito.",
+            "4": "Lit.: pela lembrança de Deus. Esta referência vai possivelmente ao encontro do pedido que fora anteriormente apresentado (3,5)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "br-5-n3",
+              "offset": 152,
+              "original_marker": "a",
+              "source_id": 114
+            },
+            {
+              "ref": "4",
+              "id": "br-5-n4",
+              "offset": 206,
+              "original_marker": "b",
+              "source_id": 115
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Pois eles saíram de junto de ti a pé, levados pelos inimigos, mas agora Deus os reconduz a ti, elevados em glória, como num trono real.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: como/para trono real. A partícula grega tanto pode ter valor comparativo (como [sobre] um trono) como preposicional, indicando destino (para um trono real), tornando o texto difícil de interpretar. Vários mss. substituíram «trono» por «filhos». Seja como for, a imagem principal parece ser a do regresso dos filhos de Jerusalém, que não será uma marcha de refugiados, mas um cortejo glorioso; Jerusalém como trono do Senhor ecoa em Jr 3,17."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "br-5-n5",
+              "offset": 134,
+              "original_marker": "c",
+              "source_id": 116
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Pois Deus ordenou que se rebaixasse toda a montanha elevada e as colinas eternas e se enchessem os vales, para nivelar a terra, a fim de que Israel pudesse caminhar em segurança, conduzido pela glória de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Conduzido é acrescento da tradução. Este verso integra o anterior na NVg."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "br-5-n6",
+              "offset": 188,
+              "original_marker": "d",
+              "source_id": 117
+            }
+          ]
         },
         {
           "verse": 8,
@@ -726,7 +2331,7 @@
         },
         {
           "verse": 9,
-          "text": "Pois Deus reconduzirá Israel com alegria à luz da sua glória, com a misericórdia e a justiça que dele procedem. CARTA DE JEREMIAS",
+          "text": "Pois Deus reconduzirá Israel com alegria à luz da sua glória, com a misericórdia e a justiça que dele procedem.",
           "note_refs": []
         }
       ]
@@ -735,14 +2340,61 @@
       "chapter": 6,
       "verses": [
         {
+          "verse": 0,
+          "text": "Cópia da carta que Jeremias enviou aos prisioneiros que iam ser deportados para a Babilónia pelo rei dos babilónios, a fim de lhes anunciar o que lhe tinha sido ordenado por Deus:",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Tanto na LXX como na Vg e na NVg, este pequeno prólogo ficou fora da numeração dos vv., o que reforçou a ideia de que não pertencia ao texto primitivo. Pode tratar-se, na verdade, de um recurso de redação ficcional: a referência ao envio de uma carta aos que iam ser desterrados sugere uma construção literária mais do que um facto histórico, uma vez que os destinatários estariam ainda em vias de partir e não já exilados há muito tempo, como parece ser a situação real da época em que o texto foi composto. A menção de Jeremias como remetente seria mais um elemento dessa ficção; o próprio género epistolar presta-se, de resto, à criação de perspetivas ficcionais."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "br-6-n1",
+              "offset": 5,
+              "original_marker": "e",
+              "source_id": 118
+            }
+          ]
+        },
+        {
           "verse": 1,
-          "text": "Insignificância e inutilidade da idolatria 0Cópia da carta que Jeremias enviou aos prisioneiros que iam ser deportados para a Babilónia pelo rei dos babilónios, a fim de lhes anunciar o que lhe tinha sido ordenado por Deus: «É por causa dos pecados que cometestes diante de Deus que estais a ser deportados para a Babilónia como prisioneiros por Nabucodonosor, rei dos babilónios.",
-          "note_refs": []
+          "text": "«É por causa dos pecados que cometestes diante de Deus que estais a ser deportados para a Babilónia como prisioneiros por Nabucodonosor, rei dos babilónios.",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: pecastes."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "br-6-n2",
+              "offset": 39,
+              "original_marker": "f",
+              "source_id": 119
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Por isso, quando chegardes à Babilónia, havereis de ficar ali muitos anos e durante longo tempo, até sete gerações. Mas depois disso, fazer-vos-ei sair dali em paz.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A memória da duração do exílio e das diásporas manteve-se viva e foi suscitando releituras sucessivas. A duração aqui prevista não coincide com a referida em Jr 25,11-12; 27,7; 29,10. Cf. ainda 2Cr 36,21; Dn 9,2."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "br-6-n3",
+              "offset": 114,
+              "original_marker": "g",
+              "source_id": 120
+            }
+          ]
         },
         {
           "verse": 3,
@@ -752,67 +2404,290 @@
         {
           "verse": 4,
           "text": "Tende, pois, cuidado para não vos tornardes também vós iguais aos estrangeiros, e para que o medo desses deuses não tome conta de vós,",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Lit.: assemelhando-se aos estrangeiros vos torneis semelhantes.",
+            "5": "A exortação a não ter medo dos ídolos apresenta-se como um autêntico refrão ao longo de toda a carta (vv. 14.22.28.64.68)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "br-6-n4",
+              "offset": 78,
+              "original_marker": "h",
+              "source_id": 121
+            },
+            {
+              "ref": "5",
+              "id": "br-6-n5",
+              "offset": 111,
+              "original_marker": "i",
+              "source_id": 122
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "quando virdes uma multidão a prostrar-se à frente e atrás deles. Dizei, então, com convicção: «É diante de ti, Senhor, que é necessário prostrar-se!",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: soberano."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "br-6-n6",
+              "offset": 117,
+              "original_marker": "j",
+              "source_id": 123
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Pois o meu anjo estará convosco e ele mesmo cuidará das vossas almas.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Ou pedirá contas das vossas almas."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "br-6-n7",
+              "offset": 68,
+              "original_marker": "k",
+              "source_id": 124
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "A língua desses deuses foi polida por um artesão; mas, estejam eles revestidos de ouro ou de prata, são falsos e não conseguem falar.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: deles."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "br-6-n8",
+              "offset": 22,
+              "original_marker": "l",
+              "source_id": 125
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "E tal como se faz para uma donzela que gosta de se enfeitar, pegam em ouro e fazem coroas para pôr sobre a cabeça dos seus deuses.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Para pôr é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "br-6-n9",
+              "offset": 98,
+              "original_marker": "m",
+              "source_id": 126
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Mas também acontece que os sacerdotes tiram ouro e prata dos seus deuses e usam-nos para os seus próprios gastos e para presentear as prostitutas no terraço.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Há quem veja aqui uma referência à casa das prostitutas. O texto parece referir-se à parte destinada às prostitutas sagradas que existiria eventualmente por cima dos templos da Mesopotâmia. A crítica dirigida aos ídolos atinge também outros costumes mesopotâmicos onde a sexualidade e o culto parecem andar associados."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "br-6-n10",
+              "offset": 156,
+              "original_marker": "n",
+              "source_id": 127
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Adornam com roupas, como se fossem seres humanos, deuses que são de prata, ouro ou madeira. Mas estes não conseguem salvar-se da ferrugem nem da degradação.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: de comidas. O termo é de difícil interpretação: alguns comentadores leram-no como erro de tradução do hebraico, propondo traças em vez de alimento (cf. Is 51,8; Mt 6,19). Outros defendem que no grego tardio o termo adquiriu o sentido de decomposição orgânica, formando com ferrugem um par que designa a degradação dos metais e da madeira (hipótese plausível, mas não consensual)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "br-6-n11",
+              "offset": 155,
+              "original_marker": "o",
+              "source_id": 128
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Embora os revistam com vestes de púrpura, têm de lhes espanar o rosto, por causa do pó do templo que se acumula sobre eles.",
-          "note_refs": []
+          "note_refs": [
+            "12",
+            "13"
+          ],
+          "notes": {
+            "12": "Lit.: pó da casa. Este sentido da palavra casa a significar templo poderia ser um indício de que o texto original poderia estar numa língua semítica, nomeadamente o hebraico.",
+            "13": "Lit.: que é muito sobre eles. As descrições sobre estas cerimónias de vestir e despir os deuses é um tema que nas culturas antigas se presta bastante a ser caricaturado."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "br-6-n12",
+              "offset": 96,
+              "original_marker": "p",
+              "source_id": 129
+            },
+            {
+              "ref": "13",
+              "id": "br-6-n13",
+              "offset": 122,
+              "original_marker": "q",
+              "source_id": 130
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Um empunha um cetro, como se fosse o governador de uma província, mas não pode condenar à morte quem o ofenda.",
-          "note_refs": []
+          "note_refs": [
+            "14",
+            "15",
+            "16"
+          ],
+          "notes": {
+            "14": "Lit.: um homem juiz.",
+            "15": "Lit.: matar.",
+            "16": "Ou: que peque contra ele."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "br-6-n14",
+              "offset": 47,
+              "original_marker": "r",
+              "source_id": 131
+            },
+            {
+              "ref": "15",
+              "id": "br-6-n15",
+              "offset": 95,
+              "original_marker": "s",
+              "source_id": 132
+            },
+            {
+              "ref": "16",
+              "id": "br-6-n16",
+              "offset": 109,
+              "original_marker": "t",
+              "source_id": 133
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Outro tem um punhal na mão direita e um machado, mas não se consegue livrar nem da guerra nem dos ladrões.",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "Outro e direita são acrescentos da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "br-6-n17",
+              "offset": 34,
+              "original_marker": "u",
+              "source_id": 134
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Daqui se conclui que não são deuses. Portanto, não tenhais medo deles.",
-          "note_refs": []
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "Esta conclusão de que os ídolos não são deuses é outro refrão deste texto (vv.22.28.50.51.64.71)."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "br-6-n18",
+              "offset": 35,
+              "original_marker": "v",
+              "source_id": 135
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "Tal como um utensílio de alguém, quando se parte, se torna inútil, assim são os seus deuses, instalados nos seus templos.",
-          "note_refs": []
+          "text": "Tal como um utensílio de alguém, quando se parte, se torna inútil, assim são os seus deuses, instalados nos seus templos. Os seus olhos estão cheios de pó, levantado pelos pés daqueles que ali entram.",
+          "note_refs": [
+            "19",
+            "20",
+            "21"
+          ],
+          "notes": {
+            "19": "Tanto no grego como num hipotético original hebraico o termo poderia significar vários objetos de uso corrente.",
+            "20": "Lit.: nas suas casas.",
+            "21": "Levantado é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "br-6-n19",
+              "offset": 31,
+              "original_marker": "a",
+              "source_id": 136
+            },
+            {
+              "ref": "20",
+              "id": "br-6-n20",
+              "offset": 120,
+              "original_marker": "b",
+              "source_id": 137
+            },
+            {
+              "ref": "21",
+              "id": "br-6-n21",
+              "offset": 165,
+              "original_marker": "c",
+              "source_id": 138
+            }
+          ]
         },
         {
           "verse": 16,
-          "text": "Os seus olhos estão cheios de pó, levantado pelos pés daqueles que ali entram.",
-          "note_refs": []
+          "text": "",
+          "note_refs": [],
+          "omitted": true
         },
         {
           "verse": 17,
@@ -827,7 +2702,21 @@
         {
           "verse": 19,
           "text": "São como uma daquelas traves do templo, cujo interior se supõe que está corroído: os vermes que sobem da terra devoram-na, bem como aos seus vestidos, sem que eles se apercebam.",
-          "note_refs": []
+          "note_refs": [
+            "22"
+          ],
+          "notes": {
+            "22": "Lit.: são como trave das que [são] da casa, os corações delas - dizem – são corroídos."
+          },
+          "note_positions": [
+            {
+              "ref": "22",
+              "id": "br-6-n22",
+              "offset": 80,
+              "original_marker": "d",
+              "source_id": 139
+            }
+          ]
         },
         {
           "verse": 20,
@@ -852,22 +2741,114 @@
         {
           "verse": 24,
           "text": "Foram comprados por preço exorbitante, mas neles não existe espírito.",
-          "note_refs": []
+          "note_refs": [
+            "23",
+            "24"
+          ],
+          "notes": {
+            "23": "Lit.: pelo preço todo.",
+            "24": "Este espírito é a parte do humano que representa o nível superior da vida. A falta de vida e de movimento autónomo são as críticas aos ídolos que a tradição bíblica considera mais pertinentes (cf. Is 46,7; Jr 10,5.14; Sl 115,7; 135,17; Hab 2,19). É precisamente o contrário de Deus, que dá o sopro de vida (Gn 2,7; Jb 34,14s; Sl 104,29s)."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "br-6-n23",
+              "offset": 37,
+              "original_marker": "e",
+              "source_id": 140
+            },
+            {
+              "ref": "24",
+              "id": "br-6-n24",
+              "offset": 68,
+              "original_marker": "f",
+              "source_id": 141
+            }
+          ]
         },
         {
           "verse": 25,
           "text": "Sem pés, têm de ser levados aos ombros, mostrando aos homens a sua indignidade. Até os que tratam deles passam pela vergonha, pois quando um desses deuses cai por terra, são eles que o têm de levantar.",
-          "note_refs": []
+          "note_refs": [
+            "25"
+          ],
+          "notes": {
+            "25": "Um desses deuses é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "25",
+              "id": "br-6-n25",
+              "offset": 154,
+              "original_marker": "g",
+              "source_id": 142
+            }
+          ]
         },
         {
           "verse": 26,
           "text": "Se alguém o puser direito e em pé, ele é incapaz de se mover por si mesmo e, se tombar, jamais conseguirá endireitar-se; as ofertas que lhes apresentam são como se as fizessem aos mortos.",
-          "note_refs": []
+          "note_refs": [
+            "26"
+          ],
+          "notes": {
+            "26": "As fizessem é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "26",
+              "id": "br-6-n26",
+              "offset": 175,
+              "original_marker": "h",
+              "source_id": 143
+            }
+          ]
         },
         {
           "verse": 27,
           "text": "Quanto às vítimas que lhes são sacrificadas, os seus sacerdotes vendem-nas em proveito próprio. O mesmo fazem as suas mulheres que guardam uma parte dos sacrifícios na salgadeira, sem nada distribuir pelos pobres e incapacitados. Até aquela que está em estado de menstruação ou que deu à luz toca nas vítimas que lhes são sacrificadas.",
-          "note_refs": []
+          "note_refs": [
+            "27",
+            "28",
+            "29",
+            "30"
+          ],
+          "notes": {
+            "27": "Lit.: os seus sacerdotes, devolvendo os sacrifícios deles, fazem uso deles.",
+            "28": "O ideal pressuposto é o que aparece em Dt 14,28s.",
+            "29": "Lit.: a que se senta à margem.",
+            "30": "Lit.: dos sacrifícios deles."
+          },
+          "note_positions": [
+            {
+              "ref": "27",
+              "id": "br-6-n27",
+              "offset": 94,
+              "original_marker": "i",
+              "source_id": 144
+            },
+            {
+              "ref": "28",
+              "id": "br-6-n28",
+              "offset": 228,
+              "original_marker": "j",
+              "source_id": 145
+            },
+            {
+              "ref": "29",
+              "id": "br-6-n29",
+              "offset": 274,
+              "original_marker": "k",
+              "source_id": 146
+            },
+            {
+              "ref": "30",
+              "id": "br-6-n30",
+              "offset": 334,
+              "original_marker": "l",
+              "source_id": 147
+            }
+          ]
         },
         {
           "verse": 28,
@@ -877,27 +2858,106 @@
         {
           "verse": 29,
           "text": "De onde lhes vem então o serem chamados deuses? Pois até há mulheres que apresentam ofertas a esses deuses de prata, ouro e madeira!",
-          "note_refs": []
+          "note_refs": [
+            "31"
+          ],
+          "notes": {
+            "31": "Ofertas é acrescento da tradução. O contraste está em que, entre os hebreus, somente os homens podiam exercer funções de culto."
+          },
+          "note_positions": [
+            {
+              "ref": "31",
+              "id": "br-6-n31",
+              "offset": 91,
+              "original_marker": "m",
+              "source_id": 148
+            }
+          ]
         },
         {
           "verse": 30,
           "text": "Nos seus templos os sacerdotes conduzem os carros com as túnicas rasgadas, de cabeça e barba rapadas e com a cabeça a descoberto.",
-          "note_refs": []
+          "note_refs": [
+            "32",
+            "33"
+          ],
+          "notes": {
+            "32": "Ou: sentam-se. Os carros referidos podem ser os que eram usados em desfiles processionais.",
+            "33": "A base da crítica encontra-se em Lv 21,5."
+          },
+          "note_positions": [
+            {
+              "ref": "32",
+              "id": "br-6-n32",
+              "offset": 49,
+              "original_marker": "n",
+              "source_id": 149
+            },
+            {
+              "ref": "33",
+              "id": "br-6-n33",
+              "offset": 100,
+              "original_marker": "o",
+              "source_id": 150
+            }
+          ]
         },
         {
           "verse": 31,
           "text": "Gritam e berram diante dos seus deuses como alguns fazem num banquete fúnebre.",
-          "note_refs": []
+          "note_refs": [
+            "34"
+          ],
+          "notes": {
+            "34": "Esta cerimónia é uma possível alusão a rituais praticados no Antigo Oriente em honra de uma divindade que morre, como acontece com os cultos de Adónis na Síria."
+          },
+          "note_positions": [
+            {
+              "ref": "34",
+              "id": "br-6-n34",
+              "offset": 77,
+              "original_marker": "p",
+              "source_id": 151
+            }
+          ]
         },
         {
           "verse": 32,
           "text": "Com as roupas que retiram dos deuses, os sacerdotes vestem as suas mulheres e os seus filhos.",
-          "note_refs": []
+          "note_refs": [
+            "35"
+          ],
+          "notes": {
+            "35": "Lit.: deles."
+          },
+          "note_positions": [
+            {
+              "ref": "35",
+              "id": "br-6-n35",
+              "offset": 36,
+              "original_marker": "q",
+              "source_id": 152
+            }
+          ]
         },
         {
           "verse": 33,
           "text": "Quando alguém lhes causa algum mal ou um bem, tais deuses não são capazes de retribuir, tal como não são capazes de estabelecer ou depor um rei.",
-          "note_refs": []
+          "note_refs": [
+            "36"
+          ],
+          "notes": {
+            "36": "Tais deuses é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "36",
+              "id": "br-6-n36",
+              "offset": 57,
+              "original_marker": "r",
+              "source_id": 153
+            }
+          ]
         },
         {
           "verse": 34,
@@ -907,12 +2967,40 @@
         {
           "verse": 35,
           "text": "Não arrancam ninguém da morte, nem livram o fraco da mão do forte.",
-          "note_refs": []
+          "note_refs": [
+            "37"
+          ],
+          "notes": {
+            "37": "Da mão é acrescento da tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "37",
+              "id": "br-6-n37",
+              "offset": 56,
+              "original_marker": "s",
+              "source_id": 154
+            }
+          ]
         },
         {
           "verse": 36,
           "text": "Não restituem a visão a um cego, nem livram quem passa por dificuldades.",
-          "note_refs": []
+          "note_refs": [
+            "38"
+          ],
+          "notes": {
+            "38": "O grego antepõe homem."
+          },
+          "note_positions": [
+            {
+              "ref": "38",
+              "id": "br-6-n38",
+              "offset": 31,
+              "original_marker": "t",
+              "source_id": 155
+            }
+          ]
         },
         {
           "verse": 37,
@@ -932,17 +3020,59 @@
         {
           "verse": 40,
           "text": "Mais ainda, os próprios caldeus os desconsideram, pois quando veem um mudo incapaz de falar levam-no a Baal e pedem para que ele fale, como se o deus fosse capaz de entender.",
-          "note_refs": []
+          "note_refs": [
+            "39"
+          ],
+          "notes": {
+            "39": "No sentido em que envergonham os seus deuses, ao demonstrarem involuntariamente a sua ineficácia."
+          },
+          "note_positions": [
+            {
+              "ref": "39",
+              "id": "br-6-n39",
+              "offset": 48,
+              "original_marker": "u",
+              "source_id": 156
+            }
+          ]
         },
         {
           "verse": 41,
-          "text": "Mas não são capazes de refletir sobre isso e de abandonar os deuses v, pois não são capazes de entender nada.",
-          "note_refs": []
+          "text": "Mas não são capazes de refletir sobre isso e de abandonar os deuses , pois não são capazes de entender nada.",
+          "note_refs": [
+            "40"
+          ],
+          "notes": {
+            "40": "Lit.: de pensando abandoná-los."
+          },
+          "note_positions": [
+            {
+              "ref": "40",
+              "id": "br-6-n40",
+              "offset": 68,
+              "original_marker": "v",
+              "source_id": 157
+            }
+          ]
         },
         {
           "verse": 42,
           "text": "As mulheres cingidas com uma corda vão sentar-se junto aos caminhos, queimando farelo como se fosse incenso.",
-          "note_refs": []
+          "note_refs": [
+            "41"
+          ],
+          "notes": {
+            "41": "Esta cena pode constituir uma alusão a rituais utilizados em contexto de prostituição sagrada."
+          },
+          "note_positions": [
+            {
+              "ref": "41",
+              "id": "br-6-n41",
+              "offset": 107,
+              "original_marker": "w",
+              "source_id": 158
+            }
+          ]
         },
         {
           "verse": 43,
@@ -957,22 +3087,73 @@
         {
           "verse": 45,
           "text": "Foram fabricados por artesãos e por ourives; não podem ser outra coisa senão o que os seus artífices quiseram que fossem.",
-          "note_refs": []
+          "note_refs": [
+            "42"
+          ],
+          "notes": {
+            "42": "O tema da fabricação artesanal dos deuses é outro tema de crítica à idolatria, que se tornou clássico na Bíblia (Jr 10,9; Is 44,11; Sb 15,7-9.16-17)."
+          },
+          "note_positions": [
+            {
+              "ref": "42",
+              "id": "br-6-n42",
+              "offset": 43,
+              "original_marker": "x",
+              "source_id": 159
+            }
+          ]
         },
         {
           "verse": 46,
           "text": "Os próprios que os fabricaram não viverão certamente muito tempo. Como podem, então, ser deuses as coisas que foram fabricadas por eles?",
-          "note_refs": []
+          "note_refs": [
+            "43"
+          ],
+          "notes": {
+            "43": "Lit.: jamais vivem/viveram longevos."
+          },
+          "note_positions": [
+            {
+              "ref": "43",
+              "id": "br-6-n43",
+              "offset": 64,
+              "original_marker": "y",
+              "source_id": 160
+            }
+          ]
         },
         {
           "verse": 47,
-          "text": "Aos seus descendentes não deixam senão mentira e igno- mínia.",
+          "text": "Aos seus descendentes não deixam senão mentira e ignomínia.",
           "note_refs": []
         },
         {
           "verse": 48,
           "text": "Pois quando a guerra e as desgraças caem sobre os seus deuses, os sacerdotes reúnem-se em conselho para decidirem onde se hão de esconder juntamente com eles.",
-          "note_refs": []
+          "note_refs": [
+            "44",
+            "45"
+          ],
+          "notes": {
+            "44": "Lit.: vêm sobre essas coisas.",
+            "45": "Lit.: fazem conselho para si próprios onde se esconderem com eles."
+          },
+          "note_positions": [
+            {
+              "ref": "44",
+              "id": "br-6-n44",
+              "offset": 61,
+              "original_marker": "a",
+              "source_id": 161
+            },
+            {
+              "ref": "45",
+              "id": "br-6-n45",
+              "offset": 157,
+              "original_marker": "b",
+              "source_id": 162
+            }
+          ]
         },
         {
           "verse": 49,
@@ -982,7 +3163,21 @@
         {
           "verse": 50,
           "text": "Sendo eles de madeira, revestidos de ouro ou de prata, depois disto ficar-se-á a saber que são falsos. Para todos os povos e para todos os reis ficará claro que não são deuses, mas apenas obra das mãos dos homens e que neles nada é obra de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "46"
+          ],
+          "notes": {
+            "46": "Este é mais um rótulo bíblico clássico para designar os ídolos (Dt 4,28; 2Rs 19,18; Sl 115,4; 135,15; Sb 13,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "46",
+              "id": "br-6-n46",
+              "offset": 212,
+              "original_marker": "c",
+              "source_id": 163
+            }
+          ]
         },
         {
           "verse": 51,
@@ -997,7 +3192,21 @@
         {
           "verse": 53,
           "text": "nunca poderão defender a sua própria causa ou livrar alguém que foi injustiçado, porque são incapazes de o fazer; são como os corvos entre o céu e a terra.",
-          "note_refs": []
+          "note_refs": [
+            "47"
+          ],
+          "notes": {
+            "47": "De o fazer."
+          },
+          "note_positions": [
+            {
+              "ref": "47",
+              "id": "br-6-n47",
+              "offset": 112,
+              "original_marker": "d",
+              "source_id": 164
+            }
+          ]
         },
         {
           "verse": 54,
@@ -1022,12 +3231,40 @@
         {
           "verse": 58,
           "text": "Por isso, mais vale um rei que mostra a sua valentia ou um objeto útil em casa, que o seu dono pode usar, do que esses deuses falsos; mais vale a porta de uma casa, que salvaguarda as coisas que lá estão dentro, do que esses deuses falsos; mais vale um pilar de madeira nos palácios do que esses deuses falsos.",
-          "note_refs": []
+          "note_refs": [
+            "48"
+          ],
+          "notes": {
+            "48": "Mais vale é acrescento da tradução, tal como no final do v."
+          },
+          "note_positions": [
+            {
+              "ref": "48",
+              "id": "br-6-n48",
+              "offset": 143,
+              "original_marker": "e",
+              "source_id": 165
+            }
+          ]
         },
         {
           "verse": 59,
           "text": "O Sol, a Lua e as estrelas brilham e, quando são enviados a responder a uma necessidade, são obedientes.",
-          "note_refs": []
+          "note_refs": [
+            "49"
+          ],
+          "notes": {
+            "49": "Lit.: enviadas sobre necessidade."
+          },
+          "note_positions": [
+            {
+              "ref": "49",
+              "id": "br-6-n49",
+              "offset": 87,
+              "original_marker": "f",
+              "source_id": 166
+            }
+          ]
         },
         {
           "verse": 60,
@@ -1042,7 +3279,21 @@
         {
           "verse": 62,
           "text": "Mas esses tais deuses não se comparam a estas coisas, nem na forma, nem no poder.",
-          "note_refs": []
+          "note_refs": [
+            "50"
+          ],
+          "notes": {
+            "50": "Lit.: coisas."
+          },
+          "note_positions": [
+            {
+              "ref": "50",
+              "id": "br-6-n50",
+              "offset": 21,
+              "original_marker": "g",
+              "source_id": 167
+            }
+          ]
         },
         {
           "verse": 63,
@@ -1067,12 +3318,40 @@
         {
           "verse": 67,
           "text": "Até os animais são melhores do que eles, pois, quando fogem para um abrigo, mostram que se podem ajudar a si mesmos.",
-          "note_refs": []
+          "note_refs": [
+            "51"
+          ],
+          "notes": {
+            "51": "Lit.: que podem, fugindo para abrigo, ajudar-se a si mesmos."
+          },
+          "note_positions": [
+            {
+              "ref": "51",
+              "id": "br-6-n51",
+              "offset": 115,
+              "original_marker": "h",
+              "source_id": 168
+            }
+          ]
         },
         {
           "verse": 68,
           "text": "Não há, portanto, para nós qualquer evidência de que eles sejam deuses. Assim, não tenhais medo deles.",
-          "note_refs": []
+          "note_refs": [
+            "52"
+          ],
+          "notes": {
+            "52": "Lit.: por nenhum modo, portanto, é para nós evidente."
+          },
+          "note_positions": [
+            {
+              "ref": "52",
+              "id": "br-6-n52",
+              "offset": 45,
+              "original_marker": "i",
+              "source_id": 169
+            }
+          ]
         },
         {
           "verse": 69,
@@ -1087,11 +3366,60 @@
         {
           "verse": 71,
           "text": "Ao ver como a púrpura e o linho apodrecem sobre eles, chegareis à conclusão de que não são deuses. Por fim, eles próprios serão carcomidos e serão uma ignomínia na sua terra.",
-          "note_refs": []
+          "note_refs": [
+            "53",
+            "54"
+          ],
+          "notes": {
+            "53": "Lit.: mármore, de difícil interpretação na frase. É provável que se trate de uma tradução incorreta do termo šeš, que, num eventual original semítico, tanto poderia significar linho como mármore.",
+            "54": "Lit.: a partir da púrpura e do mármore que apodrece sobre eles."
+          },
+          "note_positions": [
+            {
+              "ref": "53",
+              "id": "br-6-n53",
+              "offset": 41,
+              "original_marker": "j",
+              "source_id": 170
+            },
+            {
+              "ref": "54",
+              "id": "br-6-n54",
+              "offset": 52,
+              "original_marker": "k",
+              "source_id": 171
+            }
+          ]
         },
         {
           "verse": 72,
           "text": "Quem está bem é o homem justo, que não tem ídolos: este estará a salvo da desonra.",
+          "note_refs": [
+            "55"
+          ],
+          "notes": {
+            "55": "Lit.: melhor, pois, homem justo não tendo ídolos, pois está longe de desonra."
+          },
+          "note_positions": [
+            {
+              "ref": "55",
+              "id": "br-6-n55",
+              "offset": 81,
+              "original_marker": "l",
+              "source_id": 172
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "CARTA DE JEREMIAS",
+          "note_refs": []
+        },
+        {
+          "before_verse": 0,
+          "text": "Insignificância e inutilidade da idolatria",
           "note_refs": []
         }
       ]

@@ -1,5 +1,54 @@
 {
+  "schema_version": 2,
   "book": "Amós",
+  "book_id": "am",
+  "source": {
+    "format": "docx",
+    "file": "37_Am.docx",
+    "title": "Amós"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Amós e o seu tempo",
+        "paragraphs": [
+          "Nada se sabe sobre o nascimento ou a morte de Amós. Os únicos dados sobre ele vêm exclusivamente neste livro (1,1; 7,14) e referem apenas a sua origem e a sua profissão. O ambiente sócio-religioso de Amós é cheio de contradições: prosperidade económica e estabilidade política, por um lado; desigualdades sociais e injustiças, paganismo e corrupção religiosa, por outro. Ele prega no Reino do Norte (Israel), independente de Judá, depois da morte de Salomão (931 a. C.) e governado, entre 789 a 748, pelo rei Jeroboão II, filho de Joás, que conseguiu expandir o seu reino desde os planaltos de Beká, no Líbano, até ao mar Morto. Jeroboão conseguiu uma prosperidade sem precedentes. Os palácios reais e os dos grandes senhores eram revestidos de marfim e ébano e nos santuários a prata acentuava o fausto das peregrinações e o esplendor da liturgia.",
+          "Porém, esta prosperidade e bem-estar não beneficiavam todas as camadas sociais. A sociedade registava grandes injustiças e acentuavam-se os contrastes entre ricos e pobres. Os ricos e comerciantes aproveitavam-se da fiança dada aos pobres para aumentar as suas riquezas e propriedades. Falsificavam pesos e medidas, recorriam a artimanhas e subornavam os juízes, tornando insuportável a vida dos pobres.",
+          "Em muitos santuários praticavam-se cultos pagãos de fertilidade com práticas de prostituição sagrada. Noutros, a religião tinha apenas a função negativa de apaziguar a divindade com ritos e sacrifícios, para garantir tranquilidade e bem-estar. A interpretação errada dos benefícios de Deus no passado (eleição, libertação do Egito, aliança no Sinai), alimentava sentimentos de segurança e superioridade, em vez de gratidão e generosidade. A aliança com Deus não passava de letra morta, recordada nas celebrações litúrgicas, mas sem impacto na vida real. Mesmo assim, o povo aguardava que o «dia do Senhor» fosse uma intervenção maravilhosa de Deus em favor de Israel, para o cumular de benefícios e o colocar à frente dos outros povos."
+        ]
+      },
+      {
+        "title": "Estilo e géneros literários",
+        "paragraphs": [
+          "O livro de Amós apresenta um estilo homogéneo e géneros literários bem inseridos na estrutura do livro. Só nas visões o profeta fala em primeira pessoa. Os textos atribuídos ao Senhor são os oráculos contra as nações (cc. 1-2), introduzidos pela fórmula «Assim diz o Senhor» (1,3.6.9.11.13; 2,1.4.6; cf. 3,12). Nestes, o profeta desaparece de cena e dá lugar ao oráculo divino. Mesmo 4,6-12 é um discurso divino do qual o profeta não faz parte, nem sequer para o introduzir. Em certos textos, a fórmula de anúncio introduz o discurso divino, ou então integra-se plenamente no discurso profético, não como uma palavra paralela, mas como uma confirmação da autoridade divina, com a qual o profeta sustenta a sua formulação. É o caso de 3,11: «Assim diz o Senhor Deus» ou com uma mais completa, em 5,16: «Assim",
+          "diz o Senhor Deus dos exércitos, meu Senhor». A fórmula «oráculo do Senhor» (4,3), oráculo do Senhor Deus» (4,5), pode ser usada pelo profeta para conferir autoridade à sua palavra.",
+          "O discurso profético de Amós é constituído por exortações, ameaças ou lamentações, endereçadas a um grupo e introduzidas na maior parte das vezes pelo imperativo plural (3,1.13; 4,1.4; 5,1.6.14.15; 8,4). Os anúncios de punição às vezes aparecem em forma de juramento divino (4,2; 6,8; 8,7). Existem também discursos proféticos com colorido sapiencial (3,1-8.12; 5,13) e ensinamentos transmitidos através de metáfora (5,19; 6,9-10) bem como três doxologias (4,13; 5,7.8-9; 9,5-6)."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "O livro de Amós apresenta três grandes secções: os oráculos contra as nações estrangeiras e contra Judá e Israel (1,3-2,16); os oráculos contra Israel/Samaria e respetivas autoridades (3-6); as cinco visões, anunciando o fim da nação culpada. Tais visões são acompanhadas pelas palavras do profeta e a narração do encontro com o sacerdote Amasias de Betel (7,1-9,10). Uma introdução (1,1-2 dá-nos o quadro histórico e anuncia o tema e uma conclusão (9,11-15) anuncia a restauração do reino davídico e a sua felicidade futura.",
+          "No c. 5, concentram-se alguns dos temas mais interessantes deste profeta: a denúncia da iniquidade que reina no governo de Jeroboão II (5,7.10-17); a interpretação do «dia do Senhor» que, em oposição à esperança tradicional dos seus interlocutores, se torna em dia de trevas e não de luz, dia de desgraça e não de felicidade (5,18-20); a rejeição do culto praticado pelos israelitas (5,21-27)."
+        ]
+      },
+      {
+        "title": "Grandes temas",
+        "paragraphs": [
+          "O leitor de Amós fica impressionado pela dureza para com os israelitas. A diatribe é contra o reinado de Jeroboão II e os seus súbditos, predizendo os piores castigos. Amós mostra um Deus irritado com o povo e disposto a eliminar os rebeldes. As razões são várias: o luxo, as injustiças e a vida abastada da classe alta que se manifesta sobretudo nos palácios e numa forma de vida que acaba por criar um profundo abismo entre eles (casa de Israel, cf. 4,1-3 e 6,4-6) e a restante população, na qual se incluem pobres, necessitados e inocentes. As riquezas são obtidas «oprimindo os pobres e maltratando os indigentes» (4,1), «desprezando o pobre e exigindo-lhe o pagamento da taxa de trigo» (5,11), vendendo pessoas inocentes como escravas (2,6), falseando as medidas e aumentando os preços (8,5b). Desprezam o direito e não fazem caso da justiça. Os juízes são subornados e a causa do pobre não passa nos tribunais. Amós denuncia ainda a hipocrisia do culto desmentido na prática (5,21-27), porque eles pensam que a injustiça, a desigualdade social e a opressão são compatíveis com a prática religiosa. O Senhor não quer oferendas, holocaustos e cânticos, mas sim direito e justiça (5,21-24).",
+          "O povo pensa que pode viver tranquilo, porque nada lhe acontecerá de mal, uma vez que é «o povo do Senhor», libertado por ele do Egito (3,1) e escolhido de entre todas as tribos da terra. É um povo privilegiado que espera pelo «dia do Senhor» como um dia de felicidade, de luz e esplendor. Amós mostra-lhes, ao contrário, que os privilégios do passado se converterão em acusação e causa de castigo (3,2)."
+        ]
+      },
+      {
+        "title": "A questão do autor",
+        "paragraphs": [
+          "O profeta Amós teria sido um pastor e cultivador de sicómoros. Contudo, o redator final deste livro mostra grande inteligência, cultura e conhecimento da história de Israel e dos povos vizinhos, da situação da casa real, das cerimónias e normas do culto em Betel e noutros santuários. O seu à vontade com personalidades importantes do país, as suas informações sobre a organização do exército e os costumes da deportação, os conhecimentos sobre a teologia, os costumes dos nazireus e profetas, sobre as leis dos pastores bem como a forma de encarar os problemas e de os resolver de forma radical, tudo dá a entender que se trata de uma figura culta, capaz de julgar o conjunto da vida e das instituições do Reino do Norte. Um tal redator final poderá ter-se servido das palavras e do pensamento do profeta de Técua, desenvolvendo-os ao seu modo.",
+          "Hoje, parece, realmente, mais adequado falar dos profetas como figuras de forte personalidade, com dons especiais de pensamento e de expressão, que participaram na vida da comunidade e das instituições, sem medo de isolamento nem de incompreensão. Entretanto, o responsável pela forma final de um livro pode ser uma personalidade individual a quem se atribui o título de autor ou redator final."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,17 +56,63 @@
         {
           "verse": 1,
           "text": "Palavras de Amós, que era um dos criadores de gado de Técua, do que ele viu sobre Israel nos dias de Uzias, rei de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terramoto.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Amós não é apenas pastor, mas criador e, portanto, proprietário de rebanho (cf. 2Rs 3,4). Técua é uma pequena cidade de Judá, situada a 9 km a sudeste de Belém.",
+            "2": "Este terramoto terá ocorrido por volta de 750 a.C. O seu eco persistiu na memória e são-lhe feitas alusões neste e noutros livros da Bíblia (4,14; 6,8-11; 8,8; 9,1; Zc 14,5)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "am-1-n1",
+              "offset": 59,
+              "original_marker": "a",
+              "source_id": 1
+            },
+            {
+              "ref": "2",
+              "id": "am-1-n2",
+              "offset": 203,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "Dizia ele: «O rugirá de Sião, de Jerusalém erguerá a sua voz; murcharão as pastagens dos pastores e secará o cimo do Carmelo».",
+          "text": "Dizia ele: «O SENHOR rugirá de Sião, de Jerusalém erguerá a sua voz; murcharão as pastagens dos pastores e secará o cimo do Carmelo».",
           "note_refs": []
         },
         {
           "verse": 3,
-          "text": "Assim diz o: «Por três crimes de Damasco e por quatro não revogarei a sentença, porque esmagaram Guilead com grades de ferro.",
-          "note_refs": []
+          "text": "Assim diz o SENHOR: «Por três crimes de Damasco e por quatro não revogarei a sentença, porque esmagaram Guilead com grades de ferro.",
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Os dois números consecutivos designam uma quantidade indeterminada, pequena ou grande de acordo com o contexto (cf. 4,8; Is 17,6; Jr 36,23; ver também Pr 30,15ss).",
+            "5": "Lit.: não o revogarei. Esta declaração característica de um juiz refere-se à ameaça implícita; é uma expressão que Amos repete à maneira de refrão nos oráculos dos cc. 1-2."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "am-1-n4",
+              "offset": 60,
+              "original_marker": "d",
+              "source_id": 4
+            },
+            {
+              "ref": "5",
+              "id": "am-1-n5",
+              "offset": 85,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 4,
@@ -26,12 +121,44 @@
         },
         {
           "verse": 5,
-          "text": "quebrarei o ferrolho de Damasco; e exterminarei aquele que se senta no trono de Bicat-Áven, e de Bet-Éden, aquele que detém o cetro e os do povo de Aram irão para o exílio, em Quir», diz o.",
-          "note_refs": []
+          "text": "quebrarei o ferrolho de Damasco; e exterminarei aquele que se senta no trono de Bicat-Áven, e de Bet-Éden, aquele que detém o cetro e os do povo de Aram irão para o exílio, em Quir», diz o SENHOR.",
+          "note_refs": [
+            "6",
+            "7",
+            "8"
+          ],
+          "notes": {
+            "6": "Ou: os fugitivos de...",
+            "7": "«Bicat-Áven» (“planície da iniquidade”) e «Bet-Éden» (“casa do prazer”), podendo tratar-se de regões a ocidente e a noroeste de Damasco, é possível que sejam apenas nomes simbólicos para Damasco.",
+            "8": "Paradoxalmente, estes arameus estão a ser ameaçados com o exílio para o lugar de onde são originários (cf. 9,7)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "am-1-n6",
+              "offset": 20,
+              "original_marker": "f",
+              "source_id": 6
+            },
+            {
+              "ref": "7",
+              "id": "am-1-n7",
+              "offset": 90,
+              "original_marker": "g",
+              "source_id": 7
+            },
+            {
+              "ref": "8",
+              "id": "am-1-n8",
+              "offset": 181,
+              "original_marker": "h",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "Assim diz o: «Por três crimes de Gaza e por quatro não revogarei a sentença, por terem imposto o exílio completo ao povo, para o entregar a Edom.",
+          "text": "Assim diz o SENHOR: «Por três crimes de Gaza e por quatro não revogarei a sentença, por terem imposto o exílio completo ao povo, para o entregar a Edom.",
           "note_refs": []
         },
         {
@@ -41,13 +168,41 @@
         },
         {
           "verse": 8,
-          "text": "Exterminarei de Asdod aquele que se senta no trono e de Ascalon aquele que segura o ceptro. Voltarei a minha mão contra Ecron e perecerá o resto dos filisteus», diz o Senhor, sim, o!",
-          "note_refs": []
+          "text": "Exterminarei de Asdod aquele que se senta no trono e de Ascalon aquele que segura o ceptro. Voltarei a minha mão contra Ecron e perecerá o resto dos filisteus», diz o Senhor, sim, o SENHOR!",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Ou: os habitantes..."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "am-1-n9",
+              "offset": 50,
+              "original_marker": "i",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "Assim diz o: «Por três crimes de Tiro e por quatro não revogarei a sentença, por entregarem a Edom populações inteiras, e não se recordarem da aliança de irmãos.",
-          "note_refs": []
+          "text": "Assim diz o SENHOR: «Por três crimes de Tiro e por quatro não revogarei a sentença, por entregarem a Edom populações inteiras, e não se recordarem da aliança de irmãos.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Tratar-se-á provavelmente de relações de amizade existentes entre Tiro e Israel, desde Salomão (1Rs 5,26 e 9,13 onde Hiram de Tiro chama a Salomão de seu “irmão”) ou mesmo entre Tiro o vizinho reino do Norte, onde Amós atuava."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "am-1-n10",
+              "offset": 167,
+              "original_marker": "j",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 10,
@@ -56,27 +211,125 @@
         },
         {
           "verse": 11,
-          "text": "Assim diz o: «Por três crimes de Edom e por quatro, não revogarei a sentença, porque perseguiu à espada o seu irmão e recusou ter compaixão dele; porque a sua cólera despedaça continuamente, e conserva a sua ira para sempre.",
-          "note_refs": []
+          "text": "Assim diz o SENHOR: «Por três crimes de Edom e por quatro, não revogarei a sentença, porque perseguiu à espada o seu irmão e recusou ter compaixão dele; porque a sua cólera despedaça continuamente, e conserva a sua ira para sempre.",
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Edom-Esaú, “irmão gémeo” de Jacob-Israel (Gn 25,21-24. 29-30). Um tenaz rancor familiar sempre manteve em oposição os dois povos que parecem ter laços de profundo parentesco.."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "am-1-n11",
+              "offset": 122,
+              "original_marker": "k",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Lançarei fogo contra Teman e ele devorará as fortalezas de Bosra.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Teman e Bosra eram as residências dos chefes de Edom, a sudeste do Mar Morto (cf. Gn 36,15; Jr 49,7.13; Hb 9)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "am-1-n12",
+              "offset": 64,
+              "original_marker": "l",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 13,
-          "text": "Assim diz o: «Por três crimes dos filhos de Amon e por quatro não revogarei a sentença, por abrirem o ventre das grávidas de Guilead para alargar as suas próprias fronteiras.",
+          "text": "Assim diz o SENHOR: «Por três crimes dos filhos de Amon e por quatro não revogarei a sentença, por abrirem o ventre das grávidas de Guilead para alargar as suas próprias fronteiras.",
           "note_refs": []
         },
         {
           "verse": 14,
           "text": "Atearei fogo às muralhas de Rabá e ele devorará os seus palácios no meio da gritaria de um dia de batalha, no furacão de um dia de tempestade.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Rabá é a cidade principal, a capital e residência dos reis de Amon, um povo descendente de Lot (2S 11-12). O nome conserva-se ainda hoje no de Amã, capital da Jordânia."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "am-1-n13",
+              "offset": 32,
+              "original_marker": "a",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "O seu rei irá para o exílio, ele e os seus príncipes com ele», diz o.",
+          "text": "O seu rei irá para o exílio, ele e os seus príncipes com ele», diz o SENHOR.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Título",
+          "note_refs": []
+        },
+        {
+          "before_verse": 2,
+          "text": "Prólogo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "Oráculos contra as nações e contra Judá e Israel (1,3-2,16)",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Esta secção é composta de sete oráculos contra as nações circunvizinhas, segundo um esquema fixo, que preparam o oitavo oráculo contra Israel. Tal esquema inclui o provérbio numérico «três-quatro», o carácter irrevogável da sentença, a menção do crime cometido e o anúncio do castigo: destruição das fortalezas da cidade culpada."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "am-1-n3",
+              "offset": 59,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
+        },
+        {
+          "before_verse": 3,
+          "text": "Contra Damasco",
+          "note_refs": []
+        },
+        {
+          "before_verse": 6,
+          "text": "Contra Gaza e a Filisteia",
+          "note_refs": []
+        },
+        {
+          "before_verse": 9,
+          "text": "Contra Tiro e a Fenícia",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Contra Edom",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "Contra Amon",
           "note_refs": []
         }
       ]
@@ -86,38 +339,163 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Assim diz o: «Por três crimes de Moab e por quatro não revogarei a sentença, por ter queimado os ossos do rei de Edom até ficarem em cal.",
-          "note_refs": []
+          "text": "Assim diz o SENHOR: «Por três crimes de Moab e por quatro não revogarei a sentença, por ter queimado os ossos do rei de Edom até ficarem em cal.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A incineração para os semitas era um crime abominável porque torna a alma infeliz na outra vida."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "am-2-n1",
+              "offset": 124,
+              "original_marker": "b",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Lançarei fogo contra Moab e devorará os palácios de Queriot. Moab morrerá no tumulto, entre gritos de guerra, ao som da trombeta.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: do chofar, chifre de carneiro ou de antílope."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "am-2-n2",
+              "offset": 128,
+              "original_marker": "c",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Exterminarei o juiz do seu meio e, com ele, matarei todos os seus príncipes», diz o.",
-          "note_refs": []
+          "text": "Exterminarei o juiz do seu meio e, com ele, matarei todos os seus príncipes», diz o SENHOR.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Juiz é o termo técnico de sabor algo antigo, usado para um governante ou um rei, como acontece no livro dos Juízes, onde os chefes se chamam justamente juízes."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "am-2-n3",
+              "offset": 19,
+              "original_marker": "d",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "Assim diz o: «Por três crimes de Judá e por quatro não revogarei a sentença, por rejeitarem a lei do e não guardarem os seus decretos. Os seus deuses de mentira desviaram-nos, aqueles atrás dos quais correram os seus pais.",
-          "note_refs": []
+          "text": "Assim diz o SENHOR: «Por três crimes de Judá e por quatro não revogarei a sentença, por rejeitarem a lei do SENHOR e não guardarem os seus decretos. Os seus deuses de mentira desviaram-nos, aqueles atrás dos quais correram os seus pais.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: As suas mentiras."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "am-2-n4",
+              "offset": 174,
+              "original_marker": "e",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Lançarei fogo contra Judá e devorará as fortalezas de Jerusalém».",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Judá sofre a mesma condenação das outras nações, mas por delitos de outro género: a recusa da lei, isto é, a rutura da aliança e o desprezo dos seus ensinamentos."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "am-2-n5",
+              "offset": 64,
+              "original_marker": "f",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "Assim diz o: «Por três crimes de Israel e por quatro não revogarei a sentença, porque eles venderam o inocente por dinheiro e o indigente por um par de sandálias.",
-          "note_refs": []
+          "text": "Assim diz o SENHOR: «Por três crimes de Israel e por quatro não revogarei a sentença, porque eles venderam o inocente por dinheiro e o indigente por um par de sandálias.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Israel é acusado pela sua ganância, sobretudo nos tribunais. A sandália pode estar a aludir a um rito de transação no qual se vendia um inocente, salvando-se as aparências do direito (cf. Rt 4,2)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "am-2-n6",
+              "offset": 168,
+              "original_marker": "g",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Esmagam no pó da terra a cabeça dos pobres e distorcem o processo dos humildes, o filho e o pai vão à mesma jovem, profanando assim o meu santo nome.",
-          "note_refs": []
+          "note_refs": [
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "notes": {
+            "7": "Cf. Js 7,6; Ne 9,1; Ap 18,19). Eles esmagam, tomando a raiz sha’ap como uma forma da raiz shûp, em vez da raiz mais corrente sha’ap, que significa “aspirar”, “ser ávido de”.",
+            "8": "Lit.: caminho. derek (caminho) também pode ter o sentido de “comportamento, vida, destino”, o qual com o verbo nth (desviar) poderia dar ao texto um sentido moral: «desviar o caminho». Mas parece de manter o contexto de denúncia social de Amós. O profeta denuncia a maldade de viciar o processo dos pobres nos tribunais.",
+            "9": "Parece tratar-se aqui do abuso de pai e filho manterem relações sexuais com uma escrava da casa. O profeta denuncia isso como uma degradação.",
+            "10": "Os atos contrários à justiça social e que ferem a dignidade humana ofendem a própria pessoa de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "am-2-n7",
+              "offset": 42,
+              "original_marker": "h",
+              "source_id": 20
+            },
+            {
+              "ref": "8",
+              "id": "am-2-n8",
+              "offset": 65,
+              "original_marker": "i",
+              "source_id": 21
+            },
+            {
+              "ref": "9",
+              "id": "am-2-n9",
+              "offset": 113,
+              "original_marker": "j",
+              "source_id": 22
+            },
+            {
+              "ref": "10",
+              "id": "am-2-n10",
+              "offset": 149,
+              "original_marker": "k",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 8,
@@ -127,7 +505,30 @@
         {
           "verse": 9,
           "text": "E, contudo, fui Eu que destruí da frente deles o amorreu, que era alto como os cedros e forte como os carvalhos. Destruí o seu fruto, por cima, e as suas raízes, por baixo.",
-          "note_refs": []
+          "note_refs": [
+            "11",
+            "12"
+          ],
+          "notes": {
+            "11": "A partir do v. 9 até ao fim do c., o texto tem a forma de uma interpelação solene, expressa na oposição Eu-eles, Eu-vós, expressa nos termos da proclamação da aliança (cf. Ex 20,20; 34,5-6; Js 24, 2-13).",
+            "12": "Os amorreus aparecem aqui como únicos representantes da população de Canaã."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "am-2-n11",
+              "offset": 18,
+              "original_marker": "l",
+              "source_id": 24
+            },
+            {
+              "ref": "12",
+              "id": "am-2-n12",
+              "offset": 56,
+              "original_marker": "m",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 10,
@@ -136,13 +537,41 @@
         },
         {
           "verse": 11,
-          "text": "Suscitarei profetas entre os vossos filhos e nazireus entre os vossos jovens. Não foi, de facto, assim, filhos de Israel?», oráculo do.",
-          "note_refs": []
+          "text": "Suscitarei profetas entre os vossos filhos e nazireus entre os vossos jovens. Não foi, de facto, assim, filhos de Israel?», oráculo do SENHOR.",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Nazireu era uma pessoa que assumia, por devoção, cumprir certas regras de vida, como não beber vinho (cf. Nm 1,21).."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "am-2-n13",
+              "offset": 53,
+              "original_marker": "a",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "«Mas vós destes a beber vinho aos nazireus, e contra os profetas destes ordens, dizendo: “não profetizeis!”",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Enquanto os nazireus e os profetas procuram ser fiéis à sua missão, o povo tenta a todo o custo corrompê-los ou impedi-los."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "am-2-n14",
+              "offset": 107,
+              "original_marker": "b",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 13,
@@ -161,7 +590,24 @@
         },
         {
           "verse": 16,
-          "text": "E até o mais valente entre os guerreiros terá de fugir nu naquele dia», oráculo do.",
+          "text": "E até o mais valente entre os guerreiros terá de fugir nu naquele dia», oráculo do SENHOR.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Contra Moab",
+          "note_refs": []
+        },
+        {
+          "before_verse": 4,
+          "text": "Contra Judá",
+          "note_refs": []
+        },
+        {
+          "before_verse": 6,
+          "text": "Contra Israel",
           "note_refs": []
         }
       ]
@@ -171,13 +617,50 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Ouvi esta palavra que o pronunciou contra vós, filhos de Israel, contra toda a família que fiz subir da terra do Egito, dizendo: «De todas as famílias da terra, só a vós eu conheci.",
-          "note_refs": []
+          "text": "Ouvi esta palavra que o SENHOR pronunciou contra vós, filhos de Israel, contra toda a família que fiz subir da terra do Egito, dizendo: «De todas as famílias da terra, só a vós eu conheci.",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Este versículo, na sua última parte, parece ser uma releitura da profecia de Amós aplicada ao reino de Judá, depois de ter desaparecido o reino de Israel, visto que parece dirigir-se às doze tribos de Israel.",
+            "2": "“Conhecer” é tomado no sentido bíblico: “escolher, discernir, amar” (Gn 28,19; Dt 9,24; Sb 10,5; Os 13,4). Aqui, caracteriza a relação criada pela libertação do Egito, quando o Senhor escolheu definitivamente Israel para ser seu povo (cf. Am 9,7; Ex 19,5; Dt 7,7-8; Rm 8,29)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "am-3-n1",
+              "offset": 125,
+              "original_marker": "c",
+              "source_id": 28
+            },
+            {
+              "ref": "2",
+              "id": "am-3-n2",
+              "offset": 187,
+              "original_marker": "d",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Por isso vos punirei por todas as vossas iniquidades».",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O verbo paqad pode significar punir, pedir contas ou exigir responsabilidades, sentido que se aplica neste caso, como também significa intervir em favor de, abençoar (cf. Ex 3,16; Rt 1,6). Aqui a intervenção de Deus visa pedir contas e unir."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "am-3-n3",
+              "offset": 20,
+              "original_marker": "e",
+              "source_id": 30
+            }
+          ]
         },
         {
           "verse": 3,
@@ -196,52 +679,162 @@
         },
         {
           "verse": 6,
-          "text": "Se soa a trombeta na cidade, as pessoas não ficarão alarmadas? Poderá acontecer algum mal na cidade, sem que o o tenha causado?",
+          "text": "Se soa a trombeta na cidade, as pessoas não ficarão alarmadas? Poderá acontecer algum mal na cidade, sem que o SENHOR o tenha causado?",
           "note_refs": []
         },
         {
           "verse": 7,
-          "text": "Porque o Senhor, o não faz coisa alguma sem revelar o seu segredo aos seus servos, os profetas.",
-          "note_refs": []
+          "text": "Porque o Senhor, o SENHOR não faz coisa alguma sem revelar o seu segredo aos seus servos, os profetas.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Deus delibera em segredo consigo mesmo, antes de agir (Jr 23,18; Jb 15,8), mas inclui os profetas como seus confidentes (Jr 23,22). Estes sabem, com antecedência, quais são os pensamentos e os desígnios de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "am-3-n4",
+              "offset": 101,
+              "original_marker": "f",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Rugiu o leão, quem não temerá? E se o Senhor, o próprio falou, quem não profetizará?",
-          "note_refs": []
+          "text": "Rugiu o leão, quem não temerá? E se o Senhor, o próprio SENHOR falou, quem não profetizará?",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O verbo falar designa qualquer intervenção reveladora vinda de Deus: um acontecimento histórico pode ser uma palavra de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "am-3-n5",
+              "offset": 68,
+              "original_marker": "g",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Proclamai sobre os palácios, em Asdod; sobre os palácios, na terra do Egito e dizei: «Juntai-vos sobre as montanhas da Samaria, vede as grandes desordens no seu seio, as opressões no meio dela!",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Asdod dos filisteus e o Egito, os dois grandes inimigos de Israel são convocados a testemunhar o volume de injustiças e violência que reinam na Samaria."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "am-3-n6",
+              "offset": 75,
+              "original_marker": "h",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "Os que entesouram violência e corrupção nos seus palácios; não sabem agir a direito», oráculo do.",
+          "text": "Os que entesouram violência e corrupção nos seus palácios; não sabem agir a direito», oráculo do SENHOR.",
           "note_refs": []
         },
         {
           "verse": 11,
-          "text": "Por isso, assim diz o Senhor, o próprio: «Um inimigo cercará o país, deitando abaixo o que em ti constituía o teu poder; e os teus palácios serão saqueados».",
-          "note_refs": []
+          "text": "Por isso, assim diz o Senhor, o próprio SENHOR: «Um inimigo cercará o país, deitando abaixo o que em ti constituía o teu poder; e os teus palácios serão saqueados».",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "O inimigo de que aqui fala é, sem dúvida, a Assíria, cujo poder prevalecia naquele tempo."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "am-3-n7",
+              "offset": 74,
+              "original_marker": "i",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "Assim diz o: «Tal como o pastor resgata da boca do leão duas patas ou um pedaço de orelha, assim serão resgatados os filhos de Israel, que habitam na Samaria, no canto de um leito e num divã de Damasco».",
-          "note_refs": []
+          "text": "Assim diz o SENHOR: «Tal como o pastor resgata da boca do leão duas patas ou um pedaço de orelha, assim serão resgatados os filhos de Israel, que habitam na Samaria, no canto de um leito e num divã de Damasco».",
+          "note_refs": [
+            "8",
+            "9"
+          ],
+          "notes": {
+            "8": "Não se trata de um pequeno resto de redimidos; Amós quer dizer que, se alguma salvação houver, o que vai sobrar serão alguns bocados, para dar testemunho da inocência e do empenho do pastor.",
+            "9": "Lit.: sobre o damasco de um divã. O termo demésheq é enigmático e parece evocar o conforto luxuoso ou um tecido de luxo. Alguns interpretam como um leito especial, característico de Damasco; outros, como a parte confortável do leito (cf. 6,4)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "am-3-n8",
+              "offset": 140,
+              "original_marker": "a",
+              "source_id": 35
+            },
+            {
+              "ref": "9",
+              "id": "am-3-n9",
+              "offset": 209,
+              "original_marker": "b",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 13,
-          "text": "«Escutai e testemunhai contra a casa de Jacob», oráculo do Senhor, do, Deus dos exércitos:",
+          "text": "«Escutai e testemunhai contra a casa de Jacob», oráculo do Senhor, do SENHOR, Deus dos exércitos:",
           "note_refs": []
         },
         {
           "verse": 14,
           "text": "«No dia em que Eu pedir contas por causa dos crimes de Israel, também pedirei contas por causa dos altares de Betel. As hastes do altar serão despedaçadas e cairão por terra.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "As hastes ou chifres são os cantos elevados do altar (Ex 7,1-2; Ez 43,15), considerados a parte mais sagrada do mesmo (Lv 16,18)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "am-3-n10",
+              "offset": 173,
+              "original_marker": "c",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "Derrubarei a casa de inverno juntamente com a casa de verão. As casas de marfim serão arruinadas, desaparecerão as grandes mansões», oráculo do.",
+          "text": "Derrubarei a casa de inverno juntamente com a casa de verão. As casas de marfim serão arruinadas, desaparecerão as grandes mansões», oráculo do SENHOR.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Oráculos contra Israel e Samaria",
+          "note_refs": []
+        },
+        {
+          "before_verse": 9,
+          "text": "Contra a Samaria e os grandes",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "Contra Betel",
           "note_refs": []
         }
       ]
@@ -252,32 +845,120 @@
         {
           "verse": 1,
           "text": "Escutai esta palavra, ó vacas de Basã, que estais na montanha de Samaria, que oprimis os fracos e maltratais os indigentes e dizeis aos vossos senhores: «Traz e bebamos».",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Basan era famosa pelas suas luxuriantes pastagens e seus rebanhos (Dt 32,14; Ez 39,18; Sl 22,13). No Sl 22,13 os touros ou vacas de Basan são símbolo da força violenta; dos que vivem no fausto e no bem-estar.",
+            "2": "Lit.: … aos seus senhores. O sufixo masculino de ‘seus senhores’ faz pensar que a metáfora das vacas não se refere propriamente às mulheres, mas aos governantes e poderosos da Samaria. Aplicando a metáfora às mulheres, alguns interpretam esta frase: ‘e dizem aos seus maridos’."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "am-4-n1",
+              "offset": 37,
+              "original_marker": "d",
+              "source_id": 38
+            },
+            {
+              "ref": "2",
+              "id": "am-4-n2",
+              "offset": 151,
+              "original_marker": "e",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "O Senhor, o próprio jurou pela sua santidade: «Eis que sobre vós virão dias em que vos arrastarão com ganchos; e com arpões de pesca, os que vêm depois de vós.",
-          "note_refs": []
+          "text": "O Senhor, o próprio SENHOR jurou pela sua santidade: «Eis que sobre vós virão dias em que vos arrastarão com ganchos; e com arpões de pesca, os que vêm depois de vós.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Na sequência do que foi dito em nota sobre 4,1, também aqui o hebraico oscila entre sufixos possessivos de masculino e de feminino. A questão de quem é visado na metáfora das vacas mantém-se. O mesmo acontece no v.3."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "am-4-n3",
+              "offset": 93,
+              "original_marker": "f",
+              "source_id": 40
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Saireis pelas brechas que cada uma tem diante de si e sereis atiradas para o Hermon», oráculo do.",
+          "text": "Saireis pelas brechas que cada uma tem diante de si e sereis atiradas para o Hermon», oráculo do SENHOR.",
           "note_refs": []
         },
         {
           "verse": 4,
           "text": "«Vinde a Betel e cometei crimes, a Guilgal e multiplicai os vossos crimes. Trazei cada manhã os vossos sacrifícios, e de três em três dias, os vossos dízimos.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Talvez se refira ao santuário de Guilgal da época de Josué, entre Jericó e o Jordão (Js 4,1), embora exista uma outra referência a Guilgal, ao norte de Betel (2Rs 2,1; 4,38)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "am-4-n4",
+              "offset": 42,
+              "original_marker": "g",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 5,
-          "text": "Queimai pão levedado como sacrifício de louvor, proclamai as vossas ofertas voluntárias, anunciai-as, porque é assim que gostais, filhos de Israel», oráculo do Senhor, do próprio!",
-          "note_refs": []
+          "text": "Queimai pão levedado como sacrifício de louvor, proclamai as vossas ofertas voluntárias, anunciai-as, porque é assim que gostais, filhos de Israel», oráculo do Senhor, do próprio SENHOR!",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "«Queimai», em concordância com os verbos anteriores também no plural. Contudo, o verbo está no singular, visando talvez especificamente o sacerdote encarregado desta função (cf. Lv 2,2.8-11). O crime referido consiste em oferecer pão com fermento, que é um ritual proibido."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "am-4-n5",
+              "offset": 7,
+              "original_marker": "h",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "«Eu mesmo vos deixei com os dentes limpos, em todas as vossas cidades, e com falta de pão em todos os vossos lugares, mas vós não voltastes para mim», oráculo do.",
-          "note_refs": []
+          "text": "«Eu mesmo vos deixei com os dentes limpos, em todas as vossas cidades, e com falta de pão em todos os vossos lugares, mas vós não voltastes para mim», oráculo do SENHOR.",
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Lit.: a limpeza dos dentes, que é uma imagem da penúria e fome.",
+            "7": "Vemos uma sequência de cinco estrofes (vv. 6-11) opondo a obra de Deus (eu) em favor do seu povo à resposta de Israel (vós). Os próprios castigos enviados por Deus eram sinais de benevolência e de chamamento. Mas o apelo não foi ouvido."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "am-4-n6",
+              "offset": 41,
+              "original_marker": "i",
+              "source_id": 43
+            },
+            {
+              "ref": "7",
+              "id": "am-4-n7",
+              "offset": 168,
+              "original_marker": "j",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 7,
@@ -286,23 +967,37 @@
         },
         {
           "verse": 8,
-          "text": "Duas ou três cidades vagueavam para outra cidade para beber água, mas não se saciavam e não voltaram para mim», oráculo do.",
+          "text": "Duas ou três cidades vagueavam para outra cidade para beber água, mas não se saciavam e não voltaram para mim», oráculo do SENHOR.",
           "note_refs": []
         },
         {
           "verse": 9,
-          "text": "«Atingi-vos com a ferrugem e o fungo. Os vossos numerosos jardins e vinhas, as vossas figueiras e oliveiras foram devoradas pela lagarta, mas não voltastes para mim», oráculo do.",
+          "text": "«Atingi-vos com a ferrugem e o fungo. Os vossos numerosos jardins e vinhas, as vossas figueiras e oliveiras foram devoradas pela lagarta, mas não voltastes para mim», oráculo do SENHOR.",
           "note_refs": []
         },
         {
           "verse": 10,
-          "text": "«Mandei contra vós uma peste como a do Egito, matei pela espada os vossos jovens, enquanto os vossos cavalos eram capturados; levei até às vossas narinas fiz subir em chamas os vossos acampamentos, mas não voltastes para mim», oráculo do.",
+          "text": "«Mandei contra vós uma peste como a do Egito, matei pela espada os vossos jovens, enquanto os vossos cavalos eram capturados; levei até às vossas narinas fiz subir em chamas os vossos acampamentos, mas não voltastes para mim», oráculo do SENHOR.",
           "note_refs": []
         },
         {
           "verse": 11,
-          "text": "«Fiz em vós uma destruição como a destruição terrível, que atingiu Sodoma e Gomorra e vós ficastes como tição retirado da fogueira, mas não voltastes para mim», oráculo do.",
-          "note_refs": []
+          "text": "«Fiz em vós uma destruição como a destruição terrível, que atingiu Sodoma e Gomorra e vós ficastes como tição retirado da fogueira, mas não voltastes para mim», oráculo do SENHOR.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "A expressão hebraica literal, destruição de Deus, é uma fórmula de superlativo que sublinha o alto grau de destruição provocada."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "am-4-n8",
+              "offset": 53,
+              "original_marker": "a",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 12,
@@ -311,7 +1006,29 @@
         },
         {
           "verse": 13,
-          "text": "Pois Ele é aquele que forma as montanhas e cria o vento, aquele que revela ao homem o seu desígnio, aquele que das trevas produz a aurora, aquele que caminha nas alturas da terra. O seu nome é o, Deus dos exércitos».",
+          "text": "Pois Ele é aquele que forma as montanhas e cria o vento, aquele que revela ao homem o seu desígnio, aquele que das trevas produz a aurora, aquele que caminha nas alturas da terra. O seu nome é o SENHOR, Deus dos exércitos».",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Contra os poderosos de Samaria",
+          "note_refs": []
+        },
+        {
+          "before_verse": 4,
+          "text": "Contra o culto de Betel e Guilgal",
+          "note_refs": []
+        },
+        {
+          "before_verse": 6,
+          "text": "Sinais da ação de Deus e impenitência de Israel",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "Doxologia",
           "note_refs": []
         }
       ]
@@ -321,33 +1038,112 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Ouvi esta palavra que Eu proclamo; é uma lamentação contra vós, ó casa de Israel:",
-          "note_refs": []
+          "text": "«Ouvi esta palavra que Eu proclamo; é uma lamentação contra vós, ó casa de Israel:",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Lit.: carrego contra vós. O verbo usado é o que origina o substantivo massa’, um oráculo de ameaça que, para o distinguir do oráculo, se traduz por proclamação.",
+            "2": "O profeta anuncia a ruína de Israel em forma de uma elegia fúnebre. Os vv. 1-3.16-17 são uma lamentação sobre Israel. Em 10-12 o profeta denuncia as injustiças cometidas na cidade e em 4-6.14 exorta a «procurar o Senhor»."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "am-5-n1",
+              "offset": 34,
+              "original_marker": "b",
+              "source_id": 46
+            },
+            {
+              "ref": "2",
+              "id": "am-5-n2",
+              "offset": 81,
+              "original_marker": "c",
+              "source_id": 47
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Está caída e não volta a erguer-se a virgem de Israel; está prostrada na sua própria terra, não há quem a levante».",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O povo é comparado a uma virgem destinada a tornar-se esposa e mãe. Israel morrerá nova e sem descendência – o que significa uma dupla desgraça."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "am-5-n3",
+              "offset": 53,
+              "original_marker": "d",
+              "source_id": 48
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Pois assim diz o Senhor, o próprio: «A cidade que saía com mil, deixará ficar apenas cem, aquela que saía com cem, deixará ficar apenas dez para a casa de Israel».",
+          "text": "Pois assim diz o Senhor, o próprio SENHOR: «A cidade que saía com mil, deixará ficar apenas cem, aquela que saía com cem, deixará ficar apenas dez para a casa de Israel».",
           "note_refs": []
         },
         {
           "verse": 4,
-          "text": "Pois assim diz o à casa de Israel: «Procurai-me e vivereis».",
-          "note_refs": []
+          "text": "Pois assim diz o SENHOR à casa de Israel: «Procurai-me e vivereis».",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Vivereis, isto é, recebereis de mim a vida e a felicidade (ver Dt 30,15-16). A pequena fórmula é dirigida em três direções: v.5, deve-se procurar o Senhor algures; v. 6, para Israel, é a única forma de viver. vv.14-15, trata-se de obedecer à vontade do Senhor tal como ela se revela na lei da aliança. Os vv.7-12 interrompem o discurso que continua nos vv. 16-17."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "am-5-n4",
+              "offset": 66,
+              "original_marker": "e",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Mas não procureis Betel nem entreis em Guilgal e não passeis por Bercheba, porque Guilgal será levada para o exílio, e Betel tornar-se-á iniquidade.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Betel, Guilgal e Bercheba são santuários ligados à história dos patriarcas."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "am-5-n5",
+              "offset": 73,
+              "original_marker": "f",
+              "source_id": 50
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "Procurai o e vivereis! Não aconteça que Ele domine como o fogo a casa de José, e a consuma sem haver quem o apague a favor de Betel.",
-          "note_refs": []
+          "text": "Procurai o SENHOR e vivereis! Não aconteça que Ele domine como o fogo a casa de José, e a consuma sem haver quem o apague a favor de Betel.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Ou: a favor da casa de Israel, como aparece na tradução dos LXX. Com este v. parece que se pretende avisar a casa de Israel, provavelmente o grupo governante, contra as pretensões hegemónicas da casa de José que será devorada por um fogo inextinguível."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "am-5-n6",
+              "offset": 138,
+              "original_marker": "g",
+              "source_id": 51
+            }
+          ]
         },
         {
           "verse": 7,
@@ -356,18 +1152,69 @@
         },
         {
           "verse": 8,
-          "text": "Aquele que faz as Plêiades e o Orion, que muda as trevas em aurora, e o dia em noite escura; aquele que convoca as águas do mar e as espalha sobre a face da terra o seu nome é.",
-          "note_refs": []
+          "text": "Aquele que faz as Plêiades e o Orion, que muda as trevas em aurora, e o dia em noite escura; aquele que convoca as águas do mar e as espalha sobre a face da terra o seu nome é SENHOR.",
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Estas chuvas servirão quer para inundar a terra (Jb 12,25) e reconduzi-la ao seu estado primitivo (Sl 104,5.9) quer para tornar a terra fecunda (Jb 36, 27-28).",
+            "8": "Os vv. 8-9 parecem ser fragmentos de um hino próximo de 4,13 e de 9,5-6, onde se encontra o mesmo refrão. A sua inserção aqui talvez se deva à sua proximidade com o verbo mudar, vv. 7 e 8. No v. 9, a segunda estrofe é interrompida."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "am-5-n7",
+              "offset": 162,
+              "original_marker": "h",
+              "source_id": 52
+            },
+            {
+              "ref": "8",
+              "id": "am-5-n8",
+              "offset": 182,
+              "original_marker": "a",
+              "source_id": 53
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Ele desencadeia a ruína sobre o poderoso e a ruína virá sobre a fortaleza.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Este v. pouco claro e incerto evoca o tema da humilhação dos poderosos (cf. 1S 2,4.7; Lc 1,51-52)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "am-5-n9",
+              "offset": 73,
+              "original_marker": "b",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "«Eles odeiam quem os repreende em tribunal, e abominam aquele que fala com retidão.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: à porta da cidade, lugar onde se resolviam questões de justiça."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "am-5-n10",
+              "offset": 42,
+              "original_marker": "c",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 11,
@@ -377,37 +1224,93 @@
         {
           "verse": 12,
           "text": "Porque Eu sei que os vossos rimes são numerosos, e enormes, os vossos pecados, vós que afligis o justo e aceitais o suborno e prejudicais os pobres no tribunal.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: a porta da cidade, lugar público onde se reúne o tribunal local (cf. vv.12.15; Is 29,21; Rt 4,1). Os juízes excluem testemunhas verídicas e não se deixam chamar à ordem."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "am-5-n11",
+              "offset": 159,
+              "original_marker": "d",
+              "source_id": 56
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Por isso, num tempo como este, o homem prudente cala-se, porque é um tempo de desgraça.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Trata-se de uma frase sapiencial que exprime uma reflexão pessoal do profeta; a grave situação em que se vive aconselharia mais prudentemente a abandonar Israel à ruína. Mas Amós é constrangido a falar (cf. 3,8; 7,15)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "am-5-n12",
+              "offset": 55,
+              "original_marker": "e",
+              "source_id": 57
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "Procurai o bem e não o mal para que possais viver e o, Deus dos exércitos, estará convosco, como vós dissestes.",
+          "text": "Procurai o bem e não o mal para que possais viver e o SENHOR, Deus dos exércitos, estará convosco, como vós dissestes.",
           "note_refs": []
         },
         {
           "verse": 15,
-          "text": "Odiai o mal e amai o bem, estabelecei a justiça no tribunal. Talvez o, Deus dos exércitos, se compadeça do resto de José».",
-          "note_refs": []
+          "text": "Odiai o mal e amai o bem, estabelecei a justiça no tribunal. Talvez o SENHOR, Deus dos exércitos, se compadeça do resto de José».",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Quando tudo parecia perdido para Israel, culpada e impenitente (cf. 3,12), eis que o profeta anuncia uma mensagem de esperança: um resto será salvo. O resto de José de que se fala designa o povo em geral, mas em particular, os sobreviventes da crise em que o país se encontra mergulhado."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "am-5-n13",
+              "offset": 128,
+              "original_marker": "f",
+              "source_id": 58
+            }
+          ]
         },
         {
           "verse": 16,
-          "text": "Por isso, assim diz o, o Senhor, Deus dos exércitos: «Em todas as praças haverá lamentação e em todas as ruas gritarão: “Ai! Ai”. Convocarão o camponês para o luto e para a lamentação, os que conhecem elegias;",
+          "text": "Por isso, assim diz o SENHOR, o Senhor, Deus dos exércitos: «Em todas as praças haverá lamentação e em todas as ruas gritarão: “Ai! Ai”. Convocarão o camponês para o luto e para a lamentação, os que conhecem elegias;",
           "note_refs": []
         },
         {
           "verse": 17,
-          "text": "e em todas as vinhas haverá lamentação, porque passarei pelo meio de ti», diz o.",
+          "text": "e em todas as vinhas haverá lamentação, porque passarei pelo meio de ti», diz o SENHOR.",
           "note_refs": []
         },
         {
           "verse": 18,
-          "text": "Ai daqueles que desejam o dia do! Mas para que vos servirá o dia do? Ele será de trevas e não de luz.",
-          "note_refs": []
+          "text": "Ai daqueles que desejam o dia do SENHOR! Mas para que vos servirá o dia do SENHOR? Ele será de trevas e não de luz.",
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Amós opõe-se às vãs esperanças dos israelitas que, confiados na sua prerrogativa de povo escolhido (Dt 7,6ss), consideravam o Dia de Javé como um dia de triunfo para eles e de vingança contra os seus inimigos"
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "am-5-n14",
+              "offset": 39,
+              "original_marker": "g",
+              "source_id": 59
+            }
+          ]
         },
         {
           "verse": 19,
@@ -416,7 +1319,7 @@
         },
         {
           "verse": 20,
-          "text": "Assim o dia do será de trevas e não de luz; Será de escuridão e não terá qualquer brilho.",
+          "text": "Assim o dia do SENHOR será de trevas e não de luz; Será de escuridão e não terá qualquer brilho.",
           "note_refs": []
         },
         {
@@ -437,21 +1340,72 @@
         {
           "verse": 24,
           "text": "Mas que o direito corra como a água e a justiça como um rio perene. 25Porventura me oferecestes sacrifícios e oferendas, durante quarenta anos no deserto, ó casa de Israel?",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "O profeta considera o tempo do deserto como ideal nas relações entre Javé e o seu povo. Pode-se agradar a Deus com um culto pobre, mas sincero."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "am-5-n15",
+              "offset": 153,
+              "original_marker": "h",
+              "source_id": 60
+            }
+          ]
         },
         {
           "verse": 25,
           "text": "",
-          "note_refs": []
+          "note_refs": [],
+          "omitted": true
         },
         {
           "verse": 26,
           "text": "Carregareis Sicut, vosso rei, e Quiun, vossas imagens, estrela dos vossos deuses, que fabricastes para vós.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Este versículo não é tanto uma crítica contra o culto idolátrico dos deuses mesopotâmicos Sicut e Kuiun, mas uma diferente forma, muito irónica, de anunciar o drama do desterro que haveria de vir."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "am-5-n16",
+              "offset": 53,
+              "original_marker": "i",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 27,
-          "text": "Pois Eu vos deportarei para além de Damasco», diz o; Deus dos exércitos é o seu nome.",
+          "text": "Pois Eu vos deportarei para além de Damasco», diz o SENHOR; Deus dos exércitos é o seu nome.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Lamentação sobre Israel",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "Doxologia",
+          "note_refs": []
+        },
+        {
+          "before_verse": 18,
+          "text": "O dia do SENHOR",
+          "note_refs": []
+        },
+        {
+          "before_verse": 21,
+          "text": "A rejeição do culto",
           "note_refs": []
         }
       ]
@@ -472,7 +1426,21 @@
         {
           "verse": 3,
           "text": "Querendo retardar o dia da desgraça, apressais o domínio da violência.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Trata-se, certamente, da violência provocada pela ocupação do inimigo."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "am-6-n1",
+              "offset": 69,
+              "original_marker": "a",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 4,
@@ -482,7 +1450,21 @@
         {
           "verse": 5,
           "text": "Deliram ao som da harpa e, como David, inventam para si instrumentos musicais.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O parece estar a fazer referência à algazarra e sons desarticulados de pessoas ébrias."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "am-6-n2",
+              "offset": 23,
+              "original_marker": "b",
+              "source_id": 63
+            }
+          ]
         },
         {
           "verse": 6,
@@ -492,11 +1474,25 @@
         {
           "verse": 7,
           "text": "Por isso, agora irão para o exílio, à frente dos outros exilados, e acaba-se a orgia dos dissolutos.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O termo marzeah, aqui traduzido por orgia era usado em Canaã para banquetes reservados em honra dos mortos, que, entre os hebreus, parece estarem esquecidos e só têm na Bíblia esta referência e a de Jr 16,5, já com uma imagem denegrida."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "am-6-n3",
+              "offset": 84,
+              "original_marker": "c",
+              "source_id": 64
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "O Senhor, o próprio jurou pela sua vida, oráculo do, Deus dos exércitos: «Eu detesto o orgulho de Jacob, e odeio os seus palácios; e entregarei a cidade com tudo o que a preenche.",
+          "text": "O Senhor, o próprio SENHOR jurou pela sua vida, oráculo do SENHOR, Deus dos exércitos: «Eu detesto o orgulho de Jacob, e odeio os seus palácios; e entregarei a cidade com tudo o que a preenche.",
           "note_refs": []
         },
         {
@@ -506,27 +1502,95 @@
         },
         {
           "verse": 10,
-          "text": "E se um parente ou encarregado da incineração for transportar e retirar da casa as ossadas, se ele pergunta a quem estiver no interior da casa: “Há ainda alguém contigo?”, o outro responderá: “Ninguém!” Então ele lhe dirá: “Silêncio! Pois não há que recordar o nome do Senhor”».",
-          "note_refs": []
+          "text": "E se um parente ou encarregado da incineração for transportar e retirar da casa as ossadas, se ele pergunta a quem estiver no interior da casa: “Há ainda alguém contigo?”, o outro responderá: “Ninguém!” Então ele lhe dirá: “Silêncio! Pois não há que recordar o nome do Senhor”» .",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Descreve-se uma situação em que dez sobreviventes morrem na própria casa. Ao fundo há ainda alguém entre os cadáveres e, quando aparece, um parente ou encarregado de incineração para levar os cadáveres e os incinerar, o sobrevivente proíbe-lhe de evocar o nome de Deus, como expressão, talvez, de desespero de quem nada mais espera da parte de Deus, perante tamanha calamidade."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "am-6-n4",
+              "offset": 278,
+              "original_marker": "d",
+              "source_id": 65
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "Pois eis que o dá uma ordem e ele fará cair em ruínas a casa grande, e a casa pequena, em destroços.",
+          "text": "Pois eis que o SENHOR dá uma ordem e ele fará cair em ruínas a casa grande, e a casa pequena, em destroços.",
           "note_refs": []
         },
         {
           "verse": 12,
           "text": "Porventura correm os cavalos sobre o rochedo? Pode-se lavrar o mar com os bois? Pois vós transformastes o direito em veneno e o fruto da justiça em absinto.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Duas breves parábolas que ilustram o comportamento insensato dos juízes de Israel: nas suas mãos, a justiça torna-se um instrumento de absurdo e de morte."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "am-6-n5",
+              "offset": 78,
+              "original_marker": "e",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Eles alegram-se por Lo-Dabar e dizem: “Não foi com a nossa força que conquistámos para nós Carnaim?”",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lo-Dabar […] Carnaim, na Transjordânia (Js 13,26, tb Gn 14,5; 1Mc 5,26), duas cidades reconquistadas havia pouco por Hazael das mãos de Joás (2Rs 10,32.33; 13,25)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "am-6-n6",
+              "offset": 100,
+              "original_marker": "f",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "Pois bem, Eu vou suscitar contra vós, casa de Israel um povo que vos oprimirá, desde a entrada de Hamat até à torrente de Arabá», oráculo do, Deus dos exércitos",
+          "text": "Pois bem, Eu vou suscitar contra vós, casa de Israel um povo que vos oprimirá, desde a entrada de Hamat até à torrente de Arabá», oráculo do SENHOR, Deus dos exércitos",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "De Hamat a Arabá é uma referência geográfica tradicional para designar o conjunto dos territórios submetidos por Israel a leste do Jordão, desde o norte, na direção do Hermon (Js 13,5) até ao sul, na direção do mar Morto (1Rs 8,65)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "am-6-n7",
+              "offset": 103,
+              "original_marker": "g",
+              "source_id": 68
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Contra a falsa segurança dos grandes",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "O terrível castigo",
           "note_refs": []
         }
       ]
@@ -536,53 +1600,150 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Eis o que o Senhor, o próprio me fez ver: estavam os gafanhotos em formação, quando a erva tardia começava a crescer, a erva tardia que vem depois da ceifa do rei.",
-          "note_refs": []
+          "text": "Eis o que o Senhor, o próprio SENHOR me fez ver: estavam os gafanhotos em formação, quando a erva tardia começava a crescer, a erva tardia que vem depois da ceifa do rei.",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Ou: estava Ele a formar os gafanhotos.",
+            "2": "Trata-se de um direito do rei sobre a primeira ceifa (cf. 1Rs 18,5)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "am-7-n1",
+              "offset": 82,
+              "original_marker": "h",
+              "source_id": 69
+            },
+            {
+              "ref": "2",
+              "id": "am-7-n2",
+              "offset": 169,
+              "original_marker": "i",
+              "source_id": 70
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "Quando acabaram de devorar a erva da terra, eu disse: «Senhor, ó, perdoa, por favor! Como poderá erguer-se Jacob, tão pequeno como é?»",
+          "text": "Quando acabaram de devorar a erva da terra, eu disse: «Senhor, ó SENHOR, perdoa, por favor! Como poderá erguer-se Jacob, tão pequeno como é?»",
           "note_refs": []
         },
         {
           "verse": 3,
-          "text": "Então o reconsiderou: «Tal coisa não vai acontecer!», disse o.",
+          "text": "Então o SENHOR reconsiderou: «Tal coisa não vai acontecer!», disse o SENHOR.",
           "note_refs": []
         },
         {
           "verse": 4,
-          "text": "Eis o que o Senhor, o próprio me fez ver: Eis que o Senhor, o próprio convocava para um julgamento por meio do fogo e este consumiu o grande abismo e devorou o campo.",
-          "note_refs": []
+          "text": "Eis o que o Senhor, o próprio SENHOR me fez ver: Eis que o Senhor, o próprio SENHOR convocava para um julgamento por meio do fogo e este consumiu o grande abismo e devorou o campo.",
+          "note_refs": [
+            "3",
+            "4",
+            "5"
+          ],
+          "notes": {
+            "3": "Aqui o fogo parece referir-se à seca (1,2; 4,6-8) que devora tudo (cf. Jl 1,19-20; 2,3). Há quem pense também num fogo celeste como o que destruiu Sodoma e Gomorra (Gn 19,24-25.28).",
+            "4": "Oceano subterrâneo de onde provêm as águas. Alguns autores pensam que se trata do mar Mediterrâneo.",
+            "5": "A tradução grega clarifica que o território queimado é o do Senhor, isto é, o reino de Israel. Após ter estancado as fontes, esgotado o reservatório subterrâneo (o grande abismo), a seca queima o campo, anunciando assim a morte pela fome e pela sede ( 4,6-8; 8,11)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "am-7-n3",
+              "offset": 129,
+              "original_marker": "a",
+              "source_id": 71
+            },
+            {
+              "ref": "4",
+              "id": "am-7-n4",
+              "offset": 161,
+              "original_marker": "b",
+              "source_id": 72
+            },
+            {
+              "ref": "5",
+              "id": "am-7-n5",
+              "offset": 179,
+              "original_marker": "c",
+              "source_id": 73
+            }
+          ]
         },
         {
           "verse": 5,
-          "text": "Eu disse: «Senhor! Ó, desiste, por favor! Como poderá erguer-se Jacob, pequeno como ele é?",
+          "text": "Eu disse: «Senhor! Ó SENHOR, desiste, por favor! Como poderá erguer-se Jacob, pequeno como ele é?",
           "note_refs": []
         },
         {
           "verse": 6,
-          "text": "Então o reconsiderou: «Também isso não vai acontecer!», disse o Senhor.",
+          "text": "Então o SENHOR reconsiderou: «Também isso não vai acontecer!», disse o Senhor.",
           "note_refs": []
         },
         {
           "verse": 7,
-          "text": "Eis o que Ele me fez ver: O estava de pé sobre uma muralha de chumbo e na sua mão tinha um fio de chumbo.",
-          "note_refs": []
+          "text": "Eis o que Ele me fez ver: O SENHOR estava de pé sobre uma muralha de chumbo e na sua mão tinha um fio de chumbo.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O termo chumbo (’anak), que significa chumbo ou estanho, usado aqui e no v. 8 designa um metal muito procurado, para o fabrico das melhores armas de guerra e objetos de luxo. É uma visão que anuncia que o próprio Senhor vai despojar a monarquia do seu poder e riqueza e forjar um arsenal bélico para arruinar o seu povo (cf. c. 8). O mesmo termo é usado para designar o fio de prumo, para verificar o alinhamento de um muro. A visão significaria então o julgamento ao qual Deus havia de submeter Israel, passando ele mesmo, uma última vez, no meio do seu povo (v. 8). Cf. 2Rs 21,13."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "am-7-n6",
+              "offset": 111,
+              "original_marker": "d",
+              "source_id": 74
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "E o perguntou-me: «Amós, que vês tu?» Eu respondi: «Um fio de chumbo». Disse-me o: «Eis que Eu coloco chumbo no meio do meu povo, Israel, não voltarei mais a passar por ele.",
+          "text": "E o SENHOR perguntou-me: «Amós, que vês tu?» Eu respondi: «Um fio de chumbo». Disse-me o SENHOR: «Eis que Eu coloco chumbo no meio do meu povo, Israel, não voltarei mais a passar por ele.",
           "note_refs": []
         },
         {
           "verse": 9,
           "text": "Serão devastados os lugares altos de Isaac e arruinados os santuários de Israel; e Eu mesmo me levantarei com a espada contra a casa de Jeroboão».",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Esta expressão, única em todo o AT, recorda os santuários que Jeroboão I mandou erigir, no início da divisão dos reinos de Israel e Judá, e é uma antecipação teológica da queda de Samaria."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "am-7-n7",
+              "offset": 42,
+              "original_marker": "e",
+              "source_id": 75
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Amacias, sacerdote de Betel, mandou dizer a Jeroboão, rei de Israel: «Amós tem conspirado contra ti, no meio da casa de Israel. O país não poderá suportar todas as suas palavras.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Do v. 10 até ao v. 17 o texto está em prosa. Enquadra duas declarações do profeta: vv.11 e 16-17. É um texto intercalado entre a terceira e a quarta visão que devia vir imediatamente depois da profecia contra a casa real (8,9) e descreve as reações que este anúncio provocou."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "am-7-n8",
+              "offset": 67,
+              "original_marker": "f",
+              "source_id": 76
+            }
+          ]
         },
         {
           "verse": 11,
@@ -602,21 +1763,66 @@
         {
           "verse": 14,
           "text": "Amós respondeu e disse a Amacias: «Eu não era profeta, nem filho de profeta, pois era criador de gado e cultivador de sicómoros.",
-          "note_refs": []
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "Um filho de profeta é um membro de um grupo ou comunidade de profetas, como os que havia em certos santuários ou os que seguiam um profeta principal (cf. 1S 10,10; 1Rs 20,35; 2Rs 2,3).",
+            "10": "A expressão hebraica é diferente da usada em 1,1, mas tem sentido análogo."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "am-7-n9",
+              "offset": 75,
+              "original_marker": "g",
+              "source_id": 77
+            },
+            {
+              "ref": "10",
+              "id": "am-7-n10",
+              "offset": 101,
+              "original_marker": "h",
+              "source_id": 78
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "O tirou-me de andar atrás do rebanho. E então o disse-me: “Vai e profetiza ao meu povo, Israel”.",
+          "text": "O SENHOR tirou-me de andar atrás do rebanho. E então o SENHOR disse-me: “Vai e profetiza ao meu povo, Israel”.",
           "note_refs": []
         },
         {
           "verse": 16,
-          "text": "Agora, escuta a palavra do. Tu dizes: “Não profetizes contra Israel e não vociferes contra a casa de Isaac!”",
+          "text": "Agora, escuta a palavra do SENHOR. Tu dizes: “Não profetizes contra Israel e não vociferes contra a casa de Isaac!”",
           "note_refs": []
         },
         {
           "verse": 17,
-          "text": "Por isso, assim diz o: “A tua mulher será tratada como prostituta na cidade, os teus filhos e as tuas filhas cairão à espada, a tua terra será repartida a cordel, tu morrerás numa terra imunda e Israel será exilado para fora da sua terra».",
+          "text": "Por isso, assim diz o SENHOR: “A tua mulher será tratada como prostituta na cidade, os teus filhos e as tuas filhas cairão à espada, a tua terra será repartida a cordel, tu morrerás numa terra imunda e Israel será exilado para fora da sua terra».",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Primeira visão: os gafanhotos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 4,
+          "text": "Segunda visão: o fogo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "Terceira visão: o fio de prumo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 10,
+          "text": "Expulsão do profeta",
           "note_refs": []
         }
       ]
@@ -626,18 +1832,60 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Eis o que o Senhor, o próprio me fez ver: era um cesto de frutos do fim de verão.",
-          "note_refs": []
+          "text": "Eis o que o Senhor, o próprio SENHOR me fez ver: era um cesto de frutos do fim de verão.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Esta visão (a quarta) devia seguir-se à terceira, Am 7,9, quer pela sua semelhança estrutural, semântica e de conteúdo, com as outras, ligadas pela presença do tema do perdão e do castigo, quer pela sua posição redacional atual. Apesar de estarem separadas pela narração da confrontação entre Amós e o sacerdote Amacias, em Betel (7,10-17), a relação entre elas permanece estreita."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "am-8-n1",
+              "offset": 87,
+              "original_marker": "a",
+              "source_id": 79
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "Ele disse: «Amós, o que estás tu a ver?» Eu respondi: «Um cesto de frutos do fim de verão». E o disse-me: «Chegou o fim para o meu povo de Israel: não voltarei mais a passar ao lado dele.",
-          "note_refs": []
+          "text": "Ele disse: «Amós, o que estás tu a ver?» Eu respondi: «Um cesto de frutos do fim de verão». E o SENHOR disse-me: «Chegou o fim para o meu povo de Israel: não voltarei mais a passar ao lado dele.",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "No ciclo anual que começa no outono, o verão é a última estação. Há jogo de palavras entre o verão (qaits) e o fim (qets)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "am-8-n2",
+              "offset": 126,
+              "original_marker": "b",
+              "source_id": 80
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Os cânticos do templo tornar-se-ão gemidos, naquele dia», oráculo do Senhor, do próprio. «Muitos são os cadáveres lançados por toda a parte. Silêncio!»",
-          "note_refs": []
+          "text": "Os cânticos do templo tornar-se-ão gemidos, naquele dia», oráculo do Senhor, do próprio SENHOR. «Muitos são os cadáveres lançados por toda a parte. Silêncio!»",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Anúncio do fim das festas litúrgicas no palácio de Deus, em Betel (Am 5,5.21)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "am-8-n4",
+              "offset": 21,
+              "original_marker": "c",
+              "source_id": 81
+            }
+          ]
         },
         {
           "verse": 4,
@@ -647,7 +1895,30 @@
         {
           "verse": 5,
           "text": "vós que dizeis: «quando passará a lua nova, para podermos vender o grão? E o sábado, para podermos abrir os sacos de trigo, para diminuir a medida, aumentar o preço, e enganar com balanças falseadas?",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Em Israel celebrava-se o primeiro dia do mês (1Sm 20,5.24; Is 1,13-14; Lv 23,24). Nesse dia, como nos sábados, interrompiam-se as transações comerciais (Nm 28,9-15; 2Rs 4,23).",
+            "6": "Lit.: o efá, medida de volume equivalente a cerca de 30 l."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "am-8-n5",
+              "offset": 42,
+              "original_marker": "e",
+              "source_id": 83
+            },
+            {
+              "ref": "6",
+              "id": "am-8-n6",
+              "offset": 146,
+              "original_marker": "f",
+              "source_id": 84
+            }
+          ]
         },
         {
           "verse": 6,
@@ -656,33 +1927,117 @@
         },
         {
           "verse": 7,
-          "text": "O jurou pelo orgulho de Jacob: «Não esquecerei jamais nenhuma das suas ações».",
-          "note_refs": []
+          "text": "O SENHOR jurou pelo orgulho de Jacob: «Não esquecerei jamais nenhuma das suas ações».",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "“Orgulho de Jacob” pode designar, quer um atributo de Deus, com o sentido de esplendor, glória (1Sm 15,29), quer, como em 6,8, a arrogância de Israel, tão firme que pode servir de base a um juramento, quer ainda a terra de Deus, Israel (Sl 47,5)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "am-8-n7",
+              "offset": 27,
+              "original_marker": "g",
+              "source_id": 85
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Por causa disso, não tremerá a terra, porventura? Não ficarão de luto todos os que nela habitam? Toda a terra subirá como o Nilo, agitar-se-á e se acalmará como o rio do Egito.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "O profeta compara o terramoto (cf. 1,1) às enchentes e vazantes incontroláveis do Nilo."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "am-8-n8",
+              "offset": 128,
+              "original_marker": "h",
+              "source_id": 86
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "«Naquele dia, acontecerá que Eu farei com que o sol se ponha ao meio dia e farei escurecer a terra em dia de sol», oráculo do Senhor, do próprio.",
-          "note_refs": []
+          "text": "«Naquele dia, acontecerá que Eu farei com que o sol se ponha ao meio dia e farei escurecer a terra em dia de sol», oráculo do Senhor, do próprio SENHOR.",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "O Dia do Senhor é acompanhado de sinais cósmicos: tremores de terra (8,8; Is 2,10; Jr 4,24) e eclipses solares (8,9; Jr 4,23). Os profetas posteriores ampliam a descrição, usando imagens estereotipadas (Sf 1,15; Is 13,10.13; 34,4; Ez 32,7; Hab 3,6; Jl 2,10.11; 3,3.4; 4,15.16; cf. Mt 24,29; Ap 6,12-14)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "am-8-n9",
+              "offset": 72,
+              "original_marker": "i",
+              "source_id": 87
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Transformarei as vossas festas em luto e todos os vossos cânticos em lamentação. Farei com que todos os flancos se cubram de saco e todas as cabeças sejam rapadas. Porei a terra de luto como por um filho único, o seu futuro será como um dia de amargura.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Para o israelita, perder o filho único é a maior desgraça: é a destruição do próprio futuro. Nos vv. 9-10, o profeta descreve o dia escatológico (cf. nota anterior). Os evangelistas usam expressões semelhantes para descrever os acontecimentos que se seguem à morte do Filho único de Deus (Mt 27,51b; Lc 23,44-45; Mc 15,33)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "am-8-n10",
+              "offset": 209,
+              "original_marker": "j",
+              "source_id": 88
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "Eis que virão dias, oráculo do Senhor, do próprio, nos quais mandarei fome sobre a terra, não fome de pão nem sede de água, mas, sim, de escutar as palavras do.",
-          "note_refs": []
+          "text": "Eis que virão dias, oráculo do Senhor, do próprio SENHOR, nos quais mandarei fome sobre a terra, não fome de pão nem sede de água, mas, sim, de escutar as palavras do SENHOR.",
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Em tempos de grande aflição, Israel voltava-se para o Senhor, pedindo uma palavra profética de esperança ou de orientação (cf. 2Rs 19,1-4.14; 22,13.14; Jr 21,2; Ez 14,3.7), mas no juízo que se anuncia, o Senhor responderá a todos esses apelos com silêncio, o temível silêncio de Deus (cf. 1Sm 28,6; Ez 7,26; 20,1-3; Mq 3,4.7)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "am-8-n11",
+              "offset": 173,
+              "original_marker": "k",
+              "source_id": 89
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "Andarão errantes de um mar a outro mar, rodarão do norte para o oriente; à procura da palavra do, mas não a encontrarão.",
-          "note_refs": []
+          "text": "Andarão errantes de um mar a outro mar, rodarão do norte para o oriente; à procura da palavra do SENHOR, mas não a encontrarão.",
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Para além do castigo infligido por Deus, a consequência mais grave da infidelidade de Israel será a ausência de Deus e da sua palavra (cf. Ct 5,6; Dt 8,3; Pr 1,28)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "am-8-n12",
+              "offset": 126,
+              "original_marker": "l",
+              "source_id": 90
+            }
+          ]
         },
         {
           "verse": 13,
@@ -692,6 +2047,60 @@
         {
           "verse": 14,
           "text": "Os que juram pelo que é a culpa da Samaria e dizem: “Viva o teu deus, Dan” e “Viva o poderoso de Bercheba” hão de cair e nunca mais se levantarão».",
+          "note_refs": [
+            "13",
+            "14"
+          ],
+          "notes": {
+            "13": "Refere-se a uma divindade da Samaria, naturalmente de Betel, pela qual se faz o juramento, como nos casos a seguir referidos.",
+            "14": "Segundo a literatura de Canaã a palavra (derek) pode ser usada como título de uma divindade. O paralelismo do versículo favorece esta possibilidade."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "am-8-n13",
+              "offset": 31,
+              "original_marker": "a",
+              "source_id": 91
+            },
+            {
+              "ref": "14",
+              "id": "am-8-n14",
+              "offset": 106,
+              "original_marker": "b",
+              "source_id": 92
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Quarta visão: o cesto dos frutos do verão",
+          "note_refs": []
+        },
+        {
+          "before_verse": 4,
+          "text": "Ganância dos mercadores e destruição final",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O texto de 8,4-14 é o primeiro epílogo do livro e um resumo da profecia de Amós, assim articulado: acusação do profeta (4-6), proclamação do castigo protagonizado pelo próprio Senhor (7-10) e anúncio dos dias que se aproximam, marcados pelo silêncio de Deus (11-14)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "am-8-n3",
+              "offset": 42,
+              "original_marker": "d",
+              "source_id": 82
+            }
+          ]
+        },
+        {
+          "before_verse": 9,
+          "text": "O dia do Senhor",
           "note_refs": []
         }
       ]
@@ -707,7 +2116,21 @@
         {
           "verse": 2,
           "text": "Ainda que penetrem no mundo dos mortos ali mesmo a minha mão os apanhará; ainda que subam até aos céus, de lá os obrigarei a descer;",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.: no mundo dos mortos (Cheol)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "am-9-n1",
+              "offset": 38,
+              "original_marker": "c",
+              "source_id": 93
+            }
+          ]
         },
         {
           "verse": 3,
@@ -717,31 +2140,73 @@
         {
           "verse": 4,
           "text": "ainda que vão para o exílio diante dos seus inimigos, ali mesmo ordenarei à espada para os matar. Fixarei sobre eles os meus olhos, para a desgraça e não para o bem.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Os vv. 2-4 salientam a impossibilidade de escapar ao juízo divino iminente. Os refúgios imagináveis para onde fugir podem ser comparados aos do Sl 139,7-12. O domínio de Deus inclui todos os lugares, até mesmo o mundo dos mortos (v. 2)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "am-9-n2",
+              "offset": 164,
+              "original_marker": "d",
+              "source_id": 94
+            }
+          ]
         },
         {
           "verse": 5,
-          "text": "O Senhor, o dos exércitos, é aquele que toca na terra e ela derrete-se e ficam de luto todos os seus habitantes; toda ela sobe como o Nilo e se afunda como o rio do Egito.",
-          "note_refs": []
+          "text": "O Senhor, o SENHOR dos exércitos, é aquele que toca na terra e ela derrete-se e ficam de luto todos os seus habitantes; toda ela sobe como o Nilo e se afunda como o rio do Egito.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O Nilo é o símbolo do Egito enquanto realidade política e militar que cresce para cobrir a terra e os seus habitantes (cf. Jr 46,8)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "am-9-n3",
+              "offset": 145,
+              "original_marker": "e",
+              "source_id": 95
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "Ele é aquele que constrói nos céus a sua alta morada e sobre a terra assenta a sua abóbada; é aquele que convoca as águas do mar e as derrama sobre a superfície da terra. O seu nome é.",
+          "text": "Ele é aquele que constrói nos céus a sua alta morada e sobre a terra assenta a sua abóbada; é aquele que convoca as águas do mar e as derrama sobre a superfície da terra. O seu nome é SENHOR.",
           "note_refs": []
         },
         {
           "verse": 7,
-          "text": "«Não sois, porventura, para mim como os etíopes, ó filhos de Israel?», oráculo do. «Não fiz subir Israel da terra do Egito, os filisteus de Caftor, e os arameus de Quir?»",
-          "note_refs": []
+          "text": "«Não sois, porventura, para mim como os etíopes, ó filhos de Israel?», oráculo do SENHOR. «Não fiz subir Israel da terra do Egito, os filisteus de Caftor, e os arameus de Quir?»",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Caftor, talvez se trate de Creta, donde tinham vindo os filisteus; Quir, provável que se trate de Ur, na baixa da Mesopotâmia. O oráculo não nega a eleição especial de Israel, mas combate o orgulho baseado nessa eleição; e afirma que o Deus de Israel dirige também o destino das outras nações."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "am-9-n4",
+              "offset": 153,
+              "original_marker": "f",
+              "source_id": 96
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Eis como os olhos do Senhor, do próprio, estão sobre aquele reino que peca: «Exterminá-lo-ei da superfície da terra. Contudo, não exterminarei completamente a casa de Jacob», oráculo do.",
+          "text": "Eis como os olhos do Senhor, do próprio SENHOR, estão sobre aquele reino que peca: «Exterminá-lo-ei da superfície da terra. Contudo, não exterminarei completamente a casa de Jacob», oráculo do SENHOR.",
           "note_refs": []
         },
         {
           "verse": 9,
-          "text": "Pois Eu mesmo darei ordens e farei sacudir a casa de Israel entre todas as nações, como se sacode com o crivo e não cairá um só grão por terra.",
+          "text": "«Pois Eu mesmo darei ordens e farei sacudir a casa de Israel entre todas as nações, como se sacode com o crivo e não cairá um só grão por terra.",
           "note_refs": []
         },
         {
@@ -751,18 +2216,32 @@
         },
         {
           "verse": 11,
-          "text": "Naquele dia levantarei a tenda de David que está a cair; repararei as suas brechas, restaurarei as suas ruínas e reconstrui-la-ei como nos tempos antigos,",
+          "text": "«Naquele dia levantarei a tenda de David que está a cair; repararei as suas brechas, restaurarei as suas ruínas e reconstrui-la-ei como nos tempos antigos,",
           "note_refs": []
         },
         {
           "verse": 12,
-          "text": "para que eles herdem o resto de Edom e todas as nações sobre as quais é invocado o meu nome», oráculo do, que fez isto.",
+          "text": "para que eles herdem o resto de Edom e todas as nações sobre as quais é invocado o meu nome», oráculo do SENHOR, que fez isto.",
           "note_refs": []
         },
         {
           "verse": 13,
-          "text": "«Eis que vêm dias, - oráculo do -, em que o que lavra se encontrará com o que ceifa e o que pisa as uvas, com o que espalha a semente; os montes destilarão vinho novo e todas as colinas assim se dissolverão.",
-          "note_refs": []
+          "text": "«Eis que vêm dias, - oráculo do SENHOR -, em que o que lavra se encontrará com o que ceifa e o que pisa as uvas, com o que espalha a semente; os montes destilarão vinho novo e todas as colinas assim se dissolverão.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Depois de tantas ameaças de destruição, carestia e morte (cf. 5,9.11.27), as palavras finais de Amós retratam uma prosperidade edênica e gloriosa da fertilidade da terra em que as estações se combinariam de tal forma que não haveria intervalo entre a semeadura e a ceifa e haveria abundância de produtos frescos."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "am-9-n5",
+              "offset": 17,
+              "original_marker": "g",
+              "source_id": 97
+            }
+          ]
         },
         {
           "verse": 14,
@@ -771,7 +2250,19 @@
         },
         {
           "verse": 15,
-          "text": "E Eu plantá-los-ei na sua terra e nunca mais serão arrancados da sua terra, da terra que Eu lhes dei», diz o, o teu Deus.",
+          "text": "E Eu plantá-los-ei na sua terra e nunca mais serão arrancados da sua terra, da terra que Eu lhes dei», diz o SENHOR, o teu Deus.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Quinta visão: ruína do santuário",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Restauração de Israel.",
           "note_refs": []
         }
       ]

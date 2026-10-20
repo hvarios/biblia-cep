@@ -1,5 +1,54 @@
 {
+  "schema_version": 2,
   "book": "Habacuc",
+  "book_id": "hab",
+  "source": {
+    "format": "docx",
+    "file": "42_Hab.docx",
+    "title": "Habacuc"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "O profeta e o seu tempo",
+        "paragraphs": [
+          "O texto deste livro bem como os livros históricos não fornecem quaisquer dados biográficos sobre o profeta Habacuc. O nome de Habacuc parece significar simplesmente o de uma planta, o manjericão, e não é um nome teofórico. Na narração de Daniel na cova dos leões (Dn 14,33-39) é referido um profeta Habacuc que vivia na Galileia, mas isso não é suficiente para dizer que se trate do profeta que dá nome a este livro.",
+          "Os dados para determinar a época do profeta e do livro são igualmente poucos. Para chegar a uma datação aproximada da atividade profética de Habacuc, há que recorrer às circunstâncias da respetiva profecia. O texto de Habacuc pressupõe uma situação de grande opressão. Não é plausível ver no opressor a figura de Joaquim, rei de Judá (609-597 a.C.), como alguns sugerem. Restariam duas hipóteses. Ou seriam os assírios como agressores, contra os quais Deus teria suscitado os babilónios (Hab 1,5-11); isto faria situar a profecia antes do declínio de Nínive em 612 a.C. Ou seriam os babilónios (Hab 1,6), que, tendo sido instrumento do castigo de Deus sobre o seu povo, são agora eles mesmos castigados. Neste caso, a atividade profética de Habacuc situar-se-ia entre 605 e 597 a.C., isto é, entre a batalha de Carquémis, que colocou Nabucodonosor como soberano do novo império, e a primeira deportação de habitantes de Jerusalém. Se aceitarmos esta última hipótese como a mais provável, Habacuc teria sido contemporâneo dos profetas Jeremias e Naum."
+        ]
+      },
+      {
+        "title": "Conteúdo e estrutura",
+        "paragraphs": [
+          "A estrutura do livro é clara, derivando do próprio conteúdo, dividido em três partes sucessivas, que constituem igualmente três géneros literários diferentes, ainda que bem ligados entre si pela coesão do tema. As três partes são:",
+          "1. Diálogo entre o profeta e o Senhor (Hab 1,2 – 2,4). Este diálogo está cons-",
+          "tituído por duas lamentações do profeta (1,2-4; 1,12-17), seguidas por duas",
+          "respostas do Senhor (1,5-11; 2,1-4). Contudo, nem sempre é evidente a cor-",
+          "respondência entre cada uma das lamentações e as respostas recebidas.",
+          "2. Cinco imprecações contra o opressor (Hab 2,5-20). As imprecações são com-",
+          "postas segundo um modelo preciso: começam com uma maldição («Ai de",
+          "quem...») e, com exceção da última, terminam com uma referência ao motivo",
+          "que provocou tal maldição. Nestas imprecações está espelhada a situação",
+          "internacional de guerra e de injustiça. Com elas condena-se a arrogância do",
+          "opressor e sobretudo a sua idolatria. Foi nas realidades descritas pelo profeta",
+          "que as gerações posteriores descobriram retratada a sua própria experiência.",
+          "3. Salmo (Hab 3,1-19): composição litúrgica sobre a intervenção de Deus que",
+          "cumpre a sua profecia, atestada pelas indicações musicais que o enquadram.",
+          "Apesar de este salmo não constar no comentário de Habacuc encontrado",
+          "entre os textos de Qumrân (1QpHab), não se pode daí concluir que este",
+          "capítulo não fizesse parte do texto do profeta."
+        ]
+      },
+      {
+        "title": "Teologia",
+        "paragraphs": [
+          "A voz de Habacuc dirige-se a uma população traumatizada por guerras, injustiças e violência. Por isso assume um tom mais encorajador e reconfortante, sem insistir muito nas admoestações características do discurso profético. Partindo do tema da opressão estrangeira sobre Judá e, portanto, do âmbito das relações internacionais, onde as injustiças se infiltram, eleva-se a figura de Deus, que faz a sua intervenção na história e que se apresenta como o seu Senhor. Isto é patente em todo o livro e torna-se seguro e evidente aos olhos do justo, pois este viverá pela sua fé (Hab 2,4). É a esta luz que se pode ler igualmente o salmo que encerra o livro de Habacuc (3,1- 19). Com a solenidade que lhe vem de um texto de oração, este salmo representa a resposta definitiva do Senhor às interrogações do povo, que estavam condensadas nos lamentos do profeta referidos no seu diálogo com Deus (Hab 1,2 – 2,4). O salmo apresenta uma intervenção de Deus com os traços de uma epifania e sob a forma de um hino de louvor. Esta conclusão em poema pode ser vista como uma continuidade dos traços com que Deus é apresentado nos dois capítulos anteriores. O facto de aparecer um termo que significa intervalo ou pausa (selah) nos v. 3, 9, 13 é sinal de que o salmo era utilizado na liturgia.",
+          "Israel reconhece que pecou e que merecia castigo. No entanto, interroga-se sobre o problema do mal e sobre a aparente impassibilidade de Deus diante do sofrimento do seu povo. Tais lamentos podem de igual modo condensar as interrogações e ansiedades que atormentam tantos crentes ao longo dos tempos. Os judeus associados com a comunidade de Qumrân terão descoberto uma particular sintonia na maneira como Habacuc apresenta o papel de Deus nos caminhos difíceis da História.",
+          "A formulação paulina da teologia da justificação, segundo a qual «o justo viverá pela sua fé» (2,4), retoma uma sentença fundamental deste profeta (Rm 1,17; Gl 3,11; cf. Heb 10,38). E esta fórmula apresenta-se até aos dias de hoje como uma chave de interpretação do espírito essencial do cristianismo."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,12 +56,40 @@
         {
           "verse": 1,
           "text": "Esta é a proclamação que o profeta Habacuc recebeu em visão.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.: … que o profeta Habacuc viu. Sobre a diferença entre proclamação (maśa’) e oráculo (ne’um), cf. Na 1,1. O verbo ver parece menos adequado, quer se trate de receber um oráculo quer uma proclamação. O essencial está, no entanto, em que o conteúdo transmitido por meio de qualquer um dos dois tipos de comunicação assenta numa visão, termo que define uma experiência de descoberta e aprofundamento intenso de uma ideia. Segundo a cultura de então, a visão pode acontecer durante o sono. Mas pode também ter, já na altura, um estatuto de metáfora e referir-se a uma tomada de consciência que ocorre a qualquer hora. É o despertar do profeta."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "hab-1-n1",
+              "offset": 59,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Até quando, Senhor, pedirei ajuda, sem que Tu escutes? Até quando te gritarei “Violência!”, sem que Tu salves?",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Esta pergunta dirigida a Deus, que pressupõe a confiança na intervenção divina, é uma fórmula bem conhecida na Bíblia. O que se pretende é fazer com que a intervenção aconteça depressa. A lamentação dirigida a Deus como oração é um tema corrente na Bíblia (cf. Sl 55,10-12; Jr 6,7; 14,9; 20,8), particularmente quando estão em causa ameaças por parte dos inimigos (cf. Is 59,9-15; Jr 10,23-25; 14,2-9)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "hab-1-n2",
+              "offset": 10,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 3,
@@ -27,27 +104,97 @@
         {
           "verse": 5,
           "text": "«Olhai para os povos e vede bem; ficai maravilhados e espantados. Há nos vossos dias quem faça uma obra tal que nem acreditareis, quando for contado.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A resposta de Deus retrata o contexto político em que a profecia de Habacuc se situa; descreve esses acontecimentos em estilo épico, como é frequente acontecer nos textos proféticos (cf. Is 5,26-30; Jr 4,5-7.13.16-17; 6,22-24; Ez 23,22-26; 28,7-10)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "hab-1-n3",
+              "offset": 31,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "Eis que Eu faço surgir os caldeus, O O É aquele povo feroz e impetuoso, que vai até aos confins da terra, para se apoderar de moradas que não são suas.",
-          "note_refs": []
+          "text": "Eis que Eu faço surgir os caldeus, aquele povo feroz e impetuoso, que vai até aos confins da terra, para se apoderar de moradas que não são suas.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Os caldeus são um grupo tribal dos arameus que ocuparam a Mesopotâmia e fundaram um império na Babilónia, do qual a principal figura foi o rei Nabucodonosor, entre os séc. VII e VI a.C. É este o tempo em que, conquistando e destruindo Jerusalém, a Babilónia se tornou a referência mais importante e definitiva dos inimigos de Israel."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "hab-1-n4",
+              "offset": 33,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Ele é terrível e temível; dele saem o seu direito e a sua grandeza.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Com esta declaração pretende-se mostrar que o invasor não reconhece nenhum outro direito ou poder, a não ser aquele que ele mesmo impõe. É a fórmula bíblica que define o caráter opressivo destes impérios."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "hab-1-n5",
+              "offset": 66,
+              "original_marker": "a",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Os seus cavalos são mais rápidos que leopardos e mais ferozes que os lobos ao anoitecer. Os seus cavaleiros saltam, os seus cavaleiros vêm de longe, voam como águia que se atira para comer.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Ou: … lobos do deserto, segundo a leitura da tradução dos LXX."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "hab-1-n6",
+              "offset": 87,
+              "original_marker": "b",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Todos eles vêm para a violência; de face ameaçadora como o vento leste, amontoam prisioneiros como areia».",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "O texto hebraico não é inteiramente claro. De qualquer modo, a metáfora do vento leste é habitualmente usada para caraterizar as invasões que procedem do Oriente (Os 12,2; 13,15; Jr 18,17; Ez 17,10s) como acontece com esta invasão atribuída aos caldeus."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "hab-1-n7",
+              "offset": 70,
+              "original_marker": "c",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 10,
@@ -57,16 +204,71 @@
         {
           "verse": 11,
           "text": "Então mu5da o vento e ele passa adiante e faz da sua força o seu deus.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "O texto conservado em Qumran permite ler:... e coloca a sua força como seu deus."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "hab-1-n8",
+              "offset": 69,
+              "original_marker": "d",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Não és Tu, Senhor, o meu Deus e, desde tempos antigos, o meu Santo? Não morreremos! Senhor, Tu estabeleceste-o para o julgamento, constituíste-o como rochedo para corrigir.",
-          "note_refs": []
+          "note_refs": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "notes": {
+            "9": "A segunda lamentação do profeta insiste sobre a maneira como os invasores tratam as populações dominadas, sublinhando o que nisso há de desrespeito pela dignidade humana e de auto adoração idolátrica das suas próprias capacidades e meios.",
+            "10": "A expressão tempos antigos (qedem) representa uma época onde assenta a confiança expressa em Deus. O salmo do c. 3 levaria a pensar que se trata de uma referência aos tempos do êxodo.",
+            "11": "As correções dos escribas judeus entendem que o texto primitivo deveria ser: Tu não morrerás. Este sentido é confirmado pelo Targum.",
+            "12": "A referência aos caldeus vai aparecendo tanto no plural como em singular coletivo."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "hab-1-n9",
+              "offset": 29,
+              "original_marker": "e",
+              "source_id": 9
+            },
+            {
+              "ref": "10",
+              "id": "hab-1-n10",
+              "offset": 53,
+              "original_marker": "f",
+              "source_id": 10
+            },
+            {
+              "ref": "11",
+              "id": "hab-1-n11",
+              "offset": 83,
+              "original_marker": "g",
+              "source_id": 11
+            },
+            {
+              "ref": "12",
+              "id": "hab-1-n12",
+              "offset": 110,
+              "original_marker": "h",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 13,
-          "text": "Teus olhos são demasiado puros para verem o mal e não suportas olhar para a opressão. Por que razão olhas, então, para os traidores e ficas calado É quando o malvado engole quem é mais justo que ele?",
+          "text": "Teus olhos são demasiado puros para verem o mal e não suportas olhar para a opressão. Por que razão olhas, então, para os traidores e ficas calado quando o malvado engole quem é mais justo que ele?",
           "note_refs": []
         },
         {
@@ -77,7 +279,30 @@
         {
           "verse": 15,
           "text": "Todos eles o puxam com o anzol, o arrastam com a sua rede de guerra e o recolhem com a sua rede de pesca. Por isso o inimigo se alegra e exulta.",
-          "note_refs": []
+          "note_refs": [
+            "13",
+            "14"
+          ],
+          "notes": {
+            "13": "Lit.: Todo ele… A expressão coincide com a do v. 9 e indica coletivamente os conquistadores caldeus e não os homens por eles conquistados.",
+            "14": "As duas palavras articulam de forma metafórica a rede de guerra e a rede de pesca."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "hab-1-n13",
+              "offset": 10,
+              "original_marker": "i",
+              "source_id": 13
+            },
+            {
+              "ref": "14",
+              "id": "hab-1-n14",
+              "offset": 104,
+              "original_marker": "j",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 16,
@@ -89,6 +314,33 @@
           "text": "Será então que vai esvaziar a sua rede de guerra e continuar a matar povos sem ter piedade?",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Título",
+          "note_refs": []
+        },
+        {
+          "before_verse": 2,
+          "text": "I. DIÁLOGO ENTRE O PROFETA E O SENHOR",
+          "note_refs": []
+        },
+        {
+          "before_verse": 2,
+          "text": "Lamentação do profeta",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "Resposta do Senhor",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Lamentação do profeta",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -97,12 +349,67 @@
         {
           "verse": 1,
           "text": "Ficarei de pé no meu lugar de vigia e estarei firme sobre a fortaleza, espreitando para ver o que Ele tem a dizer-me e o que responde ao meu argumento.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2",
+            "3"
+          ],
+          "notes": {
+            "1": "Esta maneira como o profeta descreve a atitude em que se coloca enquanto espera por uma resposta de Deus pode ajudar-nos a matizar o conceito de visão que, no título do livro, aparecia como sendo o processo segundo o qual Habacuc recebeu a mensagem contida neste livro.",
+            "2": "Ou: a minha fortaleza, segundo o texto de Qumrân.",
+            "3": "O texto massorético parece ler responderei. No entanto, o contexto sugere que se leia a 3ª pessoa, interpretação que a tradução siríaca e o texto de Qumran confirmam."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "hab-2-n1",
+              "offset": 35,
+              "original_marker": "k",
+              "source_id": 15
+            },
+            {
+              "ref": "2",
+              "id": "hab-2-n2",
+              "offset": 69,
+              "original_marker": "l",
+              "source_id": 16
+            },
+            {
+              "ref": "3",
+              "id": "hab-2-n3",
+              "offset": 133,
+              "original_marker": "m",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "O Senhor respondeu-me e disse: “Escreve a visão e grava-a nas tabuinhas, de modo que se possa ler depressa.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "A resposta de Deus é tratada de forma particularmente solene. O ser registada por escrito justifica-se para uma mais escorreita reutilização e também porque a mensagem está destinada a manter-se eficaz durante todo o tempo que tiver de se estar à espera. O tempo de espera assim assumido traz profundidade, consciência e paciência, perante os enigmas que vão ocorrendo.",
+            "5": "Lit.: De modo que corra quem a lê."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "hab-2-n4",
+              "offset": 29,
+              "original_marker": "n",
+              "source_id": 18
+            },
+            {
+              "ref": "5",
+              "id": "hab-2-n5",
+              "offset": 106,
+              "original_marker": "o",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 3,
@@ -111,23 +418,88 @@
         },
         {
           "verse": 4,
-          "text": "Pois aquele que é arrogante não tem uma alma reta, mas o justo viverá pela sua fé. A",
-          "note_refs": []
+          "text": "Pois aquele que é arrogante não tem uma alma reta, mas o justo viverá pela sua fé.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Desde as mais antigas traduções se reconhecem dificuldades em traduzir a primeira parte deste versículo. Da segunda parte, que é bem conhecida e clara, se conclui que a primeira representa alguém que se contrapõe ao justo. E cada tradução procurou modos de exprimir este contraste. A partir da maneira como é citada na teologia paulina (Rm 1,17; Gl 3,11; cf. Heb 10,38), a segunda parte do versículo ganhou grande projeção na história do cristianismo."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "hab-2-n6",
+              "offset": 81,
+              "original_marker": "p",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "De facto, a abundância atraiçoa e o homem que é altivo não permanece. A sua garganta alarga-se como o mundo dos mortos; ele é como a morte que nunca está satisfeita, mas arrasta consigo todas as nações e junta para si todos os povos.",
-          "note_refs": []
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Abundância, segundo o texto de Qumran. Ou: o vinho, seguindo o texto massorético. As traduções mais antigas sentiram já alguma dificuldade na tradução desta passagem.",
+            "8": "Lit.: o Cheol, nome semítico para a morada dos mortos. A sua entrada era vista como uma imensa garganta por onde entravam todos os que morriam e que os engolia definitivamente (cf. Gn 37,35; Nm 16,33; Sl 7,6; Ez 26,20; Am 9,1-4)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "hab-2-n7",
+              "offset": 22,
+              "original_marker": "a",
+              "source_id": 22
+            },
+            {
+              "ref": "8",
+              "id": "hab-2-n8",
+              "offset": 118,
+              "original_marker": "b",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Certamente todos os outros vão compor versos, sátiras e enigmas contra ele e vão dizer: “Ai de quem acumula o que não lhe pertence. Até quando? E ai daquele que carrega sobre si um fardo de penhores!",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Esta curiosa introdução justifica o tema das imprecações contra o poder opressor, representando a reação normal dos oprimidos que assim dão expressão literária às queixas e críticas contra o mau uso do poder. Estes textos equivalem ao que nos profetas se costuma designar como oráculos contra as nações. São manifestos contra a injustiça."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "hab-2-n9",
+              "offset": 86,
+              "original_marker": "c",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Eis que se levantam de repente os teus credores e acordam os que te fazem tremer; e tu farás parte dos seus despojos!",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Lit.: os que te mordem."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "hab-2-n10",
+              "offset": 47,
+              "original_marker": "d",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 8,
@@ -137,11 +509,25 @@
         {
           "verse": 9,
           "text": "Ai de quem tira lucro injusto para a sua casa para colocar o seu ninho bem alto, para se livrar da mão do malvado.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Ou: do mal."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "hab-2-n11",
+              "offset": 113,
+              "original_marker": "e",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "Planeaste a desonra para a tua casa, dando cabo de muitos povos E A e assim cometeste um crime contra ti mesmo.",
+          "text": "Planeaste a desonra para a tua casa, dando cabo de muitos povos e assim cometeste um crime contra ti mesmo.",
           "note_refs": []
         },
         {
@@ -157,7 +543,21 @@
         {
           "verse": 13,
           "text": "Eis que é um desígnio do Senhor do universo que os povos trabalhem para o fogo e as nações se cansem para ficar de mãos vazias.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "O conteúdo desta terceira imprecação resolve-se praticamente com uma reflexão que coloca os acontecimentos trágicos ainda dentro de um desígnio de Deus. Isto acrescenta perspetivas mais esperançosas para as vítimas da opressão, que fica de algum modo relativizada."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "hab-2-n12",
+              "offset": 43,
+              "original_marker": "f",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 14,
@@ -172,26 +572,151 @@
         {
           "verse": 16,
           "text": "Ficaste saciado de ignomínia e não de glória. Bebe também tu e mostra que és incircunciso. Derramar-se-á sobre ti a taça da mão direita do Senhor e para ti haverá desgraça em vez de glória.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "A vergonha a que o conquistador pretendia sujeitar alguém previamente embriagado é redobrada quando voltada contra si mesmo, porque tem de mostrar que é incircunciso, condição vergonhosa e desprezível para a sensibilidade judaica."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "hab-2-n13",
+              "offset": 89,
+              "original_marker": "g",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Pois a violência feita ao Líbano vai submergir-te e a chacina dos animais há de aniquilar-te, por causa do sangue humano derramado e da violência contra a terra, contra a cidade e todos os seus habitantes.",
-          "note_refs": []
+          "note_refs": [
+            "14",
+            "15",
+            "16"
+          ],
+          "notes": {
+            "14": "Para os conquistadores do antigo Oriente o Líbano era uma meta com muito interesse, por causa da riqueza de madeiras que não se encontravam facilmente naquelas zonas. Por isso encontra-se no primeiro lugar da lista das rapinas e da destruição atribuída ao conquistador.",
+            "15": "O texto hebraico dos manuscritos de Qumran atesta a existência de um sufixo na 2ª pessoa, presente já em algumas traduções antigas.",
+            "16": "Texto igual ao do v. 8."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "hab-2-n14",
+              "offset": 32,
+              "original_marker": "h",
+              "source_id": 29
+            },
+            {
+              "ref": "15",
+              "id": "hab-2-n15",
+              "offset": 92,
+              "original_marker": "i",
+              "source_id": 30
+            },
+            {
+              "ref": "16",
+              "id": "hab-2-n16",
+              "offset": 204,
+              "original_marker": "j",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "De que serve a estátua de um ídolo, se foi o escultor que a moldou? De que serve uma imagem de metal, mensageiro de mentira, para que possa confiar nessa imagem aquele que a moldou, ao fazer ídolos mudos?",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "A crítica aos comportamentos políticos do império dominante desemboca com naturalidade nesta dimensão cultural onde se nota como o seu mau comportamento moral equivale a uma aberração relativamente aos princípios fundamentais. A crítica dirige-se à idolatria como uma conceção degradada de Deus; e este é um dos tópicos universais da literatura bíblica (cf. 1Rs 12,25-30.31-33; Is 57,3)."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "hab-2-n17",
+              "offset": 34,
+              "original_marker": "k",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "Ai daquele que diz a um madeiro: “Acorda!”, e a uma pedra muda: “Desperta!” Será que ela pode ensinar? Ela está coberta de ouro e de prata, mas dentro dela não há nada de espírito.",
-          "note_refs": []
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "Esta expressão parece ser uma glosa vinda do versículo anterior. Por isso, algumas traduções deixam-na de fora."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "hab-2-n18",
+              "offset": 102,
+              "original_marker": "a",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "Porém, o Senhor está no seu templo santo: cale-se a terra inteira na sua frente.",
+          "note_refs": [
+            "19"
+          ],
+          "notes": {
+            "19": "Esta conclusão da imprecação posicionando toda a terra diante do templo do Senhor é como que uma preparação para o grande hino de epifania que é o salmo do capítulo seguinte."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "hab-2-n19",
+              "offset": 79,
+              "original_marker": "b",
+              "source_id": 35
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Resposta do Senhor",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "II. CINCO IMPRECAÇÕES CONTRA O OPRESSOR",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "Primeira imprecação",
+          "note_refs": []
+        },
+        {
+          "before_verse": 9,
+          "text": "Segunda imprecação",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Terceira imprecação",
+          "note_refs": []
+        },
+        {
+          "before_verse": 15,
+          "text": "Quarta imprecação",
+          "note_refs": []
+        },
+        {
+          "before_verse": 19,
+          "text": "Quinta imprecação",
           "note_refs": []
         }
       ]
@@ -202,7 +727,21 @@
         {
           "verse": 1,
           "text": "Oração do profeta Habacuc. Ao modo das lamentações.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Este título encontra-se também no Sl 7,1, no singular. São os dois únicos casos do uso deste termo; e o seu significado não é fácil de definir."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "hab-3-n1",
+              "offset": 50,
+              "original_marker": "c",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 2,
@@ -211,8 +750,31 @@
         },
         {
           "verse": 3,
-          "text": "Deus vem de Teman, o Santo do Monte Paran. [ Pausa ]. A sua majestade cobriu os céus e do seu louvor está cheia a terra.",
-          "note_refs": []
+          "text": "Deus vem de Teman, o Santo do Monte Paran. [Pausa]. A sua majestade cobriu os céus e do seu louvor está cheia a terra.",
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "O texto conserva aqui uma antiga versão do termo que significa Deus e que se usa também como nome (’Eloah). Este dado está em sintonia com um ambiente algo primitivo que neste hino parece conservar-se. Este versículo faz parte dos lugares onde se referem as origens de Javé, situadas nos desertos do Sul, que são designados com os nomes de Teman e Paran e integram o conceito bíblico de Sinai. Outros lugares bíblicos paralelos são Jz 5,4-5; Dt 33,2; Is 63,1-6; cf. Is 34,1-17.",
+            "3": "Esta teofania está projetada a partir das montanhas do Sul associadas à imagem do Sinai. A intenção parece fazer desta referência originária o fulcro do quadro teofânico em que se pretende mostrar como Deus domina o decorrer da História. Esta é a confiança de onde dimana a capacidade de viver e sobreviver às desgraças que a mensagem profética de Habacuc teve de tratar."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "hab-3-n2",
+              "offset": 4,
+              "original_marker": "d",
+              "source_id": 37
+            },
+            {
+              "ref": "3",
+              "id": "hab-3-n3",
+              "offset": 41,
+              "original_marker": "e",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 4,
@@ -222,17 +784,68 @@
         {
           "verse": 5,
           "text": "Diante dele avança a peste e a febre sai do rasto dos seus passos.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A palavra que significa febre deriva do termo cananaico para designar uma divindade (reshef) associada ao raio, ao relâmpago e ao granizo, estendendo-se a outras calamidades."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "hab-3-n4",
+              "offset": 36,
+              "original_marker": "f",
+              "source_id": 40
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Pondo-se de pé Ele sacudiu a terra, olhou e fez tremer os povos. As montanhas antigas são despedaçadas, inclinam-se as colinas primordiais, os seus percursos são de eternidade.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Mais do que especificar um tipo de montanha ou colina própria da antiguidade, trata-se de referir narrativas que apresentam densidades semânticas próprias do tempo das origens."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "hab-3-n5",
+              "offset": 138,
+              "original_marker": "g",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Sob a iniquidade vi aflitas as tendas de Cuchan e agitarem-se os abrigos da terra de Madian.",
-          "note_refs": []
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Lit.: cortinas; em paralelo com ’ahalîm (tendas). Seguimos a indicação da tradução dos LXX que usa a palavra skênê (tenda), com o sentido de “abrigo”.",
+            "7": "Madian é mais uma referência à região do Sinai (Ex 2,15; 3,1-6); Cuchan, pelo paralelismo em que se encontra no verso anterior, deverá encontrar-se igualmente no mesmo contexto."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "hab-3-n6",
+              "offset": 72,
+              "original_marker": "h",
+              "source_id": 42
+            },
+            {
+              "ref": "7",
+              "id": "hab-3-n7",
+              "offset": 91,
+              "original_marker": "i",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 8,
@@ -241,8 +854,22 @@
         },
         {
           "verse": 9,
-          "text": "Tu armas rapidamente o teu arco, as setas estão cheias de mensagem [ Pausa ] e abres a terra em rios.",
-          "note_refs": []
+          "text": "Tu armas rapidamente o teu arco, as setas estão cheias de mensagem [Pausa] e abres a terra em rios.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Apesar das dificuldades reconhecidas na tradução deste versículo, parece que nele se recorre à metáfora, bem conhecida na Bíblia, que descreve as intervenções de Deus com linguagem da meteorologia. Deus aparece como arqueiro: o arco simboliza a sua força e as setas, representadas pelos relâmpagos, transmitem a sua mensagem."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "hab-3-n8",
+              "offset": 66,
+              "original_marker": "j",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 10,
@@ -262,7 +889,21 @@
         {
           "verse": 13,
           "text": "Saíste a combate para salvar o teu povo, para salvar o teu ungido; esmagaste a cabeça da família do malvado, desnudando-a nos alicerces até ao pescoço. [Pausa]",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Esta é a leitura que o texto massorético regista. Outros, incluindo a NeoVulgata, traduzem puseste a nu os alicerces até à rocha."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "hab-3-n9",
+              "offset": 150,
+              "original_marker": "a",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 14,
@@ -272,7 +913,21 @@
         {
           "verse": 15,
           "text": "Conduziste os teus cavalos através do mar, no turbilhão das águas caudalosas.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Os cavalos a percorrer o mar, definido como águas caudalosas (lit.: poderosas) são traços descritivos do combate contra o mar primordial, adversário do criador."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "hab-3-n10",
+              "offset": 76,
+              "original_marker": "b",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 16,
@@ -292,6 +947,38 @@
         {
           "verse": 19,
           "text": "O Senhor, o Senhor é a minha força: Ele torna ágeis os meus pés como os das corças e faz-me caminhar nas alturas. Ao diretor de coro. Com instrumentos de cordas.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "III. SALMO",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Título",
+          "note_refs": []
+        },
+        {
+          "before_verse": 2,
+          "text": "Súplica",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "Visão da chegada do Senhor",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "O combate do Senhor",
+          "note_refs": []
+        },
+        {
+          "before_verse": 16,
+          "text": "Reação do profeta",
           "note_refs": []
         }
       ]

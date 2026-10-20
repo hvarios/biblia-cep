@@ -1,5 +1,34 @@
 {
+  "schema_version": 2,
   "book": "Malaquias",
+  "book_id": "ml",
+  "source": {
+    "format": "docx",
+    "file": "46_Ml.docx",
+    "title": "Malaquias"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Introdução",
+        "paragraphs": [
+          "Este livro é o último dos doze profetas menores e também o último do Antigo Testamento, segundo o ordenamento que deriva da Bíblia grega de Alexandria, dita tradução dos LXX. Ele contém um conjunto de oráculos divinos dirigidos a Israel através de Malaquias, de quem toma o nome e do qual não se referem mais dados concretos. O nome que foi colocado em título não tem a forma de um nome próprio. Ele poderia significar, na realidade, “o meu mensageiro” (1,1; 3,1). Seria, por conseguinte, possível tratar-se de um título simbólico dado a um texto de autor desconhecido ou, eventualmente, de um nome de uma pessoa real.",
+          "O tema principal parece ser a preocupação com um verdadeiro culto, de um relacionamento genuíno com Deus. Daí a denúncia dos desvios praticados pelos sacerdotes e pelo povo, a insistência nos procedimentos corretos, quanto às oferendas sagradas, à expectativa do dia do Senhor, que vem justamente para purificar e iluminar.",
+          "A estrutura do livro de Malaquias pode resumir-se num esquema de duas partes principais com um prólogo e um epílogo:",
+          "– Prólogo: Deus e o seu povo (1,1-5);",
+          "– I. As culpas de Israel (1,6-2,17);",
+          "– II. O dia do Senhor (3,1-22);",
+          "– Epílogo: A vinda de Elias (3,23-24).",
+          "Os oráculos orientam-se, portanto, a corrigir uma série de desvios que parecem situar-se no período após o regresso do exílio da Babilónia. Esse deve ter sido um momento de desorientação. As limitações económicas ajudam a compreender o recurso a “animais cegos, coxos ou doentes” para serem oferecidos em sacrifício (1,8), bem como certa distância para com as antigas práticas religiosas. O texto deambula entre oráculos e diálogos em forma de controvérsia, o que deixa, no conjunto, um aspeto algo desorganizado.",
+          "Não obstante ter sido classificado como o último livro na lista canónica do Antigo Testamento, não é certamente aquele que está mais próximo dos Evangelhos, em termos históricos. A redação de Malaquias deve situar-se por volta da última metade do século V a.C. Aliás, o Targum considera a hipótese de Esdras ter sido o seu autor. É, no entanto, possível que este livro espelhe uma época situada entre a reconstrução do templo (515 a.C.) e o início da atividade de Esdras (440 a.C.). O entusiasmo inicial suscitado pelos profetas Ageu e Zacarias parece ter-se já esbatido.",
+          "E sente-se, entretanto, o peso do desânimo e do desinteresse a dominar o ambiente da vida judaica.",
+          "A comunidade judaica assentava em dois eixos: um é político e está integrado na administração do império persa por meio da função de um governador; o outro é social e nacional e assenta na função do sacerdócio. A identidade da comunidade israelita que se pressente em torno ao livro de Malaquias assentava essencialmente na cultura e na religião. Compreende-se, por isso, a insistência nos pronunciamentos deste profeta que são dirigidos aos sacerdotes.",
+          "Mesmo sendo uma obra razoavelmente antiga, o livro de Malaquias contém alguns ensinamentos que o aproximam muito dos conteúdos do Novo Testamento: o amor do Senhor (1,2), a indissolubilidade do matrimónio (2,16), o universalismo (1,5), a perenidade dos mandamentos divinos (3,22), o regresso de Elias e a vinda do Senhor (3,23), que ressoam na maneira como os evangelhos narram a vida e mensagem de Jesus. A figura de Elias como precursor converge com a de João Batista e define a sua relação com Jesus (cf. Mt 3,3-4; 17,10-13; 27, 47; Mc 9,11-13; Lc 111.17; Ap 11,6)."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,21 +36,58 @@
         {
           "verse": 1,
           "text": "Proclamação. Palavra do Senhor dirigida a Israel por meio de Malaquias:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Proclamação, em hebraico massa’, é o nome que designa uma modalidade específica de declaração profética. O seu significado sublinha a ideia de um aviso, ameaça, pronunciamento ou sentença. A designação mais conhecida na Bíblia para uma declaração profética é a do oráculo (v. 2), em hebraico ne’um."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ml-1-n1",
+              "offset": 11,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "«Diz o Senhor: Eu amei-vos e vós dizeis: “Como é que nos amaste?” Acaso não era Esaú um irmão para Jacob? Oráculo do Senhor! Contudo, Eu amei Jacob",
+          "text": "«Diz o Senhor: Eu amei‑vos e vós dizeis: “Como é que nos amaste?” Acaso não era Esaú um irmão para Jacob? Oráculo do Senhor! Contudo, Eu amei Jacob",
           "note_refs": []
         },
         {
           "verse": 3,
           "text": "e menosprezei Esaú. Por isso fiz dos seus montes uma desolação e deixei sua herança aos chacais do deserto.",
-          "note_refs": []
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "Lit.: odiei. Na linguagem bíblica, a preferência afetiva por alguém diz-se com o verbo amar. Uma relação afetiva menos significativa pode ser dita com o verbo odiar, que, este caso, significa simplesmente não ser om preferido, como acontece na relação afetiva e matrimonial de Elcana com as suas duas mulheres (cf. 1Sm 1,5). A confrontação entre as personagens de Jacob e Esaú é um tema clássico em toda a literatura bíblica. A conflitualidade ancestral parece, entretanto, ter-se acentuado depois da conquista da Judeia pelo império neobabilónico, como se pode ver nos profetas desta época, nomeadamente Ageu, Zacarias e Malaquias.",
+            "3": "Referência a Jacob que se sobrepõe ao seu irmão Esaú, ficando este a habitar nas regiões desérticas do Sul (cf. Gn 25; tema retomado em Rm 9)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ml-1-n2",
+              "offset": 13,
+              "original_marker": "b",
+              "source_id": 2
+            },
+            {
+              "ref": "3",
+              "id": "ml-1-n3",
+              "offset": 106,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "Edom pode dizer: “Fomos destruídos, mas voltaremos a reconstruir as ruínas”. Assim diz o Senhor do universo: eles construirão e Eu demolirei. Hão de chamar-lhes ‘território de maldade’ e ‘povo com quem o Senhor se zangou para sempre’.",
+          "text": "Edom pode dizer: “Fomos destruídos, mas voltaremos a reconstruir as ruínas”. Assim diz o Senhor do universo: eles construirão e Eu demolirei. Hão de chamar‑lhes ‘território de maldade’ e ‘povo com quem o Senhor se zangou para sempre’.",
           "note_refs": []
         },
         {
@@ -31,23 +97,88 @@
         },
         {
           "verse": 6,
-          "text": "O filho honra o seu pai e o servo, os seus senhores. Mas se Eu sou pai, onde está a honra que me é devida? E se Eu sou Senhor, O A onde está o temor que me é devido? O Senhor do universo declara: vós, sacerdotes, desprezais o meu nome e perguntais: “Em que é que desprezámos o teu nome?”",
-          "note_refs": []
+          "text": "O filho honra o seu pai e o servo, os seus senhores. Mas se Eu sou pai, onde está a honra que me é devida? E se Eu sou Senhor, onde está o temor que me é devido? O Senhor do universo declara: vós, sacerdotes, desprezais o meu nome e perguntais: “Em que é que desprezámos o teu nome?”",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: …senhores. Este plural (’adonim) referido a uma só pessoa (Deus) é equivalente a outro plural, ’elohim (deuses) que na linguagem bíblica tanto significa “deuses” como “deus”, dependendo do contexto. A forma plural’adonim está na base do título de Adonai, que, na Bíblia, é sistematicamente aplicado a Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ml-1-n4",
+              "offset": 125,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "Apresentais sobre o meu altar alimentos conspurcados e dizeis: “Como é que tos conspurcámos?”. É quando dizeis: “A mesa do Senhor tem pouca importância ”.",
-          "note_refs": []
+          "text": "Apresentais sobre o meu altar alimentos conspurcados e dizeis: “Como é que tos conspurcámos?”. É quando dizeis: “A mesa do Senhor tem pouca importância”.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: … é desprezível."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ml-1-n5",
+              "offset": 151,
+              "original_marker": "a",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Se apresentais em sacrifício um animal cego, não é mau? E se ofereceis um animal coxo ou doente, não é mau? Vai oferecê-lo ao teu governador. Ficará ele satisfeito contigo, de modo a tratar-te bem? Diz o Senhor do universo!",
-          "note_refs": []
+          "text": "Se apresentais em sacrifício um animal cego, não é mau? E se ofereceis um animal coxo ou doente, não é mau? Vai oferecê‑lo ao teu governador. Ficará ele satisfeito contigo, de modo a tratar-te bem? Diz o Senhor do universo!",
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Sobre as características exigidas para as oferendas, ver Lv 22,18-25.",
+            "7": "Lit.: erguerá a tua face."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ml-1-n6",
+              "offset": 106,
+              "original_marker": "b",
+              "source_id": 6
+            },
+            {
+              "ref": "7",
+              "id": "ml-1-n7",
+              "offset": 196,
+              "original_marker": "c",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Agora, pois, implorai benevolência diante de Deus e que Ele que tenha piedade de nós. Pois isso vem das vossas mãos. Será que Ele vos acolherá favoravelmente? Diz o Senhor do universo!",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: erguerá a vossa face."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "ml-1-n8",
+              "offset": 157,
+              "original_marker": "d",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 10,
@@ -57,7 +188,21 @@
         {
           "verse": 11,
           "text": "Pois, desde o nascente até ao poente, o meu nome é grande entre os povos; e em todo o lugar se oferece incenso ao meu nome e uma oblação pura; porque o meu nome é grande entre os povos. Diz o Senhor do universo.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "O quadro otimista deste versículo contrasta com a prática cultual descrita pelo profeta Malaquias e constitui uma referência a um horizonte religioso muito diferente que aparece frequentemente sublinhado nos inícios do cristianismo."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "ml-1-n9",
+              "offset": 210,
+              "original_marker": "e",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 12,
@@ -72,6 +217,18 @@
         {
           "verse": 14,
           "text": "Maldito seja o fraudulento, que tem no seu rebanho um animal macho e faz voto de o oferecer, mas sacrifica ao Senhor um defeituoso. Pois Eu sou um grande rei. Diz o Senhor do universo! E o meu nome é temível entre os povos.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Prólogo: Deus e o seu povo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 6,
+          "text": "I. As culpas de Israel",
           "note_refs": []
         }
       ]
@@ -92,12 +249,40 @@
         {
           "verse": 3,
           "text": "Eis que vou então despedaçar-vos o braço e lançar-vos-ei esterco à cara, o esterco das vossas festividades, para serdes carregados para esse lugar.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Ou: Eis que vou ameaçar a vossa descendência / e lançar-vos o esterco à cara."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ml-2-n1",
+              "offset": 71,
+              "original_marker": "f",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "Ficareis então a saber que vos mandei aviso para que se mantenha a minha aliança com Levi. Diz o Senhor do universo.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Aqui é referida a escolha da tribo de Levi para o serviço sacerdotal, segundo o que é determinado em Nm 25 e Dt 33,8-11."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ml-2-n2",
+              "offset": 89,
+              "original_marker": "g",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 5,
@@ -111,12 +296,26 @@
         },
         {
           "verse": 7,
-          "text": "Pois os lábios do sacerdote devem guardar o conhecimento e da sua boca espera-se a instrução, pois ele é mensageiro do do universo.",
-          "note_refs": []
+          "text": "Pois os lábios do sacerdote devem guardar o conhecimento e da sua boca espera-se a instrução, pois ele é mensageiro do Senhor do universo.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Sobre o significado de mensageiro, ver a nota a 3,1."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ml-2-n3",
+              "offset": 115,
+              "original_marker": "a",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Mas vós desviastes-vos do caminho, fizestes tropeçar muitos na instrução e destruístes a aliança dos levitas. Diz o do universo.",
+          "text": "Mas vós desviastes-vos do caminho, fizestes tropeçar muitos na instrução e destruístes a aliança dos levitas. Diz o Senhor do universo.",
           "note_refs": []
         },
         {
@@ -131,22 +330,50 @@
         },
         {
           "verse": 11,
-          "text": "Judá cometeu uma traição e uma abominação foi cometida em Israel e em Jerusalém. Pois Judá profanou o santuário do, santuário que Ele amava, quando desposou a filha de um deus estrangeiro.",
-          "note_refs": []
+          "text": "Judá cometeu uma traição e uma abominação foi cometida em Israel e em Jerusalém. Pois Judá profanou o santuário do Senhor, santuário que Ele amava, quando desposou a filha de um deus estrangeiro.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A metáfora da infidelidade matrimonial para exprimir o mau comportamento religioso de Israel para com Deus, procurando outros deuses, parece aplicar-se bem a estes versículos 11-16. No entanto, esta fidelidade pode abranger mais do que a tradicional metáfora e focar igualmente problemas práticos da vida matrimonial dos judeus daquele tempo, nomeadamente o dos casamentos com estrangeiros."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ml-2-n4",
+              "offset": 194,
+              "original_marker": "b",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "Que o elimine das tendas de Jacob aquele que fez isso e quem responde por ele, de entre os que apresentam oferendas ao do universo.",
-          "note_refs": []
+          "text": "Que o Senhor elimine das tendas de Jacob aquele que fez isso e quem responde por ele, de entre os que apresentam oferendas ao Senhor do universo.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A expressão hebraica parece significar que esta ameaça se estende a qualquer outro membro da família."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ml-2-n5",
+              "offset": 84,
+              "original_marker": "c",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 13,
-          "text": "E vós fazeis ainda uma segunda coisa, isto é, cobrir de lágrimas o altar do, com lamentos e gemidos, por Ele não olhar para a vossa oferenda nem a aceitar com agrado das vossas mãos.",
+          "text": "E vós fazeis ainda uma segunda coisa, isto é, cobrir de lágrimas o altar do Senhor, com lamentos e gemidos, por Ele não olhar para a vossa oferenda nem a aceitar com agrado das vossas mãos.",
           "note_refs": []
         },
         {
           "verse": 14,
-          "text": "E vós dizeis: “Por que razão?” É porque o foi testemunha entre ti e a esposa da tua juventude, a quem tu atraiçoaste, apesar de ela ser a tua companheira, a tua esposa de aliança.",
+          "text": "E vós dizeis: “Por que razão?” É porque o Senhor foi testemunha entre ti e a esposa da tua juventude, a quem tu atraiçoaste, apesar de ela ser a tua companheira, a tua esposa de aliança.",
           "note_refs": []
         },
         {
@@ -156,12 +383,19 @@
         },
         {
           "verse": 16,
-          "text": "Pois Eu detesto o repúdio, diz o, Deus de Israel, e aquele que encobre a violência com a sua veste, diz o do universo. Portanto, protegei o vosso espírito e não sejais traidores.",
+          "text": "Pois Eu detesto o repúdio, diz o Senhor, Deus de Israel, e aquele que encobre a violência com a sua veste, diz o Senhor do universo. Portanto, protegei o vosso espírito e não sejais traidores.",
           "note_refs": []
         },
         {
           "verse": 17,
-          "text": "Cansastes o com as vossas palavras e ainda perguntais: “Cansámo-lo com quê?” Quando dizeis: “Todo aquele que faz o mal é bom aos olhos do e neles Ele se compraz”. Ou: “Onde está o Deus da justiça?”.",
+          "text": "Cansastes o Senhor com as vossas palavras e ainda perguntais: “Cansámo-lo com quê?” Quando dizeis: “Todo aquele que faz o mal é bom aos olhos do Senhor e neles Ele se compraz”. Ou: “Onde está o Deus da justiça?”.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Os sacerdotes mensageiros do Senhor",
           "note_refs": []
         }
       ]
@@ -171,72 +405,123 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Eis que Eu envio o meu mensageiro e ele preparará o caminho diante de mim. E imediatamente entrará no seu templo o a quem buscais e o mensageiro da aliança, por quem suspirais. Ele aí vem! Diz o do universo.",
-          "note_refs": []
+          "text": "Eis que Eu envio o meu mensageiro e ele preparará o caminho diante de mim. E imediatamente entrará no seu templo o Senhor a quem buscais e o mensageiro da aliança, por quem suspirais. Ele aí vem! Diz o Senhor do universo.",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "O termo mensageiro (male’ak) é usado neste livro com diversas conotações. Em 2,7 aplica-se ao sacerdote e descreve a sua função de representante de Deus. Em 3,1 refere-se a uma personagem, sacerdote ou não, investida da função de abrir caminho para a chegada do dia do Senhor. O ponto mais sensível, no entanto, é ainda em 3,1, onde o mensageiro da aliança é usado em paralelo com o Senhor. Deverão as duas expressões ser entendidas como sinónimas ou representará o mensageiro uma outra personagem que entra no templo ao mesmo tempo que o Senhor? Esta misteriosa indefinição manteve-se como uma porta aberta para interpretações sugestivas (cf. Ex 3,2;23,20; Gn 16,7; Mt 11,10). Desta maneira, a ressonância simbólica do nome de Malaquias fica ainda mais sublinhada.",
+            "2": "O Senhor aparece aqui, não sob a sua forma de título habitual de Deus (’adonai), mas em singular, como se fizesse referência a um qualquer senhor, em sentido geral."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ml-3-n1",
+              "offset": 33,
+              "original_marker": "d",
+              "source_id": 15
+            },
+            {
+              "ref": "2",
+              "id": "ml-3-n2",
+              "offset": 121,
+              "original_marker": "e",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Mas quem poderá suportar o dia da sua vinda? Quem resistirá quando Ele se fizer ver? Ele é como fogo de fundidor e como lixívia de lavadores.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O dia do Senhor segundo Malaquias concretiza-se com uma entrada extraordinária de Deus no templo. O núcleo das suas preocupações está na pureza da vida cultual e na prática da justiça. São aliás estas as preocupações principais da sua profecia."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ml-3-n3",
+              "offset": 43,
+              "original_marker": "a",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Ele sentar-se-á para fundir e purificar a prata. Purificará os filhos de Levi e limpá-los-á como o ouro e como a prata; e eles serão para o os que apresentam uma oblação com justiça.",
+          "text": "Ele sentar-se‑á para fundir e purificar a prata. Purificará os filhos de Levi e limpá-los-á como o ouro e como a prata; e eles serão para o Senhor os que apresentam uma oblação com justiça.",
           "note_refs": []
         },
         {
           "verse": 4,
-          "text": "Então a oblação de Judá e de Jerusalém será agradável ao, como nos dias antigos, como nos anos de outrora.",
+          "text": "Então a oblação de Judá e de Jerusalém será agradável ao Senhor, como nos dias antigos, como nos anos de outrora.",
           "note_refs": []
         },
         {
           "verse": 5,
-          "text": "Aproximar-me-ei de vós para julgar e serei uma testemunha pronta contra os feiticeiros, contra os adúlteros, contra os que juram por coisas falsas, contra os que exploram o trabalhador no seu salário, contra os que oprimem a viúva e o órfão, contra os que maltratam o estrangeiro e não me temem a mim. Diz o do universo.",
-          "note_refs": []
+          "text": "Aproximar‑me‑ei de vós para julgar e serei uma testemunha pronta contra os feiticeiros, contra os adúlteros, contra os que juram por coisas falsas, contra os que exploram o trabalhador no seu salário, contra os que oprimem a viúva e o órfão, contra os que maltratam o estrangeiro e não me temem a mim. Diz o Senhor do universo.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: … pela falsidade. Esta é uma maneira habitual de a literatura bíblica se referir aos outros deuses ou ídolos."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ml-3-n4",
+              "offset": 146,
+              "original_marker": "b",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "Porque Eu, o, não mudei; e vós não deixastes de ser filhos de Jacob.",
+          "text": "Porque Eu, o Senhor, não mudei; e vós não deixastes de ser filhos de Jacob.",
           "note_refs": []
         },
         {
           "verse": 7,
-          "text": "Já desde os tempos dos vossos pais vós vos afastastes dos meus preceitos e não os observastes. Voltai para mim e Eu voltarei para vós, diz o do universo. Mas vós dizeis: “Como é que voltaremos?”.",
+          "text": "Já desde os tempos dos vossos pais vós vos afastastes dos meus preceitos e não os observastes. Voltai para mim e Eu voltarei para vós, diz o Senhor do universo. Mas vós dizeis: “Como é que voltaremos?”.",
           "note_refs": []
         },
         {
           "verse": 8,
-          "text": "Pode um homem enganar a Deus? Ora vós enganais-me e dizeis: “Em que Te enganámos?” É no dízimo e nas ofertas de tributo.",
+          "text": "Pode um homem enganar a Deus? Ora vós enganais‑me e dizeis: “Em que Te enganámos?” É no dízimo e nas ofertas de tributo.",
           "note_refs": []
         },
         {
           "verse": 9,
-          "text": "A maldição caiu sobre vós e, apesar disso, enganais-me, vós e todo o povo.",
+          "text": "A maldição caiu sobre vós e, apesar disso, enganais‑me, vós e todo o povo.",
           "note_refs": []
         },
         {
           "verse": 10,
-          "text": "Levai todo o dízimo à casa do tesouro, e haverá aprovisionamento na minha casa. E ponde-me desta maneira à prova, diz o do universo! Juro que abro para vós os reservatórios do céu e derramo sobre vós bênçãos sem parar.",
+          "text": "Levai todo o dízimo à casa do tesouro, e haverá aprovisionamento na minha casa. E ponde‑me desta maneira à prova, diz o Senhor do universo! Juro que abro para vós os reservatórios do céu e derramo sobre vós bênçãos sem parar.",
           "note_refs": []
         },
         {
           "verse": 11,
-          "text": "Afugentarei de vós o roedor para que não vos extermine os frutos da terra e não fique improdutiva a videira no campo. Diz o do universo!",
+          "text": "Afugentarei de vós o roedor para que não vos extermine os frutos da terra e não fique improdutiva a videira no campo. Diz o Senhor do universo!",
           "note_refs": []
         },
         {
           "verse": 12,
-          "text": "Então felicitar-vos-ão todos os povos, Pois vós sereis uma terra de delícias, diz o do universo.",
+          "text": "Então felicitar-vos-ão todos os povos, Pois vós sereis uma terra de delícias, diz o Senhor do universo.",
           "note_refs": []
         },
         {
           "verse": 13,
-          "text": "São duras as vossas palavras contra mim. Diz o. E, no entanto, perguntais: “Que dissemos nós contra Ti?”",
+          "text": "São duras as vossas palavras contra mim. Diz o Senhor. E, no entanto, perguntais: “Que dissemos nós contra Ti?”",
           "note_refs": []
         },
         {
           "verse": 14,
-          "text": "Dissestes: “É inútil servir a Deus. Que proveito há em termos cumprido os seus preceitos ou termo-nos vestido de luto diante do do universo?",
+          "text": "Dissestes: “É inútil servir a Deus. Que proveito há em termos cumprido os seus preceitos ou termo-nos vestido de luto diante do Senhor do universo?",
           "note_refs": []
         },
         {
@@ -246,52 +531,111 @@
         },
         {
           "verse": 16,
-          "text": "Os que temem o falavam entre si. E o prestou atenção e escutou-os. Diante dele foi escrito um livro de memórias em favor daqueles que o temem e pensam no seu nome.",
+          "text": "Os que temem o Senhor falavam entre si. E o Senhor prestou atenção e escutou‑os. Diante dele foi escrito um livro de memórias em favor daqueles que o temem e pensam no seu nome.",
           "note_refs": []
         },
         {
           "verse": 17,
-          "text": "Eles serão para mim a parte preferida, no dia em que Eu vou intervir. Diz o do universo. Eu terei compaixão deles, como alguém que se compadece do filho que o serve.",
+          "text": "Eles serão para mim a parte preferida, no dia em que Eu vou intervir. Diz o Senhor do universo. Eu terei compaixão deles, como alguém que se compadece do filho que o serve.",
           "note_refs": []
         },
         {
           "verse": 18,
           "text": "Então voltareis a ver a diferença entre o justo e o malfeitor, entre aquele que serve a Deus e aquele que não o serve.",
           "note_refs": []
-        }
-      ]
-    },
-    {
-      "chapter": 4,
-      "verses": [
+        },
         {
-          "verse": 1,
-          "text": "Porque está a chegar o dia ardente como uma fornalha, em que todos os soberbos e os que praticam a iniquidade serão como palha. Esse dia que virá há de queimá-los. Diz o do universo! E não lhes deixará raiz nem ramo.",
+          "verse": 19,
+          "text": "Porque está a chegar o dia ardente como uma fornalha, em que todos os soberbos e os que praticam a iniquidade serão como palha. Esse dia que virá há de queimá-los. Diz o Senhor do universo! E não lhes deixará raiz nem ramo.",
           "note_refs": []
         },
         {
-          "verse": 2,
+          "verse": 20,
           "text": "Mas para vós que temeis o meu nome brilhará o sol da justiça, trazendo a cura nos seus raios. Saireis do estábulo e saltareis como os novilhos.",
           "note_refs": []
         },
         {
-          "verse": 3,
-          "text": "Calcareis os malfeitores, que ficarão como cinza debaixo da planta dos vossos pés, no dia em que Eu vou intervir. Diz o do universo.",
+          "verse": 21,
+          "text": "Calcareis os malfeitores, que ficarão como cinza debaixo da planta dos vossos pés, no dia em que Eu vou intervir. Diz o Senhor do universo.",
           "note_refs": []
         },
         {
-          "verse": 4,
-          "text": "Recordai-vos da lei de Moisés, o meu servo, a quem ordenei, no Horeb, preceitos e normas para todo o Israel.",
+          "verse": 22,
+          "text": "Recordai‑vos da lei de Moisés, o meu servo, a quem ordenei, no Horeb, preceitos e normas para todo o Israel.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A referência explícita à lei de Moisés, ao monte Horeb, que é uma designação alternativa para o monte Sinai e designação do conjunto legal de preceitos e normas para todo o Israel dá a entender que este nível do livro Malaquias representa um tempo razoavelmente recente."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ml-3-n5",
+              "offset": 107,
+              "original_marker": "a",
+              "source_id": 19
+            }
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "Eis que vou enviar‑vos o profeta Elias, antes de chegar o dia do Senhor, grande e terrível.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Malaquias continua a investir nos dinamismos que vêm do passado e se projetam em ideias de futuro. O lançamento da figura do profeta Elias neste horizonte foi de grande impacte para o cristianismo e para o judaísmo até aos dias de hoje. Curiosamente, o núcleo principal deste futuro dia do Senhor consiste numa convergência entre os corações de gerações diferentes. Malaquias situa a contemplação hermenêutica a níveis de grande profundidade. A literatura do Novo Testamento vê no regresso do profeta Elias um precursor do Messias e atribui esse papel a João Batista (Mt 17,9-13)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ml-3-n6",
+              "offset": 38,
+              "original_marker": "b",
+              "source_id": 20
+            }
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "Ele reconduzirá o coração dos pais aos filhos e o coração dos filhos aos seus pais, para que Eu não tenha que vir e reduzir a terra ao extermínio».",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "O extermínio é expresso com o termo herem, que significa a destruição total de qualquer coisa ou pessoa, considerando que essa é a maneira de a retirar de qualquer outra finalidade ou utilização. Cf. Nm 21,2; Js 7,1; 1Rs 20,42."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ml-3-n7",
+              "offset": 145,
+              "original_marker": "c",
+              "source_id": 21
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "II. O dia do Senhor",
           "note_refs": []
         },
         {
-          "verse": 5,
-          "text": "Eis que vou enviar-vos o profeta Elias, antes de chegar o dia do Senhor, grande e terrível.",
+          "before_verse": 7,
+          "text": "Valor dos dízimos e ofertas",
           "note_refs": []
         },
         {
-          "verse": 6,
-          "text": "Ele reconduzirá o coração dos pais aos filhos e o coração dos filhos aos seus pais, para que Eu não tenha que vir e reduzir a terra ao extermínio». PARALELOS",
+          "before_verse": 13,
+          "text": "Recompensa para o temor de Deus e o dia do Senhor",
+          "note_refs": []
+        },
+        {
+          "before_verse": 23,
+          "text": "Epílogo: Vinda de Elias",
           "note_refs": []
         }
       ]

@@ -1,23 +1,100 @@
 {
+  "schema_version": 2,
   "book": "Rute",
+  "book_id": "rt",
+  "source": {
+    "format": "docx",
+    "file": "08_Rt.docx",
+    "title": "Livro de Rute"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": null,
+        "paragraphs": [
+          "O título do livro de Rute deriva do nome de uma das personagens principais da narração. Na verdade, trata-se de uma história bem sugestiva e cheia de vivacidade, um drama com vários atores masculinos que entram e saem de cena, deixando finalmente no palco apenas as duas mulheres, em torno das quais se tece todo o enredo e se constrói o seu simbolismo e alcance cultural, nomeadamente Rute e Noemi.",
+          "Numa narrativa curta, abrangendo quatro episódios, correspondentes aos quatro capítulos do livro, encontramos um relato de acontecimentos que ocorrem em dois enquadramentos de sentido bem diferente. O primeiro enquadramento é em Moab, para onde se foram refugiar Elimélec, com a sua mulher Noemi e com os seus filhos. Elimélec bem como os seus dois filhos acabaram por morrer cedo naquela terra estrangeira. O segundo enquadramento é em Belém, na Judeia, que era a terra natal da família de Elimélec e que, por sua própria escolha, acabou por se tornar também a terra de Rute, uma mulher moabita. Esta tinha-se integrado na família como esposa de um dos filhos de Elimeléc e Noemi e é por ela que se prossegue a linhagem familiar que conduzirá até David.",
+          "O contexto histórico escolhido como enquadramento para esta história exemplar é a época dos Juízes (1,1), no período situado entre a morte de Josué e o início da monarquia. A experiência nele relatada prolonga-se por vários anos, cobrindo um período de grande carestia (1,1) e outro de bem-estar (1,6).",
+          "Esta história é a de uma família de Judá, que acaba por se tornar importante, pela maneira como representa valores essenciais da tradição bíblica e pelo lugar decisivo que ocupa na genealogia de David, como mostram os últimos versículos (4,17-22), confirmados pela referência em Mt 1,5. Estes representam o quadro histórico-salvífico da narração.",
+          "Nos quatro capítulos deste livro, estão esquematizados os passos principais desta aventura pessoal, social e institucional, de grande alcance cultural na experiência histórica do povo bíblico.",
+          "1: Introdução; Rute integrada numa família de Judá.",
+          "2: Rute encontra Booz em Belém.",
+          "3: Passos para um compromisso.",
+          "4: Resgate, união e descendência.",
+          "O livro de Rute é uma pérola literária que ajuda a entender antigos costumes de Israel, mormente sobre as relações familiares; o papel decisivo da mulher dentro da família e fora dela; os deveres e os sentimentos a cultivar para com os estrangeiros, os órfãos e as viúvas; e ainda as tradições sobre o significado e o alcance do levirato e do resgate, bastante detalhadas no relato.",
+          "O papel central desta mulher moabita, numa obra que parece ter tido a sua redação final no século V a.C., num tempo de alguma insegurança no que se referia ao relacionamento com os estrangeiros, após o regresso do exílio da Babilónia, constitui um apelo ao acolhimento dos não israelitas na sociedade israelita, na linha do que encontramos também no livro de Jonas, em que o profeta é enviado aos habitantes de Nínive para lhes anunciar a misericórdia de Deus.",
+          "A presença de duas mulheres, Rute e Noemi, no centro do relato, como protagonistas, articula-se com outras grandes figuras bíblicas femininas, como é o caso de Eva, de Ester, de Judite e das mulheres do Novo Testamento, como a Virgem Maria, Isabel, Maria Madalena, Priscila…",
+          "No ordenamento da Bíblia Hebraica, Rute aparece na terceira categoria Ketubîm (Escritos), fazendo parte dos cinco rolos (meguilot), Rute, Cântico dos Cânticos, Coélet, Ester, Lamentações, a serem lidos nas principais festas. Rute é o rolo de leitura destinado à Festa de Pentecostes ou das Semanas.",
+          "De forma discreta, o livro de Rute insiste sobretudo nos matizes de conteúdo. Sem recorrer a personagens sobrenaturais, como acontece na literatura bíblica mais próxima da época helenística, o livro de Rute apresenta Deus a conduzir os acontecimentos da história, atravessando experiências dolorosas, mas atingindo objetivos consistentes. Os percursos seguidos integram-se no âmbito normal das experiências por que passam os humanos e as suas instituições. Esta atuação eficaz de Deus através do dinamismo interno dos acontecimentos humanamente mais naturais pode ver-se no facto de o termo com que se refere o manto de Booz que cobre Rute (3,9) ser o mesmo com o qual se descreve a proteção de Deus em 2,12."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "verse": 1,
-          "text": "Rute, a nora moabita de Elimélec e Noemi Nos dias em que governavam os juízes, aconteceu que houve uma fome naquela terra e certo homem partiu de Belém de Judá, com a sua mulher e os seus dois filhos, para morar nos campos de Moab.",
+          "text": "Nos dias em que governavam os juízes, aconteceu que houve uma fome naquela terra e certo homem partiu de Belém de Judá, com a sua mulher e os seus dois filhos, para morar nos campos de Moab.",
           "note_refs": []
         },
         {
           "verse": 2,
           "text": "O homem chamava-se Elimélec; a sua mulher, Noemi; e os seus dois filhos, Maalon e Quilion. Eles eram naturais de Efrata, de Belém de Judá. Chegaram aos campos de Moab e ali ficaram.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2",
+            "3"
+          ],
+          "notes": {
+            "1": "Os nomes das personagens que integram esta narrativa têm significados que condizem com o sentido geral que com ela se pretende transmitir e são como que uma síntese do mesmo. Elimélec significa o meu Deus é rei; Noemi, minha doçura; Maalon, doença; Quilion, fragilidade; Orpa, a que vira costas; Rute, amiga, companheira.",
+            "2": "De Efrata, ou seja, pertenciam ao clã de Efrata, que se tinha estabelecido em Belém (Mq 5,1; Mt 2,5-6).",
+            "3": "Os campos de Moab representam o território vizinho de Israel, entre Amon e Edom. Moab foi na antiguidade uma entidade política regional. Aqui é referido como sendo simplesmente um território de emigração, sem mais identidade política."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "rt-1-n1",
+              "offset": 89,
+              "original_marker": "a",
+              "source_id": 1
+            },
+            {
+              "ref": "2",
+              "id": "rt-1-n2",
+              "offset": 119,
+              "original_marker": "b",
+              "source_id": 2
+            },
+            {
+              "ref": "3",
+              "id": "rt-1-n3",
+              "offset": 166,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Elimélec, marido de Noemi morreu; e ela ficou só com os seus dois filhos.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A expressão ficou só, tanto aqui como no v. 5 traduz uma expressão hebraica que significa literalmente ficou de resto. Este termo resto constitui uma ideia bíblica segundo a qual, depois de uma catástrofe, permanecerá um resto, uma semente de esperança. Esta é uma fórmula de esperança muito valorizada no discurso profético (Is 10,20-23; 17,4-6; Am 3,12; Mq 4,6-7; 5,2; Zc 8,6-13)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "rt-1-n4",
+              "offset": 48,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 4,
@@ -52,7 +129,21 @@
         {
           "verse": 10,
           "text": "e disseram-lhe: «Queremos antes voltar contigo para o teu povo».",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Voltar exprime a ideia forte de regresso à terra da qual o povo tinha sido exilado. Esta ideia aplica-se especificamente a Noemi. Aplicando-a igualmente às noras, a narrativa está automaticamente a integrá-las no destino do povo, identificando-as com ele, tanto em termos de presente e futuro como em termos de passado."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "rt-1-n5",
+              "offset": 38,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 11,
@@ -62,7 +153,21 @@
         {
           "verse": 12,
           "text": "Voltai, minhas filhas, ide embora! Pois já estou velha para voltar a ter marido. Mesmo se dissesse ‘tenho esperança’ e tomasse esta noite um marido e gerasse filhos,",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "De acordo com Gn 38,8 e Dt 25,5s, a maneira mais normal de proteger uma viúva era que ela se casasse com alguém da família do seu defunto marido. O costume a que se alude neste texto é o do levirato, termo que deriva do latim levir, que significa cunhado. Realmente, a hipótese mais provável de um tal casamento era a de um irmão do defunto, cunhado da viúva. Mas a obrigação de assim resgatar uma viúva estendia-se igualmente a outros graus de parentesco. É o que acontece no caso de Rute."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "rt-1-n6",
+              "offset": 164,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 13,
@@ -77,12 +182,40 @@
         {
           "verse": 15,
           "text": "Então Noemi disse: «Olha! A tua cunhada voltou para o seu povo e para o seu deus. Volta, atrás da tua cunhada».",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "A expressão hebraica aqui usada também pode significar ‘para os seus deuses’."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "rt-1-n7",
+              "offset": 80,
+              "original_marker": "a",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "Rute respondeu: «Não insistas comigo, para que te abandone e deixe de te seguir. Pois aonde fores eu irei e onde pernoitares eu pernoitarei. O teu povo é o meu povo e o teu Deus é o meu Deus.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "A expressão hebraica, como frase feita, poderia igualmente significar teus deuses e meus deuses, tal como acontece no v. 15. Entretanto, no v. 15 pressupõe-se um contexto politeísta, enquanto o contexto do v. 16 é de monoteísmo."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "rt-1-n8",
+              "offset": 190,
+              "original_marker": "b",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 17,
@@ -91,7 +224,7 @@
         },
         {
           "verse": 18,
-          "text": "Vendo que Rute estava mesmo decidida a ir com ela, Noemi deixou de lhe falar nisso. Rute e Noemi em Belém",
+          "text": "Vendo que Rute estava mesmo decidida a ir com ela, Noemi deixou de lhe falar nisso.",
           "note_refs": []
         },
         {
@@ -102,16 +235,65 @@
         {
           "verse": 20,
           "text": "E ela respondia-lhes: «Não me chameis Noemi, chamai-me Mara, porque o Todo-Poderoso me amargurou muito.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "O termo Mara significa amarga."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "rt-1-n9",
+              "offset": 59,
+              "original_marker": "c",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 21,
           "text": "Eu parti repleta e o SENHOR fez-me voltar vazia; por que me haveis de me chamar Noemi, se o SENHOR se pôs contra mim e o Todo-Poderoso me afligiu?»",
-          "note_refs": []
+          "note_refs": [
+            "10",
+            "11"
+          ],
+          "notes": {
+            "10": "Ou: ‘me humilhou...’",
+            "11": "Lit.: …Shadday."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "rt-1-n10",
+              "offset": 116,
+              "original_marker": "d",
+              "source_id": 10
+            },
+            {
+              "ref": "11",
+              "id": "rt-1-n11",
+              "offset": 134,
+              "original_marker": "e",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "Assim regressou Noemi e com ela a sua nora Rute, a moabita, voltando dos campos de Moab. E elas chegaram a Belém no início da ceifa da cevada.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Rute, a nora moabita de Elimélec e Noemi",
+          "note_refs": []
+        },
+        {
+          "before_verse": 19,
+          "text": "Rute e Noemi em Belém",
           "note_refs": []
         }
       ]
@@ -121,7 +303,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Rute conhece Booz Noemi tinha um parente da parte do marido, um homem importante pela fortuna. Era da família de Elimélec e o seu nome era Booz.",
+          "text": "Noemi tinha um parente da parte do marido, um homem importante pela fortuna. Era da família de Elimélec e o seu nome era Booz.",
           "note_refs": []
         },
         {
@@ -152,7 +334,21 @@
         {
           "verse": 7,
           "text": "e que disse: “Deixa-me respigar e recolher espigas atrás dos ceifeiros”. Ela chegou e permaneceu desde a manhã até agora. Apenas por um pouco ela se sentou em casa».",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A tradução desta expressão final tem sido considerada de difícil tradução desde a antiguidade."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "rt-2-n1",
+              "offset": 164,
+              "original_marker": "f",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 8,
@@ -177,7 +373,21 @@
         {
           "verse": 12,
           "text": "O SENHOR retribua o teu procedimento e que a tua recompensa seja plena da parte do SENHOR, Deus de Israel, sob cujas asas tu vieste procurar abrigo».",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Para exprimir a asa protetora de Deus é usada a mesma expressão kanaf (asa ou orla) que em 3,9 serve para designar a orla do manto de Booz que serve de proteção e significa o resgate. Com recurso a esta subtileza literária, a narrativa interliga o nível da experiência histórica e o da providência divina."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "rt-2-n2",
+              "offset": 121,
+              "original_marker": "g",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 13,
@@ -202,7 +412,21 @@
         {
           "verse": 17,
           "text": "E ela respigou naquele campo até à tarde. Depois debulhou o que tinha respigado. E era cerca de um efá de cevada.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Um efá corresponderia a cerca de 30-35 litros, segundo cálculos recentes. Era mais do que aquilo que uma respigadora poderia conseguir recolher normalmente."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "rt-2-n3",
+              "offset": 102,
+              "original_marker": "h",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 18,
@@ -212,12 +436,40 @@
         {
           "verse": 19,
           "text": "Então a sua sogra disse-lhe: «Onde respigaste hoje? Onde trabalhaste? Bendito seja aquele que te reconheceu». Ela contou à sua sogra junto de quem tinha trabalhado e disse: «O homem junto de quem hoje trabalhei chama-se Booz».",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Normalmente, referia-se a pessoa estrangeira como não reconhecida."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "rt-2-n4",
+              "offset": 108,
+              "original_marker": "i",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "Noemi disse à sua nora: «Bendito seja ele da parte do SENHOR, que não deixou de mostrar a sua misericórdia para com os vivos e para com os mortos». E Noemi disse-lhe ainda: «Este homem é nosso parente próximo. É um dos que nos podem resgatar».",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: … um dos nossos resgatadores. O resgatador ou redentor (go’el) é um familiar próximo, que tem certos deveres de proteção para com outros familiares em condições sociais, como resgatar um familiar que se tornou escravo ou que ficou com o seu campo alienado (Lv 25), ou ainda suscitar descendência à viúva de um parente que morreu sem filhos. Esta narrativa associa a personagem do go’el (resgatador) e a do levir (cunhado). Por isso a história de Rute culmina no resgate de um campo e de uma viúva."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "rt-2-n5",
+              "offset": 242,
+              "original_marker": "j",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 21,
@@ -234,6 +486,13 @@
           "text": "E assim ela juntou-se às servas de Booz, para respigar até se acabar a ceifa da cevada e a ceifa do trigo. E morava com a sua sogra.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Rute conhece Booz",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -241,7 +500,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Possibilidade de resgate de Rute Então Noemi, a sua sogra, disse-lhe: «Minha filha, eu tenho de te procurar uma situação que seja boa para ti».",
+          "text": "Então Noemi, a sua sogra, disse-lhe: «Minha filha, eu tenho de te procurar uma situação que seja boa para ti».",
           "note_refs": []
         },
         {
@@ -257,7 +516,21 @@
         {
           "verse": 4,
           "text": "E, quando ele se tiver deitado, procura saber o lugar em que se deita. Depois destapas-lhe os pés e deitas-te ali. Ele mesmo te dirá o que deves fazer».",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Na literatura bíblica, dizer os pés é, em determinados contextos, uma maneira eufemística de se referir aos pés, às pernas e mesmo aos órgãos sexuais, sobretudo masculinos. Esta linguagem sobre a vida sexual serve-se de eufemismos de sensibilidade na expressão, mas nem é especialmente puritana."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "rt-3-n1",
+              "offset": 97,
+              "original_marker": "a",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 5,
@@ -282,17 +555,68 @@
         {
           "verse": 9,
           "text": "E perguntou: «Quem és tu?» Ela disse: «Sou Rute, tua serva; estende a orla do teu manto sobre a tua serva, porque tu és aquele que deve fazer o resgate».",
-          "note_refs": []
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "Estender o manto sobre alguém é um gesto de acolhimento e proteção. Ver a nota em 2,12.",
+            "3": "Lit.: …porque tu és o resgatador (go’el)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "rt-3-n2",
+              "offset": 105,
+              "original_marker": "b",
+              "source_id": 18
+            },
+            {
+              "ref": "3",
+              "id": "rt-3-n3",
+              "offset": 151,
+              "original_marker": "c",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Ele disse: «Bendita sejas tu pelo SENHOR, minha filha! Este teu segundo gesto de fidelidade é ainda melhor que o primeiro, pois não foste atrás de homens jovens, pobres ou ricos.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A fidelidade é aqui expressa pelo termo hebraico hésed, o qual pode, segundo os contextos, ser traduzido por misericórdia, amor ou bondade. Pode dizer-se relativamente a Deus ou aos homens (1,18; 2,12; 2,20). Afirmar isto de Rute é celebrar o facto de ela ter assumido a fidelidade para com a família do seu defunto marido, onde estão incluídos aqueles que têm o dever de resgate para com ela."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "rt-3-n4",
+              "offset": 91,
+              "original_marker": "d",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Agora, pois, minha filha, não temas! Tudo quanto disseres, eu o farei por ti. Pois toda gente do meu povo sabe que tu és uma mulher de valor.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: …todas as portas do meu povo."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "rt-3-n5",
+              "offset": 105,
+              "original_marker": "e",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 12,
@@ -317,7 +641,21 @@
         {
           "verse": 16,
           "text": "Chegou junto da sua sogra e esta disse-lhe: «Como estás tu, minha filha?» E ela contou-lhe tudo o que aquele homem fez por ela.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: … Quem és tu…"
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "rt-3-n6",
+              "offset": 58,
+              "original_marker": "f",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 17,
@@ -329,6 +667,13 @@
           "text": "Ela então disse: «Fica calma, minha filha, até que saibas como isto termina, porque esse homem não descansará enquanto não tiver concluído este assunto hoje mesmo».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Possibilidade de resgate de Rute",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -336,8 +681,22 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Booz cumpre a obrigação de resgate Booz subiu até à porta da cidade e sentou-se ali. Passava, então, por ali aquele que podia fazer o resgate, de quem Booz tinha falado, e disse: «Ó fulano, vem e senta-te aqui». Ele aproximou-se e sentou-se.",
-          "note_refs": []
+          "text": "Booz subiu até à porta da cidade e sentou-se ali. Passava, então, por ali aquele que podia fazer o resgate, de quem Booz tinha falado, e disse: «Ó fulano, vem e senta-te aqui». Ele aproximou-se e sentou-se.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A porta da cidade é um lugar importante, não só porque ali se podem encontrar as pessoas, mas também por aquele é o lugar onde se reúnem as assembleias que discutem as questões de interesse comum e especialmente os tribunais."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "rt-4-n1",
+              "offset": 48,
+              "original_marker": "g",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 2,
@@ -387,11 +746,25 @@
         {
           "verse": 11,
           "text": "E todo o povo que estava na porta e os anciãos disseram: «Somos testemunhas! Que o SENHOR conceda que a mulher que vem para tua casa seja como Raquel e como Lia, que ambas edificaram a casa de Israel. Que sejas poderoso em Efrata e alcances um nome em Belém.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A ligação de Rute com as matriarcas Raquel e Lia, esposas do patriarca Jacob, faz dela uma mulher venerável em Israel. Sobre o papel de Raquel, cf. Jr 31,15."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "rt-4-n2",
+              "offset": 199,
+              "original_marker": "h",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "E seja a tua casa como a casa de Peres, que Tamar deu à luz a Judá, com descendência que o SENHOR te der por meio desta jovem». Rute na genealogia de David",
+          "text": "E seja a tua casa como a casa de Peres, que Tamar deu à luz a Judá, com descendência que o SENHOR te der por meio desta jovem».",
           "note_refs": []
         },
         {
@@ -441,7 +814,19 @@
         },
         {
           "verse": 22,
-          "text": "Obed gerou Jessé e Jessé gerou David. Paralelos 1,2: 1Cro 4,4; Mq 5,1 | 1,11: Gn 38,8-11; Dt 25,5-10 | 1,16: 2Sm 15,20s; 2Rs 2,2-4; 1,20: Gn 17,17; Ex 15,23. 2,2: Lv 19,9s; 23,22; Dt 24,19-22 | 2,4: Sl 29,7s | 2,12: Sl 17,8; 91,1.4.",
+          "text": "Obed gerou Jessé e Jessé gerou David.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Booz cumpre a obrigação de resgate",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "Rute na genealogia de David",
           "note_refs": []
         }
       ]

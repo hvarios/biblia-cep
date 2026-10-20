@@ -1,5 +1,40 @@
 {
+  "schema_version": 2,
   "book": "Joel",
+  "book_id": "jl",
+  "source": {
+    "format": "docx",
+    "file": "36_Jl.docx",
+    "title": "Joel"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Autor e título",
+        "paragraphs": [
+          "O título do livro (1,1) traz em epígrafe um nome que poderia ser o do seu autor, Yo’el. Este nome junta dois elementos etimológicos: Yo (abreviatura de Yahu ou Yahweh) e ’el (Deus), dando-lhe o aspeto de uma fórmula de profissão de fé: Javé é Deus. Para além deste nome, não temos outras referências biográficas sobre um profeta com o mesmo nome, mas a recorrência da temática e do vocabulário de culto faz pensar que se poderia estar diante de um profeta-sacerdote ou próximo ao santuário. O nome do seu pai, Petuel, é mais um dos poucos elementos que poderiam eventualmente servir para uma biografia. No entanto, este nome poderia também ser visto como simbólico, significando sedução de Deus (petu-’el). Neste caso, ambos os nomes poderiam remeter para os domínios do simbólico, como acontece noutros títulos de livros proféticos, como, por exemplo, o de Malaquias."
+        ]
+      },
+      {
+        "title": "Data",
+        "paragraphs": [
+          "A datação da atividade do profeta e da redação do livro não pode ser delimitada com precisão. A maior parte dos estudiosos concorda em indicar para isso uma época posterior ao exílio. Com efeito, o texto parece mostrar que o exílio babilónico era um facto já passado (4,1), sugerindo mesmo que alguns judeus já tinham regressado à pátria e reedificado Jerusalém e o templo (1,2-2,27). A falta quase total de referências à monarquia e ao rei, a repetida menção de sacerdotes e ministros de Javé bem como a insistência na centralidade do templo (reconstruído até 515 a.C.), no culto, nos sacrifícios e nos jejuns parecem apontar claramente para uma datação posterior ao exílio. Por outro lado, a menção de Sídon, como cidade que deve ser punida (4,4), não poderia ser feita senão antes de 332 a.C., ano em que a cidade foi destruída por Alexandre Magno. Tudo isto sugere, por conseguinte, que a atividade de Joel deve ser datada entre os anos de 515 e 332 a.C. Alguns autores, no entanto, acham que o profeta Joel se deveria situar no séc. VIII a.C., tendo em conta o facto de aparecer nas listas bíblicas entre os livros de Oseias e de Amós."
+        ]
+      },
+      {
+        "title": "Vocabulário e estilo",
+        "paragraphs": [
+          "Bom orador, o profeta usa um vocabulário quase clássico, mas em estilo exuberante, com recurso a imagens, a metáforas e a paralelismos. Os gafanhotos são comparados ao rumorejar dos carros de guerra. Com bons rasgos de lirismo, devemos admitir que Joel escreveu uma obra-prima de poesia vigorosa e possante, construída com rigor literário, na qual são habilmente utilizados alguns motivos proféticos tradicionais. Joel é justamente assinalado como um autor que cita e remete frequentemente para textos bíblicos conhecidos.",
+          "Estrutura e conteúdo",
+          "De um modo geral, todos os estudiosos são concordes em dividir o livro em duas partes fundamentais. A primeira parte (1-2) descreve o flagelo dos gafanhotos, da carestia e da fome, que causam inclusive a interrupção dos sacrifícios. A segunda parte (3-4) desenvolve, em sentido escatológico, o tema do “dia do Senhor”, que compreende a condenação das nações pagãs e o cumprimento ou restauração das promessas feitas a Judá e a Jerusalém.",
+          "Os pontos sensíveis do pensamento e da fé deste profeta centram-se na confiança que lhe inspira o poder com que Deus governa a natureza, apesar das calamidades que assolam o dia a dia. Deus governa também a marcha da história. Por isso, o tema dia de Javé é uma imagem que marca todo o livro. Os oráculos contra os inimigos mantêm a tradição profética sobre o julgamento de Deus perante as injustiças da história e o comportamento dos humanos.",
+          "Por outro lado, o regresso do exílio e algum êxito conseguido na reconstrução da cidade de Jerusalém e do templo dão novo alento à esperança. As práticas religiosas no novo templo concentram as preocupações e justificam as admoestações do profeta.",
+          "No entanto, a força desta esperança não apaga algumas interrogações relativas ao crescimento e progresso espiritual da comunidade judaica. O ideal desta é ser um povo onde todos atinjam o espírito de profetas (3,1). Esta passagem é um eco de Nm 11,29 e é também um dos textos que mereceu particular atenção por parte da comunidade cristã inicial, tal como está expresso no discurso de Pedro, na altura do Pentecostes (At 2, 17-21)."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -72,12 +107,40 @@
         {
           "verse": 14,
           "text": "Proclamai um jejum solene convocai uma assembleia. Reuni os anciãos, todos os habitantes do país na casa do SENHOR, vosso Deus, e clamai ao SENHOR:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.: santificai (cf. vv. 15-16) como sinónimo de convocai. O contexto pode ser cultual, mas o termo pode também ser usado em contexto de guerra (3,9; Jr 6,3; 51,27.28). O jejum era uma maneira de preparar e dar profundidade a momentos especiais de grande importância ritual ou militar."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "jl-1-n1",
+              "offset": 9,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "«Ai! Que dia este!» Pois está próximo o dia do SENHOR, que virá como uma devastação, da parte do Omnipotente.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ou: como intervenção poderosa da parte do Todo-poderoso. O texto hebraico joga com a assonância entre shod, termo que significa “devastação, calamidade” e Shaday, nome dado a Deus no ciclo de Abraão (Gn 17,1) e que, à falta de melhor definição, se costuma traduzir por Omnipotente ou Todo-Poderoso."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "jl-1-n2",
+              "offset": 108,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 16,
@@ -92,7 +155,21 @@
         {
           "verse": 18,
           "text": "Como mugem os animais! As manadas de bois andam errantes, porque não há pastagem para eles. E até os rebanhos de ovelhas são castigados por isso.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O verbo hebraico, ’asham, aqui usado com o sentido de ser castigado ou sofrer as consequências, implica, aqui de modo metafórico, que alguém é considerado culpado de algo. Perante a calamidade, os animais sofrem tal como os homens (cf. v. 20; Jr 14,3ss; Jn 3-4; Dt 20,13; Sl135,8)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "jl-1-n3",
+              "offset": 144,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 19,
@@ -104,6 +181,28 @@
           "text": "Até os animais do campo suspiram para ti, porque secaram as correntes de água e o fogo consumiu as pastagens da estepe.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Título",
+          "note_refs": []
+        },
+        {
+          "before_verse": 2,
+          "text": "I – PRAGA DE GAFANHOTOS E LAMENTAÇÃO (1,2-2,27)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 2,
+          "text": "Praga dos gafanhotos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "Apelo ao jejum e à oração",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -112,7 +211,21 @@
         {
           "verse": 1,
           "text": "Tocai a trombeta em Sião, erguei o clamor sobre a minha montanha santa! Estremeçam todos os habitantes da terra, porque está a chegar o dia do SENHOR. Sim, ele está próximo.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Tocar a trombeta (chofar) e erguer o clamor são sinais indicativos de que se aproxima uma fase mais exacerbada de combate. Este acontecimento é localizado na montanha santa de Sião, mas o horizonte é realmente de guerra, a guerra que é aqui designada como sendo o dia do Senhor."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "jl-2-n1",
+              "offset": 41,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 2,
@@ -122,7 +235,21 @@
         {
           "verse": 3,
           "text": "À frente dele o fogo devora; atrás dele a chama consome. Antes dele, a terra era como o jardim de Éden; e depois dele, um deserto de devastação. A seguir a ele não há sequer um sobrevivente.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Cf. Gn 2,8ss; Ez 36,35; Is 51,3."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "jl-2-n2",
+              "offset": 102,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 4,
@@ -132,7 +259,21 @@
         {
           "verse": 5,
           "text": "É como o ruído de carros de guerra, que dançam por sobre as alturas dos montes; é como o crepitar da chama de fogo que consome a palha, como um exército poderoso, disposto em ordem de batalha.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: … como um povo. Em contexto de guerra, é frequente aparecer a palavra povo com o sentido de exército ou de tropas."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "jl-2-n3",
+              "offset": 152,
+              "original_marker": "a",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 6,
@@ -157,12 +298,40 @@
         {
           "verse": 10,
           "text": "Diante dele treme a terra, os céus estremecem. O sol e a lua escurecem e as estrelas recolhem o seu brilho.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Este pronome, ele, refere-se ao dia do Senhor (vv. 1-3) ou possivelmente mesmo ao próprio Deus (v. 11). De resto, toda esta temática do dia do Senhor é descrita em modo de teofania e, por isso, apresenta-se com uma linguagem de modelo apocalíptico."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "jl-2-n4",
+              "offset": 11,
+              "original_marker": "b",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "O SENHOR faz ouvir a sua voz diante do seu exército. Pois o seu acampamento é muito grande, poderoso é o que executa a sua palavra. Sim, é grande o dia do SENHOR e extremamente terrível! E quem o poderá suportar?",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O exército, neste caso concreto, está expresso diretamente com o termo habitual que designa uma força militar."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "jl-2-n5",
+              "offset": 51,
+              "original_marker": "c",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 12,
@@ -172,7 +341,30 @@
         {
           "verse": 13,
           "text": "Rasgai os vossos corações e não as vossas vestes. E voltai para o SENHOR, vosso Deus, porque Ele é generoso e compassivo, lento na ira e rico em misericórdia; e reconsidera em caso de desgraça.",
-          "note_refs": []
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Fazer um rasgão nas próprias vestes era um gesto bastante habitual que significava tristeza, arrependimento e indignação. Joel convida, nesta passagem, a passar do gesto simbólico para a realidade, aconselhando diretamente a uma conversão dos corações.",
+            "7": "As desgraças que acontecem podem ter o sentido de castigar pecados e maldades e, nesse sentido, elas vêm da parte de Deus. Mas, a linguagem bíblica não tem pejo em mostrar que Deus também reconsidera e como que se arrepende, passando da ameaça à promessa de salvação. É este o sentido do tema bíblico do arrependimento referido a Deus. Cf. Ex 32,14; 34,6; 2Sm 12,22; Sl 85,15; 103,8; 145,8; Jn 3,9; 4,2; Ne 9,17."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "jl-2-n6",
+              "offset": 25,
+              "original_marker": "d",
+              "source_id": 9
+            },
+            {
+              "ref": "7",
+              "id": "jl-2-n7",
+              "offset": 192,
+              "original_marker": "e",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 14,
@@ -207,7 +399,30 @@
         {
           "verse": 20,
           "text": "Aquele que é do Norte, afastá-lo-ei de vós; expulsá-lo-ei para uma terra árida e devastada: a sua frente virada para o mar oriental e sua a retaguarda, para o mar ocidental. O seu mau odor levantar-se-á, levantar-se-á o seu cheiro a podre. Pois ele quis fazer grandes coisas!",
-          "note_refs": []
+          "note_refs": [
+            "8",
+            "9"
+          ],
+          "notes": {
+            "8": "Do Norte vem a praga de gafanhotos (vv. 1-11) e pode vir também algum exército apocalíptico que, tal como os outros invasores de Jerusalém, vem igualmente do Norte (cf. Jr 1,13; 3,6; 6,1; Ez 26,7).",
+            "9": "Fazer grandes coisas parece estar aqui em sentido irónico, isto é, coisas monstruosas. Há quem entenda que o sujeito poderia também ser o Senhor, como acontece no v. 21. Neste caso, a afirmação seria como que um refrão que se repete, em honra dos prodígios de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "jl-2-n8",
+              "offset": 21,
+              "original_marker": "a",
+              "source_id": 11
+            },
+            {
+              "ref": "9",
+              "id": "jl-2-n9",
+              "offset": 274,
+              "original_marker": "b",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 21,
@@ -222,7 +437,21 @@
         {
           "verse": 23,
           "text": "E vós, filhos de Sião, alegrai-vos e rejubilai no SENHOR, vosso Deus! Porque Ele há de dar-vos a chuva de outono em tempo justo; e fará descer sobre vós a chuva, chuva de outono e de primavera, como outrora.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Nos textos de Qumran interpretaram esta frase como; Pois Ele vos deu o mestre de justiça. No entanto, no mesmo versículo, aparece a expressão moreh, com o significado de chuva de outono."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "jl-2-n10",
+              "offset": 127,
+              "original_marker": "c",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 24,
@@ -232,7 +461,21 @@
         {
           "verse": 25,
           "text": "E compensar-vos-ei pelos anos que o gafanhoto devorou, bem como a locusta, a larva e o saltão, aquele meu grande exército, que Eu mandei contra vós.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Esta expressão anos deve entender-se no sentido de cada uma das colheitas que se vão fazendo, ano a ano."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "jl-2-n11",
+              "offset": 29,
+              "original_marker": "d",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 26,
@@ -243,30 +486,22 @@
           "verse": 27,
           "text": "Sabereis, então, que Eu estou no meio de Israel, que sou o SENHOR, vosso Deus, e não há outro. E os do meu povo não terão de se envergonhar, nunca mais.",
           "note_refs": []
-        },
+        }
+      ],
+      "headings": [
         {
-          "verse": 28,
-          "text": "",
+          "before_verse": 1,
+          "text": "Proximidade do dia do Senhor",
           "note_refs": []
         },
         {
-          "verse": 29,
-          "text": "",
+          "before_verse": 12,
+          "text": "Apelo à conversão",
           "note_refs": []
         },
         {
-          "verse": 30,
-          "text": "",
-          "note_refs": []
-        },
-        {
-          "verse": 31,
-          "text": "",
-          "note_refs": []
-        },
-        {
-          "verse": 32,
-          "text": "",
+          "before_verse": 18,
+          "text": "Fim da praga e restauração do país",
           "note_refs": []
         }
       ]
@@ -277,12 +512,40 @@
         {
           "verse": 1,
           "text": "«Depois disto, acontecerá que Eu derramarei o meu espírito sobre toda criatura; e os vossos filhos e as vossas filhas profetizarão; os vossos anciãos terão sonhos e os vossos jovens terão visões.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit. … sobre toda a carne."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "jl-3-n1",
+              "offset": 78,
+              "original_marker": "e",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "E também sobre os vossos servos e servas derramarei o meu espírito, naqueles dias.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Este texto faz referência à promessa de Moisés (Nm 11,29) de que Israel teria sempre profetas. A interpretação que aparece no Novo Testamento vê aqui uma das profecias que chegam ao seu cumprimento no tempo de Jesus (At 2,17-21)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "jl-3-n2",
+              "offset": 81,
+              "original_marker": "f",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 3,
@@ -292,91 +555,285 @@
         {
           "verse": 4,
           "text": "O sol converter-se-á em escuridão e a lua, em sangue, antes que chegue o dia do SENHOR, grande e terrível!",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A efusão do espírito de profecia é um acontecimento positivo. No entanto, isso acontece num contexto de drama, a antevisão do dia do Senhor que se encontra com frequência nos discursos de modelo apocalítico. Catástrofes cósmicas são associadas a esse dia, aspeto que terá grande ressonância na sensibilidade e na mentalidade do judaísmo e do cristianismo."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "jl-3-n3",
+              "offset": 105,
+              "original_marker": "g",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "E então acontecerá que todo aquele que invocar o nome do SENHOR será resgatado. Pois no monte de Sião e em Jerusalém haverá resgate, tal como o SENHOR disse. E entre os sobreviventes estarão aqueles que o SENHOR chamar».",
           "note_refs": []
-        },
+        }
+      ],
+      "headings": [
         {
-          "verse": 6,
-          "text": "",
+          "before_verse": 1,
+          "text": "II – NOVA ERA E JUIZO UNIVERSAL (3,1-4,21)",
           "note_refs": []
         },
         {
+          "before_verse": 1,
+          "text": "Efusão do espírito",
+          "note_refs": []
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "«Pois eis que, naqueles dias e naquele tempo, quando Eu tiver feito reverter o cativeiro de Judá e Jerusalém,",
+          "note_refs": []
+        },
+        {
+          "verse": 2,
+          "text": "reunirei então todos os povos e farei com que desçam ao vale de Josafat. Ali entrarei em julgamento contra eles, por causa de Israel, meu povo e minha herança. Pois eles dispersaram entre os povos e repartiram a minha terra.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O vale de Josafat passou à literatura de todos os tempos como sendo o lugar do juízo final. A tradição identifica este lugar com o vale do Cédron, a oriente do templo e de Jerusalém. Até aos dias de hoje, judeus piedosos procuraram ter ali a sua sepultura. Entretanto, à semelhança do que acontece com o sentido simbólico dos nomes de Joel e do seu pai Petuel, também o nome do vale de Josafat (“Javé é juiz”) pode ser uma referência ao significado simbólico e teológico, mais do que à localização geográfica em si mesma."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "jl-4-n1",
+              "offset": 71,
+              "original_marker": "a",
+              "source_id": 18
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "E sobre o meu povo deitaram sortes, trocaram meninos por prostitutas, venderam meninas por vinho e beberam.",
+          "note_refs": []
+        },
+        {
+          "verse": 4,
+          "text": "E também vós, o que sois vós para mim, Tiro e Sídon e todos os das regiões da Filisteia? Quereis, porventura, vingar-vos de mim? Mas se vos vingardes de mim, farei recair a vossa vingança rápida e prontamente sobre as vossas cabeças.",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A restauração de Israel implica a reposição da justiça, relativamente, a povos vizinhos, cujo papel na história incluiu frequentes práticas de injustiça. Joel serve-se de um tema de que os profetas se servem bastante: o tema dos oráculos contra as nações."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "jl-4-n2",
+              "offset": 232,
+              "original_marker": "b",
+              "source_id": 19
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "Pois vós roubastes a minha prata e o meu ouro e levastes os meus preciosos tesouros para os vossos templos.",
+          "note_refs": []
+        },
+        {
+          "verse": 6,
+          "text": "Vendestes os filhos de Judá e os filhos de Jerusalém aos filhos dos de Javan, para assim os afastardes para longe do seu território.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Trata-se da Jónia ou alguma das ilhas gregas do Mediterrâneo oriental. Os filisteus eram culturalmente aparentados com os gregos e estas vendas de escravos hebreus parecem ter como objetivo enfraquecer a sua capacidade de afirmação e resistência, caso permanecessem na sua terra."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "jl-4-n3",
+              "offset": 76,
+              "original_marker": "c",
+              "source_id": 20
+            }
+          ]
+        },
+        {
           "verse": 7,
-          "text": "",
+          "text": "Eis que Eu os despertarei do lugar para onde vós os vendestes e farei recair sobre a vossa cabeça aquilo que fizestes.",
           "note_refs": []
         },
         {
           "verse": 8,
-          "text": "",
+          "text": "E venderei os vossos filhos e filhas para a mão dos filhos de Judá. E estes os venderão aos Sabeus, a um povo distante. Sim! Foi o SENHOR que o declarou!",
           "note_refs": []
         },
         {
           "verse": 9,
-          "text": "",
-          "note_refs": []
+          "text": "Proclamai isto entre os povos, preparai-vos para a guerra! Despertai os valentes! Que se aproximem e subam todos os homens de guerra.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: santificai-vos para a guerra."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "jl-4-n4",
+              "offset": 57,
+              "original_marker": "d",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "",
-          "note_refs": []
+          "text": "Dos vossos arados forjai espadas e das vossas foices, lanças. Que o fraco diga: «Eu sou um herói!»",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Em Is 2,2-5 e Mq 4,1-5 este tema da transformação dos instrumentos de trabalho pacífico em armas de guerra é apresentado em sentido oposto, mandando destruir as armas para forjar instrumentos de trabalho. A diferença está em que, em Is e Mq, estão em causa as guerras de homens. A essas é sempre preferível a paz. Pelo contrário, em Joel estão em causa as guerras de Deus pela justiça e estas são imprescindíveis."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "jl-4-n5",
+              "offset": 32,
+              "original_marker": "e",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "",
-          "note_refs": []
+          "text": "Apressai-vos e vinde todos, povos dos arredores; reuni-vos ali. Faz descer, SENHOR, os teus heróis.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Os combatentes hebreus descem para o lugar do combate, porque Jerusalém está mais alta. Os povos agressores sobem, porque se encaminham para o lugar onde Deus os vai julgar e este está mais alto do que os seus lugares de origem e do seu ponto de partida. A expressão os teus heróis pode referir-se a entidades superiores encarregadas por Deus de fazer a guerra em favor dos israelitas. Enviar mensageiros é um modo como Deus faz as suas intervenções na tradição religiosa de Canaã."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "jl-4-n6",
+              "offset": 98,
+              "original_marker": "f",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "",
-          "note_refs": []
+          "text": "Despertem e subam os povos, para o vale Josafat. Pois ali tomarei assento para julgar todos os povos dos arredores.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Os povos dos arredores são: Edom, Moab, Amon, Filisteia e Fenícia."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "jl-4-n7",
+              "offset": 114,
+              "original_marker": "g",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 13,
-          "text": "",
+          "text": "Lançai a foice, pois a seara está madura. Vinde e pisai, pois o lagar está cheio; as cubas transbordam, pois é grande a malícia deles.",
           "note_refs": []
         },
         {
           "verse": 14,
-          "text": "",
+          "text": "São multidões e multidões no vale da Decisão, pois o dia do SENHOR está próximo, no vale da Decisão.",
           "note_refs": []
         },
         {
           "verse": 15,
-          "text": "",
-          "note_refs": []
+          "text": "O Sol e a Lua obscureceram-se, as estrelas recolheram o seu brilho.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Estes sinais cósmicos são um prenúncio do dia do Senhor. É a guerra santa que Deus conduz em favor de Israel, como em 2,4."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "jl-4-n8",
+              "offset": 66,
+              "original_marker": "h",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 16,
-          "text": "",
+          "text": "O SENHOR ruge de Sião e de Jerusalém lança a sua voz e estremecem os céus e a terra. Mas o SENHOR é refúgio para o seu povo, uma fortaleza para os filhos de Israel.",
           "note_refs": []
         },
         {
           "verse": 17,
-          "text": "",
+          "text": "Então sabereis que Eu sou o SENHOR, vosso Deus, que habito em Sião, meu monte santo. Então Jerusalém será uma coisa santa e os estrangeiros não hão de passar por ela.",
           "note_refs": []
         },
         {
           "verse": 18,
-          "text": "",
+          "text": "E naquele dia acontecerá que as montanhas destilarão vinho novo, as colinas farão escorrer leite e por todos os ribeiros de Judá correrá água. E uma nascente sairá da casa do SENHOR para irrigar a ribeira das Acácias.",
           "note_refs": []
         },
         {
           "verse": 19,
-          "text": "",
+          "text": "O Egito tornar-se-á uma devastação e Edom tornar-se-á um deserto desolado, por causa da violência contra os filhos de Judá, cujo sangue inocente derramaram na sua terra.",
           "note_refs": []
         },
         {
           "verse": 20,
-          "text": "",
+          "text": "Mas Judá será para sempre habitada e Jerusalém, de geração em geração.",
           "note_refs": []
         },
         {
           "verse": 21,
-          "text": "",
+          "text": "Pois Eu vingarei o seu sangue, não o deixarei impune. E o SENHOR habita em Sião».",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Este versículo poderá ter constituído uma adição tardia. E a crítica textual encontra indícios possíveis de corrupção textual. A tradução socorre-se parcialmente da leitura que se deduz das traduções grega dos LXX e siríaca."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "jl-4-n9",
+              "offset": 80,
+              "original_marker": "a",
+              "source_id": 26
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Julgamento das nações pagãs",
+          "note_refs": []
+        },
+        {
+          "before_verse": 18,
+          "text": "Era de prosperidade e restauração de Israel",
           "note_refs": []
         }
       ]

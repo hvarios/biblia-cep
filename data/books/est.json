@@ -1,18 +1,158 @@
 {
+  "schema_version": 2,
   "book": "Ester",
+  "book_id": "est",
+  "source": {
+    "format": "docx",
+    "file": "19_Est.docx",
+    "title": "Livro de Ester"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Texto e contexto",
+        "paragraphs": [
+          "Apesar de a figura que rege a história ser a do judeu Mardoqueu, este livro recebeu o nome da sua heroína, isto é, a rainha Ester, nome que em grego significa estrela. Como é habitual em ambientes biculturais, ela tem também um nome hebraico que é Hadassa, murta (2,7). O nome de Ester carrega uma assonância com o nome da deusa babilónica, Istar. A obra apresenta-se sob a forma de um apaixonante drama histórico, vincadamente teatral e afetado, que se desenrola na corte do império persa. Nela, as cinco personagens representam, respetivamente, o povo justo (Mardoqueu e Ester), o povo ímpio (Vasti e Haman) e as vicissitudes da história (o rei Assuero) que ditam o Purim, isto é, sortes ou o desenlace final dos acontecimentos.",
+          "A ação desenvolve-se na capital, Susa, que era a cidade onde estava a corte ocasional do império persa. Não se trata propriamente de uma narrativa histórica. É uma narrativa ficcional de ambientação histórica. De facto, as rainhas Vasti e Ester não constam dos registos imperiais do império persa; e, sobretudo, existe uma incongruência na identificação do rei de que se fala. Enquanto Assuero, nome que aparece no texto hebraico, corresponde a Xerxes, filho de Dario que reinou entre 486-464 a.C., Artaxerxes, nome que é referido no texto grego, era o filho de Xerxes, que reinou entre 464-424 a.C. Além disso, num caso como noutro, o exílio na Babilónia (597-538 a.C.) citado em 1,1c e 2,6, tinha já terminado, o restauro de Jerusalém estava em curso e o povo de Israel gozava de uma relativa era de paz, liberdade e progresso. Era a chamada paz aqueménida.",
+          "A linguagem é simultaneamente retórica e coloquial; e a disposição e progressão do livro são próprias de um romance histórico com um intuito claramente teológico e moral. Existem duas versões díspares desta história e do essencial deste texto. A versão hebraica, é mais breve e parece colocar a ênfase principalmente no aspeto moral; a versão grega, por seu lado, tem um enfoque mais explicitamente teológico, acentuado pela inserção de orações e é, por conseguinte, mais longa. Esta versão grega compreende oitenta e sete versículos distribuídos em seis secções, que aparecem intercaladas no texto correspondente ao hebraico e que é costume serem destacadas pela escrita em itálico."
+        ]
+      },
+      {
+        "title": "Autor e data",
+        "paragraphs": [
+          "O relato pretende enquadrar-se na época persa que durou entre 538 e 333 a.C. Mas o contexto de perseguição e a apresentação da cultura estrangeira como uma ameaça correspondem mais provavelmente às condições da época macabaica (séc. II a.C.). A versão grega (10,3l) apresenta-se como uma tradução feita no quarto ano do reinado de Ptolomeu e Cleópatra, que tanto pode ser Ptolomeu VIII (114-113 a.C.)",
+          "como Ptolomeu XII (48-47 a.C.). Em qualquer dos casos, trata-se de uma diáspora helénica e refere-se à cidade de Alexandria, no Egito. Provavelmente o livro de Ester entrou nas Escrituras judaicas para legitimar, canonizar e nacionalizar em Israel a festa de Purim, que não aparece na lista de festas de Ex 34,18-27. De origem agrícola e pagã, esta festa era celebrada na diáspora a meados de março, na iminência da Primavera. Ela é ainda hoje muito importante no judaísmo, como uma espécie de festejos de carnaval, mas o livro é completamente ignorado no Novo Testamento, salvo talvez algumas reminiscências linguísticas de 4,17a-17z em Lc 1,46-55.68-79."
+        ]
+      },
+      {
+        "title": "Esquema",
+        "paragraphs": [
+          "O livro de Ester divide-se em três partes: preparação dos acontecimentos (1,1a- 3,6); conspiração contra os judeus (3,7-5,14); e reviravolta no conflito e vitória dos judeus (6,1-10,3l)."
+        ]
+      },
+      {
+        "title": "Teologia",
+        "paragraphs": [
+          "O livro de Ester parte de uma situação desesperada, em que a rainha Vasti foi objeto de degradação, por ter desobedecido a uma ordem do rei, e de uma sentença de extermínio emitida contra o povo de Israel pelo rei Assuero, instigado pelo iníquo Haman. Esta situação sofre uma reviravolta imprevisível a favor dos que fazem o bem: a nomeação de Ester como rainha, a exaltação de Mardoqueu e a salvação do povo de Israel, confirmada com o extermínio dos seus adversários.",
+          "Na versão hebraica, o acento é posto na responsabilidade humana e na esperança e certeza da libertação face ao mal, enquanto a intervenção de Deus é apenas sugerida de forma implícita (4,13-14). De facto, em todo o texto hebraico, tanto Deus como o uso do seu nome bíblico principal, tetragrama divino, estão completamente ausentes. Apenas se alude a práticas penitenciais, ao jejum e aos lamentos sem referir um claro destinatário divino (4,3.16).",
+          "Essa pode também ser um dos motivos para que, com a versão grega, tenham surgido os acrescentos referidos. Nesta versão, é Deus quem governa e prevê as dificuldades de Israel, desde o início, com o sonho de Mardoqueu (1,1a-1r), até ao fim, com a interpretação do sonho (10,3a-3k). E é a ele que Mardoqueu e Ester se dirigem em oração à procura de auxílio (4,17a-17z). O excesso de violência e crueldade que demonstram os intervenientes deve ser compreendido no contexto de uma narração que não é histórica e que pretende, deste modo, enfatizar a reviravolta positiva que Israel experimentou, deixando assim uma impressão duradoura no ouvinte e leitor."
+        ]
+      },
+      {
+        "title": "Uso judaico e cristão",
+        "paragraphs": [
+          "Na tradição judaica o livro de Ester é um dos cinco rolos associados a especiais dias de festa. O livro de Ester é inteiramente lido na festa de Purim, situada algum tempo antes da Páscoa; e o teor festivo carnavalesco que caracteriza esta festa é visto como a celebração da maneira maravilhosa como os judeus de Susa e outros conseguiram escapar ao massacre planeado pelos seus inimigos. Este livro passou a ser a",
+          "representação bíblica das vicissitudes de conflito entre a comunidade dos judeus e os não judeus que os rodeavam.",
+          "Para a tradição cristã, o livro de Ester é sobretudo valorizado pela maneira como ele se prestou a dar uma imagem de Maria como representante, intercessora e protetora de todo o povo de Deus."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "verse": 1,
-          "text": "No segundo ano do reinado de Artaxerxes, o Grande, no primeiro dia de Nisan, Mardoqueu, filho de Jair, filho de Chimei, filho de Quis, da tribo de Benja - mim, teve um sonho enquanto dormia. Ele era um judeu que vivia na cidade de Susa, uma pessoa importante que servia no palácio real. Fazia parte dos deportados que Nabucodonosor, rei da Babilónia, tinha levado de Jerusalém para o exílio com Jeconias, rei de Judá. E o seu sonho foi este: surgiam gritos e um grande tumulto, trovões e um terramoto; havia consternação por toda a terra. Então, dois enormes dragões, ambos avança - vam prontos para a luta e soltaram um grande rugido. À sua voz, todas as nações se prepararam para a guerra para combater contra o povo dos justos. Era um dia de trevas e escuridão, tribulação e angústia, opressão e grande consternação em toda a terra! Todo o povo justo ficou perturbado e, temendo a sua desgraça, prepararam-se para morrer e clamaram a Deus. Mas do seu clamor, como de uma pequena fonte, nasceu um grande rio de águas caudalosas. A luz e o sol brilharam e os humildes foram exaltados e aniquilaram os poderosos. Depois de acordar, Mardoqueu conservava no coração o sonho que tivera e aquilo que Deus decidira fazer. E, até à noite, procurou perceber com todo o pormenor o sig - nificado daquele sonho. No palácio real, Mardoqueu descansava junto de Bigtan e Teres, dois dos eunucos do rei que eram guardas do palácio. Ouviu as suas discussões e percebeu as suas preo - O O cupações; examinou e descobriu que eles planeavam deitar as mãos ao rei Artaxerxes e transmitiu o assunto deles ao rei. O rei investigou os dois eunucos, eles confessaram e foram eliminados. O rei registou estas coisas para memória e Mardoqueu também registou esta ques - tão. O rei promoveu Mardoqueu no serviço do palácio e ofereceu-lhe presentes por causa destes factos. Mas Haman, filho de Hamedata, o descendente de Agag, era estimado pelo rei e procurava fazer mal a Mardoqueu e ao seu povo, por causa da questão dos dois eunucos do rei.",
-          "note_refs": []
+          "text": "No segundo ano do reinado de Artaxerxes, o Grande, no primeiro dia de Nisan, Mardoqueu, filho de Jair, filho de Chimei, filho de Quis, da tribo de Benjamim, teve um sonho enquanto dormia. Ele era um judeu que vivia na cidade de Susa, uma pessoa importante que servia no palácio real. Fazia parte dos deportados que Nabucodonosor, rei da Babilónia, tinha levado de Jerusalém para o exílio com Jeconias, rei de Judá. E o seu sonho foi este: surgiam gritos e um grande tumulto, trovões e um terramoto; havia consternação por toda a terra. Então, dois enormes dragões, ambos avançavam prontos para a luta e soltaram um grande rugido. À sua voz, todas as nações se prepararam para a guerra para combater contra o povo dos justos. Era um dia de trevas e escuridão, tribulação e angústia, opressão e grande consternação em toda a terra! Todo o povo justo ficou perturbado e, temendo a sua desgraça, prepararam-se para morrer e clamaram a Deus. Mas do seu clamor, como de uma pequena fonte, nasceu um grande rio de águas caudalosas. A luz e o sol brilharam e os humildes foram exaltados e aniquilaram os poderosos. Depois de acordar, Mardoqueu conservava no coração o sonho que tivera e aquilo que Deus decidira fazer. E, até à noite, procurou perceber com todo o pormenor o significado daquele sonho. No palácio real, Mardoqueu descansava junto de Bigtan e Teres, dois dos eunucos do rei que eram guardas do palácio. Ouviu as suas discussões e percebeu as suas preocupações; examinou e descobriu que eles planeavam deitar as mãos ao rei Artaxerxes e transmitiu o assunto deles ao rei. O rei investigou os dois eunucos, eles confessaram e foram eliminados. O rei registou estas coisas para memória e Mardoqueu também registou esta questão. O rei promoveu Mardoqueu no serviço do palácio e ofereceu-lhe presentes por causa destes factos. Mas Haman, filho de Hamedata, o descendente de Agag, era estimado pelo rei e procurava fazer mal a Mardoqueu e ao seu povo, por causa da questão dos dois eunucos do rei. Aconteceu nos dias de Assuero, aquele Assuero que reinava desde a Índia até à Etiópia, sobre cento e vinte e sete províncias.",
+          "note_refs": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "notes": {
+            "2": "O nome de Assuero, usado no texto hebraico, corresponde mais ao de Xerxes. Verifica-se que a versão grega toma como seu contexto o reinado de um outro dos reis persas, nomeadamente um dos três que têm o nome de Artaxerxes (464-424, 404-359, 359-337 a.C.).",
+            "3": "Nisan é o primeiro mês do ano judaico, situado entre março e abril; é importante por isso e porque nele se celebra o conjunto de festas ligadas à Páscoa.",
+            "4": "Tal como acontece em geral na Bíblia (Gn 15,12; 28,10-22; 37,5-10; 40,5-23; 41,32; Jz 7,13-15; Dn 4; 7), este sonho serve para definir e, de algum modo, antecipar os acontecimentos que vão ser narrados. O sonho era igualmente um recurso retórico apreciado no romance grego contemporâneo desta versão de Ester.",
+            "5": "Estes dois dragões não parecem ser nenhuma referência a figuras históricas; são antes um tema mitológico onde, nos dois dragões, se vê o combate entre potências opostas, a do bem e a do mal, imagens que se destacarão nos textos apocalípticos.",
+            "6": "Contrariamente ao texto hebraico, que não menciona o nome de Deus, o texto da versão grega caracteriza-se pela grande frequência com que se refere a Deus; e as suas personagens principais dirigem-se a Deus em orações que exprimem o sentido religioso dos acontecimentos.",
+            "7": "Os nomes destes dois eunucos, no texto grego, são Gabata e Tarra. Em 3,21, aparece a forma hebraica, Bigta e Teres.",
+            "8": "No grego é referido como Bugaios. Na Vulgata assumiu a forma de descendente de Agag. Agag é o rei amalecita que foi vencido por Saul e que, contra a obrigação do interdito (herem), foi poupado por este. Este desrespeito pelo interdito levou á queda de Saul (1Sm 15,7-9.16-23.32-33).",
+            "9": "O nome de Assuero corresponde ao de um rei persa chamado Xerxes. Poderia referir-se ao nome de Xerxes I (486-465) ou ao de Xerxes II (465-423)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "est-1-n2",
+              "offset": 39,
+              "original_marker": "b",
+              "source_id": 2
+            },
+            {
+              "ref": "3",
+              "id": "est-1-n3",
+              "offset": 75,
+              "original_marker": "c",
+              "source_id": 3
+            },
+            {
+              "ref": "4",
+              "id": "est-1-n4",
+              "offset": 170,
+              "original_marker": "d",
+              "source_id": 4
+            },
+            {
+              "ref": "5",
+              "id": "est-1-n5",
+              "offset": 628,
+              "original_marker": "e",
+              "source_id": 5
+            },
+            {
+              "ref": "6",
+              "id": "est-1-n6",
+              "offset": 935,
+              "original_marker": "f",
+              "source_id": 6
+            },
+            {
+              "ref": "7",
+              "id": "est-1-n7",
+              "offset": 1355,
+              "original_marker": "g",
+              "source_id": 7
+            },
+            {
+              "ref": "8",
+              "id": "est-1-n8",
+              "offset": 1880,
+              "original_marker": "h",
+              "source_id": 8
+            },
+            {
+              "ref": "9",
+              "id": "est-1-n9",
+              "offset": 2044,
+              "original_marker": "i",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Naqueles dias, o rei Assuero estava sentado no seu trono real em Susa, a capital,",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Susa, Ecbátana e a Babilónia eram as cidades que estes reis persas tinham como capitais administrativas. A célebre Persépolis cresceu mais tarde como cidade cerimonial e residência real."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "est-1-n10",
+              "offset": 69,
+              "original_marker": "j",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 3,
@@ -52,7 +192,21 @@
         {
           "verse": 10,
           "text": "No sétimo dia, quando já tinha o coração alegre por causa do vinho, o rei deu ordens a Meuman, a Bizeta, a Harbona, a Bigta, a Abagta, a Zetar e a Carcas, os sete eunucos para que estavam de serviço na presença do rei Assuero,",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Os eunucos eram homens castrados que, na corte, se ocupavam de diversos serviços e setores, nomeadamente de tudo o que dizia respeito às mulheres e concubinas do rei."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "est-1-n11",
+              "offset": 170,
+              "original_marker": "k",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 11,
@@ -72,7 +226,21 @@
         {
           "verse": 14,
           "text": "E os mais próximos dele eram Carsena, Chetar, Admata, Társis, Meres, Marsena e Memucan, sete príncipes da Pérsia e da Média, que podiam ver a face do rei e ocupavam os primeiros lugares no reino.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Isto é, que tinham entrada nas audiências concedidas pelo rei."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "est-1-n12",
+              "offset": 153,
+              "original_marker": "a",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 15,
@@ -87,7 +255,21 @@
         {
           "verse": 17,
           "text": "Com efeito, a ação da rainha chegará a todas as mulheres, incitando-as a olhar com desprezo para os seus maridos e dirão: “O rei Assuero mandou trazer a rainha Vasti à sua presença, mas ela não foi”.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "O verbo hebraico de dirão indica realmente a terceira pessoa do plural masculino. Contudo, também parece razoável atribuir esta afirmação às mulheres, como fizeram a tradução dos LXX e a da Vulgata."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "est-1-n13",
+              "offset": 120,
+              "original_marker": "b",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 18,
@@ -113,10 +295,41 @@
           "verse": 22,
           "text": "e enviou cartas a todas as províncias reais, a cada uma das províncias conforme a sua escrita e a cada um dos povos segundo a sua língua, para que cada homem fosse quem manda na sua casa e que possa falar como é habitual na língua do seu povo.",
           "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "PREPARAÇÃO DOS ACONTECIMENTOS (1,1a-3,6)",
+          "note_refs": []
         },
         {
-          "verse": 23,
-          "text": "",
+          "before_verse": 1,
+          "text": "Sonho profético de Mardoqueu",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O primeiro acrescento grego apresenta a figura de Mardoqueu, que no texto hebraico surge apenas em 2,5, e enquadra-o na corte de Artaxerxes. No hebraico Artaxerxes corresponde a Assuero. Este texto antecipa, numa visão, o atentado frustrado, cuja narração em hebraico surge apenas em 2,21- 23. Através de um sonho premonitório, esta versão prevê e orienta os acontecimentos sob o plano de Deus. No seu conjunto, a versão grega tendeu a dar importância ao papel de Mardoqueu."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "est-1-n1",
+              "offset": 28,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
+        },
+        {
+          "before_verse": 1,
+          "text": "Denúncia do atentado por Mardoqueu",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Banquete de Assuero e desgraça de Vasti",
           "note_refs": []
         }
       ]
@@ -137,7 +350,21 @@
         {
           "verse": 3,
           "text": "Que o rei estabeleça delegados em todas as províncias do seu reino para que reúnam todas as donzelas virgens de belo aspeto na capital, Susa, na casa das mulheres, ao mando de Hegai, eunuco do rei, guarda das mulheres, e que lhes sejam prestados os cuidados de beleza.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Esta casa das mulheres é uma espécie de harém, uma secção especial dos edifícios reais destinados à habitação de mulheres que poderiam vir a ser concubinas do rei e outras mulheres a ele associadas."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "est-2-n2",
+              "offset": 162,
+              "original_marker": "d",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 4,
@@ -147,7 +374,21 @@
         {
           "verse": 5,
           "text": "Havia em Susa, a capital, um judeu de nome Mardoqueu, filho de Jair, filho de Chimei, filho de Quis, um membro da tribo de Benjamim.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Apesar da cuidada genealogia judaica, o nome de Marduqueu não deixa de recordar o de Marduc, o deus principal da Babilónia, apesar de a antiga cultura mesopotâmica não ser já a predominante."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "est-2-n3",
+              "offset": 52,
+              "original_marker": "e",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 6,
@@ -157,7 +398,21 @@
         {
           "verse": 7,
           "text": "Ele ficou como tutor de Hadassa, isto é, Ester, filha do seu tio, pois ela não tinha pai nem mãe. A jovem tinha uma bela figura e era de aspeto agradável. À morte do seu pai e da sua mãe, Mardoqueu adotou-a como sua filha.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Contrariamente a Mardoqueu, Ester é primeiramente apresentada com um nome judaico e, depois, com o nome que parece ser o seu nome oficial no ambiente persa. No entanto, o seu nome sugere igualmente o de uma divindade mesopotâmica famosa, Istar."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "est-2-n4",
+              "offset": 46,
+              "original_marker": "f",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 8,
@@ -239,6 +494,46 @@
           "text": "O assunto foi investigado e confirmado; os dois foram suspensos num madeiro e foi escrito no livro das Crónicas, na presença do rei.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Ester é nomeada rainha",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Neste capítulo entram em cena todas as personagens principais, distribuídas num tríptico: Mardoqueu, descendente de Quis, pai do rei Saul (1Sm 9,1-3), e Ester representam Israel; Haman, descendente de Agag, rei de Amalec (Ex 17,8-16), personifica os inimigos de Israel. Isto é, para dentro deste novo espaço de conflito são transpostos dois polos das memórias de Israel. No meio dos dois grupos, permanece a figura do rei Assuero, apresentado com um perfil sensato de mediador e juiz. Transparece aqui a maneira simpática com que o mundo judaico se habituou a olhar para o império aqueménida."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "est-2-n1",
+              "offset": 22,
+              "original_marker": "c",
+              "source_id": 14
+            }
+          ]
+        },
+        {
+          "before_verse": 19,
+          "text": "Mardoqueu previne um atentado contra o rei",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O texto hebraico repete aqui o conteúdo do texto grego de 1,1m-1p."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "est-2-n5",
+              "offset": 42,
+              "original_marker": "a",
+              "source_id": 18
+            }
+          ]
+        }
       ]
     },
     {
@@ -247,12 +542,40 @@
         {
           "verse": 1,
           "text": "Depois destas coisas, o rei Assuero promoveu Haman, filho de Hamedata, o descendente de Agag; exaltou-o e colocou a sua cadeira mais alto que a de todos os príncipes que estavam com ele.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Esta associação de Haman à personagem de Agag (Nm 24,20; 1Sm 15) coloca Haman na linha dos que eram inimigos de Israel. O livro de Ester alcança, desta maneira, uma representatividade de experiência histórica alargada."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "est-3-n2",
+              "offset": 92,
+              "original_marker": "c",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Todos os servos do rei que estavam no pórtico real se ajoelhavam e prostravam diante de Haman, pois o rei assim tinha ordenado em relação a ele. Porém, Mardoqueu não se ajoelhava nem prostrava.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O texto hebraico parece deixar implícito que Mardoqueu não se prostra perante Haman por se tratar de um descendente de Agag, inimigo de Israel. A versão grega (4,17e-17g) explicita que é para evitar fazer relativamente a um humano um gesto que é devido exclusivamente a Deus. Não se levanta, no entanto, a questão de recusar prostrar-se perante o rei. Em Dn 3,1-7 há a recusa de se prostrar diante de uma estátua, que parece simbolizar simultaneamente o rei e a divindade ou mesmo o rei enquanto divindade."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "est-3-n3",
+              "offset": 192,
+              "original_marker": "d",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 3,
@@ -271,23 +594,65 @@
         },
         {
           "verse": 6,
-          "text": "Mas aos seus olhos parecia pouco deitar a mão só a Mardoqueu. Por isso, quando lhe disseram qual era o povo de Mardoqueu, Haman tentou destruir todos os judeus, o povo de Mardoqueu, que havia em todo o reino de Assuero. (3,7—5,14)",
+          "text": "Mas aos seus olhos parecia pouco deitar a mão só a Mardoqueu. Por isso, quando lhe disseram qual era o povo de Mardoqueu, Haman tentou destruir todos os judeus, o povo de Mardoqueu, que havia em todo o reino de Assuero.",
           "note_refs": []
         },
         {
           "verse": 7,
           "text": "No primeiro mês, ou seja, no mês de Nisan, no décimo segundo ano do rei Assuero, lançou-se o Pur, isto é, a sorte, diante de Haman, dia após dia, e mês após mês, até que saiu em sorteio o décimo segundo mês, isto é, o mês de Adar.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O carácter algo abrupto do versículo que determina o Pur, ou sorte, dos judeus ainda antes do diálogo com o rei, além de outras questões linguísticas, faz pensar que este versículo poderia ser um acrescento posterior. De facto, o texto hebraico omite o dia do mês designado pela sorte e, a partir de 3,13; 8,12; e 9,1, pode reconstruir-se como sendo no dia treze do mês de… Por seu lado, a versão grega diz que caiu no décimo quarto dia do mês de… O mês de Adar situa-se entre fevereiro e março."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "est-3-n4",
+              "offset": 229,
+              "original_marker": "e",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Então, Haman disse ao rei Assuero: «Existe um povo disperso e misturado no meio dos povos, em todas as províncias do teu reino, cujas leis são diferentes de todos os outros povos e que não obedecem às leis do rei. Não é conveniente ao rei deixá-los em sossego.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Esta incompatibilidade entre as leis do rei e as dos povos que estavam sob o seu domínio representa diretamente a política do tempo do rei selêucida, Antíoco IV, mais do que a dos persas."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "est-3-n5",
+              "offset": 259,
+              "original_marker": "f",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Se parecer bem ao rei, seja decretada a sua aniquilação e eu mesmo pesarei dez mil talentos de prata para as mãos dos que fazem a administração, a fim de os fazerem entrar nos tesouros do rei».",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Um talento correspondia aproximadamente a 33 kg. E não é claro se uma quantia tão exagerada pretende representar o equivalente dos bens dos judeus, ou, em contraste com 3,11 e sobretudo 7,11, se se trata simplesmente de se referir, de maneira enfática, ao eventual prejuízo do rei com a perda dos impostos dos judeus."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "est-3-n6",
+              "offset": 191,
+              "original_marker": "g",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 10,
@@ -306,8 +671,31 @@
         },
         {
           "verse": 13,
-          "text": "Foram enviadas cartas, pelos correios, a todas as províncias do rei para destruir, matar e aniquilar todos os judeus, desde o mais jovem ao mais velho, crianças e mulheres, num só dia, no décimo terceiro dia do décimo segundo mês, que é o mês de Adar, e para saquear os seus bens. Eis aqui a cópia da carta: «O grande rei Artaxerxes, aos príncipes e governadores seus subordinados das cento e vinte e sete províncias, da Índia até à Etiópia, dispõe o seguinte: Embora eu governe muitos povos e domine sobre toda a terra, não que - ro abusar da autoridade, mas quero conduzir sempre com tolerância e bondade os súbditos, de modo que orientem serenos a vida e o reino seja tranquilo e seguro até às fronteiras e, assim, oferecer a renovação da paz desejada por todos os homens. Tendo consultado os meus conselheiros sobre como concretizar tudo isto, Haman, excelente junto de nós pela inteligência, vontade inalterável e fidelidade inabalável, elevado e promovido a ser o segundo do reino, fez-nos saber que há um povo hostil, disperso entre todas as nações do mundo, com leis contrárias às de todos os outros povos e transgredindo continuamente os decretos do rei, ao ponto de ameaçar a perfeita concórdia por nós estabelecida. Considerando que este povo é o único em oposição a todos e a cada ser humano, conduz uma forma de vida segundo leis estranhas, opondo-se e desprezando as nossas, comete as piores iniquidades e compromete o bem-estar do reino, ordenamos, em consequência, que aqueles a vós referidos nas cartas de Haman, por nós nomeado como responsável dos nossos assuntos e segundo pai, sejam todos exterminados até à raiz, com as suas mulheres e crianças, pelas espadas dos seus inimigos, sem compaixão alguma nem clemência, no dia catorze do décimo segundo mês, isto é, de Adar, do presente ano. De modo que, num só dia, os rivais de ontem e de hoje desçam violentamente ao Hades e nós possamos doravante progredir nas nossas ocupações com segurança e tranquilidade até ao fim».",
-          "note_refs": []
+          "text": "Foram enviadas cartas, pelos correios, a todas as províncias do rei para destruir, matar e aniquilar todos os judeus, desde o mais jovem ao mais velho, crianças e mulheres, num só dia, no décimo terceiro dia do décimo segundo mês, que é o mês de Adar, e para saquear os seus bens. Eis aqui a cópia da carta: «O grande rei Artaxerxes, aos príncipes e governadores seus subordinados das cento e vinte e sete províncias, da Índia até à Etiópia, dispõe o seguinte: Embora eu governe muitos povos e domine sobre toda a terra, não quero abusar da autoridade, mas quero conduzir sempre com tolerância e bondade os súbditos, de modo que orientem serenos a vida e o reino seja tranquilo e seguro até às fronteiras e, assim, oferecer a renovação da paz desejada por todos os homens. Tendo consultado os meus conselheiros sobre como concretizar tudo isto, Haman, excelente junto de nós pela inteligência, vontade inalterável e fidelidade inabalável, elevado e promovido a ser o segundo do reino, fez-nos saber que há um povo hostil, disperso entre todas as nações do mundo, com leis contrárias às de todos os outros povos e transgredindo continuamente os decretos do rei, ao ponto de ameaçar a perfeita concórdia por nós estabelecida. Considerando que este povo é o único em oposição a todos e a cada ser humano, conduz uma forma de vida segundo leis estranhas, opondo-se e desprezando as nossas, comete as piores iniquidades e compromete o bem-estar do reino, ordenamos, em consequência, que aqueles a vós referidos nas cartas de Haman, por nós nomeado como responsável dos nossos assuntos e segundo pai, sejam todos exterminados até à raiz, com as suas mulheres e crianças, pelas espadas dos seus inimigos, sem compaixão alguma nem clemência, no dia catorze do décimo segundo mês, isto é, de Adar, do presente ano. De modo que, num só dia, os rivais de ontem e de hoje desçam violentamente ao Hades e nós possamos doravante progredir nas nossas ocupações com segurança e tranquilidade até ao fim».",
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Lit.: pela mão dos corredores.",
+            "8": "Hades é o termo grego usado como equivalente ao termo hebraico Cheol, normalmente traduzido como o mundo dos mortos."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "est-3-n7",
+              "offset": 37,
+              "original_marker": "h",
+              "source_id": 25
+            },
+            {
+              "ref": "8",
+              "id": "est-3-n8",
+              "offset": 1889,
+              "original_marker": "a",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 14,
@@ -319,6 +707,42 @@
           "text": "À ordem do rei, os correios partiram a toda a pressa e o decreto foi conhecido em Susa, a capital. Então, o rei e Haman sentaram-se a beber, enquanto a cidade de Susa ficou em grande agitação.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Conflito entre Haman e Mardoqueu",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Começa aqui a tensão no relato que não explica o porquê da recusa de Mardoqueu a prostrar-se diante de Haman. Tanto no mundo pagão como em Israel a prostração diante do rei era normal (1Sm 20,41; 24,9; 25-23-24). O texto grego explica em 4,17d-17e que a recusa tinha por base motivações explicitamente religiosas."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "est-3-n1",
+              "offset": 32,
+              "original_marker": "b",
+              "source_id": 19
+            }
+          ]
+        },
+        {
+          "before_verse": 7,
+          "text": "CONSPIRAÇÃO CONTRA OS JUDEUS (3,7—5,14)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "Haman obtém do rei o extermínio dos judeus",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "Decreto de extermínio dos judeus",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -327,7 +751,21 @@
         {
           "verse": 1,
           "text": "Quando Mardoqueu soube tudo aquilo que tinha sido feito, rasgou as suas vestes e vestiu-se de saco e cobriu-se de cinza e saiu para o meio da cidade, gritando em voz alta e com amargura.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O tecido de saco e a cinza fazem parte dos rituais de luto, sem que aqui se diga como se aplicava a cinza."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "est-4-n2",
+              "offset": 119,
+              "original_marker": "c",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 2,
@@ -406,12 +844,75 @@
         },
         {
           "verse": 17,
-          "text": "Mardoqueu avançou e fez tudo quanto Ester lhe ordenou. Então, lembrando todas as ações do Senhor, orou ao Senhor e disse: «Senhor, Senhor, rei que tudo dominas, tudo está sujeito à tua autoridade e ninguém pode opor-se a ti e à tua vontade de salvar Israel. Tu fizeste o céu e a terra e todas as maravilhas que há debaixo do céu. Tu és o Senhor de todas as coisas e contra ti ninguém pode resistir, Senhor! Tu conheces tudo! Tu sabes, Senhor, que não foi por provocação, por arrogância ou por vaidade que procedi deste modo e não me ajoelhei diante do arrogante Haman, pois, pela salvação de Israel, de boa vontade teria beijado a planta dos seus pés. Mas procedi deste modo para não colocar a glória de um homem acima da glória de Deus. Não me ajoelharei a não ser diante de ti, meu Senhor, mas não é por arro - gância que assim procedo. E, agora, Senhor, Deus e rei, Deus de Abraão! Poupa o teu povo, pois eles procuram a nossa destruição e desejam exterminar aquele que é, desde o princípio, a tua herança. Não desprezes a tua porção, que resgataste da terra do Egito para ti. Ouve atentamente a minha oração e tem piedade da tua herança; transforma o nosso luto em festa para que vivamos e possamos cantar hinos ao teu nome. Senhor, não deixes calar a boca daqueles que cantam para ti!» Israel inteiro gritou ao Senhor com toda a sua força, pois a sua morte estava diante dos seus olhos. Também a rainha Ester, tomada de angústia mortal, procurou refúgio no Senhor. Despojando-se das suas vestes de esplendor, revestiu-se com roupas de aflição e de luto e, em vez de perfumes preciosos, cobriu a sua cabeça de cinza e de pó. Humilhou dura - mente o seu corpo e encobriu com os seus cabelos desgrenhados tudo quanto outrora adornava com esmero. E implorou o Senhor, Deus de Israel, dizendo: «Meu Senhor, nosso rei! Tu és único! Socorre-me, porque estou só e não tenho outro auxílio senão Tu! Pois o perigo está mesmo ao meu lado. Desde o meu nascimento, ouço dizer na família dos meus pais que Tu, Senhor, escolheste Israel entre todos os povos e os nossos pais entre os seus antepassados, para ser a tua herança eterna; e cumpriste para com eles tudo quanto tinhas prometido. Mas, agora, pecámos diante de ti e entregaste-nos nas mãos dos nossos inimigos, por termos glorificado os seus deuses. Tu és justo, Senhor! E agora eles, não satisfeitos com a amargura da nossa escravidão, colocaram as suas mãos sobre as mãos dos seus ídolos, jurando abolir o decreto da tua boca, apagar a tua herança, calar a boca dos que te louvam, extinguir a glória da tua casa e do teu altar, para abrir a boca das nações em louvor dos seus ídolos vãos e maravilhar-se diante de um rei mortal como se fosse eterno. Não entregues o teu cetro, Senhor, àqueles que nada são, para que não se riam da nossa queda. Mas vira o seu plano contra eles e faz do nosso primeiro adversário uma lição. Lembra-te, Senhor; manifesta-te na hora da nossa aflição e dá-me coragem, ó rei dos deuses, dominador de todos os poderes! Põe uma palavra harmoniosa na minha boca, quando estiver na presença do leão. Muda o seu coração em ódio contra o nosso adversário, para sua ruína e dos seus cúmplices. Salva-nos pela tua mão! Socorre-me, porque estou só e não tenho ninguém senão Tu, Senhor! Tu conheces tudo e sabes que odeio a glória dos ímpios e abomino o leito dos incircuncisos e de qualquer estrangeiro. Tu conheces a minha aflição e quanto odeio esta insígnia de dignidade que levo na minha cabeça nos meus dias de apresen - tação pública. Odeio-a como se fosse um pano de menstruação e não a uso nos meus dias de sossego.",
-          "note_refs": []
+          "text": "Mardoqueu avançou e fez tudo quanto Ester lhe ordenou. Então, lembrando todas as ações do Senhor, orou ao Senhor e disse: «Senhor, Senhor, rei que tudo dominas, tudo está sujeito à tua autoridade e ninguém pode opor-se a ti e à tua vontade de salvar Israel. Tu fizeste o céu e a terra e todas as maravilhas que há debaixo do céu. Tu és o Senhor de todas as coisas e contra ti ninguém pode resistir, Senhor! Tu conheces tudo! Tu sabes, Senhor, que não foi por provocação, por arrogância ou por vaidade que procedi deste modo e não me ajoelhei diante do arrogante Haman, pois, pela salvação de Israel, de boa vontade teria beijado a planta dos seus pés. Mas procedi deste modo para não colocar a glória de um homem acima da glória de Deus. Não me ajoelharei a não ser diante de ti, meu Senhor, mas não é por arrogância que assim procedo. E, agora, Senhor, Deus e rei, Deus de Abraão! Poupa o teu povo, pois eles procuram a nossa destruição e desejam exterminar aquele que é, desde o princípio, a tua herança. Não desprezes a tua porção, que resgataste da terra do Egito para ti. Ouve atentamente a minha oração e tem piedade da tua herança; transforma o nosso luto em festa para que vivamos e possamos cantar hinos ao teu nome. Senhor, não deixes calar a boca daqueles que cantam para ti!» Israel inteiro gritou ao Senhor com toda a sua força, pois a sua morte estava diante dos seus olhos. Também a rainha Ester, tomada de angústia mortal, procurou refúgio no Senhor. Despojando-se das suas vestes de esplendor, revestiu-se com roupas de aflição e de luto e, em vez de perfumes preciosos, cobriu a sua cabeça de cinza e de pó. Humilhou duramente o seu corpo e encobriu com os seus cabelos desgrenhados tudo quanto outrora adornava com esmero. E implorou o Senhor, Deus de Israel, dizendo: «Meu Senhor, nosso rei! Tu és único! Socorre-me, porque estou só e não tenho outro auxílio senão Tu! Pois o perigo está mesmo ao meu lado. Desde o meu nascimento, ouço dizer na família dos meus pais que Tu, Senhor, escolheste Israel entre todos os povos e os nossos pais entre os seus antepassados, para ser a tua herança eterna; e cumpriste para com eles tudo quanto tinhas prometido. Mas, agora, pecámos diante de ti e entregaste-nos nas mãos dos nossos inimigos, por termos glorificado os seus deuses. Tu és justo, Senhor! E agora eles, não satisfeitos com a amargura da nossa escravidão, colocaram as suas mãos sobre as mãos dos seus ídolos, jurando abolir o decreto da tua boca, apagar a tua herança, calar a boca dos que te louvam, extinguir a glória da tua casa e do teu altar, para abrir a boca das nações em louvor dos seus ídolos vãos e maravilhar-se diante de um rei mortal como se fosse eterno. Não entregues o teu cetro, Senhor, àqueles que nada são, para que não se riam da nossa queda. Mas vira o seu plano contra eles e faz do nosso primeiro adversário uma lição. Lembra-te, Senhor; manifesta-te na hora da nossa aflição e dá-me coragem, ó rei dos deuses, dominador de todos os poderes! Põe uma palavra harmoniosa na minha boca, quando estiver na presença do leão. Muda o seu coração em ódio contra o nosso adversário, para sua ruína e dos seus cúmplices. Salva-nos pela tua mão! Socorre-me, porque estou só e não tenho ninguém senão Tu, Senhor! Tu conheces tudo e sabes que odeio a glória dos ímpios e abomino o leito dos incircuncisos e de qualquer estrangeiro. Tu conheces a minha aflição e quanto odeio esta insígnia de dignidade que levo na minha cabeça nos meus dias de apresentação pública. Odeio-a como se fosse um pano de menstruação e não a uso nos meus dias de sossego. A tua serva não comeu à mesa de Haman, não honrou o banquete de nenhum rei, nem bebeu o vinho das libações. Desde o dia em que mudei de condição até este momento, a tua serva não se alegrou senão em ti, Senhor, Deus de Abraão! Ó Deus, poderoso sobre todas as coisas! Escuta a voz dos desesperados; livra-nos da mão dos perversos e liberta-me da minha angústia».",
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "A versão grega apresenta aqui uma ideia religiosa, a da idolatria como causa do castigo divino e da iminente destruição do povo judeu. Esta interpretação dos factos está em contraste com a mesma versão grega que, na oração de Mardoqueu, em 17d-17e apresenta a fidelidade a Deus e a rejeição da idolatria como causa do ódio dos inimigos.",
+            "5": "Trata-se de participar em rituais em que se usa vinho ou outros líquidos e que envolve, de maneira explícita ou implícita, uma intenção de prestar culto aos deuses."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "est-4-n4",
+              "offset": 2291,
+              "original_marker": "a",
+              "source_id": 30
+            },
+            {
+              "ref": "5",
+              "id": "est-4-n5",
+              "offset": 3691,
+              "original_marker": "b",
+              "source_id": 31
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Mardoqueu tenta salvar os judeus",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Mardoqueu assume aqui a iniciativa de salvar os judeus, implicando a colaboração de Ester no drama. O v. 14 pode talvez considerar-se o ápice teológico e a chave de leitura da obra, pois apesar de ser apenas uma referência implícita a Deus, é uma confissão de fé no auxílio divino e na sua misteriosa intervenção na história."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "est-4-n1",
+              "offset": 32,
+              "original_marker": "b",
+              "source_id": 27
+            }
+          ]
         },
         {
-          "verse": 18,
-          "text": "",
+          "before_verse": 17,
+          "text": "Mardoqueu invoca o auxílio divino",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Este terceiro acrescento grego apresenta duas peças de grande beleza teológica e literária que são as orações de Mardoqueu e Ester."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "est-4-n3",
+              "offset": 33,
+              "original_marker": "d",
+              "source_id": 29
+            }
+          ]
+        },
+        {
+          "before_verse": 17,
+          "text": "Oração de Ester",
           "note_refs": []
         }
       ]
@@ -426,7 +927,7 @@
         },
         {
           "verse": 2,
-          "text": "Quando o rei viu a rainha Ester de pé, no átrio, ela suscitou graça aos seus olhos e o rei estendeu para Ester o cetro de ouro que tinha na mão; Ester aproximou-se e tocou na ponta do cetro. Ela respondeu-lhe: «Eu vi-te, senhor, como um anjo de Deus e o meu coração estre - meceu com medo da tua glória. Porque és admirável, senhor, e o teu rosto é cheio de benevolência». E, enquanto falava, caiu de novo desfalecida. O rei ficou consternado e todos os seus servidores tentavam reanimá-la.",
+          "text": "Quando o rei viu a rainha Ester de pé, no átrio, ela suscitou graça aos seus olhos e o rei estendeu para Ester o cetro de ouro que tinha na mão; Ester aproximou-se e tocou na ponta do cetro. Ela respondeu-lhe: «Eu vi-te, senhor, como um anjo de Deus e o meu coração estremeceu com medo da tua glória. Porque és admirável, senhor, e o teu rosto é cheio de benevolência». E, enquanto falava, caiu de novo desfalecida. O rei ficou consternado e todos os seus servidores tentavam reanimá-la.",
           "note_refs": []
         },
         {
@@ -447,7 +948,21 @@
         {
           "verse": 6,
           "text": "No banquete, na altura em que bebiam o vinho, o rei disse a Ester: «Seja qual for o teu pedido, ele ser-te-á concedido! Mesmo que o teu desejo seja metade do reino, realizar-se-á!»",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A parte final do banquete era destinada a bebidas e discursos."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "est-5-n1",
+              "offset": 44,
+              "original_marker": "a",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 7,
@@ -486,8 +1001,48 @@
         },
         {
           "verse": 14,
-          "text": "Disse-lhe Zeres, a sua mulher, com todos os seus amigos: «Ergam um madeiro com cinquenta côvados de altura e, pela manhã, dirás ao rei que suspendam nele Mardoqueu. Depois, irás satisfeito ao banquete com o rei». A proposta pareceu boa a Haman, que mandou erguer o madeiro. (6,1–10,3l)",
+          "text": "Disse-lhe Zeres, a sua mulher, com todos os seus amigos: «Ergam um madeiro com cinquenta côvados de altura e, pela manhã, dirás ao rei que suspendam nele Mardoqueu. Depois, irás satisfeito ao banquete com o rei». A proposta pareceu boa a Haman, que mandou erguer o madeiro.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Cinquenta côvados correspondem aproximadamente a 25 metros; o côvado é a distância que vai do cotovelo à ponta dos dedos."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "est-5-n3",
+              "offset": 96,
+              "original_marker": "c",
+              "source_id": 34
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Ester apresenta-se ao rei",
           "note_refs": []
+        },
+        {
+          "before_verse": 9,
+          "text": "Haman prepara a aniquilação de Mardoqueu",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Estes versículos apresentam o ponto culminante da tensão narrativa antes da reviravolta pela intervenção de Ester: Haman começa a engenhar a morte de Mardoqueu e dos judeus, morte que, ironicamente, recairá sobre ele e a sua família."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "est-5-n2",
+              "offset": 40,
+              "original_marker": "b",
+              "source_id": 33
+            }
+          ]
         }
       ]
     },
@@ -497,7 +1052,30 @@
         {
           "verse": 1,
           "text": "Naquela noite, como o sono se lhe escapava, o rei mandou trazer o livro das memórias ou crónicas para que fossem lidas na presença do rei.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "A versão grega diz que o Senhor retirou o sono ao rei. Em Dan 2,1, uma situação semelhante prepara a revelação do plano ou vontade de Deus.",
+            "2": "Em hebraico, o livro chama-se Palavras dos Dias, tal como acontece com os livros das Crónicas que vêm na Bíblia."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "est-6-n1",
+              "offset": 49,
+              "original_marker": "d",
+              "source_id": 35
+            },
+            {
+              "ref": "2",
+              "id": "est-6-n2",
+              "offset": 96,
+              "original_marker": "e",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 2,
@@ -564,6 +1142,18 @@
           "text": "Ainda estes estavam a falar com ele, quando chegaram os eunucos que se apressaram a levar Haman para o banquete que Ester tinha preparado.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "REVIRAVOLTA NO CONFLITO E VITÓRIA DOS JUDEUS (6,1–10,3l)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Assuero honra publicamente Mardoqueu",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -592,7 +1182,21 @@
         {
           "verse": 5,
           "text": "O rei Assuero falou e disse à rainha Ester: «Quem é e onde está aquele cujo coração projetou fazer isso?»",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.: que encheu o coração para…"
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "est-7-n1",
+              "offset": 92,
+              "original_marker": "a",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 6,
@@ -617,6 +1221,13 @@
         {
           "verse": 10,
           "text": "Então suspenderam Haman no madeiro que ele tinha preparado para Mardoqueu. E assim se abrandou a cólera do rei.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Haman é descoberto e condenado à morte",
           "note_refs": []
         }
       ]
@@ -681,8 +1292,49 @@
         },
         {
           "verse": 12,
-          "text": "Tudo isto num só dia, em todas as províncias do rei Assuero, a saber, no dia treze do décimo segundo mês, que é o mês de Adar. Esta é a cópia da carta escrita: «O grande rei Artaxerxes, aos governadores das cento e vinte e sete satrapias, da Índia até à Etiópia, e a todos os que se ocupam dos nossos interesses: saudações. Muitos, quando recebem muitas honras pela grande bondade dos benfeitores, tornam-se arrogantes. E, incapazes de aceitar a medida do recebido, tentam não só prejudicar os nossos súbditos, mas também conspiram para deitar a mão aos seus ben - feitores. Não só fazem desaparecer dos humanos o agradecimento, como também ensoberbecidos pela ostentação dos que não sabem fazer o bem, pensam escapar da justiça do Deus que sem cessar tudo observa e odeia o mal. Frequentemente, os que estão investidos em autoridade, sob a influência dos amigos aos quais confiaram a gestão dos seus assuntos, tornaram-se cúmplices do der - ramamento de sangue inocente e foram arrastados para calamidades irreparáveis. Através de raciocínios perversos e mentirosos tem sido atraiçoada a bondade irre - preensível dos governadores. É possível constatar isto não só na história antiga que temos transmitido, mas, indagando, até mesmo aí, onde assentam os vossos pés, nos crimes perpetrados pela maldade dos que indignamente exercem a autoridade. Atendendo a isto, procuraremos doravante oferecer a todos os homens um reinado tranquilo e em paz; implementaremos as mudanças necessárias e julgaremos sempre com equidade e equilíbrio o que ocorrer sob o nosso olhar. Este é o caso de Haman, filho de Hamedata, o macedónio. Alheio, de facto, ao sangue dos persas e totalmente distante da nossa benevolência, foi por nós acolhido. Aproveitando-se da tão grande filantropia que alimentamos por todos os povos, che - gou ao ponto de ser declarado nosso pai, de ser honrado por todos com um gesto de inclinação e de ocupar a segunda posição do trono real. Incapaz de dominar a sua soberba, tentou tirar-nos o poder e a vida. Com raciocínios tortuosos e enganadores solicitou a destruição do nosso salvador e perene benfeitor, Mardoqueu, e de Ester, irrepreensível parceira de reinado, bem como de todo o seu povo. De facto, pretendia desta forma apanhar-nos isolados e transferir o império dos persas para os macedónios. Mas nós chegamos à conclusão de que os judeus, votados à extinção por esse indiví - duo, três vezes corrupto, não são criminosos, mas cidadãos cumpridores de leis justas. São filhos do Deus altíssimo e poderoso, o Deus vivo que mantém o reino na prosperi - dade, tanto para nós como para os nossos antepassados. Portanto, fareis bem em não ter em conta as cartas enviadas por Haman, filho de Hamedata, pois ele, que perpetrou tais coisas, foi crucificado às portas de Susa com toda a sua família. Este foi o rápido e merecido castigo com que lhe retribuiu o Deus que tudo domina. Afixando uma cópia desta carta por toda a parte, permitireis aos judeus observar livremente os seus costumes e ajudá-los-eis a defender-se dos que os atacarem, quando cair sobre eles a desgraça, no dia treze do décimo segundo mês, isto é, de Adar». De facto, o Deus que tudo domina transformou o dia da aniquilação do povo escolhido em dia de alegria. Portanto, celebrai este dia insigne entre as vossas festas comemorativas com um grande banquete. De modo que, agora e para sempre, seja um dia de salvação para nós e para os que têm boa vontade para com os persas. Mas para os que conspiraram contra nós será a lembrança da destruição. Qualquer cidade e qualquer localidade que não proceder assim será violentamente destruída a ferro e fogo e tornar-se-á não só inóspita para os homens, mas até para as feras e para as aves será eternamente detestada.",
-          "note_refs": []
+          "text": "Tudo isto num só dia, em todas as províncias do rei Assuero, a saber, no dia treze do décimo segundo mês, que é o mês de Adar. Esta é a cópia da carta escrita: «O grande rei Artaxerxes, aos governadores das cento e vinte e sete satrapias, da Índia até à Etiópia, e a todos os que se ocupam dos nossos interesses: saudações. Muitos, quando recebem muitas honras pela grande bondade dos benfeitores, tornam-se arrogantes. E, incapazes de aceitar a medida do recebido, tentam não só prejudicar os nossos súbditos, mas também conspiram para deitar a mão aos seus benfeitores. Não só fazem desaparecer dos humanos o agradecimento, como também ensoberbecidos pela ostentação dos que não sabem fazer o bem, pensam escapar da justiça do Deus que sem cessar tudo observa e odeia o mal. Frequentemente, os que estão investidos em autoridade, sob a influência dos amigos aos quais confiaram a gestão dos seus assuntos, tornaram-se cúmplices do derramamento de sangue inocente e foram arrastados para calamidades irreparáveis. Através de raciocínios perversos e mentirosos tem sido atraiçoada a bondade irrepreensível dos governadores. É possível constatar isto não só na história antiga que temos transmitido, mas, indagando, até mesmo aí, onde assentam os vossos pés, nos crimes perpetrados pela maldade dos que indignamente exercem a autoridade. Atendendo a isto, procuraremos doravante oferecer a todos os homens um reinado tranquilo e em paz; implementaremos as mudanças necessárias e julgaremos sempre com equidade e equilíbrio o que ocorrer sob o nosso olhar. Este é o caso de Haman, filho de Hamedata, o macedónio. Alheio, de facto, ao sangue dos persas e totalmente distante da nossa benevolência, foi por nós acolhido. Aproveitando-se da tão grande filantropia que alimentamos por todos os povos, chegou ao ponto de ser declarado nosso pai, de ser honrado por todos com um gesto de inclinação e de ocupar a segunda posição do trono real. Incapaz de dominar a sua soberba, tentou tirar-nos o poder e a vida. Com raciocínios tortuosos e enganadores solicitou a destruição do nosso salvador e perene benfeitor, Mardoqueu, e de Ester, irrepreensível parceira de reinado, bem como de todo o seu povo. De facto, pretendia desta forma apanhar-nos isolados e transferir o império dos persas para os macedónios. Mas nós chegamos à conclusão de que os judeus, votados à extinção por esse indivíduo, três vezes corrupto, não são criminosos, mas cidadãos cumpridores de leis justas. São filhos do Deus altíssimo e poderoso, o Deus vivo que mantém o reino na prosperidade, tanto para nós como para os nossos antepassados. Portanto, fareis bem em não ter em conta as cartas enviadas por Haman, filho de Hamedata, pois ele, que perpetrou tais coisas, foi crucificado às portas de Susa com toda a sua família. Este foi o rápido e merecido castigo com que lhe retribuiu o Deus que tudo domina. Afixando uma cópia desta carta por toda a parte, permitireis aos judeus observar livremente os seus costumes e ajudá-los-eis a defender-se dos que os atacarem, quando cair sobre eles a desgraça, no dia treze do décimo segundo mês, isto é, de Adar». De facto, o Deus que tudo domina transformou o dia da aniquilação do povo escolhido em dia de alegria. Portanto, celebrai este dia insigne entre as vossas festas comemorativas com um grande banquete. De modo que, agora e para sempre, seja um dia de salvação para nós e para os que têm boa vontade para com os persas. Mas para os que conspiraram contra nós será a lembrança da destruição. Qualquer cidade e qualquer localidade que não proceder assim será violentamente destruída a ferro e fogo e tornar-se-á não só inóspita para os homens, mas até para as feras e para as aves será eternamente detestada.",
+          "note_refs": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "notes": {
+            "3": "Esta caracterização de Haman como macedónio não consta no texto hebraico de Ester. É uma particularidade da versão grega; pode exprimir a aversão judaica pelos reis selêucidas, descendentes de um general macedónio, que foi sucessor de Alexandre Magno.",
+            "4": "Lit.: e o espírito. Nota-se influência de um possível original hebraico ou aramaico na base da tradução para grego. A referência a um atentado contra o rei é característica da época persa (1m -1q; 2,21-23). A suspeita referida em 8,12o confirma esta associação de Haman com a Macedónia.",
+            "5": "O texto hebraico fala de suspenso no madeiro (2,23; 5,14; 6,4; 7,9; 8,7). A versão grega explicita mais especificamente que foi crucificado.",
+            "6": "Os vv. 8,12t-12x não pertencem à carta de Artaxerxes; são uma exortação-ameaça do autor do texto grego dirigida aos ouvintes e leitores, para que observem escrupulosamente a festa de Purim."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "est-8-n3",
+              "offset": 1609,
+              "original_marker": "a",
+              "source_id": 40
+            },
+            {
+              "ref": "4",
+              "id": "est-8-n4",
+              "offset": 2003,
+              "original_marker": "b",
+              "source_id": 41
+            },
+            {
+              "ref": "5",
+              "id": "est-8-n5",
+              "offset": 2749,
+              "original_marker": "c",
+              "source_id": 42
+            },
+            {
+              "ref": "6",
+              "id": "est-8-n6",
+              "offset": 3132,
+              "original_marker": "d",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 13,
@@ -707,7 +1359,61 @@
         {
           "verse": 17,
           "text": "E, província após província, cidade após cidade, a cada lugar aonde chegava o decreto do rei e a sua ordem, havia entre os judeus alegria, júbilo e banquetes. Foi um dia de felicidade e muitos povos da terra associaram-se ao judaísmo, porque tinha caído sobre eles o medo dos judeus.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "O verbo aqui utilizado representa alguma dificuldade de tradução e, nas antigas versões grega e latina, foi interpretado de modo a sugerir que populações inteiras se converteram e se tornaram judeus. É certamente uma expressão de satisfação e celebração, pois a conversão coletiva nem sequer é prevista no judaísmo."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "est-8-n7",
+              "offset": 221,
+              "original_marker": "e",
+              "source_id": 44
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Concessão de auto-defesa aos judeus",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A sorte ou Pur dos judeus é transformada; e eles passam de vítimas a executores com intenção defensiva, renovando o decreto de 1Sm 15,3 que previa a destruição total dos amalecitas, atualizados agora como antepassados de Haman e dos seus sequazes. O v. 11 da versão grega atenua a violência, dizendo que o decreto lhes permitia observar as suas leis, ajudar-se uns aos outros e defender-se dos inimigos segundo o seu desejo; mas não fala do extermínio de mulheres e crianças nem do saque dos bens. O número das vítimas é naturalmente hiperbólico."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "est-8-n1",
+              "offset": 35,
+              "original_marker": "b",
+              "source_id": 38
+            }
+          ]
+        },
+        {
+          "before_verse": 12,
+          "text": "Decreto de revogação do extermínio",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Este é o quinto acrescento grego que pretende reforçar a credibilidade do relato. Enquanto a versão hebraica não revoga o extermínio e apenas permite a autodefesa, o texto grego condena Haman, elogia os judeus, revoga o decreto através de um convite à não observância e no v. 12s concede a liberdade de culto e o direito de autodefesa."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "est-8-n2",
+              "offset": 34,
+              "original_marker": "c",
+              "source_id": 39
+            }
+          ]
         }
       ]
     },
@@ -717,7 +1423,21 @@
         {
           "verse": 1,
           "text": "No décimo segundo mês, que é o mês de Adar, no dia treze do mês, dia no qual entravam em vigor a ordem e o decreto do rei e era o dia em que os inimigos dos judeus contavam dominar sobre eles, aconteceu o contrário e foram os judeus a dominar os que os odiavam.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A exemplo da morte dos egípcios no mar Vermelho em Ex 14 e do extermínio dos cananeus no livro de Josué, apresenta-se aqui a vitória dos judeus sob a forma da esmagadora derrota e morte dos seus inimigos. No entanto, o livro de Ester afasta-se ligeiramente do tema tradicional das guerras de Javé, pois Deus não tem intervenção na batalha e na vingança dos judeus. O número das vítimas é seguramente fictício e hiperbólico."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "est-9-n2",
+              "offset": 260,
+              "original_marker": "g",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 2,
@@ -837,7 +1557,21 @@
         {
           "verse": 25,
           "text": "e que, quando ela chegou à presença do rei, este ordenou, por escrito, que o plano perverso de Haman, engendrado contra os judeus, se voltasse contra a sua cabeça. E suspenderam-no a ele e aos seus filhos no madeiro».",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Ela, isto é, a rainha Ester."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "est-9-n3",
+              "offset": 17,
+              "original_marker": "a",
+              "source_id": 47
+            }
+          ]
         },
         {
           "verse": 26,
@@ -874,6 +1608,27 @@
           "text": "A palavra de Ester confirmou as práticas relativas à festa de Purim e ficou escrita no livro.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Vitória dos judeus e instituição da festa de Purim",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Este capítulo trata dois temas diferentes: a defesa dos judeus contra os inimigos estrangeiros (vv. 1-19) e a instituição da festa de Purim (vv. 20-32). Tal como em 3,7, a associação dos eventos é forçada e em 8,20-21.23.27.29 nota-se a dificuldade em prescrever, através das insistentes cartas de Mardoqueu e Ester, uma prática que os judeus já tinham começado. Além disso, o facto de a data exata do evento e da festa oscilar entre o treze, o catorze e o quinze de Adar reflete provavelmente a disparidade entre os calendários da festa de Purim entre Israel e a das comunidades da diáspora."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "est-9-n1",
+              "offset": 50,
+              "original_marker": "f",
+              "source_id": 45
+            }
+          ]
+        }
       ]
     },
     {
@@ -891,17 +1646,61 @@
         },
         {
           "verse": 3,
-          "text": "De facto, o judeu Mardoqueu era a segunda pessoa depois do rei Assuero e era grande entre os judeus e amado por muitos dos seus irmãos. Procurou o bem do seu povo e trabalhou pela paz de toda a sua gente.",
+          "text": "De facto, o judeu Mardoqueu era a segunda pessoa depois do rei Assuero e era grande entre os judeus e amado por muitos dos seus irmãos. Procurou o bem do seu povo e trabalhou pela paz de toda a sua gente. Então, Mardoqueu disse: «Foi pela intervenção de Deus que estas coisas aconteceram. Lembro-me bem do sonho que tive a propósito destas coisas e nenhum pormenor foi omitido: a pequena fonte, que se converteu num rio, era luz, sol e águas imensas. Ester, que o rei desposou e tornou rainha, é o rio. Os dois dragões somos eu e Haman. As nações são aqueles que estavam dispostos a destruir o nome dos judeus. O meu povo é Israel, aqueles que clamaram a Deus e foram salvos. O Senhor salvou o seu povo; o Senhor libertou-nos de todos estes males. Deus fez grandes sinais e prodígios que nunca ocorreram entre os outros povos.Pois Ele preparou duas sortes: uma para o povo de Deus e outra para todos os outros povos. E estas duas sortes cumpriram-se na hora, no momento oportuno, no dia do julgamento na presença de Deus e no meio de todos os povos. Então, Deus lembrou-se do seu povo e fez justiça à sua herança. Por isso, estes dias do mês de Adar, o catorze e quinze deste mês, serão celebrados por eles com uma assembleia, com alegria e júbilo diante de Deus, através das gerações, para sempre, em Israel, seu povo. No quarto ano do reinado de Ptolomeu e Cleópatra, Dositeu, que dizia ser sacerdote e levita, e Ptolomeu, seu filho, trouxeram a presente carta sobre a festa de Purim, que declararam autêntica e era tradução de Lisímaco, filho de Ptolomeu, que estavam em Jerusalém.",
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "Esta parte final do texto hebraico, bem como o final da versão em grego, tendem a mostrar que este livro poderia chamar-se também o livro de Mardoqueu.",
+            "3": "Como já foi dito na introdução, não é fácil identificar quem é este rei Ptolomeu, mas pode tratar-se de Ptolomeu VIII que é referido em 1Mc 15,16 e, nesse caso, pode confirmar a datação da obra na época dos Macabeus."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "est-10-n2",
+              "offset": 203,
+              "original_marker": "b",
+              "source_id": 48
+            },
+            {
+              "ref": "3",
+              "id": "est-10-n3",
+              "offset": 1356,
+              "original_marker": "a",
+              "source_id": 50
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Elogio de Mardoqueu",
           "note_refs": []
         },
         {
-          "verse": 4,
-          "text": "",
-          "note_refs": []
+          "before_verse": 3,
+          "text": "Interpretação do sonho de Mardoqueu",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A reorientação teológica do relato conclui-se com este último acrescento grego. A interpretação, como já o sonho, tem um sabor apocalíptico e pretende encorajar os judeus e crentes de todos os tempos que sofrem perseguição."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "est-10-n1",
+              "offset": 35,
+              "original_marker": "c",
+              "source_id": 49
+            }
+          ]
         },
         {
-          "verse": 5,
-          "text": "",
+          "before_verse": 3,
+          "text": "Nota conclusiva",
           "note_refs": []
         }
       ]

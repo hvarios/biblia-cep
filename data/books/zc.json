@@ -1,27 +1,110 @@
 {
+  "schema_version": 2,
   "book": "Zacarias",
+  "book_id": "zc",
+  "source": {
+    "format": "docx",
+    "file": "45_Zc.docx",
+    "title": "Livro de Zacarias"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": null,
+        "paragraphs": [
+          "Tal como o livro de Isaías, também o de Zacarias pode ser atribuído a mais de um profeta. Os cc. 1-8 são diferentes de 9-14 e constituem um conjunto bem delimitado. Os primeiros é que poderão ser atribuídos ao profeta Zacarias. Os últimos devem pertencer a um profeta anónimo mais recente. Por isso é geralmente designado com o nome de Segundo Zacarias ou Dêutero-Zacarias."
+        ]
+      },
+      {
+        "title": "O profeta e o seu tempo",
+        "paragraphs": [
+          "O profeta Zacarias, cujo nome significa ‘Javé lembrou-se’, é apresentado como filho de Baraquias e neto de Ido (1,1.7); aparece também como filho de Ido (Esd 5,1 e Targum). Por volta de 500 a.C., seria um chefe da família sacerdotal de Ido (Ne 12,16). Daí a sua insistência no papel do templo. É-lhe dirigida uma consulta ritual acerca da manutenção ou supressão dos jejuns comemorativos (7,1-3; 8,18- 19). Além disso, a preocupação com a pureza e a santidade da Terra Santa (2,16; 5,1-4.5-11) corresponde bem à mentalidade sacerdotal. Apesar disso, enquadra-se claramente na linha espiritual dos antigos profetas. Retoma os apelos à conversão (1,3-6; 7,4-14; 8,16-17) e o estilo literário profético.",
+          "A atividade de Zacarias, tal como a do seu contemporâneo, Ageu, está ligada à reconstrução do templo (5,1; 6,14) e desenvolve-se entre 520 e 518 a.C., três anos antes da dedicação do novo templo, em 515. O contexto em que exerce o seu ministério é de desencanto: os exilados que regressam da Babilónia, cheios de esperança (2,10-13; 6,10), vêem-se em grandes dificuldades de integração na comunidade (5,3- 4; 8,16-17). O lento regresso à vida normal (1,11) ensombrou a expectativa de uma mudança rápida.",
+          "Neste horizonte, o profeta anuncia que a salvação está em curso, pois, com a restauração do templo, abre-se a era messiânica, na qual o sacerdócio, representado por Josué, será exaltado, e a realeza será exercida pelo «Gérmen» (3,8), termo messiânico que, em 6,12, é aplicado a Zorobabel. Aqueles dois ungidos (4,14) governarão em perfeita harmonia (6,13).",
+          "Em relação ao Dêutero-Zacarias (9-14), o contexto é menos claro. A origem desta parte do livro parece situar-se no início do período grego, entre 330 e 300. Com efeito, a campanha militar de Alexandre Magno, em 332, e a destruição de Tiro aparecem descritas com muita precisão, em 9,1-8.",
+          "Em 9,11-12 e 10,8-11 faz-se alusão a cativos, que podem representar os membros da diáspora, presos em regiões simbolicamente nomeadas como Assíria e Egito. Efetivamente, em 312, muitos prisioneiros judeus foram deportados para o Egito, depois da tomada de Jerusalém por Ptolomeu Soter I. Daí, talvez, a designação de “gregos” (Iavan), em 9,13, como potência hostil ao povo de Deus. A situação vigente em Jerusalém, desde a dominação persa, era de rutura: sacerdotes e habi-",
+          "tantes lutam por uma teocracia, pensando ter chegado o tempo do cumprimento das promessas. O povo, privado de poder, julga que da presente geração de homens não se pode esperar nada. Num mundo tornado hostil, ele aguarda com impaciência uma intervenção divina. E o profeta junta-se às expectativas do povo, abrindo um caminho de esperança."
+        ]
+      },
+      {
+        "title": "Zacarias 1-8",
+        "paragraphs": [
+          "O primeiro livro é composto por oito capítulos, divididos em três secções:",
+          "1,1-6: que serve de introdução. Trata-se de uma exortação à conversão.",
+          "1,7-6,15: contém oito visões e uma série de pequenos oráculos",
+          "7-8: composto por uma série de oráculos em aparente desordem.",
+          "A secção principal do livro é a que vai de 1,7 a 6,15; ali estão situadas as oito visões. Originalmente estas visões poderiam ser apenas sete, pois, a estrutura da visão de 3,1-7 não corresponde à das restantes.",
+          "As visões seguem normalmente um esquema triplo: descrição da visão com a pergunta do profeta e a resposta do mensageiro intérprete. Outro detalhe interessante é a relação entre as visões. As duas primeiras e as duas últimas têm como objeto os países estrangeiros que maltrataram Judá. Todas confluem na quarta visão que fala dos dirigentes, políticos e religiosos do povo de Deus. As ideias centrais são: castigo dos inimigos, glória de Judá e governo de Josué e Zorobabel.",
+          "A terceira secção (7-8) é composta por uma série de oráculos aparentemente não muito organizados. O ponto de partida (7,1-3) é uma consulta aos sacerdotes e profetas para se saber se convém continuar ou não a celebrar o dia de luto e o jejum do quinto mês. Em 8,18-19, Zacarias responde que se deve celebrar o jejum do 5º mês e que também outras celebrações se hão de converter em gozo, alegria e festa."
+        ]
+      },
+      {
+        "title": "Zacarias 9-14",
+        "paragraphs": [
+          "Este segundo livro é formado por duas unidades principais: 9-11; 12-14. A primeira aparece como um comunicado de vitória, onde o profeta anuncia a intervenção definitiva de Deus. Os povos vizinhos que sofreram a derrota são purificados e integrados na comunidade (9,1-8). A seguir surge a figura do rei-messias, humilde, que vai instaurar o reino ideal (9,9-10). A série de combates que vai ser desencadeada permitirá a reunificação de todos os dispersos do povo (9,11-17; 10,3-11,3). Um texto intermédio (10,1-2) recorda que tudo é exclusiva obra de Deus e que qualquer outro apoio é falacioso.",
+          "Segue-se a alegoria dos dois pastores e dos dois cajados (11,4-17). Em 13,7-9, outra alegoria descreve a situação difícil do povo, cada vez mais dura por culpa sua. Nesta altura, o messias, apresentado como o pastor, empreende a realização do seu programa, simbolizado pelos dois cajados: “Benevolência” e “União”. Contudo, a grande degradação religiosa dos chefes e do povo levou ao desaire os esforços empreendidos",
+          "por ele. Rejeitado, o bom pastor deixa o seu lugar a um outro que não tem o mínimo cuidado com o rebanho e o deixa perecer."
+        ]
+      },
+      {
+        "title": "Mensagem do livro de Zacarias",
+        "paragraphs": [
+          "A mensagem de Zacarias é dupla. Por um lado, o profeta testemunha uma evolução no modo de apresentar as intervenções de Deus. Se nos antigos profetas Deus comunica pela sua palavra ou pelas visões nas quais ele próprio intervém, em Zacarias Deus parece mais afastado da arena dos acontecimentos terrenos. Nas visões não é ele que aparece, mas um mensageiro encarregado de explicar as intenções divinas. Os próprios projetos de Deus são realizados através de intermediários (anjos, cavaleiros).",
+          "Este afastamento de Deus em relação ao mundo, apesar de ser reflexo de uma preocupação espiritual, corresponde também a uma experiência mais existencial, que é sentida como uma certa ausência de Deus. Como resposta e para preencher o vazio aparente e aproximar o mundo celestial e os homens, a fé foi multiplicando intermediários que constituem o elo entre Deus e a humanidade.",
+          "Por outro lado, Zacarias tem um profundo sentido de esperança. A uma comunidade desencantada ele proporciona uma nova esperança, induzindo-a à ação. A reconstrução do templo e a restauração de um culto válido são a realização desta esperança.",
+          "A sucessão de visões (1-6) faz prever a iminência de uma intervenção divina. Tal intervenção vai realizar-se seja através do regresso dos exilados (2,10-13), seja pela obra de um príncipe construtor (4,8-10), seja pela reabilitação dos habitantes de Jerusalém junto dos povos (8,1-15.23).",
+          "Quatro personagens incarnam a esperança anunciada. Duas são figuras históricas: o sumo-sacerdote Josué (3,1-7; 6,9.15) e o governador Zorobabel (4,8-10). O governo harmonioso de ambos é um sinal precursor da restauração prometida. Outras duas são misteriosas e aparecem na segunda parte do livro, de acordo com a visão dramática do reino de Deus: o rei pobre (9,9-12) e o trespassado (12,10). O rei vem depois da vitória do Senhor para tomar posse do reino definitivo. Em relação à figura do trespassado, ela é ao mesmo tempo individual, próxima do pastor desprezado pelos seus (11,15-17) ou ferido pelo próprio Deus (13,7) e também coletiva e identifica-se com os habitantes (12,12-14). O trespassado é semelhante ao servo sofredor de Is 53, embora os termos utilizados sejam diferentes. Como no caso do servo, o seu sacrifício é fonte de transformação dos corações (12,10) e de purificação (13,1).",
+          "A segunda coleção (12,1-14,26) do Dêutero-Zacarias começa por falar do combate escatológico entre Jerusalém e todas as nações. Livre dos seus inimigos exteriores, o povo é recompensado com um espírito novo (12,1-13,11). Contudo, a derrota dos inimigos não dá lugar a um canto de vitória, mas a uma grande lamentação (12,9- 13,1). A purificação prossegue e completa-se com a renovação da aliança (13,2-9).",
+          "Finalmente, a salvação atinge o mundo inteiro: todos os povos devem reunir-se a Israel para confessar a realeza do Senhor.",
+          "Esta secção termina no c. 14 com um apêndice que fala da santidade plena de tudo o que existe em Jerusalém e do desaparecimento dos comerciantes do templo (vv. 20-21).",
+          "No livro de Zacarias convergem várias linhas de pensamento messiânico: o messianismo sem messias (onde toda a obra é pessoalmente realizada pelo Senhor, que garante a derrota dos inimigos e o reagrupamento do povo), e outros messianismos como o davídico, ou real, o messianismo de humildade e de sofrimento do servo sofredor, o messianismo sacerdotal e o do bom pastor. Vários destes matizes reaparecem na formulação cristã do messianismo de Jesus."
+        ]
+      },
+      {
+        "title": "Zacarias no NT",
+        "paragraphs": [
+          "As visões de Zacarias e a densidade messiânica do Dêutero-Zacarias converteram- -se num arsenal de imagens para os escritos apocalípticos e para o Novo Testamento. No discurso escatológico de Jesus, encontramos veladas referências. Compare-se, por exemplo, Mt 24,31 com Zc 2,6; Mc 13,27 com Zc 2,6.10. As referências são particularmente notórias nas narrações da paixão de Jesus (Mt 21,4-5 e Jo 12,15; Mc 14,27 e Mt 26,31; Mt 27,9-10; Jo 19,37). Mas foi o autor do Apocalipse que mais utilizou os materiais do livro de Zacarias."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "verse": 1,
-          "text": "No oitavo mês, no segundo ano do reinado de Dario, a palavra do foi dirigida ao profeta Zacarias, filho de Baraquias, filho de Ido, dizendo:",
-          "note_refs": []
+          "text": "No oitavo mês, no segundo ano do reinado de Dario, a palavra do SENHOR foi dirigida ao profeta Zacarias, filho de Baraquias, filho de Ido, dizendo:",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Trata-se do ano 520 a. C., no mês de outubro-novembro. Zacarias é, portanto, contemporâneo de Ageu."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "zc-1-n1",
+              "offset": 49,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "«O ficou muito indignado contra os vossos pais.",
+          "text": "«O SENHOR ficou muito indignado contra os vossos pais.",
           "note_refs": []
         },
         {
           "verse": 3,
-          "text": "Diz-lhes pois: “Assim fala o do universo: voltai para mim oráculo do do diz o do universo.",
+          "text": "Diz-lhes pois: “Assim fala o SENHOR do universo: voltai para mim – oráculo do SENHOR do universo – e eu voltarei para vós – diz o SENHOR do universo.",
           "note_refs": []
         },
         {
           "verse": 4,
-          "text": "Não sejais como os vossos pais, contra os quais os profetas anteriores clamaram, dizendo: “Assim fala o do universo: voltai, pois, dos vossos caminhos iníquos e dos vossos procedimentos perversos’. Mas eles não me escutaram e não me prestaram atenção, - oráculo do.",
+          "text": "Não sejais como os vossos pais, contra os quais os profetas anteriores clamaram, dizendo: “Assim fala o SENHOR do universo: voltai, pois, dos vossos caminhos iníquos e dos vossos procedimentos perversos’. Mas eles não me escutaram e não me prestaram atenção, - oráculo do SENHOR.",
           "note_refs": []
         },
         {
@@ -31,18 +114,78 @@
         },
         {
           "verse": 6,
-          "text": "Será que as minhas palavras e as minhas leis que Eu confiei aos meus servos, os profetas, não atin - giram os vossos pais? Pois, eles converteram-se e disseram: ‘Tal como o do universo tinha decidido tratar-nos, de acordo com os nossos caminhos e proce - dimentos, assim nos tratou’.»",
-          "note_refs": []
+          "text": "Será que as minhas palavras e as minhas leis que Eu confiei aos meus servos, os profetas, não atingiram os vossos pais? Pois, eles converteram-se e disseram: ‘Tal como o SENHOR do universo tinha decidido tratar-nos, de acordo com os nossos caminhos e procedimentos, assim nos tratou’.»",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Embora os profetas também tenham morrido, como os seus antepassados, as palavras de Deus pronunciadas por deles continuam vivas. É preciso, pois, escutá-las e converter-se."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "zc-1-n2",
+              "offset": 119,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "No dia vinte e quatro do décimo primeiro mês, que é o mês de Chebat, no segun - do ano do reinado de Dario, a palavra do foi dirigida ao profeta Zacarias, filho de Baraquias, filho de Ido, dizendo:",
-          "note_refs": []
+          "text": "No dia vinte e quatro do décimo primeiro mês, que é o mês de Chebat, no segundo ano do reinado de Dario, a palavra do SENHOR foi dirigida ao profeta Zacarias, filho de Baraquias, filho de Ido, dizendo:",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Meados de fevereiro de 519."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "zc-1-n3",
+              "offset": 103,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "«Esta noite tive uma visão. Era um homem montava num cavalo verme - lho. Estava em pé no meio das murtas que havia num vale profundo. Atrás deles estavam cavalos vermelhos, ruços e brancos.",
-          "note_refs": []
+          "text": "«Esta noite tive uma visão. Era um homem montava num cavalo vermelho. Estava em pé no meio das murtas que havia num vale profundo. Atrás deles estavam cavalos vermelhos, ruços e brancos.",
+          "note_refs": [
+            "4",
+            "5",
+            "6"
+          ],
+          "notes": {
+            "4": "1,7-17: primeira visão. Apesar de o povo de Deus estar a passar por momentos de aflição, enquanto as nações opressoras estão à vontade, Deus é zeloso para com o seu povo e irá restaurá-lo, juntamente com as suas cidades. A linguagem figurada da primeira visão vem refletida na última (6,1.8).",
+            "5": "O vale profundo pode ser uma alusão ao abismo mítico primitivo, vencido pelo poder criador de Deus. A murta era aproveitada para o culto (cf. Ne 8,15; Is 41,19). Em Is 55,13 a mesma está ligada à prosperidade messiânica.",
+            "6": "A visão paralela narrada em 6,1-8 apresenta quatro cores de cavalos, número mais de acordo com o simbolismo e a missão que esses deveriam cumprir. Provavelmente, pois, o texto pôde ter mencionado aqui também os cavalos negros. Note-se ainda que cavalos é designação simbólica dos anjos inspetores do mundo."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "zc-1-n4",
+              "offset": 26,
+              "original_marker": "d",
+              "source_id": 4
+            },
+            {
+              "ref": "5",
+              "id": "zc-1-n5",
+              "offset": 129,
+              "original_marker": "e",
+              "source_id": 5
+            },
+            {
+              "ref": "6",
+              "id": "zc-1-n6",
+              "offset": 185,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 9,
@@ -51,27 +194,55 @@
         },
         {
           "verse": 10,
-          "text": "Respondendo, o homem que estava de pé no meio das murtas disse: “São aqueles que o enviou para percorrer a terra”.",
+          "text": "Respondendo, o homem que estava de pé no meio das murtas disse: “São aqueles que o SENHOR enviou para percorrer a terra”.",
           "note_refs": []
         },
         {
           "verse": 11,
-          "text": "Dirigiram-se, então, ao anjo do que estava no meio das murtas e disseram: “Nós percorremos a terra e eis que toda a terra está tranquila e sossegada”.",
-          "note_refs": []
+          "text": "Dirigiram-se, então, ao anjo do SENHOR que estava no meio das murtas e disseram: “Nós percorremos a terra e eis que toda a terra está tranquila e sossegada”.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Esta tranquilidade inquieta o profeta, porque espera o abalo anunciado dos novos tempos, segundo o estilo apocalíptico."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "zc-1-n7",
+              "offset": 156,
+              "original_marker": "a",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "Então respondeu o anjo do e disse: “ do universo, até quando estarás sem te compadecer de Jerusalém e das cidades de Judá? Há setenta anos que estás irado contra elas”!",
-          "note_refs": []
+          "text": "Então respondeu o anjo do SENHOR e disse: “SENHOR do universo, até quando estarás sem te compadecer de Jerusalém e das cidades de Judá? Há setenta anos que estás irado contra elas”!",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Este número deve ser entendido no sentido de um longo período global, como em Jr 25,11; 29,10. A partir de 2Cr 36,21, o número exprime já uma duração exata, a da interrupção do culto: 585-515."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "zc-1-n8",
+              "offset": 181,
+              "original_marker": "b",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 13,
-          "text": "O respondeu com palavras de benevolência, palavras de consolação, ao anjo que falava comigo.",
+          "text": "O SENHOR respondeu com palavras de benevolência, palavras de consolação, ao anjo que falava comigo.",
           "note_refs": []
         },
         {
           "verse": 14,
-          "text": "O anjo que falava comigo disse-me: “Proclama, dizendo: Assim fala o do universo: “Sinto ciúmes por Jerusalém, imensos ciúmes por Sião.",
+          "text": "O anjo que falava comigo disse-me: “Proclama, dizendo: Assim fala o SENHOR do universo: “Sinto ciúmes por Jerusalém, imensos ciúmes por Sião.",
           "note_refs": []
         },
         {
@@ -81,32 +252,38 @@
         },
         {
           "verse": 16,
-          "text": "Por isso, assim diz o: ‘Voltei para Jerusalém com ternura; a minha casa será ali reconstruída oráculo do do universo. E a corda de medir voltará a ser estendida sobre Jerusalém.",
+          "text": "Por isso, assim diz o SENHOR: ‘Voltei para Jerusalém com ternura; a minha casa será ali reconstruída – oráculo do SENHOR do universo. E a corda de medir voltará a ser estendida sobre Jerusalém.",
           "note_refs": []
         },
         {
           "verse": 17,
-          "text": "Proclama ainda dizendo: “Assim, diz o do universo: As minhas cidades terão de novo bens em abundância, e o terá novamente compaixão de Sião, e de novo escolherác Jerusalém”».",
+          "text": "Proclama ainda dizendo: “Assim, diz o SENHOR do universo: As minhas cidades terão de novo bens em abundância, e o SENHOR terá novamente compaixão de Sião, e de novo escolherá Jerusalém”».",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Este termo escolherá exprime a predileção particular, gratuita, por puro amor (cf. Dt 7,7-8; 1R 3,8; 1Cr 15,2)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "zc-1-n9",
+              "offset": 174,
+              "original_marker": "c",
+              "source_id": 9
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Apelo ao arrependimento",
           "note_refs": []
         },
         {
-          "verse": 18,
-          "text": "Ergui os olhos e tive uma visão. Eram quatro chifres.",
-          "note_refs": []
-        },
-        {
-          "verse": 19,
-          "text": "E eu perguntei ao anjo que falava comigo: «O que são aqueles?» Ele respondeu-me: «Aqueles são os chi - fres que atiraram ao ar Judá, Israel e Jerusalém».",
-          "note_refs": []
-        },
-        {
-          "verse": 20,
-          "text": "O fez-me ver quatro ferreiros.",
-          "note_refs": []
-        },
-        {
-          "verse": 21,
-          "text": "E eu perguntei: «O que vêm eles fazer?» Ele respondeu-me dizendo: «Aqueles são os chifres que atiraram ao ar Judá de tal forma que ninguém podia levantar a cabeça. Aqueles vieram para os aterrorizar e para repelir os chifres dos povos que ergueram a cabeça contra o país de Judá para o dispersar».",
+          "before_verse": 7,
+          "text": "Primeira visão: os cavaleiros",
           "note_refs": []
         }
       ]
@@ -116,33 +293,89 @@
       "verses": [
         {
           "verse": 1,
-          "text": "",
-          "note_refs": []
+          "text": "Ergui os olhos e tive uma visão. Eram quatro chifres.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "2,1-4. Segunda visão. As nações que devastaram Israel (v. 15), serão, por sua vez, destruídas por outras nações. Os quatro chifres representam globalmente os inimigos de Israel."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "zc-2-n1",
+              "offset": 52,
+              "original_marker": "d",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "",
-          "note_refs": []
+          "text": "E eu perguntei ao anjo que falava comigo: «O que são aqueles?» Ele respondeu-me: «Aqueles são os chifres que atiraram ao ar Judá, Israel e Jerusalém».",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Trata-se da dispersão do exílio."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "zc-2-n2",
+              "offset": 149,
+              "original_marker": "e",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "",
+          "text": "O SENHOR fez-me ver quatro ferreiros.",
           "note_refs": []
         },
         {
           "verse": 4,
-          "text": "",
+          "text": "E eu perguntei: «O que vêm eles fazer?» Ele respondeu-me dizendo: «Aqueles são os chifres que atiraram ao ar Judá de tal forma que ninguém podia levantar a cabeça. Aqueles vieram para os aterrorizar e para repelir os chifres dos povos que ergueram a cabeça contra o país de Judá para o dispersar».",
           "note_refs": []
         },
         {
           "verse": 5,
           "text": "Ergui os olhos e tive uma visão. Era um homem que tinha na sua mão um fio de medir.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "2,5-17. Terceira visão. Haverá plena restauração e bênção para o povo da aliança, bem como para o templo e para a cidade."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "zc-2-n3",
+              "offset": 31,
+              "original_marker": "f",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Eu perguntei: «Para onde é que tu vais?» Ele respondeu-me: «Vou medir Jerusalém, para ver qual a sua largura e qual o seu comprimento».",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Como em Ez 41,13, esta medição exprime a esperança de um crescimento ou restauração da cidade ao abrigo das suas novas muralhas. Mas o plano de Deus vai muito além da visão humana."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "zc-2-n4",
+              "offset": 133,
+              "original_marker": "g",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 7,
@@ -156,27 +389,129 @@
         },
         {
           "verse": 9,
-          "text": "E Eu serei para ela oráculo do uma muralha de fogo em redor e estarei como glória no meio dela”.",
+          "text": "E Eu serei para ela – oráculo do SENHOR – uma muralha de fogo em redor e estarei como glória no meio dela”.",
           "note_refs": []
         },
         {
           "verse": 10,
-          "text": "Eia, pois! Fugi da terra do norte, oráculo do pois Eu vos espalhei pelos quatro ventos do céu oráculo do.",
+          "text": "Eia, pois! Fugi da terra do norte, – oráculo do SENHOR – pois Eu vos espalhei pelos quatro ventos do céu – oráculo do SENHOR.",
           "note_refs": []
         },
         {
           "verse": 11,
-          "text": "Liberta-te, ó Sião, tu que habitas na cidadeh da Babilónia.",
-          "note_refs": []
+          "text": "Liberta-te, ó Sião, tu que habitas na cidade da Babilónia.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: filha da Babilónia."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "zc-2-n5",
+              "offset": 44,
+              "original_marker": "h",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "Pois assim diz o do universo, Ele que com glória me enviou às nações que vos espoliaram: “Quem toca em vós, toca na menina dos seus olhosi.",
-          "note_refs": []
+          "text": "Pois assim diz o SENHOR do universo, Ele que com glória me enviou às nações que vos espoliaram: “Quem toca em vós, toca na menina dos seus olhos.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Sendo Deus a falar, seria normal que dissesse: dos meus olhos. É plausível que, por respeito para com Deus, os escribas tenham reformulado a última parte da expressão."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "zc-2-n6",
+              "offset": 144,
+              "original_marker": "i",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 13,
-          "text": "Pois eis que Eu levanto a mão contra eles e hão de tornar-se o espólio dos seus escravos. Então ficareis a saber que foi o do universo que me enviou”».",
+          "text": "Pois eis que Eu levanto a mão contra eles e hão de tornar-se o espólio dos seus escravos. Então ficareis a saber que foi o SENHOR do universo que me enviou”».",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Rejubila e alegra-te, filha de Sião, porque eis que Eu venho e vou habitar no meio de ti – oráculo do SENHOR.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Muitas nações se juntarão ao SENHOR naquele dia, e tornar-se-ão para mim um povo; e Eu habitarei no meio de ti e tu ficarás a saber que o SENHOR do universo me enviou a ti.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "O texto grego dos LXX colocou toda a frase na terceira pessoa: tornar-se-ão o seu povo e habitarão no meio de ti. Para o texto heb., a adesão dos pagãos far-se-á por uma conversão, enquanto Jerusalém continuará na sua posição privilegiada (v.16). Na perspetiva do grego, os pagãos vão instalar-se no meio do povo e dele farão parte integrante, sem nenhuma discriminação. É a perspetiva que encontramos em At 8 e 10."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "zc-2-n7",
+              "offset": 110,
+              "original_marker": "j",
+              "source_id": 16
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "O SENHOR receberá Judá como herança, como sua propriedade na terra santa e mais uma vez escolherá Jerusalém.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "A expressão terra santa, que se poderia traduzir como chão sagrado, aparece aqui, pela primeira vez, na literatura bíblica (cf. 2Mc 1,7)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "zc-2-n8",
+              "offset": 72,
+              "original_marker": "a",
+              "source_id": 17
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "Cale-se toda a criatura diante do SENHOR, pois Ele desperta da sua morada santa.",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "O despertar de Deus exprime a iminência da intervenção divina para realizar a salvação (cf. Sf 1,7; Sl 76,9-10; Is 41,1)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "zc-2-n9",
+              "offset": 79,
+              "original_marker": "b",
+              "source_id": 18
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Segunda visão: os quatro chifres e os quatro ferreiros",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "Terceira visão: o cordel de medir",
           "note_refs": []
         }
       ]
@@ -186,18 +521,78 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Depois fez-me ver Josué, o sumo-sacerdote, de pé diante do mensageiro do, e Satan, de pé à sua direita para o acusar.",
-          "note_refs": []
+          "text": "Depois fez-me ver Josué, o sumo-sacerdote, de pé diante do mensageiro do SENHOR, e Satan, de pé à sua direita para o acusar.",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "3,1-10. Quarta visão. Israel será purificado e restaurado como nação sacerdotal.",
+            "2": "Satan quer dizer “acusador”. Aqui o termo não tem ainda a conotação negativa que lhe será atribuída mais tarde, noutros textos, isto é, a conotação de espírito do mal (cf. 2Sm 29,4; 1Rs 22,22; Job 1,6; 1Cr 21,1; Sb 2,24)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "zc-3-n1",
+              "offset": 41,
+              "original_marker": "c",
+              "source_id": 19
+            },
+            {
+              "ref": "2",
+              "id": "zc-3-n2",
+              "offset": 88,
+              "original_marker": "d",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "O anjo do disse a Satan: «O te reprova, Satan, o te reprova, ele que escolheu Jerusalém. Acaso, este não é um tição resgatado do fogo?»",
-          "note_refs": []
+          "text": "O anjo do SENHOR disse a Satan: «O SENHOR te reprova, Satan, o SENHOR te reprova, ele que escolheu Jerusalém. Acaso, este não é um tição resgatado do fogo?»",
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Lit.: «o Senhor». Contudo, o contexto pede que se complete com o sir.: o anjo do Senhor.",
+            "4": "Isto é, Josué, que tinha regressado do exílio."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "zc-3-n3",
+              "offset": 16,
+              "original_marker": "e",
+              "source_id": 21
+            },
+            {
+              "ref": "4",
+              "id": "zc-3-n4",
+              "offset": 121,
+              "original_marker": "f",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Josué estava vestido com roupas sujas, enquanto estava diante do anjo.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Roupas sujas é sinal de luto, seja por um morto, seja por ocasião de uma catástrofe nacional: o luto implica, por sua vez, o reconhecimento de um pecado (cf. v. 4b)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "zc-3-n5",
+              "offset": 37,
+              "original_marker": "g",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 4,
@@ -206,32 +601,127 @@
         },
         {
           "verse": 5,
-          "text": "E disse ainda: «Coloque-se sobre a sua cabeça um turbante puro». Colocaram o turbante puro sobre a sua cabeça e vestiram-no com roupas adequadas. E o anjo do estava ali de pé.",
-          "note_refs": []
+          "text": "E disse ainda: «Coloque-se sobre a sua cabeça um turbante puro». Colocaram o turbante puro sobre a sua cabeça e vestiram-no com roupas adequadas. E o anjo do SENHOR estava ali de pé.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: E eu digo, como se fosse o profeta a falar. Mas como este nunca intervém para agir, talvez seja melhor ler: ele disse, atribuindo esta intervenção ao anjo do v. 4."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "zc-3-n6",
+              "offset": 13,
+              "original_marker": "h",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "Então o anjo do convocou Josué dizendo: «",
+          "text": "Então o anjo do SENHOR convocou Josué dizendo: «",
           "note_refs": []
         },
         {
           "verse": 7,
-          "text": "Assim diz o do universo: “Se andares pelos meus caminhos e se observares os meus preceitos, também tu governarás a minha casa e guardarás também os meus átriosi e dar-te-ei acesso entre estes que estão aqui de péj.",
-          "note_refs": []
+          "text": "Assim diz o SENHOR do universo: “Se andares pelos meus caminhos e se observares os meus preceitos, também tu governarás a minha casa e guardarás também os meus átrios e dar-te-ei acesso entre estes que estão aqui de pé.",
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "A fidelidade às exigências da aliança assegura doravante ao sacerdócio o monopólio absoluto sobre o templo e as atividades cultuais.",
+            "8": "É o privilégio da comunicação direta com Deus, à maneira dos seres espirituais que se conservam na sua presença. A cena é situada à entrada da corte celeste (cf. 3,1 e 1,8). Também o sacerdote, portanto, é promovido à função de ‘mensageiro’, como os seres celestes."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "zc-3-n7",
+              "offset": 166,
+              "original_marker": "i",
+              "source_id": 25
+            },
+            {
+              "ref": "8",
+              "id": "zc-3-n8",
+              "offset": 218,
+              "original_marker": "j",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Agora escuta, Josué, sumo-sacerdote tu e os teus companheiros que estão sentados diante de ti, A O pois eles são homens de um bom augúriok. Eis que vou fazer vir o meu servo Gérmenl.",
-          "note_refs": []
+          "text": "Agora escuta, Josué, sumo-sacerdote tu e os teus companheiros que estão sentados diante de ti, pois eles são homens de um bom augúrio. Eis que vou fazer vir o meu servo Gérmen.",
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "O sacerdócio purificado e restabelecido constitui um sinal da proximidade da salvação.",
+            "10": "Designação do messias, tomada de Jr 23,33 e 33,15 e vinculada a Is 11,1-2. O emprego do termo servo indica com maior precisão a qualidade messiânica do personagem esperado (cf. Is 49,5-6; 52,13; Ag 2,23)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "zc-3-n9",
+              "offset": 133,
+              "original_marker": "k",
+              "source_id": 27
+            },
+            {
+              "ref": "10",
+              "id": "zc-3-n10",
+              "offset": 175,
+              "original_marker": "l",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "Com efeito, aqui está a pedra que coloquei diante de Josué m; sobre uma única pedra há sete olhos. Eis que eu mesmo gravarei a sua inscrição oráculo do do universo. E num só dia removerei o pecado desta terra.",
-          "note_refs": []
+          "text": "Com efeito, aqui está a pedra que coloquei diante de Josué ; sobre uma única pedra há sete olhos. Eis que eu mesmo gravarei a sua inscrição – oráculo do SENHOR do universo. E num só dia removerei o pecado desta terra.",
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Esta pedra parece designar uma pedra preciosa fixada na veste sacerdotal à maneira do diadema de Ex 28,36 e 39,30, trazendo as sete letras hebraicas que forma a inscrição: “Consagrado ao Senhor” (cf. 14,20). Neste caso, os sete olhos exprimem a presença protetora que Deus concede ao sacerdote e ao povo. Mas a única pedra também podia designar o templo. Os sete olhos simbolizariam a presença vigilante de Javé (4,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "zc-3-n11",
+              "offset": 59,
+              "original_marker": "m",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "Nesse dia oráculo do do universo cada um de vós convidará o seu amigo para debaixo da videira e para debaixo da figueira»n.",
+          "text": "Nesse dia – oráculo do SENHOR do universo – cada um de vós convidará o seu amigo para debaixo da videira e para debaixo da figueira».",
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "A imagem exprime a prosperidade e a segurança vivida de maneira fraterna (cf. 1Rs 5,5; Mq 4,4; 1Mc 14,12). A era messiânica vai restaurar todas essas condições da vida paradisíaca."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "zc-3-n12",
+              "offset": 132,
+              "original_marker": "n",
+              "source_id": 30
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Quarta visão: os sumo-sacerdotes",
           "note_refs": []
         }
       ]
@@ -241,17 +731,45 @@
       "verses": [
         {
           "verse": 1,
-          "text": "O anjo que me falava voltou para me despertar como a um homem que des - perta do seu sono.",
-          "note_refs": []
+          "text": "O anjo que me falava voltou para me despertar como a um homem que desperta do seu sono.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "4,1-14. Quinta visão. Os judeus recebem o incentivo para reedificar o templo, por isso lhes são lembrados os recursos divinos. A luz do candelabro no templo representa o reflexo da glória de Deus na consagração e o serviço do povo de Deus. Isso é possível apenas pelo poder do espírito de Deus (cf. v. 6; o azeite, v. 12). Este poder passará para Zorobabel e o sustentará na reconstrução do templo (vv. 6-10). E no exercício das respetivas funções Zorobabel e Josué vão transmitir ao povo essa capacitação pelo espírito (vv.11-14)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "zc-4-n1",
+              "offset": 45,
+              "original_marker": "o",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "E disse-me: «Que estás a ver»? E eu respondi: «O que eu vejo é um candelabro todo de ouro e, no cimo dele, um reservatório com sete lâmpadas e sete bicos ligados às lâmpadas que estão no cimo dele.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Não se trata do candelabro de sete braços cuja figura se encontra esculpida no arco de Tito, em Roma. Este aqui tem uma ampla base que sustenta uma bacia circular para o óleo. Nos bordos dessa bacia sete bicos retêm as tochas para as chamas."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "zc-4-n2",
+              "offset": 89,
+              "original_marker": "p",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Junto dele estão duas olivei - ras, uma à direita e outra à esquerda do reservatório».",
+          "text": "Junto dele estão duas oliveiras, uma à direita e outra à esquerda do reservatório».",
           "note_refs": []
         },
         {
@@ -266,28 +784,84 @@
         },
         {
           "verse": 6,
-          "text": "E ele, respondendo, disse-me:",
-          "note_refs": []
+          "text": "E ele, respondendo, disse-me: Esta é a palavra do SENHOR para Zorobabel: «Não é com o poder nem com a força, mas com o meu espírito», diz o SENHOR do universo.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A narrativa pede que os vv. 6b-10a estejam colocados depois do v. 14."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "zc-4-n3",
+              "offset": 28,
+              "original_marker": "q",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Quem és tu, ó grande montanha? Diante de Zorobabel és apenas uma planície. Ele retirará a pedra, a pedra principal, exclamando a respeito dela: «Como é bela! Como é bela!»",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Parece tratar-se da montanha de escombros acumulados sobre a área do templo, de onde se extrairá a pedra de remate do templo (cf. vv. 9-10)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "zc-4-n6",
+              "offset": 30,
+              "original_marker": "c",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Foi-me dirigida a palavra do dizendo:",
+          "text": "Foi-me dirigida a palavra do SENHOR dizendo:",
           "note_refs": []
         },
         {
           "verse": 9,
-          "text": "«As mãos de Zorobabel lança - ram os fundamentos desta casa e as suas mãos a concluirão. E ficareis a saber que foi o do universo que me enviou a vós.",
-          "note_refs": []
+          "text": "«As mãos de Zorobabel lançaram os fundamentos desta casa e as suas mãos a concluirão. E ficareis a saber que foi o SENHOR do universo que me enviou a vós.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: «e reconhecerás». Uma observação dirigida aos ouvintes do profeta, como em 2,13.15; 6,15 e não a Zorobabel. Por isso muitos manuscritos hebraicos, o sirríaco, o Targum e a Vulgata leem o verbo no plural."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "zc-4-n7",
+              "offset": 104,
+              "original_marker": "d",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "«As sete lâmpadas repre - sentam os olhos do que vigiam toda a terra».",
-          "note_refs": []
+          "text": "«As sete lâmpadas representam os olhos do SENHOR que vigiam toda a terra». Com efeito, quem menosprezou o dia das pequenas coisas? Esses hão de alegrar-se ao verem a pedra escolhida nas mãos de Zorobabel».",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: «pedra de estanho», minério de estanho chamado cassiterite, também usado como peso no fio de prumo."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "zc-4-n8",
+              "offset": 181,
+              "original_marker": "e",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 11,
@@ -296,8 +870,22 @@
         },
         {
           "verse": 12,
-          "text": "Perguntei-lhe pela segunda vez: «O que são aqueles dois ramos de oliveira que estão ao lado dos O O dois canais de ouro, a escorrer ouro?»",
-          "note_refs": []
+          "text": "Perguntei-lhe pela segunda vez: «O que são aqueles dois ramos de oliveira que estão ao lado dos dois canais de ouro, a escorrer ouro?»",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: «derramam-lhe óleo». Esta nova pergunta que interrompe o diálogo e introduz novos elementos na descrição, parece uma explicação secundária."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "zc-4-n4",
+              "offset": 134,
+              "original_marker": "a",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 13,
@@ -306,7 +894,28 @@
         },
         {
           "verse": 14,
-          "text": "E ele disse-me: «Esses são os dois que receberam a unção e que estão de pé diante do de toda a terra».",
+          "text": "E ele disse-me: «Esses são os dois que receberam a unção e que estão de pé diante do SENHOR de toda a terra».",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: «os dois filhos de óleo». Trata-se de Josué, que representa o poder espiritual, e Zorobabel,que representa o poder temporal. O primeiro tem a unção sacerdotal (Lv 4,3-5.16) e o segundo receberá a unção real."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "zc-4-n5",
+              "offset": 56,
+              "original_marker": "b",
+              "source_id": 35
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Quinta visão: o candelabro e as duas oliveiras",
           "note_refs": []
         }
       ]
@@ -317,32 +926,111 @@
         {
           "verse": 1,
           "text": "Ergui de novo os olhos e tive uma visão. Era um rolo que voava.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "5,1-4. Sexta visão. Os que violam a lei serão condenados pela própria lei que trangrediram; os pecadores serão expulsos da terra."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "zc-5-n1",
+              "offset": 62,
+              "original_marker": "f",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "E o anjo perguntou-me: «Que vês?» Eu respondi: «Vejo um rolo a voar; tem vinte côva - dos de comprimento e dez côvados de largura».",
-          "note_refs": []
+          "text": "E o anjo perguntou-me: «Que vês?» Eu respondi: «Vejo um rolo a voar; tem vinte côvados de comprimento e dez côvados de largura».",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Um côvado é uma medida de comprimento que corresponde a cerca de 0,50m. O livro é um enorme rolo. As suas dimensões são as do pórtico do templo de Salomão (1Rs 6,3)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "zc-5-n2",
+              "offset": 127,
+              "original_marker": "g",
+              "source_id": 40
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Ele disse-me: «Esta é a maldição que se espalha sobre a superfície de toda a terra; pois, de acordo com ela, todo aquele que aqui rouba estava impune; e todo aquele que jura falso aqui, de acordo com ela, estava impune.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A maldição é concebida como eficaz. Ela atingirá todos os pecadores. E no tempo da salvação a terra santa estará livre deles."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "zc-5-n3",
+              "offset": 218,
+              "original_marker": "h",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "Eu mesmo a espalhei oráculo do do universo –e ela entrará na casa do ladrão e na casa daquele que jura falso pelo meu nome; e permanecerá no meio da sua casa e a destruirá com as suas madeiras e as suas pedras». O",
+          "text": "Eu mesmo a espalhei – oráculo do SENHOR do universo –e ela entrará na casa do ladrão e na casa daquele que jura falso pelo meu nome; e permanecerá no meio da sua casa e a destruirá com as suas madeiras e as suas pedras».",
           "note_refs": []
         },
         {
           "verse": 5,
           "text": "O anjo que falava comigo avançou e disse-me: «Ergue os teus olhos e vê aquilo que se aproxima».",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "5,5-11. Sétima visão. Não só devem ser retirados do país os pecadores públicos e persistentes (vv.1-4), mas também todo o sistema pecaminoso – segundo parece, para um lugar mais adequado, a Babilónia."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "zc-5-n4",
+              "offset": 43,
+              "original_marker": "i",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "E eu perguntei: «O que é isto?» Ele respondeu: «É um alqueire que se aproxima». E ele disse: «Esta é a maldade deles em toda a terra».",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Em hebraico: um efá, unidade de medida para matérias secas, contendo cerca de 40 litros.",
+            "6": "Em hebraico, «o olho deles», fruto de uma confusão de letras que a tradução grega e a siríaca retificaram. A visão diz respeito à purificação da terra eliminando a maldade."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "zc-5-n5",
+              "offset": 61,
+              "original_marker": "j",
+              "source_id": 43
+            },
+            {
+              "ref": "6",
+              "id": "zc-5-n6",
+              "offset": 110,
+              "original_marker": "k",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 7,
@@ -367,6 +1055,41 @@
         {
           "verse": 11,
           "text": "Ele respondeu-me: «É para construir um templo para a iniquidade, na terra de Chinear. Assim preparado, ela será colocada no seu pedestal».",
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Chinear é um nome genérico dado à Mesopotâmia, civilização de grandes impérios e símbolo da vontade de poder (Gn 10,10; 11,2; Is 11,11; Dn 1,2).",
+            "8": "A terra santa, no tempo da salvação, ficará libertada da iniquidade; esta permanecerá longe, no centro do seu império."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "zc-5-n7",
+              "offset": 84,
+              "original_marker": "l",
+              "source_id": 45
+            },
+            {
+              "ref": "8",
+              "id": "zc-5-n8",
+              "offset": 137,
+              "original_marker": "m",
+              "source_id": 46
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Sexta visão: o rolo que voa",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "Sétima visão: o alqueire e as duas mulheres",
           "note_refs": []
         }
       ]
@@ -377,7 +1100,30 @@
         {
           "verse": 1,
           "text": "Ergui de novo os olhos e tive uma visão. Eram quatro carros que saíam de entre as duas montanhas; e essas montanhas eram montanhas de bronze.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "6,1-8. Oitava visão. Corresponde à primeira (1,7-17), apesar de algumas diferenças nos pormenores, como a ordem dos cavalos e as respetivas cores. Tal como na primeira visão, aqui o Senhor é apresentado como aquele que controla os acontecimentos da história e que domina os factos que oprimem Israel.",
+            "2": "Em certas representações babilónicas, as duas montanhas representam a entrada na morada dos deuses."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "zc-6-n1",
+              "offset": 39,
+              "original_marker": "n",
+              "source_id": 47
+            },
+            {
+              "ref": "2",
+              "id": "zc-6-n2",
+              "offset": 140,
+              "original_marker": "o",
+              "source_id": 48
+            }
+          ]
         },
         {
           "verse": 2,
@@ -396,17 +1142,31 @@
         },
         {
           "verse": 5,
-          "text": "E o anjo respondeu-me e disse: «São os quatro ventos do céu que saem, depois de se terem apresentado diante do de toda a terra.",
+          "text": "E o anjo respondeu-me e disse: «São os quatro ventos do céu que saem, depois de se terem apresentado diante do SENHOR de toda a terra.",
           "note_refs": []
         },
         {
           "verse": 6,
           "text": "Os daquele que tem cavalos pretos saem em direção à terra do norte e os brancos vão atrás deles. Os malhados saem em direção à terra do sul.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.:...terra de Teman."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "zc-6-n3",
+              "offset": 66,
+              "original_marker": "p",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "Vigorosos, eles saíram e procuravam cal - correar e percorrer a terra. E ele disse: «Ide percorrer a terra». E eles percorreram a terra.",
+          "text": "Vigorosos, eles saíram e procuravam calcorrear e percorrer a terra. E ele disse: «Ide percorrer a terra». E eles percorreram a terra.",
           "note_refs": []
         },
         {
@@ -416,7 +1176,7 @@
         },
         {
           "verse": 9,
-          "text": "A palavra do foi-me dirigida, dizendo:",
+          "text": "A palavra do SENHOR foi-me dirigida, dizendo:",
           "note_refs": []
         },
         {
@@ -426,27 +1186,90 @@
         },
         {
           "verse": 11,
-          "text": "Recolherás prata e ouro e farás uma coroa, colocá-la-ás na cabeça de Josué, filho de Josadac, sumo - -sacerdote.",
-          "note_refs": []
+          "text": "Recolherás prata e ouro e farás uma coroa, colocá-la-ás na cabeça de Josué, filho de Josadac, sumo- -sacerdote.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: «coroas». Porém o que se segue está no singular, como no v. 14. Segundo o texto atual é o sumo- -sacerdote que recebe as insígnias do poder, o que revela que o sacerdócio tomou nas suas mãos todo o governo da comunidade. Conforme o que é dito nos vv. 12-13, o texto devia ter aqui, originariamente, o nome de Zorobabel, o qual terá sido, mais tarde, substituído pelo nome do sumo-sacerdote Josué, por causa da promoção do sacerdócio em Jerusalém."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "zc-6-n4",
+              "offset": 41,
+              "original_marker": "a",
+              "source_id": 50
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "E dir-lhe-ás: “Assim fala o do universo: ‘Eis um homem cujo nome é Gérmen; algo germinará onde ele estiver e ele reconstruirá o templo do.",
+          "text": "E dir-lhe-ás: “Assim fala o SENHOR do universo: ‘Eis um homem cujo nome é Gérmen; algo germinará onde ele estiver e ele reconstruirá o templo do SENHOR.",
           "note_refs": []
         },
         {
           "verse": 13,
-          "text": "É ele que construirá o templo do e revestir-se-á de esplendor; sen - tar-se-á e reinará no seu trono. Haverá um sacerdote no seu trono. E haverá um conselho de paz entre ambos.",
-          "note_refs": []
+          "text": "É ele que construirá o templo do SENHOR e revestir-se-á de esplendor; sentar-se-á e reinará no seu trono. Haverá um sacerdote no seu trono. E haverá um conselho de paz entre ambos.",
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Esplendor é visto na Bíblia como um atributo divino (Hab 3,3; Sl 8,2; 148,13; Jb 37,22); e é também uma característica do rei (Sl 21,6; 45,4; Jr 22,18; 1Cr 29,25).",
+            "6": "Primitivamente, o texto hebraico parecia referir-se a duas personagens de governo, uma delas era o sacerdote (cf. 4,14). O mesmo se deduz da tradução dos LXX."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "zc-6-n5",
+              "offset": 68,
+              "original_marker": "b",
+              "source_id": 51
+            },
+            {
+              "ref": "6",
+              "id": "zc-6-n6",
+              "offset": 179,
+              "original_marker": "c",
+              "source_id": 52
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "A coroa será para Heldai, Tobias, Jedaías, Hen, filho de Sofonias como um memorial no templo do.",
-          "note_refs": []
+          "text": "A coroa será para Heldai, Tobias, Jedaías, Hen, filho de Sofonias como um memorial no templo do SENHOR.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: «Helem», correspondendo provavelmente a Heldai, que é a primeira das quatro personalidades nomeadas no v. 10."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "zc-6-n7",
+              "offset": 24,
+              "original_marker": "d",
+              "source_id": 53
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "E os que estão longe virão para reconstruir o templo do e ficareis a saber que o do universo me enviou a vós. Isto acontecerá se escutardes atentamente a voz do, vosso Deus”.",
+          "text": "E os que estão longe virão para reconstruir o templo do SENHOR e ficareis a saber que o SENHOR do universo me enviou a vós. Isto acontecerá se escutardes atentamente a voz do SENHOR, vosso Deus”.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Oitava visão: os carros",
+          "note_refs": []
+        },
+        {
+          "before_verse": 9,
+          "text": "Coroação de Josué",
           "note_refs": []
         }
       ]
@@ -456,47 +1279,98 @@
       "verses": [
         {
           "verse": 1,
-          "text": "No quarto ano do rei Dario, a palavra do foi dirigida a Zacarias, no quarto dia do nono mês, o mês de Quisleu.",
-          "note_refs": []
+          "text": "No quarto ano do rei Dario, a palavra do SENHOR foi dirigida a Zacarias, no quarto dia do nono mês, o mês de Quisleu.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Isto é, Novembro de 518."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "zc-7-n1",
+              "offset": 116,
+              "original_marker": "e",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "Betel enviou Sarécer e Reguem-Mé - lec e os seus homens para interceder diante do,",
+          "text": "Betel enviou Sarécer e Reguem-Mélec e os seus homens para interceder diante do SENHOR,",
           "note_refs": []
         },
         {
           "verse": 3,
-          "text": "dizendo aos sacerdo - tes que estão no templo do do universo e aos profetas: «Devo fazer luto, jejuando no quinto mês, como tenho feito há tantos anos»?",
-          "note_refs": []
+          "text": "dizendo aos sacerdotes que estão no templo do SENHOR do universo e aos profetas: «Devo fazer luto, jejuando no quinto mês, como tenho feito há tantos anos»?",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Este jejum era em Julho, lembrando a tomada de Jerusalém, em 587 (2Rs 25,8). Depois que se começou a reconstruir, o jejum parecia fora de propósito. Por isso a questão se coloca às autoridades de Jerusalém."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "zc-7-n2",
+              "offset": 121,
+              "original_marker": "f",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "A palavra do do universo foi-me dirigida, dizendo:",
+          "text": "A palavra do SENHOR do universo foi-me dirigida, dizendo:",
           "note_refs": []
         },
         {
           "verse": 5,
           "text": "«Diz a todo o povo do país e aos sacerdotes: “Quando jejuastes e chorastes no quinto e no sétimo mês e isso durante setenta anos, foi acaso para mim que jejuastes?",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Dois meses depois da queda de Jerusalém ocorreu o assassinato de Godolias, governador de Judá (2Rs 25,25; Jr 41,1-3).",
+            "4": "Exatamente, são 69 anos. Mas o autor arredonda para 70 para aproveitar o simbolismo do número 70, isto é, um longo período (cf. Jr 25,11; 29,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "zc-7-n3",
+              "offset": 100,
+              "original_marker": "g",
+              "source_id": 56
+            },
+            {
+              "ref": "4",
+              "id": "zc-7-n4",
+              "offset": 128,
+              "original_marker": "h",
+              "source_id": 57
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "E quando comíeis e bebíeis, por - ventura não éreis vós mesmos os que comíeis e bebíeis?",
+          "text": "E quando comíeis e bebíeis, porventura não éreis vós mesmos os que comíeis e bebíeis?",
           "note_refs": []
         },
         {
           "verse": 7,
-          "text": "Não são essas as palavras que o proclamava por meio dos antigos profetas, quando Jerusalém era habitada e próspera, cercada das suas cidades, e o Négueb e a Chefela eram ainda habitados?”»",
+          "text": "Não são essas as palavras que o SENHOR proclamava por meio dos antigos profetas, quando Jerusalém era habitada e próspera, cercada das suas cidades, e o Négueb e a Chefela eram ainda habitados?”»",
           "note_refs": []
         },
         {
           "verse": 8,
-          "text": "A palavra do foi dirigida a Zacarias, dizendo:",
+          "text": "A palavra do SENHOR foi dirigida a Zacarias, dizendo:",
           "note_refs": []
         },
         {
           "verse": 9,
-          "text": "«Assim fala o do universo: “Exercei a justiça com verdade e praticai misericórdia e bondade cada um para com o seu irmão.",
+          "text": "«Assim fala o SENHOR do universo: “Exercei a justiça com verdade e praticai misericórdia e bondade cada um para com o seu irmão.",
           "note_refs": []
         },
         {
@@ -511,17 +1385,38 @@
         },
         {
           "verse": 12,
-          "text": "Tornaram o seu coração duro como um diamante para não ouvir a instrução e as palavras que o do universo enviara pelo seu espírito, por meio dos antigos profetas. Por isso, sobrevirá uma grande cólera da parte do do universo.",
-          "note_refs": []
+          "text": "Tornaram o seu coração duro como um diamante para não ouvir a instrução e as palavras que o SENHOR do universo enviara pelo seu espírito, por meio dos antigos profetas. Por isso, sobrevirá uma grande cólera da parte do SENHOR do universo.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A instrução (Torá) e as palavras exprimem o conteúdo global da revelação divina. Temos aqui o esboço da fórmula tornada clássica: a Lei e os Profetas (Mt 7,12; 22,40)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "zc-7-n5",
+              "offset": 85,
+              "original_marker": "i",
+              "source_id": 58
+            }
+          ]
         },
         {
           "verse": 13,
-          "text": "E acontecerá que tal como ele chamou e eles não escutaram assim também eles chamarão e Eu não escutarei, diz o do universo.",
+          "text": "E acontecerá que tal como ele chamou e eles não escutaram assim também eles chamarão e Eu não escutarei, diz o SENHOR do universo.",
           "note_refs": []
         },
         {
           "verse": 14,
-          "text": "Dispersei-os em turbilhão por entre todas as nações que eles não conhe - ciam; e depois deles a terra ficou desolada, sem que ninguém por ali passasse ou ali voltasse. Transformaram uma terra de delícias em desolação”».",
+          "text": "Dispersei-os em turbilhão por entre todas as nações que eles não conheciam; e depois deles a terra ficou desolada, sem que ninguém por ali passasse ou ali voltasse. Transformaram uma terra de delícias em desolação”».",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "O jejum que Deus prefere",
           "note_refs": []
         }
       ]
@@ -531,22 +1426,36 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Aconteceu a palavra do do universo, dizendo:",
-          "note_refs": []
+          "text": "Aconteceu a palavra do SENHOR do universo, dizendo:",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Este capítulo junta pequenos oráculos independentes, exceto 8,16-17, que é uma instrução. Todos eles se referem à salvação messiânica, descrita como uma era de felicidade simples e tranquila, sob a bênção de Deus, presente em Sião. As perspetivas tornam-se universalistas nos vv. 20-21."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "zc-8-n1",
+              "offset": 50,
+              "original_marker": "j",
+              "source_id": 59
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "Assim diz o do universo: «Sinto por Sião um imenso ciúme; e o meu ciúme é de um imenso ardor por ela».",
+          "text": "Assim diz o SENHOR do universo: «Sinto por Sião um imenso ciúme; e o meu ciúme é de um imenso ardor por ela».",
           "note_refs": []
         },
         {
           "verse": 3,
-          "text": "Assim diz o: «Voltei para Sião e habitei no meio de Jerusalém. Jerusalém será chamada Cidade da Verdade; e o monte do do universo será o Monte da Santidade».",
+          "text": "Assim diz o SENHOR: «Voltei para Sião e habitei no meio de Jerusalém. Jerusalém será chamada Cidade da Verdade; e o monte do SENHOR do universo será o Monte da Santidade».",
           "note_refs": []
         },
         {
           "verse": 4,
-          "text": "Assim diz o do universo: «Velhos e velhas voltarão a sentar-se nas praças de Jerusalém, cada um com o seu bastão na mão, por causa dos muitos dias.",
+          "text": "Assim diz o SENHOR do universo: «Velhos e velhas voltarão a sentar-se nas praças de Jerusalém, cada um com o seu bastão na mão, por causa dos muitos dias.",
           "note_refs": []
         },
         {
@@ -556,12 +1465,12 @@
         },
         {
           "verse": 6,
-          "text": "Assim fala o do universo: «Se tal parece impossível, naqueles dias, aos olhos do resto deste povo, será também impossível aos meus olhos?» Oráculo do do universo.",
+          "text": "Assim fala o SENHOR do universo: «Se tal parece impossível, naqueles dias, aos olhos do resto deste povo, será também impossível aos meus olhos?» Oráculo do SENHOR do universo.",
           "note_refs": []
         },
         {
           "verse": 7,
-          "text": "Assim fala o do universo: «Eis que vou salvar o meu povo da terra do levante e do pôr-do-Sol.",
+          "text": "Assim fala o SENHOR do universo: «Eis que vou salvar o meu povo da terra do levante e do pôr-do-Sol.",
           "note_refs": []
         },
         {
@@ -571,7 +1480,7 @@
         },
         {
           "verse": 9,
-          "text": "Assim fala o do universo: «Que as vossas mãos sejam fortes, vós que tendes escutado nestes dias estas palavras da boca dos profetas, no dia em que eram lançados os fundamentos da casa do do universo para que seja reconstruído o templo.",
+          "text": "Assim fala o SENHOR do universo: «Que as vossas mãos sejam fortes, vós que tendes escutado nestes dias estas palavras da boca dos profetas, no dia em que eram lançados os fundamentos da casa do SENHOR do universo para que seja reconstruído o templo.",
           "note_refs": []
         },
         {
@@ -581,7 +1490,7 @@
         },
         {
           "verse": 11,
-          "text": "Mas agora, para o resto deste povo, Eu já não sou como nos dias antigos, oráculo do do universo.",
+          "text": "Mas agora, para o resto deste povo, Eu já não sou como nos dias antigos, – oráculo do SENHOR do universo.",
           "note_refs": []
         },
         {
@@ -592,11 +1501,25 @@
         {
           "verse": 13,
           "text": "Assim como fostes uma maldição para os povos, casa de Judá e casa de Israel, assim também Eu vos salvarei e sereis uma bênção. Não tenhais medo, que as vossas mãos sejam fortes!»",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Pelo castigo do exílio que lhe foi infligido, Israel serviu até certo ponto para mostrar que vivia na maldição. O seu restabelecimento exprimirá, da mesma forma, aos olhos dos pagãos, a bênção de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "zc-8-n2",
+              "offset": 125,
+              "original_marker": "a",
+              "source_id": 60
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "Porque assim fala o do universo: «Assim como resolvi maltratar-vos, quando os vossos pais me irritaram disse o do universo e não me arrependi,",
+          "text": "Porque assim fala o SENHOR do universo: «Assim como resolvi maltratar-vos, quando os vossos pais me irritaram – disse o SENHOR do universo – e não me arrependi,",
           "note_refs": []
         },
         {
@@ -607,41 +1530,104 @@
         {
           "verse": 16,
           "text": "Estas são as coisas que deveis fazer: falai a verdade uns com os outros; exercei uma justiça de verdade e de paz junto das vossas portas.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Junto da porta da cidade reuniam-se os notáveis para aí poderem debater problemas jurídicos e promulgar sentenças (cf. 4,1; Am 5,10). Por isso, alguns traduzem por: vossos tribunais."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "zc-8-n3",
+              "offset": 136,
+              "original_marker": "b",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 17,
-          "text": "Não maquineis maldade uns contra os outros nos vossos corações; não ameis juramentos falsos, porque tudo isto são coisas que Eu odeio», - oráculo do.",
+          "text": "Não maquineis maldade uns contra os outros nos vossos corações; não ameis juramentos falsos, porque tudo isto são coisas que Eu odeio», - oráculo do SENHOR.",
           "note_refs": []
         },
         {
           "verse": 18,
-          "text": "A palavra do do universo foi-me dirigida nestes termos:",
+          "text": "A palavra do SENHOR do universo foi-me dirigida nestes termos:",
           "note_refs": []
         },
         {
           "verse": 19,
-          "text": "«Assim diz o do universo: o jejum do quarto mês, o jejum do quinto, o jejum do sétimo e o jejum do décimo mês serão de júbilo, alegria e festas felizes, para a casa de Judá. Portanto, amai a fidelidade e a paz».",
-          "note_refs": []
+          "text": "«Assim diz o SENHOR do universo: o jejum do quarto mês, o jejum do quinto, o jejum do sétimo e o jejum do décimo mês serão de júbilo, alegria e festas felizes, para a casa de Judá. Portanto, amai a fidelidade e a paz».",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Aos jejuns mencionados em 7,3, o profeta acrescenta o do quarto mês, que comemorava a brecha aberta nos muros de Jerusalém e o do sétimo mês, que recordava o início do cerco (2Rs 25,1-4)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "zc-8-n4",
+              "offset": 116,
+              "original_marker": "c",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 20,
-          "text": "Assim fala o do universo: «Acontecerá ainda que virão povos e habitantes de numerosas cidades.",
+          "text": "Assim fala o SENHOR do universo: «Acontecerá ainda que virão povos e habitantes de numerosas cidades.",
           "note_refs": []
         },
         {
           "verse": 21,
-          "text": "E os habitantes de uma cidade irão para a outra, dizendo: “Vamos depressa interceder diante do e procurar o do universo. Eu irei também”.",
+          "text": "E os habitantes de uma cidade irão para a outra, dizendo: “Vamos depressa interceder diante do SENHOR e procurar o SENHOR do universo. Eu irei também”.",
           "note_refs": []
         },
         {
           "verse": 22,
-          "text": "E virão muitos povos e nações poderosas procurar o do universo em Jerusalém e interceder diante do».",
+          "text": "E virão muitos povos e nações poderosas procurar o SENHOR do universo em Jerusalém e interceder diante do SENHOR».",
           "note_refs": []
         },
         {
           "verse": 23,
-          "text": "Assim disse o do universo: «Naqueles dias, dez homens de todas as línguas dos povos agarrarão um judeu pela manga, dizendo: “Nós iremos convosco, pois ouvimos dizer que Deus está convosco”».",
+          "text": "Assim disse o SENHOR do universo: «Naqueles dias, dez homens de todas as línguas dos povos agarrarão um judeu pela manga, dizendo: “Nós iremos convosco, pois ouvimos dizer que Deus está convosco”».",
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Na Bíblia, o número dez representa, de modo simbólico, ora um grupo numeroso (Lv 26,26), ora uma espécie de corpo constituído (Jz 6,27; Rt 4,2; 2Rs 25,25). Os novos adeptos vêm numerosos e em grupos compactos.",
+            "6": "O uso do termo judeu (yehudi) é muito tardio na Bíblia. Só se encontra com mais frequência a partir dos livros de Neemias e Ester (Ne 1,2; Est 2,5; 3,6.10.13). A nota acentuadamente judaica deste último oráculo pode indicar uma origem posterior ao próprio profeta Zacarias."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "zc-8-n5",
+              "offset": 60,
+              "original_marker": "d",
+              "source_id": 63
+            },
+            {
+              "ref": "6",
+              "id": "zc-8-n6",
+              "offset": 109,
+              "original_marker": "e",
+              "source_id": 64
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Perspetiva da era messiânica",
+          "note_refs": []
+        },
+        {
+          "before_verse": 9,
+          "text": "O rei pacífico",
           "note_refs": []
         }
       ]
@@ -651,8 +1637,31 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Proclamação. A palavra do está em Hadrac e Damasco é o seu lugar de repouso; pois ao pertence a capital de Aram e todas as tribos de Israel.",
-          "note_refs": []
+          "text": "Proclamação. A palavra do SENHOR está em Hadrac e Damasco é o seu lugar de repouso; pois ao SENHOR pertence a capital de Aram e todas as tribos de Israel.",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Hadrac era a capital da província de Lahash, no norte da Síria.",
+            "2": "Lit.: o olho do homem. Aram é o nome antigo da região da Síria. A troca entre adâm (homem) e Arâm é frequente no hebraico bíblico. Aqui aparece confirmada pelo paralelo com a localidade de Hadrac. A capital de Aram, isto é, Damasco, parece estar aqui referida com a metáfora: o olho de Aram."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "zc-9-n1",
+              "offset": 47,
+              "original_marker": "a",
+              "source_id": 65
+            },
+            {
+              "ref": "2",
+              "id": "zc-9-n2",
+              "offset": 125,
+              "original_marker": "b",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 2,
@@ -666,7 +1675,7 @@
         },
         {
           "verse": 4,
-          "text": "Mas eis que o tomará posse dela, precipitará no mar a sua fortaleza e ela própria será devorada pelo fogo.",
+          "text": "Mas eis que o SENHOR tomará posse dela, precipitará no mar a sua fortaleza e ela própria será devorada pelo fogo.",
           "note_refs": []
         },
         {
@@ -682,56 +1691,225 @@
         {
           "verse": 7,
           "text": "Tirarei da sua boca as suas comidas com sangue e de entre os seus dentes as suas abominações; e também ele será como um resto para o nosso Deus; será como um familiar em Judá e Ecron como um jebuseu.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Alusão aos costumes pagãos de comer carne com o sangue (cf. Lv 1,5) e de comer alimentos proibidos, como a carne de porco (cf. Is 65,4; 66,17).",
+            "4": "Os filisteus beneficiarão da condição dos jebuseus que David poupou, aquando da tomada da cidade (2Sm 5,6-9), e que viveram em paz no meio do povo (cf. Js 15,63; Jz 1,21)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "zc-9-n3",
+              "offset": 92,
+              "original_marker": "c",
+              "source_id": 67
+            },
+            {
+              "ref": "4",
+              "id": "zc-9-n4",
+              "offset": 198,
+              "original_marker": "d",
+              "source_id": 68
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Acamparei junto da minha casa como um posto avançado contra quem passa e quem volta. O tirano nunca mais passará sobre eles, pois doravante Eu próprio me pus de vigia com os meus olhos.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "A expressão a minha casa parece designar aqui todo o país (Os 8,1; 9,15; Jr 12,7; Sl 114,2) e não apenas o templo de Jerusalém.",
+            "6": "Como o grego, lemos maççabah, com o sentido de “posto de guarda, guarnição”(Cf. 1Sm 14,12)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "zc-9-n5",
+              "offset": 29,
+              "original_marker": "e",
+              "source_id": 69
+            },
+            {
+              "ref": "6",
+              "id": "zc-9-n6",
+              "offset": 52,
+              "original_marker": "f",
+              "source_id": 70
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Rejubila, ó filha de Sião! Exulta de alegria, filha de Jerusalém! Eis que o teu rei está a chegar junto de ti; ele é justo e vitorioso, vem humilde e montado num jumento, sobre um jumentinho, o filho de uma jumenta.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Os quatro evangelhos fazem referência a este versículo, ao relatar a entrada de Jesus em Jerusalém; Mt 21,5 e Jo 12,15 citam-no explicitamente."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "zc-9-n7",
+              "offset": 26,
+              "original_marker": "g",
+              "source_id": 71
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Eliminarei os carros de guerra de Efraim e os cavalos de Jerusalém; será quebrado o arco de guerra; e Ele proclamará a paz para os povos; o seu domínio será de mar a mar e do grande rio até aos confins da terra.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Isto é, do Mediterrâneo ao mar Morto e do rio Eufrates ao extremo sul."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "zc-9-n8",
+              "offset": 210,
+              "original_marker": "h",
+              "source_id": 72
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Quanto a ti, pelo sangue da tua aliança, tirarei os teus presos da cisterna sem água.",
-          "note_refs": []
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "Trata-se da aliança concluída no Sinai, acompanhada de sacrifícios e aspersão de sangue (Ex 24,4-8).",
+            "10": "As cisternas mais ou menos ressequidas podiam servir de prisão (Gn 37,20-29; Jr 38,6). É o símbolo da Babilónia."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "zc-9-n9",
+              "offset": 39,
+              "original_marker": "i",
+              "source_id": 73
+            },
+            {
+              "ref": "10",
+              "id": "zc-9-n10",
+              "offset": 84,
+              "original_marker": "j",
+              "source_id": 74
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Voltai para a fortaleza, prisioneiros da esperança. Hoje mesmo o declaro: Eu te restituirei a dobrar.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Jerusalém solidamente restaurada (Ne 2,17-18) é abrigo seguro contra qualquer nova provação."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "zc-9-n11",
+              "offset": 50,
+              "original_marker": "k",
+              "source_id": 75
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Por mim, estiquei Judá como um arco, armei Efraim com uma flecha; incitei os teus filhos, ó Sião, contra os de Javan e fiz de ti a espada de um guerreiro.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Lit.: Contra os teus filhos, ó Javan. Na Bíblia, Javan, ainda presente no nome de Jónia, designa quer as regiões de cultura grega (Gn 10, 2-5; Ez 27,13) quer, neste caso, os povos hostis a Israel e que serão submetidos, aquando do grande combate final entre Deus e os seus inimigos (Is 66,19; Ez 38,3; Jl 4,6)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "zc-9-n12",
+              "offset": 116,
+              "original_marker": "l",
+              "source_id": 76
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "Então o aparecerá sobre eles, a sua flecha partirá como um raio; DEUS, o Senhor, fará soar a trombeta e marchará entre as tempestades de Teman.",
-          "note_refs": []
+          "text": "Então o SENHOR aparecerá sobre eles, a sua flecha partirá como um raio; DEUS, o Senhor, fará soar a trombeta e marchará entre as tempestades de Teman.",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Há na Bíblia referências á vinda de Javé a partir do sul, ou de Teman, entre tempestades. Cf. Dt 33,2; Hab 3,4; Sl 18, 8-15."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "zc-9-n13",
+              "offset": 149,
+              "original_marker": "m",
+              "source_id": 77
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "O do universo os protegerá; eles os dominarão e calcarão aos pés as pedras de arremesso; beberão o seu sangue como vinho e ficarão cheios como um vaso de libação, como os cantos do altar.",
-          "note_refs": []
+          "text": "O SENHOR do universo os protegerá; eles os dominarão e calcarão aos pés as pedras de arremesso; beberão o seu sangue como vinho e ficarão cheios como um vaso de libação, como os cantos do altar.",
+          "note_refs": [
+            "14",
+            "15"
+          ],
+          "notes": {
+            "14": "Lit.: devorarão. No entanto, a tradução grega pressupõe um verbo hebraico de som semelhante (yoklu), que significa “vencer, dominar”.",
+            "15": "Tradução segundo o teor do texto hebraico pressuposto na tradução dos Setenta. O sangue (dos inimigos), segundo diversos manuscritos do grego. O hebraico diz: «eles beberão e farão rumor como de vinho»."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "zc-9-n14",
+              "offset": 52,
+              "original_marker": "n",
+              "source_id": 78
+            },
+            {
+              "ref": "15",
+              "id": "zc-9-n15",
+              "offset": 127,
+              "original_marker": "a",
+              "source_id": 79
+            }
+          ]
         },
         {
           "verse": 16,
-          "text": "Naquele dia, o, seu Deus, os salvará, como ovelhas do seu povo; como pedras preciosas de um diadema que resplandecem sobre a sua terra.",
+          "text": "Naquele dia, o SENHOR, seu Deus, os salvará, como ovelhas do seu povo; como pedras preciosas de um diadema que resplandecem sobre a sua terra.",
           "note_refs": []
         },
         {
           "verse": 17,
           "text": "Que riqueza! Que beleza é a sua! O trigo dará vigor aos jovens e o vinho novo, às donzelas.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Israel e os seus vizinhos",
           "note_refs": []
         }
       ]
@@ -741,18 +1919,55 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Pedi ao a chuva no final da Primavera; o que faz as tempestades e a chuva torrencial dará o pão; a cada um, a verdura do campo.",
+          "text": "Pedi ao SENHOR a chuva no final da Primavera; o SENHOR que faz as tempestades e a chuva torrencial dará o pão; a cada um, a verdura do campo.",
           "note_refs": []
         },
         {
           "verse": 2,
           "text": "Porque os ídolos domésticos dizem coisas inúteis e os adivinhos têm visões de mentira; contam sonhos ilusórios, oferecem consolações vazias; por isso eles vagueiam errantes, como ovelhas andam aflitos sem pastor.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Lit.: os terafim, designação pejorativa (“a podridão”) dos ídolos domésticos, dos quais se esperavam oráculos (Gn 31,19; Jz 18, 14-20; 1Sm 19,13-16; Ez 21,26).",
+            "2": "Esta curta passagem de 10,1-2, que religa dois grandes oráculos atinentes ao combate purificador, 9,10-17 e 10,3,12, relembra que o salvador é Deus e não os ídolos enganadores."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "zc-10-n1",
+              "offset": 27,
+              "original_marker": "b",
+              "source_id": 80
+            },
+            {
+              "ref": "2",
+              "id": "zc-10-n2",
+              "offset": 211,
+              "original_marker": "c",
+              "source_id": 81
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Contra os pastores se inflama a minha ira, aos bodes pedirei contas. Quando o do universo tomar conta do seu rebanho, a casa de Judá, fará deles o seu glorioso cavalo de batalha;",
-          "note_refs": []
+          "text": "Contra os pastores se inflama a minha ira, aos bodes pedirei contas. Quando o SENHOR do universo tomar conta do seu rebanho, a casa de Judá, fará deles o seu glorioso cavalo de batalha;",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Não se trata dos chefes de Israel, mas sim dos chefes estrangeiros que maltrataram o povo eleito. Na segunda parte do versículo, o mesmo verbo tem sentido positivo e é traduzido por tomar conta de…"
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "zc-10-n3",
+              "offset": 67,
+              "original_marker": "d",
+              "source_id": 82
+            }
+          ]
         },
         {
           "verse": 4,
@@ -761,17 +1976,17 @@
         },
         {
           "verse": 5,
-          "text": "Serão como guerreiros que pisam a lama das ruas na guerra, e combaterão, porque o está com eles. Mas os que montam cavalos ficarão confundidos.",
+          "text": "Serão como guerreiros que pisam a lama das ruas na guerra, e combaterão, porque o SENHOR está com eles. Mas os que montam cavalos ficarão confundidos.",
           "note_refs": []
         },
         {
           "verse": 6,
-          "text": "Eu fortalecerei a casa de Judá e salvarei a casa de José; farei com que regressem, porque tenho compaixão deles, e serão como se os não tivesse rejeitado. Porque sou o, seu Deus, responder-lhes-ei.",
+          "text": "Eu fortalecerei a casa de Judá e salvarei a casa de José; farei com que regressem, porque tenho compaixão deles, e serão como se os não tivesse rejeitado. Porque sou o SENHOR, seu Deus, responder-lhes-ei.",
           "note_refs": []
         },
         {
           "verse": 7,
-          "text": "Os de Efraim serão como um guerreiro, o seu coração alegrar-se-á como se fosse com vinho; os seus filhos, ao vê-los, alegrar-se-ão e os seus corações exultarão no.",
+          "text": "Os de Efraim serão como um guerreiro, o seu coração alegrar-se-á como se fosse com vinho; os seus filhos, ao vê-los, alegrar-se-ão e os seus corações exultarão no SENHOR.",
           "note_refs": []
         },
         {
@@ -792,11 +2007,32 @@
         {
           "verse": 11,
           "text": "Atravessarão o mar da angústia. Ele baterá nas ondas do mar; todas as profundezas do Nilo secarão, será abatido o orgulho da Assíria e será removido o cetro do Egito.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O contexto sugere que se trata do mar do Egito."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "zc-10-n4",
+              "offset": 30,
+              "original_marker": "e",
+              "source_id": 83
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "Eu os fortalecerei no e pelo seu nome eles se encaminharão, oráculo do.",
+          "text": "Eu os fortalecerei no SENHOR e pelo seu nome eles se encaminharão, – oráculo do SENHOR.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Novas promessas de futuro",
           "note_refs": []
         }
       ]
@@ -821,32 +2057,88 @@
         },
         {
           "verse": 4,
-          "text": "Assim fala o, meu Deus: «Apascenta as ovelhas destinadas ao mata - douro,",
-          "note_refs": []
+          "text": "Assim fala o SENHOR, meu Deus: «Apascenta as ovelhas destinadas ao matadouro,",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Esta secção dos pastores termina como profecia messiânica (Zc 13,7). Os vv. 4-14 são um retorno alegórico aos acontecimentos recentes, com uma espécie de apologia da providência de Deus. O profeta exercia o papel de Deus, na função de pastor. Mas Israel não compreendeu o bem que Deus lhe queria. Por isso Deus vai suscitar um pastor mau, que o profeta é encarregado de imitar."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "zc-11-n1",
+              "offset": 29,
+              "original_marker": "a",
+              "source_id": 84
+            }
+          ]
         },
         {
           "verse": 5,
-          "text": "aquelas cujos compradores abatem impunemente e cujos vendedores dizem: “Bendito seja o! Estou rico!”. Os seus pastores não têm nenhuma com - paixão por elas.",
+          "text": "aquelas cujos compradores abatem impunemente e cujos vendedores dizem: “Bendito seja o SENHOR! Estou rico!”. Os seus pastores não têm nenhuma compaixão por elas.",
           "note_refs": []
         },
         {
           "verse": 6,
-          "text": "Pois Eu mesmo não terei mais compaixão dos habitantes da terra oráculo do. Eis que vou entregar os homens, cada um na mão do seu vizinho e na mão do seu rei. Eles destruirão a terra, mas Eu não os livrarei das suas mãos».",
-          "note_refs": []
+          "text": "Pois Eu mesmo não terei mais compaixão dos habitantes da terra – oráculo do SENHOR. Eis que vou entregar os homens, cada um na mão do seu vizinho e na mão do seu rei. Eles destruirão a terra, mas Eu não os livrarei das suas mãos».",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Este versículo parece ser uma adição posterior atraída pela palavra compaixão no v. 5. Interrompe a alegoria dos pastores e amplia o horizonte ao mundo inteiro."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "zc-11-n2",
+              "offset": 229,
+              "original_marker": "b",
+              "source_id": 85
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Eu apascentei as ovelhas de matadouro por conta dos traficantes das ovelhas. Tomei dois cajados: ao primeiro chamei Benevolência e ao segundo União e apascentei as ovelhas.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O escriba do texto hebraico dividiu em duas a palavra kena‘ani, que significa “traficante”."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "zc-11-n3",
+              "offset": 63,
+              "original_marker": "c",
+              "source_id": 86
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Eliminei os três pastores num mês. Perdi a paciência com elas e as ovelhas também se aborreceram comigo.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O «mês» simboliza o tempo de salvação que o povo não quis aproveitar."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "zc-11-n4",
+              "offset": 34,
+              "original_marker": "d",
+              "source_id": 87
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "Então eu disse: «Não vos apas - centarei mais. Que morra a que tiver de morrer e pereça a que tiver de perecer». As sobreviventes que se devorem umas às outras».",
+          "text": "Então eu disse: «Não vos apascentarei mais. Que morra a que tiver de morrer e pereça a que tiver de perecer». As sobreviventes que se devorem umas às outras».",
           "note_refs": []
         },
         {
@@ -856,37 +2148,91 @@
         },
         {
           "verse": 11,
-          "text": "Ela foi rompida naquele dia e os traficantes das ovelhas que me observavam compreenderam que aquilo era palavra do.",
+          "text": "Ela foi rompida naquele dia e os traficantes das ovelhas que me observavam compreenderam que aquilo era palavra do SENHOR.",
           "note_refs": []
         },
         {
           "verse": 12,
           "text": "E disse-lhes: «Se parecer bem aos vossos olhos, pagai-me o meu salário; se não, deixai-o». Eles pesaram o meu salário: trinta siclos de prata.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O salário pago pelas classes dirigentes ao profeta (representando Deus) é irrisório; corresponde ao preço de um escravo (Ex 21,32). Em suma, isto significa que estão a zombar de Deus. Mt 27,3-10 aplicou os vv. 12-13 a Cristo."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "zc-11-n5",
+              "offset": 141,
+              "original_marker": "e",
+              "source_id": 88
+            }
+          ]
         },
         {
           "verse": 13,
-          "text": "O disse-me: «Lança ao fundidor este belo preço em que fui avaliado por eles». Eu peguei nos trinta siclos de prata e lancei-os ao fundidor, na casa do.",
-          "note_refs": []
+          "text": "O SENHOR disse-me: «Lança ao fundidor este belo preço em que fui avaliado por eles». Eu peguei nos trinta siclos de prata e lancei-os ao fundidor, na casa do SENHOR.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O termo hebraico yoser («modelador»), pode aplicar-se ao oleiro ou ao fundidor. Uma fundição, no templo, reduzia as peças de metal precioso a lingotes para serem conservados no tesouro."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "zc-11-n6",
+              "offset": 37,
+              "original_marker": "f",
+              "source_id": 89
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Depois quebrei o meu segundo cajado, União, para romper a fraternidade entre Judá e Israel.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Esta rutura pode referir-se à definitiva separação entre a comunidade de Jerusalém e a da Samaria, devido à construção do templo no monte Garizim, cerca de 328 a. C. Essa rutura pôs fim ao sonho de um reagrupamento de todos os membros do antigo povo de Deus (Os 2,1-2; Ez 37, 15-28; Jr 3,18)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "zc-11-n7",
+              "offset": 90,
+              "original_marker": "g",
+              "source_id": 90
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "E disse-me de novo o: «Toma os equipamentos de um pastor insensato.",
+          "text": "E disse-me de novo o SENHOR: «Toma os equipamentos de um pastor insensato.",
           "note_refs": []
         },
         {
           "verse": 16,
-          "text": "Pois eis que vou suscitar nesta terra um pastor que não se importará com a ovelha O perdida, não procurará a ovelha desgarrada, não cuidará a que está ferida, não tratará da que estiver sã; antes comerá a carne da que está gorda e arrancará os seus cascos.",
+          "text": "Pois eis que vou suscitar nesta terra um pastor que não se importará com a ovelha perdida, não procurará a ovelha desgarrada, não cuidará a que está ferida, não tratará da que estiver sã; antes comerá a carne da que está gorda e arrancará os seus cascos.",
           "note_refs": []
         },
         {
           "verse": 17,
           "text": "Ai do pastor inútil que abandona as ovelhas! Que a espada caia sobre o seu braço e sobre o seu olho direito! Que o seu braço seque completamente e que o seu olho direito se obscureça totalmente!»",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Lamentações",
+          "note_refs": []
+        },
+        {
+          "before_verse": 4,
+          "text": "Os dois pastores",
           "note_refs": []
         }
       ]
@@ -896,13 +2242,36 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Proclamação. Palavra do sobre Israel, oráculo do que estendeu os céus e estabeleceu a terra, que formou o espírito do homem dentro dele.",
+          "text": "Proclamação. Palavra do SENHOR sobre Israel, oráculo do SENHOR que estendeu os céus e estabeleceu a terra, que formou o espírito do homem dentro dele.",
           "note_refs": []
         },
         {
           "verse": 2,
           "text": "Eis que vou fazer de Jerusalém uma taça inebriante para todos os povos em redor e também para Judá, durante o cerco a Jerusalém.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "A taça dada a beber a uma cidade ou a um povo simboliza o castigo provocado pela cólera de Deus (Is 51,22; Jr 25,15; Hab 2,16).",
+            "2": "Este texto hebraico difícil parece insistir no facto de que toda a Judeia participará na vitória de Jerusalém."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "zc-12-n1",
+              "offset": 50,
+              "original_marker": "h",
+              "source_id": 91
+            },
+            {
+              "ref": "2",
+              "id": "zc-12-n2",
+              "offset": 127,
+              "original_marker": "i",
+              "source_id": 92
+            }
+          ]
         },
         {
           "verse": 3,
@@ -911,27 +2280,55 @@
         },
         {
           "verse": 4,
-          "text": "Naquele dia oráculo do encherei de terror todos os cavalos e de loucura, os seus cavaleiros. E ferirei de cegueira todos os cavalos dos povos. Mas sobre a casa de Judá manterei abertos os meus olhos.",
+          "text": "Naquele dia – oráculo do SENHOR – encherei de terror todos os cavalos e de loucura, os seus cavaleiros. E ferirei de cegueira todos os cavalos dos povos. Mas sobre a casa de Judá manterei abertos os meus olhos.",
           "note_refs": []
         },
         {
           "verse": 5,
-          "text": "E os chefes de Judá dirão no seu coração: «Para os habitantes de Jerusalém, a sua força está no do universo, seu Deus».",
-          "note_refs": []
+          "text": "E os chefes de Judá dirão no seu coração: «Para os habitantes de Jerusalém, a sua força está no SENHOR do universo, seu Deus».",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: «para mim os habitantes de Jerusalém». A tradução assumida é também atestada no texto aramaico."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "zc-12-n3",
+              "offset": 74,
+              "original_marker": "j",
+              "source_id": 93
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Naquele dia, farei dos chefes de Judá como um braseiro de fogo no meio da lenha e como uma tocha ardente entre a palha. Devorarão à direita e à esquerda todos os povos em redor, mas Jerusalém continuará firme no seu lugar.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Este acréscimo falta em certos manuscritos."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "zc-12-n4",
+              "offset": 221,
+              "original_marker": "k",
+              "source_id": 94
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "O salvará primeiro as tendas de Judá, para que a glória da casa de David e a glória dos habitantes de Jerusalém não cresça acima de Judá.",
+          "text": "O SENHOR salvará primeiro as tendas de Judá, para que a glória da casa de David e a glória dos habitantes de Jerusalém não cresça acima de Judá.",
           "note_refs": []
         },
         {
           "verse": 8,
-          "text": "Naquele dia, o servirá de escudo aos habitantes de Jerusalém e o mais fraco de entre eles será como David e a casa de David como um deus, como o anjo do diante deles.",
+          "text": "Naquele dia, o SENHOR servirá de escudo aos habitantes de Jerusalém e o mais fraco de entre eles será como David e a casa de David como um deus, como o anjo do SENHOR diante deles.",
           "note_refs": []
         },
         {
@@ -942,7 +2339,21 @@
         {
           "verse": 10,
           "text": "E derramarei sobre a casa de David e sobre os habitantes de Jerusalém um espírito de benevolência e de intercessão. E olharão para mim, Aquele a quem trespassaram. E chorarão por ele como se chora por um filho único; lamentá-lo-ão como se lamenta por um primogénito.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Deus declara-se atingido pela morte infligida ao seu enviado. A morte do Trespassado situa-se num contexto escatológico. Haverá um sofrimento e uma morte misteriosos que terão lugar na realização da salvação. Jo 19,37 viu aqui uma alusão figurativa da paixão de Cristo."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "zc-12-n5",
+              "offset": 162,
+              "original_marker": "l",
+              "source_id": 95
+            }
+          ]
         },
         {
           "verse": 11,
@@ -952,7 +2363,21 @@
         {
           "verse": 12,
           "text": "E esta terra chorará cada uma das famílias em separado: a família da casa de David à parte e as suas mulheres em separado; a família da casa de Natan à parte e as suas mulheres em separado;",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Natan era um dos filhos de David (cf. 2Sm 5,14¸ver Lc 3,31). O texto passa em revista todas as famílias da comunidade, mencionando à frente os descendentes da família real e os membros das famílias levíticas."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "zc-12-n6",
+              "offset": 157,
+              "original_marker": "a",
+              "source_id": 96
+            }
+          ]
         },
         {
           "verse": 13,
@@ -964,6 +2389,13 @@
           "text": "Todas as famílias restantes, cada uma delas à parte, e as suas mulheres em separado.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Naquele dia: a instauração do reino de Deus",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -971,23 +2403,65 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Naquele dia haverá uma fonte aberta para a casa de David e para os habitan - tes de Jerusalém, para lavar o pecado e a impureza.",
-          "note_refs": []
+          "text": "Naquele dia haverá uma fonte aberta para a casa de David e para os habitantes de Jerusalém, para lavar o pecado e a impureza.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.: para o pecado e a mancha. Sobre a fonte ou nascente que regará a Jerusalém da era messiânica, cf. Is 12,3; Ez 47,1. Diferentemente de 14,8, aqui esta fonte serve para a purificação do povo (cf. Ez 36,25)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "zc-13-n1",
+              "offset": 124,
+              "original_marker": "b",
+              "source_id": 97
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "E acontecerá, naquele dia oráculo do do universo que eliminarei desta terra os nomes dos ídolos e não mais serão recordados. Também farei desaparecer dela os profetas e o espírito impuro.",
-          "note_refs": []
+          "text": "E acontecerá, naquele dia – oráculo do SENHOR do universo – que eliminarei desta terra os nomes dos ídolos e não mais serão recordados. Também farei desaparecer dela os profetas e o espírito impuro.",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Esta é uma referência ao desaparecimento da instituição do profetismo, condenada devido aos abusos dos falsos profetas (cf. Jr 23,9-10; Ez 13)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "zc-13-n2",
+              "offset": 197,
+              "original_marker": "c",
+              "source_id": 98
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Se alguém continuar a profetizar, o seu pai e a sua mãe que o geraram dir-lhe-ão: «Tu não deves viver, porque proclamaste mentiras em nome do»; e o seu pai e a sua mãe que o geraram trespassá-lo-ão, quando pro - fetizar.",
+          "text": "Se alguém continuar a profetizar, o seu pai e a sua mãe que o geraram dir-lhe-ão: «Tu não deves viver, porque proclamaste mentiras em nome do SENHOR»; e o seu pai e a sua mãe que o geraram trespassá-lo-ão, quando profetizar.",
           "note_refs": []
         },
         {
           "verse": 4,
           "text": "E acontecerá que, naquele dia, os profetas se envergonharão das suas visões, cada um quando profetizar, e não se vestirão mais de manto de pelo para enganar.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Trata-se de uma vestimenta distintiva dos profetas (cf. 2Rs 1,8; Mt 3,4)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "zc-13-n3",
+              "offset": 156,
+              "original_marker": "d",
+              "source_id": 99
+            }
+          ]
         },
         {
           "verse": 5,
@@ -997,22 +2471,59 @@
         {
           "verse": 6,
           "text": "Mas alguém pode perguntar-lhe: «Que feridas são essas nas tuas mãos?» Ele responderá: «Bateram-me em casa de uns amigos meus».",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Em certas festividades em honra das divindades da fecundidade, os antigos profetas faziam incisões no seu corpo (cf. Lv 21,5; Dt 14,1; 1Rs 18,28; Jr 5,7). Interpelado e acusado de ser profeta por trazer tais cicatrizes no corpo, ele defende-se atribuindo-as a uma rixa com os companheiros."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "zc-13-n4",
+              "offset": 43,
+              "original_marker": "e",
+              "source_id": 100
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "Desperta, ó espada, contra o meu pastor, contra o meu valoroso companheiro oráculo do do universo. Bate no pastor e as ovelhas serão dispersas, e farei com que a minha mão se volte até contra os pequenos.",
+          "text": "Desperta, ó espada, contra o meu pastor, contra o meu valoroso companheiro – oráculo do SENHOR do universo. Bate no pastor e as ovelhas serão dispersas, e farei com que a minha mão se volte até contra os pequenos.",
           "note_refs": []
         },
         {
           "verse": 8,
-          "text": "E acontecerá que em toda esta terra oráculo do do universo dois terços dela serão eliminados e perecerão, mas um terço há de sobreviver nela.",
+          "text": "E acontecerá que em toda esta terra – oráculo do SENHOR do universo – dois terços dela serão eliminados e perecerão, mas um terço há de sobreviver nela.",
           "note_refs": []
         },
         {
           "verse": 9,
-          "text": "Farei passar esse terço pelo fogo, purificá-los-ei como se purifica a prata, examiná-los-ei como se examina o ouro. Ele invocará o meu nome e Eu responder-lhe-ei. Eu disse: «Ele é o meu povo» e ele dirá: «o é o meu Deus».",
-          "note_refs": []
+          "text": "Farei passar esse terço pelo fogo, purificá-los-ei como se purifica a prata, examiná-los-ei como se examina o ouro. Ele invocará o meu nome e Eu responder-lhe-ei. Eu disse: «Ele é o meu povo» e ele dirá: «o SENHOR é o meu Deus».",
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "O texto da tradução dos LXX diz: direi.",
+            "6": "Esta é uma fórmula tradicional para evocar a conclusão da aliança (Os 2,25; Jr 31,33; Ez 34,24.30; Zc 8,8)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "zc-13-n5",
+              "offset": 191,
+              "original_marker": "f",
+              "source_id": 101
+            },
+            {
+              "ref": "6",
+              "id": "zc-13-n6",
+              "offset": 227,
+              "original_marker": "g",
+              "source_id": 102
+            }
+          ]
         }
       ]
     },
@@ -1021,8 +2532,22 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Eis que está a chegar um dia para o; e os teus despojos serão repar - tidos dentro de ti.",
-          "note_refs": []
+          "text": "Eis que está a chegar um dia para o SENHOR; e os teus despojos serão repartidos dentro de ti.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O c. 14 anuncia uma religião monoteísta que terá as suas repercussões e que se estenderá a todo o universo, unificando os tempos (dia único), transformando os lugares (nivelamento de Jerusalém), fazendo desaparecer as ocasiões e mesmo as lembranças da idolatria e mesmo as lembranças da idolatria e da adivinhação (astros, estações, Geena e Tofet, o monte do Escândalo, etc.) e unificando também o culto e os seus participantes, pagãos e israelitas. Então, Deus será tudo em todos."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "zc-14-n1",
+              "offset": 42,
+              "original_marker": "h",
+              "source_id": 103
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1031,7 +2556,7 @@
         },
         {
           "verse": 3,
-          "text": "Então o sairá a combater contra aqueles povos, como quando combateu no dia da batalha.",
+          "text": "Então o SENHOR sairá a combater contra aqueles povos, como quando combateu no dia da batalha.",
           "note_refs": []
         },
         {
@@ -1041,33 +2566,107 @@
         },
         {
           "verse": 5,
-          "text": "Fugireis pelo vale dos meus montes, porque o vale desses montes chegará até Açal; fugireis como fugistes do terramoto, nos dias de Uzias, rei de Judá. Então virá o, meu Deus, e todos os santos com ele.",
-          "note_refs": []
+          "text": "Fugireis pelo vale dos meus montes, porque o vale desses montes chegará até Açal; fugireis como fugistes do terramoto, nos dias de Uzias, rei de Judá. Então virá o SENHOR, meu Deus, e todos os santos com ele.",
+          "note_refs": [
+            "2",
+            "3",
+            "4"
+          ],
+          "notes": {
+            "2": "Esta é a grande depressão mencionada no v. 4.",
+            "3": "Parece tratar-se de uma pequena localidade, no vale do Cedron, a sudeste de Jerusalém.",
+            "4": "Lit.: todos os santos contigo."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "zc-14-n2",
+              "offset": 34,
+              "original_marker": "i",
+              "source_id": 104
+            },
+            {
+              "ref": "3",
+              "id": "zc-14-n3",
+              "offset": 80,
+              "original_marker": "j",
+              "source_id": 105
+            },
+            {
+              "ref": "4",
+              "id": "zc-14-n4",
+              "offset": 207,
+              "original_marker": "k",
+              "source_id": 106
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Acontecerá naquele dia que não haverá nem luz nem frio nem geada.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A tradução frio e geada corresponde ao entendimento que se verifica nas versões antigas. O texto hebraico parece significar: as coisas preciosas se contrairão."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "zc-14-n5",
+              "offset": 64,
+              "original_marker": "l",
+              "source_id": 107
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "Será um dia único; o o conhece; não será dia nem será noite. Mas quando a tarde chegar haverá luz.",
+          "text": "Será um dia único; o SENHOR o conhece; não será dia nem será noite. Mas quando a tarde chegar haverá luz.",
           "note_refs": []
         },
         {
           "verse": 8,
-          "text": "Naqueles dias, sairão águas vivas de Jerusalém. Metade delas irá para o mar orien - tal e a outra metade para o mar ocidental. Será assim no verão e no inverno.",
-          "note_refs": []
+          "text": "Naqueles dias, sairão águas vivas de Jerusalém. Metade delas irá para o mar oriental e a outra metade para o mar ocidental. Será assim no verão e no inverno.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Os dois mares podem ser o Mar Morto ou o mar Mediterrâneo, que se tornará fecundo."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "zc-14-n6",
+              "offset": 122,
+              "original_marker": "m",
+              "source_id": 108
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "O tornar-se-á então rei sobre toda a terra. Naquele dia, o será o único e único será o seu nome.",
+          "text": "O SENHOR tornar-se-á então rei sobre toda a terra. Naquele dia, o SENHOR será o único e único será o seu nome.",
           "note_refs": []
         },
         {
           "verse": 10,
           "text": "Toda a terra será transformada em planície, desde Gueba até Rimon, ao sul de Jerusalém. Ela será reerguida e habitada no seu próprio lugar, desde a porta de Benjamim até ao lugar da porta Antiga, até à porta dos Ângulos e desde a torre de Hananiel até aos lagares do rei.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Gueba: cerca de 10km ao norte de Jerusalém, na fronteira entre Judá e Benjamim (1Rs 15,22; 2Rs 23,8); Rimon, no distrito de Bercheba, para os lados da fronteira sul de Judá (Js 15,32; Ne11,29)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "zc-14-n7",
+              "offset": 86,
+              "original_marker": "a",
+              "source_id": 109
+            }
+          ]
         },
         {
           "verse": 11,
@@ -1076,12 +2675,12 @@
         },
         {
           "verse": 12,
-          "text": "E esta é a praga com que o atingirá todos os povos que combateram contra Jerusalém: Ele fará apodrecer a sua carne, mesmo estando eles de pé; os seus olhos apodrecerão nas órbitas e a língua apodrecerá na sua boca.",
+          "text": "E esta é a praga com que o SENHOR atingirá todos os povos que combateram contra Jerusalém: Ele fará apodrecer a sua carne, mesmo estando eles de pé; os seus olhos apodrecerão nas órbitas e a língua apodrecerá na sua boca.",
           "note_refs": []
         },
         {
           "verse": 13,
-          "text": "E acontecerá que naquele dia, haverá entre eles uma grande confusão vinda do. Cada um agarrará a mão do seu vizinho E a sua mão ergue-se contra a do seu vizinho.",
+          "text": "E acontecerá que naquele dia, haverá entre eles uma grande confusão vinda do SENHOR. Cada um agarrará a mão do seu vizinho E a sua mão ergue-se contra a do seu vizinho.",
           "note_refs": []
         },
         {
@@ -1092,21 +2691,49 @@
         {
           "verse": 15,
           "text": "Flagelo semelhante atingirá os cavalos, as mulas, os camelos e os burros; e para todos os animais que estão nestes acampamentos será um flagelo idêntico.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Este v. faz a sequência lógica do v. 12."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "zc-14-n8",
+              "offset": 152,
+              "original_marker": "b",
+              "source_id": 110
+            }
+          ]
         },
         {
           "verse": 16,
-          "text": "Acontecerá que todos os que restarem de todos os povos que marcharem contra Jerusalém subirão, ano após ano, para prostrar-se diante do rei, o do universo, e para celebrar a festa das Tendas.",
-          "note_refs": []
+          "text": "Acontecerá que todos os que restarem de todos os povos que marcharem contra Jerusalém subirão, ano após ano, para prostrar-se diante do rei, o SENHOR do universo, e para celebrar a festa das Tendas.",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "N a época do autor, a festa das Tendas era a mais popular do ano (Ne 8,13-18). Celebrada no outono, no fim do ano agrícola, era uma festa de ação de graças (Ex 23,16). Pouco a pouco, foi sendo enriquecida com um novo sentido: proclama também a soberania de Deus criador, a sua realeza ni mundo."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "zc-14-n9",
+              "offset": 197,
+              "original_marker": "c",
+              "source_id": 111
+            }
+          ]
         },
         {
           "verse": 17,
-          "text": "Mas aquele que, das famílias da terra, não subir a Jerusalém para se prostrar diante do rei, o do universo, para esse não haverá chuva.",
+          "text": "Mas aquele que, das famílias da terra, não subir a Jerusalém para se prostrar diante do rei, o SENHOR do universo, para esse não haverá chuva.",
           "note_refs": []
         },
         {
           "verse": 18,
-          "text": "E se a família do Egito não subir nem vier, acaso não se abaterá sobre ela o flagelo com que o atingirá os povos que não subirem para celebrar a festa das Tendas?",
+          "text": "E se a família do Egito não subir nem vier, acaso não se abaterá sobre ela o flagelo com que o SENHOR atingirá os povos que não subirem para celebrar a festa das Tendas?",
           "note_refs": []
         },
         {
@@ -1116,13 +2743,36 @@
         },
         {
           "verse": 20,
-          "text": "Naquele dia, nas campainhas dos cavalos estará escrito: «Consagrado ao»; e na Casa do as panelas serão como vasos de aspersão diante do altar.",
+          "text": "Naquele dia, nas campainhas dos cavalos estará escrito: «Consagrado ao SENHOR»; e na Casa do SENHOR as panelas serão como vasos de aspersão diante do altar.",
           "note_refs": []
         },
         {
           "verse": 21,
-          "text": "E acontecerá que todas as panelas em Jerusalém e em Judá serão consa - gradas ao do universo. E todos os que oferecem sacrifícios virão lançar mão delas para cozinhar a carne do sacrifício. E, naquele dia, já não haverá mais comerciantes na Casa do do universo. PARALELOS",
-          "note_refs": []
+          "text": "E acontecerá que todas as panelas em Jerusalém e em Judá serão consagradas ao SENHOR do universo. E todos os que oferecem sacrifícios virão lançar mão delas para cozinhar a carne do sacrifício. E, naquele dia, já não haverá mais comerciantes na Casa do SENHOR do universo.",
+          "note_refs": [
+            "10",
+            "11"
+          ],
+          "notes": {
+            "10": "Nos tempos messiânicos futuros e na nova terra santa, todas as realidades profanas serão integradas no domínio de Deus.",
+            "11": "De entre várias expressões hebraicas possíveis para falar de comerciantes, o autor escolheu, neste último versículo, uma que vem do nome dos antigos cananeus; a lembrança deste povo rejeitado ressoa de modo especial neste texto, cuja preocupação é a de manter a casa de Deus limpa de presenças indevidas."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "zc-14-n10",
+              "offset": 192,
+              "original_marker": "d",
+              "source_id": 112
+            },
+            {
+              "ref": "11",
+              "id": "zc-14-n11",
+              "offset": 241,
+              "original_marker": "e",
+              "source_id": 113
+            }
+          ]
         }
       ]
     }

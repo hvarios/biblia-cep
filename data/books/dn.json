@@ -1,5 +1,55 @@
 {
+  "schema_version": 2,
   "book": "Daniel",
+  "book_id": "dn",
+  "source": {
+    "format": "docx",
+    "file": "34_Dn.docx",
+    "title": "Daniel"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "O livro e a personagem",
+        "paragraphs": [
+          "O livro de Daniel contém o relato de acontecimentos e visões referidos a um jovem do grupo de exilados de Jerusalém para a Babilónia com o rei Joaquim (1,2ss). Chamado a servir na corte dos reis da Babilónia, acaba por se destacar pela sua sabedoria e capacidade de decifrar sonhos e enigmas, bem como pela piedade e fidelidade a Deus (1-6). Daniel recebeu um conjunto de visões sobre o futuro, o “fim dos tempos” (7-12), e é o herói da história do reconhecimento da inocência de Susana (13) e um paladino da luta contra os ídolos (14).",
+          "O nome Daniel significa “O Deus El é meu juiz” e figura nas listas dos que regressaram do exílio nos livros de Esdras e Neemias (Esd 8,2; Ne 10,7). Há, contudo, um alargado consenso acerca do carácter ficcional tanto da personagem como das histórias relatadas. É muito provável que o autor ou autores do livro se tenham inspirado na figura lendária de um certo Daniel, a quem o livro de Ezequiel atribui piedade e sabedoria sem igual (Ez 14,14.20). Daniel (ou Dan’il) é também o nome de um rei lendário cujo filho, Aqhat, é objeto de um conto descoberto entre os textos que vieram à luz na cidade de Ugarit, na Síria, datados do séc. XIII a.C. Tudo indica que se trata, em todos estes casos, de variações literárias à volta de uma mesma figura lendária."
+        ]
+      },
+      {
+        "title": "Composição e redação",
+        "paragraphs": [
+          "O livro de Daniel é fruto de um processo de composição e redação que se prolongou através de, pelo menos, dois a três séculos. É provável que as histórias que constituem o núcleo da primeira parte do livro (2-6) tenham circulado separadas antes de serem compiladas, no final da época persa ou no início do período helenístico (séc. IV-III a.C.). O primeiro capítulo parece ter sido escrito naquela altura, como introdução a esta coleção. A fase seguinte no processo de composição e redação foi a inclusão da primeira das visões (c. 7). Este capítulo parece ter sido redigido nos inícios da crise dos Macabeus, nos anos 60 do séc. II a.C., quando o rei selêucida, Antíoco IV Epifânio (175-164 a.C.), promoveu uma série de reformas administrativas e cultuais que foram recebidas pelos judeus como um ataque à sua fé e costumes, provocando a revolta. As visões contidas nos capítulos 8 a 12 também refletem este período conturbado, mas foram escritas algo mais tarde que Daniel 7. As histórias reproduzidas nos capítulos 13-14 terão sido escritas como narrativas independentes e assim terão circulado, antes de serem incluídas na edição grega da Bíblia dos Setenta, pelo final do séc. II ou início do séc. I a.C. Foi somente com a tradução latina da Vulgata que as histórias de Susana e de Bel e o Dragão se tornaram parte integrante do livro de Daniel."
+        ]
+      },
+      {
+        "title": "Texto e lugar no cânone",
+        "paragraphs": [
+          "A riqueza e complexidade do livro é bem visível no próprio texto, tal como nos foi transmitido. Os capítulos 2 a 6, o núcleo mais antigo do livro, foram escritos e transmitidos em aramaico. O capítulo 1 de Daniel, que poderá ter servido inicialmente como introdução a esta coleção de histórias, poderá ter sido escrito em aramaico e posteriormente traduzido para hebraico, pois assim chegou até nós. O capítulo 7, a primeira das visões, foi escrito e transmitido em aramaico. As restantes visões (cc. 8 a 12) foram escritas e chegaram até nós em hebraico. É possível que as histórias de Susana e de Bel e o Dragão (cc. 13-14) tenham sido escritas em hebraico ou aramaico. O facto é que, juntamente com o cântico de Azarias e o dos três jovens (3,24-90), chegaram até nós na versão em grego dos Setenta.",
+          "As histórias de Susana e de Bel e o Dragão (13-14) e as referidas adições em 3,24-90 não fazem parte do texto em hebraico e aramaico reconhecido e adotado pelo judaísmo como Escritura canónica. A Igreja primitiva tomou como referência a edição em grego das Escrituras de Israel e acolheu, por isso, aquelas adições como canónicas. As edições da Bíblia entre as Igrejas que nasceram da Reforma tendem a seguir a prática assumida pelo judaísmo, ao passo que as edições católicas e ortodoxas privilegiam o cânone em grego, que era adotado no cristianismo primitivo.",
+          "A tradução aqui apresentada segue os textos existentes em hebraico e aramaico. No que respeita aos cânticos de Azarias e dos três jovens (3,24-90) e às histórias de Susana e de Bel e o Dragão (13-14), segue-se a versão dita de Teodocião, datada do início da era cristã. Não sendo a mais antiga tradução em grego do livro de Daniel, foi, porém, recebida na tradição cristã como texto de referência. A ordem dos capítulos corresponde à ordem narrativa apresentada na tradução da Vulgata, que serve de referência no ocidente cristão."
+        ]
+      },
+      {
+        "title": "Género literário",
+        "paragraphs": [
+          "Os capítulos 1 a 6 do livro de Daniel reproduzem um conjunto de histórias ou pequenos contos de cariz ficcional sobre as peripécias do protagonista e de três outros jovens de Judá, Ananias, Azarias e Michael, na corte da Babilónia. São normalmente designados como contos ou lendas de corte e equiparados à história de José (Gn 37-50) e ao livro de Ester. Tratava-se de um tipo de literatura destinado a cultivar a fidelidade ao Deus de Israel e à sua Lei, entre os judeus que viviam na diáspora, em contextos propícios à assimilação. A inabalável piedade e o heroísmo de Daniel e dos três jovens acabaram por se tornar exemplo também para os judeus que, durante o período da crise macabaica (séc. II a.C.), perante a violência da perseguição, se viram confrontados com a tentação de abandonar a fé e os costumes do povo.",
+          "Os capítulos 7 a 12 são designados como “apocalipse de Daniel”. O protagonista, que se destacara como intérprete de sonhos e visões, torna-se depositário de um conjunto de visões de cariz apocalíptico. O termo “apocalipse”, que em grego significa “revelação”, designa um género literário em que se descreve a comunicação a um ser humano, frequentemente por intermédio de um anjo ou de uma figura celeste. No caso dos “apocalipses históricos”, como o de Daniel, essa revelação, que diz respeito ao desenrolar da História e à sua periodização com a intervenção salvífica de Deus, tende a incluir referências a acontecimentos concretos, como as guerras ou a sucessão de impérios, que são anunciados ao depositário das visões séculos antes de se cumprirem. Na realidade, devem considerar-se como profecias ex eventu, isto é, apresentação de acontecimentos já passados em discurso de tipo profético. Este género literário, que aprecia a pseudepigrafia, isto é, colocar discursos importantes na boca de grandes personagens do passado, floresceu particularmente no período helenístico e nos primeiros séculos da era cristã (séc. III a.C. - III d.C.), mas tem as suas raízes na literatura profética da época do exílio (séc. VI a.C.) e retoma um imaginário mítico que parece ser herdeiro do fundo cananaico e oriental da literatura sapiencial bíblica.",
+          "A história de Susana (c. 13) é, do ponto de vista do género, mais próxima dos contos de corte (cc. 1-6) que das visões apocalípticas (cc. 7-12). Trata-se de uma narrativa ficcional que ilustra a extraordinária sabedoria de Daniel e o transforma no herói de uma história de flagrante injustiça contra uma mulher inocente. A narrativa de Bel e o Dragão ilustra o desenvolvimento de um género literário que combina a ironia contra os ídolos e a afirmação da autoridade e providência divinas."
+        ]
+      },
+      {
+        "title": "Perspetiva teológica",
+        "paragraphs": [
+          "O leitor do livro de Daniel vê-se confrontado, desde as primeiras linhas, com a experiência do exílio e as exigências de viver numa terra estrangeira para os membros do povo de Israel que querem permanecer fiéis a Deus e à sua Lei. Daniel e os três jovens são exemplo de piedade; mas o livro quer, sobretudo, assegurar ao leitor que Deus não abandona o seu povo na adversidade. A sua autoridade estende-se a toda a terra e os que Ele escolheu podem estar certos de que a sua vida e destino estão nas mãos de Deus.",
+          "Esta convicção espelha-se, nas visões de Daniel, na afirmação da providência divina sobre o conjunto da História humana, mostrando que a sucessão dos impérios é, afinal, obra tão divina quanto humana. Nesse sentido, o livro de Daniel oferece razões de esperança a todos aqueles que se veem confrontados com o mal e as suas devastadoras consequências: Deus continua presente e ativo na História e terá a palavra definitiva. Não é difícil imaginar o eco que",
+          "tal mensagem encontrou entre os judeus que sofreram perseguição, no reinado de Antíoco IV Epifânio, nos anos 60 do século II a.C.",
+          "Finalmente, é importante destacar o papel do livro de Daniel na compreensão do mistério de Cristo. Para os cristãos, a misteriosa referência a um “filho de homem” que vem “sobre as nuvens do céu” (7,13) ilumina o Messias Jesus (Mt 26,64; Mc 14,53-65; etc.), cujo sofrimento e morte também estão prefigurados no destino do “ungido” de que se fala em 9,26. As visões a respeito do sentido da História e da ressurreição gloriosa que espera os justos (12,2-3) ajudaram aqueles mesmos cristãos a reconhecer e articular a dimensão e o impacto histórico e cósmico do acontecimento cristológico; o Apocalipse de João é disso eloquente exemplo. Inspirada pelo teor messiânico e cristológico das visões, a Igreja, seguindo a Bíblia judaica de Alexandria, isto é, a tradução dos Setenta, acolheu a classificação de Daniel, não na secção dos Escritos, como aparece no cânone hebraico, mas na dos Profetas, formando, com Isaías, Jeremias e Ezequiel, o núcleo dos Profetas Maiores."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,12 +57,40 @@
         {
           "verse": 1,
           "text": "No terceiro ano do reinado de Joaquim, rei de Judá, Nabucodonosor, rei da Babilónia, chegou a Jerusalém e montou cerco contra ela.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A referência a um ataque de Nabucodonosor contra Jerusalém no terceiro ano do rei Joaquim (607 a.C.) parece não ser histórico. Nabucodonosor só subiu ao trono da Babilónia em 605 a.C. e as crónicas babilónicas não referem nenhum cerco de Jerusalém antes de 598/7 a.C. Trata-se, provavelmente, de uma elaboração literária, baseada em 2Rs 24,1 e 2Cr 36,5-7."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "dn-1-n2",
+              "offset": 129,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "O Senhor entregou Joaquim, rei de Judá, nas suas mãos, juntamente com uma parte dos utensílios da casa de Deus. E Nabucodonosor levou-os para a terra de Chinear, para o templo dos seus deuses, e depositou os utensílios na casa do tesouro dos seus deuses. (2Rs 20,12-20/Is 39,1-8)",
-          "note_refs": []
+          "text": "O Senhor entregou Joaquim, rei de Judá, nas suas mãos, juntamente com uma parte dos utensílios da casa de Deus. E Nabucodonosor levou-os para a terra de Chinear, para o templo dos seus deuses, e depositou os utensílios na casa do tesouro dos seus deuses.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Chinear é uma designação tradicional da Babilónia (cf. Gn 11; Is 11,11; Zc 5,11)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "dn-1-n3",
+              "offset": 160,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 3,
@@ -22,7 +100,21 @@
         {
           "verse": 4,
           "text": "jovens que não tivessem qualquer defeito, que fossem de boa aparência, instruídos em toda a sabedoria, conhecimento e inteligência, e que tivessem capacidade para servir no palácio real. Ordenou ainda que lhes fossem ensinadas a escrita e a língua dos caldeus.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Trata-se do aramaico, última língua semítica falada na antiga Babilónia."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "dn-1-n4",
+              "offset": 259,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 5,
@@ -37,12 +129,40 @@
         {
           "verse": 7,
           "text": "O chefe dos cortesãos pôs-lhes outros nomes: a Daniel, o de Beltechaçar, a Ananias, o de Chadrac, a Michael, o de Mechac, e a Azarias, o de Abed-Nego.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A mudança de nome reflete a plena integração de Daniel e dos seus companheiros na corte dos reis da Babilónia, à semelhança do que sucedeu a José (Gn 41,45). Beltechaçar provém do babilónio balaṭ-su-uṣur ou balaṭ-šar-uṣur e significa “que ele [o deus] proteja a sua vida” ou “que ele proteja a vida do príncipe”. O texto hebraico vocaliza o nome de forma diferente (Belteshaçar), talvez para introduzir o nome do deus Bel (cf. Dn 14,1-22) e justificar a alusão feita em Dn 4,5. Não há consenso em relação à etimologia e significado dos nomes Chadrac e Mechac. Abed-Nego parece ser a distorção de abed-nabû, isto é, “servo do deus Nebo”, que era a principal divindade no tempo de Nabucodonosor."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "dn-1-n5",
+              "offset": 149,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Daniel tomou a peito a decisão de não se tornar impuro com o alimento do rei e o vinho que ele consumia e pediu ao chefe dos cortesãos que lhe permitis - A se não se tornar impuro.",
-          "note_refs": []
+          "text": "Daniel tomou a peito a decisão de não se tornar impuro com o alimento do rei e o vinho que ele consumia e pediu ao chefe dos cortesãos que lhe permitisse não se tornar impuro.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "As preocupações alimentares de Daniel e seus companheiros refletem o desenvolvimento de uma tendência para evitar toda a espécie de alimentos consumidos ou oferecidos por não-judeus (cf. Est 4,17x; Tb 1,10-12; Jdt 12,1-4). Tal cuidado baseia-se nas leis da pureza ritual do Pentateuco, mas parece ir além do prescrito, de modo a resistir à tentação da completa assimilação. Não se trata de jejum nem de práticas ascéticas."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "dn-1-n6",
+              "offset": 174,
+              "original_marker": "a",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 9,
@@ -81,7 +201,7 @@
         },
         {
           "verse": 16,
-          "text": "O supervisor retirou as suas iguarias e o vinho que deviam beber, continuando a servir - -lhes apenas legumes.",
+          "text": "O supervisor retirou as suas iguarias e o vinho que deviam beber, continuando a servir- -lhes apenas legumes.",
           "note_refs": []
         },
         {
@@ -101,12 +221,57 @@
         },
         {
           "verse": 20,
-          "text": "Em qualquer questão de sabedoria e inteligência sobre a qual o rei os interrogasse, achava - -os dez vezes superiores a todos os magos e adivinhos de todo o seu reino.",
+          "text": "Em qualquer questão de sabedoria e inteligência sobre a qual o rei os interrogasse, achava- -os dez vezes superiores a todos os magos e adivinhos de todo o seu reino.",
           "note_refs": []
         },
         {
           "verse": 21,
           "text": "E assim se manteve Daniel até ao primeiro ano do rei Ciro.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "A referência ao primeiro ano do rei Ciro transforma Daniel no homem do exílio por excelência: chega à Babilónia com a primeira leva de exilados e a sua vida e atividades prolongam-se até ao limite simbólico do exílio, o primeiro ano de Ciro, quando o rei persa autorizou o regresso a Jerusalém e a reconstrução do templo (cf. 2Cr 36,22-23; Esd 1,1-4). O facto de se fazer referência, em Dn 10,1, à visão que Daniel teve no terceiro ano de Ciro mostra que o quadro temporal traçado neste primeiro capítulo é simbólico."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "dn-1-n7",
+              "offset": 57,
+              "original_marker": "b",
+              "source_id": 7
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "DANIEL E OS COMPANHEIROS NA CORTE (1,1-6,29)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A primeira parte do livro de Daniel (1,1-6,29) contém o relato da vida de um grupo de exilados judeus na corte da Babilónia: Daniel e os companheiros são levados de Jerusalém para o exílio por Nabucodonosor (605-562 a.C.), permanecendo fiéis ao Deus de Israel. Acabaram por se destacar entre os cortesãos e alcançar as posições de maior prestígio e autoridade. As histórias aqui relatadas são ficcionais e podem ser qualificadas como contos ou lendas cortesãs, um género literário que também serve para caracterizar a história de José (Gn 37-50) ou o livro de Ester."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "dn-1-n1",
+              "offset": 33,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
+        },
+        {
+          "before_verse": 1,
+          "text": "Contexto histórico",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "Educação para o serviço do rei (2Rs 20,12-20/Is 39,1-8)",
           "note_refs": []
         }
       ]
@@ -117,12 +282,40 @@
         {
           "verse": 1,
           "text": "No segundo ano do seu reinado, Nabucodonosor teve um sonho e o seu espírito ficou agitado e o seu sono deixou-o.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.: sonhos. O uso do plural é idiomático, como se vê no uso do plural: visões (4,2; 7,1)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "dn-2-n1",
+              "offset": 58,
+              "original_marker": "c",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "O rei mandou chamar os magos, os adivinhos, os feiticeiros e os caldeus para esclarecerem o rei quanto ao sonho. Eles vieram e apresentaram-se diante do rei.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O termo caldeus, que coincide com o nome do grupo aramaico que detém o poder, é usado aqui e noutras passagens (2,4.5.10; 1,4; 3,8.48; 5,7.11.30; 9,1) para designar o grupo de sábios que presta serviço junto do rei da Babilónia."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "dn-2-n2",
+              "offset": 111,
+              "original_marker": "d",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 3,
@@ -132,16 +325,30 @@
         {
           "verse": 4,
           "text": "Os caldeus responderam ao rei em aramaico: “Que o rei viva para sempre! Conta aos teus servos o sonho e dar-te-emos a conhecer a sua interpretação”.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A partir daqui e até 7,28, o texto está escrito em aramaico."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "dn-2-n3",
+              "offset": 41,
+              "original_marker": "e",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 5,
-          "text": "O rei respondeu aos caldeus e disse: “Da minha parte a decisão é que, se não me expuserdes o conteúdo do sonho assim como a sua interpretação, sereis corta - dos em pedaços e as vossas casas, reduzidas a um monte de entulho.",
+          "text": "O rei respondeu aos caldeus e disse: “Da minha parte a decisão é que, se não me expuserdes o conteúdo do sonho assim como a sua interpretação, sereis cortados em pedaços e as vossas casas, reduzidas a um monte de entulho.",
           "note_refs": []
         },
         {
           "verse": 6,
-          "text": "Mas, se me revelardes o sonho e a sua interpretação, recebereis da minha parte presen - tes e mercês e grande honra. Por isso, dizei-me o sonho e a sua interpretação.”",
+          "text": "Mas, se me revelardes o sonho e a sua interpretação, recebereis da minha parte presentes e mercês e grande honra. Por isso, dizei-me o sonho e a sua interpretação.”",
           "note_refs": []
         },
         {
@@ -171,7 +378,7 @@
         },
         {
           "verse": 12,
-          "text": "Diante disto, o rei enfureceu-se violentamente e, cheio de cólera, mandou exterminar todos os sábios da Babilónia. (Ne 1,4-11; Est 4,17 )",
+          "text": "Diante disto, o rei enfureceu-se violentamente e, cheio de cólera, mandou exterminar todos os sábios da Babilónia.",
           "note_refs": []
         },
         {
@@ -212,7 +419,21 @@
         {
           "verse": 20,
           "text": "e, tomando a palavra, disse: “Bendito seja o nome de Deus, desde sempre e para sempre, porque a Ele pertencem a sabedoria e o poder.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Esta oração é o primeiro dos quatro interlúdios poéticos de louvor que estruturam os primeiros seis capítulos do livro de Daniel (3,98-100; 4,31-34; 6,26-28). O género literário é de um salmo de ação de graças."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "dn-2-n4",
+              "offset": 27,
+              "original_marker": "a",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 21,
@@ -226,7 +447,7 @@
         },
         {
           "verse": 23,
-          "text": "A ti, ó Deus dos meus pais, eu dou graças e louvor, porque me concedeste a sabedoria e a força e me deste a conhecer agora o que te pedimos e nos deste a conhecer o assunto do rei.” (4,16-24; 5,10-30; 7; 8; 11-12; Gn 41,9-36)",
+          "text": "A ti, ó Deus dos meus pais, eu dou graças e louvor, porque me concedeste a sabedoria e a força e me deste a conhecer agora o que te pedimos e nos deste a conhecer o assunto do rei.”",
           "note_refs": []
         },
         {
@@ -252,7 +473,21 @@
         {
           "verse": 28,
           "text": "Porém, há um Deus nos céus que desvenda os mistérios e Ele deu a conhecer ao rei Nabucodonosor o que vai acontecer no futuro dos dias. Eis, pois, o teu sonho e as visões da tua mente, quando estavas no teu leito.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A expressão o futuro dos dias refere-se aqui e em 10,14 ao que sucederá num determinado futuro e que terá algum sentido de fim, sem ser propriamente o fim do mundo e da história (cf. Nm 24,14; Gn 49,1; Dt 4,30; 31,29; Is 2,2/Mq 4,1; Os 3,5; Ez 38,16)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "dn-2-n5",
+              "offset": 133,
+              "original_marker": "b",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 29,
@@ -277,7 +512,21 @@
         {
           "verse": 33,
           "text": "as pernas, de ferro; e os pés eram em parte de ferro e em parte de barro.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "É possível encontrar, no Antigo Oriente, outros relatos de sonhos ou visões de estátuas de proporções gigantescas. Por exemplo, o sonho do faraó Merneptá no século XIII a.C., em que o rei viu uma enorme estátua do deus Ptá. Há também paralelos para a representação das idades da História com recurso a uma sequência de metais de valor decrescente. A mais conhecida encontra-se na obra do grego Hesíodo. Contudo, o paralelo mais significativo vem do mundo persa. Na obra Bahman Yasht, a História é dividida em quatro grandes períodos e simbolizada por uma árvore com ramos de ouro, prata, aço e ferro misturado com outros materiais."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "dn-2-n6",
+              "offset": 72,
+              "original_marker": "c",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 34,
@@ -287,12 +536,40 @@
         {
           "verse": 35,
           "text": "E num instante ficaram feitos em pedaços o ferro, o barro, o bronze, a prata e o ouro, e tornaram-se como a palha das eiras no verão. Foram levados pelo vento e não ficou vestígio algum. E a pedra que tinha embatido contra a estátua transformou-se numa alta montanha e encheu toda a terra.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Os Padres da Igreja e a tradição cristã reconhecem neste passo uma referência a Cristo, cujo nascimento virginal estaria anunciado na referência à pedra que se desprende sem intervenção de mão humana. No Novo Testamento, a imagem da pedra é usada para descrever Cristo e o reino que ele inaugura. Ele é a pedra rejeitada pelos construtores que veio a tornar-se pedra angular, sem referir explicitamente esta passagem de Daniel (cf. Mt 21,42-44; Lc 20,17-18; Sl 118,22; Is 28,16). Sobre a imagem da alta montanha, cf. Is 2,2/Mq 4,1."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "dn-2-n7",
+              "offset": 288,
+              "original_marker": "d",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 36,
           "text": "Foi este o sonho e dele exporemos agora diante do rei a interpretação.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "A interpretação do sonho descreve o curso da História entre o tempo da narrativa, na época do exílio da Babilónia, e o do autor, na época helenística. Os quatro reinos são os sucessivos impérios dos Babilónios, Medos, Persas e Gregos (cf. 6,25 nota). O quarto reino é o de Alexandre Magno. A mistura de ferro com barro mole é uma alusão à política de alianças por meio de casamentos entre os sucessores de Alexandre – os Selêucidas (Ásia) e os Ptolomeus (Egito). Tais alianças serão frágeis e, segundo o texto, não conseguirão evitar o fim do domínio grego."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "dn-2-n8",
+              "offset": 69,
+              "original_marker": "e",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 37,
@@ -326,8 +603,22 @@
         },
         {
           "verse": 43,
-          "text": "Quanto a teres visto o ferro misturado com o barro mole, tal significa que eles se misturarão por É XIII A contratos de casamento, mas a ligação entre eles não será sólida, da mesma forma que o ferro não se mistura com o barro.",
-          "note_refs": []
+          "text": "Quanto a teres visto o ferro misturado com o barro mole, tal significa que eles se misturarão por contratos de casamento, mas a ligação entre eles não será sólida, da mesma forma que o ferro não se mistura com o barro.",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: por via de descendência humana. Alude-se a casamentos feitos para selar alianças e negócios entre reinos."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "dn-2-n9",
+              "offset": 120,
+              "original_marker": "a",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 44,
@@ -336,13 +627,27 @@
         },
         {
           "verse": 45,
-          "text": "tal como viste na pedra que se desprendeu da montanha, sem intervenção de mão algu - ma, e reduziu a pedaços o ferro, o bronze, o barro, a prata e o ouro. O grande Deus deu a conhecer ao rei o que acontecerá no futuro: o sonho é verdadeiro e a sua interpretação, digna de confiança.” (3,95; 6,26-29; 14,41; Gn 41,37-46; 2Mac 9,17)",
+          "text": "tal como viste na pedra que se desprendeu da montanha, sem intervenção de mão alguma, e reduziu a pedaços o ferro, o bronze, o barro, a prata e o ouro. O grande Deus deu a conhecer ao rei o que acontecerá no futuro: o sonho é verdadeiro e a sua interpretação, digna de confiança.” 2Mac 9,17)",
           "note_refs": []
         },
         {
           "verse": 46,
           "text": "Então o rei Nabucodonosor caiu de rosto por terra, prostrou-se diante de Daniel e mandou que lhe oferecessem oblações e incenso.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "A reação do rei e o facto de Daniel não rejeitar a adoração, as oblações e o incenso que lhe são oferecidos (cf. At 14,8-18; Ap 22,8-9) escandalizaram alguns leitores e comentadores judeus e cristãos. Porém, o autor está mais interessado no valor simbólico deste gesto exagerado que em quaisquer outras implicações teológicas."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "dn-2-n10",
+              "offset": 127,
+              "original_marker": "b",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 47,
@@ -359,6 +664,28 @@
           "text": "Então Daniel pediu ao rei e este nomeou Chadrac, Mechac e Abed-Nego para o governo da província da Babilónia, enquanto Daniel ficou na corte do rei.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "O sonho de Nabucodonosor e os sábios da Babilónia (4,1-4; 5,7-9;",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "Daniel confia na misericórdia de Deus (Ne 1,4-11; Est 4,17k-z)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 24,
+          "text": "Daniel interpreta o sonho do rei (4,16-24; 5,10-30; 7; 8; 11-12; Gn 41,9-36)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 46,
+          "text": "Profissão de fé do rei Nabucodonosor (3,95; 6,26-29; 14,41; Gn 41,37-46;",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -367,12 +694,40 @@
         {
           "verse": 1,
           "text": "O rei Nabucodonosor fez uma estátua de ouro com sessenta côvados de altura e seis de largura e ergueu-a na planície de Dura, na província da Babilónia.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Há muitos relatos de construção de estátuas de proporções gigantescas no mundo antigo, como, por exemplo, a estátua em ouro de Zeus que foi colocada no templo de Bel na Babilónia. O episódio relatado em Daniel 3 talvez tenha sido inspirado pelos acontecimentos no tempo de Nabónido, um sucessor de Nabucodonosor e o último rei do império babilónio: o rei fez uma estátua do deus Sin e ordenou que fosse venerada; a decisão parece ter gerado oposição e o rei terá recorrido a alguma forma de coação, ainda que menos radical que a descrita em Dn 3."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "dn-3-n1",
+              "offset": 150,
+              "original_marker": "c",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "E então o rei mandou chamar os sátrapas, prefeitos, governadores, conselheiros, tesoureiros, juízes, oficiais e demais autoridades da província, a fim de comparecerem na inauguração da estátua que o rei Nabucodonosor havia erguido.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A palavra inauguração é usada em hebraico para a dedicação ou purificação (Hanukkah) do templo de Jerusalém, acontecimento da época helenística que é contemporâneo do autor e deu origem a uma festa judaica que ainda hoje existe."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "dn-3-n2",
+              "offset": 181,
+              "original_marker": "d",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 3,
@@ -392,11 +747,25 @@
         {
           "verse": 6,
           "text": "Quem não se prostrar e não adorar a estátua será nessa mesma hora lançado na fornalha ardente”.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Sobre o castigo da fornalha ardente, cf. Jr 29,21-22."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "dn-3-n3",
+              "offset": 94,
+              "original_marker": "e",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "Por isso, no momento em que todos os povos ouviram o som da trombeta, da flauta, da cítara, da harpa, do saltério e de todos os demais instrumentos musicais, todos os povos, nações e gentes de todas as línguas se prostraram por terra, adorando a estátua de ouro que o rei Nabucodonosor havia erguido. (6; Est 4-5; 2Mac 6-7)",
+          "text": "Por isso, no momento em que todos os povos ouviram o som da trombeta, da flauta, da cítara, da harpa, do saltério e de todos os demais instrumentos musicais, todos os povos, nações e gentes de todas as línguas se prostraram por terra, adorando a estátua de ouro que o rei Nabucodonosor havia erguido.",
           "note_refs": []
         },
         {
@@ -437,7 +806,21 @@
         {
           "verse": 15,
           "text": "Pois bem, será que, quando ouvirdes o som da trombeta, da flauta, da cítara, da harpa, do saltério, do tamborim e de todos os demais instrumentos musicais, estais prontos a prostrar-vos por terra e adorar a estátua que eu fiz? Se não a adorardes, sereis imediatamente lançados na fornalha ardente. E qual é o deus que vos livrará das minhas mãos”?",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A pergunta provocadora do rei Nabucodonosor lembra a arrogância de Senaquerib, rei da Assíria, e dos seus emissários durante o cerco de Jerusalém no tempo de Ezequias (cf. 2Rs 18,33- 35/Is 36,19-20; 2Rs 19,12-13/Is 37,11-12). Que Nabucodonosor apareça agora a contestar a soberania e o poder divinos, depois de, em Dn 2,47, os ter proclamado abertamente, parece sugerir que as histórias relatadas nos cc. 2 e 3 terão circulado de forma independente, antes de terem sido postas lado a lado num só livro."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "dn-3-n4",
+              "offset": 346,
+              "original_marker": "f",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 16,
@@ -476,7 +859,7 @@
         },
         {
           "verse": 23,
-          "text": "e os três jovens, Chadrac, Mechac e Abed-Nego, caíram amarrados no meio da fornalha de fogo ardente. (9,3-19; Esd 9,5-15; Ne 1,4-11; 9,5-37; Est 4,17; Br 1,15-3,8)",
+          "text": "e os três jovens, Chadrac, Mechac e Abed-Nego, caíram amarrados no meio da fornalha de fogo ardente. 1,15-3,8)",
           "note_refs": []
         },
         {
@@ -586,8 +969,22 @@
         },
         {
           "verse": 45,
-          "text": "Que eles reconheçam que Tu és o Senhor, o único Deus, glorioso sobre a terra inteira.” (6,23; 14, 33-39; 2Rs 19,35/Is 37,36; 2Mac 10,29-30; Mt 28,2)",
-          "note_refs": []
+          "text": "Que eles reconheçam que Tu és o Senhor, o único Deus, glorioso sobre a terra inteira.” 10,29-30; Mt 28,2)",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: terra habitada (oikoumene)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "dn-3-n6",
+              "offset": 84,
+              "original_marker": "a",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 46,
@@ -601,7 +998,7 @@
         },
         {
           "verse": 48,
-          "text": "espa - lharam-se e queimaram os caldeus que se encontravam em redor da fornalha.",
+          "text": "espalharam-se e queimaram os caldeus que se encontravam em redor da fornalha.",
           "note_refs": []
         },
         {
@@ -611,7 +1008,7 @@
         },
         {
           "verse": 50,
-          "text": "Fez com que no meio da fornalha como que soprasse uma brisa matinal e refrescante, de tal forma que o fogo não lhes tocou de todo, nem lhes causou qualquer mal ou incómodo. (Sl 136; 148; Tb 8,5)",
+          "text": "Fez com que no meio da fornalha como que soprasse uma brisa matinal e refrescante, de tal forma que o fogo não lhes tocou de todo, nem lhes causou qualquer mal ou incómodo.",
           "note_refs": []
         },
         {
@@ -811,58 +1208,86 @@
         },
         {
           "verse": 90,
-          "text": "Todos os que adorais o Senhor, bendizei o Deus dos deuses, louvai-o e dai-lhe graças, porque é eterna a sua misericórdia. (2,46-49; 6,24-28; 14,40-42; Gn 41,37-57; 2Mac 9,17)",
+          "text": "Todos os que adorais o Senhor, bendizei o Deus dos deuses, louvai-o e dai-lhe graças, porque é eterna a sua misericórdia. 2Mac 9,17) 91(24)Então o rei Nabucodonosor, surpreendido, levantou-se a toda a pressa e, tomando a palavra, disse aos seus conselheiros: “Não foram três os homens que amarrámos e lançámos para o meio do fogo?” Eles responderam: “Certamente, ó rei”. 92(25)“Como é então – replicou o rei – que eu vejo quatro homens a caminhar livremente no meio da fornalha, sem nada sofrerem? E o quarto tem o aspeto de um filho de deus”! 93(26)Nabucodonosor aproximou-se então da abertura da fornalha ardente e falou do seguinte modo: “Chadrac, Mechac e Abed-Nego, servos do Deus Altíssimo, saí daí e vinde!”. Então Chadrac, Mechac e Abed-Nego saíram do meio do fogo. 94(27)Os sátrapas, prefeitos, governadores e conselheiros do rei juntaram-se e viram que o fogo não tinha tido poder sobre o corpo daqueles homens, que nem os cabelos da sua cabeça ficaram chamuscados, nem os seus mantos danificados e que nem sequer o cheiro do fogo se sentia pegado a eles. 95(28)Nabucodonosor tomou então a palavra e exclamou: “Bendito seja o Deus de Chadrac, Mechac e Abed-Nego, que enviou o seu anjo para libertar os seus servos, que nele confiaram! Eles desafiaram as ordens do rei e entregaram ao fogo os seus corpos, para não prestarem culto ou adoração a nenhum outro deus, a não ser o seu Deus. 96(29)Portanto, fica decretado da minha parte para qualquer povo, nação ou língua, que todo aquele que blasfemar contra o Deus de Chadrac, Mechac e Abed-Nego será feito em pedaços e a sua casa reduzida a um monte de detritos. Pois não há outro Deus que seja capaz de libertar deste modo”. 97(30)Nesta ocasião, o rei elevou ainda mais a posição de Chadrac, Mechac e Abed-Nego na província da Babilónia. 98(31)“O rei Nabucodonosor a todos os povos, nações e gentes de todas as línguas, que habitam em toda a terra: Que o vosso bem-estar seja abundante! 99(32)Apraz-me dar-vos a conhecer os sinais e prodígios que o Deus Altíssimo realizou em meu favor. 100(33)Como são grandes os seus sinais e formidáveis os seus prodígios! O seu reino é um reino eterno e o seu domínio estende-se de geração em geração!",
+          "note_refs": [
+            "8",
+            "9"
+          ],
+          "notes": {
+            "8": "Ou.: de um filho dos deuses. Este filho de deus parece corresponder, no texto grego de 3,49- 50.95, a um anjo. A tradição cristã reconheceu na figura do anjo uma prefiguração de Cristo como Filho de Deus.",
+            "9": "O título Deus Altíssimo ( em hebraico: El-Elion), é frequente nos Salmos (cf. Sl 7,18; 9,3; 18,14; 21,8; 46,5; etc.) e aparece também na boca de não judeus como confissão de fé no Deus de Israel (cf. Gn 14,18; 19.20-22; Nm 24,16; Is 14,14). O autor do livro de Daniel transforma o rei Nabucodonosor numa espécie de gentio piedoso, capaz de reconhecer o Deus de Israel como o Deus supremo e todo-poderoso."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "dn-3-n8",
+              "offset": 542,
+              "original_marker": "a",
+              "source_id": 25
+            },
+            {
+              "ref": "9",
+              "id": "dn-3-n9",
+              "offset": 695,
+              "original_marker": "b",
+              "source_id": 26
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A estátua de ouro",
           "note_refs": []
         },
         {
-          "verse": 91,
-          "text": "Então o rei Nabucodonosor, surpreendido, levantou-se a toda a pressa e, tomando a palavra, disse aos seus conselheiros: “Não foram três os homens que amarrámos e lançámos para o meio do fogo?” Eles responderam: “Certamente, ó rei”.",
+          "before_verse": 8,
+          "text": "Condenação dos companheiros de Daniel (6; Est 4-5; 2Mac 6-7)",
           "note_refs": []
         },
         {
-          "verse": 92,
-          "text": "“Como é então replicou o rei que eu vejo quatro homens a caminhar livremente no meio da fornalha, sem nada sofrerem? E o quarto tem o aspeto de um filho de deus”!",
+          "before_verse": 24,
+          "text": "Cântico de Azarias (9,3-19; Esd 9,5-15; Ne 1,4-11; 9,5-37; Est 4,17k-z; Br",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Os vv. 24 a 90 (cânticos de Azarias e dos três jovens) foram inseridos neste ponto nas versões gregas do texto do livro de Daniel. A tradução segue a versão grega dita de Teodocião (cf. Introdução). O cântico de Azarias pode ser caracterizado como uma “confissão comunitária do pecado” (cf. 9,3-19; Esd 9,5-15; Ne 1,4-11; 9,5-37; Est 4,17k-z; Sl 78; 106; Br 1,15-3,8). Neste caso, o pedido de perdão aparece transformado num pedido de ajuda muito concreto: que Deus salve da fornalha ardente estes seus fiéis."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "dn-3-n5",
+              "offset": 18,
+              "original_marker": "a",
+              "source_id": 22
+            }
+          ]
+        },
+        {
+          "before_verse": 46,
+          "text": "Intervenção do anjo do Senhor (6,23; 14, 33-39; 2Rs 19,35/Is 37,36; 2Mac",
           "note_refs": []
         },
         {
-          "verse": 93,
-          "text": "Nabucodonosor aproximou-se então da abertura da fornalha ardente e falou do seguinte modo: “Chadrac, Mechac e Abed-Nego, servos do Deus Altíssimo, saí daí e vinde!”. Então Chadrac, Mechac e Abed-Nego saíram do meio do fogo.",
-          "note_refs": []
-        },
-        {
-          "verse": 94,
-          "text": "Os sátrapas, prefeitos, governadores e conselheiros do rei juntaram-se e viram que o fogo não tinha tido poder sobre o corpo daqueles homens, que nem os cabelos da sua cabeça ficaram chamuscados, nem os seus mantos danificados e que nem sequer o cheiro do fogo se sentia pegado a eles.",
-          "note_refs": []
-        },
-        {
-          "verse": 95,
-          "text": "Nabucodonosor tomou então a palavra e exclamou: “Bendito seja o Deus de Chadrac, Mechac e Abed-Nego, que enviou o seu anjo para libertar os seus servos, que nele confiaram! Eles desafiaram as ordens do rei e entregaram ao fogo os seus corpos, para não prestarem culto ou adoração a nenhum outro deus, a não ser o seu Deus.",
-          "note_refs": []
-        },
-        {
-          "verse": 96,
-          "text": "Portanto, fica decretado da minha parte para qualquer povo, nação ou língua, que todo aquele que blasfemar contra o Deus de Chadrac, Mechac e Abed-Nego será feito em pedaços e a sua casa reduzida a um monte de detritos. Pois não há outro Deus que seja capaz de libertar deste modo”.",
-          "note_refs": []
-        },
-        {
-          "verse": 97,
-          "text": "Nesta ocasião, o rei elevou ainda mais a posição de Chadrac, Mechac e Abed-Nego na província da Babilónia. (4,31-34; 6,26-28; Sl 148,13)",
-          "note_refs": []
-        },
-        {
-          "verse": 98,
-          "text": "“O rei Nabucodonosor a todos os povos, nações e gentes de todas as línguas, que habitam em toda a terra: Que o vosso bem-estar seja abundante!",
-          "note_refs": []
-        },
-        {
-          "verse": 99,
-          "text": "Apraz-me dar-vos a conhecer os sinais e prodígios que o Deus Altíssimo realizou em meu favor.",
-          "note_refs": []
-        },
-        {
-          "verse": 100,
-          "text": "Como são grandes os seus sinais e formidáveis os seus prodígios! O seu reino é um reino eterno e o seu domínio estende-se de geração em geração!",
-          "note_refs": []
+          "before_verse": 51,
+          "text": "Cântico dos três jovens (Sl 136; 148; Tb 8,5)",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Do ponto de vista do género literário, o cântico dos três jovens pode ser caracterizado como um hino de louvor, semelhante, na estrutura e nos temas, aos Sl 136; 148. Tb 8,5 parece resumir ou mesmo aludir a este tipo de hinos e em particular a este de Dn 3,52ss."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "dn-3-n7",
+              "offset": 23,
+              "original_marker": "b",
+              "source_id": 24
+            }
+          ]
         }
       ]
     },
@@ -877,7 +1302,21 @@
         {
           "verse": 2,
           "text": "Tive um sonho que me aterrorizou; os pensamentos que tive sobre o meu leito e as visões da minha mente deixaram-me perturbado.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: vi um sonho. Isto significa que os conceitos de sonho e de visão se equivalem, partilhando as mesmas expressões."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "dn-4-n2",
+              "offset": 13,
+              "original_marker": "a",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 3,
@@ -887,7 +1326,21 @@
         {
           "verse": 4,
           "text": "Vieram então à minha presença os magos, os adivinhos, os caldeus e os astrólogos e relatei-lhes o sonho, mas eles não me deram a conhecer a sua interpretação.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Tal como em Dn 2, os sábios da Babilónia mostram-se incapazes de interpretar o sonho do rei. Mas em Dn 4 o rei relata o sonho tanto aos sábios como a Daniel e só lhes pede que o interpretem. Daniel vai-se mostrar novamente o único capaz de esclarecer Nabucodonosor."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "dn-4-n3",
+              "offset": 157,
+              "original_marker": "b",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 5,
@@ -912,12 +1365,40 @@
         {
           "verse": 9,
           "text": "A sua folhagem era bela e o seu fruto, abundante; nela havia alimento para todos. Debaixo dela abrigavam-se os animais do campo e nos seus ramos moravam as aves do céu. E dela se alimentavam todas as criaturas.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O sonho do rei começa por descrever uma árvore de proporções gigantescas, que oferece alimento e abrigo a todos os animais da terra. No mundo antigo, era comum usar este motivo de uma árvore cósmica para descrever o rei e a prosperidade e proteção que os seus súbditos esperavam dele (cf. Jz 9,8-15; Ez 17; Lc 13,18-19). A destruição ou queda da árvore era símbolo da queda do rei e da casa real. Cf. Ez 31, onde o faraó do Egito é comparado a um cedro do Líbano que será abatido e espezinhado."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "dn-4-n4",
+              "offset": 209,
+              "original_marker": "c",
+              "source_id": 30
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Estando eu a contemplar as visões da minha mente sobre o meu leito, eis que vi um vigilante, um santo, a descer dos céus.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O vigilante, identificado como santo, é um termo usado em Daniel e na literatura judaica intertestamentária (livro de Henoc, livro dos Jubileus e textos de Qumran, etc.), para designar os anjos na sua função de sentinelas divinas (cf. Zc 4,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "dn-4-n5",
+              "offset": 101,
+              "original_marker": "d",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 11,
@@ -932,16 +1413,44 @@
         {
           "verse": 13,
           "text": "E que o seu coração de humano seja mudado e lhe seja dado um coração de animal. E sete tempos passem sobre ele.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Nos vv. 12-13, a alegoria da árvore começa a dar lugar a uma referência mais explícita ao destino do rei da Babilónia: é ele que tomará parte com os animais do campo e verá o seu coração humano mudado em coração de animal. A ordem para deixar um cepo com raízes serve para sugerir que a queda do rei Nabucodonosor não será final (cf. Is 6,13; 11,1; Jb 14,7)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "dn-4-n6",
+              "offset": 110,
+              "original_marker": "e",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Esta é a sentença decretada pelos vigilantes, a decisão pronunciada pelos santos, a fim de que toda a criatura saiba que o Altíssimo tem poder sobre a realeza dos homens; e que Ele a dá a quem lhe apraz e pode erguer a essa realeza mesmo o mais humilde dos homens”.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Os vigilantes ou os santos, entendidos como anjos, têm assento no conselho divino (cf. Gn 1,26; Sl 82,1; Jb 1,6; 2,1; 1Rs 22,18-23; Is 6) e, por isso, participam das decisões do Deus Altíssimo (cf. 4,21)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "dn-4-n7",
+              "offset": 80,
+              "original_marker": "f",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "Foi este o sonho que eu, o rei Nabucodonosor, tive. Agora tu, Beltechaçar, diz-me a interpretação, pois todos os sábios do meu reino não conseguem dar- -me a conhecer a interpretação, mas tu és capaz, porque o espírito dos deuses santos está em ti.’ (2,29-45; 5,17-29; Gn 41,25-36)",
+          "text": "Foi este o sonho que eu, o rei Nabucodonosor, tive. Agora tu, Beltechaçar, diz-me a interpretação, pois todos os sábios do meu reino não conseguem dar- -me a conhecer a interpretação, mas tu és capaz, porque o espírito dos deuses santos está em ti.’",
           "note_refs": []
         },
         {
@@ -986,8 +1495,22 @@
         },
         {
           "verse": 24,
-          "text": "Por isso, ó rei, que o meu conselho te pareça bem. Resgata os teus pecados com obras de justiça e as tuas iniquidades sendo generoso para com os pobres. Talvez assim se prolongue a tua prosperidade’. (5,30; Gn 41,47-57)",
-          "note_refs": []
+          "text": "Por isso, ó rei, que o meu conselho te pareça bem. Resgata os teus pecados com obras de justiça e as tuas iniquidades sendo generoso para com os pobres. Talvez assim se prolongue a tua prosperidade’.",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Esta passagem motivou discussões entre católicos e protestantes; ela mostra como se desenvolveu, no judaísmo da época do segundo templo, a ideia de que os pecados são dívidas. Uma das petições do Pai-Nosso diz literalmente: “perdoa-nos a nossas dívidas assim como nós perdoamos aos nossos devedores” (Mt 6,12; Lc 11,4). Por outro lado, a generosidade para com os pobres é uma forma privilegiada de “redimir essas dívidas” (cf. Pr 10,2; Tb 12,9). O apelo de Jesus a “acumular tesouros no céu” (Mt 6,19-21) utiliza a mesma metáfora e participa da mesma lógica."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "dn-4-n9",
+              "offset": 198,
+              "original_marker": "a",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 25,
@@ -1001,8 +1524,22 @@
         },
         {
           "verse": 27,
-          "text": "o rei tomou a pala - vra e disse: ‘Oh, como é grande Babilónia, que eu edifiquei como residência real, com a força do meu poder e para glória da minha majestade’!",
-          "note_refs": []
+          "text": "o rei tomou a palavra e disse: ‘Oh, como é grande Babilónia, que eu edifiquei como residência real, com a força do meu poder e para glória da minha majestade’!",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Sobre a Babilónia como símbolo do orgulho humano, cf. Is 13,1-22; 21,9 e, sobretudo, Ap 14,8; 16,19; 17,5; 18,2.10.21; etc."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "dn-4-n10",
+              "offset": 158,
+              "original_marker": "c",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 28,
@@ -1016,7 +1553,7 @@
         },
         {
           "verse": 30,
-          "text": "No mesmo instante, cumpriu-se a palavra pronunciada contra Nabucodonosor: foi expulso do meio dos homens e passou a comer erva como os bois e o seu corpo era molhado pelo orvalho dos céus, até que o seu cabelo se tornou comprido como as plumas das águias e as suas unhas como as garras das aves. (3,98-100; 6,26-28)",
+          "text": "No mesmo instante, cumpriu-se a palavra pronunciada contra Nabucodonosor: foi expulso do meio dos homens e passou a comer erva como os bois e o seu corpo era molhado pelo orvalho dos céus, até que o seu cabelo se tornou comprido como as plumas das águias e as suas unhas como as garras das aves. Conclusão da carta de Nabucodonosor (3,98-100; 6,26-28)",
           "note_refs": []
         },
         {
@@ -1026,18 +1563,68 @@
         },
         {
           "verse": 32,
-          "text": "Todos os habitantes da terra são con - siderados como nada e Ele procede como lhe apraz tanto com o exército dos céus como com os habitantes da terra. E não há quem lhe possa deter a mão ou lhe pergunte: ‘Que fizeste?’",
+          "text": "Todos os habitantes da terra são considerados como nada e Ele procede como lhe apraz tanto com o exército dos céus como com os habitantes da terra. E não há quem lhe possa deter a mão ou lhe pergunte: ‘Que fizeste?’",
           "note_refs": []
         },
         {
           "verse": 33,
-          "text": "Nessa altura, o meu entendimento voltou a mim e, para glória do meu reino, o meu esplendor e a minha majestade voltaram também. Os meus con - selheiros e nobres vieram procurar-me e fui restabelecido na minha realeza e foi-me dada uma grandeza ainda maior.",
+          "text": "Nessa altura, o meu entendimento voltou a mim e, para glória do meu reino, o meu esplendor e a minha majestade voltaram também. Os meus conselheiros e nobres vieram procurar-me e fui restabelecido na minha realeza e foi-me dada uma grandeza ainda maior.",
           "note_refs": []
         },
         {
           "verse": 34,
           "text": "Por isso, agora eu, Nabucodonosor, louvo, exalto e dou glória ao Rei dos céus. Pois todas as suas obras são verdade e os seus caminhos são justiça. Ele tem poder para humilhar os que caminham com altivez.”",
           "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Profissão de fé de Nabucodonosor (2,46-49; 6,24-28; 14,40-42; Gn 41,37-57; Carta de Nabucodonosor (4,31-34; 6,26-28; Sl 148,13)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O c. 4 do livro de Daniel tem a forma de uma epístola ou carta circular, que começa nos últimos versículos do c. 3. O rei Nabucodonosor dirige-se a todos os povos da terra para lhes dar a conhecer o que lhe sucedeu e confessar a sua fé no Deus Altíssimo. Dn 3,98-100 é a introdução desta carta (incluindo a lista dos destinatários e uma doxologia) e 4,31-34 é a sua conclusão, onde o relato volta à primeira pessoa do singular e inclui uma dupla doxologia."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "dn-4-n1",
+              "offset": 97,
+              "original_marker": "c",
+              "source_id": 27
+            }
+          ]
+        },
+        {
+          "before_verse": 1,
+          "text": "Novo sonho de Nabucodonosor (2,1-2.28; 5,5-16; Gn 41,1-24; Jz 9,8-15;",
+          "note_refs": []
+        },
+        {
+          "before_verse": 16,
+          "text": "Daniel interpreta o sonho do rei (2,29-45; 5,17-29; Gn 41,25-36)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 25,
+          "text": "Realização do sonho (5,30; Gn 41,47-57)",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Este episódio pode ter-se inspirado na figura de Nabónido, último rei do império neobabilónico, o qual, depois de conquistar Temá na Península Arábica, decidiu permanecer dez anos naquele oásis; e a sua ausência da Babilónia alimentou muitos rumores, entre eles, o de que o rei tinha enlouquecido. Em Qumran, encontrou-se um texto conhecido com o título de “A Oração de Nabónido”, no qual se refere uma tradição semelhante à referida nesta passagem de Daniel sobre Nabucodonosor."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "dn-4-n8",
+              "offset": 19,
+              "original_marker": "b",
+              "source_id": 35
+            }
+          ]
         }
       ]
     },
@@ -1071,13 +1658,27 @@
         },
         {
           "verse": 6,
-          "text": "e imediatamente se alterou o seu rosto e pertur - baram-no os seus pensamentos; os músculos da cintura perderam o vigor e os joelhos começaram a chocar um com o outro. (2,1-12.24-27; 4,3-6; Gn 41,8-15)",
+          "text": "e imediatamente se alterou o seu rosto e perturbaram-no os seus pensamentos; os músculos da cintura perderam o vigor e os joelhos começaram a chocar um com o outro.",
           "note_refs": []
         },
         {
           "verse": 7,
           "text": "O rei convocou com voz forte os adivinhos, os caldeus e os astrólogos. E, tomando a palavra, o rei declarou aos sábios da Babilónia: “Quem puder ler esta inscrição e expor-me a sua interpretação, será revestido de púrpura, levará ao pescoço um colar de ouro e será o terceiro em autoridade no reino”.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Sobre as recompensas, cf. Est 8,15 (manto de púrpura); Gn 41,42 (colar de ouro); 1Mac 10,20.62.64 (manto de púrpura e coroa de ouro). A designação terceiro em autoridade no reino é de difícil interpretação. É possível que o autor do texto tenha em vista um tipo de triunvirato descrito em 6,3."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "dn-5-n2",
+              "offset": 299,
+              "original_marker": "a",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 8,
@@ -1121,7 +1722,7 @@
         },
         {
           "verse": 16,
-          "text": "Ouvi dizer a teu respeito que és capaz de interpretar enigmas e resolver dificuldades. Se, pois, puderes ler a inscrição e expor-me a sua interpretação, serás revestido de púrpura, levarás ao pescoço um colar de ouro e serás o terceiro em autoridade no reino.” (2,29-45; 4,16-34; Gn 41,25-57)",
+          "text": "Ouvi dizer a teu respeito que és capaz de interpretar enigmas e resolver dificuldades. Se, pois, puderes ler a inscrição e expor-me a sua interpretação, serás revestido de púrpura, levarás ao pescoço um colar de ouro e serás o terceiro em autoridade no reino.”",
           "note_refs": []
         },
         {
@@ -1146,8 +1747,22 @@
         },
         {
           "verse": 21,
-          "text": "Foi expulso do meio dos homens e o seu coração tornou-se semelhante ao dos animais do campo; habitou entre burros selvagens, foi-lhe dado a comer erva como aos bois e o seu corpo foi molhado pelo orvalho dos céus, até que reco - nheceu que o Deus Altíssimo tem poder sobre a realeza dos homens e ergue quem lhe apraz para essa função.",
-          "note_refs": []
+          "text": "Foi expulso do meio dos homens e o seu coração tornou-se semelhante ao dos animais do campo; habitou entre burros selvagens, foi-lhe dado a comer erva como aos bois e o seu corpo foi molhado pelo orvalho dos céus, até que reconheceu que o Deus Altíssimo tem poder sobre a realeza dos homens e ergue quem lhe apraz para essa função.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Sobre a possível referência histórica deste episódio, relatado em Dn 4, cf. nota 35."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "dn-5-n3",
+              "offset": 330,
+              "original_marker": "b",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 22,
@@ -1156,8 +1771,22 @@
         },
         {
           "verse": 23,
-          "text": "Revol - taste-te contra o Senhor dos céus; trouxeram-te os vasos do seu templo e deles bebeste tu, os teus nobres, as tuas mulheres e as tuas concubinas, enquanto louvavam os deuses de ouro, de prata, de bronze, de ferro, de madeira e de pedra, que são cegos, surdos e sem entendimento, em lugar de dares glória ao Deus em cujas mãos está a tua vida e o teu destino.",
-          "note_refs": []
+          "text": "Revoltaste-te contra o Senhor dos céus; trouxeram-te os vasos do seu templo e deles bebeste tu, os teus nobres, as tuas mulheres e as tuas concubinas, enquanto louvavam os deuses de ouro, de prata, de bronze, de ferro, de madeira e de pedra, que são cegos, surdos e sem entendimento, em lugar de dares glória ao Deus em cujas mãos está a tua vida e o teu destino.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Sobre esta forma tradicional de caracterizar os ídolos pagãos, cf. Dt 4,28; Sl 115,4-8; 135,15-18, Ap 9,20; e ainda Dn 14."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "dn-5-n4",
+              "offset": 282,
+              "original_marker": "c",
+              "source_id": 40
+            }
+          ]
         },
         {
           "verse": 24,
@@ -1167,7 +1796,21 @@
         {
           "verse": 25,
           "text": "Isto é o que está escrito: mené, tequel, parsin.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O texto em aramaico repete o primeiro dos três termos (mené). Não há consenso em relação ao significado original dos três termos, mas é possível que sejam designações de pesos ou moedas orientais. O autor interpreta os termos à luz das raízes verbais aramaicas mnh, tql e prs, que significam, respetivamente, medir ou calcular, pesar e dividir."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "dn-5-n5",
+              "offset": 47,
+              "original_marker": "d",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 26,
@@ -1182,16 +1825,61 @@
         {
           "verse": 28,
           "text": "parsin significa que o teu reino foi dividido e entregue aos medos e aos persas.”",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O texto aramaico diz: perás que parece ser o singular de parsin (v. 25). Como substantivo, no singular seria a Pérsia e no plural, os persas. Para a narrativa em questão, ambas as formas podem servir."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "dn-5-n6",
+              "offset": 6,
+              "original_marker": "e",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 29,
-          "text": "Baltasar mandou então que revestissem Daniel de púrpura, que lhe colo - cassem um colar de ouro ao pescoço e que proclamassem que ele era o terceiro em autoridade no reino.",
+          "text": "Baltasar mandou então que revestissem Daniel de púrpura, que lhe colocassem um colar de ouro ao pescoço e que proclamassem que ele era o terceiro em autoridade no reino.",
           "note_refs": []
         },
         {
           "verse": 30,
           "text": "Nessa mesma noite, foi morto Baltasar, rei dos caldeus.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Banquete do rei Baltasar (1,2; 2Rs 24,1; 2Cr 36,5-7; Est 1)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "No início do c. 5 surge uma nova personagem, o rei que é conhecido em português como Baltasar, equivalente ao hebraico Belchaçar. É provável que o autor do livro esteja a referir-se à figura histórica de Belchaçar, filho do rei Nabónido. Ele foi regente na Babilónia durante os dez anos em que o seu pai esteve ausente em Temá (cf. nota 35), mas nunca chegou a ser rei nem sucedeu a Nabónido, que foi aliás o último rei do império neobabilónico. O episódio relatado é provavelmente ficção, podendo ter sido inspirado pela tradição de que, pouco antes da queda da Babilónia, se celebrou naquela cidade um importante festival religioso (cf. Is 21,5; Jr 51,39)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "dn-5-n1",
+              "offset": 24,
+              "original_marker": "d",
+              "source_id": 37
+            }
+          ]
+        },
+        {
+          "before_verse": 7,
+          "text": "Consulta do rei (2,1-12.24-27; 4,3-6; Gn 41,8-15)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 17,
+          "text": "Daniel lê e decifra a inscrição (2,29-45; 4,16-34; Gn 41,25-57)",
           "note_refs": []
         }
       ]
@@ -1212,7 +1900,21 @@
         {
           "verse": 3,
           "text": "Sobre eles estabeleceu três ministros, um dos quais era Daniel; os sátrapas prestavam contas aos ministros, a fim de não incomodarem o rei.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O c. 6 introduz a figura de Dario, um rei com origem na Média que teria herdado o império neobabilónico. Não há registo da existência de nenhum rei de origem meda com este nome e sabe-se que o império neobabilónico caiu às mãos dos persas e não dos medos. É provável que o autor se tenha inspirado na figura de Dario I, rei persa e um dos sucessores de Ciro, a quem as crónicas atribuem a reorganização do império persa (cf. 6,2). A decisão de introduzir um rei de origem meda entre o último dos reis neobabilónicos e o primeiro dos reis persas, Ciro, pode ter sido motivada pela referência a quatro reinos na sequência da história subjacente ao sonho de Nabucodonosor (c. 2)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "dn-6-n1",
+              "offset": 138,
+              "original_marker": "a",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 4,
@@ -1246,17 +1948,45 @@
         },
         {
           "verse": 10,
-          "text": "O rei Dario colocou então por escrito o interdito. (3; 14,23-42; 2Rs 19,35/Is 37,36; 2Mac 10,29-30; Mt 28,2; Heb 11,33)",
-          "note_refs": []
+          "text": "O rei Dario colocou então por escrito o interdito. Mt 28,2; Heb 11,33)",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Os reis persas eram tolerantes no que diz respeito à liberdade religiosa e cultual dos povos do império. É, por isso, pouco provável que o texto se refira a acontecimentos históricos: o autor está mais interessado na lição teológica que no rigor historiográfico. A referência ao castigo da cova dos leões pode ter sido inspirada pelo uso desta metáfora nos salmos (cf. Sl 57,5). Sobre o carácter irrevogável dos decretos reais, cf. Est 1,19; 8,8."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "dn-6-n2",
+              "offset": 49,
+              "original_marker": "b",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "Quando Daniel tomou conhecimento do documento escrito, dirigiu-se a sua casa, em cujo andar superior havia janelas orientadas na direção de Jerusa - lém. Ali ele se punha de joelhos três vezes por dia, a fim de pedir e dar graças ao seu Deus, como sempre havia feito antes.",
-          "note_refs": []
+          "text": "Quando Daniel tomou conhecimento do documento escrito, dirigiu-se a sua casa, em cujo andar superior havia janelas orientadas na direção de Jerusalém. Ali ele se punha de joelhos três vezes por dia, a fim de pedir e dar graças ao seu Deus, como sempre havia feito antes.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A insistência na oração pessoal torna-se uma das marcas do judaísmo pós-exílico. A prática de se orientar para Jerusalém em oração é aconselhada ou prescrita em 1Rs 8,35 e em escritos apócrifos mais tardios, como o Esdras grego. Sobre a obrigação ou hábito de rezar três vezes por dia, cf. Sl 55,17. Sobre o pôr-se de joelhos, cf. 1Rs 8,54; Esd 9,5; Lc 22,41; At 7,60; etc."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "dn-6-n3",
+              "offset": 269,
+              "original_marker": "c",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "Numa dessas ocasiões, aqueles homens acorreram em tumulto e encontraram Daniel a dirigir preces e súplicas ao seu Deus. O É A",
+          "text": "Numa dessas ocasiões, aqueles homens acorreram em tumulto e encontraram Daniel a dirigir preces e súplicas ao seu Deus.",
           "note_refs": []
         },
         {
@@ -1292,7 +2022,21 @@
         {
           "verse": 19,
           "text": "Depois, o rei recolheu-se ao seu palácio e passou a noite em jejum, não mandou vir quaisquer diversões à sua presença e naquela noite o sono afastou-se dele.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A expressão aqui usada só aparece neste texto e pode entender-se como significando diversos tipos de diversões, tais como comida, música ou concubinas."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "dn-6-n4",
+              "offset": 102,
+              "original_marker": "d",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 20,
@@ -1312,7 +2056,21 @@
         {
           "verse": 23,
           "text": "O meu Deus enviou o seu anjo e fechou a boca dos leões e eles não me fizeram mal, porque aos olhos de Deus estou inocente e também diante de ti, ó rei, não cometi falta alguma”.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Daniel interpreta o que lhe sucedeu à luz da prática judicial do ordálio, também conhecida como juízo de Deus: o facto de ter escapado ileso da cova dos leões é a prova da sua inocência diante de Deus e do rei (cf. o caso da mulher suspeita de adultério em Nm 5,11-31)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "dn-6-n5",
+              "offset": 176,
+              "original_marker": "e",
+              "source_id": 47
+            }
+          ]
         },
         {
           "verse": 24,
@@ -1321,8 +2079,22 @@
         },
         {
           "verse": 25,
-          "text": "Por ordem do rei, trouxeram os homens que tinham feito a acusação contra Daniel e lançaram-nos na cova dos leões, com os seus filhos e as suas mulheres. E ainda não tinham chegado ao fundo da cova, quando os leões se apoderaram deles e trituraram todos os seus ossos. (2,46-49; 3,95-100; 4,31-34; 14,41; Gn 41,37-46; 2Mac 9,17)",
-          "note_refs": []
+          "text": "Por ordem do rei, trouxeram os homens que tinham feito a acusação contra Daniel e lançaram-nos na cova dos leões, com os seus filhos e as suas mulheres. E ainda não tinham chegado ao fundo da cova, quando os leões se apoderaram deles e trituraram todos os seus ossos. 2Mac 9,17)",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "A inclusão dos filhos e das mulheres no castigo reflete o antigo princípio da responsabilidade corporativa (cf. 2Sm 21,1-14; Ez 18)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "dn-6-n6",
+              "offset": 151,
+              "original_marker": "f",
+              "source_id": 48
+            }
+          ]
         },
         {
           "verse": 26,
@@ -1342,6 +2114,37 @@
         {
           "verse": 29,
           "text": "E foi assim que Daniel prosperou durante o reinado de Dario e durante o reinado de Ciro, o persa.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "A referência ao reinado de Ciro retoma 1,21 e sugere uma inclusão. É muito provável que os seis primeiros capítulos do livro tenham circulado, pelo menos numa fase inicial, de forma independente (ver Introdução)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "dn-6-n7",
+              "offset": 96,
+              "original_marker": "a",
+              "source_id": 49
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Conspiração contra Daniel (Est 3)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Daniel na cova dos leões (3; 14,23-42; 2Rs 19,35/Is 37,36; 2Mac 10,29-30;",
+          "note_refs": []
+        },
+        {
+          "before_verse": 26,
+          "text": "Profissão de fé do rei Dario (2,46-49; 3,95-100; 4,31-34; 14,41; Gn 41,37-46;",
           "note_refs": []
         }
       ]
@@ -1357,66 +2160,206 @@
         {
           "verse": 2,
           "text": "Tomando então a palavra, Daniel disse: “Estava eu a contemplar na minha visão durante a noite e vi que os quatro ventos celestes se agitavam sobre o grande mar.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Sobre a tradição dos quatro ventos, cf. Jr 49,36; Ez 37,9; Zc 2,10; 6,5."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "dn-7-n3",
+              "offset": 159,
+              "original_marker": "d",
+              "source_id": 52
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Subiram então do mar quatro animais monstruosos, cada um deles diferente dos outros. A É",
-          "note_refs": []
+          "text": "Subiram então do mar quatro animais monstruosos, cada um deles diferente dos outros.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "No Antigo Oriente e na Bíblia o mar é símbolo do caos primordial. Ao simbolizar os sucessivos impérios por meio de monstros saídos do caos, a visão transforma estes reinos históricos em opositores diretos da ordem querida por Deus e da sua obra de criação e governo da História. Por isso, estão destinados a ser julgados e condenados (cf. Is 27,1; 30,7; 51,9-10; Ez 29; 32; Sl 68,31; 74,13; 87,4; Jb 7,12)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "dn-7-n4",
+              "offset": 83,
+              "original_marker": "e",
+              "source_id": 53
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "O primeiro era como um leão, mas tinha asas de águia. Enquanto estava a contemplar, vi que lhe arrancavam as asas. Levantaram-no da terra, puseram-no de pé como um homem e deram-lhe um coração de homem.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O primeiro animal simboliza o império neobabilónico (cf. Dn 2). O rei Nabucodonosor é comparado a um leão (Jr 4,7; 49,19; 50,17) e os seus exércitos a uma águia (Hab 1,8; Ez 17,3). A transformação em ser humano reflete provavelmente a conversão de Nabucodonosor relatada no c. 4."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "dn-7-n5",
+              "offset": 201,
+              "original_marker": "f",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "E eis que um outro animal, o segundo, era semelhante a um urso. Erguia-se sobre um dos lados e tinha na boca três costelas, entre os dentes. Foi-lhe dito: ‘Ergue-te, devora carne em abundância’.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O segundo animal simboliza, provavelmente, o império dos Medos, que é exortado a devorar a Babilónia (cf. Jr 51,11.28)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "dn-7-n6",
+              "offset": 193,
+              "original_marker": "g",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "A seguir a isto, continuava eu a contemplar e vi outro animal semelhante a um leopardo, mas com quatro asas de pássaro sobre o dorso. Este animal tinha quatro cabeças e foi-lhe dada soberania.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "O leopardo é símbolo do império persa. A imagem de rapidez e ligeireza associada ao rei Ciro em Is 41,3 pode ter influenciado a escolha daquele animal. As quatro asas e quatro cabeças parecem representar os quatro reis persas a que se refere o livro de Daniel (cf. 11,2). Trata-se, muito provavelmente, dos reis Ciro, Dario, Assuero (ou Xerxes) e Artaxerxes, os únicos monarcas (ou nomes de monarcas) persas a que se refere o texto bíblico (cf. Esd 4,5-7)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "dn-7-n7",
+              "offset": 191,
+              "original_marker": "h",
+              "source_id": 56
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "Depois disto, estava eu a contemplar nas visões da noite e eis que surgiu um quarto animal, medonho, terrível e extremamente forte. Possuía uns enor - mes dentes de ferro e devorava e esmagava tudo, calcando aos seus pés aquilo que restava. Este era diferente dos animais anteriores e tinha dez chifres.",
-          "note_refs": []
+          "text": "Depois disto, estava eu a contemplar nas visões da noite e eis que surgiu um quarto animal, medonho, terrível e extremamente forte. Possuía uns enormes dentes de ferro e devorava e esmagava tudo, calcando aos seus pés aquilo que restava. Este era diferente dos animais anteriores e tinha dez chifres.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "O quarto animal representa o império grego e não é comparado com nenhum outro animal. A referência aos dentes de ferro e ao seu comportamento violento recorda a representação do quarto reino em 2,40. Os chifres simbolizam poder (cf. 1Rs 22,11; Sl 92,10; 132,17-18; Zc 2,1-4; Lc 1,69); é possível que o texto reflita a tradição, entre os reis selêucidas, de se fazerem representar em moedas com capacetes de combate com chifres. Os dez chifres são provavelmente uma referência aos dez reis selêucidas, ainda que o número seja mais simbólico que histórico."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "dn-7-n8",
+              "offset": 299,
+              "original_marker": "i",
+              "source_id": 57
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Estava eu a observar os chifres e eis que surgiu entre eles outro chifre mais pequeno. Para dar lugar a este, foram arrancados três dos chifres anteriores. Este novo chifre tinha olhos como os olhos de um homem e uma boca que proferia palavras arrogantes. (12; 1Rs 22,19; Is 6; Ez 1; 3,22-24; 10,1; Mt 19,28; 24,30; 26,64; Mc 14,53-65; Lc 5,24; 22,69-70; At 7,56; Ap 1,7; 14,14; 20)",
-          "note_refs": []
+          "text": "Estava eu a observar os chifres e eis que surgiu entre eles outro chifre mais pequeno. Para dar lugar a este, foram arrancados três dos chifres anteriores. Este novo chifre tinha olhos como os olhos de um homem e uma boca que proferia palavras arrogantes. 19,28; 24,30; 26,64; Mc 14,53-65; Lc 5,24; 22,69-70; At 7,56; Ap 1,7; 14,14; 20)",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "A referência é a Antíoco IV Epifânio (175-164 a.C.). Os três chifres são provavelmente três irmãos mais velhos de Antíoco IV (Seleuco IV, Demétrio e um outro Antíoco): o primeiro foi assassinado por Heliodoro; Demétrio foi para Roma como refém; e o outro Antíoco foi também assassinado. O texto parece sugerir que Antíoco IV foi responsável pelo desaparecimento dos irmãos, concorrentes à sucessão de Antíoco III. Mas esta perspetiva não corresponde aos factos. Sobre a atitude arrogante de Antíoco IV, cf. 11,36; 1Mac 1,24."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "dn-7-n9",
+              "offset": 254,
+              "original_marker": "j",
+              "source_id": 58
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "Estava eu ainda a contemplar até que foram colocados tronos e um ancião de muitos dias tomou assento; O O A O O A as suas vestes eram brancas como a neve e o cabelo da sua cabeça, como lã pura; o seu trono eram labaredas de fogo, com rodas de fogo ardente;",
+          "text": "Estava eu ainda a contemplar até que foram colocados tronos e um ancião de muitos dias tomou assento; as suas vestes eram brancas como a neve e o cabelo da sua cabeça, como lã pura; o seu trono eram labaredas de fogo, com rodas de fogo ardente;",
           "note_refs": []
         },
         {
           "verse": 10,
           "text": "um rio de fogo corria, jorrando de diante dele. Milhares de milhares o serviam e miríades de miríades se mantinham às suas ordens. O tribunal tomou assento e foram abertos os livros.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "O cenário altera-se ligeiramente e a visão é agora do trono celeste (cf. 1Rs 22,19; Is 6; Ez 1; 3,22-24; 10,1; Mt 19,28; Ap 20,4). A figura do ancião representa Deus; a brancura é frequentemente associada à santidade e ao esplendor dos seres angelicais ou divinos (cf. Mt 28,3; Mc 9,2; Ap 3,5). O fogo é frequente nas teofanias (cf. Ex 3,2; 19,18; Dt 5,4; Ez 1,4). Sobre as rodas de fogo do carro divino, cf. Ez 1,15-21; 10,2."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "dn-7-n10",
+              "offset": 129,
+              "original_marker": "a",
+              "source_id": 59
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "Estava eu a contemplar por causa das palavras arrogantes proferidas pelo chifre, quando vi a besta ser morta e o seu corpo destruído e lançado às cha - mas de fogo.",
+          "text": "Estava eu a contemplar por causa das palavras arrogantes proferidas pelo chifre, quando vi a besta ser morta e o seu corpo destruído e lançado às chamas de fogo.",
           "note_refs": []
         },
         {
           "verse": 12,
           "text": "Quanto aos restantes animais, foi-lhes retirada a soberania, mas prolongada a vida até um determinado tempo e momento.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Daniel contempla agora o juízo e a condenação dos quatro animais. Os livros são o registo celeste do que sucede no mundo (cf. Sl 56,9; Is 65,6; Ml 3,16; Ap 20,12-13) e, uma vez abertos e consultados, oferecem a matéria que justifica a condenação à morte do quarto animal e as penas aplicadas aos outros três."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "dn-7-n11",
+              "offset": 117,
+              "original_marker": "b",
+              "source_id": 60
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Estava eu a contemplar as visões da noite e eis que, sobre as nuvens do céu, chegava alguém semelhante a um filho de homem. Avançou até ao ancião de muitos dias e conduziram-no à sua presença.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Esta referência a um ser semelhante a um filho de homem, que se aproxima sobre as nuvens do céu, é uma das passagens bíblicas mais discutidas. Em contraste com os animais monstruosos, esta figura chega das nuvens e aparece estreitamente associada ao ancião, isto é, a Deus e também, segundo a interpretação da visão (Dn 7,18.22.27), ao povo dos santos do Altíssimo. Em textos intertestamentários, como o livro de Henoc ou 2Esdras, esta figura divina ou quase-divina de aspeto humano foi assumindo matizes messiânicos. O Novo Testamento segue nesta linha e aplica este texto a Jesus (cf. Mt 24,30; 26,64; Mc 14,53-65; Lc 5,24; 22,69-70; At 7,56; Ap 1,7; 14,14). A tradição judaica e cristã tem assumido, em certa medida, a interpretação individual e messiânica desta personagem em Dn 7,13. Mas alguns autores pendem para uma interpretação coletiva desta figura simbólica."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "dn-7-n12",
+              "offset": 122,
+              "original_marker": "c",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "Foram-lhe dadas a soberania, a majestade e a realeza; todos os povos e nações e gentes de todas as línguas o servirão; o seu domínio é um domínio eterno, que jamais passará, e o seu reino nunca será destruído. O A O (2; 8; 11-12; 1Mac 1,41-64)",
+          "text": "Foram-lhe dadas a soberania, a majestade e a realeza; todos os povos e nações e gentes de todas as línguas o servirão; o seu domínio é um domínio eterno, que jamais passará, e o seu reino nunca será destruído.",
           "note_refs": []
         },
         {
@@ -1427,7 +2370,21 @@
         {
           "verse": 16,
           "text": "Aproximei-me de um dos que ali estavam de pé e perguntei-lhe o significado daquilo; e ele, dirigindo-se a mim¸ deu-me a conhecer a interpretação do que acontecera:",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Ao contrário do que sucedia até aqui, o protagonista Daniel vê-se incapaz de decifrar o significado da visão. É próprio do género apocalíptico recorrer à figura de um anjo ou outro ser celeste que esclareça o interlocutor humano sobre o significado das visões (cf. Zc 1-6)."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "dn-7-n13",
+              "offset": 162,
+              "original_marker": "d",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 17,
@@ -1437,7 +2394,21 @@
         {
           "verse": 18,
           "text": "mas os santos do Altíssimo receberão o reino e guardá-lo-ão para sempre, para todo o sempre’.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "A expressão santos do Altíssimo parece referir-se, nesta passagem e no resto do c. 7, bem como em 8,24, aos membros do povo de Deus (cf. Ex 19,6; Dt 7,6; 26,19; Sl 34,10; 1Mac 1,46; 1Cor 14,33; Fl 1,1). Entretanto, o texto aramaico serve-se, aqui e nos vv. 22, 25 e 27, de uma fórmula de duplo plural: santos dos altíssimos, que alguns tentaram compreender como referindo-se aos anjos."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "dn-7-n14",
+              "offset": 92,
+              "original_marker": "e",
+              "source_id": 63
+            }
+          ]
         },
         {
           "verse": 19,
@@ -1452,7 +2423,21 @@
         {
           "verse": 21,
           "text": "Continuei a contemplar e vi que aquele chifre estava a fazer guerra aos santos, levando-os de vencida,",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "O texto refere-se, neste ponto e no v. 25, à perseguição desencadeada pelo rei Antíoco IV Epifânio contra a lei e os costumes judaicos na década de sessenta do séc. II a.C. (cf. Dn 8,9- 12; 9,26-27; 11,30-35; 1Mac 1,41-64; 6,6). O facto de o texto não se referir explicitamente à profanação do templo (cf. Dn 8-12) pode sugerir que foi escrito nos primeiros meses daquela perseguição, em finais do ano 167 a.C."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "dn-7-n15",
+              "offset": 101,
+              "original_marker": "f",
+              "source_id": 64
+            }
+          ]
         },
         {
           "verse": 22,
@@ -1472,7 +2457,21 @@
         {
           "verse": 25,
           "text": "Proferirá palavras contra o Altíssimo e perseguirá os seus santos; tentará mudar os tempos e a lei; eles serão entregues na sua mão por um tempo, tempos e a metade de um tempo.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "A expressão literal um tempo, tempos e a metade de um tempo sugere um período de três anos e meio, entendo cada tempo como um ano e o plural tempos como referindo-se a dois. O todo corresponde a metade de uma semana de anos (cf. 8,14; 9,27; 11,36; 12,7; Ap 12,14; 13,5). O vocábulo aramaico aqui usado e o equivalente hebraico usado em 12,7 têm a ver, não com o tempo em geral, mas com os períodos estabelecidos do tempo das festas, um tempo sagrado."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "dn-7-n16",
+              "offset": 175,
+              "original_marker": "a",
+              "source_id": 65
+            }
+          ]
         },
         {
           "verse": 26,
@@ -1489,6 +2488,56 @@
           "text": "Aqui chega o relato ao fim. Quanto a mim, Daniel, muito me perturbaram estes pensamentos e até o meu rosto se alterou em mim. Mas guardei o assunto no meu coração”.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "VISÕES APOCALÍPTICAS DE DANIEL (7,1-12,13)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Os cc. 7-12 formam o chamado “apocalipse de Daniel”. Trata-se, na verdade, de um conjunto de visões relativamente diferentes que foram aqui cuidadosamente compiladas. Sobre o género literário desta parte, ver Introdução."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "dn-7-n1",
+              "offset": 30,
+              "original_marker": "b",
+              "source_id": 50
+            }
+          ]
+        },
+        {
+          "before_verse": 1,
+          "text": "Primeira visão: os quatro animais (2; 8; 11; Ap 13,1-18)",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A primeira das visões retoma o esquema dos quatro reinos subjacente ao sonho de Nabucodonosor relatado no c. 2. Nesta visão, contudo, a sucessão dos impérios e o triunfo divino integram elementos e temas do imaginário mitológico do Antigo Oriente, nomeadamente das culturas e religiões cananaicas."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "dn-7-n2",
+              "offset": 33,
+              "original_marker": "c",
+              "source_id": 51
+            }
+          ]
+        },
+        {
+          "before_verse": 9,
+          "text": "O ancião e o filho de homem (12; 1Rs 22,19; Is 6; Ez 1; 3,22-24; 10,1; Mt",
+          "note_refs": []
+        },
+        {
+          "before_verse": 15,
+          "text": "Interpretação da primeira visão (2; 8; 11-12; 1Mac 1,41-64)",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -1497,12 +2546,40 @@
         {
           "verse": 1,
           "text": "“No terceiro ano do reinado do rei Baltasar, eu, Daniel, tive ainda outra visão, depois daquela que tinha tido anteriormente.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A partir daqui e até ao final do capítulo 12, o texto volta a ser em hebraico."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "dn-8-n1",
+              "offset": 124,
+              "original_marker": "b",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Nesta visão que eu tive, encontrava-me na fortaleza de Susa, na província de Elam, junto ao canal de Ulai.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Susa era a residência de inverno dos monarcas persas (cf. Ne 1,1; Est 1,2). O Ulai era um importante canal artificial que passava às portas da cidade de Susa."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "dn-8-n2",
+              "offset": 105,
+              "original_marker": "c",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 3,
@@ -1512,7 +2589,21 @@
         {
           "verse": 4,
           "text": "Vi o carneiro investir com os chifres na direção do ocidente, do norte e do sul: nenhum animal resistia diante dele nem escapava ao seu poder. Fazia o que tinha na vontade e continuava a prosperar.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O carneiro representa o império dos Medos e dos Persas, que chegou a expandir-se até à Ásia Menor e ao Egito."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "dn-8-n3",
+              "offset": 196,
+              "original_marker": "d",
+              "source_id": 68
+            }
+          ]
         },
         {
           "verse": 5,
@@ -1527,17 +2618,59 @@
         {
           "verse": 7,
           "text": "Vi-o aproximar-se junto ao carneiro e enfurecia-se contra ele. Atacou o carneiro e quebrou-lhe os dois chifres; e o caneiro não tinha força para lhe resistir. Atirou-o por terra e calcou-o aos pés; e não havia ninguém para livrar o carneiro do seu poder.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O bode representa o império dos Gregos. O chifre grande é Alexandre Magno; o texto faz também alusão à rapidez com que os exércitos gregos conquistaram os vastos territórios do império persa entre 334 e 330 a.C."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "dn-8-n4",
+              "offset": 253,
+              "original_marker": "e",
+              "source_id": 69
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "O bode prosperou extraordinariamente, mas, no auge do seu poder, que - brou-se o chifre grande e, em seu lugar, quatro outros chifres surgiram bem visíveis, voltados para os quatro ventos dos céus.",
-          "note_refs": []
+          "text": "O bode prosperou extraordinariamente, mas, no auge do seu poder, quebrou-se o chifre grande e, em seu lugar, quatro outros chifres surgiram bem visíveis, voltados para os quatro ventos dos céus.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A referência é aos quatro generais que herdaram o império de Alexandre, os Diádocos: Ptolomeu I Sóter, Filipe III Arrideu, Antígono Monoftalmo e Seleuco I Nicátor."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "dn-8-n5",
+              "offset": 193,
+              "original_marker": "f",
+              "source_id": 70
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "De um deles saiu um chifre pequeno, que cresceu e se estendeu bastante para sul e para oriente, até à terra formosa.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O chifre pequeno é Antíoco IV Epifânio (175-164 a.C., cf. Dn 7,8). A expressão terra formosa designa o território de Israel (cf. Dn 11,16.41; Ez 20,6.15; Zc 7,14)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "dn-8-n6",
+              "offset": 115,
+              "original_marker": "g",
+              "source_id": 71
+            }
+          ]
         },
         {
           "verse": 10,
@@ -1552,42 +2685,140 @@
         {
           "verse": 12,
           "text": "Um exército arremeteu contra o sacrifício perpétuo e atirou a verdade por terra; assim fez e prosperou.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "A descrição dos atos de Antíoco Epifânio adquire uma dimensão cósmico-mitológica: a sua perseguição contra os judeus e contra os seus costumes religiosos é uma batalha contra as forças celestes, lideradas pelo próprio Deus, chefe do exército celeste. Alguns autores, baseando-se em Daniel 12,3, afirmam que o exército celeste e as estrelas a que o texto se refere são o símbolo do Israel de Deus (cf. Ap 12,4). No contexto, porém, a referência parece ser ao exército dos anjos (cf. Js 5,14; Jz 5,20; 1Rs 22,19; 2Cr 18,18). Sobre a elevação até às estrelas como uma alegoria, cf. Is 14; 2Mac 9,10. Sobre o sacrifício perpétuo, cf. Ex 29,38-42; Nm 28,2-8."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "dn-8-n7",
+              "offset": 102,
+              "original_marker": "h",
+              "source_id": 72
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Enquanto ouvia um dos santos falar, outro santo perguntou-lhe: ‘Até quando durará esta visão do sacrífico perpétuo, da iniquidade devastadora, do santuário abandonado e do exército calcado aos pés?’",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "A pergunta-refrão Até quando… exprime o forte desejo de que Deus ponha fim à desgraça (cf. 12,6; Sl 6,4; 79,5; 80,5; 90,13; Is 6,11; Jr 12,4; Zc 1,12; Ap 6,10). A iniquidade devastadora parece ser uma referência à profanação do altar do templo de Jerusalém por meio da introdução de cultos pagãos; a designação equivale a outras expressões usadas em 9,27; 11,31; 12,11."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "dn-8-n8",
+              "offset": 196,
+              "original_marker": "i",
+              "source_id": 73
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "E ele respondeu-me: ‘Duas mil e trezentas tardes e manhãs. Depois disso, o santuário será restabelecido na justiça.’ (2; 7; 11-12)",
-          "note_refs": []
+          "text": "E ele respondeu-me: ‘Duas mil e trezentas tardes e manhãs. Depois disso, o santuário será restabelecido na justiça.’",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Ou seja, 1150 dias; compare-se Dn 7,25: três anos e meio = 1260 dias; Dn 12,11: 1290 dias; Dn 12,12: 1335 dias. De acordo com 1Mac 4,52-54, o templo de Jerusalém permaneceu em estado de profanação durante 1133 dias. Esta discrepância parece indiciar um processo de revisão interna da cronologia do fim dos tempos, que poderá ter sido motivado por sucessivos retardamentos no cumprimento do que se esperava que sucedesse. Tardes e manhãs refere-se ao tempo dos dois sacrifícios diários."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "dn-8-n9",
+              "offset": 57,
+              "original_marker": "j",
+              "source_id": 74
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "E aconteceu que enquanto eu, Daniel, continuava a olhar e procurava entender a visão, reparei que diante de mim estava um ser com o aspeto de um O O A I III I O IV A A homem.",
+          "text": "E aconteceu que enquanto eu, Daniel, continuava a olhar e procurava entender a visão, reparei que diante de mim estava um ser com o aspeto de um homem.",
           "note_refs": []
         },
         {
           "verse": 16,
           "text": "Ouvi então uma voz humana gritar do meio do Ulai e pronunciar estas palavras: ‘Gabriel, faz com que esse homem entenda a visão’!",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Cf. 9,21; Lc 1,19.26."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "dn-8-n10",
+              "offset": 127,
+              "original_marker": "a",
+              "source_id": 75
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Ele veio ao meu encontro e, ao vê-lo aproximar-se, senti grande temor e caí de rosto por terra. Gabriel disse-me: ‘Compreende, filho de homem, que esta visão se refere aos tempos do fim’.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Ou: o tempo do fim (cf. Dn 11,35.40; 12,4.9.13). A expressão é equivalente a nos últimos dias (Dn 2,28; 10,14; n. 11) e parece ter, pelo menos em Dn 8,17; 11,35.40, o mesmo sentido, isto é, serve para designar o que sucederá no futuro e que terá um certo sentido de final (cf. Hab 2,3). No c. 12, contudo, a referência ao juízo e à ressurreição dos mortos (12,1-3.13) parece implicar que a expressão fim dos tempos alude, neste caso, ao fim da história."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "dn-8-n11",
+              "offset": 186,
+              "original_marker": "b",
+              "source_id": 76
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "Enquanto ele falava comigo, abateu- -se sobre mim um sono pesado, ficando eu de rosto por terra. Mas ele tocou-me e pôs-me de pé no meu lugar.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Cf. 10,10.16.18; Gn 15,12; Ap 1,17."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "dn-8-n12",
+              "offset": 142,
+              "original_marker": "c",
+              "source_id": 77
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "E ele continuou: ‘Vou dar-te a conhecer o que sucederá no tempo futuro da ira, pois o fim tem o tempo fixado.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Trata-se da ira com que Deus deverá intervir para libertar Israel dos sofrimentos impostos pelos impérios pagãos (cf. 8,23; Is 10,5; Zc 1,12; cf. Dn 11,36)."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "dn-8-n13",
+              "offset": 108,
+              "original_marker": "d",
+              "source_id": 78
+            }
+          ]
         },
         {
           "verse": 20,
@@ -1607,7 +2838,21 @@
         {
           "verse": 23,
           "text": "No final do seu reinado, quando os malfeitores tiverem enchido a medida, levantar-se-á um rei de rosto forte, capaz de compreender enigmas.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Sobre a ideia de que os malfeitores devem encher a sua medida antes do castigo, cf. Gn 15,16; 2Mac 6,14."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "dn-8-n14",
+              "offset": 71,
+              "original_marker": "e",
+              "source_id": 79
+            }
+          ]
         },
         {
           "verse": 24,
@@ -1617,16 +2862,56 @@
         {
           "verse": 25,
           "text": "Pela sua inteligência, o engano triunfará nas suas mãos e crescerá no seu coração. Aniquilará muitos que estão em sossego e levantar-se-á contra o príncipe dos príncipes. Mas será quebrado sem intervenção de mão humana.",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "A referência à morte de Antíoco Epifânio, aqui como em Dn 11,45, não parece corresponder ao que sucedeu em 164 a.C. Os livros dos Macabeus apresentam três versões distintas da morte de Antíoco Epifânio (1Mac 1,14-16; 6,1-17; 2Mac 9,1-29), mas parecem estar de acordo quanto ao facto de que a morte do rei Antíoco teve lugar na Pérsia, no contexto de uma tentativa de assalto a um templo (cf. a crónica do historiador grego Políbio). Para o autor do texto, trata-se de insistir que será o próprio Deus quem castigará Antíoco Epifânio, numa referência à pedra que se desprende sem intervenção de mão humana (Dn 2,34)."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "dn-8-n15",
+              "offset": 218,
+              "original_marker": "f",
+              "source_id": 80
+            }
+          ]
         },
         {
           "verse": 26,
-          "text": "A visão sobre as tardes e as manhãs, que te foi comunicada, é verdadeira; A tu, porém, guarda em segredo a visão, porque ela é para daqui a muitos dias’.",
-          "note_refs": []
+          "text": "A visão sobre as tardes e as manhãs, que te foi comunicada, é verdadeira; tu, porém, guarda em segredo a visão, porque ela é para daqui a muitos dias’.",
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Cf. Dn 10,1.14; 11,2; 12,4.9; Ap 10,4; 19,9; 21,5; 22,6.10."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "dn-8-n16",
+              "offset": 150,
+              "original_marker": "g",
+              "source_id": 81
+            }
+          ]
         },
         {
           "verse": 27,
           "text": "Eu, Daniel, desfaleci e caí doente durante alguns dias. Depois, recuperei e voltei a ocupar-me dos assuntos do rei. Mas andava consternado por causa da visão e não a compreendia.”",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Segunda visão: o carneiro e o bode (2; 7; 11-12; Ez 34; 1Mac 1; 4)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 15,
+          "text": "Interpretação da segunda visão (2; 7; 11-12)",
           "note_refs": []
         }
       ]
@@ -1637,12 +2922,40 @@
         {
           "verse": 1,
           "text": "“No primeiro ano de Dario, filho de Assuero, da descendência dos medos, que se tornou rei do reino dos caldeus,",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Sobre o rei Dario, cf. 6,10 nota. A referência a Assuero (no texto grego, Xerxes) é igualmente problemática do ponto de vista histórico: se se trata do rei Xerxes I, este era filho e não pai do rei Dario I, a quem o texto parece aludir (cf. Esd 4,5-6)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "dn-9-n1",
+              "offset": 110,
+              "original_marker": "h",
+              "source_id": 82
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "no primeiro ano do seu reinado, eu, Daniel, indaguei nos registos o número de anos que, segundo a palavra do dirigida ao profeta Jeremias, teriam de passar sobre as ruínas de Jerusalém: eram setenta anos. (3,25-45; Esd 9,5-15; Ne 1,4-11; 9,5-37; Est 4,17; Br 1,15-3,8)",
-          "note_refs": []
+          "text": "no primeiro ano do seu reinado, eu, Daniel, indaguei nos registos o número de anos que, segundo a palavra do SENHOR dirigida ao profeta Jeremias, teriam de passar sobre as ruínas de Jerusalém: eram setenta anos. 1,15-3,8)",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A referência é à profecia de Jeremias (Jr 25,11-14; 29,10). Os setenta anos são, na profecia de Jeremias, um período de tempo simbólico que representa a duração de uma vida humana. De acordo com 2Cr 36,20-22, os setenta anos são o período compreendido entre a destruição do templo (587 a.C.) e a sua restauração no tempo de Ciro (cf. Esd 1,1). De acordo com Zc 1,12, os setenta anos iriam até ao segundo ano de Dario (c. 519 a.C.). O autor de Dn 9 faz uma nova interpretação da profecia no contexto do período helenístico."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "dn-9-n3",
+              "offset": 210,
+              "original_marker": "i",
+              "source_id": 83
+            }
+          ]
         },
         {
           "verse": 3,
@@ -1651,43 +2964,127 @@
         },
         {
           "verse": 4,
-          "text": "Invoquei o, meu Deus, e fiz a minha confissão, dizendo: ‘Ah! Senhor, Deus grande e terrível que é fiel à aliança e à misericórdia para com aqueles que o amam e guardam os seus mandamentos!",
+          "text": "Invoquei o SENHOR, meu Deus, e fiz a minha confissão, dizendo: ‘Ah! Senhor, Deus grande e terrível que é fiel à aliança e à misericórdia para com aqueles que o amam e guardam os seus mandamentos!",
           "note_refs": []
         },
         {
           "verse": 5,
           "text": "Nós pecámos, procedemos mal, fomos iníquos e rebeldes e afastámo-nos dos teus mandamentos e preceitos.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Cf. 1Rs 8,47; 2Cr 6,37; Sl 106,6; Br 1,17."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "dn-9-n4",
+              "offset": 101,
+              "original_marker": "k",
+              "source_id": 85
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Não escutámos os profetas, teus servos, que falaram em teu nome aos nossos reis, aos nossos príncipes, aos nossos pais e ao povo todo do país.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Cf. Ne 9,34; Jr 7,25; 26,5; 29,19; 35,15; 44,4–5."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "dn-9-n5",
+              "offset": 141,
+              "original_marker": "l",
+              "source_id": 86
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "A ti, Senhor, é devida a justiça e a nós, a vergonha no rosto, como neste dia, vergonha para as gentes de Judá e os habitantes de Jerusalém, sobre todo o Israel, os que estão perto e os que estão longe, em todos os países por A onde os dispersaste por causa das iniquidades que cometeram contra ti.",
-          "note_refs": []
+          "text": "A ti, Senhor, é devida a justiça e a nós, a vergonha no rosto, como neste dia, vergonha para as gentes de Judá e os habitantes de Jerusalém, sobre todo o Israel, os que estão perto e os que estão longe, em todos os países por onde os dispersaste por causa das iniquidades que cometeram contra ti.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Cf. Esd 9,7; Jr 16,15; 23,3; 32,37; Br 1,15."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "dn-9-n6",
+              "offset": 295,
+              "original_marker": "a",
+              "source_id": 87
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "A nós,, pertence a vergonha, bem como aos nossos reis, aos nossos príncipes e aos nossos pais, pois pecámos contra ti.",
+          "text": "A nós, SENHOR, pertence a vergonha, bem como aos nossos reis, aos nossos príncipes e aos nossos pais, pois pecámos contra ti.",
           "note_refs": []
         },
         {
           "verse": 9,
           "text": "No Senhor, nosso Deus, está a compaixão e o perdão, porque nos revoltámos contra Ele:",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Cf. Ne 9,17."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "dn-9-n7",
+              "offset": 84,
+              "original_marker": "b",
+              "source_id": 88
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "não escutámos a voz do, nosso Deus, nem segui - mos as suas leis, que nos deu por meio dos profetas, seus servos.",
-          "note_refs": []
+          "text": "não escutámos a voz do SENHOR, nosso Deus, nem seguimos as suas leis, que nos deu por meio dos profetas, seus servos.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Cf. Ex 15,26; 19,5; Dt 4,30; 2Rs 17,13; Esd 9,11."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "dn-9-n8",
+              "offset": 116,
+              "original_marker": "c",
+              "source_id": 89
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Todo o Israel transgrediu a tua lei e se afastou, deixando de escutar a tua voz. Recaiu então sobre nós a maldição feita com juramento, que está escrita na lei de Moisés, servo de Deus, porque pecámos contra Ele.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Cf. Lv 26,14-39; Dt 28,15-68."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "dn-9-n9",
+              "offset": 211,
+              "original_marker": "d",
+              "source_id": 90
+            }
+          ]
         },
         {
           "verse": 12,
@@ -1696,42 +3093,112 @@
         },
         {
           "verse": 13,
-          "text": "Toda esta desgraça recaiu sobre nós em conformidade com o que está escrito na lei de Moisés, mas, ainda assim, não implorámos o, nosso Deus, renunciando à iniquidade e confiando na sua fidelidade.",
+          "text": "Toda esta desgraça recaiu sobre nós em conformidade com o que está escrito na lei de Moisés, mas, ainda assim, não implorámos o SENHOR, nosso Deus, renunciando à iniquidade e confiando na sua fidelidade.",
           "note_refs": []
         },
         {
           "verse": 14,
-          "text": "O esteve atento no que diz respeito a esta calamidade e fê-la recair sobre nós, porque o, nosso Deus, é justo em todas as obras que Ele realizou. Nós, porém, não escutámos a sua voz.",
-          "note_refs": []
+          "text": "O SENHOR esteve atento no que diz respeito a esta calamidade e fê-la recair sobre nós, porque o SENHOR, nosso Deus, é justo em todas as obras que Ele realizou. Nós, porém, não escutámos a sua voz.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Cf. Esd 9,15; Ne 9,8.33."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "dn-9-n10",
+              "offset": 195,
+              "original_marker": "e",
+              "source_id": 91
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Agora, Senhor, nosso Deus, Tu que fizeste sair o teu povo da terra do Egito com mão forte e adquiriste para ti um nome que ainda hoje perdura, nós pecámos e praticámos o mal.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Cf. 3,31.41; Dt 6,21; 9,26; Esd 9,8.10; Ne 9,10.32; Jr 32,20; Br 2,11."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "dn-9-n11",
+              "offset": 173,
+              "original_marker": "f",
+              "source_id": 92
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "Senhor, na tua justiça, afasta a tua ira e a tua indignação da tua cidade, Jerusalém, a tua montanha santa, pois é pelos nossos pecados e pelas iniquidades dos nossos pais que Jerusalém e o teu povo se tornaram objeto de escárnio entre todos os que nos rodeiam.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Cf. Nm 25,4; Sl 44,14; Is 12,1; Jr 23,20; 30,24."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "dn-9-n12",
+              "offset": 260,
+              "original_marker": "g",
+              "source_id": 93
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Agora, ó nosso Deus, escuta a oração e as súplicas do teu servo e, pela honra do Senhor, faz brilhar a tua face sobre o teu santuário devastado.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Cf. Nm 6,25; 1Rs 8,28; Ne 1,6.11; Is 48,11; Jr 14,7; Lm 5,18."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "dn-9-n13",
+              "offset": 143,
+              "original_marker": "h",
+              "source_id": 94
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "Inclina o teu ouvido, meu Deus e escuta; abre os teus olhos e vê as nossas devastações e a cidade sobre a qual é invocado o teu nome, porque não é em atenção aos nossos méritos que colocamos a teus pés as nossas súplicas, mas por causa da tua grande misericórdia.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Cf. 1Rs 19,16/Is 37,17."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "dn-9-n14",
+              "offset": 262,
+              "original_marker": "i",
+              "source_id": 95
+            }
+          ]
         },
         {
           "verse": 19,
-          "text": "Escuta, Senhor! Perdoa, Senhor! Atende, Senhor e intervém! Pela tua honra, ó meu Deus, não tardes, porque o teu nome é invocado sobre a tua cidade e sobre o teu povo.’ (2; 7; 8; 11-12; Lc 1)",
+          "text": "Escuta, Senhor! Perdoa, Senhor! Atende, Senhor e intervém! Pela tua honra, ó meu Deus, não tardes, porque o teu nome é invocado sobre a tua cidade e sobre o teu povo.’",
           "note_refs": []
         },
         {
           "verse": 20,
-          "text": "Ainda eu estava a falar, rezando e confessando o meu pecado e o pecado do meu povo, Israel, derramando a minha súplica diante do S enhor meu Deus sobre a montanha santa do meu Deus;",
+          "text": "Ainda eu estava a falar, rezando e confessando o meu pecado e o pecado do meu povo, Israel, derramando a minha súplica diante do Senhor meu Deus sobre a montanha santa do meu Deus;",
           "note_refs": []
         },
         {
@@ -1752,22 +3219,141 @@
         {
           "verse": 24,
           "text": "Foram fixadas setenta semanas para o teu povo e para a tua cidade santa, até que cessem as faltas e seja selado o pecado, seja expiada a iniquidade e estabelecida uma justiça eterna, até que seja selada a visão e a profecia e ungido o Santo dos Santos.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Nesta reinterpretação da profecia de Jeremias, os setenta anos são, na verdade, setenta semanas de anos, ou seja, 70 x 7 anos = 490 anos. Dn 9 segue a lógica dos jubileus proposta em Lv 25, segundo a qual o ano jubilar conclui um período de sete semanas de anos, isto é, 49 anos. Os 490 anos de 9,24 correspondem a dez jubileus. É ao termo desse período (e não nos inícios do período persa, como sugerem 2Cr 36,20-22; Esd 1,1; Zc 1,12) que se dará a verdadeira restauração do povo de Israel após o exílio e a purificação do Santo dos Santos, que é a parte mais sagrada do templo. Trata-se provavelmente de uma referência à purificação do templo na época dos Macabeus (164 a.C.; cf. 1Mac 4,36-59), ainda que o texto possa não implicar o conhecimento dos eventos, mas apenas a esperança de que aconteçam."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "dn-9-n16",
+              "offset": 251,
+              "original_marker": "k",
+              "source_id": 97
+            }
+          ]
         },
         {
           "verse": 25,
           "text": "Portanto, fica a saber e compreende. Desde o momento em que é proferida a palavra para restaurar e reconstruir Jerusalém até que surja o príncipe ungido, passarão sete semanas; durante sessenta e duas semanas, Jerusalém será reconstruída, com a sua praça e o seu fosso, mas serão ainda tempos de angústia.",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "É difícil perceber a que eventos e personagens o texto se refere. A palavra para restaurar e reconstruir pode ser a profecia de Jeremias (Jr 29,10), datada de 597 a.C., ou a palavra pronunciada agora (v. 23), datada do primeiro ano de Dario (cf. Dn 9,1). O príncipe ungido parece ser uma referência ao sumo-sacerdote, Josué, corresponsável pela edificação do segundo templo e declarado como ungido, tal como Zorobabel (cf. Zc 4,14), mas é igualmente possível que se trate do persa Ciro (Is 45,1). Na lógica do texto, as sessenta e duas semanas cobrem a totalidade do período persa e uma parte significativa do período helenístico, que são assim caracterizados como tempos de angústia, apesar do progresso havido na reconstrução de Jerusalém."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "dn-9-n17",
+              "offset": 304,
+              "original_marker": "l",
+              "source_id": 98
+            }
+          ]
         },
         {
           "verse": 26,
           "text": "Após essas sessenta e duas semanas, um ungido será exterminado, mas não por causa dele mesmo. O exército de um príncipe que então virá destruirá a cidade e o santuário; acabará num cataclismo e até ao fim será a guerra decretada, a desolação.",
-          "note_refs": []
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "O texto refere-se, neste ponto, ao assassinato do sumo-sacerdote Onias III em 171 a.C. (cf. 11,22; 2Mac 4,23-28). O príncipe cujo exército destruirá a cidade e o santuário é Antíoco IV Epifânio."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "dn-9-n18",
+              "offset": 241,
+              "original_marker": "a",
+              "source_id": 99
+            }
+          ]
         },
         {
           "verse": 27,
-          "text": "Por uma semana, fortalecerá uma aliança sólida com muitos; a meio da semana, fará cessar o sacrifício e a oferta; no pináculo das abominações estará o devastador até se completar o tempo decretado para a destruição do devastador.’ ”",
+          "text": "Por uma semana, fortalecerá uma aliança sólida com muitos; a meio da semana, fará cessar o sacrifício e a oferta; no pináculo das abominações estará o devastador até se completar o tempo decretado para a destruição do devastador.’”",
+          "note_refs": [
+            "19",
+            "20",
+            "21"
+          ],
+          "notes": {
+            "19": "Referência aos judeus helenizantes, aliados a Antíoco Epifânio (cf. 11,30-32; 1Mac 1,11-14; 2Mac 4-5).",
+            "20": "Cf. 7,25.",
+            "21": "A palavra hebraica equivalente a o devastador (cf. 11,31; 12,11) contém um trocadilho com o nome de Baal-Chamém (Baal dos céus), que corresponde na Síria ao Zeus Olímpico. O texto refere-se à profanação do altar do templo de Jerusalém no tempo de Antíoco Epifânio, que ali terá mandado colocar uma estátua de Zeus Olímpico (cf. 1Mac 1,54). A expressão é utilizada no NT, no contexto da descrição da destruição do segundo templo pelos romanos (cf. Mt 24,15; Mc 13,14)."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "dn-9-n19",
+              "offset": 57,
+              "original_marker": "b",
+              "source_id": 100
+            },
+            {
+              "ref": "20",
+              "id": "dn-9-n20",
+              "offset": 112,
+              "original_marker": "c",
+              "source_id": 101
+            },
+            {
+              "ref": "21",
+              "id": "dn-9-n21",
+              "offset": 161,
+              "original_marker": "d",
+              "source_id": 102
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Profecia dos setenta anos de desolação (Jr 25,11-14; 29,10; 2Cr 36,20-",
           "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "Oração de Daniel (3,25-45; Esd 9,5-15; Ne 1,4-11; 9,5-37; Est 4,17k-z; Br",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A oração de Daniel pertence ao género literário de confissão comunitária do pecado (cf. 3,25- 45; Esd 9,5-15; Ne 1,4-11; 9,5-37; Est 4,17k-z; Sl 78; 106; Br 1,15-3,8). Num texto que é um verdadeiro mosaico de citações bíblicas, Daniel pede perdão a Deus pelos pecados do povo, que são a verdadeira razão da ruína de Jerusalém; e suplica-lhe que, na sua misericórdia, ponha termo à desolação."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "dn-9-n2",
+              "offset": 16,
+              "original_marker": "j",
+              "source_id": 84
+            }
+          ]
+        },
+        {
+          "before_verse": 20,
+          "text": "Revelação do anjo Gabriel (2; 7; 8; 11-12; Lc 1)",
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Ao contrário do que sucede noutros capítulos, no c. 9 de Daniel não se trata de explicar o sentido de uma visão, mas de revelar o significado de uma profecia bíblica. Trata-se de uma interpretação e atualização das profecias antigas, que obedece à mesma lógica dos comentários (pecharim) que se encontram nos textos de Qumran."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "dn-9-n15",
+              "offset": 25,
+              "original_marker": "j",
+              "source_id": 96
+            }
+          ]
         }
       ]
     },
@@ -1787,12 +3373,40 @@
         {
           "verse": 3,
           "text": "Não provei nenhum alimento preferido, nem entraram na minha boca carne ou vinho, nem me ungi com óleo perfumado, até se completarem as três semanas.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ao contrário do que sucede no c. 9 (cf. 9,3), o luto a que Daniel se sujeita não tem carácter penitencial; serve apenas como preparação para as revelações de cariz apocalíptico."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "dn-10-n2",
+              "offset": 147,
+              "original_marker": "f",
+              "source_id": 104
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "No dia vinte e quatro do primeiro mês, estando eu nas margens do grande rio, o rio Tigre,",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Cf. Dn 8,1.16; Ez 1,1. O rio Tigre é um dos dois grandes rios da região da Mesopotâmia."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "dn-10-n3",
+              "offset": 88,
+              "original_marker": "g",
+              "source_id": 105
+            }
+          ]
         },
         {
           "verse": 5,
@@ -1801,22 +3415,36 @@
         },
         {
           "verse": 6,
-          "text": "O seu corpo era semelhante ao topázio e o seu rosto O III O IV brilhava como o relâmpago; os seus olhos eram como chamas ardentes e os seus braços e as suas pernas tinham o aspeto do bronze polido; o som das suas palavras era como o da voz de uma multidão.",
-          "note_refs": []
+          "text": "O seu corpo era semelhante ao topázio e o seu rosto brilhava como o relâmpago; os seus olhos eram como chamas ardentes e os seus braços e as suas pernas tinham o aspeto do bronze polido; o som das suas palavras era como o da voz de uma multidão.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A descrição do ser de aspeto humano que aparece a Daniel em visão é fortemente inspirada no livro de Ezequiel (Ez 1; 9,2.3.11; 10,2.6.7; cf. Ap 1,13.15)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "dn-10-n4",
+              "offset": 244,
+              "original_marker": "h",
+              "source_id": 106
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "Só eu, Daniel, é que contem - plei esta visão. Os homens que estavam comigo não a viram, mas apoderou-se deles um tão grande terror que correram a esconder-se.",
+          "text": "Só eu, Daniel, é que contemplei esta visão. Os homens que estavam comigo não a viram, mas apoderou-se deles um tão grande terror que correram a esconder-se.",
           "note_refs": []
         },
         {
           "verse": 8,
-          "text": "Fiquei então sozinho a contemplar esta extraordinária visão. Já não me restavam mais forças, o brilho do meu rosto empalideceu e não consegui segurar as forças. (8,15-19; 9,22-23)",
+          "text": "Fiquei então sozinho a contemplar esta extraordinária visão. Já não me restavam mais forças, o brilho do meu rosto empalideceu e não consegui segurar as forças.",
           "note_refs": []
         },
         {
           "verse": 9,
-          "text": "Ouvi o som das suas palavras e, ao ouvir o som dessas palavras caí ator - doado de rosto por terra.",
+          "text": "Ouvi o som das suas palavras e, ao ouvir o som dessas palavras caí atordoado de rosto por terra.",
           "note_refs": []
         },
         {
@@ -1831,18 +3459,46 @@
         },
         {
           "verse": 12,
-          "text": "Ele continuou: ‘Não temas, Daniel, pois, desde o primeiro dia em que aplicaste o teu coração para compreenderes e te humilhares diante do teu Deus, as tuas pala - vras foram ouvidas e eu próprio vim por causa das tuas palavras.",
+          "text": "Ele continuou: ‘Não temas, Daniel, pois, desde o primeiro dia em que aplicaste o teu coração para compreenderes e te humilhares diante do teu Deus, as tuas palavras foram ouvidas e eu próprio vim por causa das tuas palavras.",
           "note_refs": []
         },
         {
           "verse": 13,
           "text": "O príncipe do reino da Pérsia opôs-me resistência durante vinte e um dias; então Miguel, um dos primeiros entre os príncipes, veio em meu auxílio e ali o deixei, junto dos reis da Pérsia.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Sobre a noção de que cada nação tem o seu anjo protetor, cf. Dt 32,8-9, segundo a versão dos Setenta. Esta é a primeira referência na Bíblia ao anjo Miguel, cujo nome significa “quem é como Deus?” e que, de acordo com Dn 10,21; 12,1, é o protetor do povo de Israel (cf. Ap 12,7)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "dn-10-n5",
+              "offset": 186,
+              "original_marker": "i",
+              "source_id": 107
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "E vim para te fazer compreender o que sucederá ao teu povo nos dias futuros, pois esta visão refere-se ainda a esses dias’.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Sobre a expressão nos dias futuros, cf. 2,28 e 8,17 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "dn-10-n6",
+              "offset": 122,
+              "original_marker": "j",
+              "source_id": 108
+            }
+          ]
         },
         {
           "verse": 15,
@@ -1852,7 +3508,21 @@
         {
           "verse": 16,
           "text": "Nisto, alguém com a aparência de um filho de homem tocou-me nos lábios. Abri a boca, falei e disse àquele que estava diante de mim: ‘Meu senhor, por causa desta visão, fui acometido de dores e não consegui segurar as forças.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Cf. Is 6,7; Jr 1,9."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "dn-10-n7",
+              "offset": 70,
+              "original_marker": "k",
+              "source_id": 109
+            }
+          ]
         },
         {
           "verse": 17,
@@ -1877,6 +3547,46 @@
         {
           "verse": 21,
           "text": "Mas vou anunciar-te o que está escrito no livro da verdade. E ninguém se esforçou comigo na luta contra eles, a não ser Miguel, o vosso príncipe.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Ainda que o texto seja de difícil interpretação, é necessário distinguir o livro da verdade dos livros referidos em 7,10. O livro da verdade pode ser o que contém a descrição do curso da História como acontece na literatura apocalíptica. Um paralelo oriental poderia ser a chamada “tábua dos destinos” da mitologia babilónica."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "dn-10-n8",
+              "offset": 58,
+              "original_marker": "a",
+              "source_id": 110
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Visão final: aparição do anjo (8,15-18; 9,20-21; Ez 1; 9; 10; Ap",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Os cc. 10 a 12 formam uma unidade: Daniel recebe a aparição de um anjo que lhe revela o que sucederá durante o período helenístico (c. 11) e lhe anuncia a vitória final do anjo Miguel e a salvação do povo de Deus (c. 12)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "dn-10-n1",
+              "offset": 29,
+              "original_marker": "e",
+              "source_id": 103
+            }
+          ]
+        },
+        {
+          "before_verse": 9,
+          "text": "Diálogo entre o anjo e Daniel (8,15-19; 9,22-23)",
           "note_refs": []
         }
       ]
@@ -1892,7 +3602,21 @@
         {
           "verse": 2,
           "text": "Mas digo-te agora a verdade: a Pérsia terá ainda mais três reis e o quarto destes reis há de acumular riqueza, mais que todos os outros. E, apoiando-se na sua riqueza, agitará tudo e todos contra o reino da Grécia.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Os quatro reis persas a que aqui se faz referência são, muito provavelmente, Ciro, Dario, Assuero (ou Xerxes) e Artaxerxes, os únicos monarcas persas a que se refere o texto bíblico (cf. 7,6; Esd 4,5-7)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "dn-11-n1",
+              "offset": 213,
+              "original_marker": "b",
+              "source_id": 111
+            }
+          ]
         },
         {
           "verse": 3,
@@ -1902,17 +3626,68 @@
         {
           "verse": 4,
           "text": "Contudo, depois de triunfar, o seu reino será quebrado e repartido pelos quatro ventos dos céus. Não passará à sua descendência, nem será tão vasto como o foi sob o seu domínio. A realeza será erradicada e dada a outros e não aos seus descendentes.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Referência ao reinado de Alexandre Magno (cf. 8,5-8)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "dn-11-n2",
+              "offset": 247,
+              "original_marker": "c",
+              "source_id": 112
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Entretanto, o rei do Sul mostrar-se-á poderoso, mas um dos seus oficiais prevalecerá contra ele e exercerá o domínio, um domínio mais poderoso que o do anterior.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O rei do Sul ou do Egito é Ptolomeu I Sóter. O general Seleuco I Nicátor, um dos seus oficiais, acabará por se tornar independente e fundar a dinastia dos Selêucidas, que exercerá domínio sobre os vastos territórios asiáticos conquistados por Alexandre Magno, o reino do Norte."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "dn-11-n3",
+              "offset": 160,
+              "original_marker": "d",
+              "source_id": 113
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Ao fim de alguns anos, farão uma aliança e a filha do rei do Sul irá ao encontro do rei do Norte para fazerem um acordo de justiça. Contudo, ela não conservará a força do seu braço e a sua descendência não subsistirá, pois será entregue ela, os que a conduziram, o seu filho e aquele que, naqueles tempos, a apoiou.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Ou: o seu progenitor, segundo o TM.",
+            "5": "O texto refere-se ao casamento de Antíoco II Teos, neto de Seleuco, com a princesa Berenice, filha de Ptolomeu II Filadelfo. Depois da morte de Antíoco II, Berenice, o filho de ambos e uma parte da sua corte serão assassinados no decurso de uma conspiração liderada pela primeira mulher de Antíoco, Laódice."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "dn-11-n4",
+              "offset": 274,
+              "original_marker": "e",
+              "source_id": 114
+            },
+            {
+              "ref": "5",
+              "id": "dn-11-n5",
+              "offset": 314,
+              "original_marker": "f",
+              "source_id": 115
+            }
+          ]
         },
         {
           "verse": 7,
@@ -1921,23 +3696,65 @@
         },
         {
           "verse": 8,
-          "text": "Levará cativos, para o Egito, os deuses deles, assim como as suas imagens de metal e os utensílios preciosos de prata e ouro. Durante uns anos, manter-se-á O longe do rei do Norte.",
+          "text": "Levará cativos, para o Egito, os deuses deles, assim como as suas imagens de metal e os utensílios preciosos de prata e ouro. Durante uns anos, manter-se-á longe do rei do Norte.",
           "note_refs": []
         },
         {
           "verse": 9,
           "text": "Este atacará o reino do rei do Sul, mas regressará ao seu país.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Trata-se do irmão de Berenice, Ptolomeu III Evergetes, que herdou o trono dos Ptolomeus em 246 a.C. Como vingança pelo assassinato da sua irmã, invadiu a Síria e venceu em batalha Seleuco II Calínico, filho de Laódice. Este último acabou por se recompor do ataque e retribuir o golpe, ainda que sem sucesso."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "dn-11-n6",
+              "offset": 62,
+              "original_marker": "g",
+              "source_id": 116
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Os seus filhos levantar-se-ão para a guerra, reunindo uma multidão numerosa de soldados, chegando como uma enxurrada que transborda; e de novo levantar-se-ão em guerra até à fortaleza.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Os filhos de Seleuco II Calínico são Seleuco III Sóter e Antíoco III, o Grande."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "dn-11-n7",
+              "offset": 183,
+              "original_marker": "h",
+              "source_id": 117
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "O rei do Sul ficará furioso e sairá a combater contra ele, contra o rei do Norte, que terá então reunido uma numerosa multidão, mas essa multidão cairá na mão do rei do Sul.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "A referência é à vitória de Ptolomeu IV Filopátor sobre Antíoco III em Rafia, em 217 a.C."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "dn-11-n8",
+              "offset": 172,
+              "original_marker": "i",
+              "source_id": 118
+            }
+          ]
         },
         {
           "verse": 12,
@@ -1957,47 +3774,173 @@
         {
           "verse": 15,
           "text": "Avançará então o rei do Norte, construirá uma rampa de ataque e acabará por capturar a cidade fortificada. As forças do reino do Sul, mesmo as suas tropas de elite, não lhe poderão resistir. Não há força que lhe resista.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Alguns anos depois, após a morte de Ptolomeu IV, Antíoco III volta a atacar o reino dos Ptolomeus, agora sob a liderança de Ptolomeu V Epifânio. Vencendo o exército de Ptolomeu em Bânias (mais tarde, Cesareia de Filipe), Antíoco passa a exercer domínio sobre o território da Palestina, onde distintas fações parecem ter-se envolvido em conflitos violentos. O parágrafo termina com uma referência à tomada de Sídon, em 198 a.C., por Antíoco III."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "dn-11-n9",
+              "offset": 219,
+              "original_marker": "j",
+              "source_id": 119
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "O invasor agirá conforme a sua vontade, já que ninguém lhe oporá resistência. Instalar-se-á na terra formosa e esta fica toda na sua mão.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Sobre a expressão terra formosa, cf. nota a 8,9."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "dn-11-n10",
+              "offset": 108,
+              "original_marker": "k",
+              "source_id": 120
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Ele tem em mente chegar a conquistar todo o seu reino. Estabelecerá um acordo com o rei e dar-lhe-á em casamento uma das suas filhas, a fim de o arruinar. Mas a ideia não vingará e não se realizará a favor dele.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Antíoco III fará um acordo de paz com Ptolomeu V e dar-lhe-á em casamento a sua filha Cleópatra. O objetivo era usurpar a liderança de Ptolomeu V, mas Cleópatra acabou por tomar o partido do marido e condenar ao fracasso o plano do pai."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "dn-11-n11",
+              "offset": 210,
+              "original_marker": "l",
+              "source_id": 121
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "Voltar-se-á então para as ilhas e conquistará muitas delas, até que um chefe militar porá termo ao insulto, sem lhe responder com insulto.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Antíoco III volta-se para a Ásia Menor e acaba por conquistar um certo número de ilhas gregas, acabando por enfrentar-se com os romanos, que lhe impõem pesada derrota em Magnésia em 190 a.C. O chefe militar é Cipião, cônsul romano, que liderou as tropas romanas em Magnésia."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "dn-11-n12",
+              "offset": 137,
+              "original_marker": "m",
+              "source_id": 122
+            }
+          ]
         },
         {
           "verse": 19,
-          "text": "Dirigir-se-á finalmente às fortalezas do seu próprio país, mas vai fracassar e, caindo em desgraça, não mais será encontrado. III II II III A IV III",
-          "note_refs": []
+          "text": "Dirigir-se-á finalmente às fortalezas do seu próprio país, mas vai fracassar e, caindo em desgraça, não mais será encontrado.",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Antíoco III retira-se para os seus domínios na Ásia e acaba por morrer assassinado em 187 a.C., no decurso de uma tentativa falhada de saquear o templo de Bel em Elam. O saque destinava-se a pagar o pesado tributo que lhe tinha sido imposto pelos romanos."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "dn-11-n13",
+              "offset": 124,
+              "original_marker": "n",
+              "source_id": 123
+            }
+          ]
         },
         {
           "verse": 20,
-          "text": "Em lugar dele erguer-se-á um outro que enviará um oficial a espoliar o esplendor do reino, mas, em apenas alguns dias, será destruído, ainda que não em resultado de fúria ou de guerra. (7,24-25; 8,23-25; 9,26-27)",
-          "note_refs": []
+          "text": "Em lugar dele erguer-se-á um outro que enviará um oficial a espoliar o esplendor do reino, mas, em apenas alguns dias, será destruído, ainda que não em resultado de fúria ou de guerra.",
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "O sucessor de Antíoco III, Seleuco IV Filopátor, foi obrigado a procurar fundos para pagar tributo aos romanos. Enviou Heliodoro a Jerusalém a fim de pilhar o tesouro do templo, episódio relatado em 2Mac 3. Heliodoro acabará por conspirar contra Seleuco e assassiná-lo em 175 a.C."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "dn-11-n14",
+              "offset": 183,
+              "original_marker": "a",
+              "source_id": 124
+            }
+          ]
         },
         {
           "verse": 21,
           "text": "Em seu lugar erguer-se-á um homem desprezado, a quem não havia sido conferida a dignidade da realeza. Virá pela calada e apoderar-se-á do reino com artimanhas.",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "A referência é para Antíoco IV Epifânio, que, na lógica do livro, adquiriu o poder por meio de artimanhas (cf. 8,23-25)."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "dn-11-n15",
+              "offset": 158,
+              "original_marker": "b",
+              "source_id": 125
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "Forças impetuosas serão dispersas e desbaratadas na sua frente e também o príncipe da aliança.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "O texto parece aludir neste ponto ao assassinato do sumo-sacerdote Onias III em 171 a.C. (cf. 9,26; 2Mac 4,23-28)."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "dn-11-n16",
+              "offset": 93,
+              "original_marker": "c",
+              "source_id": 126
+            }
+          ]
         },
         {
           "verse": 23,
           "text": "E fazendo alianças em seu benefício, usará de perfídia e, com apenas um punhado de homens, pôr-se-á em marcha e afirmará o seu poder.",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "A referência é, muito provavelmente, para a aliança com Pérgamo, que lhe permitiu adquirir o poder com recurso a uma força militar de pequenas dimensões."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "dn-11-n17",
+              "offset": 132,
+              "original_marker": "d",
+              "source_id": 127
+            }
+          ]
         },
         {
           "verse": 24,
@@ -2012,7 +3955,21 @@
         {
           "verse": 26,
           "text": "Aqueles que comem das suas iguarias irão arruiná-lo; o seu exército será esmagado e muitos cairão feridos de morte.",
-          "note_refs": []
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "O rei do Sul é agora Ptolomeu VI Filométor, que será derrotado por Antíoco IV, numa batalha junto a Gaza. O autor do texto culpa os conselheiros reais pela derrota."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "dn-11-n18",
+              "offset": 114,
+              "original_marker": "e",
+              "source_id": 128
+            }
+          ]
         },
         {
           "verse": 27,
@@ -2022,7 +3979,30 @@
         {
           "verse": 28,
           "text": "O rei regressará ao seu país com grandes riquezas e com a intenção de atacar a aliança santa. E, depois de o realizar, regressará para o seu país.",
-          "note_refs": []
+          "note_refs": [
+            "19",
+            "20"
+          ],
+          "notes": {
+            "19": "Os dois reis negoceiam de má-fé um com o outro e nenhum chega a prevalecer. Antíoco IV regressa finalmente a Antioquia.",
+            "20": "Isto é, o povo de Israel. Trata-se, muito provavelmente, de um ataque contra o templo de Jerusalém."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "dn-11-n19",
+              "offset": 49,
+              "original_marker": "f",
+              "source_id": 129
+            },
+            {
+              "ref": "20",
+              "id": "dn-11-n20",
+              "offset": 92,
+              "original_marker": "g",
+              "source_id": 130
+            }
+          ]
         },
         {
           "verse": 29,
@@ -2031,13 +4011,41 @@
         },
         {
           "verse": 30,
-          "text": "Será atacado por navios de Kitim, que lhe farão perder o ânimo e bater em retirada. Inflamar-se-á contra a aliança O IV A IV santa e agirá contra ela, mas voltou a dar atenção àqueles que tinham abandonado a aliança santa.",
-          "note_refs": []
+          "text": "Será atacado por navios de Kitim, que lhe farão perder o ânimo e bater em retirada. Inflamar-se-á contra a aliança santa e agirá contra ela, mas voltou a dar atenção àqueles que tinham abandonado a aliança santa.",
+          "note_refs": [
+            "21"
+          ],
+          "notes": {
+            "21": "Trata-se da segunda expedição de Antíoco IV contra o Egito ptolomaico em 168 a.C. Confrontado pelas forças romanas que exigem a sua retirada, Antíoco vê-se obrigado a partir de mãos vazias. A expressão Kitim deriva do nome da cidade cipriota de Kitium e serve para designar não só os habitantes de Chipre, mas todos os povos da bacia mediterrânea (cf. Gn 10,4; 1Mac 1,1; 8,5). Mais tarde, este termo passa a designar os romanos. O texto do c. 11,30 parece ter sido inspirado pela formulação em Nm 24,24."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "dn-11-n21",
+              "offset": 82,
+              "original_marker": "h",
+              "source_id": 131
+            }
+          ]
         },
         {
           "verse": 31,
           "text": "Da parte dele erguer-se-ão forças para profanar o santuário, a fortaleza; abolirão o sacrifício perpétuo e estabelecerão a abominação devastadora.",
-          "note_refs": []
+          "note_refs": [
+            "22"
+          ],
+          "notes": {
+            "22": "O parágrafo refere-se à perseguição desencadeada por Antíoco IV Epifânio contra o povo judeu, a partir de 168 a.C. Sobre a aliança de Antíoco com os judeus helenizantes, cf. 9,271; Mac 1,11- 14; 2Mac 4-5. Sobre a abominação devastadora, veja-se n. 102."
+          },
+          "note_positions": [
+            {
+              "ref": "22",
+              "id": "dn-11-n22",
+              "offset": 145,
+              "original_marker": "i",
+              "source_id": 132
+            }
+          ]
         },
         {
           "verse": 32,
@@ -2057,12 +4065,49 @@
         {
           "verse": 35,
           "text": "Alguns dos sabedores sucumbirão, a fim de serem provados, purificados e branqueados até ao tempo do fim, pois ainda não é o tempo determinado.",
-          "note_refs": []
+          "note_refs": [
+            "23"
+          ],
+          "notes": {
+            "23": "Os sabedores (em hebraico, maskilim) são um grupo de judeus que permanece fiel à aliança com Deus e procura guiar o povo; grupo com o qual o autor do livro de Daniel se identifica (cf. Dn 12). Partilhando com os judeus liderados por Judas Macabeu o ideal da fidelidade a Deus diante das ameaças de Antíoco Epifânio, o grupo parece, porém, ter adotado uma atitude mais pacifista. O termo maskilim é inspirado na figura do Servo Sofredor de Isaías (cf. Is 52,13; 53,11). Sobre as imagens adotadas na descrição do processo de purificação dos sábios, cf. Sir 2,5; Ap 7,14. Sobre a expressão tempo do fim, cf. 8,17 e nota."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "dn-11-n23",
+              "offset": 141,
+              "original_marker": "j",
+              "source_id": 133
+            }
+          ]
         },
         {
           "verse": 36,
           "text": "O rei agirá segundo a sua vontade; orgulhar-se-á e exaltar-se-á acima de todos os deuses e proferirá palavras arrogantes contra o Deus dos deuses. Prosperará apenas até que se encha a medida da cólera, pois foi decretado e será cumprido.",
-          "note_refs": []
+          "note_refs": [
+            "24",
+            "25"
+          ],
+          "notes": {
+            "24": "Cf. 7,8.20; 8,11.",
+            "25": "Cf. 8,19."
+          },
+          "note_positions": [
+            {
+              "ref": "24",
+              "id": "dn-11-n24",
+              "offset": 145,
+              "original_marker": "k",
+              "source_id": 134
+            },
+            {
+              "ref": "25",
+              "id": "dn-11-n25",
+              "offset": 236,
+              "original_marker": "l",
+              "source_id": 135
+            }
+          ]
         },
         {
           "verse": 37,
@@ -2077,7 +4122,21 @@
         {
           "verse": 39,
           "text": "Lidará com as mais inexpugnáveis fortalezas com a ajuda de um deus estrangeiro e cumulará de honra aqueles que o reconhecerem: dar-lhes-á domínio sobre muitos súbditos e distribuirá terras entre eles como recompensa.",
-          "note_refs": []
+          "note_refs": [
+            "26"
+          ],
+          "notes": {
+            "26": "Antíoco IV parece ter promovido, com especial devoção, o culto de Zeus Olímpico, identificado com Baal-Chamém. O autor do texto considera que tal preferência acarretou o desprezo pelo culto dos deuses dos seus antepassados e de Tamuz, o deus querido das mulheres (cf. Ez 8,14). Outras fontes literárias oferecem-nos uma visão menos polémica das preferências cultuais de Antíoco IV. A referência ao deus das fortalezas é de difícil interpretação; é possível que se trate de um título algo depreciativo aplicado a Zeus Olímpico."
+          },
+          "note_positions": [
+            {
+              "ref": "26",
+              "id": "dn-11-n26",
+              "offset": 215,
+              "original_marker": "m",
+              "source_id": 136
+            }
+          ]
         },
         {
           "verse": 40,
@@ -2086,27 +4145,104 @@
         },
         {
           "verse": 41,
-          "text": "Invadirá também a terra formosa e muitos milha - res sucumbirão. Apenas escaparão da sua mão os edomitas, os moabitas e os melhores dos amonitas.",
-          "note_refs": []
+          "text": "Invadirá também a terra formosa e muitos milhares sucumbirão. Apenas escaparão da sua mão os edomitas, os moabitas e os melhores dos amonitas.",
+          "note_refs": [
+            "27"
+          ],
+          "notes": {
+            "27": "Cf. nota 71."
+          },
+          "note_positions": [
+            {
+              "ref": "27",
+              "id": "dn-11-n27",
+              "offset": 31,
+              "original_marker": "n",
+              "source_id": 137
+            }
+          ]
         },
         {
           "verse": 42,
-          "text": "Estenderá a sua mão em direção a diferentes países O IV O e nem a terra do Egito escapará.",
+          "text": "Estenderá a sua mão em direção a diferentes países e nem a terra do Egito escapará.",
           "note_refs": []
         },
         {
           "verse": 43,
           "text": "Apoderar-se-á de tesouros de ouro e de prata, de tudo o que há de mais precioso no Egito; e líbios e etíopes seguirão os seus passos.",
-          "note_refs": []
+          "note_refs": [
+            "28"
+          ],
+          "notes": {
+            "28": "O texto refere-se à última expedição de Antíoco IV contra o Egito."
+          },
+          "note_positions": [
+            {
+              "ref": "28",
+              "id": "dn-11-n28",
+              "offset": 132,
+              "original_marker": "a",
+              "source_id": 138
+            }
+          ]
         },
         {
           "verse": 44,
           "text": "Contudo, rumores vindos do oriente e do Norte perturbá-lo-ão e ele partirá, cheio de fúria, a destruir e exterminar muitos.",
-          "note_refs": []
+          "note_refs": [
+            "29"
+          ],
+          "notes": {
+            "29": "Cf. 2Rs 19,7/Is 37,7. O texto parece referir-se à revolta dos Partos, a Oriente, e dos Arménios, a Norte, que motivou o regresso de Antíoco às regiões orientais do seu império, onde viria a morrer em 164 a.C."
+          },
+          "note_positions": [
+            {
+              "ref": "29",
+              "id": "dn-11-n29",
+              "offset": 122,
+              "original_marker": "b",
+              "source_id": 139
+            }
+          ]
         },
         {
           "verse": 45,
           "text": "Armará as tendas do seu acampamento real entre os mares, junto à montanha santa da terra formosa. Chegará então ao termo a sua vida, sem ter ninguém para o ajudar.",
+          "note_refs": [
+            "30",
+            "31"
+          ],
+          "notes": {
+            "30": "Isto é, entre o mar Mediterrâneo e Jerusalém.",
+            "31": "Sobre os relatos da morte de Antíoco Epifânio no livro de Daniel, cf. 8,27 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "30",
+              "id": "dn-11-n30",
+              "offset": 96,
+              "original_marker": "c",
+              "source_id": 140
+            },
+            {
+              "ref": "31",
+              "id": "dn-11-n31",
+              "offset": 162,
+              "original_marker": "d",
+              "source_id": 141
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Guerras entre Selêucidas e Ptolomeus (2,36-43; 7,23-24; 8,19-22)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 21,
+          "text": "Antíoco IV Epifânio (7,24-25; 8,23-25; 9,26-27)",
           "note_refs": []
         }
       ]
@@ -2117,22 +4253,87 @@
         {
           "verse": 1,
           "text": "Naquele tempo, erguer-se-á Miguel, o grande príncipe, que protege os filhos do teu povo. Será um tempo de angústia, como não terá havido até então, desde que o povo começou a existir. Naquele tempo, o teu povo será resgatado, todos os que se encontravam inscritos no livro.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Sobre Miguel, cf. 10,13.21 e nota.",
+            "2": "Cf. Ex 32,32; Is 4,3; Jr 30,7; Jl 2,2; Mt 24,15-22; Ap 3,5; 13,8; 17,8."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "dn-12-n1",
+              "offset": 87,
+              "original_marker": "e",
+              "source_id": 142
+            },
+            {
+              "ref": "2",
+              "id": "dn-12-n2",
+              "offset": 272,
+              "original_marker": "f",
+              "source_id": 143
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "E muitos dos que dormem no pó da terra acordarão, uns para a vida eterna, outros para o opróbrio e o horror eterno.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Neste parágrafo, anuncia-se tanto a libertação de Israel, com a morte de Antíoco Epifânio e o fim da perseguição desencadeada por ele, como o juízo e a ressurreição dos que morreram. Ainda que a linguagem da ressurreição seja usada nalgumas passagens da Bíblia em sentido figurado ou metafórico para designar a restauração nacional (cf. Is 26,19; Ez 37; Os 6,2), parece claro que Dn 12 se refere não só à libertação histórica do povo, mas também ao que sucederá depois da morte, eventualmente no termo da história (cf. 2Mac 7; 12,43-45; 1Cor 15,35-41)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "dn-12-n3",
+              "offset": 114,
+              "original_marker": "g",
+              "source_id": 144
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Os sábios resplandecerão como a luz do firmamento e os que tiverem conduzido muitos pelos caminhos da justiça brilharão como as estrelas por toda a eternidade.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Cf. 11,33-35; Mt 13,43."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "dn-12-n4",
+              "offset": 158,
+              "original_marker": "h",
+              "source_id": 145
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "E tu, Daniel, guarda em segredo as palavras e sela o livro até ao tempo do fim. Muitos andarão à procura e o conhecimento aumentará’. O IV",
-          "note_refs": []
+          "text": "E tu, Daniel, guarda em segredo as palavras e sela o livro até ao tempo do fim. Muitos andarão à procura e o conhecimento aumentará’.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Cf. 8,26. Sobre a expressão tempo do fim ou fim dos tempos aqui e nos vv. 9 e 13, cf. 8,17 e nota."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "dn-12-n5",
+              "offset": 132,
+              "original_marker": "i",
+              "source_id": 146
+            }
+          ]
         },
         {
           "verse": 5,
@@ -2142,12 +4343,40 @@
         {
           "verse": 6,
           "text": "Um deles disse ao homem vestido de linho que estava sobre as águas do rio: ‘Para quando será o fim destes prodígios?’",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Cf. 8,13 e nota; 10,5."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "dn-12-n6",
+              "offset": 117,
+              "original_marker": "j",
+              "source_id": 147
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Ouvi então o homem vestido de linho que estava sobre as águas do rio erguer as mãos, direita e esquerda, para os céus e jurar por Aquele que vive para sempre: ‘Será por um tempo, tempos e metade de um tempo. Quando a força do povo santo estiver inteiramente esgotada, então chegarão ao fim todas estas coisas’.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Sobre a expressão um tempo, tempos e metade de um tempo, cf. 7,25 e nota."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "dn-12-n7",
+              "offset": 309,
+              "original_marker": "k",
+              "source_id": 148
+            }
+          ]
         },
         {
           "verse": 8,
@@ -2162,7 +4391,21 @@
         {
           "verse": 10,
           "text": "Muitos serão purificados, branqueados, postos à prova; os malfeitores praticarão a maldade. Nenhum dos malfeitores compreenderá, mas os sabedores, esses compreenderão.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Cf. 11,35 e nota."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "dn-12-n8",
+              "offset": 166,
+              "original_marker": "l",
+              "source_id": 149
+            }
+          ]
         },
         {
           "verse": 11,
@@ -2172,11 +4415,46 @@
         {
           "verse": 12,
           "text": "Feliz daquele que perseverar e chegar aos mil trezentos e trinta e cinco dias.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Os vv. 11 e 12 acrescentam ainda mais dois números à já de si incerta cronologia do fim dos dias ou fim dos tempos”: o v. 11 afirma que o templo estará em estado de profanação 1290 dias, ao passo que o v. 12 parece implicar que serão afinal 1335 dias; compare-se 7,25 (três anos e meio = 1260 dias); 8,14 (1150 dias); 1Mac 4,52-54 (três anos = 1133 dias). O texto de 12,11.12 é, muito provavelmente, obra de glosadores que decidiram prolongar a cronologia para responder ao atraso no cumprimento do que se esperava que sucedesse."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "dn-12-n9",
+              "offset": 77,
+              "original_marker": "m",
+              "source_id": 150
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Mas, tu, caminha para o fim e descansa. Levantar-te-ás para o teu destino no fim dos dias’.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "O texto em hebraico do livro de Daniel termina com o anúncio da morte e da ressurreição final do protagonista, que é contado entre os sábios ou maskilim (cf. 12,2-3)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "dn-12-n10",
+              "offset": 90,
+              "original_marker": "n",
+              "source_id": 151
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Triunfo de Miguel e ressurreição dos mortos (2,44; 7,27; 2Mac 7;",
           "note_refs": []
         }
       ]
@@ -2187,11 +4465,25 @@
         {
           "verse": 1,
           "text": "Havia um homem chamado Joaquim que habitava na Babilónia.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Os cc. 13-14 chegaram até nós através das versões gregas da Bíblia e das traduções nelas baseadas, mas é provável que, na origem, tivessem sido escritos em hebraico ou aramaico. As histórias de Susana e de Bel e o Dragão gravitam em torno da figura de Daniel, mas foram redigidas e transmitidas, pelo menos inicialmente, de forma independente entre si e em relação ao resto do livro. Nos distintos manuscritos gregos, onde cada uma delas é transmitida como narrativa independente, ambas são reproduzidas junto ao livro de Daniel, mas nem sempre no final. A história de Susana aparece, em alguns manuscritos, antes do início de Daniel. Esta ordem corresponde à da Vulgata, que é a tradução latina de referência no Ocidente cristão e que primeiro incluiu estas narrativas como parte integral do livro. A tradução aqui apresentada segue a versão grega dita de Teodocião."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "dn-13-n1",
+              "offset": 30,
+              "original_marker": "o",
+              "source_id": 152
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "Tinha tomado como esposa uma mulher chamada Susana, filha de Hilquias, que era O muito bela e temente ao Senhor.",
+          "text": "Tinha tomado como esposa uma mulher chamada Susana, filha de Hilquias, que era muito bela e temente ao Senhor.",
           "note_refs": []
         },
         {
@@ -2207,12 +4499,40 @@
         {
           "verse": 5,
           "text": "Naquele ano, haviam sido constituídos como juízes dois anciãos do povo. A eles se aplicava o que o Senhor dissera: “Da Babilónia veio a iniquidade, de anciãos e juízes que eram considerados como quem governa o povo”.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Trata-se, muito provavelmente, de uma citação fictícia."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "dn-13-n2",
+              "offset": 215,
+              "original_marker": "a",
+              "source_id": 153
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Os dois anciãos frequentavam a casa de Joaquim e todos aqueles que tinham conflitos recorriam a eles.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Cf. Jz 5,5; 2Cr 19,10."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "dn-13-n3",
+              "offset": 100,
+              "original_marker": "b",
+              "source_id": 154
+            }
+          ]
         },
         {
           "verse": 7,
@@ -2257,7 +4577,21 @@
         {
           "verse": 15,
           "text": "Estando eles à espera do dia apropriado, chegou Susana, como o tinha feito nos dois dias anteriores, acompanhada por apenas duas jovens e, como estava calor, desejou tomar banho no jardim.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O mesmo motivo literário aparece em 2Sm 11."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "dn-13-n4",
+              "offset": 187,
+              "original_marker": "c",
+              "source_id": 155
+            }
+          ]
         },
         {
           "verse": 16,
@@ -2292,17 +4626,59 @@
         {
           "verse": 22,
           "text": "Susana suspirou angustiada e disse: “Estou cercada por todos os lados! Se fizer isto, sou réu de morte; se não o fizer, não poderei escapar-vos.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O adultério acarretava a pena de morte (cf. Lv 20,10; Dt 22,24; Jo 8)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "dn-13-n5",
+              "offset": 143,
+              "original_marker": "d",
+              "source_id": 156
+            }
+          ]
         },
         {
           "verse": 23,
           "text": "Contudo, é melhor para mim cair nas vossas mãos, sem ter feito nada, que pecar diante do Senhor”.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Cf. Gn 39,9; 2Sm 24,14; 2Mac 10,4; Sir 23,27; Mt 10,28."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "dn-13-n6",
+              "offset": 96,
+              "original_marker": "e",
+              "source_id": 157
+            }
+          ]
         },
         {
           "verse": 24,
           "text": "Susana gritou então com voz forte, mas os dois anciãos gritaram também contra ela",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Susana cumpre escrupulosamente o que está mandado na lei de Moisés: de acordo com Dt 22,24, a mulher que é assediada sexualmente encontrando-se no interior de uma cidade deve gritar por socorro. Caso contrário, a lei considera que, de algum modo, ela consente no adultério e é, por isso, culpada e réu de morte. O que poderia condenar Susana era, neste caso, apenas o falso testemunho dos dois anciãos."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "dn-13-n7",
+              "offset": 33,
+              "original_marker": "f",
+              "source_id": 158
+            }
+          ]
         },
         {
           "verse": 25,
@@ -2342,7 +4718,21 @@
         {
           "verse": 32,
           "text": "Aqueles homens perversos ordenaram que se retirasse o véu que a cobria a fim de se satisfazerem com a sua beleza.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "No ritual de ordálio previsto para o caso de uma mulher suspeita de adultério (Nm 5,11-31), está mandado que o sacerdote descubra a cabeça da mulher (5,18). O autor da história, contudo, dá outro motivo para o procedimento no caso de Susana."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "dn-13-n8",
+              "offset": 112,
+              "original_marker": "g",
+              "source_id": 159
+            }
+          ]
         },
         {
           "verse": 33,
@@ -2352,7 +4742,21 @@
         {
           "verse": 34,
           "text": "Os dois anciãos levantaram-se no meio do povo e puseram as mãos sobre a cabeça de Susana.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Cf. Lv 24,14."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "dn-13-n9",
+              "offset": 88,
+              "original_marker": "h",
+              "source_id": 160
+            }
+          ]
         },
         {
           "verse": 35,
@@ -2392,7 +4796,21 @@
         {
           "verse": 42,
           "text": "Susana bradou então com voz forte e disse: “Deus eterno, que conheces o que está oculto e sabes todas as coisas ainda antes que aconteçam,",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Cf. 2,22."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "dn-13-n10",
+              "offset": 137,
+              "original_marker": "a",
+              "source_id": 161
+            }
+          ]
         },
         {
           "verse": 43,
@@ -2407,11 +4825,25 @@
         {
           "verse": 45,
           "text": "Quando a levavam para ser executada, Deus despertou o espírito santo de um rapazinho chamado Daniel,",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "A história parece reportar-se ao período da infância ou adolescência de Daniel. É por esta razão que alguns dos manuscritos a reproduzem antes de Dn 1. O facto de a história de Susana ter lugar na Babilónia cria, contudo, um problema, já que 1,3-4.6 parece implicar que o protagonista já era jovem quando foi exilado para a Babilónia. Estas discrepâncias confirmam o que atrás se disse acerca da origem e transmissão de Dn 13-14 (cf. 3,2 e nota)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "dn-13-n11",
+              "offset": 99,
+              "original_marker": "b",
+              "source_id": 162
+            }
+          ]
         },
         {
           "verse": 46,
-          "text": "que bra - dou com voz forte: “Eu estou inocente do sangue desta mulher!”",
+          "text": "que bradou com voz forte: “Eu estou inocente do sangue desta mulher!”",
           "note_refs": []
         },
         {
@@ -2432,7 +4864,21 @@
         {
           "verse": 50,
           "text": "O povo regressou apressadamente e os anciãos disseram a Daniel: “Vem sentar-te no meio de nós e expõe-nos o teu pensamento, porque Deus te concedeu a dignidade de ancião”.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Cf. Lc 2,46."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "dn-13-n12",
+              "offset": 170,
+              "original_marker": "c",
+              "source_id": 163
+            }
+          ]
         },
         {
           "verse": 51,
@@ -2447,7 +4893,21 @@
         {
           "verse": 53,
           "text": "proferindo sentenças injustas, condenando os inocentes e absolvendo os culpados, ainda que o Senhor tenha declarado: ‘Não entregareis à morte o inocente e o justo!’.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "A citação é de Ex 23,7."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "dn-13-n13",
+              "offset": 164,
+              "original_marker": "d",
+              "source_id": 164
+            }
+          ]
         },
         {
           "verse": 54,
@@ -2486,13 +4946,27 @@
         },
         {
           "verse": 61,
-          "text": "Insurgiram-se, então, contra os dois anciãos, que Daniel tinha apanhado a cometer perjúrio pela sua própria boca, e aplicaram-lhes o mesmo tratamento que eles tão impiamente tinham preparado para o seu pró - ximo:",
+          "text": "Insurgiram-se, então, contra os dois anciãos, que Daniel tinha apanhado a cometer perjúrio pela sua própria boca, e aplicaram-lhes o mesmo tratamento que eles tão impiamente tinham preparado para o seu próximo:",
           "note_refs": []
         },
         {
           "verse": 62,
           "text": "entregaram-nos à morte, dando assim cumprimento à lei de Moisés. E assim foi poupada naquele dia uma vida inocente.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Cf. Dt 19,18-21."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "dn-13-n14",
+              "offset": 63,
+              "original_marker": "e",
+              "source_id": 165
+            }
+          ]
         },
         {
           "verse": 63,
@@ -2504,6 +4978,28 @@
           "text": "E, daquele dia em diante, Daniel gozou de grande consideração diante do povo.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "DANIEL E SUSANA",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Susana e os dois anciãos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 28,
+          "text": "Julgamento e condenação de Susana",
+          "note_refs": []
+        },
+        {
+          "before_verse": 44,
+          "text": "Intervenção de Daniel",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -2512,7 +5008,21 @@
         {
           "verse": 1,
           "text": "O rei Astíages foi juntar-se aos seus antepassados e o persa, Ciro, herdou o seu reino.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O rei Astíages foi um rei da Média, a quem Ciro usurpou o poder em 550 a.C., fundando assim o império persa. O autor do texto parece, contudo, supor que a transição ocorreu de forma natural."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "dn-14-n2",
+              "offset": 86,
+              "original_marker": "g",
+              "source_id": 167
+            }
+          ]
         },
         {
           "verse": 2,
@@ -2522,7 +5032,21 @@
         {
           "verse": 3,
           "text": "Os babilónios tinham um ídolo com o nome de Bel, ao qual dedicavam diariamente doze medidas de flor de farinha, quarenta ovelhas e seis medidas de vinho.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Bel era um dos epítetos de Marduc, o deus supremo da Babilónia (cf. Is 46,1-2; Jr 50,2)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "dn-14-n3",
+              "offset": 47,
+              "original_marker": "h",
+              "source_id": 168
+            }
+          ]
         },
         {
           "verse": 4,
@@ -2532,7 +5056,21 @@
         {
           "verse": 5,
           "text": "Disse-lhe o rei: “Porque não adoras Bel?” Daniel respondeu-lhe: “Porque eu não presto culto a ídolos feitos por mãos humanas, mas apenas ao Deus vivo, que criou o céu e a terra e é senhor sobre todas as criaturas”.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Cf. 6,21.27; Lv 26,1; Is 46,6; Mc 14,58; At 7,48; 14,15; Rm 1,19-23."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "dn-14-n4",
+              "offset": 213,
+              "original_marker": "i",
+              "source_id": 169
+            }
+          ]
         },
         {
           "verse": 6,
@@ -2561,7 +5099,7 @@
         },
         {
           "verse": 11,
-          "text": "Os sacerdotes de Bel disseram: “Nós vamos sair lá para fora; e tu, ó rei, manda trazer a comida e o vinho já misturado, fecha tu próprio a porta e sela-a com o teu anel. Se, ao regressares amanhã de manhã, não encontrares tudo comido por Bel, morrere - mos nós; caso contrário, será Daniel, que nos caluniou.”",
+          "text": "Os sacerdotes de Bel disseram: “Nós vamos sair lá para fora; e tu, ó rei, manda trazer a comida e o vinho já misturado, fecha tu próprio a porta e sela-a com o teu anel. Se, ao regressares amanhã de manhã, não encontrares tudo comido por Bel, morreremos nós; caso contrário, será Daniel, que nos caluniou.”",
           "note_refs": []
         },
         {
@@ -2591,7 +5129,7 @@
         },
         {
           "verse": 17,
-          "text": "“Os selos estão intactos, Daniel?” perguntou o rei. Daniel respondeu: “Estão intactos, sim, ó rei.”",
+          "text": "“Os selos estão intactos, Daniel?” – perguntou o rei. Daniel respondeu: “Estão intactos, sim, ó rei.”",
           "note_refs": []
         },
         {
@@ -2616,13 +5154,27 @@
         },
         {
           "verse": 22,
-          "text": "O rei mandou-os matar e entregou Bel nas mãos de Daniel, que o destruiu, a ele e ao seu templo. (3; 6; Heb 11,33)",
+          "text": "O rei mandou-os matar e entregou Bel nas mãos de Daniel, que o destruiu, a ele e ao seu templo.",
           "note_refs": []
         },
         {
           "verse": 23,
           "text": "Havia também um grande dragão, a quem os babilónios prestavam culto.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Os babilónios pretendiam argumentar com o facto de este dragão ou serpente ser um animal vivo, para dizer que ele tinha mais possibilidades de ser deus que os objetos inanimados antes referidos. Daniel consegue provar que, mesmo sendo um ser vivo, não é, apesar disso, um deus, isto é, não é imortal."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "dn-14-n5",
+              "offset": 67,
+              "original_marker": "a",
+              "source_id": 170
+            }
+          ]
         },
         {
           "verse": 24,
@@ -2636,7 +5188,7 @@
         },
         {
           "verse": 26,
-          "text": "“Eu dou-te licença!” replicou o rei.",
+          "text": "“Eu dou-te licença!” – replicou o rei.",
           "note_refs": []
         },
         {
@@ -2671,8 +5223,22 @@
         },
         {
           "verse": 33,
-          "text": "Nesse tempo, vivia na Judeia o profeta Habacuc. Tinha acabado de pre - parar um cozido e de migar pão para uma caçarola e encaminhava-se para o campo onde ia levá-la aos ceifeiros.",
-          "note_refs": []
+          "text": "Nesse tempo, vivia na Judeia o profeta Habacuc. Tinha acabado de preparar um cozido e de migar pão para uma caçarola e encaminhava-se para o campo onde ia levá-la aos ceifeiros.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Habacuc exerceu como profeta, na Judeia, durante a época neobabilónica, no período anterior à destruição de Jerusalém (587 a.C.). A história supõe que Habacuc ainda estava vivo na época de Ciro, o primeiro dos reis persas. Deve tratar-se, por conseguinte, de um dado ficcional."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "dn-14-n6",
+              "offset": 47,
+              "original_marker": "b",
+              "source_id": 171
+            }
+          ]
         },
         {
           "verse": 34,
@@ -2687,12 +5253,27 @@
         {
           "verse": 36,
           "text": "Então o anjo do Senhor agarrou-o pelo alto da cabeça e, segurando-o pelos cabelos, transportou-o, com um sopro da sua respiração, até à Babilónia, depositando-o no alto da cova. Então Habacuc gritou: “Daniel, Daniel, toma a refeição que Deus te enviou!”",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Cf. Ez 8,3; At 8,39; 2Cor 12,2."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "dn-14-n7",
+              "offset": 176,
+              "original_marker": "c",
+              "source_id": 172
+            }
+          ]
         },
         {
           "verse": 37,
           "text": "",
-          "note_refs": []
+          "note_refs": [],
+          "omitted": true
         },
         {
           "verse": 38,
@@ -2712,6 +5293,56 @@
         {
           "verse": 41,
           "text": "Clamou então com voz forte: “Tu és grande, Senhor, Deus de Daniel, não há outro além de ti”!",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Cf 2:47; 3:95-96; 6:26-28; Is 45,18; 46,9."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "dn-14-n8",
+              "offset": 91,
+              "original_marker": "d",
+              "source_id": 173
+            }
+          ]
+        },
+        {
+          "verse": 42,
+          "text": "Mandou-o retirar da cova e, quanto aos que procuravam causar-lhe a morte, atirou-os à cova e de imediato eles foram devorados, à vista dele.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "BEL E O DRAGÃO (14,1-42)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "As duas cenas que compõem a narrativa incluída no c. 14 de Daniel constituem uma sátira contra as práticas pagãs de idolatria. No Antigo Testamento, é possível encontrar outros exemplos deste género de paródia cultual em Is 44,9-20; Jr 10,1-16; Hab 2,18-19; Sl 115; 139."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "dn-14-n1",
+              "offset": 14,
+              "original_marker": "f",
+              "source_id": 166
+            }
+          ]
+        },
+        {
+          "before_verse": 1,
+          "text": "Daniel e os sacerdotes de Bel (Is 44,9-20; Jr 10,1-16; Hab 2,18-19;",
+          "note_refs": []
+        },
+        {
+          "before_verse": 23,
+          "text": "Daniel e o dragão (3; 6; Heb 11,33)",
           "note_refs": []
         }
       ]

@@ -1,13 +1,76 @@
 {
+  "schema_version": 2,
   "book": "Cântico dos Cânticos",
+  "book_id": "ct",
+  "source": {
+    "format": "docx",
+    "file": "26_Ct.docx",
+    "title": "Cântico dos Cânticos"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "O livro",
+        "paragraphs": [
+          "O título de Cântico dos Cânticos é tradução das duas primeiras palavras do hebraico: shir hashirim asher lishlomoh (“Cântico dos Cânticos, de Salomão”). A expressão é uma forma de superlativo, como “Santo dos santos” (Ex 26,33) ou “Rei dos reis” (Dn 2,37), e significa “o mais belo dos cânticos” ou “cântico maior”. Designar o livro como um “cântico” tem ainda a particularidade de insistir, desde logo, sobre a unidade da composição ou a intencionalidade de um texto, que, tal como se percebe na leitura, tem as características de uma antologia, um cântico feito de cânticos."
+        ]
+      },
+      {
+        "title": "Composição e data",
+        "paragraphs": [
+          "O título hebraico do livro parece atribuir a composição ao rei Salomão. Este é o filho e sucessor do rei David e a Bíblia celebra-o como o mais sábio dos reis (cf. 1Rs 3,12) e autor de inúmeros provérbios e cânticos (cf. 1Rs 5,12). Também lhe são atribuídos outros livros ditos sapienciais, como Provérbios, Eclesiastes e Sabedoria; e a tradição judaica celebra esta abundância e diversidade à luz da imagem histórica de rei sábio que a Bíblia descreve. No midrache Genesis Rabbah (séc. IV-VI d.C.), que reúne as tradições de interpretação rabínicas do livro do Génesis, diz-se que Salomão escreveu o Cântico dos Cânticos quando era jovem, porque é esse o tempo próprio de compor cânticos de amor; o livro dos Provérbios na idade adulta, quando o ser humano crê ajuizar com justiça o que o rodeia, e o Eclesiastes já de idade avançada, porque só aí se reconhece claramente que tudo é ilusão e vaidade (cf. Co 1,2; 12,8). Se a autoria de Salomão é pouco verosímil, a questão da datação do livro permanece claramente em aberto. Há alguma tendência entre estudiosos para ver o Cântico dos Cânticos como um livro tardio, composto no final do período persa ou no início do período helenístico, nos séculos IV ou III a.C. O principal argumento é de natureza filológica: o hebraico do Cântico dos Cânticos apresenta elementos de vocabulário que são palavras provenientes das línguas persa e grega; e algumas das suas construções sintáticas são consideradas como indícios de que o livro foi escrito muitos séculos depois da época do rei Salomão (séc. X a.C.).",
+          "Tendo isto em conta, é frequente assumir-se que possíveis alusões a outros textos bíblicos, nomeadamente Oseias, Deuteronómio e Provérbios, significam que o autor do Cântico dos Cânticos se deixou inspirar por eles. Tal posição não é unânime; há objeções aos argumentos apresentados e razões válidas para reavaliar a datação do livro. Presumíveis alusões a outros livros bíblicos, pelo menos em alguns casos, podem entender-se, ao contrário, como alusões que esses livros fazem ao fundo cultural do Cântico dos Cânticos, isto é, ao fundo",
+          "tradicional de poesia lírica de amor, em que o Cântico dos Cânticos também se baseia. Quanto ao registo linguístico do Cântico dos Cânticos, algumas peculiaridades podem ser variações dialetais como as do hebraico coloquial do Norte, o reino de Israel, ou opções estilísticas. Considerando a hipótese de o livro, ou uma parte, ser mais antigo, certas referências históricas, como a da primeira capital do reino do Norte, Tirça (6,4), que deixou de o ser cerca de 870 a.C., são mais fáceis de explicar. Parece assim mais prudente adotar uma posição intermédia. Aspetos linguísticos, nomeadamente o do vocabulário proveniente de outras línguas, parecem indicar que o Cântico dos Cânticos terá recebido a forma final como livro numa época relativamente tardia, durante os séculos IV ou III a.C. Por outro lado, é inteiramente possível que uma parte dos cânticos de amor nele recolhidos tenha sido escrita ou, pelo menos, transmitida oralmente alguns séculos antes, no período monárquico (séc. X-VI a.C.)."
+        ]
+      },
+      {
+        "title": "Género literário",
+        "paragraphs": [
+          "O aspeto mais saliente e, porventura, mais surpreendente do livro é o seu género literário. O Cântico dos Cânticos é um poema lírico de tema amoroso que celebra encontros e desencontros entre dois amados, dando-lhes a palavra de forma alternada, num diálogo estruturado em forma narrativa e de encenação teatral. O tema, o género e algumas das imagens e metáforas utilizadas são comuns na poesia lírica dos povos vizinhos de Israel e Judá no Próximo Oriente Antigo. Os estudos dos últimos anos têm posto em destaque paralelos literários da Mesopotâmia e do Egito. Deste último chegaram até nós coleções de poemas da época do Império Novo (séc. XVI-XI a.C.), nas quais um jovem ou uma jovem manifestam abertamente o seu amor pelo outro e onde se encontra parte dos motivos e das características estilísticas do Cântico dos Cânticos, como ao rei Salomão, por exemplo, o uso dos termos “irmão” e “irmã” para designar o amado e a amada, as referências ao corpo do amado ou da amada como motivo de contemplação estética, ou a escolha do “jardim” como lugar e enquadramento do amor. Na poesia lírica da Mesopotâmia, escrita em sumério e, depois, em acádico ao longo dos três milénios anteriores à era cristã, foram sobretudo as composições ligadas à deusa Inana e ao seu consorte Dumuzi que despertaram o interesse dos investigadores. Além de usarem motivos literários análogos, estes poemas adotam sistematicamente a forma de diálogo. Sob este aspeto, constituem um paralelo mais próximo que os cânticos de egípcios. Do ponto de vista cultural, literário e linguístico, a ligação da Bíblia com a Mesopotâmia é mais profunda que com o Egito. Mas não é prudente usar estes textos mesopotâmicos para dizer que o Cântico dos Cânticos nasceu num contexto cultual, como guião de um qualquer ritual hierogâmico. O teor literário dos cânticos nele incluídos mostra-nos que a sua origem e o seu foco principal está na ideia de celebrar o amor humano.",
+          "Nesse sentido, é frequente evocar-se um outro paralelo no folclore siro-palestinense. Em época mais recente em contexto cultural de língua árabe, o ritual do matrimónio é uma festa que se prolonga durante sete dias e inclui cânticos à beleza da amada e do amado (waṣf), com uma cerimónia de coroação dos esposos, na qual se celebra a realeza de ambos: o amado é rei e a amada, rainha. As semelhanças com o Cântico dos Cânticos entusiasmaram os estudiosos, sobretudo durante a primeira metade do século XX, e levaram à formulação da hipótese de que os cânticos deste livro teriam nascido e sido transmitidos em contexto de cerimónias nupciais. O paralelo é sugestivo, mas deve ser usado com cautela, não só para evitar qualquer anacronismo, mas sobretudo porque o Cântico dos Cânticos é mais uma obra literária que expressão de cerimónias e rituais."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "A divisão literária aqui adotada procura discernir uma estrutura que compreende um prólogo, cinco ciclos de cânticos proferidos pela amada e pelo amado, com um intermezzo a seguir ao primeiro, e um epílogo. Esta divisão bem como a atribuição de várias pequenas unidades do texto a diferentes personagens (Ele, Ela, Eles, Elas) não constam do texto hebraico; são fruto da análise do texto, tendo em conta os elementos morfológicos que definem quem fala e a quem se dirige."
+        ]
+      },
+      {
+        "title": "Interpretação e perspetiva teológica",
+        "paragraphs": [
+          "O erudito judeu Saadia Gaon (séc. IX-X d.C.) escreveu que o Cântico dos Cânticos era como uma porta fechada, da qual há muito se perdera a chave. Esta metáfora exprime bem a variedade e as subtilezas com que nas tradições judaica e cristã sempre se processou a sua leitura e interpretação e explica a abundância e variedade das interpretações adotadas nos mais de 2000 anos de leitura.",
+          "É justo dizer-se que, tanto no judaísmo como no cristianismo, se impôs, desde bastante cedo, a interpretação alegórica do Cântico dos Cânticos. O amor entre os amados, um amor habitado por uma paixão e desejo ardentes, é imagem ou metáfora do amor entre Deus e o povo de Israel ou entre Cristo e a Igreja. No caso do judaísmo, esta tradição de interpretação é pelo menos tão antiga como a Michná (séc. III d.C.) e influenciou decisivamente o uso litúrgico deste livro no contexto da sinagoga: o Cântico dos Cânticos é lido publicamente na Páscoa, pois o Targum, isto é, a tradução em aramaico, sugere que o livro descreve metaforicamente a história do povo de Israel, nomeadamente a libertação do Egito (Ex 12). Esta leitura metafórica pode mesmo ter sido um dos principais motivos que levaram o judaísmo antigo a integrar este livro no cânone da Bíblia.",
+          "No cristianismo, a leitura alegórica do Cântico dos Cânticos remonta pelo menos à época de Hipólito de Roma, no início do séc. III d.C., e recebe, com o comentário de Orígenes em dez volumes, na primeira metade do séc. III d.C., uma expressão insigne. Ao longo dos séculos, ao lado desta interpretação mais cristológica e eclesiológica do Cântico dos Cânticos, desenvolveram-se outras leituras: mariológicas, vendo na amada a imagem de Maria; místicas, vendo no livro uma alegoria da união mística entre Deus e a alma, e histórico-proféticas, anunciando alegoricamente as etapas da história da Igreja.",
+          "Nos últimos duzentos anos, a tendência tem sido para redescobrir a possibilidade de ler o Cântico dos Cânticos nos seus próprios termos, enquanto celebração do desejo apaixonado e do amor mútuo entre um homem e uma mulher. Trata-se, portanto, de poesia lírica de tema amoroso que celebra e descreve os avanços e recuos, o jogo de distância e intimidade que caracteriza a expressão do amor, na sua dimensão afetiva e sexual.",
+          "O leitor atual não precisa de assumir uma interpretação em detrimento da outra. A tradição de leitura alegórica legou-nos um riquíssimo património literário e espiritual. Vejam-se, a título de exemplo, os comentários de São Bernardo ou de São João da Cruz. Também no caso do cristianismo, é historicamente provável que estas leituras tenham contribuído para a decisão de incluir este livro no cânone das Escrituras. Por outro lado, ao assumir desta maneira o sentido literal, a exegese moderna e contemporânea reabriu a porta ao reconhecimento de que o amor entre homem e mulher é um lugar teológico a redescobrir: a beleza e sublimidade do encontro amoroso é dom divino e, por isso, sacramento da presença e intimidade de Deus com as suas criaturas."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "verse": 1,
-          "text": "Cântico dos cânticos. De Salomão. Ela",
-          "note_refs": []
+          "text": "Cântico dos cânticos. De Salomão.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O Cântico dos Cânticos é atribuído a Salomão. A tradição judaica atribui-lhe também o livro dos Provérbios, o Coélet ou Eclesiastes e o livro da Sabedoria. O filho e sucessor do rei David é o modelo do rei sábio (1Rs 5,12ss) e a isso se deve esta atribuição, que é, muito provavelmente, apenas simbólica."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ct-1-n3",
+              "offset": 32,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 2,
@@ -22,32 +85,97 @@
         {
           "verse": 4,
           "text": "Arrasta-me atrás de ti, corramos! Que o rei me faça entrar nos seus aposentos. Exultaremos e alegrar-nos-emos graças a ti, celebraremos as tuas carícias mais que o vinho! É com razão que te amam.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "No Cântico, o amado é, por vezes, identificado com um rei. Além de recurso literário, é possível interpretar os títulos reais à luz da tradição siro-palestinense de assim designar os noivos durante a celebração das núpcias."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ct-1-n4",
+              "offset": 77,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Eu sou morena, mas formosa, filhas de Jerusalém, como as tendas de Quedar, como os pavilhões de Salomão.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Ou: Eu sou morena e bela. A comparação da formosura da amada com as tendas dos nómadas de Quedar (Gn 25,13; Is 42,11; Jr 49,28; Sl 120,5) e com os pavilhões de Salomão faz como que uma síntese entre estes dois mundos.",
+            "6": "Ou: como os pavilhões de Salma. Segundo esta leitura, tratar-se-ia de uma outra tribo de nómadas e as duas comparações ficariam mais equivalentes."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ct-1-n5",
+              "offset": 73,
+              "original_marker": "e",
+              "source_id": 5
+            },
+            {
+              "ref": "6",
+              "id": "ct-1-n6",
+              "offset": 103,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "Não repareis em mim por ser trigueira: A O A O foi o sol que me queimou. Os filhos da minha mãe zangaram-se comigo: puseram-me a guardar as vinhas, mas a minha vinha, não a guardei.",
-          "note_refs": []
+          "text": "Não repareis em mim por ser trigueira: foi o sol que me queimou. Os filhos da minha mãe zangaram-se comigo: puseram-me a guardar as vinhas, mas a minha vinha, não a guardei.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "A amada defende, diante das donzelas de Jerusalém, a cor da sua pele, que é o sinal da sua origem. Ao ideal citadino e nobre da alvura (5,10; Lm 4,7-8) opõe-se a beleza trigueira da amada, que é comparada com a beleza das tendas escuras dos beduínos, em contraste com o amarelo do deserto, e com a beleza dos pavilhões do mais rico dos reis bíblicos."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ct-1-n7",
+              "offset": 63,
+              "original_marker": "a",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "Diz-me tu, amado da minha alma: onde apascentas o rebanho? Onde o levas a repousar ao meio dia? Por que teria eu de andar errante, atrás dos rebanhos dos teus companheiros? Ele",
+          "text": "Diz-me tu, amado da minha alma: onde apascentas o rebanho? Onde o levas a repousar ao meio dia? Por que teria eu de andar errante, atrás dos rebanhos dos teus companheiros?",
           "note_refs": []
         },
         {
           "verse": 8,
-          "text": "Se tu própria não o sabes, ó mais bela entre as mulheres, segue tu mesma o rasto do rebanho e apascenta as tuas cabrinhas junto às tendas dos pastores. Ele",
+          "text": "Se tu própria não o sabes, ó mais bela entre as mulheres, segue tu mesma o rasto do rebanho e apascenta as tuas cabrinhas junto às tendas dos pastores.",
           "note_refs": []
         },
         {
           "verse": 9,
           "text": "A uma égua dos carros do faraó eu te poderia comparar, amiga minha.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "A comparação da amada com uma égua dos carros do faraó do Egito segue os cânones literários e estéticos da antiguidade. Teócrito compara Helena de Troia a um “equino da Tessália”. Na região da Anatólia, a imagem do cavalo era associada à deusa do amor."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "ct-1-n9",
+              "offset": 66,
+              "original_marker": "c",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 10,
@@ -56,7 +184,7 @@
         },
         {
           "verse": 11,
-          "text": "Faremos para ti brincos de ouro com incrustações de prata. Ela",
+          "text": "Faremos para ti brincos de ouro com incrustações de prata.",
           "note_refs": []
         },
         {
@@ -71,12 +199,26 @@
         },
         {
           "verse": 14,
-          "text": "O meu amado é para mim um raminho de alfena nas vinhas de En-Guédi. Ele",
-          "note_refs": []
+          "text": "O meu amado é para mim um raminho de alfena nas vinhas de En-Guédi.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Nestes versos, a ação desloca-se da cena de um banquete de corte para o oásis de En-Guédi, na margem ocidental do mar Morto. O sentido do olfato guia esta transição, que traz os protagonistas até ao cenário paradisíaco daquela nascente de água em pleno deserto de Judá, cujo nome, “fonte do cervo”, evoca o universo animal que serve de metáfora e pano-de-fundo aos encontros entre amada e amado (cf. 2,7; 2,8-9; 2,17; 8,14)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "ct-1-n10",
+              "offset": 66,
+              "original_marker": "d",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "Como és bela, amiga minha! Como és bela! Teus olhos são pombas! Ela",
+          "text": "Como és bela, amiga minha! Como és bela! Teus olhos são pombas!",
           "note_refs": []
         },
         {
@@ -89,6 +231,85 @@
           "text": "As vigas das nossas casas são cedros, são ciprestes as nossas traves.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "TÍTULO E PRÓLOGO (1,1 – 2,7)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "As primeiras sete estrofes do cântico (1,2-4; 1,5-6; 1,7-8; 1,9-14; 1,15-17; 2,1-3; 2,4-7) parecem constituir uma espécie de prólogo. Os principais temas e imagens recebem uma primeira apresentação e o leitor é introduzido no dinamismo que caracteriza a totalidade do poema: amado e amada movem-se entre o desejo mútuo e a consumação do amor. A separação inicial, feita de perguntas (1,7), dá lugar ao (re)encontro amoroso (2,4-6), preparado e antecipado num diálogo apaixonado, onde há admiração e desejo mútuos (1,9-14; 1,15-16; 2,1-3). Característico do prólogo e de todo o livro é o contraste entre a atmosfera campestre e pastoril e o ambiente urbano e mesmo palaciano, no qual os amados se movem. Não há motivos para supor que o poema retrata uma situação histórica concreta, como a de Salomão apaixonado por uma pastora."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ct-1-n1",
+              "offset": 16,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
+        },
+        {
+          "before_verse": 2,
+          "text": "Ela",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O texto hebraico do Cântico não dá indicações explícitas sobre a identidade dos interlocutores nem da alternância entre eles. No entanto, as referências gramaticais do que é dito identificam cada um dos protagonistas (“ela”/amada e “ele”/amado), sugerindo ainda a presença de grupos (“elas”/filhas de Jerusalém?; “eles”/amigos do noivo?) que intervêm como um coro."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ct-1-n2",
+              "offset": 3,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
+        },
+        {
+          "before_verse": 8,
+          "text": "Ele",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "A resposta à pergunta da amada pode ser entendida como dada diretamente pelo amado. Há também quem entenda que ela é dada por um coro."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "ct-1-n8",
+              "offset": 3,
+              "original_marker": "b",
+              "source_id": 8
+            }
+          ]
+        },
+        {
+          "before_verse": 9,
+          "text": "Ele",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Ela",
+          "note_refs": []
+        },
+        {
+          "before_verse": 15,
+          "text": "Ele",
+          "note_refs": []
+        },
+        {
+          "before_verse": 16,
+          "text": "Ela",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -96,12 +317,26 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Eu sou o narciso de Saron, sou a açucena dos vales. Ele",
-          "note_refs": []
+          "text": "Eu sou o narciso de Saron, sou a açucena dos vales.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O Saron é a região costeira entre Jafa e o monte Carmelo. Pouco habitada na antiguidade, esta região de dunas e pauis era o habitat natural do narciso, o lírio-das-praias, que é provavelmente a flor à qual se faz aqui alusão."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ct-2-n1",
+              "offset": 25,
+              "original_marker": "e",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "Como açucena entre os cardos, assim é a minha amiga entre as donzelas. Ela",
+          "text": "Como açucena entre os cardos, assim é a minha amiga entre as donzelas.",
           "note_refs": []
         },
         {
@@ -112,7 +347,21 @@
         {
           "verse": 4,
           "text": "Ele conduziu-me à casa do banquete e o seu estandarte sobre mim é o amor.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O poema parece introduzir aqui elementos simbólicos do ambiente de guerra (cf. 4,4; 6,4; 8,10). A referência parece ser ao estandarte militar que, desfraldado sobre a cidade, assinala a conquista pelo exército inimigo, mas que aqui é transformado numa bandeira de amor."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ct-2-n2",
+              "offset": 72,
+              "original_marker": "f",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 5,
@@ -121,13 +370,27 @@
         },
         {
           "verse": 6,
-          "text": "A sua esquerda está sob a minha cabeça e a sua direita abraça-me. Ele",
+          "text": "A sua esquerda está sob a minha cabeça e a sua direita abraça-me.",
           "note_refs": []
         },
         {
           "verse": 7,
-          "text": "Eu vos suplico, filhas de Jerusalém, que jureis pelas gazelas ou pelas corças do campo que não acordareis nem despertareis o amor, antes de ela o desejar. (2,8-17; 3,1-5) Ela",
-          "note_refs": []
+          "text": "Eu vos suplico, filhas de Jerusalém, que jureis pelas gazelas ou pelas corças do campo que não acordareis nem despertareis o amor, antes de ela o desejar.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Neste refrão (cf. 3,5; 8,4) o amado pede às jovens de Jerusalém que não despertem a amada. A expressão pode ser entendida como um apelo a não “forçar” o amor de forma artificial ou, em alternativa, a não despertar os amantes do sono ou do sonho amoroso."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ct-2-n4",
+              "offset": 153,
+              "original_marker": "a",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 8,
@@ -141,7 +404,7 @@
         },
         {
           "verse": 10,
-          "text": "O meu amado respondeu e disse-me: Ele Levanta-te! Anda, amiga minha! Formosa minha, anda daí!",
+          "text": "O meu amado respondeu e disse-me: Levanta-te! Anda, amiga minha! Formosa minha, anda daí!",
           "note_refs": []
         },
         {
@@ -157,7 +420,21 @@
         {
           "verse": 13,
           "text": "Da figueira brotam já os primeiros figos e as videiras em flor difundem perfume. Levanta-te! Anda, amiga minha! Minha bela, anda daí!",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O poema celebra o amor entre os amantes, tendo como pano de fundo da exuberância natural que caracteriza a chegada da primavera. A tradição judaica lê o Cântico dos Cânticos no sábado durante a festa da Páscoa, porque reconhece nos dois amantes as figuras de Deus e do povo de Israel, cujas núpcias espirituais são o culminar da libertação do Egito, que, segundo o relato bíblico, ocorreu no início da primavera. Por outro lado, essa associação entre o texto e a Páscoa judaica é reforçada pela correspondência entre o tempo do poema e a época do ano em que se celebra a festa (Março-Abril)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ct-2-n5",
+              "offset": 79,
+              "original_marker": "c",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 14,
@@ -166,8 +443,22 @@
         },
         {
           "verse": 15,
-          "text": "Agarrai-nos as raposas, essas raposas pequenas que destroem as vinhas; e as nossas vinhas estão em flor. Ela",
-          "note_refs": []
+          "text": "Agarrai-nos as raposas, essas raposas pequenas que destroem as vinhas; e as nossas vinhas estão em flor.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "As raposas têm por hábito rondar as vinhas na altura da vindima em busca de alimento e são um animal que não goza de boa reputação no universo bíblico (Lm 5,18; Ne 3,35; Lc 13,34). Aqui parecem ser imagem de outros pretendentes, que vêm perturbar o amor entre o amado e a amada."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ct-2-n6",
+              "offset": 103,
+              "original_marker": "d",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 16,
@@ -177,6 +468,80 @@
         {
           "verse": 17,
           "text": "Antes que sopre a brisa do dia e as sombras se ponham em fuga, volta, amado meu! Sê como um cervo ou como um filhote de gazela pelas quebradas dos montes.",
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Ou: Enquanto sopra a brisa do dia e as sombras se afastaram. A referência temporal é ambígua. O tempo sugerido pode ser o da noite, antes de soprar a brisa da manhã, mas poderia ser também o do dia. No cântico seguinte, a ação decorre de noite (3,1). Mas cada unidade poética pode ter um contexto temporal diferente.",
+            "8": "Lit.: Sobre as montanhas de Béter. O termo hebraico béter pode aludir a uma localização geográfica real, a oeste de Jerusalém (cf. Js 15,59) ou, como aqui se traduz, ao aspeto das montanhas. Esta referência geográfica poderia, neste caso, constituir uma metáfora do corpo da amada."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ct-2-n7",
+              "offset": 61,
+              "original_marker": "e",
+              "source_id": 17
+            },
+            {
+              "ref": "8",
+              "id": "ct-2-n8",
+              "offset": 153,
+              "original_marker": "f",
+              "source_id": 18
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Ela",
+          "note_refs": []
+        },
+        {
+          "before_verse": 2,
+          "text": "Ele",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "Ela",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "Ele",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "Primeiro ciclo: dois cânticos da amada (2,8-17; 3,1-5) Ela",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "É possível dividir a secção seguinte do poema (2,8-5,1) em duas partes simétricas: aos dois cânticos da amada (2,8-15; 3,1-5) respondem dois cânticos do amado (4,1-7; 4,8-5,1). Pelo meio, em 3,6-11, o leitor é convidado a deter-se numa espécie de intermezzo, no qual o poeta ou um coro descreve a aproximação do que parece ser um cortejo nupcial para a cidade de Jerusalém."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ct-2-n3",
+              "offset": 38,
+              "original_marker": "b",
+              "source_id": 14
+            }
+          ]
+        },
+        {
+          "before_verse": 11,
+          "text": "Ele",
+          "note_refs": []
+        },
+        {
+          "before_verse": 16,
+          "text": "Ela",
           "note_refs": []
         }
       ]
@@ -192,21 +557,49 @@
         {
           "verse": 2,
           "text": "Levantar-me-ei e darei a volta à cidade. Pelas praças e pelas ruas procurarei aquele que a minha alma ama. Procurei-o, mas não o encontrei.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O comportamento pouco convencional da amada, ao percorrer a cidade à noite, sozinha, em busca do amado, leva certos exegetas a considerar que este segundo cântico da amada (3,1-5) descreve apenas um sonho."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ct-3-n1",
+              "offset": 105,
+              "original_marker": "g",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Encontraram-me os guardas, os que fazem ronda pela cidade: “Vistes aquele que a minha alma ama?”",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A referência não é a sentinelas que vigiam os arrabaldes da cidade, mas a guardas que percorrem as suas ruas e praças para manter a ordem. O poema parece aludir a uma função policial, a dos peripoloi, que se tornou comum em Israel somente na época helenística (c. 323-30 a.C.). Este elemento poderia eventualmente ser uma pista acerca da data de composição do livro."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ct-3-n2",
+              "offset": 57,
+              "original_marker": "a",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "Pouco me tinha afastado deles, quando encontrei aquele que a minha alma ama. Agarrei-o e não mais o larguei até o conduzir à casa da minha mãe, aos aposentos da que me concebeu. Ele",
+          "text": "Pouco me tinha afastado deles, quando encontrei aquele que a minha alma ama. Agarrei-o e não mais o larguei até o conduzir à casa da minha mãe, aos aposentos da que me concebeu.",
           "note_refs": []
         },
         {
           "verse": 5,
-          "text": "Eu vos suplico, filhas de Jerusalém, que jureis pelas gazelas ou pelas corças do campo que não acordareis nem despertareis o amor, antes de ela o desejar. (3,6-11) Eles",
+          "text": "Eu vos suplico, filhas de Jerusalém, que jureis pelas gazelas ou pelas corças do campo que não acordareis nem despertareis o amor, antes de ela o desejar.",
           "note_refs": []
         },
         {
@@ -217,12 +610,40 @@
         {
           "verse": 7,
           "text": "Eis aí a liteira de Salomão! Ao seu redor estão sessenta heróis, escolhidos entre os heróis de Israel!",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A liteira é a de Salomão, mas não é ele que é transportado nela: como era costume no Próximo Oriente antigo, os reis enviavam o seu próprio séquito para transportar a futura noiva, da cidade da sua família até à cidade onde o casamento se celebraria."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ct-3-n4",
+              "offset": 27,
+              "original_marker": "c",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Todos eles são exercitados na espada, adestrados para a guerra. Cada um traz à ilharga a sua espada, por causa do terror das noites.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Os guerreiros que escoltam o cortejo nupcial protegem-no não apenas de ladrões e salteadores, mas também de outros perigos que podem perturbar o idílio amoroso dos amantes durante a noite."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ct-3-n5",
+              "offset": 131,
+              "original_marker": "d",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 9,
@@ -232,12 +653,57 @@
         {
           "verse": 10,
           "text": "Fez de prata os seus pilares, de ouro o seu espaldar, de púrpura o seu assento. O seu interior foi revestido de ébano. Saí, filhas de Jerusalém,",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O texto massorético diz: revestido de amor. Seguimos a reestruturação e a tradução propostas pela NVg."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ct-3-n6",
+              "offset": 117,
+              "original_marker": "e",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "e contemplai, filhas de Sião, o rei Salomão com a coroa com que a sua mãe o coroou no dia do seu casamento, no dia de júbilo do seu coração.",
           "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Ela",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "Ele",
+          "note_refs": []
+        },
+        {
+          "before_verse": 6,
+          "text": "Cortejo nupcial (3,6-11) Eles",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O texto de 3,6-11 é um epitalâmio (do grego epi: “sobre” + thalamion: o “tálamo”), um género literário típico da poesia amorosa da época helenística, de que o Salmo 45 é também um exemplar. Este intermezzo descreve o que parece ser um cortejo nupcial que sobe do deserto de Judá (a leste) em direção às alturas de Jerusalém. As referências ao rei Salomão evocam o universo do esplendor e da solenidade reais. É pouco provável que o texto aluda a uma situação histórica concreta, ainda que não seja de excluir que episódios como a visita da rainha de Sabá (1Rs 10,1s) possam ter servido de inspiração ao poeta. O horizonte dos desertos do Sul é frequentemente sugerido no Cântico dos Cânticos, como em 1,5."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ct-3-n3",
+              "offset": 15,
+              "original_marker": "b",
+              "source_id": 21
+            }
+          ]
         }
       ]
     },
@@ -247,7 +713,21 @@
         {
           "verse": 1,
           "text": "Como és bela, amiga minha, como és bela! Os teus olhos são pombas, por trás do teu véu. O teu cabelo é como um rebanho de cabras que descem das encostas de Guilead.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A região montanhosa de Guilead encontra-se a leste do rio Jordão, entre os rios Jaboc e Jarmuc. Esta região nas margens do deserto e nos confins da civilização evoca um universo natural mais selvagem, ao qual a amada é aqui associada."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ct-4-n2",
+              "offset": 163,
+              "original_marker": "g",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 2,
@@ -262,7 +742,30 @@
         {
           "verse": 4,
           "text": "O teu pescoço é como a torre de David, construída por camadas. Dela estão suspensos mil broquéis, todos eles escudos de heróis.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Não é possível identificar a torre de defesa à qual o texto se refere. O edifício à entrada da cidadela de Jerusalém assim designado é uma construção medieval. É possível que o nome seja apenas uma criação literária. A imagem sugere a nobreza de carácter da amada.",
+            "4": "Ou: construída para troféus. O vocábulo hebraico que se costuma traduzir por camadas ou por troféus aparece apenas esta vez na Bíblia."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ct-4-n3",
+              "offset": 37,
+              "original_marker": "a",
+              "source_id": 27
+            },
+            {
+              "ref": "4",
+              "id": "ct-4-n4",
+              "offset": 61,
+              "original_marker": "b",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 5,
@@ -272,7 +775,21 @@
         {
           "verse": 6,
           "text": "Antes que sopre a brisa do dia e as sombras se ponham em fuga, eu irei ao monte da mirra e à colina do incenso.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Cf. 2,17 e nota."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ct-4-n5",
+              "offset": 61,
+              "original_marker": "a",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 7,
@@ -282,12 +799,40 @@
         {
           "verse": 8,
           "text": "Vem a mim do Líbano, noiva; vem a mim do Líbano. Vem! Desce do alto de Amaná, do cimo de Senir e do Hérmon. das cavernas dos leões, das montanhas dos leopardos.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O Líbano é a cadeia de montanhas que dá o nome ao país ali constituído na era moderna. Os outros três nomes designam montanhas nessa mesma cordilheira (Dt 3,9; 1Cr 5,23)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ct-4-n6",
+              "offset": 106,
+              "original_marker": "d",
+              "source_id": 30
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Arrebataste-me o coração, minha irmã noiva. arrebataste-me o coração com um dos teus olhares, com uma só pérola do teu colar.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "A expressão minha irmã coincide com uma das modalidades que se encontram nas literaturas do Médio Oriente como fórmula declarativa de casamento."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ct-4-n7",
+              "offset": 42,
+              "original_marker": "e",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 10,
@@ -297,12 +842,40 @@
         {
           "verse": 11,
           "text": "Os teus lábios destilam doçura, noiva, debaixo da tua língua há mel e leite; e o aroma das tuas vestes é como o aroma do Líbano.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "A referência ao mel e leite evoca as descrições da terra prometida, onde se diz que corre leite e mel (Ex 3,8.17; Lv 20,24; Dt 6,3; etc.). A amada é, como a terra prometida, fonte de bênção e gozo para o amado."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "ct-4-n8",
+              "offset": 75,
+              "original_marker": "f",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "És um jardim fechado, minha irmã noiva, uma nascente fechada, uma fonte selada.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Alguns manuscritos hebraicos e as traduções antigas leem: jardim fechado."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "ct-4-n9",
+              "offset": 60,
+              "original_marker": "g",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 13,
@@ -316,13 +889,53 @@
         },
         {
           "verse": 15,
-          "text": "Uma fonte de jardim, um poço de águas vivas que jorram do Líbano! Ela",
+          "text": "Uma fonte de jardim, um poço de águas vivas que jorram do Líbano!",
           "note_refs": []
         },
         {
           "verse": 16,
           "text": "Desperta, vento norte, vem, vento do sul! Sopra no meu jardim e que se espalhem as suas fragrâncias! Que o meu amado entre no seu jardim e saboreie os seus deliciosos frutos.",
           "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Segundo ciclo: dois cânticos do amado (4,1 - 7; 4,8 - 5,1) Ele",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O primeiro dos cânticos do amado (4,1-7) é um típico exemplar de um género literário conhecido na poesia oriental. Nele, o amado descreve o corpo da amada, numa contemplação embevecida da sua beleza, tal como acontece posteriormente na poesia árabe."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ct-4-n1",
+              "offset": 62,
+              "original_marker": "f",
+              "source_id": 25
+            }
+          ]
+        },
+        {
+          "before_verse": 16,
+          "text": "Ela",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "A estrofe final do segundo cântico (4,16-5,1) é uma resposta-convite da amada ao discurso do amado (4,8-15); inclui o momento da consumação do amor, descrito pelo amado, e termina com uma intervenção a ser atribuída ao poeta ou a um coro (5,1). Este apelo anónimo a gozar do amor como de manjar suculento e bebida inebriante encontra-se no centro do livro."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "ct-4-n10",
+              "offset": 3,
+              "original_marker": "h",
+              "source_id": 34
+            }
+          ]
         }
       ]
     },
@@ -331,8 +944,22 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Eu entrei no meu jardim, minha irmã noiva, colhi a minha mirra e o meu bálsamo; provei o meu favo com o meu mel, bebi o meu vinho e o meu leite. Comei, amigos! Bebei e inebriai-vos de carícias! (5,2-8; 5,9-16; 6,1-3) Ela",
-          "note_refs": []
+          "text": "Eu entrei no meu jardim, minha irmã noiva, colhi a minha mirra e o meu bálsamo; provei o meu favo com o meu mel, bebi o meu vinho e o meu leite. Comei, amigos! Bebei e inebriai-vos de carícias!",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ou:... inebriai-vos, amados. Estas duas linhas que poderiam ser do amado podem também ser entendidas como sugestão do poeta, se bem que não seja corrente que este intervenha com a sua palavra."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ct-5-n2",
+              "offset": 192,
+              "original_marker": "i",
+              "source_id": 35
+            }
+          ]
         },
         {
           "verse": 2,
@@ -357,27 +984,78 @@
         {
           "verse": 6,
           "text": "Eu abri a porta ao meu amado, mas o meu amado partira, já tinha passado. A minha alma desfaleceu quando ele falou. Procurei-o, mas não o encontrei. Chamei por ele, mas não me respondeu.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Fazendo parte do primeiro cântico, os vv. 6 a 8 introduzem uma nova cena: a porta acaba por se abrir, mas o amado já lá não está e, por isso, a amada, tal como em 3,1-5, parte em busca dele através da cidade.",
+            "4": "Ou: quando ele se afastou."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ct-5-n3",
+              "offset": 28,
+              "original_marker": "b",
+              "source_id": 37
+            },
+            {
+              "ref": "4",
+              "id": "ct-5-n4",
+              "offset": 113,
+              "original_marker": "c",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Encontraram-me os guardas, que fazem a ronda pela cidade. Bateram-me, feriram-me, levaram-me o manto que me cobria, eles, os guardas das muralhas.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Em contraste com o que acontecera em 3,3, os guardas maltratam a amada, dificultando a sua procura."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ct-5-n5",
+              "offset": 145,
+              "original_marker": "d",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Eu vos suplico que jureis, filhas de Jerusalém! Se encontrardes o meu amado, que haveis de lhe dizer? Que estou doente de amor! Elas",
+          "text": "Eu vos suplico que jureis, filhas de Jerusalém! Se encontrardes o meu amado, que haveis de lhe dizer? – Que estou doente de amor!",
           "note_refs": []
         },
         {
           "verse": 9,
-          "text": "Que é o teu amado mais do que outro, ó mais bela entre as mulheres? Que é o teu amado mais do que outro, para assim nos pedires um juramento? Ela",
+          "text": "Que é o teu amado mais do que outro, ó mais bela entre as mulheres? Que é o teu amado mais do que outro, para assim nos pedires um juramento?",
           "note_refs": []
         },
         {
           "verse": 10,
           "text": "O meu amado é alvo e rosado, distingue-se bem entre dez mil.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "A descrição da cor de pele do amado alude a um ideal de beleza que, segundo Lm 4,7-8, caracterizava os príncipes de outrora."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ct-5-n7",
+              "offset": 27,
+              "original_marker": "f",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 11,
@@ -392,21 +1070,122 @@
         {
           "verse": 13,
           "text": "As suas faces são como canteiros de bálsamo, onde crescem plantas aromáticas. Os seus lábios são lírios, dos quais a mirra se derrama.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "A referência parece ser ao odor exalado pela barba do amado. O efeito podia ter sido obtido graças ao derrame de óleo perfumado sobre a cabeça (Sl 133,2)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "ct-5-n8",
+              "offset": 76,
+              "original_marker": "g",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Os seus braços são rolos de ouro, com pedras de Társis engastadas. O seu ventre é uma placa de marfim, cravejada de safiras.",
-          "note_refs": []
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "A localização exata de Társis permanece desconhecida, sendo a Ásia Menor e o sul de Espanha as hipóteses mais plausíveis. Segundo o livro dos Reis, Salomão recebia regularmente de Társis grandes quantidades de ouro, prata e objetos preciosos (1Rs 10,22).",
+            "10": "Safira é o nome usado na Bíblia e na antiguidade para uma pedra preciosa que tem afinidades com o lápis lazúli."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "ct-5-n9",
+              "offset": 65,
+              "original_marker": "h",
+              "source_id": 43
+            },
+            {
+              "ref": "10",
+              "id": "ct-5-n10",
+              "offset": 123,
+              "original_marker": "i",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "As suas pernas são colunas de alabastro, assentes em bases de ouro puro. O seu aspeto é como o Líbano, jovem esbelto como os cedros.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "A descrição do corpo do amado evoca a de um edifício esplendidamente construído. É possível reconhecer aqui uma alusão ao templo edificado por Salomão (1Rs 6-7), com revestimentos a ouro, madeira de cedros do Líbano, e também alabastro (1Cr 29,2)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "ct-5-n11",
+              "offset": 131,
+              "original_marker": "a",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "A sua boca é só doçura e tudo nele é desejável. Este é o meu amado, este é o meu amigo, ó filhas de Jerusalém!",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Ele",
+          "note_refs": []
+        },
+        {
+          "before_verse": 2,
+          "text": "Terceiro ciclo: novos cânticos da amada (5,2-8; 5,9-16; 6,1-3) Ela",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Após o clímax amoroso em 5,1, o leitor é reconduzido a uma cena marcada por desencontro e separação. O primeiro destes novos cânticos da amada (5,2-8), que é tematicamente comparável ao cântico em 2,8-17, mostra como o amado vem ao encontro da sua amada, para estar com ela na intimidade; mas a porta da casa revela-se um obstáculo ao amor."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ct-5-n1",
+              "offset": 66,
+              "original_marker": "a",
+              "source_id": 36
+            }
+          ]
+        },
+        {
+          "before_verse": 9,
+          "text": "Elas",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O segundo dos novos cânticos da amada (5,9-16) está estruturado como um diálogo. A pergunta feita pelo coro das filhas de Jerusalém (5,9) induz a amada a descrever em detalhe o amado (cf. 4,1-7), ainda que, neste caso, a contemplação da beleza do amado aconteça sob a forma de memória, uma vez que aquele não se encontra presente."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ct-5-n6",
+              "offset": 4,
+              "original_marker": "e",
+              "source_id": 40
+            }
+          ]
+        },
+        {
+          "before_verse": 10,
+          "text": "Ela",
           "note_refs": []
         }
       ]
@@ -416,7 +1195,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Para onde foi o teu amado, ó mais bela entre as mulheres? Para onde se dirigiu o teu amado? Queremos procurá-lo contigo! Ela",
+          "text": "Para onde foi o teu amado, ó mais bela entre as mulheres? Para onde se dirigiu o teu amado? Queremos procurá-lo contigo!",
           "note_refs": []
         },
         {
@@ -426,13 +1205,36 @@
         },
         {
           "verse": 3,
-          "text": "Eu sou para o meu amado e o meu amado é para mim, ele que apascenta entre os lírios. Ele",
+          "text": "Eu sou para o meu amado e o meu amado é para mim, ele que apascenta entre os lírios.",
           "note_refs": []
         },
         {
           "verse": 4,
-          "text": "Tu és bela, amiga minha, como Tirça, formosa como Jerusalém; terrível como um exército em linha de batalha. A É O",
-          "note_refs": []
+          "text": "Tu és bela, amiga minha, como Tirça, formosa como Jerusalém; terrível como um exército em linha de batalha.",
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Tirça foi a primeira capital do reino do Norte (Israel), após a divisão do reino de Salomão. Jerusalém permaneceu a capital do reino do Sul (Judá). Na figura da mulher amada, o amado parece celebrar a unidade nacional reencontrada.",
+            "4": "Outros entendem que se trata de uma alusão a um barco de guerra de pavilhões desfraldados. De qualquer modo, o poema parece evocar o universo simbólico da guerra (cf. 2,4; 4,4; 8,10), mas desta vez para insistir sobre o aspeto conquistador da amada. O facto de o fim do v. 4 aparecer igualmente em 6,10 pode ser um indício de que as alusões à guerra e à conquista, entre o final de 6,4 e o início de 6,5, tenham inicialmente pertencido a 6,10. Em 6,4-6 estas alusões à guerra parecem interromper a sequência de louvores às formas físicas da amada."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ct-6-n3",
+              "offset": 59,
+              "original_marker": "d",
+              "source_id": 48
+            },
+            {
+              "ref": "4",
+              "id": "ct-6-n4",
+              "offset": 106,
+              "original_marker": "e",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 5,
@@ -452,17 +1254,45 @@
         {
           "verse": 8,
           "text": "Sessenta são as rainhas, oitenta as concubinas e inumeráveis as donzelas.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Evocando a imagem de um harém real, eventualmente como o de Salomão (1Rs 11,3), o cântico pretende insistir sobre o carácter único e inigualável da amada."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ct-6-n5",
+              "offset": 72,
+              "original_marker": "f",
+              "source_id": 50
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "Ela é única, a minha pomba, a minha perfeita! Ela é única para a sua mãe, a predileta da que a deu à luz. Viram-na as donzelas e felicitaram-na, rainhas e concubinas entoaram-lhe louvores. Eles",
+          "text": "Ela é única, a minha pomba, a minha perfeita! Ela é única para a sua mãe, a predileta da que a deu à luz. Viram-na as donzelas e felicitaram-na, rainhas e concubinas entoaram-lhe louvores.",
           "note_refs": []
         },
         {
           "verse": 10,
-          "text": "Quem é esta que espreita como a aurora, bela como a lua, radiante como o sol, terrível como um exército em linha de batalha? Ele",
-          "note_refs": []
+          "text": "Quem é esta que espreita como a aurora, bela como a lua, radiante como o sol, terrível como um exército em linha de batalha?",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Esta pergunta, tal como em 3,6, parece proferida por uma espécie de coro. O duplo aspeto de bela e terrível da amada (cf. 6,4 e nota) é comparável ao da lua, do sol e do restante exército celeste (Dt 4,19; 17,3; 2Rs 17,16; 21,3.5; 23,4; Jr 8,2; 19,13; etc.)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ct-6-n6",
+              "offset": 123,
+              "original_marker": "g",
+              "source_id": 51
+            }
+          ]
         },
         {
           "verse": 11,
@@ -472,11 +1302,75 @@
         {
           "verse": 12,
           "text": "Sem eu me dar conta, o meu desejo colocou-me no carro; comigo está o príncipe.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Este é o versículo mais obscuro do Cântico dos Cânticos. Alguns renunciaram mesmo a traduzi- -lo. O que aqui se propõe é uma tradução que procura iluminar o sentido do texto hebraico à luz do seu contexto imediato. Nem sequer é muito claro se esta frase se deve atribuir ao amado ou à amada. Nos cânticos de amor egípcios é referida uma personagem, algo semelhante a Cupido, que gira com o seu carro e interfere na vida dos amantes."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ct-6-n7",
+              "offset": 77,
+              "original_marker": "h",
+              "source_id": 52
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Elas",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O terceiro cântico (6,1-3), tal como o segundo, está concebido como um diálogo entre as filhas de Jerusalém (6,1) e a amada (6,2-3) e retoma o tema da união, como sugerem a metáfora da descida ao jardim (cf. 5,1) e o refrão que celebra a mútua entrega (cf. 2,16)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ct-6-n1",
+              "offset": 4,
+              "original_marker": "b",
+              "source_id": 46
+            }
+          ]
+        },
+        {
+          "before_verse": 2,
+          "text": "Ela",
           "note_refs": []
         },
         {
-          "verse": 13,
-          "text": "Roda, roda, Sulamita! Roda, roda, para te contemplarmos! Elas Que contemplais vós na Sulamita, quando baila entre dois campos? Ele",
+          "before_verse": 4,
+          "text": "Quarto ciclo: novos cânticos do amado (6,4-12; 7,1-11) Ele",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Os dois novos cânticos do amado (6,4-12; 7,1-11) formam um díptico. Em cada um deles, a descrição do corpo da amada (6,4-9; 7,2-6) é seguida de um refrão que celebra o encanto diante da beleza da mulher (6,10; 7,7-8). As duas unidades poéticas culminam na descrição do movimento do amado ao encontro da amada, usando imagens antitéticas como descer (6,11-12) e subir (7,9-11)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ct-6-n2",
+              "offset": 37,
+              "original_marker": "c",
+              "source_id": 47
+            }
+          ]
+        },
+        {
+          "before_verse": 10,
+          "text": "Eles",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Ele",
           "note_refs": []
         }
       ]
@@ -486,8 +1380,31 @@
       "verses": [
         {
           "verse": 1,
-          "text": "",
-          "note_refs": []
+          "text": "Roda, roda, Sulamita! Roda, roda, para te contemplarmos! Que contemplais vós na Sulamita, quando baila entre dois campos?",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "A amada é designada como Sulamita. A expressão pode ser interpretada como a forma feminina do nome Salomão ou como a referência ao lugar de origem da amada (de Chuném, como Abisag, cuja beleza é celebrada em 1Rs 1,3). É ainda possível entendê-la à luz do significado básico da raiz hebraica utilizada (šalam: “estar completo”, “estar em paz”): a amada é a mulher perfeita que encontra ou faz encontrar a a paz (8,10). A ideia de perfeição atribuída à amada é também expressa com o termo tammah, isto é, perfeita (5,2; 6,9).",
+            "2": "A dança designada meḥolah, a que aqui se faz referência, é, na Bíblia, frequentemente associada à celebração de vitórias militares (Ex 15,20; Jz 11,34; 1 Sm 18,6-7; 21,12; 29,5). A amada, cidade conquistada (2,4), é também exército vencedor."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ct-7-n1",
+              "offset": 20,
+              "original_marker": "a",
+              "source_id": 53
+            },
+            {
+              "ref": "2",
+              "id": "ct-7-n2",
+              "offset": 120,
+              "original_marker": "b",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 2,
@@ -507,7 +1424,21 @@
         {
           "verse": 5,
           "text": "O teu pescoço é como torre de marfim; os teus olhos são as piscinas que há em Hesbon, junto à porta de Bat-Rabim. O teu nariz é como a torre do Líbano, sentinela voltada para Damasco.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Hesbon era uma cidade na Transjordânia, a capital do reino de Seon, rei dos amorreus (Nm 21,26). Depois da conquista, passou a fazer parte do território das tribos de Rúben e Gad. Bat- -Rabim refere-se ou à mesma cidade ou a uma outra localidade, cuja identificação nos escapa. A torre do Líbano, da qual se observa Damasco, pode ser uma referência ao monte Hermon, do qual se vislumbra toda a planície de Damasco."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ct-7-n3",
+              "offset": 182,
+              "original_marker": "c",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 6,
@@ -531,23 +1462,92 @@
         },
         {
           "verse": 10,
-          "text": "e a tua boca como vinho delicioso que desliza suavemente acariciando-me e escorrendo pelos meus lábios e dentes. Ela",
+          "text": "e a tua boca como vinho delicioso que desliza suavemente acariciando-me e escorrendo pelos meus lábios e dentes.",
           "note_refs": []
         },
         {
           "verse": 11,
-          "text": "Eu sou para o meu amado e é por mim a sua paixão. (7,12; 8,1-4) Ela",
+          "text": "Eu sou para o meu amado e é por mim a sua paixão.",
           "note_refs": []
         },
         {
           "verse": 12,
           "text": "Anda, amado meu, vamos sair para o campo, passemos a noite entre arbustos de alfena.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Ou: nas aldeias."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ct-7-n6",
+              "offset": 83,
+              "original_marker": "f",
+              "source_id": 58
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Vamos madrugar pelas vinhas, para ver se a videira já floresceu, se os botões abriram, se as romãzeiras estão em flor. Ali te entregarei as minhas carícias.",
           "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "As mandrágoras exalam perfume e à nossa porta tudo são frutos deliciosos; frutos novos e também frutos secos, para ti os guardei, amado meu.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Eles",
+          "note_refs": []
+        },
+        {
+          "before_verse": 2,
+          "text": "Elas Ele",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Ela",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "É possível também que seja a amada a completar a frase iniciada pelo amado no v. 10, dando voz à consumação do amor, que culmina este segundo cântico do amado (cf. 6,3)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ct-7-n4",
+              "offset": 3,
+              "original_marker": "d",
+              "source_id": 56
+            }
+          ]
+        },
+        {
+          "before_verse": 12,
+          "text": "Quinto ciclo: últimos cânticos da amada (7,12; 8,1-4) Ela",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Os últimos dois cânticos da amada celebram a união amorosa dos amantes em dois cenários diferentes: no meio da natureza (7,12-14) e no interior da casa materna (8,1-4). O contraste entre campo e cidade, mundo natural e sociedade humana e familiar, é uma constante ao longo do livro e recebe aqui um desenlace feliz: o amor triunfa tanta num sítio como no outro. O epílogo (8,5-14), contudo, problematiza a questão."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ct-7-n5",
+              "offset": 39,
+              "original_marker": "e",
+              "source_id": 57
+            }
+          ]
         }
       ]
     },
@@ -557,12 +1557,40 @@
         {
           "verse": 1,
           "text": "Quem dera que tu fosses para mim como um irmão, amamentado aos seios da minha mãe! Encontrando-te na rua, dar-te-ia um beijo e ninguém me iria censurar.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Sobre a referência à consanguinidade para formular o desejo de intimidade amorosa, ver nota em 4,9."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ct-8-n1",
+              "offset": 81,
+              "original_marker": "a",
+              "source_id": 59
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Poderia conduzir-te e introduzir-te na casa da minha mãe, daquela que me ensinou. Dar-te-ia a beber do vinho doce, do sumo da minha romã.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ou: Tu me ensinarias. O hebraico permite ambas as traduções, sendo mais provável a primeira."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ct-8-n2",
+              "offset": 80,
+              "original_marker": "b",
+              "source_id": 60
+            }
+          ]
         },
         {
           "verse": 3,
@@ -571,22 +1599,77 @@
         },
         {
           "verse": 4,
-          "text": "Eu vos suplico, filhas de Jerusalém, que não acordeis nem desperteis o amor antes de ela o desejar. Eles",
+          "text": "Eu vos suplico, filhas de Jerusalém, que não acordeis nem desperteis o amor antes de ela o desejar.",
           "note_refs": []
         },
         {
           "verse": 5,
-          "text": "Quem é esta que sobe do deserto apoiada no seu amado? Ele Sob a macieira eu te despertei; ali onde a tua mãe sentiu as dores de parto, ali onde sentiu as dores de parto aquela que te deu à luz. Ela",
-          "note_refs": []
+          "text": "Quem é esta que sobe do deserto apoiada no seu amado? Sob a macieira eu te despertei; ali onde a tua mãe sentiu as dores de parto, ali onde sentiu as dores de parto aquela que te deu à luz.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Ou:... ali foi abraçada. O verbo hebraico aqui usado pode ser entendido como representando as dores do parto ou o abraço da conceção."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ct-8-n4",
+              "offset": 129,
+              "original_marker": "d",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Põe-me como um selo sobre o teu coração, como um selo sobre o teu braço, pois o amor é forte como a morte, a paixão, implacável como o Cheol. As suas setas são setas de fogo, fortíssimas labaredas.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "notes": {
+            "5": "A referência é aqui a um selo cilíndrico, que era habitualmente transportado pelo seu proprietário pendente de um cordão atado à volta do pescoço (Gn 38,18) ou de uma bracelete atada à volta do pulso. O selo cilíndrico, além de ser tido como uma espécie de amuleto, era um objeto tão intimamente ligado ao seu proprietário que é frequente encontrá-lo depositado na sepultura, junto ao corpo. É, por isso, imagem apropriada de uma união amorosa que se diz desafiar a morte.",
+            "6": "A paixão é aqui expressa pelo termo que pode também ser entendido como zelo ou ciúme.",
+            "7": "O Cheol é, na cultura bíblica, o lugar ou reino dos mortos. Tal como nada pode fazer frente ao inexorável apetite do Cheol pelos que a ele estão destinados, também a paixão amorosa se mostra implacável à hora de guardar para si o amado ou a amada.",
+            "8": "Ou: labaredas divinas. Na expressão hebraica chalhebet yah é possível interpretar o yah final como a abreviatura de Yahveh, como em halelu-yah, e traduzir como labaredas de Yah. Seria, neste caso, a única referência explícita ao Deus de Israel em todo o Cântico dos Cânticos. Optámos por interpretá-lo como um superlativo, à luz de Jr 2,31."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ct-8-n5",
+              "offset": 71,
+              "original_marker": "e",
+              "source_id": 63
+            },
+            {
+              "ref": "6",
+              "id": "ct-8-n6",
+              "offset": 115,
+              "original_marker": "f",
+              "source_id": 64
+            },
+            {
+              "ref": "7",
+              "id": "ct-8-n7",
+              "offset": 140,
+              "original_marker": "g",
+              "source_id": 65
+            },
+            {
+              "ref": "8",
+              "id": "ct-8-n8",
+              "offset": 196,
+              "original_marker": "h",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "As águas caudalosas não podem extinguir o amor, nem as torrentes podem submergi-lo. Se alguém desse toda a fortuna da sua casa em troca do amor, certamente o desprezariam. Eles",
+          "text": "As águas caudalosas não podem extinguir o amor, nem as torrentes podem submergi-lo. Se alguém desse toda a fortuna da sua casa em troca do amor, certamente o desprezariam.",
           "note_refs": []
         },
         {
@@ -596,32 +1679,126 @@
         },
         {
           "verse": 9,
-          "text": "Se ela for uma muralha, nela edificaremos ameias de prata; se for um pórtico, com uma trave de cedro o reforçaremos. Ela",
+          "text": "Se ela for uma muralha, nela edificaremos ameias de prata; se for um pórtico, com uma trave de cedro o reforçaremos.",
           "note_refs": []
         },
         {
           "verse": 10,
-          "text": "Eu sou uma muralha e os meus peitos são como torreões. E assim tornei-me, a seus olhos, como aquela que promove a paz. A O Eles",
-          "note_refs": []
+          "text": "Eu sou uma muralha e os meus peitos são como torreões. E assim tornei-me, a seus olhos, como aquela que promove a paz.",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "A resposta da amada retoma a metáfora utilizada pelos irmãos para afirmar a sua força junto do amado. A expressão que promove a paz valoriza a amada com as caraterísticas de uma cidade bem fortificada e protegida de modo a promover e garantir a paz aos que nela habitam."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "ct-8-n9",
+              "offset": 117,
+              "original_marker": "i",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "Salomão tinha uma vinha em Baal-Hamon; confiou esta vinha a uns guardas: pelo seu fruto cada um trazia-lhe mil siclos de prata. Ela",
+          "text": "Salomão tinha uma vinha em Baal-Hamon; confiou esta vinha a uns guardas: pelo seu fruto cada um trazia-lhe mil siclos de prata.",
           "note_refs": []
         },
         {
           "verse": 12,
-          "text": "A minha vinha é minha; fica comigo! Para ti, Salomão, são os mil siclos de prata e duzentos para os que guardam o seu fruto! Ele",
+          "text": "A minha vinha é minha; fica comigo! Para ti, Salomão, são os mil siclos de prata e duzentos para os que guardam o seu fruto!",
           "note_refs": []
         },
         {
           "verse": 13,
-          "text": "Ó tu que habitas nos jardins, os companheiros escutam a tua voz. Faz com que eu a ouça também! Ela",
+          "text": "Ó tu que habitas nos jardins, os companheiros escutam a tua voz. Faz com que eu a ouça também!",
           "note_refs": []
         },
         {
           "verse": 14,
-          "text": "Foje, ó meu amado, sê como um cervo ou como o filhote das gazelas sobre os montes de bálsamos. PARALELOS",
+          "text": "Foje, ó meu amado, sê como um cervo ou como o filhote das gazelas sobre os montes de bálsamos.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "O Cântico dos Cânticos termina numa nota paradoxal: a amada convida o amado a partir, mas a fazê-lo através das montanhas que são metáfora do seu próprio corpo. O amor vive deste constante jogo de distância e intimidade, diferença e fusão, que caracteriza também o desenvolvimento dramático do livro."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "ct-8-n10",
+              "offset": 93,
+              "original_marker": "a",
+              "source_id": 68
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Ela",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "EPÍLOGO (8,5-14)",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Esta última parte do Cântico dos Cânticos é considerada por muitos como um apêndice no qual se acumulam um conjunto de pequenas composições de tema e estilo muito díspares. É igualmente possível, como aqui se propõe, considerar 8,5-14 como um epílogo, no qual se aborda por última vez alguns dos temas que marcaram o desenvolvimento dramático do livro. Esta espécie de sinfonia final retoma também certos temas como o da vinha e o da preocupação dos irmãos com o destino da amada, aos quais se havia aludido no prólogo do livro. Isto parece sugerir que 8,5-14 é parte integral do Cântico dos Cânticos desde o início. Em termos estruturais, é possível identificar quatro estrofes, todas elas em forma de diálogo: 8,5-7; 8,8-10; 8,11-12; 8,13-14."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ct-8-n3",
+              "offset": 16,
+              "original_marker": "c",
+              "source_id": 61
+            }
+          ]
+        },
+        {
+          "before_verse": 5,
+          "text": "Eles",
+          "note_refs": []
+        },
+        {
+          "before_verse": 6,
+          "text": "Ele Ela",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "Eles",
+          "note_refs": []
+        },
+        {
+          "before_verse": 10,
+          "text": "Ela",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Eles",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Ela",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "Ele",
+          "note_refs": []
+        },
+        {
+          "before_verse": 14,
+          "text": "Ela",
           "note_refs": []
         }
       ]

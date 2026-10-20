@@ -1,27 +1,93 @@
 {
+  "schema_version": 2,
   "book": "Jonas",
+  "book_id": "jn",
+  "source": {
+    "format": "docx",
+    "file": "39_Jn.docx",
+    "title": "Jonas"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Autor e género",
+        "paragraphs": [
+          "Quem foi e em que tempo viveu a personagem deste livro, que é designado como livro de Jonas? Os dados de que dispomos não asseguram uma resposta satisfatória para estas perguntas. É certo que a tradição bíblica conheceu um profeta chamado Jonas, filho de Amitai (2Rs 14,25), que atuou durante o tempo do rei Jeroboão II, do reino do Norte. Hoje em dia, porém, mostra-se insustentável identificar aquele Jonas referido no Segundo Livro dos Reis como sendo a personagem deste nosso livro.",
+          "Faz, no entanto, algum sentido procurar reconstruir a personalidade histórica do autor ou do herói deste livro. Entretanto, pela caracterização literária e teológica com que o livro se apresenta, não parece ser de todo consequente procurar traços históricos bem definidos para o autor. O livro de Jonas deverá, de preferência, ter uma interpretação sapiencial e didática, enquadrando-se no género literário de uma parábola. Com efeito, só esta perspetiva pode colher adequadamente os significados para os quais este livro parece apontar. Trata-se de uma comparação em forma de história ou de uma experiência individual, utilizando elementos tradicionais e folclóricos em função de uma grande mensagem teológica importante como é a da misericórdia universal de Deus."
+        ]
+      },
+      {
+        "title": "Datação",
+        "paragraphs": [
+          "Não sendo possível datá-lo no séc. VIII a.C., como sugeriria a identificação com a personagem referida em 2Rs 14,25, os estudiosos tendem a situar este livro por volta do séc. V a. C., vendo nele uma reação contra a mentalidade de um tipo de javismo nacionalista, próprio do tempo subsequente a Esdras e Neemias. O critério de análise lexical, ou seja, a presença de indícios associados à língua aramaica no texto de Jonas aponta para uma datação seguramente posterior ao exílio (séc. VI-IV a.C.)."
+        ]
+      },
+      {
+        "title": "Estrutura e conteúdo",
+        "paragraphs": [
+          "O paralelismo entre as duas missões ordenadas por Deus ao profeta (1,1-3; 3,1-4) leva a dividir o livro em duas partes: 1,1-2,11 e 3,1-4,11. A narrativa desenvolve-se em quatro cenas: duas na primeira parte (1,1-16 e 2,1-11) e duas na segunda (3,1-10 e 4,1-11). Nestes episódios e no objetivo geral do livro podemos descobrir a teologia especialmente sublinhada no livro de Jonas. O autor reage contra a atitude religiosa fechada e nacionalista de que enfermava a comunidade judaica da época posterior ao exílio e convida a reconhecer o rosto de um Deus que oferece o seu perdão misericordioso a todos, inclusive aos próprios inimigos viscerais de Israel, os assírios, que têm a sua capital precisamente na cidade de Nínive, aonde Jonas é incumbido de ir",
+          "pregar. O núcleo essencial do pensamento deste livro é que bastava que os habitantes de Nínive reconhecessem as suas culpas e fizessem penitência."
+        ]
+      },
+      {
+        "title": "Jonas e o Novo Testamento",
+        "paragraphs": [
+          "Apesar de ser um livro pequeno e uma história relativamente popular, o livro de Jonas é referido com algum alcance em vários pontos do Novo Testamento, nomeadamente a questão do sinal de Jonas (Mt 16,4; Lc 11,29-30). A compreensão deste sinal, que falava dos três dias em que Jonas ficou retido no ventre do peixe, pôde ser mais bem compreendido depois da ressurreição (Mt 12,40). E Jesus sublinha ainda que Jonas é sinal do alcance universal do evangelho (Mt 12,41-42). A expressão conservada em 1Cor 15,4, sobre a sepultura e ressurreição ao terceiro dia, “segundo as Escrituras”, que se tornou uma fórmula importante da teologia cristã, pode ser um eco da narrativa do livro de Jonas."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "verse": 1,
-          "text": "A palavra do foi dirigida a Jonas, filho de Amitai, dizendo:",
+          "text": "A palavra do SENHOR foi dirigida a Jonas, filho de Amitai, dizendo:",
           "note_refs": []
         },
         {
           "verse": 2,
           "text": "«Levanta-te! Vai a Nínive, a grande cidade, e proclama contra ela que a maldade deles subiu até à minha presença».",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Nínive foi a última capital dos assírios, antes de ter sido conquistada, em 612 a.C., pelo império neo- -babilónico. Ao nome desta cidade ficou ligada a memória da conquista da Samaria em 721 por Sargão II e Senaquerib, sujeitando a população das tribos israelitas do Norte a um exílio radical e definitivo. Nínive ficou a ser uma cidade inimiga e opressora, à imagem do que passou a ser igualmente a Babilónia, depois de ter tratado do mesmo modo cruel a terra de Judá e a sua capital, Jerusalém. A literatura bíblica posterior mistura com alguma naturalidade as imagens negativas da Assíria e da Babilónia."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "jn-1-n1",
+              "offset": 25,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Porém, Jonas levantou-se para fugir para Társis, longe da presença do. Desceu a Jafa, onde encontrou um navio que ia para Társis; pagou a passagem e embarcou para ir com eles para Társis, longe da presença do.",
-          "note_refs": []
+          "text": "Porém, Jonas levantou-se para fugir para Társis, longe da presença do SENHOR. Desceu a Jafa, onde encontrou um navio que ia para Társis; pagou a passagem e embarcou para ir com eles para Társis, longe da presença do SENHOR.",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Társis não é uma região que se possa identificar com clareza. Está certamente situada para ocidente da Palestina, porque Jonas foge aproveitando uma viagem que começa em Jafa na direção do mar Mediterrâneo. Este horizonte era bem conhecido no Oriente como um dos destinos de viagens comerciais praticadas pelos marinheiros fenícios (cf. 1Rs 10,22; 22,40; 2Cr 20,36; Sl 48,8; Is 23,1-16; 66,19-20 e Ez 27,12). Para a localização real de Társis apontam-se a costa sul seja da Ásia Menor, seja mesmo da península Ibérica."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "jn-1-n2",
+              "offset": 47,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "Então o lançou um forte vento contra o mar e no mar aconteceu uma tempestade tão grande que o navio dava a ideia de se despedaçar.",
+          "text": "Então o SENHOR lançou um forte vento contra o mar e no mar aconteceu uma tempestade tão grande que o navio dava a ideia de se despedaçar.",
           "note_refs": []
         },
         {
@@ -46,13 +112,50 @@
         },
         {
           "verse": 9,
-          "text": "E ele respondeu-lhes: «Eu sou hebreu, e temo o, Deus dos céus, que fez o mar e a terra seca».",
-          "note_refs": []
+          "text": "E ele respondeu-lhes: «Eu sou hebreu, e temo o SENHOR, Deus dos céus, que fez o mar e a terra seca».",
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "O adjetivo gentilício hebreu, aplicado a pessoas associadas ao povo de Israel, aparece sobretudo em contextos relacionados com o Egito. Aqui, o contexto não parece ter especiais conotações egípcias e poderá ter algo a ver com o ambiente cultural da época em que este livro teve origem.",
+            "4": "Temo o SENHOR é uma expressão que significa que Jonas declara que a religião com a qual ele se identifica é a que mostra temor, isto é, respeito e reverência para com Javé."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "jn-1-n3",
+              "offset": 36,
+              "original_marker": "c",
+              "source_id": 3
+            },
+            {
+              "ref": "4",
+              "id": "jn-1-n4",
+              "offset": 53,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "Então os homens ficaram cheios de temor, de um grande temor, e perguntaram-lhe: «Por que fizeste isto?» Pois eles sabiam que II A Jonas estava a fugir da presença do, como ele mesmo tinha declarado.",
-          "note_refs": []
+          "text": "Então os homens ficaram cheios de temor, de um grande temor, e perguntaram-lhe: «Por que fizeste isto?» Pois eles sabiam que Jonas estava a fugir da presença do SENHOR, como ele mesmo tinha declarado.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Ao insistir desta maneira nos sentimentos de temor por parte dos marinheiros, o autor sugere que, não sendo eles hebreus como Jonas, partilham de alguma maneira os mesmos sentimentos religiosos. É frequente, na literatura posterior ao exílio, colocar na boca de personagens estrangeiras declarações favoráveis à religião de Israel. Neste caso, parece ser mais um indício para se referir à mentalidade aberta da parte do autor do livro. No v. 14 são já os próprios marinheiros, e não Jonas, que se dirigem em oração ao Deus de Israel."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "jn-1-n5",
+              "offset": 59,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 11,
@@ -71,7 +174,7 @@
         },
         {
           "verse": 14,
-          "text": "Então eles invocaram o, dizendo: «Ah,, que nós não pereçamos por causa da vida deste homem e não faças cair sobre nós sangue inocente. Pois Tu,, fizeste como foi do teu agrado!»",
+          "text": "Então eles invocaram o SENHOR, dizendo: «Ah, SENHOR, que nós não pereçamos por causa da vida deste homem e não faças cair sobre nós sangue inocente. Pois Tu, SENHOR, fizeste como foi do teu agrado!»",
           "note_refs": []
         },
         {
@@ -81,12 +184,19 @@
         },
         {
           "verse": 16,
-          "text": "Então os homens ficaram cheios de temor, de um grande temor para com o; ofereceram um sacrifício ao e fizeram votos.",
+          "text": "Então os homens ficaram cheios de temor, de um grande temor para com o SENHOR; ofereceram um sacrifício ao SENHOR e fizeram votos.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "PRIMEIRA MISSÃO DE JONAS (1,1-2,11)",
           "note_refs": []
         },
         {
-          "verse": 17,
-          "text": "O mandou um grande peixe para engolir Jonas. E aconteceu que Jonas ficou nas entranhas do peixe três dias e três noites.",
+          "before_verse": 1,
+          "text": "O profeta fugitivo",
           "note_refs": []
         }
       ]
@@ -96,23 +206,74 @@
       "verses": [
         {
           "verse": 1,
-          "text": "",
-          "note_refs": []
+          "text": "O SENHOR mandou um grande peixe para engolir Jonas. E aconteceu que Jonas ficou nas entranhas do peixe três dias e três noites.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A narrativa fala apenas de um grande peixe. Entretanto a cena faz lembrar os monstros marinhos que aparecem como figuras medonhas nas narrativas sobre a criação e o caos. A situação de Jonas é simbolicamente a de um morto. A história de Jonas é de molde a ser facilmente aproveitada para comparações em quadros e referências bíblicas posteriores (Mt 12,40; 16,1-3; Mc 8,31; Lc 11,29-32)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "jn-2-n1",
+              "offset": 126,
+              "original_marker": "a",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "Então, desde as entranhas do peixe, Jonas pôs-se a suplicar ao, seu Deus,",
+          "text": "Então, desde as entranhas do peixe, Jonas pôs-se a suplicar ao SENHOR, seu Deus,",
           "note_refs": []
         },
         {
           "verse": 3,
-          "text": "e disse: «Do meio da minha angústia, clamei ao e Ele respondeu-me. Do ventre do mundo dos mortos eu gritei. Tu escutaste a minha voz.",
-          "note_refs": []
+          "text": "e disse: «Do meio da minha angústia, clamei ao SENHOR e Ele respondeu-me. Do ventre do mundo dos mortos eu gritei. Tu escutaste a minha voz.",
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "Esta oração de Jonas está composta com recurso aos grandes temas dos salmos, retratando experiências humanas profundas, exprimindo a angústia, o sofrimento, o abismo e a morte, com toda a sua gama de medos, mas lembrando também as esperanças. Por isso, na literatura judaico-cristã as suas fórmulas andam associadas a ecos de batismo e de ressurreição.",
+            "3": "Lit.: …do Cheol. A estada no ventre do peixe era, para Jonas, uma experiência semelhante à de alguém que já morreu e jaz no ventre da terra."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "jn-2-n2",
+              "offset": 7,
+              "original_marker": "b",
+              "source_id": 8
+            },
+            {
+              "ref": "3",
+              "id": "jn-2-n3",
+              "offset": 103,
+              "original_marker": "c",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "Lançaste-me nas profundezas, no coração dos mares e a torrente cercou-me. Todas as tuas ondas e as tuas vagas passaram sobre mim.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: …o rio. Este conceito de torrente é usado para significar o movimento das águas dos rios. Mas ganha maior ressonância, quando usado no contexto do mar primordial mítico, com a sua dimensão de abismo e de caos."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "jn-2-n4",
+              "offset": 62,
+              "original_marker": "d",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 5,
@@ -122,26 +283,98 @@
         {
           "verse": 6,
           "text": "As águas submergiram-me até ao pescoço, o abismo cercou-me e as algas enrolaram-se na minha cabeça.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Encontramos aqui a palavra tehom, que caracterizava o primitivo estado abissal e caótico, coberto de trevas no início da criação (Gn 1,2)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "jn-2-n5",
+              "offset": 48,
+              "original_marker": "e",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "Desci às raízes das montanhas, àquela terra cujos ferrolhos se fecham sobre mim para sempre. Mas Tu fizeste subir a minha vida do fosso, ó, meu Deus.",
-          "note_refs": []
+          "text": "Desci às raízes das montanhas, àquela terra cujos ferrolhos se fecham sobre mim para sempre. Mas Tu fizeste subir a minha vida do fosso, ó SENHOR, meu Deus.",
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "As raízes das montanhas representam as profundezas da terra que, nas culturas semíticas, se associavam com a profundidade e distância em que, segundo o seu imaginário, estaria situado o mundo dos mortos.",
+            "7": "Este versículo e os seguintes, que parecem transformar-se num salmo de ação de graças por uma libertação já conseguida. Mas podiam também ser entendidos como expressão do pedido que Jonas está a dirigir a Deus (v. 2)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "jn-2-n6",
+              "offset": 29,
+              "original_marker": "f",
+              "source_id": 12
+            },
+            {
+              "ref": "7",
+              "id": "jn-2-n7",
+              "offset": 155,
+              "original_marker": "g",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Quando em mim desfalecia a minha alma, lembrei-me do. E a minha prece chegou até junto de ti, até ao teu templo santo.",
+          "text": "Quando em mim desfalecia a minha alma, lembrei-me do SENHOR. E a minha prece chegou até junto de ti, até ao teu templo santo.",
           "note_refs": []
         },
         {
           "verse": 9,
           "text": "Aqueles que seguem ilusões vazias abandonam o seu dever de piedade.",
-          "note_refs": []
+          "note_refs": [
+            "8",
+            "9"
+          ],
+          "notes": {
+            "8": "Ilusões vazias é uma maneira bíblica de se referir aos ídolos como divindades vãs e inúteis (Cf. Is 44,11; Jr 10,14-15; Sl 115,5-7). A ideia de ilusão aparece no Coelet ou Eclesiastes como a expressão mais representativa dos desencantos que podem acontecer na vida.",
+            "9": "Ou: …abandonam Aquele que os trata com misericórdia."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "jn-2-n8",
+              "offset": 33,
+              "original_marker": "h",
+              "source_id": 14
+            },
+            {
+              "ref": "9",
+              "id": "jn-2-n9",
+              "offset": 66,
+              "original_marker": "i",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "Quanto a mim, com voz de ação de graças, oferecer-te-ei sacrifícios, cumprirei fielmente o que prometi. A salvação pertence ao!»",
+          "text": "Quanto a mim, com voz de ação de graças, oferecer-te-ei sacrifícios, cumprirei fielmente o que prometi. A salvação pertence ao SENHOR!»",
+          "note_refs": []
+        },
+        {
+          "verse": 11,
+          "text": "Então o SENHOR falou ao peixe e este vomitou Jonas para a terra seca.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Jonas e o grande peixe",
           "note_refs": []
         }
       ]
@@ -151,7 +384,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "A palavra do foi dirigida a Jonas, uma segunda vez, dizendo:",
+          "text": "A palavra do SENHOR foi dirigida a Jonas, uma segunda vez, dizendo:",
           "note_refs": []
         },
         {
@@ -161,8 +394,31 @@
         },
         {
           "verse": 3,
-          "text": "Então Jonas levantou-se e foi a Nínive, conforme a palavra do. Ora, Nínive era uma cidade imensamente grande que levava três dias a atravessar.",
-          "note_refs": []
+          "text": "Então Jonas levantou-se e foi a Nínive, conforme a palavra do SENHOR. Ora, Nínive era uma cidade imensamente grande que levava três dias a atravessar.",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Lit.: … era uma cidade grande para Deus. No entanto, esta forma de estilo parece ser uma maneira de exprimir o superlativo, segundo um específico idiotismo hebraico.",
+            "2": "Nínive era uma capital vistosa, mas, na realidade, não correspondia ao tamanho que a narrativa ficcional e simbólica de Jonas parece sugerir, com uma intenção evidentemente retórica."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "jn-3-n1",
+              "offset": 115,
+              "original_marker": "j",
+              "source_id": 16
+            },
+            {
+              "ref": "2",
+              "id": "jn-3-n2",
+              "offset": 149,
+              "original_marker": "k",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 4,
@@ -172,7 +428,21 @@
         {
           "verse": 5,
           "text": "E os habitantes de Nínive acreditaram em Deus e proclamaram um jejum; do grande ao mais pequeno, vestiram-se de tecidos de saco.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Estes exemplos de conversão por parte de gente estrangeira e estranha à religião bíblica servem para apresentar um modelo de maior contraste face a momentos de incredulidade e frieza por parte dos hebreus (cf. Mt 12,38-42; Lc 11,30)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "jn-3-n3",
+              "offset": 127,
+              "original_marker": "a",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 6,
@@ -187,7 +457,21 @@
         {
           "verse": 8,
           "text": "Homens e animais cubram-se de tecidos de saco e clamem a Deus com força. E que cada um se converta do seu caminho perverso e da violência que está nas suas mãos.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Cobrir-se de saco é, no antigo Oriente, uma manifestação de dor, luto e penitência (1Rs 20,31; 2Rs 6,30; Sl 30,12; Ez 7,18-24; 27,30-32). A ordem real para que a penitência e conversão se estenda até aos animais é mais uma manifestação da intensidade retórica que caracteriza o livro de Jonas, de modo a causar maior impressão nos seus leitores."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "jn-3-n4",
+              "offset": 45,
+              "original_marker": "b",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 9,
@@ -197,6 +481,18 @@
         {
           "verse": 10,
           "text": "E Deus viu o que eles faziam. Com efeito, eles converteram-se do seu caminho perverso. Então Deus arrependeu-se do mal que tinha declarado fazer-lhes e não o fez.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "SEGUNDA MISSÃO DE JONAS (3,1-4,11)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Pregação de Jonas e conversão de Nínive",
           "note_refs": []
         }
       ]
@@ -211,17 +507,31 @@
         },
         {
           "verse": 2,
-          "text": "Orou, então, ao, dizendo: «Ah!! Não eram acaso estas as minhas palavras, quando eu estava ainda na minha terra? Por isso me propus fugir para Társis, pois sabia que Tu és um Deus clemente e compassivo, lento para a ira e cheio de bondade, um Deus que desiste de fazer o mal.",
-          "note_refs": []
+          "text": "Orou, então, ao SENHOR, dizendo: «Ah! SENHOR! Não eram acaso estas as minhas palavras, quando eu estava ainda na minha terra? Por isso me propus fugir para Társis, pois sabia que Tu és um Deus clemente e compassivo, lento para a ira e cheio de bondade, um Deus que desiste de fazer o mal.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Mais uma vez, o livro de Jonas faz referência a grandes temas do pensamento bíblico. Cf. Ex 34.6s; Jl 2,13."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "jn-4-n1",
+              "offset": 287,
+              "original_marker": "c",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "E agora,, retira, pois, de mim a minha vida, porque para mim é melhor eu morrer do que viver».",
+          "text": "E agora, SENHOR, retira, pois, de mim a minha vida, porque para mim é melhor eu morrer do que viver».",
           "note_refs": []
         },
         {
           "verse": 4,
-          "text": "E o disse: «Achas que é bom irritares-te assim?»",
+          "text": "E o SENHOR disse: «Achas que é bom irritares-te assim?»",
           "note_refs": []
         },
         {
@@ -231,7 +541,7 @@
         },
         {
           "verse": 6,
-          "text": "E Deus, o, mandou que um rícino se levantasse por cima de Jonas, a fim de fazer sombra sobre a sua cabeça e de o libertar do seu mal. E Jonas sentiu uma grande alegria por causa do rícino.",
+          "text": "E Deus, o SENHOR, mandou que um rícino se levantasse por cima de Jonas, a fim de fazer sombra sobre a sua cabeça e de o libertar do seu mal. E Jonas sentiu uma grande alegria por causa do rícino.",
           "note_refs": []
         },
         {
@@ -251,12 +561,42 @@
         },
         {
           "verse": 10,
-          "text": "Mas o disse: «Tu tens pena da planta de rícino que não te deu trabalho e que não fizeste crescer, que no decurso de uma noite surgiu e no decurso de uma noite pereceu!",
+          "text": "Mas o SENHOR disse: «Tu tens pena da planta de rícino que não te deu trabalho e que não fizeste crescer, que no decurso de uma noite surgiu e no decurso de uma noite pereceu!",
           "note_refs": []
         },
         {
           "verse": 11,
-          "text": "E Eu não haveria de ter pena de Nínive, esta grande cidade, onde há mais de cento e vinte mil pessoas que não sabem distinguir entre a sua mão direita e a sua mão esquerda e ainda muitos animais?» PARALELOS",
+          "text": "E Eu não haveria de ter pena de Nínive, esta grande cidade, onde há mais de cento e vinte mil pessoas que não sabem distinguir entre a sua mão direita e a sua mão esquerda e ainda muitos animais?»",
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "Lit. … doze miríades de pessoas. Esta maneira de dizer cento e vinte mil poderia ser uma analogia literária de contraste para as doze tribos que constituem Israel.",
+            "3": "Mais do que uma profecia, o livro de Jonas sublinha as lições que se podem extrair da vida de um profeta. Primeiro foram as suas andanças, tentando fugir à tarefa incontornável de cumprir a missão que lhe foi atribuída. No final são os sentimentos de Jonas que se mostram injustificados e incorretos, pois não representam o modo como Deus pensa e se comporta com os homens. Tal é o humanismo universalista desta história. E o facto de ela ter sido escrita com uma intenção didática é bem notório na maneira como termina com uma interpelação tão incisiva e direta, com uma pergunta final que fica suspensa e em aberto."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "jn-4-n2",
+              "offset": 101,
+              "original_marker": "d",
+              "source_id": 21
+            },
+            {
+              "ref": "3",
+              "id": "jn-4-n3",
+              "offset": 195,
+              "original_marker": "e",
+              "source_id": 22
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Jonas e a misericórdia universal de Deus",
           "note_refs": []
         }
       ]

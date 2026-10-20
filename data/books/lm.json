@@ -1,52 +1,231 @@
 {
+  "schema_version": 2,
   "book": "Lamentações",
+  "book_id": "lm",
+  "source": {
+    "format": "docx",
+    "file": "31_Lm.docx",
+    "title": "Lamentações"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "O livro",
+        "paragraphs": [
+          "A primeira palavra do livro das Lamentações, ‛ekah, que se pode traduzir por «Ah! Como…!?», abre igualmente os capítulos 2 e 4. É a marca de estilo deste texto. Nas edições da Bíblia Hebraica, esta palavra inicial é também o nome pelo qual este livro é conhecido, tal como acontece com outros, por exemplo, com o livro do Génesis. No entanto, na literatura rabínica, nomeadamente no Talmude, este livro tem o nome de qinot, que se pode traduzir por Lamentações, que corresponde ao título assumido nas traduções grega dos Setenta (LXX) e latina da Vulgata. Sendo esta última uma referência para muitas traduções posteriores, Lamentações foi o nome adotado na tradição cristã.",
+          "O título de Lamentações corresponde ao género literário da lamentação, um canto fúnebre (cf. 2Sm 1,17ss), e apresenta-se como uma reação à catástrofe nacional que foi a tomada de Jerusalém por Nabucodonosor, destruição do templo, deportação de uma parte da população para a Babilónia e fim do reino de Judá entre 597 e 586 a.C., com a perda da independência para os cidadãos que não foram deportados e suportaram o domínio babilónico. O género literário da lamentação pela destruição de uma cidade tinha grande destaque na antiga literatura da Mesopotâmia e serve certamente de pano de fundo histórico para estas lamentações relativas à destruição de Jerusalém."
+        ]
+      },
+      {
+        "title": "Autor e composição",
+        "paragraphs": [
+          "O livro terá sido composto após esta catástrofe em que desapareceram as bases da identidade nacional e religiosa de Israel: a morada de Deus junto do seu povo, o templo; a permanência numa terra que havia sido prometida; a liderança de um rei da descendência de David, que não teria fim. Do texto depreende-se que estas feridas não estão ainda cicatrizadas, pelo que terá surgido antes do regresso do exílio, que durou cerca de setenta anos, ou antes da reconstrução do templo de Jerusalém, uma vez que num tempo de esperança como o do regresso à pátria e da reconstrução faria menos sentido compor elegias a evocar a destruição.",
+          "Nas edições da Bíblia Hebraica, o livro das Lamentações aparece geralmente na terceira parte, chamada Escritos, num grupo de livros usados na liturgia das cinco maiores festas judaicas, os Cinco Rolos (Rt, Ct, Co, Lm, Est). Os poemas do livro das Lamentações são usados, em particular, na comemoração da destruição do primeiro e do segundo templos de Jerusalém. Tanto a tradução grega dos LXX como a tradução latina da Vulgata contêm uma introdução em prosa aos poemas das Lamentações, ausente no texto hebraico; ali a autoria",
+          "dos poemas é claramente atribuída ao profeta Jeremias, provavelmente por influência de 2Cr 35,25; Jr 32,26-44 e Jr 37,6-10. Também no Targum e no Talmude da Babilónia a autoria dos poemas é atribuída a este profeta. Deste modo não será de estranhar que as edições cristãs da Bíblia sigam geralmente a posição do livro adotada na tradução dos LXX, colocando as Lamentações imediatamente a seguir ao livro do profeta Jeremias, surgindo por vezes Baruc entre os dois. Também a favor da atribuição da autoria dos poemas a Jeremias há o facto de em ambos os livros a catástrofe ser apresentada como punição do pecado nacional (cf. 1,5 e Jr 26, por exemplo). Há, no entanto, algumas diferenças que levam a pensar num autor que não Jeremias. Por exemplo, em 4,17 expressa-se a esperança de que algum auxílio pudesse vir do Egito, ao passo que o profeta Jeremias é sempre contrário a essa possibilidade (Jr 2,18.36)."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "Os quatro primeiros poemas das Lamentações apresentam algumas semelhanças formais e de conteúdo, que sugerem a possibilidade de um mesmo autor. É, no entanto, provável que o livro seja uma coletânea de poemas de tema comum, mas de autores diversos. Alguns contrastes entre poemas relativamente à imagem de Deus e a diferença na ordem das letras do alfabeto entre o capítulo 1 e os capítulos 2, 3 e 4 são difíceis de explicar, se o seu autor for o mesmo.",
+          "Embora a temática do livro seja a destruição da cidade de Jerusalém, o fim do reino de Judá e o exílio que se lhe seguiu, o texto das Lamentações não é um relato histórico dos acontecimentos, mas sim a expressão da dor de uma experiência intensa e dramática, que sugere simultaneamente uma razão para que tal drama tenha acontecido. A linguagem poética, com os seus recursos, é a que melhor responde a esta exigência.",
+          "A metáfora predominante nos cinco poemas é a de Jerusalém como uma mulher, apresentada em diversas situações: viúva, sem filhos, nobre empobrecida, amante traída, violentada, impura, mãe que intercede pelos filhos. Quem chora é a própria cidade de Jerusalém personificada, que, destruída, ergue a sua voz. Neste conjunto de poemas juntam-se vários elementos: canto fúnebre, como olhar retrospetivo para a perda de um defunto, sem qualquer referência a Deus; invocação de Deus e pedido de ajuda; profissão de fé; confissão da própria culpa ou da própria inocência.",
+          "Todos os poemas, correspondendo cada um a um capítulo, estão estruturados em linhas paralelas claramente delimitadas e têm em comum o ordenamento segundo o alfabeto hebraico. Os quatro primeiros poemas têm vinte e duas estrofes e são acrósticos alfabéticos, ou seja, a letra inicial de cada estrofe segue a ordem do alfabeto hebraico. No terceiro poema a letra inicial de cada estrofe é",
+          "a mesma nos três versos: é uma versão mais exigente deste recurso acróstico. O quinto poema, sem ser acróstico, tem igualmente vinte e duas linhas, o número das letras do alfabeto hebraico.",
+          "Na tradução, o acróstico apenas se pode exprimir indicando a letra hebraica correspondente a cada estrofe. Esta estrutura é para o texto como uma moldura que impede o autor de se alongar sem limites. Simbolicamente ajuda a compreender que o lamento pela dor sofrida deve ter um fim, para que a pessoa possa sobreviver ao próprio luto. Além disso, a ordem que a estrutura impõe às palavras e aos conteúdos contrasta com o caos emocional causado pela realidade que o autor e o povo vivem após a tragédia. Deste modo, cada letra é uma ajuda para organizar as ideias relativas a uma situação cujo sentido não se percebe. Por fim, ao escrutinar a situação de A a Z, como diríamos na nossa cultura, o recurso ao acróstico alfabético parece exprimir a ideia de totalidade, como se estas lamentações contivessem tudo o que haveria para dizer e chorar, todo o sofrimento e toda a incompreensão."
+        ]
+      },
+      {
+        "title": "Teologia",
+        "paragraphs": [
+          "A nível teológico, uma caraterística do texto das Lamentações é apresentar Deus sob diversos aspetos. Em 3,22-23 temos a tradicional e consensual imagem de um Deus que defende o seu povo, um Deus que é bom e justo e que está presente. Surgem, no entanto, outras imagens de Deus, opostas a esta, como a de um Deus violento, sobretudo quando apresentado como guerreiro e agressor (2,4-5.22), cuja ira é mencionada frequentemente. Deus aparece também silencioso diante do sofrimento do seu povo, sobretudo quando o poeta se lamenta de que não se encontra um consolador (1,1.2.9.16.17.21). Este silêncio é entendido também como a ausência de intervenção da parte de Deus na situação de necessidade do seu povo. Estas imagens contraditórias de Deus são suportadas por um princípio teológico clássico subjacente aos poemas: a invasão estrangeira e o exílio são uma punição pela desobediência ao Senhor e pelo pecado da idolatria (cf. 1,5; 2,14; 3,42; 4,13;5,16; e Dt 4,25-27; 28,32- 67; 29,23-27). No entanto, declarando que esta punição foi posta em prática, afirma-se implicitamente também a esperança no restabelecimento da relação de Israel com o seu Senhor (cf. 3,31ss; Dt 4,30-31; 30,1-5), após a destruição da cidade e o exílio do povo.",
+          "A situação que levou à composição das Lamentações não é muito diferente das situações vividas por pessoas de gerações sucessivas ao longo dos séculos, sendo deste modo um texto sempre atual quando acompanha o sofrimento do crente. Mais do que autocomiseração, estes poemas são um lamento diante do Senhor, para que olhe o sofrimento que a sua ausência permitiu que se abatesse sobre o seu povo. No meio deste lamento, o crente, sentindo a sua própria fragilidade e miséria, pode humildemente reconhecer a sua culpa (1,22)."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "verse": 1,
-          "text": "Como ficou solitária a cidade com tanta gente! Tornou-se como viúva a grande entre os povos; a princesa das províncias ficou sujeita ao tributo. Bet",
-          "note_refs": []
+          "text": "Alef Como ficou solitária a cidade com tanta gente! Tornou-se como viúva a grande entre os povos; a princesa das províncias ficou sujeita ao tributo.",
+          "note_refs": [
+            "1",
+            "2",
+            "3"
+          ],
+          "notes": {
+            "1": "A palavra «como» traduz um misto de interrogação e exclamação diante de acontecimentos que provocam surpresa e ao mesmo tempo incredulidade. A expressão «como é possível?» poderia ser uma tradução fiel ao sentido da palavra hebraica, já que muitas vezes é uma pergunta sem resposta lógica. A tradução grega dos LXX, seguida pela Vulgata, inicia o texto com o seguinte prólogo: E aconteceu, depois de Israel ter ido para o cativeiro e Jerusalém ter sido destruída, que Jeremias se sentou a chorar e exprimiu este lamento sobre Jerusalém, dizendo…",
+            "2": "O tempo dos verbos neste livro divide-se entre o passado e o presente/futuro. No entanto, o tema das lamentações arrasta consigo uma tal cumplicidade entre o tempo passado dos acontecimentos e o tempo recente do reavivar das emoções, que frequentemente as traduções põem no presente o que o texto hebraico regista em passado.",
+            "3": "A viúva é imagem de impotência, pois não tem nem estatuto jurídico nem protetor. A realidade descrita ultrapassa o sentido da metáfora, já que Jerusalém ficou também sem filhos, agravando a sua condição de viúva."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lm-1-n1",
+              "offset": 9,
+              "original_marker": "a",
+              "source_id": 1
+            },
+            {
+              "ref": "2",
+              "id": "lm-1-n2",
+              "offset": 15,
+              "original_marker": "b",
+              "source_id": 2
+            },
+            {
+              "ref": "3",
+              "id": "lm-1-n3",
+              "offset": 72,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "Passa as noites a chorar e as suas lágrimas correm-lhe pela face. Não tem quem a console entre todos os que a amavam; todos os seus amigos a atraiçoaram, tornaram-se seus inimigos. Guimel",
-          "note_refs": []
+          "text": "Bet Passa as noites a chorar e as suas lágrimas correm-lhe pela face. Não tem quem a console entre todos os que a amavam; todos os seus amigos a atraiçoaram, tornaram-se seus inimigos.",
+          "note_refs": [
+            "4",
+            "5",
+            "6"
+          ],
+          "notes": {
+            "4": "O tema da consolação é natural neste contexto. Entretanto, o uso bíblico dá-lhe um alcance semelhante ao conceito de salvação (Is 12,1; 40,1; Sl 71,21; 86,16).",
+            "5": "Nas Lamentações, Jerusalém é apresentada como uma mulher jovem e a parte de culpa que lhe cabe é por vezes referida como de infidelidade a Deus, à maneira de Oseias (Os 2). A referência pode também incluir os antigos aliados de Judá (Jr 4,30; 30,14; Ez 16,37-40; 23,22-29).",
+            "6": "Pode existir aqui uma alusão ao abandono por parte do Egito, aquando da invasão de Nabucodonosor, e a uma pilhagem de Jerusalém por parte de Edom, também recordada no Sl 137,7, historicamente próximo das Lamentações."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lm-1-n4",
+              "offset": 92,
+              "original_marker": "d",
+              "source_id": 4
+            },
+            {
+              "ref": "5",
+              "id": "lm-1-n5",
+              "offset": 120,
+              "original_marker": "e",
+              "source_id": 5
+            },
+            {
+              "ref": "6",
+              "id": "lm-1-n6",
+              "offset": 183,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Judá foi para o exílio, oprimida e sob dura escravidão. Ela foi habitar no meio dos povos e não encontrou descanso. Todos os seus perseguidores A A A E se apoderaram dela entre angústias. Dalet",
-          "note_refs": []
+          "text": "Guimel Judá foi para o exílio, oprimida e sob dura escravidão. Ela foi habitar no meio dos povos e não encontrou descanso. Todos os seus perseguidores se apoderaram dela entre angústias.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "As angústias de Judá, mais concretamente da cidade de Jerusalém, estão relacionadas com os cercos a que esta foi sujeita antes de ser conquistada e de uma importante parte da sua população ser deportada."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "lm-1-n7",
+              "offset": 185,
+              "original_marker": "g",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "Os caminhos de Sião estão de luto por não haver quem venha à festa. Todas as suas portas estão desoladas, os seus sacerdotes suspiram, as suas virgens estão aflitas e ela mesma sente a amargura. Hé",
-          "note_refs": []
+          "text": "Dalet Os caminhos de Sião estão de luto por não haver quem venha à festa. Todas as suas portas estão desoladas, os seus sacerdotes suspiram, as suas virgens estão aflitas e ela mesma sente a amargura.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Desoladas, isto é, desertas e destruídas. O que enchia as portas da cidade eram as reuniões do povo para tratar das questões de interesse e de justiça que diziam respeito aos cidadãos."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "lm-1-n8",
+              "offset": 110,
+              "original_marker": "h",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 5,
-          "text": "Os seus opressores ficaram por cima, os seus inimigos triunfaram. Sim, o Senhor afligiu-a, por causa dos seus numerosos crimes. As suas crianças caminharam para o cativeiro à frente do opressor. Vau",
+          "text": "Hé Os seus opressores ficaram por cima, os seus inimigos triunfaram. Sim, o Senhor afligiu-a, por causa dos seus numerosos crimes. As suas crianças caminharam para o cativeiro à frente do opressor. Vau",
           "note_refs": []
         },
         {
           "verse": 6,
-          "text": "Desapareceu da filha de Sião toda a sua majestade. Os seus príncipes tornaram-se como veados que não encontraram pastagem e caminhavam sem força à frente do perseguidor. Zain",
-          "note_refs": []
+          "text": "Desapareceu da filha de Sião toda a sua majestade. Os seus príncipes tornaram-se como veados que não encontraram pastagem e caminhavam sem força à frente do perseguidor.",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "A expressão filha de Sião é a personificação da cidade de Jerusalém (Sião) e dos seus habitantes. O mesmo recurso é utilizado nas expressões filha de Jerusalém (2,13.15), filha de Judá (1,15; 2,2.5), filha de Edom (4,21-22; Ez 10,18-22)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "lm-1-n9",
+              "offset": 28,
+              "original_marker": "i",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "Jerusalém recordou-se dos seus dias de humilhação e de errância e de todas as suas preciosidades desde os tempos antigos, quando o seu povo caiu na mão do inimigo e não havia quem a ajudasse. Os inimigos olhavam para ela e riam-se, por causa da sua queda. Het",
-          "note_refs": []
+          "text": "Zain Jerusalém recordou-se dos seus dias de humilhação e de errância e de todas as suas preciosidades desde os tempos antigos, quando o seu povo caiu na mão do inimigo e não havia quem a ajudasse. Os inimigos olhavam para ela e riam-se, por causa da sua queda.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Esta estrofe tem quatro versos, e não três como as restantes estrofes deste capítulo, talvez devido à sobreposição de diferentes versões. Há quem considere a frase todos as suas preciosidades desde os tempos antigos como uma adição, razão pela qual não foi considerada na anterior tradução litúrgica."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "lm-1-n10",
+              "offset": 125,
+              "original_marker": "j",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Pecou Jerusalém, pecou, tanto que se tornou imundície. Todos quantos a honravam desprezaram-na, pois viram a sua nudez. E, entretanto, ela geme e vira-se para trás. Tet",
-          "note_refs": []
+          "text": "Het Pecou Jerusalém, pecou, tanto que se tornou imundície. Todos quantos a honravam desprezaram-na, pois viram a sua nudez. E, entretanto, ela geme e vira-se para trás.",
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Atendendo à linguagem metafórica de Israel como esposa do Senhor, a nudez pública é a punição prevista para a infidelidade (Dt 28,48; Ez 16,37.39)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "lm-1-n11",
+              "offset": 122,
+              "original_marker": "a",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "A sua impureza está até nas suas vestes; ela não imaginava este seu fim. Ela tombou de modo espantoso; não há quem a console. Vê, Senhor, a minha miséria, porque o inimigo foi mais forte! Yod",
+          "text": "Tet A sua impureza está até nas suas vestes; ela não imaginava este seu fim. Ela tombou de modo espantoso; não há quem a console. Vê, Senhor, a minha miséria, porque o inimigo foi mais forte! Yod",
           "note_refs": []
         },
         {
@@ -56,62 +235,181 @@
         },
         {
           "verse": 11,
-          "text": "Todos os do seu povo gemem enquanto procuram pão; dão as suas preciosidades em troca de alimento, para restabelecer o alento. Olha, Senhor, e repara como fui menosprezada! Lamed",
+          "text": "Todos os do seu povo gemem enquanto procuram pão; dão as suas preciosidades em troca de alimento, para restabelecer o alento. Olha, Senhor, e repara como fui menosprezada!",
           "note_refs": []
         },
         {
           "verse": 12,
-          "text": "Vós todos os que passais pelo caminho, reparai e vede bem se existe dor igual à minha dor, a dor que me atormenta e com que o Senhor me afligiu no dia da sua ardente cólera. Mem",
+          "text": "Lamed Vós todos os que passais pelo caminho, reparai e vede bem se existe dor igual à minha dor, a dor que me atormenta e com que o Senhor me afligiu no dia da sua ardente cólera.",
           "note_refs": []
         },
         {
           "verse": 13,
-          "text": "Do alto Ele mandou um fogo e fê-lo penetrar nos meus ossos; estendeu uma rede para os meus pés, fez-me cair de costas. Deixou-me desolada e abatida o dia inteiro. Nun",
-          "note_refs": []
+          "text": "Mem Do alto Ele mandou um fogo e fê-lo penetrar nos meus ossos; estendeu uma rede para os meus pés, fez-me cair de costas. Deixou-me desolada e abatida o dia inteiro.",
+          "note_refs": [
+            "12",
+            "13"
+          ],
+          "notes": {
+            "12": "Os ossos são a última realidade da vida, por serem a parte do corpo que resiste ao passar do tempo após a morte. Por isso, a fraqueza maior é descrita como a degradação dos ossos.",
+            "13": "A situação de desolada exprime a condição da cidade representada pela mulher e exprime igualmente situações em que a mulher se encontra confinada na sua própria condição de mulher (2Sm 13,20; Is 54,1)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "lm-1-n12",
+              "offset": 62,
+              "original_marker": "b",
+              "source_id": 12
+            },
+            {
+              "ref": "13",
+              "id": "lm-1-n13",
+              "offset": 141,
+              "original_marker": "c",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "Fixou o olhar nos meus pecados entrelaçados na sua mão. O seu jugo sobre o meu pescoço faz vacilar a minha força. O Senhor entregou-me em mãos, contra as quais não consigo erguer-me. Samec",
-          "note_refs": []
+          "text": "Nun Fixou o olhar nos meus pecados entrelaçados na sua mão. O seu jugo sobre o meu pescoço faz vacilar a minha força. O Senhor entregou-me em mãos, contra as quais não consigo erguer-me.",
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Ou: fez um fardo dos meus pecados."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "lm-1-n14",
+              "offset": 34,
+              "original_marker": "d",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "Todos os meus heróis que tinha no meu meio, o Senhor reduziu-os a nada; convocou contra mim um conselho para derrubar os meus escolhidos. O Senhor esmagou como num lagar a virgem, filha de Judá. Ain",
+          "text": "Samec Todos os meus heróis que tinha no meu meio, o Senhor reduziu-os a nada; convocou contra mim um conselho para derrubar os meus escolhidos. O Senhor esmagou como num lagar a virgem, filha de Judá.",
           "note_refs": []
         },
         {
           "verse": 16,
-          "text": "É por estas coisas que eu choro; e os meus olhos, os meus olhos derramam lágrimas, porque está longe de mim um consolador que volte a dar-me ânimo de novo. Os meus filhos estão devastados, porque o adversário foi mais forte. Pé",
+          "text": "Ain É por estas coisas que eu choro; e os meus olhos, os meus olhos derramam lágrimas, porque está longe de mim um consolador que volte a dar-me ânimo de novo. Os meus filhos estão devastados, porque o adversário foi mais forte.",
           "note_refs": []
         },
         {
           "verse": 17,
-          "text": "Sião estende as suas mãos, mas não tem quem a console. O Senhor determinou para Jacob que os seus vizinhos fossem seus inimigos. Jerusalém tornou-se entre eles uma imundície. Sadé",
+          "text": "Pé Sião estende as suas mãos, mas não tem quem a console. O Senhor determinou para Jacob que os seus vizinhos fossem seus inimigos. Jerusalém tornou-se entre eles uma imundície. Sadé",
           "note_refs": []
         },
         {
           "verse": 18,
-          "text": "O S enhor é justo, porque eu fui rebelde à sua palavra. Escutai, povos todos, por favor, e vede bem a minha dor: as minhas virgens e os meus jovens caminharam para o cativeiro. Qof",
-          "note_refs": []
+          "text": "O Senhor é justo, porque eu fui rebelde à sua palavra. Escutai, povos todos, por favor, e vede bem a minha dor: as minhas virgens e os meus jovens caminharam para o cativeiro. Qof",
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Esta expressão surge sobretudo no tempo da rebelião do povo, após a libertação do Egito, durante a travessia no deserto (Nm 20,24; 27,14; Dt 1,26.43; 9,23)."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "lm-1-n15",
+              "offset": 53,
+              "original_marker": "a",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 19,
-          "text": "Chamei pelos que me amavam, mas eles enganaram-me. Os meus sacerdotes e os meus anciãos desfaleceram pela cidade, enquanto buscavam alimento para si, para restabelecerem o seu alento. Resh",
-          "note_refs": []
+          "text": "Chamei pelos que me amavam, mas eles enganaram-me. Os meus sacerdotes e os meus anciãos desfaleceram pela cidade, enquanto buscavam alimento para si, para restabelecerem o seu alento.",
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Cf. 1,11.16. O texto da tradução dos LXX acrescenta: mas não o encontraram."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "lm-1-n16",
+              "offset": 182,
+              "original_marker": "b",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 20,
-          "text": "Vê, Senhor, como estou angustiada, as minhas entranhas estremecem; dentro de mim revolve-se o meu coração, pois tenho sido muito rebelde. Fora, a espada priva-me dos filhos; em casa, é como se fosse a morte. Shin",
-          "note_refs": []
+          "text": "Resh Vê, Senhor, como estou angustiada, as minhas entranhas estremecem; dentro de mim revolve-se o meu coração, pois tenho sido muito rebelde. Fora, a espada priva-me dos filhos; em casa, é como se fosse a morte.",
+          "note_refs": [
+            "17",
+            "18"
+          ],
+          "notes": {
+            "17": "O coração é o centro da inteligência, da vontade, das decisões. As emoções têm o centro nos intestinos ou nas entranhas.",
+            "18": "O verbo hebraico usado exprime uma espécie de estado de carência e orfandade dos pais que perderam os filhos."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "lm-1-n17",
+              "offset": 110,
+              "original_marker": "c",
+              "source_id": 17
+            },
+            {
+              "ref": "18",
+              "id": "lm-1-n18",
+              "offset": 177,
+              "original_marker": "d",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 21,
-          "text": "Ouviram que estou a gemer, mas não há quem me console. Todos os meus adversários ouviram a minha desgraça e alegraram-se com aquilo que Tu fizeste. Faz com que chegue o dia que anunciaste e que eles fiquem como eu. Tau",
-          "note_refs": []
+          "text": "Shin Ouviram que estou a gemer, mas não há quem me console. Todos os meus adversários ouviram a minha desgraça e alegraram-se com aquilo que Tu fizeste. Faz com que chegue o dia que anunciaste e que eles fiquem como eu.",
+          "note_refs": [
+            "19"
+          ],
+          "notes": {
+            "19": "Outras traduções antigas, como a siríaca, entendem: Ouve!... Neste caso, o pedido seria dirigido a Deus. A tradução dos LXX entendeu o verbo ouvir no imperativo plural: Ouvi como eu estou a gemer."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "lm-1-n19",
+              "offset": 30,
+              "original_marker": "e",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 22,
-          "text": "Que toda a sua maldade venha à tua presença e trata-os a eles como me trataste a mim, por causa de todas as minhas culpas. Pois são muitos os meus gemidos e o meu coração está desfalecido.",
+          "text": "Tau Que toda a sua maldade venha à tua presença e trata-os a eles como me trataste a mim, por causa de todas as minhas culpas. Pois são muitos os meus gemidos e o meu coração está desfalecido.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "PRIMEIRA LAMENTAÇÃO",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Desolação de Jerusalém",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Lamento de Jerusalém",
           "note_refs": []
         }
       ]
@@ -121,48 +419,191 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Como é que o Senhor, na sua ira, ensombrou deste modo a filha de Sião? Do céu Ele fez cair por terra o esplendor de Israel; e não se lembrou do estrado dos seus pés, no dia da sua ira. Bet",
-          "note_refs": []
+          "text": "Alef Como é que o Senhor, na sua ira, ensombrou deste modo a filha de Sião? Do céu Ele fez cair por terra o esplendor de Israel; e não se lembrou do estrado dos seus pés, no dia da sua ira.",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "O esplendor de Israel pode entender-se como referência a Jerusalém e ao seu templo ou à arca da aliança, que ali era conservada.",
+            "2": "O estrado dos seus pés é um sinal da presença de Deus no mundo. Aqui é Sião; noutros lugares da Escritura é a arca da aliança, conservada no templo, podendo também ser o próprio templo ou ainda a terra santa."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lm-2-n1",
+              "offset": 127,
+              "original_marker": "f",
+              "source_id": 20
+            },
+            {
+              "ref": "2",
+              "id": "lm-2-n2",
+              "offset": 169,
+              "original_marker": "g",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "O Senhor arruinou sem piedade todas as moradas de Jacob. Demoliu, no ardor da sua ira, as fortalezas da filha de Judá; atingiu e lançou por terra, profanou o reino e os seus príncipes. Guimel",
-          "note_refs": []
+          "text": "Bet O Senhor arruinou sem piedade todas as moradas de Jacob. Demoliu, no ardor da sua ira, as fortalezas da filha de Judá; atingiu e lançou por terra, profanou o reino e os seus príncipes.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: engoliu."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lm-2-n3",
+              "offset": 21,
+              "original_marker": "h",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "No ardor da sua ira, humilhou todo o poderio de Israel. Retirou para trás a sua mão direita na frente do inimigo; e acendeu em Jacob como uma chama de fogo que devora tudo em redor. Dalet",
-          "note_refs": []
+          "text": "Guimel No ardor da sua ira, humilhou todo o poderio de Israel. Retirou para trás a sua mão direita na frente do inimigo; e acendeu em Jacob como uma chama de fogo que devora tudo em redor.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Cf. Sir 49,6."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lm-2-n4",
+              "offset": 187,
+              "original_marker": "i",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "Retesou o seu arco como um inimigo, erguendo a sua mão direita. Como adversário dizimou tudo o que era precioso para a vista. Na tenda da filha de Sião derramou a sua cólera, como fogo. Hé",
+          "text": "Dalet Retesou o seu arco como um inimigo, erguendo a sua mão direita. Como adversário dizimou tudo o que era precioso para a vista. Na tenda da filha de Sião derramou a sua cólera, como fogo.",
           "note_refs": []
         },
         {
           "verse": 5,
-          "text": "O Senhor foi como um inimigo Que arruinou Israel, arruinou todos os seus palácios e arrasou as suas fortificações. E multiplicou, para a filha de Judá, lamento sobre lamento. Vau",
+          "text": "Hé O Senhor foi como um inimigo Que arruinou Israel, arruinou todos os seus palácios e arrasou as suas fortificações. E multiplicou, para a filha de Judá, lamento sobre lamento. Vau",
           "note_refs": []
         },
         {
           "verse": 6,
-          "text": "Devastou a sua tenda como a um jardim, destruiu o seu lugar de festa; o Senhor fez esquecer em Sião as festas e os sábados. E, no furor da sua ira, menosprezou reis e sacerdotes. Zain",
-          "note_refs": []
+          "text": "Devastou a sua tenda como a um jardim, destruiu o seu lugar de festa; o Senhor fez esquecer em Sião as festas e os sábados. E, no furor da sua ira, menosprezou reis e sacerdotes.",
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "A tradução dos LXX lê: como a uma vinha. Esta leitura pressuporia em hebraico o termo gepen, que poderia aludir à metáfora de Israel como a vinha de Deus (cf. Is 5,1-7).",
+            "6": "Depois de os vv. 1-5 relatarem a destruição da terra e do povo, agora trata-se da destruição do templo de Jerusalém. Em Jeremias (52,13) a destruição acontece por obra dos babilónios; é a narrativa histórica. Em Lamentações, o poeta interpreta o facto como sendo ação do Senhor; é a leitura teológica."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "lm-2-n5",
+              "offset": 37,
+              "original_marker": "a",
+              "source_id": 24
+            },
+            {
+              "ref": "6",
+              "id": "lm-2-n6",
+              "offset": 177,
+              "original_marker": "b",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "O Senhor rejeitou o seu altar, repudiou o seu santuário. Encerrou na mão do inimigo as muralhas dos seus palácios. Davam gritos na casa do Senhor como se fosse dia de festa. Het",
-          "note_refs": []
+          "text": "Zain O Senhor rejeitou o seu altar, repudiou o seu santuário. Encerrou na mão do inimigo as muralhas dos seus palácios. Davam gritos na casa do Senhor como se fosse dia de festa.",
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Refere-se provavelmente aos palácios de Sião, citados em 2,5.",
+            "8": "Cf. Jr 7,14-15; Ez 24,21."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "lm-2-n7",
+              "offset": 118,
+              "original_marker": "c",
+              "source_id": 26
+            },
+            {
+              "ref": "8",
+              "id": "lm-2-n8",
+              "offset": 177,
+              "original_marker": "d",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "O Senhor planeou demolir a muralha da filha de Sião. Esticou o fio e não impediu que a sua mão destruísse. Assim enlutou a fortaleza e os muros, que juntos se desmoronaram. Tet",
-          "note_refs": []
+          "text": "Het O Senhor planeou demolir a muralha da filha de Sião. Esticou o fio e não impediu que a sua mão destruísse. Assim enlutou a fortaleza e os muros, que juntos se desmoronaram.",
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "O ato de esticar um fio, aqui, parece ser o gesto de quem tira cuidadosamente as medidas, uma imagem que dá a entender que a decisão de demolir não foi tomada apressadamente, num ímpeto (cf. 2Rs 21,13; Is 34,11).",
+            "10": "Lit.: de devorar."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "lm-2-n9",
+              "offset": 70,
+              "original_marker": "e",
+              "source_id": 28
+            },
+            {
+              "ref": "10",
+              "id": "lm-2-n10",
+              "offset": 109,
+              "original_marker": "f",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "Afundaram-se na terra as suas portas, destruiu e quebrou as suas trancas. O seu rei e os seus príncipes estão entre os povos, já não existe lei e os seus profetas já não recebem mais visões, da parte do Senhor. Yod",
-          "note_refs": []
+          "text": "Tet Afundaram-se na terra as suas portas, destruiu e quebrou as suas trancas. O seu rei e os seus príncipes estão entre os povos, já não existe lei e os seus profetas já não recebem mais visões, da parte do Senhor. Yod",
+          "note_refs": [
+            "11",
+            "12"
+          ],
+          "notes": {
+            "11": "As portas da cidade são lugares de importância central, não só porque são pontos sensíveis de defesa, mas também porque são lugares de administração da justiça, de comércio e até de instrução e de pregação dos profetas. A queda das portas significa o colapso da vida da cidade em todas as suas dimensões.",
+            "12": "Ou seja, estão no exílio."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "lm-2-n11",
+              "offset": 40,
+              "original_marker": "g",
+              "source_id": 30
+            },
+            {
+              "ref": "12",
+              "id": "lm-2-n12",
+              "offset": 128,
+              "original_marker": "h",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 10,
@@ -171,37 +612,88 @@
         },
         {
           "verse": 11,
-          "text": "Em lágrimas se consomem os meus olhos, revolvem-se as minhas entranhas, a minha bílis derrama-se pelo chão pela ruína da filha do meu povo, com o desfalecer de crianças e bebés de peito pelas praças da cidade. Lamed",
-          "note_refs": []
+          "text": "Em lágrimas se consomem os meus olhos, revolvem-se as minhas entranhas, a minha bílis derrama-se pelo chão pela ruína da filha do meu povo, com o desfalecer de crianças e bebés de peito pelas praças da cidade.",
+          "note_refs": [
+            "13",
+            "14"
+          ],
+          "notes": {
+            "13": "Cf. nota a 1,20.",
+            "14": "Lit. o meu fígado."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "lm-2-n13",
+              "offset": 70,
+              "original_marker": "i",
+              "source_id": 32
+            },
+            {
+              "ref": "14",
+              "id": "lm-2-n14",
+              "offset": 85,
+              "original_marker": "j",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "Eles perguntam às suas mães: «Onde haverá trigo e vinho?», enquanto desfalecem e caem mortos pelas ruas da cidade, enquanto soltam o último suspiro ao colo das suas mães. Mem",
+          "text": "Lamed Eles perguntam às suas mães: «Onde haverá trigo e vinho?», enquanto desfalecem e caem mortos pelas ruas da cidade, enquanto soltam o último suspiro ao colo das suas mães.",
           "note_refs": []
         },
         {
           "verse": 13,
-          "text": "Com que te hei de comparar, com que te igualarei, ó filha de Jerusalém? Com que te vou equiparar para te reconfortar, ó virgem, filha de Sião? Pois é imensa como o mar a tua ruína, quem te poderá curar? Nun",
+          "text": "Mem Com que te hei de comparar, com que te igualarei, ó filha de Jerusalém? Com que te vou equiparar para te reconfortar, ó virgem, filha de Sião? Pois é imensa como o mar a tua ruína, quem te poderá curar?",
           "note_refs": []
         },
         {
           "verse": 14,
-          "text": "Os teus profetas tiveram para ti visões ilusórias e vazias; nunca revelaram a tua iniquidade, para fazer reverter o teu destino. As visões que tiveram para ti eram de ameaças ilusórias e enganos. Samec",
-          "note_refs": []
+          "text": "Nun Os teus profetas tiveram para ti visões ilusórias e vazias; nunca revelaram a tua iniquidade, para fazer reverter o teu destino. As visões que tiveram para ti eram de ameaças ilusórias e enganos.",
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Cf. 2,9. Os falsos profetas são também acusados por Jeremias em 5,31; 6,13-15; 14,14; 23,9-32; 28,8-9."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "lm-2-n15",
+              "offset": 62,
+              "original_marker": "a",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "Batem palmas contra ti todos os que passam pelo caminho. Assobiam e meneiam a cabeça contra a filha de Jerusalém: «Será esta a cidade que declaravam perfeita em beleza, alegria para toda a terra?» Pé",
+          "text": "Samec Batem palmas contra ti todos os que passam pelo caminho. Assobiam e meneiam a cabeça contra a filha de Jerusalém: «Será esta a cidade que declaravam perfeita em beleza, alegria para toda a terra?»",
           "note_refs": []
         },
         {
           "verse": 16,
-          "text": "Todos os teus inimigos abrem com espanto a sua boca contra ti, assobiam e rangem os dentes e dizem «Devorámo-la! É este mesmo o dia por que ansiávamos, encontrámo-lo e vemo-lo!» Ain",
-          "note_refs": []
+          "text": "Pé Todos os teus inimigos abrem com espanto a sua boca contra ti, assobiam e rangem os dentes e dizem «Devorámo-la! É este mesmo o dia por que ansiávamos, encontrámo-lo e vemo-lo!»",
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Este gesto pode entender-se como hostilidade, por aquilo que os inimigos dizem, ou como ameaça, simulando a ação de comer."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "lm-2-n16",
+              "offset": 64,
+              "original_marker": "b",
+              "source_id": 35
+            }
+          ]
         },
         {
           "verse": 17,
-          "text": "O Senhor fez o que havia planeado; cumpriu o que tinha dito e determinado desde os tempos antigos: destruiu, não teve piedade. Permitiu que o teu inimigo se risse de ti, exaltou o poder dos teus opressores. Sadé",
+          "text": "Ain O Senhor fez o que havia planeado; cumpriu o que tinha dito e determinado desde os tempos antigos: destruiu, não teve piedade. Permitiu que o teu inimigo se risse de ti, exaltou o poder dos teus opressores. Sadé",
           "note_refs": []
         },
         {
@@ -211,22 +703,104 @@
         },
         {
           "verse": 19,
-          "text": "Levanta-te e grita de noite, no começo de cada vigília. Derrama o teu coração como água diante da face do Senhor. Levanta para Ele as tuas mãos, pela vida das tuas crianças, desfalecidos pela fome pelas esquinas de todas as ruas. Resh",
-          "note_refs": []
+          "text": "Levanta-te e grita de noite, no começo de cada vigília. Derrama o teu coração como água diante da face do Senhor. Levanta para Ele as tuas mãos, pela vida das tuas crianças, desfalecidos pela fome pelas esquinas de todas as ruas.",
+          "note_refs": [
+            "17",
+            "18"
+          ],
+          "notes": {
+            "17": "O gesto de levantar-se é oposto à prostração e ao desânimo dos habitantes, oposto também à ruína e decadência dos edifícios. A cidade é convidada a dar o exemplo aos seus habitantes, assumindo um papel de intercessora.",
+            "18": "Esta estrofe tem quatro versos, e não três como as restantes estrofes deste capítulo. A sequência Desfalecidos pela fome pelas esquinas de todas as ruas é possivelmente um acrescento ao original (cf. 2,11-12)."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "lm-2-n17",
+              "offset": 10,
+              "original_marker": "c",
+              "source_id": 36
+            },
+            {
+              "ref": "18",
+              "id": "lm-2-n18",
+              "offset": 228,
+              "original_marker": "d",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 20,
-          "text": "Olha, Senhor, e vê bem: a quem alguma vez trataste assim? Terão as mulheres de comer o que é seu fruto, as crianças, objeto de tantos cuidados? Terão de ser massacrados no santuário do Senhor os sacerdotes e os profetas? Shin",
-          "note_refs": []
+          "text": "Resh Olha, Senhor, e vê bem: a quem alguma vez trataste assim? Terão as mulheres de comer o que é seu fruto, as crianças, objeto de tantos cuidados? Terão de ser massacrados no santuário do Senhor os sacerdotes e os profetas?",
+          "note_refs": [
+            "19"
+          ],
+          "notes": {
+            "19": "Cf. Lv 26,29; Dt 28,53-57; 2Rs 6,28; Is 49,26; Jr 19,9; Lm 4,10."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "lm-2-n19",
+              "offset": 147,
+              "original_marker": "e",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 21,
-          "text": "Jazem por terra, nas ruas, novos e velhos. As minhas virgens e os meus jovens tombaram ao fio da espada. Mataste no dia da tua ira, imolaste e não tiveste piedade. Tau",
+          "text": "Shin Jazem por terra, nas ruas, novos e velhos. As minhas virgens e os meus jovens tombaram ao fio da espada. Mataste no dia da tua ira, imolaste e não tiveste piedade.",
           "note_refs": []
         },
         {
           "verse": 22,
-          "text": "Convocaste, como para um dia de festa, os que me aterrorizam em redor. Mas não houve, no dia da ira do Senhor, nem fugitivo nem sobrevivente. Aqueles que eu cuidei e criei, o meu inimigo exterminou-os.",
+          "text": "Tau Convocaste, como para um dia de festa, os que me aterrorizam em redor. Mas não houve, no dia da ira do Senhor, nem fugitivo nem sobrevivente. Aqueles que eu cuidei e criei, o meu inimigo exterminou-os.",
+          "note_refs": [
+            "20",
+            "21"
+          ],
+          "notes": {
+            "20": "Cf. 1,4; 2,6-7.",
+            "21": "Neste contexto, o inimigo poderá ser o invasor babilónico ou mesmo o Senhor, no dia da sua ira."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "lm-2-n20",
+              "offset": 41,
+              "original_marker": "f",
+              "source_id": 39
+            },
+            {
+              "ref": "21",
+              "id": "lm-2-n21",
+              "offset": 190,
+              "original_marker": "g",
+              "source_id": 40
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "SEGUNDA LAMENTAÇÃO",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "A ira divina",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "Exortação a Jerusalém",
+          "note_refs": []
+        },
+        {
+          "before_verse": 20,
+          "text": "Jerusalém repreende o seu Deus",
           "note_refs": []
         }
       ]
@@ -236,8 +810,40 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Eu sou o homem que viu a miséria sob o bastão da sua fúria.",
-          "note_refs": []
+          "text": "Alef  Eu sou o homem que viu a miséria sob o bastão da sua fúria.",
+          "note_refs": [
+            "1",
+            "2",
+            "3"
+          ],
+          "notes": {
+            "1": "Neste capítulo as letras do alfabeto repetem-se no início de cada versículo, em ciclos de três em três.",
+            "2": "É difícil dizer se o homem que se lamenta é um profeta (por exemplo Jeremias, cf. v. 53) ou uma personificação do povo, tal como acontece, no início, com a imagem da viúva.",
+            "3": "Subentende-se que se refere ao Senhor, embora o autor não o diga explicitamente."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lm-3-n1",
+              "offset": 5,
+              "original_marker": "a",
+              "source_id": 41
+            },
+            {
+              "ref": "2",
+              "id": "lm-3-n2",
+              "offset": 20,
+              "original_marker": "b",
+              "source_id": 42
+            },
+            {
+              "ref": "3",
+              "id": "lm-3-n3",
+              "offset": 58,
+              "original_marker": "c",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 2,
@@ -246,13 +852,27 @@
         },
         {
           "verse": 3,
-          "text": "Sim, contra mim volve e revolve a sua mão, o dia inteiro. Bet",
+          "text": "Sim, contra mim volve e revolve a sua mão, o dia inteiro.",
           "note_refs": []
         },
         {
           "verse": 4,
-          "text": "Desgastou a minha carne e a minha pele, quebrou-me os ossos;",
-          "note_refs": []
+          "text": "Bet Desgastou a minha carne e a minha pele, quebrou-me os ossos;",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Cf. nota a 1,13. Is 38,13."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lm-3-n4",
+              "offset": 63,
+              "original_marker": "d",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 5,
@@ -261,12 +881,12 @@
         },
         {
           "verse": 6,
-          "text": "fez-me habitar em lugares tenebrosos, como os mortos de há muito tempo. Guímel",
+          "text": "fez-me habitar em lugares tenebrosos, como os mortos de há muito tempo.",
           "note_refs": []
         },
         {
           "verse": 7,
-          "text": "Fez uma barreira contra mim para eu não sair, carregou-me com grilhões de bronze.",
+          "text": "Guímel Fez uma barreira contra mim para eu não sair, carregou-me com grilhões de bronze.",
           "note_refs": []
         },
         {
@@ -276,12 +896,12 @@
         },
         {
           "verse": 9,
-          "text": "Barrou os meus caminhos com blocos de pedra, obstruiu as minhas veredas. Dalet",
+          "text": "Barrou os meus caminhos com blocos de pedra, obstruiu as minhas veredas.",
           "note_refs": []
         },
         {
           "verse": 10,
-          "text": "Foi para mim um urso em emboscada, um leão no esconderijo.",
+          "text": "Dalet Foi para mim um urso em emboscada, um leão no esconderijo.",
           "note_refs": []
         },
         {
@@ -291,23 +911,51 @@
         },
         {
           "verse": 12,
-          "text": "Retesou o seu arco e colocou-me de pé como alvo para a flecha. Hé",
+          "text": "Retesou o seu arco e colocou-me de pé como alvo para a flecha.",
           "note_refs": []
         },
         {
           "verse": 13,
-          "text": "Cravou nos meus rins as flechas da sua aljava.",
+          "text": "Hé Cravou nos meus rins as flechas da sua aljava.",
           "note_refs": []
         },
         {
           "verse": 14,
           "text": "Tornei-me o riso de todo o meu povo, a sua cantiga de escárnio o dia inteiro.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Possivelmente o povo de Judá escarnece da sua capital. Alguns manuscritos dizem:...de todos os povos (cf. Dt 28,37; Jb 30,9)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "lm-3-n5",
+              "offset": 35,
+              "original_marker": "e",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Matou-me a fome com ervas amargas, deu-me a beber absinto. Vau",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Deduz-se que o sujeito dos verbos seja o Senhor e não o povo. A palavra que se traduziu por ervas amargas pode significar também amarguras. O contexto metafórico é de comer e beber, mas, neste caso, a comida e a bebida não saciam (cf. Jr 23,15)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "lm-3-n6",
+              "offset": 57,
+              "original_marker": "f",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 16,
@@ -317,17 +965,54 @@
         {
           "verse": 17,
           "text": "A minha alma ficou longe da paz, esqueci-me do que é bom.",
-          "note_refs": []
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Pode ler-se: tu afastaste a minha alma da paz.",
+            "8": "A paz, em geral, refere a plenitude da existência, que se traduz num estado de bem-estar, de saúde física e prosperidade (Gn 29,6; 43,27; Sl 38,4) e, nas relações entre pessoas e grupos, a paz reflete um ambiente amigável e isento de hostilidade. Neste sentido, o não saber o que é bom pode referir-se simplesmente à ausência de bem-estar ou, então, à ausência da bênção de Deus (Sl 34,11; Jb 2,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "lm-3-n7",
+              "offset": 31,
+              "original_marker": "g",
+              "source_id": 47
+            },
+            {
+              "ref": "8",
+              "id": "lm-3-n8",
+              "offset": 56,
+              "original_marker": "h",
+              "source_id": 48
+            }
+          ]
         },
         {
           "verse": 18,
-          "text": "Eu disse: «Desapareceu o meu vigor e a esperança que tinha no Senhor». Zain",
+          "text": "Eu disse: «Desapareceu o meu vigor e a esperança que tinha no Senhor».",
           "note_refs": []
         },
         {
           "verse": 19,
-          "text": "Recorda-te da minha aflição e desassossego, do absinto e do veneno.",
-          "note_refs": []
+          "text": "Zain Recorda-te da minha aflição e desassossego, do absinto e do veneno.",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Este imperativo determina a interpretação do versículo: é um primeiro ato de confiança e apelo a Deus, embora possa também ser interpretado como um solilóquio. Outras leituras vão na linha da continuação dos pensamentos angustiados. Os LXX traduzem: eu recordei."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "lm-3-n9",
+              "offset": 15,
+              "original_marker": "i",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 20,
@@ -336,27 +1021,78 @@
         },
         {
           "verse": 21,
-          "text": "Volto a pôr isto no meu coração; por isso permaneço confiante. Het",
-          "note_refs": []
+          "text": "Volto a pôr isto no meu coração; por isso permaneço confiante.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Cf. v. 24."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "lm-3-n10",
+              "offset": 61,
+              "original_marker": "j",
+              "source_id": 50
+            }
+          ]
         },
         {
           "verse": 22,
-          "text": "Foi pelas misericórdias do Senhor que não fomos destruídos, pois os seus sentimentos de ternura não se esgotam,",
-          "note_refs": []
+          "text": "Het Foi pelas misericórdias do Senhor que não fomos destruídos, pois os seus sentimentos de ternura não se esgotam,",
+          "note_refs": [
+            "11",
+            "12"
+          ],
+          "notes": {
+            "11": "O plural, misericórdias, refere-se aos repetidos atos de misericórdia no âmbito da relação de Deus com o seu povo desde o estabelecimento de uma aliança. Assim, a misericórdia ganha contornos concretos, tais como proteção, apoio, benevolência (cf. Sl 89,2-3; Is 63,7).",
+            "12": "A tradução dos LXX, o siríaco e o aramaico leem: Realmente as misericórdias do Senhor não terminaram. E esta versão também faz sentido no contexto."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "lm-3-n11",
+              "offset": 27,
+              "original_marker": "k",
+              "source_id": 51
+            },
+            {
+              "ref": "12",
+              "id": "lm-3-n12",
+              "offset": 62,
+              "original_marker": "l",
+              "source_id": 52
+            }
+          ]
         },
         {
           "verse": 23,
-          "text": "renovam-se cada manhã. A O É grande a tua fidelidade!",
-          "note_refs": []
+          "text": "renovam-se cada manhã. É grande a tua fidelidade!",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Estas mudanças bruscas da 3ª para a 2ª pessoa são frequentes no hebraico e podem ser o resultado da inserção de fórmulas conhecidas na sequência de um texto que é de diálogo ou oração."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "lm-3-n13",
+              "offset": 37,
+              "original_marker": "a",
+              "source_id": 53
+            }
+          ]
         },
         {
           "verse": 24,
-          "text": "O Senhor é a minha herança, disse a minha alma; por isso esperarei n’Ele. Tet",
+          "text": "O Senhor é a minha herança, disse a minha alma; por isso esperarei n’Ele.",
           "note_refs": []
         },
         {
           "verse": 25,
-          "text": "O Senhor é bom para quem nele confia, para a alma que o procura.",
+          "text": "Tet O Senhor é bom para quem nele confia, para a alma que o procura.",
           "note_refs": []
         },
         {
@@ -377,7 +1113,21 @@
         {
           "verse": 29,
           "text": "que ele se incline de boca por terra, talvez haja ainda esperança;",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Cf. 2Sm 12,15-23: David comporta-se como se estivesse de luto, humilhando-se, na esperança de que o Senhor o veja e mude a sua decisão."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "lm-3-n14",
+              "offset": 65,
+              "original_marker": "b",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 30,
@@ -396,13 +1146,41 @@
         },
         {
           "verse": 33,
-          "text": "Não é por vontade do seu coração que Ele humilha e aflige os filhos dos homens. Lamed",
-          "note_refs": []
+          "text": "Não é por vontade do seu coração que Ele humilha e aflige os filhos dos homens.",
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Os vv. 31-33 dão os motivos de esperança, as razões para continuar numa atitude de penitência e confiança."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "lm-3-n15",
+              "offset": 78,
+              "original_marker": "c",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 34,
-          "text": "Esmagar debaixo dos pés todos os prisioneiros do país,",
-          "note_refs": []
+          "text": "Lamed Esmagar debaixo dos pés todos os prisioneiros do país,",
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Os vv. 34-39 apresentam as razões pelas quais a punição parece justa e declaram que o Senhor tem autoridade para o fazer."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "lm-3-n16",
+              "offset": 59,
+              "original_marker": "d",
+              "source_id": 56
+            }
+          ]
         },
         {
           "verse": 35,
@@ -411,12 +1189,12 @@
         },
         {
           "verse": 36,
-          "text": "lesar alguém na justiça da sua causa, será que o Senhor não o vê? Mem",
+          "text": "lesar alguém na justiça da sua causa, será que o Senhor não o vê?",
           "note_refs": []
         },
         {
           "verse": 37,
-          "text": "Quem é que disse uma coisa e ela aconteceu? Não foi o Senhor quem ordenou?",
+          "text": "Mem Quem é que disse uma coisa e ela aconteceu? Não foi o Senhor quem ordenou?",
           "note_refs": []
         },
         {
@@ -426,27 +1204,55 @@
         },
         {
           "verse": 39,
-          "text": "Que tem um homem a lamentar? Que ele seja forte por cima dos seus pecados! Nun",
-          "note_refs": []
+          "text": "Que tem um homem a lamentar? Que ele seja forte por cima dos seus pecados!",
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "O texto desta frase é de difícil compreensão. A palavra tanto significa pecado como punição pelo pecado."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "lm-3-n17",
+              "offset": 74,
+              "original_marker": "e",
+              "source_id": 57
+            }
+          ]
         },
         {
           "verse": 40,
-          "text": "Examinemos e analisemos os nossos caminhos, voltemos para o Senhor.",
+          "text": "Nun Examinemos e analisemos os nossos caminhos, voltemos para o Senhor.",
           "note_refs": []
         },
         {
           "verse": 41,
           "text": "Elevemos o nosso coração com as mãos para Deus que está nos céus.",
-          "note_refs": []
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "Esta frase significa que a conversão tem de ser sincera (coração) e acompanhada de atos exteriores (as mãos). Se é do coração que nasce a rebeldia contra Deus, é também do coração que tem de partir a conversão."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "lm-3-n18",
+              "offset": 36,
+              "original_marker": "f",
+              "source_id": 58
+            }
+          ]
         },
         {
           "verse": 42,
-          "text": "Nós transgredimos e revoltámo-nos e Tu não nos perdoaste! Samec",
+          "text": "Nós transgredimos e revoltámo-nos e Tu não nos perdoaste!",
           "note_refs": []
         },
         {
           "verse": 43,
-          "text": "Resguardaste-te em ira e perseguiste-nos, mataste sem piedade;",
+          "text": "Samec Resguardaste-te em ira e perseguiste-nos, mataste sem piedade;",
           "note_refs": []
         },
         {
@@ -471,12 +1277,12 @@
         },
         {
           "verse": 48,
-          "text": "Os meus olhos derramam rios de água, pela ruína da filha do meu povo. Ain",
+          "text": "Os meus olhos derramam rios de água, pela ruína da filha do meu povo.",
           "note_refs": []
         },
         {
           "verse": 49,
-          "text": "Os meus olhos vertem lágrimas sem parar, não têm descanso,",
+          "text": "Ain Os meus olhos vertem lágrimas sem parar, não têm descanso,",
           "note_refs": []
         },
         {
@@ -497,7 +1303,30 @@
         {
           "verse": 53,
           "text": "Silenciaram a minha vida num poço, lançando pedras sobre mim.",
-          "note_refs": []
+          "note_refs": [
+            "19",
+            "20"
+          ],
+          "notes": {
+            "19": "O poço é um lugar de aprisionamento (Gn 37,20.22; 41,14; Ex 12,29; Is 24,22; Jr 37,16; 38,6), mas também metáfora para a morte (Sl 28,1; 30,4; 88,5.7; 143,7). Considerando a imagem da caça evocada no versículo anterior, também se pode pensar numa armadilha.",
+            "20": "No singular, em hebraico, pode ser a pedra que tapa o poço (Gn 29,2.3), tornando-o uma prisão. Pode também entender-se no plural, aludindo às pedras que cobrem um corpo sem vida depositado num fosso, como um túmulo (Js 7,26; 2Sm 18,17). Pode, ainda, aludir a um apedrejamento."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "lm-3-n19",
+              "offset": 33,
+              "original_marker": "a",
+              "source_id": 59
+            },
+            {
+              "ref": "20",
+              "id": "lm-3-n20",
+              "offset": 50,
+              "original_marker": "b",
+              "source_id": 60
+            }
+          ]
         },
         {
           "verse": 54,
@@ -516,12 +1345,12 @@
         },
         {
           "verse": 57,
-          "text": "Aproximaste-te no dia em que te invocava e disseste: «Não tenhas medo». Resh",
+          "text": "Aproximaste-te no dia em que te invocava e disseste: «Não tenhas medo».",
           "note_refs": []
         },
         {
           "verse": 58,
-          "text": "Defendeste, Senhor, as causas da minha alma e resgataste a minha vida.",
+          "text": "Resh Defendeste, Senhor, as causas da minha alma e resgataste a minha vida.",
           "note_refs": []
         },
         {
@@ -531,12 +1360,12 @@
         },
         {
           "verse": 60,
-          "text": "Viste todos os seus planos de vingança, todas as suas intrigas contra mim. Shin",
+          "text": "Viste todos os seus planos de vingança, todas as suas intrigas contra mim.",
           "note_refs": []
         },
         {
           "verse": 61,
-          "text": "Ouviste, Senhor, os seus insultos, todas as suas intrigas contra mim.",
+          "text": "Shin Ouviste, Senhor, os seus insultos, todas as suas intrigas contra mim.",
           "note_refs": []
         },
         {
@@ -546,22 +1375,63 @@
         },
         {
           "verse": 63,
-          "text": "Olha bem! Sentados ou de pé, sou eu a sua cantiga de escárnio. Tau",
+          "text": "Olha bem! Sentados ou de pé, sou eu a sua cantiga de escárnio.",
           "note_refs": []
         },
         {
           "verse": 64,
-          "text": "Dá-lhes, Senhor, a paga, segundo as obras das suas mãos.",
+          "text": "Tau Dá-lhes, Senhor, a paga, segundo as obras das suas mãos.",
           "note_refs": []
         },
         {
           "verse": 65,
           "text": "Dá-lhes um coração fechado: será para eles a tua maldição.",
-          "note_refs": []
+          "note_refs": [
+            "21"
+          ],
+          "notes": {
+            "21": "Lit.:...um escudo no coração. Este versículo apresenta algumas dificuldades de tradução."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "lm-3-n21",
+              "offset": 26,
+              "original_marker": "c",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 66,
           "text": "Persegue-os com a tua ira e elimina-os de debaixo dos céus do Senhor.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "TERCEIRA LAMENTAÇÃO",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Debaixo do bastão divino",
+          "note_refs": []
+        },
+        {
+          "before_verse": 19,
+          "text": "Esperança, apesar de tudo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 25,
+          "text": "Reflexões sobre o agir divino",
+          "note_refs": []
+        },
+        {
+          "before_verse": 40,
+          "text": "Oração",
           "note_refs": []
         }
       ]
@@ -571,22 +1441,68 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Como é que o ouro perdeu o brilho, como se alterou o ouro mais fino? As pedras sagradas estão espalhadas pelas esquinas de todas as ruas! Bet",
-          "note_refs": []
+          "text": "Alef Como é que o ouro perdeu o brilho, como se alterou o ouro mais fino? As pedras sagradas estão espalhadas pelas esquinas de todas as ruas!",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "A quarta lamentação inicia com a mesma palavra que a primeira e a segunda (cf. nota a 1,1).",
+            "2": "Possivelmente refere-se ao templo destruído e ao seu tesouro."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lm-4-n1",
+              "offset": 9,
+              "original_marker": "d",
+              "source_id": 62
+            },
+            {
+              "ref": "2",
+              "id": "lm-4-n2",
+              "offset": 141,
+              "original_marker": "e",
+              "source_id": 63
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "Os filhos queridos de Sião, valiosos como o ouro fino, como são tidos por vasos de barro, obra das mãos de um oleiro? Guimel",
+          "text": "Bet Os filhos queridos de Sião, valiosos como o ouro fino, como são tidos por vasos de barro, obra das mãos de um oleiro?",
           "note_refs": []
         },
         {
           "verse": 3,
-          "text": "Até os chacais dão o seio para amamentarem as suas crias. Mas a filha do meu povo tornou-se cruel como as avestruzes do deserto. Dalet",
-          "note_refs": []
+          "text": "Guimel Até os chacais dão o seio para amamentarem as suas crias. Mas a filha do meu povo tornou-se cruel como as avestruzes do deserto.",
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "A expressão filha do meu povo refere-se ao povo inteiro.",
+            "4": "Pensava-se que as avestruzes não cuidavam das crias (cf. Jb 39,13-18)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lm-4-n3",
+              "offset": 88,
+              "original_marker": "f",
+              "source_id": 64
+            },
+            {
+              "ref": "4",
+              "id": "lm-4-n4",
+              "offset": 134,
+              "original_marker": "g",
+              "source_id": 65
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "A língua do menino de peito ficou colada ao seu palato, por causa da sede; as crianças pedem pão e não há quem lho reparta. Heh",
+          "text": "Dalet A língua do menino de peito ficou colada ao seu palato, por causa da sede; as crianças pedem pão e não há quem lho reparta. Heh",
           "note_refs": []
         },
         {
@@ -596,22 +1512,59 @@
         },
         {
           "verse": 6,
-          "text": "Grande é a iniquidade da filha do meu povo, maior que o pecado de Sodoma, arrasada num instante, sem que ninguém lançasse as mãos contra ela. Zain",
-          "note_refs": []
+          "text": "Grande é a iniquidade da filha do meu povo, maior que o pecado de Sodoma, arrasada num instante, sem que ninguém lançasse as mãos contra ela.",
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Ambas as palavras iniquidade e pecado indicam quer a culpa, quer as consequências, inclusive o castigo correspondente.",
+            "6": "O poeta, refletindo sobre os horrores que o seu povo sofre, compara-os ao símbolo máximo de qualquer devastação, aquela que se conta de Sodoma. Tomando como ponto de comparação o castigo sofrido e não o pecado cometido e considerando que Jerusalém foi mais castigada porque, em vez de desaparecer de um momento para o outro, caiu nas mãos dos inimigos, o autor conclui que o pecado de Israel deve ser maior do que o de Sodoma (cf. Gn 19)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "lm-4-n5",
+              "offset": 62,
+              "original_marker": "h",
+              "source_id": 66
+            },
+            {
+              "ref": "6",
+              "id": "lm-4-n6",
+              "offset": 140,
+              "original_marker": "i",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "Os seus nazireus brilhavam mais que a neve, eram mais brancos que o leite; os seus corpos eram mais vermelhos que o coral, a sua figura como safira. Het",
-          "note_refs": []
+          "text": "Zain Os seus nazireus brilhavam mais que a neve, eram mais brancos que o leite; os seus corpos eram mais vermelhos que o coral, a sua figura como safira.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Há quem traduza por consagrados, pensando numa referência metafórica a personagens destacadas pela sua função (cf. Nm 6)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "lm-4-n7",
+              "offset": 21,
+              "original_marker": "a",
+              "source_id": 69
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Agora a sua figura é mais negra que o carvão, pelas ruas ninguém os reconhece. A sua pele está colada aos ossos, tornou-se seca como madeira. Tet",
+          "text": "Het Agora a sua figura é mais negra que o carvão, pelas ruas ninguém os reconhece. A sua pele está colada aos ossos, tornou-se seca como madeira.",
           "note_refs": []
         },
         {
           "verse": 9,
-          "text": "Mais felizes foram as vítimas da espada do que as vítimas da fome. Pois estes sucumbiram trespassados pela falta de produtos do campo. Yod",
+          "text": "Tet Mais felizes foram as vítimas da espada do que as vítimas da fome. Pois estes sucumbiram trespassados pela falta de produtos do campo. Yod",
           "note_refs": []
         },
         {
@@ -621,38 +1574,94 @@
         },
         {
           "verse": 11,
-          "text": "O Senhor descarregou a sua fúria, derramou o ardor da sua ira; atiçou em Sião um fogo que devorou os seus alicerces. Lamed",
+          "text": "O Senhor descarregou a sua fúria, derramou o ardor da sua ira; atiçou em Sião um fogo que devorou os seus alicerces.",
           "note_refs": []
         },
         {
           "verse": 12,
-          "text": "Os reis da terra não acreditavam, nem nenhum dos habitantes do mundo, que o inimigo e o opressor entrassem pelas portas de Jerusalém. Mem",
+          "text": "Lamed Os reis da terra não acreditavam, nem nenhum dos habitantes do mundo, que o inimigo e o opressor entrassem pelas portas de Jerusalém.",
           "note_refs": []
         },
         {
           "verse": 13,
-          "text": "Por causa dos pecados dos seus profetas e das iniquidades dos seus sacerdotes, que derramaram no meio dela o sangue dos justos. Nun",
+          "text": "Mem Por causa dos pecados dos seus profetas e das iniquidades dos seus sacerdotes, que derramaram no meio dela o sangue dos justos.",
           "note_refs": []
         },
         {
           "verse": 14,
-          "text": "Vagueavam como cegos pelas ruas, estavam manchados de sangue, de modo que os outros não podiam tocar nas suas vestes. Samec",
-          "note_refs": []
+          "text": "Nun Vagueavam como cegos pelas ruas, estavam manchados de sangue, de modo que os outros não podiam tocar nas suas vestes.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "A interpretação deste versículo depende de se se identifica o sujeito da frase com os profetas e sacerdotes ou então com o povo. No entanto, à luz dos versículos seguintes, parece mais correto considerar que é o povo da cidade que vagueia como cego."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "lm-4-n8",
+              "offset": 13,
+              "original_marker": "b",
+              "source_id": 70
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "«Para trás! Impuro!», gritavam-lhes. «Para trás! Para trás! Não toqueis!» Quando fugiam e andavam errantes, dizia-se entre os povos: «Não poderão mais habitar aqui». Peh",
-          "note_refs": []
+          "text": "Samec «Para trás! Impuro!», gritavam-lhes. «Para trás! Para trás! Não toqueis!» Quando fugiam e andavam errantes, dizia-se entre os povos: «Não poderão mais habitar aqui». Peh",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Pela ordem do alfabeto hebraico este versículo deveria vir depois do seguinte; e assim aparece realmente em alguns manuscritos."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "lm-4-n9",
+              "offset": 175,
+              "original_marker": "c",
+              "source_id": 71
+            }
+          ]
         },
         {
           "verse": 16,
-          "text": "A face do Senhor dispersou-os, não voltará a olhar para eles. Não respeitavam os sacerdotes nem se compadeciam dos anciãos. Ain",
-          "note_refs": []
+          "text": "A face do Senhor dispersou-os, não voltará a olhar para eles. Não respeitavam os sacerdotes nem se compadeciam dos anciãos.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "As pessoas de idade, os anciãos, faziam parte do governo da cidade."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "lm-4-n10",
+              "offset": 122,
+              "original_marker": "d",
+              "source_id": 72
+            }
+          ]
         },
         {
           "verse": 17,
-          "text": "Consumiam-se ainda os nossos olhos na esperança de um socorro ilusório. Do alto das nossas torres de vigia vigiávamos, esperando um povo que não salva. Sadeh",
-          "note_refs": []
+          "text": "Ain Consumiam-se ainda os nossos olhos na esperança de um socorro ilusório. Do alto das nossas torres de vigia vigiávamos, esperando um povo que não salva. Sadeh",
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Povo refere-se provavelmente ao Egito, potência ocidental com que Israel contava, sempre que se via ameaçado pelas potências do Oriente, neste caso a Babilónia (cf. Jr 37,3; Ez 29,6-16)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "lm-4-n11",
+              "offset": 140,
+              "original_marker": "e",
+              "source_id": 73
+            }
+          ]
         },
         {
           "verse": 18,
@@ -661,22 +1670,76 @@
         },
         {
           "verse": 19,
-          "text": "Os nossos perseguidores eram mais velozes do que as águias dos céus. Perseguiram-nos sobre os montes e armaram-nos ciladas no deserto. Resh",
+          "text": "Os nossos perseguidores eram mais velozes do que as águias dos céus. Perseguiram-nos sobre os montes e armaram-nos ciladas no deserto.",
           "note_refs": []
         },
         {
           "verse": 20,
-          "text": "O nosso alento de vida, o ungido do Senhor, foi capturado nas suas ciladas; aquele de quem dizíamos: «À sua sombra viveremos entre as nações». Shin",
-          "note_refs": []
+          "text": "Resh O nosso alento de vida, o ungido do Senhor, foi capturado nas suas ciladas; aquele de quem dizíamos: «À sua sombra viveremos entre as nações».",
+          "note_refs": [
+            "12",
+            "13",
+            "14"
+          ],
+          "notes": {
+            "12": "Lit.: o sopro ou espírito das nossas narinas.",
+            "13": "Ungido (ou messias) aplica-se em geral ao rei, ou, menos frequentemente, ao sumo sacerdote (2Rs 25,5-7; Sl 2,2).",
+            "14": "A imagem da sombra como proteção é quase sempre atribuída a Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "lm-4-n12",
+              "offset": 27,
+              "original_marker": "a",
+              "source_id": 74
+            },
+            {
+              "ref": "13",
+              "id": "lm-4-n13",
+              "offset": 37,
+              "original_marker": "b",
+              "source_id": 75
+            },
+            {
+              "ref": "14",
+              "id": "lm-4-n14",
+              "offset": 119,
+              "original_marker": "c",
+              "source_id": 76
+            }
+          ]
         },
         {
           "verse": 21,
-          "text": "Exulta e alegra-te, filha de Edom, tu que habitas na terra de Uce! Também por ti passará o cálice; ficarás embriagada, deixando exposta a tua nudez. Tau",
+          "text": "Shin Exulta e alegra-te, filha de Edom, tu que habitas na terra de Uce! Também por ti passará o cálice; ficarás embriagada, deixando exposta a tua nudez.",
           "note_refs": []
         },
         {
           "verse": 22,
-          "text": "Findou a tua culpa, filha de Sião; Ele não voltará a mandar-te para o exílio. Ele pediu contas da tua culpa, filha de Edom, pôs a descoberto os teus pecados!",
+          "text": "Tau Findou a tua culpa, filha de Sião; Ele não voltará a mandar-te para o exílio. Ele pediu contas da tua culpa, filha de Edom, pôs a descoberto os teus pecados!",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "QUARTA LAMENTAÇÃO",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Degradação da cidade",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Causas da ruína",
+          "note_refs": []
+        },
+        {
+          "before_verse": 21,
+          "text": "Conclusão",
           "note_refs": []
         }
       ]
@@ -702,7 +1765,21 @@
         {
           "verse": 4,
           "text": "A nossa água, bebemo-la a troco de dinheiro, a nossa lenha chega a troco de pagamento.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Provavelmente a lenha era paga como forma de tributo ao ocupante."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lm-5-n2",
+              "offset": 85,
+              "original_marker": "e",
+              "source_id": 78
+            }
+          ]
         },
         {
           "verse": 5,
@@ -712,12 +1789,40 @@
         {
           "verse": 6,
           "text": "Estendemos a mão para o Egito e para a Assíria, para matarmos a fome de pão.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Em termos puramente cronológicos, a Assíria já não existia quando Jerusalém foi dominada pela Babilónia. Simbolicamente, o Egito e a Assíria são duas potências que no passado oprimiram Israel e que também evocam falsas alianças e locais de exílio (cf. Jr 2,18; Os 12,2)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lm-5-n3",
+              "offset": 46,
+              "original_marker": "f",
+              "source_id": 79
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Os nossos pais pecaram e já não existem, mas nós suportamos o peso das suas iniquidades.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A palavra hebraica correspondente a iniquidades tanto pode indicar a falta cometida como a respetiva punição. Os filhos sofrem as consequências das faltas dos pais. A ideia de que a culpa dos pais recai sobre os filhos encontra-se várias vezes no AT. No entanto, os profetas Jeremias (31,27-30) e Ezequiel (18,1-32) contestam e corrigem esta interpretação simplista."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lm-5-n4",
+              "offset": 87,
+              "original_marker": "g",
+              "source_id": 80
+            }
+          ]
         },
         {
           "verse": 8,
@@ -742,7 +1847,21 @@
         {
           "verse": 12,
           "text": "Os chefes foram pendurados pelas suas mãos, a face dos anciãos não é respeitada.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A expressão ambígua do original não permite concluir se as suas mãos se referem às mãos dos chefes (príncipes) ou às mãos dos inimigos."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "lm-5-n5",
+              "offset": 42,
+              "original_marker": "h",
+              "source_id": 81
+            }
+          ]
         },
         {
           "verse": 13,
@@ -752,7 +1871,21 @@
         {
           "verse": 14,
           "text": "Os anciãos deixaram de estar na porta, os jovens abandonaram as suas cantigas.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Trata-se provavelmente de uma referência à porta da cidade, lugar de administração da justiça, atividade que está na base da normalidade da vida social, que assim fica comprometida."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "lm-5-n6",
+              "offset": 37,
+              "original_marker": "i",
+              "source_id": 82
+            }
+          ]
         },
         {
           "verse": 15,
@@ -762,7 +1895,21 @@
         {
           "verse": 16,
           "text": "Caiu a coroa da nossa cabeça. Ai de nós, que pecámos!",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "A coroa é símbolo da glória e da honra de uma pessoa. Pode ser uma referência à linhagem de David ou à própria cidade de Jerusalém (Is 62,3), que foram arruinadas e desonradas."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "lm-5-n7",
+              "offset": 12,
+              "original_marker": "j",
+              "source_id": 83
+            }
+          ]
         },
         {
           "verse": 17,
@@ -782,16 +1929,89 @@
         {
           "verse": 20,
           "text": "Por que haverias de nos esquecer para sempre e de nos abandonar por toda a vida?",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: ao longo dos dias (cf. Sl 13,3; 22,2; 44,25; Is 49,14)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "lm-5-n8",
+              "offset": 79,
+              "original_marker": "k",
+              "source_id": 84
+            }
+          ]
         },
         {
           "verse": 21,
           "text": "Reconduz-nos a ti, Senhor, e voltaremos. Renova os nossos dias como os de antigamente.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Ou: Volta para nós, SENHOR, e voltaremos para ti. Trata-se do regresso de Deus, que, segundo o versículo anterior, se poderia ter afastado de Israel ou do consequente regresso a Sião sua morada. A segunda parte da frase refere-se ao regresso do povo seja a Sião seja a Deus por meio da conversão. Deus é a causa da libertação e da conversão (cf. 3,40; Jr 31,18)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "lm-5-n9",
+              "offset": 39,
+              "original_marker": "a",
+              "source_id": 85
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "Será que nos rejeitaste completamente? Ficaste assim tão irritado contra nós?",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "A tradição judaica reconhece o pessimismo, a amargura e alguma possível falta de confiança em Deus implícita neste versículo final. Por isso, quando este texto se recita na sinagoga, repete-se o v. 21 depois do v. 22, que é de súplica. O mesmo acontece com outros textos que parecem concluir-se em tom mais negativo (cf. Co 12,14; Is 66,24; Ml 4,6)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "lm-5-n10",
+              "offset": 76,
+              "original_marker": "b",
+              "source_id": 86
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "QUINTA LAMENTAÇÃO",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Neste capítulo não aparece a forma de acróstico alfabético, embora se mantenha o número de vinte e dois versículos, correspondentes ao número das letras do alfabeto hebraico."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lm-5-n1",
+              "offset": 17,
+              "original_marker": "d",
+              "source_id": 77
+            }
+          ]
+        },
+        {
+          "before_verse": 1,
+          "text": "Condição humilhante do povo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 19,
+          "text": "Súplica final",
           "note_refs": []
         }
       ]

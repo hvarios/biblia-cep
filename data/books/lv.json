@@ -1,5 +1,60 @@
 {
+  "schema_version": 2,
   "book": "Levítico",
+  "book_id": "lv",
+  "source": {
+    "format": "docx",
+    "file": "03_Lv.docx",
+    "title": "Livro do Levítico"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Posição no Pentateuco",
+        "paragraphs": [
+          "O Levítico ocupa um lugar central entre os cinco livros que compõem o Pentateuco. Neste conjunto, ele representa uma continuidade relativamente aos conteúdos legais que se encontram já reunidos na segunda parte do livro do Êxodo. Os textos normativos do livro do Levítico concentram-se bastante em matérias onde se define a identidade religiosa de Israel em formas concretas da prática do culto, nomeadamente nos seus aspetos rituais e institucionais, mas também morais. Juntos, estes dois livros representam um núcleo muito significativo das leis bíblicas, dando assim um contributo importante para que os cinco livros, chamados livros de Moisés, tenham passado a ser designados pela tradição como os livros da Lei."
+        ]
+      },
+      {
+        "title": "Conteúdo e título",
+        "paragraphs": [
+          "No concreto, as leis reunidas neste livro têm a ver de maneira muito especial com o contexto litúrgico e com a atividade exercida pela classe que, em Israel, estava diretamente encarregada dessas funções. É a classe ou tribo dos levitas, onde se integra uma categoria de serviçais do templo, que são simplesmente designados levitas, e mais especificamente uma categoria de sacerdotes, com o sumo sacerdote no topo da hierarquia. A temática deste livro é, portanto, delimitada e é também, de algum modo, religiosamente restritiva, porque trata mais das questões da prática que dos princípios. O facto de estar focado no templo de Jerusalém reflete muito naturalmente a condição da religião de Israel, na fase posterior à reforma de Josias, sem espelhar propriamente práticas das épocas mais antigas.",
+          "Entre os judeus conservou como título a primeira palavra do texto, Vayyiqerá’ (“E chamou”), que mostra como Deus se dirigiu a Moisés para lhe transmitir estas ordens. A partir da tradução grega, o livro acabou por ser reconhecido generalizadamente com o nome de Levítico, que os tradutores do antigo texto hebraico para a Bíblia grega de Alexandria, a Bíblia dos Setenta (a Septuaginta ou os LXX), entenderam que correspondia perfeitamente ao seu conteúdo. Pelo nome e pelas atribuições que lhe são definidas, o Levítico apresenta-se como a carta magna da tribo de Levi. As funções religiosas e sociais realizadas pelos levitas em Israel substituem a parte de herança territorial, uma vez que, à diferença das restantes tribos, esta tribo não recebeu nenhuma porção na repartição de terra destinada ao conjunto das restantes tribos (Nm 18,20; Dt 10,9; Js 13,33; Ez 44,28). As tarefas e funções a que foi votada no serviço do templo constituíam a verdadeira herança da tribo de Levi."
+        ]
+      },
+      {
+        "title": "Contexto histórico",
+        "paragraphs": [
+          "O contexto histórico que oferece o pano de fundo real para este livro é a vida litúrgica que os hebreus levavam a cabo no templo de Jerusalém. No enquadramento",
+          "original do livro, fica implícito que estas cerimónias se deviam desenrolar na tenda do encontro. Com efeito, o enquadramento literário de apresentação destas normas está situado no tempo da travessia do deserto, tal como aquelas que constam já no livro do Êxodo; e Deus transmite todas estas prescrições, dirigindo-se a Moisés a partir da tenda do encontro. Esta, como santuário do deserto, apresenta-se como uma imagem antecipada do que será o futuro templo; e a definição e organização de ambas as entidades tinha sido apresentada na parte final do Êxodo.",
+          "Das complexas cerimónias litúrgicas aqui referidas, este livro apenas contém os aspetos normativos. Todos os outros aspetos bem como a riqueza religiosa, histórica e literária, que ficam implícitas nestas atitudes, práticas e sentimentos podem ser, em parte, recuperados principalmente a partir do livro dos Salmos, onde os conteúdos das diversas ações litúrgicas vão sendo expressos e matizados através de variadas formas de oração, por meio de atitudes, gestos e emoções concretas e pessoais.",
+          "As questões complexas de história literária relativas às origens e à autoria do livro fazem parte de um quadro mais amplo, que se enquadra no conjunto do Pentateuco. Estas perspetivas têm andado, desde há longo tempo, a ser estudadas. E os estudiosos vão conseguindo assentar algumas linhas de rumo sobre os caminhos da formação e redação de todo o conjunto. Sabe-se hoje que a evolução da literatura do Pentateuco, até atingir a forma final que nos foi legada, passou por um processo longo, moroso e muito influenciado por circunstâncias múltiplas. O seu estado literário, tal como se encontra atualmente, poderá, por conseguinte, ter sido atingido numa fase já relativamente avançada da história dos hebreus. A sua redação final pode ter acontecido por alturas do exílio. Estes assuntos de história literária são tratados de forma global na introdução geral ao Pentateuco.",
+          "Na altura em que recebeu a sua forma final atual, a sua finalidade era a de servir de norma para a vida litúrgica e religiosa, particularmente na época do segundo templo. Com efeito, o templo restaurado de Jerusalém, depois do exílio, acabava de ser constituído e declarado como lugar quase exclusivo de todos os ritos previstos neste livro.",
+          "Por outro lado, no contexto de dependência política do Israel pós-exílico, a vida religiosa e litúrgica representava, em grande parte, o espaço mais identitário de sobrevivência comunitária e nacional dos hebreus, uma vez que a submissão a que ficaram reduzidos debaixo do poder de impérios sucessivos, como o neobabilónico e o persa, fazia com que este núcleo de gestos, expressões e sentimentos religiosos se lhes apresentasse como sendo a expressão mais real e viva da sua identidade como povo. Estas circunstâncias contribuíam para dar uma importância muito grande a este livro no Antigo Testamento, mesmo para além da função imediata de regular a realização das cerimónias litúrgicas. A própria Bíblia é testemunha de que, com frequência, os profetas dirigiam duras críticas às más práticas de culto e mesmo à maneira como chegavam a ser exageradamente valorizadas na sua qualidade de vivências religiosas (Ml 1-2)."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "Seguindo o esquema em que o livro se encontra dividido, podemos aperceber-nos do essencial dos seus conteúdos.",
+          "A primeira parte (1-16) costuma ser designada como Código Sacerdotal, porque o papel dos sacerdotes na sua função de oficiantes é particularmente importante, tendo em conta as várias cerimónias e intervenções que lhes compete realizar. Ali se encontra o ritual dos numerosos e variados sacrifícios (1-7), os rituais de consagração dos sacerdotes (8-10) e diversas leis relativas às exigências de pureza ritual (11-15), concluindo-se com um conjunto de cerimónias que têm a ver com a celebração do grande dia da expiação (16).",
+          "A segunda parte (17-26) é designada como Código de Santidade. Nela se integram leis sobre a imolação de animais, proibições relativas a comida e cuidados a ter com o sangue (17), leis sobre aspetos de comportamento sexual (18), deveres para com o próximo (19), penas relativas a transgressões sexuais (20), santidade dos sacerdotes (21- 22), calendário das festas (23), luzes do santuário e pães de oferta (24), regras sobre o ano sabático e sobre a celebração do jubileu (25) e, finalmente, bênçãos e maldições (26). Num pequeno apêndice final, são registadas algumas normas relativas a votos e promessas (27), tendo em conta as consequências do seu enquadramento nas dependências da jurisdição familiar."
+        ]
+      },
+      {
+        "title": "Sentido teológico e alcance histórico",
+        "paragraphs": [
+          "Com a cobertura pormenorizada sobre tantos aspetos práticos da vida religiosa dos hebreus, o Levítico acaba por nos oferecer um quadro bastante representativo da religiosidade dos hebreus no tempo da Bíblia. Deste modo, aparecem registadas as muitas modalidades de sacrifícios, ofertas, cerimónias, festas, bem como exigências de comportamento, a nível pessoal e coletivo. Uma tal definição de normas desce ao rigor dos pormenores e acentua particularmente as incidências que estas práticas morais têm na criação de condições para se poder participar de forma digna nas cerimónias rituais. Contudo, por dentro e para além deste aparente ritualismo, sobressaem referências a um padrão de santidade que sugere aos hebreus que devem ser santos como Deus é santo (Lv 11,44-45). Estas referências multiplicam-se de modo a constituir um verdadeiro refrão, que dá ritmo e sentido ao desenrolar das leis.",
+          "Esta ligação do livro do Levítico às práticas cultuais do templo de Jerusalém é essencial para se apreender o seu significado, tanto na Bíblia como na história. Esta ligação ao culto litúrgico do templo deixou, entretanto, de estar em vigor, tanto para o judaísmo como para o cristianismo. Este facto é importante para o significado que continuou a ter a sua leitura.",
+          "Para o judaísmo, a desatualização das leis do Levítico foi consequência drástica e direta da destruição do templo de Jerusalém, que aconteceu de forma dramática no ano 70, d.C. E a cultura religiosa dos hebreus não estava realmente preparada para tão grande drama. O templo não voltou a ser substituído e isto fez com que",
+          "os cerimoniais descritos no livro não voltassem a ser praticados. O judaísmo viu-se obrigado a refundar a religiosidade bíblica noutros moldes. Apesar dessa impossibilidade, a Mishná é testemunha, séculos mais tarde ainda, de que os judeus continuavam a preocupar-se, de maneira escrupulosa, em definir os matizes exigidos para um perfeito cumprimento destas leis.",
+          "Por outro lado, o cristianismo estava já num processo que tendia em boa parte a ultrapassar os aspetos práticos e cultuais previstos no Levítico, em nome de uma ultrapassagem de muitas das práticas da Lei, seguindo os novos dinamismos do Espírito. No entanto, sem regressar aos rituais descritos no Levítico, o cristianismo acabou, de certo modo, por revalorizar o modelo cultual da religiosidade levítica, recuperando simbolismos da instituição sacerdotal, acabando por reinstaurá-la segundo novas modalidades.",
+          "Finalmente, tanto para o judaísmo como para o cristianismo, o Levítico continua a representar um convite para que os ideais religiosos possam ser cultivados numa ligação coerente com a prática e sejam associados a formas significativas de ética e de estética. É isso que as ações cultuais públicas exprimem, mostram e estimulam de forma eficaz e pedagógica. O seu interesse teológico pode encontrar-se também na maneira como articula os horizontes da espiritualidade com as dimensões da prática ritual, da ética e da estética das grandes expressões religiosas. Além disso, era na imensa variedade de acontecimentos religiosos governados pelas leis do Levítico que se realizava a dimensão comunitária e de partilha social da religião de Israel. E o seu legado e significado passa certamente também por este horizonte simbólico."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,12 +62,40 @@
         {
           "verse": 1,
           "text": "O Senhor chamou Moisés e falou-lhe assim, a partir da tenda do encontro, dizendo:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A expressão literal hebraica e chamou (wayyiqera’) é o nome com que se refere este livro na tradição judaica. Para além disso, há que sublinhar que a sintaxe desta primeira frase pressupõe que o texto deste livro está na continuação direta com o do livro do Êxodo que vem imediatamente antes. A sintaxe pressuposta é de continuidade entre os dois livros."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-1-n1",
+              "offset": 15,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "«Fala aos filhos de Israel e diz-lhes: “Quando algum de vós apresentar ao Senhor uma oferenda de animais, a vossa oferenda deverá ser de gado bovino ou ovino.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Oferenda ou oferta (qorban). É um termo genérico para indicar qualquer oferta de quem se “aproxima” de Deus, já que o termo está ligado a uma raiz que significa “aproximar”. Quem se aproxima de Deus deve levar-lhe alguma “oferta”."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-1-n2",
+              "offset": 122,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 3,
@@ -22,7 +105,21 @@
         {
           "verse": 4,
           "text": "Imporá a sua mão sobre a cabeça da vítima de holocausto e ser-lhe-á aceite como expiação por ele.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Imporá a sua mão. Não era um gesto de transmissão dos pecados à vítima; era para proceder a uma identificação com ela, de modo a torná-la uma espécie de seu representante diante de Deus, para expiação de pecados e impurezas pessoais."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-1-n3",
+              "offset": 16,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 5,
@@ -37,7 +134,21 @@
         {
           "verse": 7,
           "text": "Os sacerdotes, filhos de Aarão, acenderão o fogo sobre o altar e amontoarão lenha sobre o fogo.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Os sacerdotes, filhos de Aarão. Depois do exílio, os sacerdotes eram considerados da descendência de Aarão, irmão de Moisés. As outras famílias sacerdotais, mesmo sendo tribo de Levi, não tinham acesso a este nível específico do sacerdócio e dedicavam-se a variadas funções que tinham a ver com o templo."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lv-1-n4",
+              "offset": 30,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 8,
@@ -51,7 +162,7 @@
         },
         {
           "verse": 10,
-          "text": "Se a sua oferenda é um holocausto de gado miúdo ovino ou caprino oferecerá um macho sem defeito.",
+          "text": "Se a sua oferenda é um holocausto de gado miúdo – ovino ou caprino – oferecerá um macho sem defeito.",
           "note_refs": []
         },
         {
@@ -87,6 +198,32 @@
         {
           "verse": 17,
           "text": "Abrirá a ave por entre as asas, sem as separar e queimá-la-á sobre o altar, por cima da lenha que foi colocada no fogo. É um holocausto, uma oferta no fogo, de suave perfume para o Senhor.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O termo oferta no fogo (’ishsheh) designa geralmente os sacrifícios nos quais toda a vítima, ou parte dela, era passada pelo fogo e queimada sobre o altar."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "lv-1-n5",
+              "offset": 155,
+              "original_marker": "a",
+              "source_id": 5
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "I. CÓDIGO SACERDOTAL (1-16) Ritual dos sacrifícios",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Holocausto",
           "note_refs": []
         }
       ]
@@ -147,7 +284,21 @@
         {
           "verse": 11,
           "text": "Nenhuma das ofertas de cereais que oferecerdes ao Senhor deve ser feita com massa fermentada, porque não deveis queimar como oferta para o Senhor nada que contenha fermento ou mel.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Preparada sem fermento. Considerava-se que o fermento corrompia a natureza própria das coisas e estas devem ser oferecidas a Deus, tal como ele as criou. Por isso, o fermento é, por vezes, considerado como tendo uma conotação negativa. Daí a importância que recebe o pão ázimo ou não fermentado para estas ofertas e como alimento para a festa dos pães ázimos que se associou à festa da Páscoa."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-2-n1",
+              "offset": 92,
+              "original_marker": "b",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 12,
@@ -157,12 +308,40 @@
         {
           "verse": 13,
           "text": "Todas as tuas ofertas de cereais serão temperadas com sal; e nunca deixarás que falte o sal da aliança do teu Deus em nenhuma das tuas ofertas. Com todas as tuas ofertas apresentarás sal.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Sal da aliança. É o único texto do Levítico onde se fala deste ritual, mas ele devia ser comum a todos os sacrifícios. Com ele fica sublinhada a ideia de que as relações entre Deus e o seu povo são baseadas na aliança do Sinai."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-2-n2",
+              "offset": 102,
+              "original_marker": "c",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Se apresentares ao Senhor uma oferta de primícias, será com espigas tostadas pelo fogo, com grãos novos moídos que deves apresentar a oferta das tuas primícias.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Primícias. Todos os primeiros frutos deveriam ser oferecidos ao Senhor, tanto os do campo, como os do rebanho e da família, isto é, as crias do gado e os filhos primogénitos. Esses eram considerados os melhores (Ex 13,1-16) e desta maneira pagavam o devido tributo ao Senhor."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-2-n3",
+              "offset": 49,
+              "original_marker": "d",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 15,
@@ -174,6 +353,13 @@
           "text": "O sacerdote queimará, como memorial, uma parte do grão moído e do seu azeite, além de todo o incenso. É uma oferta no fogo para o Senhor.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Oferta de cereais",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -182,7 +368,21 @@
         {
           "verse": 1,
           "text": "Se a sua oferenda, como sacrifício de comunhão, for de gado bovino, macho ou fêmea, apresentará diante do Senhor uma rês sem defeito.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Sacrifício de comunhão (zebah shelamîm). Também é chamado “sacrifício pacífico” e é a terceira espécie de sacrifícios, segundo a legislação levítica. Neles, uma parte da vítima era queimada sobre o altar e a outra parte era destinada a um banquete sagrado que era consumido no santuário pelo oferente e pela sua família."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-3-n1",
+              "offset": 46,
+              "original_marker": "e",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 2,
@@ -257,11 +457,32 @@
         {
           "verse": 16,
           "text": "E o sacerdote queimará tudo isto sobre o altar. É um alimento de oferta no fogo de suave perfume. Toda a gordura pertence ao Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Toda a gordura pertence ao Senhor. A parte gorda dos animais era considerada de especial simbolismo vital. Saúde e abundância são associadas com riqueza e bem-estar. Por isso, pertencia ao Senhor da vida. Esta lei valia para sempre e para todos os lugares, mesmo fora de Jerusalém. A mesma lei é aplicada ao sangue, que não se deve comer, por ser por excelência o símbolo da vida. Deve sempre ser oferecido àquele que é o senhor da vida."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-3-n2",
+              "offset": 131,
+              "original_marker": "a",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Esta é uma lei perpétua para todas as vossas gerações. Onde quer que habiteis, não deveis comer gordura nem sangue”».",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Sacrifício de comunhão",
           "note_refs": []
         }
       ]
@@ -276,13 +497,27 @@
         },
         {
           "verse": 2,
-          "text": "«Fala aos filhos de Israel e diz-lhes: “Quan - do alguém pecar por ignorância contra qualquer dos mandamentos do Senhor, fazendo alguma daquelas coisas que não devem ser feitas,",
+          "text": "«Fala aos filhos de Israel e diz-lhes: “Quando alguém pecar por ignorância contra qualquer dos mandamentos do Senhor, fazendo alguma daquelas coisas que não devem ser feitas,",
           "note_refs": []
         },
         {
           "verse": 3,
           "text": "se aquele que pecou é o sacerdote ungido, tornando assim o povo culpado, oferecerá ao Senhor pelo pecado cometido um novilho sem defeito, como sacrifício expiatório.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Sacerdote ungido. Era o sumo sacerdote ou pontífice que era consagrado com a unção do crisma derramado sobre a cabeça (21,10; Ex 29,7). Depois da monarquia, acabou por ser considerado como chefe da nação e seu representante diante de Deus (Ex 28,21.29.36-38). É de recordar que o Levítico esteve em vigor num tempo em que a autoridade máxima para os hebreus era o sumo sacerdote, porque tinham perdido a sua autonomia política. Sacrifício expiatório. O termo hebraico tem o sentido de um ritual pelo “pecado”, pois o sacrifício era oferecido como expiação dos pecados."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-4-n1",
+              "offset": 40,
+              "original_marker": "b",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 4,
@@ -302,7 +537,21 @@
         {
           "verse": 7,
           "text": "Seguidamente, o sacerdote colocará parte do sangue sobre os cantos do altar do incenso que está diante do Senhor, na tenda do encontro; e derramará o sangue que resta do novilho na base do altar dos holocaustos, que está à entrada da tenda do encontro.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Cantos (ou hastes) do altar. Os altares antigos da região de Canaã tinham, nos quatro cantos, uma saliência que eles designavam como chifres. Na tradição simbólica de Canaã, o chifre era símbolos de abundância e de poder da parte de Deus ou dos deuses, a quem eram oferecidos os sacrifícios (Ex 30,1-10)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-4-n2",
+              "offset": 75,
+              "original_marker": "c",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 8,
@@ -322,16 +571,30 @@
         {
           "verse": 11,
           "text": "a pele do novilho, toda a sua carne, com a cabeça, as patas, os intestinos e os excrementos. Isto é, o novilho inteiro será retirado para fora do acampamento, para um lugar puro",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Um lugar puro. Os restos do animal oferecido em sacrifício, isto é, consagrado a Deus, não podiam ser deitados fora em qualquer lado, porque já tinham sido declarados como pertencendo a Deus. Tinham, por conseguinte, que ser lançados num lugar próprio, considerado puro, ou seja, separado do uso profano."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-4-n3",
+              "offset": 92,
+              "original_marker": "d",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": ", onde A A se deitam as cinzas. E queimá-lo-á, colocando-o sobre a lenha e deitando-lhe fogo. E será queimado no lugar onde se deitam as cinzas.",
+          "text": ", onde se deitam as cinzas. E queimá-lo-á, colocando-o sobre a lenha e deitando-lhe fogo. E será queimado no lugar onde se deitam as cinzas.",
           "note_refs": []
         },
         {
           "verse": 13,
-          "text": "Se foi toda a comunidade de Israel que pecou por ignorância, porque alguém foi contra os mandamentos do SENHOR, e o seu ato ficou oculto aos olhos da assem - bleia, tornando-se ela mesma culpada, mesmo sem disso se aperceber,",
+          "text": "Se foi toda a comunidade de Israel que pecou por ignorância, porque alguém foi contra os mandamentos do SENHOR, e o seu ato ficou oculto aos olhos da assembleia, tornando-se ela mesma culpada, mesmo sem disso se aperceber,",
           "note_refs": []
         },
         {
@@ -376,7 +639,7 @@
         },
         {
           "verse": 22,
-          "text": "Se o que pecou é um príncipe e infringiu, por ignorância, qualquer dos man - damentos do Senhor, seu Deus, incorrendo assim em culpa,",
+          "text": "Se o que pecou é um príncipe e infringiu, por ignorância, qualquer dos mandamentos do Senhor, seu Deus, incorrendo assim em culpa,",
           "note_refs": []
         },
         {
@@ -401,7 +664,7 @@
         },
         {
           "verse": 27,
-          "text": "Se alguém de entre a gente do povo infringiu, por ignorância, um dos manda - mentos do Senhor, incorrendo assim em culpa,",
+          "text": "Se alguém de entre a gente do povo infringiu, por ignorância, um dos mandamentos do Senhor, incorrendo assim em culpa,",
           "note_refs": []
         },
         {
@@ -444,6 +707,13 @@
           "text": "Separará toda a gordura da vítima, tal como se faz com a gordura do cordeiro do sacrifício de comunhão; e o sacerdote queimá-la-á sobre o altar, com as ofertas no fogo, para o Senhor. O sacerdote fará assim expiação pelo pecado que essa pessoa cometeu e ser-lhe-á perdoado.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Sacrifício expiatório",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -452,7 +722,21 @@
         {
           "verse": 1,
           "text": "Se alguém, tendo ouvido a intimação para ser testemunha, não quiser declarar aquilo que viu ou do qual teve conhecimento, comete pecado e será culpado por ele;",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.: a maldição. Trata-se da declaração de uma maldição que tinha implícito um juramento destinado a contribuir para se descobrir a verdade e se fazer justiça."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-5-n1",
+              "offset": 35,
+              "original_marker": "a",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 2,
@@ -471,7 +755,7 @@
         },
         {
           "verse": 5,
-          "text": "A quele que incorreu em culpa, em qualquer desses casos, reconhecerá o seu pecado",
+          "text": "Aquele que incorreu em culpa, em qualquer desses casos, reconhecerá o seu pecado",
           "note_refs": []
         },
         {
@@ -552,7 +836,21 @@
         {
           "verse": 21,
           "text": "«Se alguém pecar, cometendo alguma destas transgressões graves contra o Senhor, recusando entregar ao seu próximo um objeto recebido em depósito, um valor que lhe tenha sido confiado, um objeto roubado, ou algo em que tenha defraudado de qualquer modo o seu próximo;",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Qualquer falta cometida contra o próximo, isto é, contra os israelitas, constitui uma ofensa feita ao próprio Deus, pois é a ele que todo o povo pertence."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-5-n2",
+              "offset": 265,
+              "original_marker": "b",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 22,
@@ -579,6 +877,18 @@
           "text": "O sacerdote fará por ele o rito da expiação, diante do Senhor, e a falta de que se tornou culpado ser-lhe-á perdoada».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Sacrifício por culpas diversas",
+          "note_refs": []
+        },
+        {
+          "before_verse": 14,
+          "text": "Sacrifício de reparação",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -592,7 +902,21 @@
         {
           "verse": 2,
           "text": "«Dá esta ordem a Aarão e aos seus filhos, dizendo: “Esta é a lei do holocausto. O holocausto fica sobre as brasas em cima do altar, toda a noite até de manhã; e o fogo do altar deve manter-se aceso.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Holocausto. Antes do exílio, o sacrifício de holocausto realizava-se apenas de manhã. A partir de então, passou a realizar-se também de tarde. Ele caracteriza-se pela perenidade do fogo que consome totalmente a vítima. O nome grego de holocausto que lhe foi atribuído significa precisamente “integralmente queimado”. Este fogo lembrava a perenidade da aliança de Deus com o seu povo."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-6-n1",
+              "offset": 78,
+              "original_marker": "c",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 3,
@@ -671,13 +995,27 @@
         },
         {
           "verse": 18,
-          "text": "«Fala a Aarão e aos seus filhos e diz-lhes: “Esta é a lei do sacrifício expiatório: a vítima expiatória será imolada diante do Senhor, no lugar onde se imola o holocausto. É coisa santíssima",
+          "text": "«Fala a Aarão e aos seus filhos e diz-lhes: “Esta é a lei do sacrifício expiatório: a vítima expiatória será imolada diante do Senhor, no lugar onde se imola o holocausto. É coisa santíssima.",
           "note_refs": []
         },
         {
           "verse": 19,
           "text": "O sacerdote que ofereceu a vítima expiatória poderá comer dela; deve ser comida em lugar santo, no átrio da tenda do encontro.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O sacerdote … poderá comer dela. O sacerdote representa o próprio Deus, ao comer das coisas oferecidas em sacrifício. Nos holocaustos. Considera-se que é Deus que, simbolicamente, come totalmente a vítima, ao ser queimada no fogo. Este era, do ponto de vista da imagem, um dos sinais mais comuns e quotidianos da presença de Deus no santuário"
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-6-n2",
+              "offset": 62,
+              "original_marker": "a",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 20,
@@ -697,6 +1035,33 @@
         {
           "verse": 23,
           "text": "Mas não se comerá nenhuma vítima expiatória cujo sangue foi introduzido na tenda do encontro, para fazer a expiação dentro do santuário. Essa será consumida pelo fogo.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Direitos e deveres dos sacerdotes",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "O holocausto",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "Oferta de cereais",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Oferta de consagração",
+          "note_refs": []
+        },
+        {
+          "before_verse": 17,
+          "text": "Sacrifício expiatório",
           "note_refs": []
         }
       ]
@@ -762,7 +1127,21 @@
         {
           "verse": 12,
           "text": "Se alguém o oferecer como um sacrifício de ação de graças, oferecerá, junto com ele, pães ázimos amassados com azeite, bolos sem fermento humedecidos com azeite e bolos de flor de farinha amassados com azeite.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O sacrifício de ação de graças (todah) ou de louvor (v. 12) era uma subdivisão do sacrifício de comunhão, particularmente apreciado por parte dos salmistas (Sl 50,14.23; 56,13; 105; 106; 107). A imolação da vítima era acompanhada com a ação de graças. Era um sacrifício oferecido por ocasião das festas e por motivos especiais, tanto coletivos como individuais. A imolação da vítima era acompanhada com cânticos de louvor, como os dos salmos referidos acima."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-7-n1",
+              "offset": 57,
+              "original_marker": "b",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 13,
@@ -782,7 +1161,21 @@
         {
           "verse": 16,
           "text": "Se alguém oferecer uma vítima em cumprimento de um voto ou como oferenda voluntária, ela deverá ser comida no mesmo dia em que se ofereceu e o que sobrar dela poderá comer-se no dia seguinte.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O sacrifício em cumprimento de um voto (néder) e o sacrifício espontâneo (nedabah) eram apresentados a Deus em cumprimento de uma promessa feita a Deus ou por pura devoção (27,1-29); eram comuns entre o povo de Israel. Como as expressões dizem, trata-se de sacrifícios mais ligados à piedade do oferente do que de uma espécie típica e oficial de sacrifícios. Normalmente são equivalentes aos sacrifícios de comunhão."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-7-n2",
+              "offset": 55,
+              "original_marker": "a",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 17,
@@ -807,7 +1200,21 @@
         {
           "verse": 21,
           "text": "Se alguém tocar em qualquer coisa impura, seja impureza de homem seja de animal, em algo de abominável e impuro, e seguidamente comer carne do sacrifício de comunhão oferecido ao Senhor, será excluído do seu povo”».",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Será excluído. Literalmente a expressão poderia significar será cortado ou eliminado. A expressão teria um alcance muito forte, pois poderia equivaler à pena de morte, como modo radical de fazer uma espécie de excomunhão. No entanto, isso pode denunciar simplesmente a gravidade do assunto em causa, deixando o castigo nas mãos do próprio Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-7-n3",
+              "offset": 200,
+              "original_marker": "b",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 22,
@@ -852,7 +1259,21 @@
         {
           "verse": 30,
           "text": "Com as suas próprias mãos, ele apresentará o que se há de queimar diante do Senhor: apresentará a gordura e o peito. Mas o peito deve oferecer-se com o ritual de elevação diante do Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Ritual de elevação. Este gesto de apresentação antigo consistia em levantar diante do Senhor uma oferenda, movendo as mãos para cima e para baixo, para a frente e para trás. Estes gestos significavam uma ação de oferta."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lv-7-n4",
+              "offset": 170,
+              "original_marker": "c",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 31,
@@ -891,7 +1312,38 @@
         },
         {
           "verse": 38,
-          "text": "Foi o Senhor que a prescreveu a Moisés no monte Sinai, quando ordenou aos filhos de Israel, no deserto do Sinai, que apresentassem ao Senhor as suas oferendas”». (8-10)",
+          "text": "Foi o Senhor que a prescreveu a Moisés no monte Sinai, quando ordenou aos filhos de Israel, no deserto do Sinai, que apresentassem ao Senhor as suas oferendas”».",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Aqui termina a legislação sobre os sacrifícios do templo de Jerusalém. Mesmo representando as práticas cultuais próprias da época do segundo templo, estes são apresentados como se remontassem ao tempo e à legislação do tempo de Moisés. Este foi o enquadramento considerado adequado para mostrar estas normas como essenciais à vida religiosa de Israel. Por isso as associaram à memória do grande mestre, Moisés."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "lv-7-n5",
+              "offset": 161,
+              "original_marker": "d",
+              "source_id": 22
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Sacrifício de reparação",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Sacrifício de comunhão",
+          "note_refs": []
+        },
+        {
+          "before_verse": 22,
+          "text": "Outras prescrições",
           "note_refs": []
         }
       ]
@@ -902,7 +1354,21 @@
         {
           "verse": 1,
           "text": "O Senhor falou a Moisés e disse:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Consagração dos sacerdotes. Este ritual inclui introdução e banho dos candidatos (v. 1-6); vestes sagradas (v. 7-9); unção da tenda e dos utensílios do culto (10-11); cerimonial da vestição dos sacerdotes (v. 12-13); sacrifícios (v. 18-32)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-8-n1",
+              "offset": 23,
+              "original_marker": "e",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 2,
@@ -927,7 +1393,8 @@
         {
           "verse": 6,
           "text": "",
-          "note_refs": []
+          "note_refs": [],
+          "omitted": true
         },
         {
           "verse": 7,
@@ -937,7 +1404,21 @@
         {
           "verse": 8,
           "text": "colocou-lhe o peitoral, ao qual ajustou os urim e tumim;",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Os urim e tumim eram dados sagrados ou outros objetos cuja modalidade concreta se desconhece; eram usados para conhecer a vontade de Deus (Ex 28,30). São frequentemente referidos como recurso de informação, mas não são descritos em pormenor."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-8-n2",
+              "offset": 55,
+              "original_marker": "f",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 9,
@@ -957,7 +1438,21 @@
         {
           "verse": 12,
           "text": "Depois, derramou óleo da unção sobre a cabeça de Aarão e ungiu-o, para assim o consagrar.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O óleo da unção. Dos livros históricos do Antigo Testamento e dos Salmos deduz-se que a unção era um elemento da consagração do rei. Por isso, ele era declarado como “o ungido do Senhor” por excelência (1 Sm 9,16; 2 Sm 1,13-16; 1Rs 1,39). Mas muitos textos mostram também que, além do sumo-sacerdote, os outros sacerdotes também recebiam a unção (7,36; Ex 28,41; 30,30). Do nome hebraico mashiah (ungido) deriva o termo que passou a ser usado para “messias”. No entanto, o conceito de messias tem maiores ligações simbólicas e conceptuais com a realeza do que propriamente com o sacerdócio."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-8-n3",
+              "offset": 30,
+              "original_marker": "a",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 13,
@@ -986,7 +1481,7 @@
         },
         {
           "verse": 18,
-          "text": "Mandou então apresentar o carneiro do holocausto. Aarão e os seus filhos impu - seram as suas mãos sobre a cabeça do carneiro.",
+          "text": "Mandou então apresentar o carneiro do holocausto. Aarão e os seus filhos impuseram as suas mãos sobre a cabeça do carneiro.",
           "note_refs": []
         },
         {
@@ -1007,7 +1502,21 @@
         {
           "verse": 22,
           "text": "Seguidamente, mandou apresentar o segundo carneiro, o carneiro do sacrifício de investidura. Aarão e os seus filhos impuseram as suas mãos sobre a cabeça do carneiro.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Sacrifício de investidura. É um ritual semelhante ao do sacrifício de comunhão, porque, na investidura dos sacerdotes, trata-se de uma especial relação com Deus. Esta relação é simbolizada sobretudo no ritual da unção feito com o sangue das vítimas (vv. 23-24)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lv-8-n4",
+              "offset": 91,
+              "original_marker": "b",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 23,
@@ -1062,7 +1571,21 @@
         {
           "verse": 33,
           "text": "E não vos deveis afastar da porta da tenda do encontro durante sete dias, até que se cumpra o tempo da vossa investidura, pois a vossa investidura é cumprida durante sete dias.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.: … pois durante sete dias se encherá a vossa mão. Esta expressão de encher a mão refere-se à cerimónia descrita no v. 27."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "lv-8-n5",
+              "offset": 175,
+              "original_marker": "c",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 34,
@@ -1079,6 +1602,18 @@
           "text": "E Aarão, tal como os seus filhos, cumpriu tudo o que o Senhor tinha ordenado por meio de Moisés.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "2. Consagração dos sacerdotes (8-10)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Rituais de consagração de Aarão e dos seus filhos",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -1087,7 +1622,21 @@
         {
           "verse": 1,
           "text": "No oitavo dia, Moisés chamou Aarão e os seus filhos bem como os anciãos de Israel",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Depois da legislação sobre os sacrifícios e sobre a consagração dos sacerdotes, seguem-se agora os primeiros sacrifícios oferecidos a Deus. Segundo a tradição da escola sacerdotal, estes são os primeiros sacrifícios oferecidos em honra do Deus de Israel. Os sacrifícios oferecidos antes destes pertencem a outras tradições diferentes (Gn 8,20-21; 12,7; 22,1-19)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-9-n1",
+              "offset": 51,
+              "original_marker": "d",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1112,7 +1661,21 @@
         {
           "verse": 6,
           "text": "E Moisés disse: «Isto é o que ordenou o Senhor. Ponde-o em prática e a glória do Senhor manifestar-se-á diante de vós».",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A glória do Senhor é a manifestação visível do Deus invisível, uma espécie de raios da sua própria luz. Segundo a tradição bíblica, ninguém podia ver a Deus sem morrer (Gn 16,13; Ex 3,6; 16,10; 24,11.16; 40,34-38; Dt 5,24; Jz 13,22)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-9-n2",
+              "offset": 87,
+              "original_marker": "e",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 7,
@@ -1126,7 +1689,7 @@
         },
         {
           "verse": 9,
-          "text": "Os filhos de Aarão apresentaram-lhe o sangue; e ele, molhan - do o dedo no sangue, colocou-o nos cantos do altar e derramou o resto do sangue na base do altar.",
+          "text": "Os filhos de Aarão apresentaram-lhe o sangue; e ele, molhando o dedo no sangue, colocou-o nos cantos do altar e derramou o resto do sangue na base do altar.",
           "note_refs": []
         },
         {
@@ -1171,12 +1734,12 @@
         },
         {
           "verse": 18,
-          "text": "Imolou também o touro e o carneiro como sacrifício de comunhão pelo povo. Os filhos de Aarão apresentaram-lhe o sangue, e ele derra - mou-o sobre o altar, à volta.",
+          "text": "Imolou também o touro e o carneiro como sacrifício de comunhão pelo povo. Os filhos de Aarão apresentaram-lhe o sangue, e ele derramou-o sobre o altar, à volta.",
           "note_refs": []
         },
         {
           "verse": 19,
-          "text": "Quanto às partes gordas do touro e do carneiro, a cau - da, a gordura que envolve as entranhas, os dois rins com a sua gordura e a membrana do fígado,",
+          "text": "Quanto às partes gordas do touro e do carneiro, a cauda, a gordura que envolve as entranhas, os dois rins com a sua gordura e a membrana do fígado,",
           "note_refs": []
         },
         {
@@ -1204,6 +1767,13 @@
           "text": "Da presença do Senhor saiu fogo que devorou o holocausto e as gorduras que estavam sobre o altar. Ao ver isto, o povo soltou gritos de alegria e prostrou-se de rosto por terra.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Primeiros sacrifícios de Aarão e seus filhos",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -1212,7 +1782,21 @@
         {
           "verse": 1,
           "text": "Nadab e Abiú, filhos de Aarão, tomando cada um o seu turíbulo, colocaram neles fogo e incenso por cima e ofereceram diante do Senhor um fogo profano, coisa que Ele não lhes tinha ordenado.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Não se diz claramente em que é que o ritual aqui referido infringe as regras. Eventualmente poderia ser por não terem recebido ordens para o fazer. O rigor do castigo que aparece no episódio da morte destas duas personagens chama a atenção para a seriedade que envolve o exercício do ministério sacerdotal e para a observância das normas estabelecidas para o culto."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-10-n1",
+              "offset": 187,
+              "original_marker": "a",
+              "source_id": 30
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1222,7 +1806,21 @@
         {
           "verse": 3,
           "text": "Moisés disse então a Aarão: «Isto foi o que o Senhor declarou, quando disse: “Aos que estão perto de mim mostrarei que sou santo e diante de todo o povo manifestarei a minha glória”». E Aarão ficou em silêncio.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O matiz do conceito de santidade aqui implícito é o de uma tão extraordinária exigência que se pode transformar num perigo e numa ameaça para quem se aproxima ou contacta indevidamente. Esta conotação costuma andar assoaciada principalmente ao conceito de sagrado (v. 10)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-10-n2",
+              "offset": 128,
+              "original_marker": "b",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 4,
@@ -1237,7 +1835,30 @@
         {
           "verse": 6,
           "text": "Moisés disse a Aarão e aos seus filhos Eleázar e Itamar: «Não andeis com o cabelo desgrenhado, nem rasgueis as vossas vestes. Assim não morrereis, pois a ira se incendiaria contra toda a comunidade. Os vossos irmãos, toda a casa de Israel, poderão chorar os que morreram com fogo provocado pelo Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Nem rasgueis as vossas vestes. Rasgar as vestes, assim como rapar a cabeça, era sinal de luto; os sacerdotes, no entanto, não o devem fazer, por imperativo da sua dignidade sacerdotal (21,10; Gn 23,2; 37,29. 34-35; Nm 14,6; Dt 14,1; Jb 1,20; Mt 26,65 e par).",
+            "4": "O próprio significado do termo ira, neste texto, dá bem a entender que se trata da ira de Deus. Nem é preciso acrescentar este dado ao teor do texto original, como frequentemente as traduções sentem necessidade de fazer."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-10-n3",
+              "offset": 124,
+              "original_marker": "c",
+              "source_id": 32
+            },
+            {
+              "ref": "4",
+              "id": "lv-10-n4",
+              "offset": 157,
+              "original_marker": "d",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 7,
@@ -1301,12 +1922,14 @@
         },
         {
           "verse": 19,
-          "text": "Aarão respondeu a Moisés: «No dia em que eles ofereceram ao Senhor os seus sacrifícios expiatórios e o seu holocausto, aconteceram-me aquelas coisas. Agradaria acaso ao Senhor que eu comesse hoje a vítima expiatória?». Moisés ouviu isto e pareceu bem a seus olhos. (11-15)",
+          "text": "Aarão respondeu a Moisés: «No dia em que eles ofereceram ao Senhor os seus sacrifícios expiatórios e o seu holocausto, aconteceram-me aquelas coisas. Agradaria acaso ao Senhor que eu comesse hoje a vítima expiatória?». Moisés ouviu isto e pareceu bem a seus olhos.",
           "note_refs": []
-        },
+        }
+      ],
+      "headings": [
         {
-          "verse": 20,
-          "text": "",
+          "before_verse": 1,
+          "text": "Morte de Nadab e Abiú",
           "note_refs": []
         }
       ]
@@ -1317,7 +1940,21 @@
         {
           "verse": 1,
           "text": "O Senhor falou a Moisés e a Aarão e disse-lhes:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Os cc. 11-15 fornecem-nos listas do que é declarado puro e das coisas que são impuras. Estas duas noções entendem-se melhor, se as compararmos com o que hoje chamamos “tabu”: é algo que sempre se fez, sem se saber bem porquê; existe o medo de mudar tais normas, por receio de algum castigo. O puro e impuro, na Bíblia, está ligado sobretudo à vida (sangue) e fontes da vida (tabus sexuais), à morte (tocar num animal ou numa pessoa mortos), assim como a determinados os alimentos (costumes nacionais e culturais; Gn 7,2). É nesta linha de valores culturais que se insere a questão dos animais puros e impuros."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-11-n1",
+              "offset": 46,
+              "original_marker": "a",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1347,7 +1984,21 @@
         {
           "verse": 7,
           "text": "o porco, que tem a unha do pé dividida, mas não é ruminante, é impuro para vós.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A proibição de comer carne de porco, que aparece em muitas passagens da Bíblia, pode ter acontecido por dois motivos: por motivos higiénicos, pois a carne estragada poderia ser fatal para quem a comesse e também por ser considerado um animal sagrado na região pagã da Fenícia. Os critérios que presidiram à separação entre animais puros e impuros são de vária ordem: higiénicos, costumes ancestrais de carácter cultural, por certos animais estarem relacionados com os cultos pagãos, ou simplesmente porque causavam repulsa, como é o caso dos que rastejam."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-11-n2",
+              "offset": 78,
+              "original_marker": "b",
+              "source_id": 35
+            }
+          ]
         },
         {
           "verse": 8,
@@ -1502,11 +2153,25 @@
         {
           "verse": 38,
           "text": "mas se cair algum desses cadáveres sobre semente já molhada, considerá-la-eis impura para vós.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Esta semente já molhada parece ser aquela que estava já destinada a ser cozinhada ou mesmo diretamente a ser comida."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-11-n3",
+              "offset": 59,
+              "original_marker": "c",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 39,
-          "text": "Quando morrer algum dos animais que podeis comer, quem tocar no seu cadá - ver ficará impuro até à tarde.",
+          "text": "Quando morrer algum dos animais que podeis comer, quem tocar no seu cadáver ficará impuro até à tarde.",
           "note_refs": []
         },
         {
@@ -1532,7 +2197,21 @@
         {
           "verse": 44,
           "text": "Porque Eu sou o Senhor, vosso Deus, santificai-vos e sede santos, porque Eu sou santo. Não vos torneis impuros com nenhum desses animais que rastejam na terra,",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O conceito de santidade, neste contexto, tem a ver com ideia de distanciamento a tomar relativamente ao universo das coisas e dos animais impuros."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lv-11-n4",
+              "offset": 85,
+              "original_marker": "a",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 45,
@@ -1549,6 +2228,18 @@
           "text": "Ela serve para distinguir entre o impuro e o puro, entre o animal que pode comer-se e o animal que não se pode comer.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "3. Leis de pureza ritual (11-15)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Animais puros e impuros",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -1557,7 +2248,21 @@
         {
           "verse": 1,
           "text": "O Senhor falou a Moisés, dizendo: «Fala aos filhos de Israel e diz-lhes:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A impureza menstrual e a da mulher que dava à luz estavam ligadas ao tabu do sangue e da nova vida que vinha ao mundo. Era um modo de sacralizar o início da vida humana."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-12-n1",
+              "offset": 32,
+              "original_marker": "b",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1566,7 +2271,7 @@
         },
         {
           "verse": 3,
-          "text": "No oitavo dia, o filho será cir - cuncidado",
+          "text": "No oitavo dia, o filho será circuncidado",
           "note_refs": []
         },
         {
@@ -1594,6 +2299,13 @@
           "text": "Se ela não tem suficiente para oferecer uma rês de gado miúdo, tome duas rolas ou dois pombos, um para o holocausto e outro para o sacrifício expiatório; o sacerdote fará por ela o ritual de expiação e ficará pura”».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Purificação da parturiente",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -1607,7 +2319,21 @@
         {
           "verse": 2,
           "text": "«Quando alguém tiver na pele do seu corpo um tumor, uma doença de pele ou uma mancha, podendo degenerar na sua pele numa ferida de lepra, será levado à presença do sacerdote Aarão ou de algum dos sacerdotes seus filhos.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A lepra era considerada a doença mais terrível, possivelmente pela facilidade com que se pode produzir o contacto e a contaminação. Daí o cuidado em evitá-la a todo o custo, excluindo o leproso da comunidade e destruindo as coisas que se apresentassem com manchas de lepra."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-13-n1",
+              "offset": 136,
+              "original_marker": "c",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 3,
@@ -1661,7 +2387,7 @@
         },
         {
           "verse": 13,
-          "text": "se o sacerdote verificar que a lepra tiver coberto todo o seu corpo, declarará puro o afe - tado pela ferida: como toda a sua pele se tornou branca é puro.",
+          "text": "se o sacerdote verificar que a lepra tiver coberto todo o seu corpo, declarará puro o afetado pela ferida: como toda a sua pele se tornou branca é puro.",
           "note_refs": []
         },
         {
@@ -1811,7 +2537,7 @@
         },
         {
           "verse": 43,
-          "text": "Se, ao examiná-lo, o sacerdote observar que a inflamação da ferida da parte poste - rior ou anterior da cabeça é branca avermelhada, com o aspeto de lepra sobre a pele,",
+          "text": "Se, ao examiná-lo, o sacerdote observar que a inflamação da ferida da parte posterior ou anterior da cabeça é branca avermelhada, com o aspeto de lepra sobre a pele,",
           "note_refs": []
         },
         {
@@ -1827,7 +2553,21 @@
         {
           "verse": 46,
           "text": "Durante todo o tempo em que tiver a doença, continuará a ser impuro. Ele está impuro e viverá sozinho, fora do acampamento.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Fora do acampamento. O leproso é afastado da comunidade humana por motivos de saúde pública. Mas o povo também via na lepra uma impureza tão grande que afastava o leproso da comunidade do culto e do convívio com o povo de Deus. Os sinais que devem fazer com que o leproso seja reconhecível e facilmente identificável, dentro e fora do seu isolamento, são os mesmos que os referidos para as pessoas enlutadas (Ez 24,17-22)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-13-n2",
+              "offset": 122,
+              "original_marker": "a",
+              "source_id": 40
+            }
+          ]
         },
         {
           "verse": 47,
@@ -1894,6 +2634,18 @@
           "text": "Esta é a lei para a ferida de lepra nos panos de lã ou de linho, e no fio ou na trama, ou em qualquer objeto de pele, para os declarar puros ou impuros».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A lepra",
+          "note_refs": []
+        },
+        {
+          "before_verse": 47,
+          "text": "A lepra do vestuário",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -1902,7 +2654,21 @@
         {
           "verse": 1,
           "text": "O Senhor falou a Moisés, dizendo:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Este capítulo é a continuação e traz a conclusão ao assunto da lepra tratado no precedente. Em virtude da sua impureza, o leproso ficava excluído da sociedade. Purificando-o, o sacerdote reconhecia-lhe a cura e abria-lhe as portas do santuário; ao mesmo tempo, era restituído ao convívio da sociedade doméstica e civil."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-14-n1",
+              "offset": 32,
+              "original_marker": "b",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1922,7 +2688,21 @@
         {
           "verse": 5,
           "text": "O sacerdote mandará imolar uma das aves sobre um vaso de barro cheio de água viva.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Agua viva significa água de uma nascente. Parecem estar excluídas as águas paradas de cisterna, que em Jerusalém seriam as mais práticas no uso corrente. Água corrente de rio poderia ser considerada viva, mas também ali não existia. Restavam as águas de nascente. A exigência é importante e era simbolicamente significativo exigir água viva, uma vez que as fontes também não eram muitas. Afinal tratava-se de reconhecer o regresso de alguém ao estado de saúde e ao convívio comunitário e cultual."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-14-n2",
+              "offset": 81,
+              "original_marker": "a",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 6,
@@ -1947,12 +2727,40 @@
         {
           "verse": 10,
           "text": "No oitavo dia tomará dois cordeiros sem defeito e uma ovelha de um ano sem defeito; e, como oferta de cereais, três décimos de um efá de flor de farinha amassada com azeite e um log de azeite.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Um efá é uma medida que serve para medir sólidos e líquidos e equivale aproximadamente a trinta litros; um log é uma medida de capacidade correspondente mais ou menos a meio litro."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-14-n3",
+              "offset": 181,
+              "original_marker": "b",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Juntamente com tudo isto, o sacerdote que faz a purificação apresentará diante do Senhor o homem que está a ser purificado, à entrada da tenda do encontro.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Apresentará diante do Senhor. Agora que está curado, o leproso pode ser apresentado ao Senhor. A lepra tinha-o afastado da comunidade humana, mas tinha-o também desfigurado de tal modo que o tornou incapaz de se apresentar diante do Deus da vida. Este Deus não se coaduna com nada que possa, de algum modo, representar um sinal de morte."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lv-14-n4",
+              "offset": 88,
+              "original_marker": "c",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 12,
@@ -1981,7 +2789,7 @@
         },
         {
           "verse": 17,
-          "text": "O azeite que lhe ficar na pal - ma da mão será colocado no lóbulo da orelha direita do que se está a purificar, no polegar da sua mão direita e no dedo grande do pé direito, por cima do sangue da vítima de reparação.",
+          "text": "O azeite que lhe ficar na palma da mão será colocado no lóbulo da orelha direita do que se está a purificar, no polegar da sua mão direita e no dedo grande do pé direito, por cima do sangue da vítima de reparação.",
           "note_refs": []
         },
         {
@@ -2067,7 +2875,21 @@
         {
           "verse": 34,
           "text": "«Quando entrardes para a terra de Canaã, a qual vos dou como propriedade, se Eu fizer aparecer uma ferida de lepra em alguma das casas na terra que será vossa propriedade,",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Esta questão da lepra das casas mostra como, nos temas do puro e impuro, aquilo que se encontra verdadeiramente em jogo não são aspetos morais. Trata-se de atitudes de repulsa relativamente a qualquer coisa que possa sugerir um estado de doença. Mostrando que não se trata de nada de que alguém possa ter responsabilidade moral, o v. 34 diz que a mancha na casa acontece por iniciativa de Deus, isto é, que acontece naturalmente."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "lv-14-n5",
+              "offset": 134,
+              "original_marker": "d",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 35,
@@ -2152,7 +2974,21 @@
         {
           "verse": 51,
           "text": "e, tomando a madeira de cedro, o hissope e a púrpura escarlate, com a ave viva, molhá-los-á no sangue da ave imolada, sobre a água viva. Depois aspergirá a casa sete vezes.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Cf. nota a 14,5."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "lv-14-n6",
+              "offset": 135,
+              "original_marker": "a",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 52,
@@ -2184,6 +3020,18 @@
           "text": "e para distinguir quando alguma coisa é pura ou impura. Esta é a lei da lepra».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Purificação dos leprosos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 33,
+          "text": "A lepra das casas",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -2192,7 +3040,21 @@
         {
           "verse": 1,
           "text": "O Senhor falou a Moisés e a Aarão, dizendo:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "As normas sobre a impureza sexual, tratadas no presente capítulo, têm muita semelhança com as leis de outros povos do Antigo Oriente: um sentido de segredo e de mistério revestiu sempre tudo o que se refere à fecundidade e à procriação. Mais do que simples puritanismo, trata-se do respeito pela vida e pelas interferências da vida sexual com outras formas de solidariedade entre os humanos, nomeadamente a importância das relações de parentesco."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-15-n1",
+              "offset": 42,
+              "original_marker": "b",
+              "source_id": 47
+            }
+          ]
         },
         {
           "verse": 2,
@@ -2211,7 +3073,7 @@
         },
         {
           "verse": 5,
-          "text": "Quem tocar na sua cama lavará as suas rou - pas, banhar-se-á e ficará impuro até à tarde.",
+          "text": "Quem tocar na sua cama lavará as suas roupas, banhar-se-á e ficará impuro até à tarde.",
           "note_refs": []
         },
         {
@@ -2226,7 +3088,7 @@
         },
         {
           "verse": 8,
-          "text": "Se o que tiver o fluxo cuspir sobre um homem, este lavará as suas roupas, banhar - -se-á e ficará impuro até à tarde.",
+          "text": "Se o que tiver o fluxo cuspir sobre um homem, este lavará as suas roupas, banhar- -se-á e ficará impuro até à tarde.",
           "note_refs": []
         },
         {
@@ -2246,12 +3108,12 @@
         },
         {
           "verse": 12,
-          "text": "Qual - quer vaso de barro tocado pelo que padecer de fluxo será quebrado. Porém, todo o recipiente de madeira será lavado com água.",
+          "text": "Qualquer vaso de barro tocado pelo que padecer de fluxo será quebrado. Porém, todo o recipiente de madeira será lavado com água.",
           "note_refs": []
         },
         {
           "verse": 13,
-          "text": "Se aquele que padecer de fluxo se curar, contar-se-ão sete dias para a sua purifica - ção; depois lavará as suas roupas, banhar-se-á em água viva e ficará puro.",
+          "text": "Se aquele que padecer de fluxo se curar, contar-se-ão sete dias para a sua purificação; depois lavará as suas roupas, banhar-se-á em água viva e ficará puro.",
           "note_refs": []
         },
         {
@@ -2286,7 +3148,7 @@
         },
         {
           "verse": 20,
-          "text": "Todo o objeto sobre o qual ela se deitar durante o seu período de menstruação ficará impuro; e em qualquer lugar em que ela se sen - tar ficará impuro.",
+          "text": "Todo o objeto sobre o qual ela se deitar durante o seu período de menstruação ficará impuro; e em qualquer lugar em que ela se sentar ficará impuro.",
           "note_refs": []
         },
         {
@@ -2346,12 +3208,24 @@
         },
         {
           "verse": 32,
-          "text": "Esta é a lei para o homem que tem um fluxo ou que fica impuro por um der - ramamento de sémen",
+          "text": "Esta é a lei para o homem que tem um fluxo ou que fica impuro por um derramamento de sémen",
           "note_refs": []
         },
         {
           "verse": 33,
           "text": "e para a mulher durante a menstruação. É para aquele que tem um fluxo, seja homem seja mulher, e para aquele que se deitar com uma mulher em estado de impureza.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Impurezas do homem",
+          "note_refs": []
+        },
+        {
+          "before_verse": 19,
+          "text": "Impurezas da mulher",
           "note_refs": []
         }
       ]
@@ -2381,18 +3255,46 @@
         },
         {
           "verse": 5,
-          "text": "Além disso, receberá da comunidade dos filhos de Israel dois bodes para o sacri - fício expiatório e um carneiro para o holocausto.",
+          "text": "Além disso, receberá da comunidade dos filhos de Israel dois bodes para o sacrifício expiatório e um carneiro para o holocausto.",
           "note_refs": []
         },
         {
           "verse": 6,
           "text": "Aarão oferecerá o seu novilho expiatório e fará a expiação por si próprio e pela sua família.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O Dia da Expiação contém um cerimonial litúrgico especial, do tempo do exílio ou mesmo do tempo de Esdras-Neemias. Como o seu nome indica, expiavam-se os pecados dos sacerdotes, do povo e do santuário, que ficava manchado pelos pecados dos israelitas."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-16-n1",
+              "offset": 40,
+              "original_marker": "a",
+              "source_id": 48
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Depois, tomará os dois bodes e apresentá-los-á diante do Senhor à entrada da tenda do encontro.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Dois bodes... Azazel. As versões antigas dos LXX e da Vulgata entendem esta referência como tratando-se do “bode emissário”. Modernamente, os estudiosos dos textos das religiões vizinhas (hitita, babilónico-assíria) levam-nos a ver em Azazel o nome próprio de um demónio do deserto, ao qual era entregue um bode. Uma figura de tipo angélico com características negativas aparece nas tradições populares da antiga Palestina e nas literaturas apócrifas tardias, que foram sendo naturalmente associados com o mundo diabólico."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-16-n2",
+              "offset": 28,
+              "original_marker": "b",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 8,
@@ -2422,7 +3324,21 @@
         {
           "verse": 13,
           "text": "Colocará incenso sobre as brasas, diante do Senhor, para que a nuvem do incenso oculte o propiciatório que está sobre o documento da aliança; e assim não morrerá.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Nuvem do incenso. A nuvem simbolizava a separação entre o mundo dos humanos e o mundo do divino. Nesse caso, esta nuvem tinha a dupla função, por um lado, de revelar que Deus estava lá, perto, e, por outro, de ocultar o transcendente ao olhar impuro dos frágeis seres humanos. Se Deus fosse visto pelos seres humanos, estes poderiam morrer, devido à sua energia infinita."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-16-n3",
+              "offset": 79,
+              "original_marker": "c",
+              "source_id": 50
+            }
+          ]
         },
         {
           "verse": 14,
@@ -2437,7 +3353,21 @@
         {
           "verse": 16,
           "text": "Assim fará a expiação pelo santuário, por todas as impurezas e delitos dos filhos de Israel, por todos os seus pecados. Fará o mesmo com a tenda do encontro que mora com eles, no meio das suas impurezas.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Mora. O verbo hebraico aqui utilizado serve para indicar a morada de alguém que é de fora, junto de um grupo de pessoas. É como se a tenda do encontro representasse aqui uma presença humana e viva."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lv-16-n4",
+              "offset": 165,
+              "original_marker": "d",
+              "source_id": 51
+            }
+          ]
         },
         {
           "verse": 17,
@@ -2462,7 +3392,21 @@
         {
           "verse": 21,
           "text": "Imporá as suas duas mãos sobre a cabeça do bode vivo, confessará sobre ele todas as iniquidades e delitos dos filhos de Israel, todos os seus pecados, depositando-os assim sobre a cabeça do bode. Depois, por meio de um homem designado na ocasião, o bode será mandado para o deserto.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Imporá as duas mãos. Gesto ligeiramente diferente da imposição da mão, no sacrifício expiatório."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "lv-16-n5",
+              "offset": 24,
+              "original_marker": "e",
+              "source_id": 52
+            }
+          ]
         },
         {
           "verse": 22,
@@ -2502,7 +3446,21 @@
         {
           "verse": 29,
           "text": "Esta será para vós uma lei perpétua: no décimo dia do sétimo mês, deveis fazer penitência e não fareis trabalho algum, nem aquele que é natural nem o estrangeiro que reside entre vós.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: … humilhareis as vossas almas."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "lv-16-n6",
+              "offset": 89,
+              "original_marker": "a",
+              "source_id": 53
+            }
+          ]
         },
         {
           "verse": 30,
@@ -2529,6 +3487,13 @@
           "text": "Esta será para vós uma lei perpétua: fazer a expiação por todos os pecados dos filhos de Israel, uma vez por ano». E assim se fez, como o Senhor tinha ordenado a Moisés.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "4. O Dia da Expiação",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -2537,7 +3502,21 @@
         {
           "verse": 1,
           "text": "O Senhor falou a Moisés, dizendo:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O Código de Santidade é constituído por dois grandes conjuntos (cc. 17-20 e 21-26) e é uma reflexão exílica e pós-exílica sobre o culto e a lei do santuário de Jerusalém. Chamou-se assim, devido ao estribilho continuamente repetido: “Sede santos, porque Eu sou santo.”"
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-17-n1",
+              "offset": 23,
+              "original_marker": "b",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 2,
@@ -2567,7 +3546,21 @@
         {
           "verse": 7,
           "text": "E nunca mais oferecerão os seus sacrifícios aos ídolos peludos, indo atrás dos quais eles se prostituíam. É uma lei perpétua para eles, de geração em geração.”",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O termo hebraico aqui usado designa um animal peludo. Normalmente, significaria o bode; metaforicamente, parece aplicar-se a seres que viviam em lugares desertos (Is 13,21; 34,14), como demónios representados sob forma de animais. Por isso, algumas traduções usam o termo “sátiros”. Este estatuto imaginário justifica eventuais tentações de lhes oferecerem sacrifícios."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-17-n2",
+              "offset": 62,
+              "original_marker": "c",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 8,
@@ -2587,12 +3580,40 @@
         {
           "verse": 11,
           "text": "Pois a vida do corpo está no sangue e Eu concedo-vos o sangue para fazer expiação sobre o altar, pelas vossas vidas. Com efeito, a expiação pela vida faz-se com o sangue.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A vida do corpo está no seu sangue. Outra tradução: Porque a alma da carne está no sangue.” O termo hebraico néfesh (vida) é também traduzido por “alma, espírito”; a palavra hebraica deriva de uma raiz que significa “soprar, respirar” e designa o princípio da força vital corpórea animal."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-17-n3",
+              "offset": 35,
+              "original_marker": "d",
+              "source_id": 56
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Por isso, Eu disse aos filhos de Israel: ‘Nenhum de vós deve comer sangue. E o estrangeiro que reside entre vós também não deve comer sangue’.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Nenhum de vós comerá sangue. A proibição de comer sangue é das mais típicas da Bíblia. Os motivos são: o sangue, como símbolo total da vida, pertence unicamente a Deus. Por isso, ele deve ser tratado com a máxima deferência e respeito; e, quando não é utilizado nos sacrifícios, deve ser dado a Deus, isto é, coberto respeitosamente com terra. Daí o seu valor sacrificial como substituto da vida humana oferecida a Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lv-17-n4",
+              "offset": 73,
+              "original_marker": "e",
+              "source_id": 57
+            }
+          ]
         },
         {
           "verse": 13,
@@ -2612,6 +3633,23 @@
         {
           "verse": 16,
           "text": "Mas, se não as lavar nem tomar banho, carregará com a sua iniquidade”».",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "II. CÓDIGO DE SANTIDADE",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Lugares destinados aos sacrifícios",
+          "note_refs": []
+        },
+        {
+          "before_verse": 10,
+          "text": "Proibição de comer sangue",
           "note_refs": []
         }
       ]
@@ -2647,7 +3685,21 @@
         {
           "verse": 6,
           "text": "Nenhum de vós se aproximará de nenhuma parente próxima para descobrir a sua nudez. Eu sou o Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Este é um primeiro conjunto de leis sobre as relações sexuais. É o mais antigo dos três (v.17-20 e 21-23). Esta legislação é dirigida ao homem, pois, como em toda a instituição patriarcal, era ele que escolhia a mulher."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-18-n1",
+              "offset": 54,
+              "original_marker": "a",
+              "source_id": 58
+            }
+          ]
         },
         {
           "verse": 7,
@@ -2722,7 +3774,21 @@
         {
           "verse": 21,
           "text": "Não darás nenhum filho teu para o fazer passar diante de Moloc, profanando, assim, o nome do teu Deus. Eu sou o Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Moloc no texto massorético está vocalizado como Mólek (rei), que equivale a um particípio do verbo malak (reinar). Era uma divindade pagã, deus dos amonitas, cujo culto estava largamente difundido (2Rs 16,3-4; 17,17; 23,10). Dt 12,31 condena este culto e Jeremias fala do Tofet, onde eram queimadas as crianças (Jr 7,30-34; 19,6-13; 32,34-35); Ezequiel denuncia-o igualmente (Is 30,33; Jr 7,31-34; Ez 16,20-22; 20,31; 23,37)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-18-n2",
+              "offset": 62,
+              "original_marker": "b",
+              "source_id": 59
+            }
+          ]
         },
         {
           "verse": 22,
@@ -2737,7 +3803,21 @@
         {
           "verse": 24,
           "text": "Não vos torneis impuros com nenhuma destas práticas, pois com elas se tornaram impuras as nações que Eu vou expulsar diante de vós.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Não vos torneis impuros. Neste código de proibições de caráter sexual são atacadas as uniões sexuais entre familiares, assim como a homossexualidade e a bestialidade. Nesta lista, atacam-se também os vícios dos cananeus."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-18-n3",
+              "offset": 23,
+              "original_marker": "c",
+              "source_id": 60
+            }
+          ]
         },
         {
           "verse": 25,
@@ -2769,6 +3849,13 @@
           "text": "Guardai, pois, as minhas normas, para que não imiteis nenhum dos costumes abomináveis que se praticavam antes de vós chegardes. Assim não vos tornareis impuros com eles. Eu sou o Senhor, vosso Deus”».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Proibições de natureza sexual",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -2782,7 +3869,21 @@
         {
           "verse": 2,
           "text": "«Fala à comunidade dos filhos de Israel e diz-lhes: “Sede santos, porque Eu, o Senhor, vosso Deus, sou santo.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O conceito de santidade aplicado a Deus continua a ter conotações e exigências no domínio das práticas cultuais. No entanto, muitas das exigências associadas a este atributo divino incidem nos domínios alargados da vida religiosa, moral e espiritual. Deus apresenta-se como motivo para todos estes aspetos do conceito de santidade. Daí a repetição frequente da fórmula: Eu sou o Senhor, vosso Deus, ao longo da Bíblia e até mesmo no Novo Testamento (Mt 5,48; 1Pe 1,16)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-19-n1",
+              "offset": 108,
+              "original_marker": "d",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 3,
@@ -2816,7 +3917,7 @@
         },
         {
           "verse": 9,
-          "text": "Quando fizerdes a ceifa das vossas terras, não ceifareis o campo até à extremida - de, nem apanhareis as espigas caídas.",
+          "text": "Quando fizerdes a ceifa das vossas terras, não ceifareis o campo até à extremidade, nem apanhareis as espigas caídas.",
           "note_refs": []
         },
         {
@@ -2862,7 +3963,21 @@
         {
           "verse": 18,
           "text": "Não te vingarás dos filhos do teu povo nem lhes guardarás rancor, mas amarás o teu próximo como a ti mesmo. Eu sou o Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Amarás o teu próximo como a ti mesmo. Famoso versículo, muito discutido pelos doutores judeus e também, depois, no cristianismo: Quem é o meu próximo? (Lc 10,29). No texto, refere-se certamente e apenas aos que são do mesmo povo. Jesus deu um alcance universal a este preceito (cf. Mt 5,43-48; 22,39-40)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-19-n2",
+              "offset": 106,
+              "original_marker": "a",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 19,
@@ -2892,7 +4007,21 @@
         {
           "verse": 24,
           "text": "No quarto ano, todos os seus frutos serão consagrados ao Senhor como oferta de louvor.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Esta prática não aparece referida nem como cerimónia cultual privada de devoção nem como uma festa reconhecida. No entanto, em Jz 9,27, uma espécie de festa com o mesmo nome é referida por ocasião das vindimas, a qual integra uma continuação festiva num templo com um banquete comunitário."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-19-n3",
+              "offset": 85,
+              "original_marker": "b",
+              "source_id": 63
+            }
+          ]
         },
         {
           "verse": 25,
@@ -2916,7 +4045,7 @@
         },
         {
           "verse": 29,
-          "text": "Não desonres a tua filha, prostituindo-a, para que o país não se prostitua tam - bém e se encha de indecências.",
+          "text": "Não desonres a tua filha, prostituindo-a, para que o país não se prostitua também e se encha de indecências.",
           "note_refs": []
         },
         {
@@ -2926,7 +4055,7 @@
         },
         {
           "verse": 31,
-          "text": "Não vos volteis para os espíritos nem para os adivinhos, para não ficardes impu - ros por causa deles. Eu sou o Senhor, vosso Deus.",
+          "text": "Não vos volteis para os espíritos nem para os adivinhos, para não ficardes impuros por causa deles. Eu sou o Senhor, vosso Deus.",
           "note_refs": []
         },
         {
@@ -2952,11 +4081,32 @@
         {
           "verse": 36,
           "text": "Deveis usar balanças justas, pesos justos, um efá justo e um hin justo. Eu sou o Senhor, vosso Deus, que vos fiz sair da terra do Egito.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O efá era uma medida de capacidade para matérias secas correspondente a aproximadamente 30 litros. O hin era uma medida de capacidade para líquidos, valendo um sexto de bato e equivalia mais ou menos cinco litros."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lv-19-n4",
+              "offset": 64,
+              "original_marker": "c",
+              "source_id": 64
+            }
+          ]
         },
         {
           "verse": 37,
-          "text": "Guardareis todos os meus preceitos e todas as minhas normas. Eu sou o Senhor ”».",
+          "text": "Guardareis todos os meus preceitos e todas as minhas normas. Eu sou o Senhor”».",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Leis religiosas e sociais",
           "note_refs": []
         }
       ]
@@ -2967,12 +4117,40 @@
         {
           "verse": 1,
           "text": "O Senhor falou assim a Moisés:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Este capítulo conclui a temática tratada a partir do cap. 17, sancionando penas graves contra os delitos de idolatria, superstição e imoralidade. A cada pecado, o autor avisa com fórmulas estereotipadas, que significavam a absoluta reprovação de Deus: terá de morrer, ou o eliminarei do meio do seu povo; ou ainda que o seu sangue caia sobre ele."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-20-n1",
+              "offset": 29,
+              "original_marker": "d",
+              "source_id": 65
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "«Dirás aos filhos de Israel: “Se um homem qualquer, israelita ou estrangeiro a residir em Israel, entregar um dos seus filhos a Moloc, terá de morrer; o povo da terra apedrejá-lo-á.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ver nota a 18,21. Este texto pressupõe que tais práticas idolátricas seriam praticadas no templo de Jerusalém. Isto torna mais grave a transgressão e justifica a dureza com que é aplicado o castigo."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-20-n2",
+              "offset": 133,
+              "original_marker": "e",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 3,
@@ -3007,7 +4185,21 @@
         {
           "verse": 9,
           "text": "Todo aquele que amaldiçoar o seu pai ou a sua mãe terá de morrer; porque amaldiçoou o seu pai ou a sua mãe, que o seu sangue caia sobre ele.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Amaldiçoar o seu pai ou a sua mãe. Na organização patriarcal do povo hebreu era da maior importância manter firme a autoridade dos pais (19,3; Ex 20,12; 21,17; Pr 20,20; Mt 15,4-6; Mc 7,10-11)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-20-n3",
+              "offset": 36,
+              "original_marker": "f",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 10,
@@ -3099,6 +4291,13 @@
           "text": "O homem ou a mulher que consultar os espíritos ou praticar a adivinhação terão de morrer: serão apedrejados. Que o seu sangue caia sobre eles».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Penalidades diversas",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -3107,7 +4306,21 @@
         {
           "verse": 1,
           "text": "O Senhor disse assim a Moisés: «Fala aos sacerdotes, filhos de Aarão, e diz-lhes: “Que nenhum se torne impuro com o cadáver de algum dos seus parentes,",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Estes versículos tratam de pôr de sobreaviso os sacerdotes para que não se manchem com nada que esteja relacionado com a morte. Aqueles que exercem o culto com o Deus da vida não devem ter contacto com a morte. Pensava-se que o contacto com qualquer cadáver contaminava a pessoa e destoava do estado de pureza natural, exigida particularmente aos sacerdotes (10,6; Lc 10,29-32)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-21-n1",
+              "offset": 29,
+              "original_marker": "a",
+              "source_id": 68
+            }
+          ]
         },
         {
           "verse": 2,
@@ -3122,7 +4335,21 @@
         {
           "verse": 4,
           "text": "Um marido não deve contaminar-se com os seus familiares. Ficaria profanado.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O texto hebraico deste versículo é incerto; e tem merecido várias traduções em grego, latim e siríaco. Outra tradução possível: Mas por uma irmã casada, não deve contrair impureza. Ficaria profanado."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-21-n2",
+              "offset": 55,
+              "original_marker": "b",
+              "source_id": 70
+            }
+          ]
         },
         {
           "verse": 5,
@@ -3146,7 +4373,7 @@
         },
         {
           "verse": 9,
-          "text": "Se a filha de um sacerdote se desonra, prostituindo-se, é ao seu pai que ela deson - ra; será queimada no fogo.",
+          "text": "Se a filha de um sacerdote se desonra, prostituindo-se, é ao seu pai que ela desonra; será queimada no fogo.",
           "note_refs": []
         },
         {
@@ -3187,7 +4414,21 @@
         {
           "verse": 17,
           "text": "«Fala a Aarão e diz: “Nenhum dos teus descendentes, de qualquer geração, que tenha um defeito corporal, poderá aproximar-se para apresentar o pão do seu Deus.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Este capítulo apresenta o elenco dos defeitos físicos que não deve ter o sumo sacerdote, pois podem torná-lo desprezível ou ridículo aos olhos do povo, desacreditando o seu ministério. Se as vítimas oferecidas a Deus deviam ser puras e perfeitas (Ex 12,5; Ml 1,6-8), com maior razão aquele que as oferece."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-21-n3",
+              "offset": 102,
+              "original_marker": "c",
+              "source_id": 71
+            }
+          ]
         },
         {
           "verse": 18,
@@ -3224,6 +4465,18 @@
           "text": "E assim falou Moisés a Aarão, aos seus filhos e a todo o Israel.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Leis relativas aos sacerdotes",
+          "note_refs": []
+        },
+        {
+          "before_verse": 10,
+          "text": "Sumo-sacerdote",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -3232,7 +4485,21 @@
         {
           "verse": 1,
           "text": "O Senhor falou assim a Moisés:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Continuam as leis sobre a pureza ritual, agora referidas aos alimentos oferecidos a Deus para serem consumidos pelos sacerdotes. Elas dizem respeito aos sacerdotes e aos seus familiares."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-22-n1",
+              "offset": 29,
+              "original_marker": "a",
+              "source_id": 72
+            }
+          ]
         },
         {
           "verse": 2,
@@ -3246,7 +4513,7 @@
         },
         {
           "verse": 4,
-          "text": "Nenhum homem descendente de Aarão, que seja leproso ou sofra de fluxo, come - rá das coisas santas até que se tenha purificado. Assim também, aquele que tocar em alguém impuro por contacto com um cadáver, ou que tenha tido um derrame seminal,",
+          "text": "Nenhum homem descendente de Aarão, que seja leproso ou sofra de fluxo, comerá das coisas santas até que se tenha purificado. Assim também, aquele que tocar em alguém impuro por contacto com um cadáver, ou que tenha tido um derrame seminal,",
           "note_refs": []
         },
         {
@@ -3327,7 +4594,21 @@
         {
           "verse": 20,
           "text": "Não ofereçais nada que tenha defeito, pois não vos seria bem aceite.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Não ofereçais nada que tenha defeito. Oferecer um animal doente ou com algum defeito físico em sacrifício a Deus é uma grave ofensa para com ele. As vítimas devem ser perfeitas em tudo, a fim de corresponder à santidade e perfeição de Deus. Oferecer a Deus um animal doente é um grave atentado contra o Deus da vida."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-22-n2",
+              "offset": 36,
+              "original_marker": "b",
+              "source_id": 73
+            }
+          ]
         },
         {
           "verse": 21,
@@ -3394,6 +4675,18 @@
           "text": "Sou aquele que vos fez sair da terra do Egito para ser o vosso Deus. Eu sou o Senhor”».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Leis acerca dos alimentos sagrados",
+          "note_refs": []
+        },
+        {
+          "before_verse": 17,
+          "text": "Condições dos animais sacrificados",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -3402,7 +4695,21 @@
         {
           "verse": 1,
           "text": "O Senhor falou a Moisés, dizendo:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Este capítulo apresenta um dos elencos das festas israelitas referidas no Pentateuco. Estas refletiam os ciclos anuais e enquadravam as diversas atividades humanas. Em todos os calendários, o ano litúrgico gravitava em torno de três festas sazonais, que incluíam uma peregrinação ao santuário: a Páscoa e os Ázimos, na primavera; a ceifa, no verão; Colheitas ou Tendas, no outono."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-23-n1",
+              "offset": 32,
+              "original_marker": "a",
+              "source_id": 74
+            }
+          ]
         },
         {
           "verse": 2,
@@ -3412,7 +4719,21 @@
         {
           "verse": 3,
           "text": "Durante seis dias farás o teu trabalho, mas o sétimo dia será de descanso absoluto e de assembleia sagrada. Não fareis trabalho algum. É dia de descanso dedicado ao Senhor, onde quer que habiteis.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Dia de descanso. O termo shabat significa propriamente “paragem” e refere-se à interrupção dos trabalhos. Dele deriva o nome do único dia da semana que tem nome próprio, em hebraico; os outros dias são referidos pelo número de ordem que lhes corresponde, a seguir ao sábado. O sábado era a festa semanal e apareceu provavelmente durante o exílio, para tornar presente a assembleia cultual do templo de Jerusalém, em honra do Deus criador."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-23-n2",
+              "offset": 152,
+              "original_marker": "b",
+              "source_id": 75
+            }
+          ]
         },
         {
           "verse": 4,
@@ -3446,8 +4767,22 @@
         },
         {
           "verse": 10,
-          "text": "«Fala aos filhos de Israel e diz-lhes: “Quan - do entrardes na terra que Eu vos vou dar e fizerdes a ceifa, levareis ao sacerdote um feixe de espigas como primícias da vossa colheita.",
-          "note_refs": []
+          "text": "«Fala aos filhos de Israel e diz-lhes: “Quando entrardes na terra que Eu vos vou dar e fizerdes a ceifa, levareis ao sacerdote um feixe de espigas como primícias da vossa colheita.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A festa das Primícias consistia em oferecer a Deus as primeiras espigas de cevada."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-23-n3",
+              "offset": 161,
+              "original_marker": "c",
+              "source_id": 76
+            }
+          ]
         },
         {
           "verse": 11,
@@ -3462,7 +4797,21 @@
         {
           "verse": 13,
           "text": "A correspondente oferta de cereais será de dois décimos de flor de farinha amassada com azeite como oferta no fogo, de suave perfume para o Senhor; e ainda um quarto de um hin de vinho como libação.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Sobre as medidas de capacidade, efá e hin, referidas neste versículo, ver a nota a 19,36."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lv-23-n4",
+              "offset": 184,
+              "original_marker": "d",
+              "source_id": 77
+            }
+          ]
         },
         {
           "verse": 14,
@@ -3472,7 +4821,21 @@
         {
           "verse": 15,
           "text": "A partir do dia seguinte ao sábado em que levardes o feixe de espigas para fazer o ritual de elevação, contareis sete semanas completas.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A festa das (sete) Semanas assinalava o início da ceifa do trigo; mais tarde, foi chamada, na Bíblia grega, festa de Pentecostes, termo que depende da contagem dos cinquenta dias que decorrem desde a Páscoa. Segundo a tradição, esta data passou a comemorar também a promulgação da Lei."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "lv-23-n5",
+              "offset": 135,
+              "original_marker": "e",
+              "source_id": 78
+            }
+          ]
         },
         {
           "verse": 16,
@@ -3481,7 +4844,7 @@
         },
         {
           "verse": 17,
-          "text": "Levareis das vossas moradas, como oferenda para o ritual de elevação, dois pães amassados com dois décimos de flor de farinha e cozidos com fermento: são as pri - mícias para o Senhor.",
+          "text": "Levareis das vossas moradas, como oferenda para o ritual de elevação, dois pães amassados com dois décimos de flor de farinha e cozidos com fermento: são as primícias para o Senhor.",
           "note_refs": []
         },
         {
@@ -3517,7 +4880,21 @@
         {
           "verse": 24,
           "text": "«Fala aos filhos de Israel e diz-lhes: “O primeiro dia do sétimo mês será para vós de descanso absoluto, dia de comemoração e de aclamação com assembleia sagrada.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Esta festa coincide com a lua nova do sétimo mês, quando o ano hebraico começava na primavera. Ela deve ter adquirido alguma importância por coincidir na época do ano em que outras tradições orientais, nomeadamente de origem mesopotâmica, começavam um novo ano. Com o tempo, o judaísmo acabou por assumir também a festa do Ano Novo (Rosh ha-Shannah) nesta mesma época do outono, mas continuou a contagem dos meses do ano a partir do mês de Nisan, que seria o mês de um ano novo de base palestinense"
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "lv-23-n6",
+              "offset": 161,
+              "original_marker": "f",
+              "source_id": 79
+            }
+          ]
         },
         {
           "verse": 25,
@@ -3532,7 +4909,21 @@
         {
           "verse": 27,
           "text": "«No dia dez deste sétimo mês é o dia da Expiação. Fareis uma assembleia sagrada, fareis penitência e apresentareis ao Senhor uma oferta no fogo.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "A respeito do dia da expiação ou do perdão, ver todo o cap. 16, onde se descreve o ritual da festa. Esta celebrava-se no fim do nosso mês de setembro e tinha como característica especial o jejum, a fim de expiar as faltas do povo de Israel, preparar a festa das Tendas e entrar devidamente no Ano Novo."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "lv-23-n7",
+              "offset": 48,
+              "original_marker": "a",
+              "source_id": 80
+            }
+          ]
         },
         {
           "verse": 28,
@@ -3567,7 +4958,21 @@
         {
           "verse": 34,
           "text": "«Fala aos filhos de Israel e diz-lhes: “No dia quinze desse sétimo mês, começará a festa das Tendas dedicada ao Senhor, durante sete dias.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Com a lua nova do outono dava-se início a um ciclo de festas que culminava na festa das Tendas. Esta festa celebrava o fim das vindimas. Era um tempo em que o povo vivia, com grande alegria, em abrigos no campo (v. 40), passando a chamar-lhe sukkot (tendas)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "lv-23-n8",
+              "offset": 99,
+              "original_marker": "b",
+              "source_id": 81
+            }
+          ]
         },
         {
           "verse": 35,
@@ -3607,7 +5012,21 @@
         {
           "verse": 42,
           "text": "Durante os sete dias habitareis em tendas. Todos os naturais de Israel morarão em tendas,",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Habitareis em tendas. No aspeto religioso, as tendas levantadas no tempo das colheitas lembram as do deserto. Mas esta prática deveria fazer parte do costume agrícola de fazer pequenos abrigos para a proteção do sol e para as refeições, durante as colheitas finais de cada ano. Isso acontecia sobretudo na época das vindimas, pois as pessoas deveriam passar todo o dia nos campos. A construção de abrigos (sukkot), mesmo na cidade, continua ainda hoje a ser um dos elementos expressivos desta semana de festa."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "lv-23-n9",
+              "offset": 41,
+              "original_marker": "c",
+              "source_id": 82
+            }
+          ]
         },
         {
           "verse": 43,
@@ -3617,6 +5036,53 @@
         {
           "verse": 44,
           "text": "Foi assim que Moisés comunicou as festas do Senhor aos filhos de Israel.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "5. Calendário das festas",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Sábado",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "Páscoa",
+          "note_refs": []
+        },
+        {
+          "before_verse": 9,
+          "text": "Primícias",
+          "note_refs": []
+        },
+        {
+          "before_verse": 15,
+          "text": "Pentecostes",
+          "note_refs": []
+        },
+        {
+          "before_verse": 23,
+          "text": "Ano Novo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 26,
+          "text": "Dia da Expiação",
+          "note_refs": []
+        },
+        {
+          "before_verse": 33,
+          "text": "Festa das Tendas",
+          "note_refs": []
+        },
+        {
+          "before_verse": 37,
+          "text": "Conclusão das festas",
           "note_refs": []
         }
       ]
@@ -3647,7 +5113,21 @@
         {
           "verse": 5,
           "text": "Tomarás flor de farinha e confecionarás com ela doze pães, de dois décimos de efá cada um.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Os doze pães da oferenda constituíam uma reminiscência do culto pagão em que se oferecia permanentemente comida aos deuses. Para Israel, estes doze pães serviam simbolicamente para tornar presentes diante de Deus as doze tribos."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-24-n1",
+              "offset": 57,
+              "original_marker": "d",
+              "source_id": 83
+            }
+          ]
         },
         {
           "verse": 6,
@@ -3677,7 +5157,21 @@
         {
           "verse": 11,
           "text": "Como o filho da israelita blasfemou e amaldiçoou o nome de Deus, levaram-no à presença de Moisés. A sua mãe chamava-se Chelomite, filha de Dibri, da tribo de Dan.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O nome, isto é, o tetragrama sagrado (Yhwh), nome de Deus segundo a revelação do Sinai (Ex 3,14-15). O perigo de poder haver desrespeito pelo nome de Javé (Ex 20,7) levou à prática de não o pronunciar e de o substituir por outros nomes equivalentes como Adonai."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-24-n2",
+              "offset": 55,
+              "original_marker": "e",
+              "source_id": 84
+            }
+          ]
         },
         {
           "verse": 12,
@@ -3702,12 +5196,40 @@
         {
           "verse": 16,
           "text": "Quem blasfemar contra o nome do Senhor será morto, toda a comunidade o apedrejará. Seja estrangeiro seja nativo, aquele que blasfemar contra o Nome morrerá”.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O aparecimento do substantivo Nome para representar aqui sozinho o tetragrama sagrado (YHWH) pode ser já um indício concreto da sensibilidade tradicional judaica de evitar pronunciar o nome divino, enquanto a tradução dos LXX e a Vulgata ainda dizem “o nome do Senhor”. Pelo contrário, o texto samaritano e a versão aramaica acrescentam mesmo o artigo: o Nome e isto vai inteiramente ao encontro da sensibilidade judaica tradicional."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-24-n3",
+              "offset": 147,
+              "original_marker": "a",
+              "source_id": 85
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Aquele que ferir mortalmente qualquer outro ser humano será condenado à morte.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A lei de Talião (nome de origem latina medieval) fazia parte da justiça tribal e era um elemento importante da autodefesa dos pequenos contra os poderosos; estes não tinham o direito de fazer um mal maior do que aquele que tinham sofrido. Jesus Cristo substituiu esta lei pela lei do amor (Mt 5,38-39)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lv-24-n4",
+              "offset": 77,
+              "original_marker": "b",
+              "source_id": 86
+            }
+          ]
         },
         {
           "verse": 18,
@@ -3739,6 +5261,28 @@
           "text": "Moisés falou aos filhos de Israel e tiraram o blasfemo para fora do acampamento e apedrejaram-no. E assim os filhos de Israel fizeram aquilo que o Senhor tinha ordenado a Moisés.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "As lâmpadas",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "Pães da oferenda",
+          "note_refs": []
+        },
+        {
+          "before_verse": 10,
+          "text": "Castigo do blasfemo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 17,
+          "text": "Lei de talião",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -3762,7 +5306,21 @@
         {
           "verse": 4,
           "text": "Porém, o sétimo ano será de completo descanso para a terra; é um sábado para o Senhor: não semearás o teu campo nem podarás a tua vinha.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O Ano Sabático tem uma origem obscura; mas está certamente relacionado com o sábado, festa semanal em honra do criador. Ao deixar cada terra em repouso durante um ano, pretende-se que também ela entre no ritmo humano de trabalho e repouso."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-25-n1",
+              "offset": 45,
+              "original_marker": "c",
+              "source_id": 87
+            }
+          ]
         },
         {
           "verse": 5,
@@ -3782,7 +5340,21 @@
         {
           "verse": 8,
           "text": "«Contareis sete semanas de anos, sete vezes sete anos, de modo que as sete semanas de anos somem quarenta e nove anos.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Jubileu. O ano jubilar deveria realizar-se cada 50 anos, depois de uma série de sete anos sabáticos. A contagem começa a seguir às festas de outono, depois das colheitas anuais. A legislação sobre o jubileu é bastante obscura e mesmo algo idealista, implicando que: 1) qualquer forma de escravidão tem um limite de tempo marcado; 2) a parentela tem o dever de ajudar aquele que se encontra em necessidade; 3) a fraternidade entre os concidadãos deve manifestar-se de modo concreto; 4) todo o cidadão tem o direito fundamental à propriedade e ao património familiar."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-25-n2",
+              "offset": 31,
+              "original_marker": "d",
+              "source_id": 88
+            }
+          ]
         },
         {
           "verse": 9,
@@ -3857,7 +5429,21 @@
         {
           "verse": 23,
           "text": "Nenhuma terra poderá vender-se em definitivo, porque a terra é minha e vós sois estrangeiros e hóspedes junto de mim.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A terra é minha, e vós sois estrangeiros e hóspedes junto de mim. São estes os dois motivos fundamentais deste capítulo. O Deus da liberdade quer que vivam na terra pessoas livres."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-25-n3",
+              "offset": 68,
+              "original_marker": "a",
+              "source_id": 89
+            }
+          ]
         },
         {
           "verse": 24,
@@ -3887,7 +5473,21 @@
         {
           "verse": 29,
           "text": "Se alguém vender uma habitação numa cidade murada, tem direito a resgatá-la até que passe um ano depois da sua venda. É esse o tempo que dura o seu direito de resgate.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Uma casa de simples residência é uma propriedade que se pode perder. Pelo contrário, uma casa no campo, representa, com os seus campos, um ganha pão. Por isso, pode ser resgatada."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lv-25-n4",
+              "offset": 166,
+              "original_marker": "b",
+              "source_id": 90
+            }
+          ]
         },
         {
           "verse": 30,
@@ -3942,7 +5542,21 @@
         {
           "verse": 40,
           "text": "estará contigo como um assalariado ou como um hóspede e trabalhará contigo até ao ano do Jubileu.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Como um assalariado. A escravidão, em sentido próprio, não existia para os israelitas; estes deviam ser considerados apenas como trabalhadores com direito à liberdade. Livres das suas dívidas no sétimo ano, entravam na posse definitiva das suas terras no ano jubilar (Jr 34,14-16)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "lv-25-n5",
+              "offset": 34,
+              "original_marker": "c",
+              "source_id": 91
+            }
+          ]
         },
         {
           "verse": 41,
@@ -4017,6 +5631,52 @@
         {
           "verse": 55,
           "text": "Com efeito, os filhos de Israel pertencem-me como servos; são meus servos, porque Eu os fiz sair da terra do Egito. Eu sou o Senhor, vosso Deus.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Os filhos de Israel pertencem-me como servos. Esta afirmação é o fundamento da lei que determina a não exploração daqueles que vivem com graves problemas sociais de pobreza e sobre os quais se falou em todo este capítulo."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "lv-25-n6",
+              "offset": 56,
+              "original_marker": "d",
+              "source_id": 93
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Ano Sabático e Jubileu",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "Ano jubilar",
+          "note_refs": []
+        },
+        {
+          "before_verse": 18,
+          "text": "Promessas para o Ano Sabático",
+          "note_refs": []
+        },
+        {
+          "before_verse": 23,
+          "text": "Resgate da propriedade e dos escravos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 35,
+          "text": "Empréstimo sem juros",
+          "note_refs": []
+        },
+        {
+          "before_verse": 39,
+          "text": "Lei da escravatura",
           "note_refs": []
         }
       ]
@@ -4086,7 +5746,7 @@
         },
         {
           "verse": 13,
-          "text": "Eu sou o Senhor, vosso Deus, que vos fiz sair da terra do Egito, para que não continuás - seis a ser os seus escravos; quebrei as cadeias do vosso jugo e fiz-vos andar de cabeça erguida.",
+          "text": "Eu sou o Senhor, vosso Deus, que vos fiz sair da terra do Egito, para que não continuásseis a ser os seus escravos; quebrei as cadeias do vosso jugo e fiz-vos andar de cabeça erguida.",
           "note_refs": []
         },
         {
@@ -4192,7 +5852,21 @@
         {
           "verse": 34,
           "text": "Nessa altura, a terra apreciará os seus sábados, durante todo o tempo em que estiver desolada. Enquanto vós estiverdes na terra dos vossos inimigos, então a terra descansará e beneficiará com os seus sábados.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Então a terra apreciará os seus sábados. Estas palavras são uma exortação a observar as leis de caráter social referidas no capítulo anterior. Isto é, se o povo não observar as leis sabáticas em favor dos mais pobres e desprotegidos, tornar-se-á indigno de viver na terra da liberdade que o Senhor lhes concedeu, levando-os para as terras estrangeiras dos seus inimigos. Assim, a terra recuperará os anos sabáticos que não foram respeitados. Os termos utilizados parecem pressupor que o povo já experimentou a difícil condição de exílio. E, depois da triste experiência do exílio, esta ameaça era um aviso e um apelo à conversão de Israel (ver 2Cr 36,20-22; Dn 9)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-26-n3",
+              "offset": 47,
+              "original_marker": "b",
+              "source_id": 96
+            }
+          ]
         },
         {
           "verse": 35,
@@ -4227,7 +5901,21 @@
         {
           "verse": 41,
           "text": "Por isso, também Eu me confrontarei com eles, levando-os para a terra dos seus inimigos. Então o seu coração infiel se humilhará e receberão o castigo da sua iniquidade.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: … o seu coração incircunciso."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lv-26-n4",
+              "offset": 115,
+              "original_marker": "c",
+              "source_id": 97
+            }
+          ]
         },
         {
           "verse": 42,
@@ -4246,12 +5934,71 @@
         },
         {
           "verse": 45,
-          "text": "Por eles recordar-me-ei da aliança que fiz com os antigos, fazendo-os sair da terra do Egito aos olhos das nações para ser o seu Deus, Eu o Senhor ”».",
+          "text": "Por eles recordar-me-ei da aliança que fiz com os antigos, fazendo-os sair da terra do Egito aos olhos das nações para ser o seu Deus, Eu o Senhor”».",
           "note_refs": []
         },
         {
           "verse": 46,
           "text": "Estes são os preceitos, as normas e as instruções que o Senhor estabeleceu entre Ele e os filhos de Israel no monte Sinai, por intermédio de Moisés.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Estes são os preceitos… no Monte Sinai. Com a referência ao monte Sinai, reiterada no último versículo deste livro, toda esta legislação fica enquadrada no contexto da aliança do Sinai, entrando desta maneira no domínio da estrutura legal constituinte de Israel e servindo como uma releitura das leis do Pentateuco."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "lv-26-n5",
+              "offset": 22,
+              "original_marker": "a",
+              "source_id": 98
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Bênçãos",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Este capítulo constitui o epílogo do Código de Santidade e consta de duas partes: bênçãos para os que são fiéis à Lei (v. 1-13) e maldições para os transgressores da mesma (v. 14-46). Este esquema enquadra-se na ideia da aliança (Dt 28) e compreende-se principalmente no contexto do exílio da Babilónia."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-26-n1",
+              "offset": 7,
+              "original_marker": "e",
+              "source_id": 94
+            }
+          ]
+        },
+        {
+          "before_verse": 14,
+          "text": "Maldições",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Maldições contra os prevaricadores do Código de Santidade. Estas são sete, com todo o simbolismo que este número tem, isto é, a totalidade, a perfeição. As primeiras cinco referem-se ao tempo antes do exílio; a quinta (v. 29-32) é a destruição de Judá e a sexta é o próprio exílio (v. 36-38); finalmente, a sétima é genérica (v. 39-41)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-26-n2",
+              "offset": 9,
+              "original_marker": "a",
+              "source_id": 95
+            }
+          ]
+        },
+        {
+          "before_verse": 42,
+          "text": "Deus é fiel à aliança",
           "note_refs": []
         }
       ]
@@ -4272,7 +6019,21 @@
         {
           "verse": 3,
           "text": "o valor de um homem entre vinte e sessenta anos de idade será de cinquenta siclos de prata, segundo o peso do santuário.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O siclo era a medida básica para pesos e equivalia aproximadamente a 12 gramas."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "lv-27-n1",
+              "offset": 81,
+              "original_marker": "b",
+              "source_id": 99
+            }
+          ]
         },
         {
           "verse": 4,
@@ -4337,7 +6098,21 @@
         {
           "verse": 16,
           "text": "Se alguém consagrar ao Senhor uma parte dos campos da sua propriedade familiar, esta será avaliada segundo a semente que nela é semeada: um hómer de semente de cevada valerá cinquenta siclos de prata.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O hómer, que também é designado como kor, era uma medida de capacidade para sólidos que equivalia aproximadamente a 300 litros."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "lv-27-n2",
+              "offset": 145,
+              "original_marker": "c",
+              "source_id": 100
+            }
+          ]
         },
         {
           "verse": 17,
@@ -4382,7 +6157,21 @@
         {
           "verse": 25,
           "text": "E todas as avaliações serão feitas segundo o siclo do santuário, em que um siclo equivale a vinte gueras.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Guera é uma pequena medida de peso que corresponde a um vigésimo de siclo e equivale aproximadamente a 0,6 gramas."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "lv-27-n3",
+              "offset": 104,
+              "original_marker": "d",
+              "source_id": 101
+            }
+          ]
         },
         {
           "verse": 26,
@@ -4397,7 +6186,21 @@
         {
           "verse": 28,
           "text": "Tudo aquilo que alguém tiver declarado como interdito para o Senhor, sejam pessoas, animais ou campos da sua herança, não poderá ser vendido nem resgatado. Tudo o que é declarado interdito é coisa santíssima e pertence ao Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O interdito, em hebraico herem, é a maneira mais radical de consagrar alguma coisa ao Senhor. O oferente não pode reservar nada para si, mas entrega tudo a Deus (cf. Dt 2,35)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "lv-27-n4",
+              "offset": 53,
+              "original_marker": "a",
+              "source_id": 102
+            }
+          ]
         },
         {
           "verse": 29,
@@ -4417,7 +6220,21 @@
         {
           "verse": 32,
           "text": "Todo o dízimo do gado graúdo ou miúdo, isto é, o décimo a passar debaixo do cajado do pastor, será coisa sagrada do Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Parece tratar-se aqui de um processo para selecionar os animais que deveriam ser entregues ao Senhor como dízimo."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "lv-27-n5",
+              "offset": 92,
+              "original_marker": "b",
+              "source_id": 103
+            }
+          ]
         },
         {
           "verse": 33,
@@ -4427,6 +6244,23 @@
         {
           "verse": 34,
           "text": "Estes são os mandamentos que o Senhor deu a Moisés para os filhos de Israel, no monte Sinai.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "III. APÊNDICE",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Normas relativas a votos e promessas",
+          "note_refs": []
+        },
+        {
+          "before_verse": 30,
+          "text": "Dízimos",
           "note_refs": []
         }
       ]

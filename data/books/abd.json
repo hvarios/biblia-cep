@@ -1,5 +1,33 @@
 {
+  "schema_version": 2,
   "book": "Abdias",
+  "book_id": "abd",
+  "source": {
+    "format": "docx",
+    "file": "38_Abd.docx",
+    "title": "Abdias"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": null,
+        "paragraphs": [
+          "O livro que, no texto, leva como título Visão de Abdias é um dos mais breves da Bíblia, com apenas um único capítulo de apenas vinte e um versículos. Este nome de Abdias, que nalgumas traduções aparece também transcrito em português como Obadias, significa “servo do Senhor”, corresponde ao do profeta que propõe os oráculos divinos contidos no livro. Alguns destes oráculos estão dirigidos contra Edom e outros, a favor de Israel.",
+          "Os oráculos procuram, acima de tudo, despertar a esperança de Israel, num momento de grande dificuldade, anunciando a ruína dos seus opressores e dos que se aproveitam das desgraças de Jerusalém; e anunciam também a proximidade do dia da intervenção salvadora do Senhor em favor do seu povo.",
+          "Estas profecias situam-se historicamente durante a época do exílio na Babilónia, depois de Judá ter sido devastada, primeiro, pelo exército de Nabucodonosor e, depois, por alguns dos povos e reinos vizinhos; entre eles estão os filisteus, fenícios e sobretudo edomitas, que se aproveitaram da debilidade do pequeno reino de Judá, a partir do ano da conquista de Jerusalém, em 587-586 a.C.",
+          "Os vinte e um versículos deste pequeno texto podem ser divididos em duas partes:",
+          "1-14: Chamada de atenção a Edom",
+          "15-21; Esperança para Israel e dia do Senhor.",
+          "Uma referência particular é feita a Edom, um pequeno reino a sudeste da Judeia e a sul do Mar Morto, cuja capital era Sela, que significa Rocha, por estar situada entre montanhas rochosas. Atualmente corresponde à famosa cidade de Petra, cuja imagem histórica e cultural de hoje é sobretudo proveniente do tempo dos nabateus. Esta referência a Edom integra igualmente uma antiga rivalidade entre Israel e Edom, representado na Bíblia pelas narrativas relativas ao seu antepassado, Esaú (cf. Gn 25,25; 32,4; 36,31-43; Jr 49,10). Os reinos de Israel e de Judá andaram muitas vezes em conflito ao longo da sua história, culminando com o júbilo de Edom pela queda de Judá, que é referido no texto e de que Judá se lamenta (cf. Sl 137,7; Ez 25,12-14; Jr 13,20-27; Lm 1,8).",
+          "Segundo o estilo que é habitual entre os profetas, estas profecias repreendem Edom e as nações vizinhas, anunciam o fim da sua soberba e a queda que se aproxima, mediante uma intervenção libertadora do Senhor. E enquanto se apresenta como ameaça para os inimigos, traz uma mensagem de esperança para o Israel oprimido e anuncia dias melhores, em que Israel se haverá de sobrepor aos reinos vizinhos, tornando possível e visível o reino eterno de Deus.",
+          "Várias personagens aparecem na Bíblia referidas pelo nome de Abdias (Obadiah), mas nenhum deles está expressamente associado a este livro. Do seu autor nada mais sabemos que aquilo que se pode deduzir do livro. Os dados disponíveis indicam",
+          "que o livro deverá ter recebido a sua redação final após a libertação e a autorização de regresso dos exilados de Judá do seu longo exílio na Babilónia, portanto, já na parte final do século VI a.C.",
+          "O livro de Abdias faz parte do grupo dos chamados Profetas Menores, por terem textos menos longos; e a sua mensagem segue o esquema comum daquele conjunto profético, consistindo essencialmente em proclamações e apelos relativos às nações vizinhas, muitas vezes opostas a Israel, e em anúncios de esperança endereçados aos israelitas, apontando, sobretudo, para a chegada do dia do Senhor, que se esperava para um tempo próximo."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,12 +35,58 @@
         {
           "verse": 1,
           "text": "Visão de Abdias. Assim diz DEUS, o Senhor, a respeito de Edom. Ouvimos uma mensagem da parte do SENHOR e um mensageiro foi enviado para entre os povos: “Levantai-vos! Levantemo-nos em guerra contra ela!”",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2",
+            "3"
+          ],
+          "notes": {
+            "1": "A visão exprime a experiência complexa de uma tomada de conhecimento ou de uma certeza que aparece com naturalidade para significar uma mensagem profética (cf. Is 1,1; Hab 2,2-3).",
+            "2": "Em vez de ouvimos, um texto paralelo que ocorre em Jr 49,14 diz: ouvi…, sendo seguido nesta leitura pela tradução grega dos LXX. No hebraico do texto atual, o plural pode ter a ver com a experiência de visão ou com a subsequente experiência de leitura coletiva.",
+            "3": "Contra ela refere-se à cidade que é a capital do reino de Edom. A partir do v. 2, Edom é tratada no masculino. Como um povo."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "abd-1-n1",
+              "offset": 5,
+              "original_marker": "a",
+              "source_id": 1
+            },
+            {
+              "ref": "2",
+              "id": "abd-1-n2",
+              "offset": 70,
+              "original_marker": "b",
+              "source_id": 2
+            },
+            {
+              "ref": "3",
+              "id": "abd-1-n3",
+              "offset": 203,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "«Eis que Eu te tornei pequeno entre os povos; tu és muito desprezível.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O texto paralelo de Jr 49,15 diz: … desprezado entre os homens."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "abd-1-n4",
+              "offset": 69,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 3,
@@ -32,22 +106,96 @@
         {
           "verse": 6,
           "text": "Como foram saqueados os de Esaú! Revistaram até os seus esconderijos!",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Esaú é outro nome para Edom, dado que este é o nome de um povo considerado descendente daquele irmão gémeo de Jacob (cf. Gn 25,25).",
+            "6": "A cidade de Petra, situada na zona montanhosa a sudeste do mar Morto, era famosa pelos seus esconderijos, que aproveitavam as numerosas fendas de rochedos que havia na região."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "abd-1-n5",
+              "offset": 31,
+              "original_marker": "e",
+              "source_id": 5
+            },
+            {
+              "ref": "6",
+              "id": "abd-1-n6",
+              "offset": 68,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "Expulsaram-te até à fronteira; os teus aliados todos enganaram-te e os teus amigos derrotaram-te; aqueles que comiam do teu pão armam uma cilada debaixo dos teus pés: «Nele não há entendimento».",
-          "note_refs": []
+          "text": "Expulsaram-te até à fronteira; os teus aliados todos enganaram-te e os teus amigos derrotaram-te; aqueles que comiam do teu pão armam uma cilada debaixo dos teus pés: «Nele não há entendimento». Proximidade do dia do Senhor",
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Ou: os teus combatentes.",
+            "8": "Esta declaração parece feita por aquele que arma uma cilada, referindo-se àquele a quem ela se destina e que não sabe que uma cilada o espera. A falta de uma expressão introdutória, tal como dizendo, é uma construção semelhante à que já ocorre no v. 1."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "abd-1-n7",
+              "offset": 127,
+              "original_marker": "a",
+              "source_id": 7
+            },
+            {
+              "ref": "8",
+              "id": "abd-1-n8",
+              "offset": 193,
+              "original_marker": "b",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Eis que naquele dia Eu farei desaparecer de Edom os sábios e a inteligência da montanha de Esaú. Oráculo do SENHOR!",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Ou: os valentes de Edom. Há indícios de que Edom era famoso pelos seus sábios (cf. Jb 2,11; Jr 49,7-8)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "abd-1-n9",
+              "offset": 95,
+              "original_marker": "c",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Os teus valentes ficarão aterrorizados, ó Teman, de modo que o homem será exterminado da montanha de Esaú pelo massacre.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Teman era uma cidade de Edom; e pode também servir também como um nome alternativo para designar aquele reino e o seu povo."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "abd-1-n10",
+              "offset": 47,
+              "original_marker": "d",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 10,
@@ -57,7 +205,30 @@
         {
           "verse": 11,
           "text": "No dia em que tu permanecias ali de lado, no dia em que os estrangeiros deportavam a sua riqueza, em que os forasteiros entravam pelas suas portas e deitavam sortes sobre Jerusalém, também tu eras como um deles!",
-          "note_refs": []
+          "note_refs": [
+            "11",
+            "12"
+          ],
+          "notes": {
+            "11": "Alusão à indiferença com que Edom assistiu à invasão da Judeia e à conquista de Jerusalém pelos neo-babilónicos de Nabucodonosor, em 597 e 586 a.C.",
+            "12": "Ou: o seu exército. A expressão hebraica pode significar: riqueza, exército ou mesmo as elites da sociedade."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "abd-1-n11",
+              "offset": 40,
+              "original_marker": "e",
+              "source_id": 11
+            },
+            {
+              "ref": "12",
+              "id": "abd-1-n12",
+              "offset": 96,
+              "original_marker": "f",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 12,
@@ -81,8 +252,22 @@
         },
         {
           "verse": 16,
-          "text": "Pois, tal como bebestes sobre a minha montanha santa, todos os povos beberão sem parar, beberão e sorverão e ficarão como se nunca tivessem existido.",
-          "note_refs": []
+          "text": "Pois, tal como bebestes sobre a minha montanha santa, todos os povos beberão sem parar, beberão e sorverão e ficarão como se nunca tivessem existido. Novo destino de Israel",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "A conquista de Judá e a destruição de Jerusalém correspondem a beber o cálice da cólera de Deus (Jr 25,15-19). Os outros povos terão igualmente de o beber, sofrendo igualmente as consequências de destruição e desaparecimento."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "abd-1-n13",
+              "offset": 148,
+              "original_marker": "g",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 17,
@@ -92,21 +277,103 @@
         {
           "verse": 18,
           "text": "Pois a casa de Jacob será um fogo e a casa de José, uma chama. Mas a casa de Esaú será a palha. Eles irão incendiá-los e devorá-los e não haverá sobrevivente para a casa de Esaú, pois o SENHOR falou!",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "A casa de Jacob e a casa de José representam a totalidade dos hebreus, representados pelos dois nomes genealógicos mais destacados, se bem que estejam especialmente associados às tribos do Norte. O confronto entre hebreus e edomitas teve muito a ver com a relação política entre Edom e o reino de Israel. A casa de Edom é a parte oposta no horizonte político de que Abdias se serve como pano de fundo para a sua profecia."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "abd-1-n14",
+              "offset": 61,
+              "original_marker": "h",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "Os do Négueb tomarão posse da montanha de Esaú, os da planície costeira tomarão posse da Filisteia, tomarão posse dos campos de Efraim e dos campos da Samaria e Benjamim tomará posse de Guilead.",
-          "note_refs": []
+          "note_refs": [
+            "15",
+            "16"
+          ],
+          "notes": {
+            "15": "Négueb representa o sul de Israel; a Samaria e Guilead representam o Norte, respetivamente do lado ocidental e do lado oriental do rio Jordão; e Sarepta representa a região norte de Canaã.",
+            "16": "O nome da planície costeira é, por vezes, transcrito diretamente com o nome de Chefela."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "abd-1-n15",
+              "offset": 12,
+              "original_marker": "a",
+              "source_id": 15
+            },
+            {
+              "ref": "16",
+              "id": "abd-1-n16",
+              "offset": 71,
+              "original_marker": "b",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "Os exilados deste exército dos filhos de Israel tomarão posse do que foi dos cananeus até Sarepta, enquanto os deportados de Jerusalém que estão em Sefarad tomarão posse das cidades do Négueb.",
-          "note_refs": []
+          "note_refs": [
+            "17",
+            "18"
+          ],
+          "notes": {
+            "17": "Na antiguidade, Sefarad parece ter representado a cidade de Sardes, na Ásia Menor. Posteriormente, esta designação começou a ser usada como nome para as regiões em torno à Península Ibérica. Daí que os judeus ibéricos passassem a ser chamados sefarditas por contraposição com os do norte da Europa, designados asquenazitas, do nome hebraico de Asquenaz. No uso hebraico atual, Sefarad designa politicamente a Espanha e culturalmente o espaço hispano-mediterrânico do judaísmo ocidental.",
+            "18": "Nos vv.19-20 são referidos os limites ideais da terra de Israel, correspondentes às épocas mais gloriosas (cf. 2Sm 24,5-8)."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "abd-1-n17",
+              "offset": 155,
+              "original_marker": "c",
+              "source_id": 17
+            },
+            {
+              "ref": "18",
+              "id": "abd-1-n18",
+              "offset": 191,
+              "original_marker": "d",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 21,
           "text": "E subirão vitoriosos à montanha de Sião para julgar a montanha de Esaú. E a realeza pertencerá ao Senhor!»",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "I – CHAMADA DE ATENÇÃO A EDOM (1-14)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Arrogância e violência de Edom",
+          "note_refs": []
+        },
+        {
+          "before_verse": 15,
+          "text": "II – ESPERANÇA PARA ISRAEL E DIA DO SENHOR (15-21)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 15,
+          "text": "O dia do Senhor",
           "note_refs": []
         }
       ]

@@ -1,28 +1,156 @@
 {
+  "schema_version": 2,
   "book": "Oseias",
+  "book_id": "os",
+  "source": {
+    "format": "docx",
+    "file": "35_Os.docx",
+    "title": "Oseias"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": null,
+        "paragraphs": [
+          "Oseias e o seu tempo – Oseias ocupa o primeiro lugar entre os profetas menores. Estes são assim chamados porque os seus textos são mais reduzidos que os de Isaías, Jeremias e Ezequiel. Daniel não tem um texto muito maior, mas entrou para o grupo dos primeiros, pela importância que rapidamente ganhou. Após a morte de Salomão, o território que David tinha organizado como um reino dividiu-se em dois (1Rs 12,1ss.; 2Cr 10,1ss.): Israel, o do Norte ou da Samaria, e Judá, o do Sul, tendo como capitais respetivas a cidade de Samaria e Jerusalém.",
+          "Oseias exerceu a sua função de profeta no Reino do Norte, durante o reinado de Jeroboão II (783-743, a.C.). Este rei fez parte de uma dinastia iniciada por Jeú nos tempos do profeta Eliseu (841) e que durou até à conquista assíria da Samaria em 721. O reinado de Jeroboão teve alguns resultados em termos de afirmação política no estrangeiro, a norte e a sul, e também em crescimento económico. Com a prosperidade vieram grandes diferenças sociais, luxo, confiança nos bens da terra e corrupção de costumes. A ação de Oseias começa próximo do final do reinado de Jeroboão II e prolonga-se até ao fim do reino da Samaria. Existem hipóteses de o profeta ter chegado a trabalhar no Reino do Sul ou de Judá. Pelo menos o seu pensamento foi ali conhecido e o seu livro pode mesmo ter recebido ali a redação final, com alguma influência no próprio texto.",
+          "Em Israel vivia-se então uma idade de ouro, do ponto de vista cultural e literário. A viragem do século VIII tinha originado uma época clássica que culminou com Isaías, na segunda metade do século, e deu a conhecer poetas importantes como são Amós e Oseias e ainda magníficos narradores como os autores de tantas páginas que se encontram hoje incorporadas no livro dos Reis. As invasões da Assíria em 722-721 e da Babilónia em 597-586 puseram termo aos dois reinos com a consequente deportação das elites sociais, provocando uma diáspora dos hebreus, dispersos por vários países.",
+          "Este enquadramento histórico mostra-nos que a época de Oseias foi profundamente agitada. Depois de um período de esplendor como foi o do reinado de Jeroboão II, sucedeu-se uma época de revoluções constantes, numa contínua troca de reis, onde não faltaram os regicídios. O Reino do Norte, como aliás toda a Palestina, era uma cana verde agitada pelos ventos, que ora sopravam do Egito, ora da Assíria. Na verdade, a Palestina sempre foi um pequeno corredor situado entre estas duas potências. Por isso, a sua política exterior, ao sabor da corrente, hesitava entre ambas as potências. Frequentemente, os profetas protestaram de forma veemente contra estas alianças. Com efeito, elas dificilmente",
+          "garantiam alguma segurança, afetavam as caraterísticas da religião hebraica e punham em perigo a sua identidade religiosa.",
+          "Neste contexto, Oseias desenvolveu uma pregação marcada por uma grande afetividade. Na primeira parte do seu livro (1,1-3,5), as relações entre Javé e o seu povo são dramaticamente apresentadas com recurso a uma metáfora de vida conjugal recheada de aventuras e dramas. O amor de Javé é incondicionalmente fiel e prevalece sobre a infidelidade do seu povo, que teimava em voltar-se para os ídolos. Com base na metáfora de esposo-esposa, a preferência por outros deuses era vista como um adultério. O mesmo tema é continuado na segunda parte (4,1-14,10), com oráculos de ameaça e com recurso a outras imagens. No final, fica sempre uma réstia de esperança: Israel vai converter-se e Javé, compassivo e cheio de misericórdia, acolhe-o num abraço simultaneamente paternal e conjugal."
+        ]
+      },
+      {
+        "title": "Temas e ideias",
+        "paragraphs": [
+          "Na rica teologia do livro de Oseias sobressaem os temas da polémica contra Baal e contra o culto nos santuários pagãos ou lugares altos, o abandono da terra, a proibição de imagens, a política de falsas alianças, a conversão, a eleição e o amor de Deus. Estes temas revelaram-se importantes em Jeremias, em Ezequiel e, de algum modo, no Deuteronómio, deixando um filão hermenêutico ao longo da literatura bíblica.",
+          "Oseias sublinha particularmente a salvação de Israel, a tradição de Jacob (12,4-5), de Moisés (12,13-14), do deserto (9,10-17; 10,1-2.11-13a; 11,1-7; 13,4-8; 2,16f; 12,10), da aliança (2,18-25; 6,7-11; 8,1-3; 10,3; 12,2) e do decálogo (4,1-3; 8,4-6; 12,10; 13,1-4). Percebe-se uma estreita relação desta profecia com a Torá. Oseias lembra Javé como o Deus de Israel com os seus feitos salvíficos. O povo de Deus esqueceu e menosprezou as etapas decisivas da sua história de salvação, perdendo assim o conhecimento de Javé como seu único Senhor e descurando a ideia de ser o seu povo. Oseias entrou em polémica contra o deus cananaico Baal e contra o seu culto. Em Baal, ele vê o oposto de Javé (2,4-15), pelo qual o povo se afastava do seu Deus. O pecado fundamental é a infidelidade ao Senhor, comparada à prostituição e ao adultério. Condena o culto dos ídolos com os seus altares e sacrifícios, as consultas de adivinhação, os cultos de fertilidade e a prostituição sagrada.",
+          "Oseias critica os reis por causa do seu comportamento pecaminoso (Os 8,4); os reis perderam o seu significado como representantes da justiça de Deus. Entretanto, a justiça é uma ideia central do AT, incluindo muitos aspetos que ultrapassam a mera esfera jurídica. Além dos elementos mais habituais de justiça distributiva, retributiva, vindicativa, esta implica obrigatoriamente a justiça social e os direitos do homem, assumidos com toda a generosidade. A lei abrange, por isso, a misericórdia e o amor. Ou seja, na justiça entram todos",
+          "os ângulos relativos à correta atuação do homem. Até o direito das gentes entra no conceito da justiça (Am 9). Todos são chamados à fidelidade, à verdade e à prática do bem, de acordo com a sua consciência. A obediência à Lei é a realização humana completa, com harmonia e paz. Em síntese, trata-se da santidade que se opõe ao pecado. Os profetas denunciaram tudo o que se opõe às injustiças que corrompem o homem e a sociedade, pelo que a defesa dos mais débeis e desprotegidos está incluída. O justo está em sintonia com a vontade de Deus. Na era messiânica Deus instaurará na terra um reino de justiça (Is 11,3-5; 32,1-3; 15-18). O reinado de David situa-se acima destas críticas e é visto em oposição ao reino do Norte (3,5).",
+          "As alianças políticas, em especial com a Assíria e o Egito, são vistas com olhar crítico. Delas resulta dependência, exploração económica sob a forma de tributo, fracasso e deportação (7,8-12; 8,9-10). Internamente eram os golpes de estado, as usurpações e a mudança de dinastias que se sucediam com frequência e levavam à falta de respeito ao rei e à sua autoridade. O seu fracasso era uma constante (7,3-7; 11,15; 13,10-11). Havia também a falsa confiança nas suas fortificações e riquezas (8,14; 11,13-14; 12,9). Uma forma de culto considerada particularmente perversa é a representação de Deus em imagens de touro ou novilho (cf. Dt 4,15-18; 7,16; 8,5-6; 10,5-6; 12,12).",
+          "Na obra de Oseias predomina o binómio pecado-castigo, às vezes apresentado genericamente (5,5; 7,2), o qual muitas vezes se inspira na lei de talião: porque rejeitam são rejeitados, porque se esquecem são esquecidos, uma infidelidade gera outra, os cultos de fertilidade geram esterilidade, a pomba atordoada cai na rede, a novilha atrai o jugo, o arco falso provoca a espada certeira; ou, dito segundo o conhecido aforismo, semeiam ventos e colhem tempestades (8,7; cf. Pr 22, 8). Às vezes o autor desenvolve um tema, uma imagem ou utiliza o simples conto; justapõe pecado e castigo ou trata uma situação desgraçada presente ou iminente como motivada por pecados que se especificam e de que se anuncia o castigo. A imagem mais importante é o símbolo conjugal, presente nos primeiros capítulos como metáfora concentrada e ao longo do livro como elo unificador. É rico em comparações como: chuva e orvalho (6,4; 13,3), semear e colher (6,11; 10, 12-13), uva e videira (9,10.16; 10,1). Serve-se igualmente do mundo animal: vaca brava (4,16), tinha e cárie (5,12); leão (5,14; 11,10), pomba (7,11-13), burro selvagem (8,9), pássaro (9,11), novilha do campo (10,11), pantera e ursa (13,7-8).",
+          "O texto nem sempre parece estar bem conservado, criando dificuldades à tradução. A tradução grega dos LXX, feita por volta do século III a. C., é já testemunha de tais dificuldades. Haverá ainda que ter em conta que Oseias usa um dialeto hebraico próprio do Norte que conhecemos menos bem e que pode dar origem a problemas de interpretação, para além dos inevitáveis acidentes no processo histórico de cópia e transmissão do texto.",
+          "No Novo Testamento, Oseias conhece alguns casos de grande impacte e é citado em Mt 2,15; Mt 9,13; Rm 9,25-26; 1Cor 15,4-5."
+        ]
+      },
+      {
+        "title": "Divisão",
+        "paragraphs": [
+          "O livro de Oseias está particularmente concentrado em analisar o significado e o estado das relações entre Deus e o povo de Israel. Por este nome de povo de Israel poderia entender-se primeiramente o conjunto das tribos do reino do Norte, que ele gosta de tratar especialmente pelo nome de Efraim. Em seguida, Oseias ou algum dos seus continuadores terá estendido alguns dos oráculos, referindo-se também ao reino de Judá. Por isso, o início do livro situa a atividade de Oseias durante os reinados de vários reis de Judá, além do tempo de Jeroboão II. Tratando de analisar as relações entre Deus e o seu povo, Oseias começa com a metáfora do casamento entre Deus e o povo, que parece ser na Bíblia um tema original seu e prossegue com uma aplicação do julgamento a todo o Israel e Judá. Daí as três partes em que se pode dividir:",
+          "I. Simbolismo profético do casamento de Oseias (1-3).",
+          "II. Julgamento de Deus sobre Israel e Judá (4-14).",
+          "III. Conversão e perspetivas de futuro (14,2-10)."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "verse": 1,
-          "text": "Palavra do que foi dirigida a Oseias, filho de Beeri, nos dias de Uzias, Jotam, Acaz e Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel.",
-          "note_refs": []
+          "text": "Palavra do SENHOR que foi dirigida a Oseias, filho de Beeri, nos dias de Uzias, Jotam, Acaz e Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel.",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "O nome de Oseias, que foi igualmente o do último rei da Samaria ou Reino do Norte, deriva da raiz que significa “salvar”. Desta raiz derivam ainda outros nomes bíblicos importantes como Josué (Nm 13,8.16), Isaías (Is 1,1) e mesmo Jesus (Esd 2,2.36.40; Sir 51,30). O que está como nome do pai é um adjetivo gentilício que significa originário “de Beer”, localidade possivelmente situada a oriente do Jordão (Nm 21,16-18).",
+            "2": "Pelo enquadramento dos reinados referidos, Oseias teria atuado no Reino do Norte apenas durante o reinado de Jeroboão, mas, no Reino de Judá teria continuado até depois da queda da Samaria. O facto de o nome dos reis do Sul aparecerem antes do de Jeroboão pode significar que este texto inicial do livro é da fase posterior. Daí que o conteúdo do livro, parecendo ser sobretudo justificado pelo contexto do Norte, se apresente como válido igualmente para o Sul."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "os-1-n1",
+              "offset": 59,
+              "original_marker": "a",
+              "source_id": 1
+            },
+            {
+              "ref": "2",
+              "id": "os-1-n2",
+              "offset": 140,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "Início da palavra do em Oseias. O disse a Oseias: «Anda, toma para tua esposa uma mulher de prostituição e filhos de prostituição, pois o país não cessa de se prostituir, deixando de seguir o». O O O O A O É",
-          "note_refs": []
+          "text": "Início da palavra do SENHOR em Oseias. O SENHOR disse a Oseias: «Anda, toma para tua esposa uma mulher de prostituição e filhos de prostituição, pois o país não cessa de se prostituir, deixando de seguir o SENHOR».",
+          "note_refs": [
+            "3",
+            "4",
+            "5"
+          ],
+          "notes": {
+            "3": "Este pode ter sido o título inicial do livro, numa fase mais antiga da sua história literária.",
+            "4": "O quadro que se descreve nos vv. 2-9 apresenta-se como imagem da vida real do profeta, mas a forte carga simbólica pode diminuir o seu alcance na vida real. Com efeito, este primeiro capítulo constitui como que uma parábola, cujo sentido vai sendo desenvolvido ao longo de todo o livro. Esta parábola parece ser uma criação de Oseias e tem aqui o seu lugar original. A partir da sua experiência pessoal, o profeta apresenta um aspeto novo e profundo sobre Deus: a infidelidade do povo à aliança é como um adultério; o amor de Deus é como um amor apaixonado de esposo, capaz de perdoar tudo e recomeçar. O casamento profético mostra alguns aspetos negativos do amor, vistos do lado humano. Do lado divino é a metáfora da fidelidade perfeita e tolerante. Esta metáfora aparece refletida em Isaías (1,21-26; 54,6-8), Jeremias (2,2; 3,1-6,12) e Ezequiel (16,1-63; 23,1-49), definindo uma linha temática que se prolongará com sucesso no judaísmo e no cristianismo (Ef 5,21-33). Noutros profetas encontramos gestos simbólicos (Jr 18, 1 ss.). Em Oseias é a própria vida que toma uma dimensão profética. As relações entre Deus e o seu povo são descritas como um matrimónio: Deus é sempre fiel, mas o seu povo é muitas vezes adúltero, abandonando o Deus vivo e voltando-se para os ídolos (Is 50, 1; 54, 6-7). É o que Oseias simbolicamente anuncia com a sua vida conjugal.",
+            "5": "As expressões mulher de prostituição e filhos de prostituição constituem uma só metáfora para designar a parte humana da relação entre Deus e o povo. A mulher com que Oseias se casa parece estar associada a cultos de fertilidade que eram frequentes nas religiões de Canaã (Dt 23,18); e os filhos referidos que ela já tinha não pertencem ao casamento com Oseias, e por isso também não pertencem a Deus. Na realidade, estes filhos de prostituição representam os israelitas igualmente infiéis a Deus e, como tal, prostituídos. Assim sendo, eles identificam-se com o comportamento da própria mãe como esposa de Deus. Por isso o casamento de Oseias se faz com ela e com eles, porque ambos representam o povo infiel. O sentido desta prostituição, como é dito no último verso, é o de o povo de Deus deixar de seguir o Senhor."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "os-1-n3",
+              "offset": 37,
+              "original_marker": "c",
+              "source_id": 3
+            },
+            {
+              "ref": "4",
+              "id": "os-1-n4",
+              "offset": 62,
+              "original_marker": "d",
+              "source_id": 4
+            },
+            {
+              "ref": "5",
+              "id": "os-1-n5",
+              "offset": 213,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Ele foi e desposou Gómer, filha de Diblaim, que concebeu e lhe deu à luz um filho.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Gómer aparece na Bíblia como descendente de Jafet, o filho de Noé cuja descendência se dispersara por regiões do Norte, afastadas de Israel (Gn 10,2s; 1Cr 1,5s; Ez 38,6). A escolha deste nome para a esposa de Oseias parece introduzir um elemento de distância e estranheza na sua identidade. Diblaim é desconhecido como nome de pessoa; parece ter um carácter simbólico, aludindo a um termo que designava uma torta de figos que fazia parte dos rituais de fertilidade. Mais adiante (3,1), o atrativo por estes cultos é realmente descrito como ser “amante de tortas de uvas”."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "os-1-n6",
+              "offset": 24,
+              "original_marker": "a",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "O disse a Oseias: «Dá-lhe o nome de Jizerael, porque dentro em breve vou pedir contas do sangue de Jizerael à casa de Jeú, e porei fim ao reinado da casa de Israel.",
-          "note_refs": []
+          "text": "O SENHOR disse a Oseias: «Dá-lhe o nome de Jizerael, porque dentro em breve vou pedir contas do sangue de Jizerael à casa de Jeú, e porei fim ao reinado da casa de Israel.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "O nome dos filhos de Oseias concentra em si o significado simbólico pretendido pela parábola. Jizerael é um nome que significa “Deus semeia” (cf. 2,24-26) e diz respeito a um vale bastante fértil, situado entre a Samaria e a Galileia. Mas este significado não parece ser o que mais interessa na construção da narrativa. Tal significado poderia funcionar como uma ironia, pois o que se pretende é anunciar o fim do reino do Norte, que naquele vale tinha alguma da sua riqueza. Oseias parece estar a fazer uma leitura crítica sobre os acontecimentos que levaram a instalar a dinastia à qual pertence Jeroboão e que assentaram sobre um massacre de opositores levado a cabo por Jeú precisamente em Jizerael. Estas referências aludem aos episódios narrados em 2Rs 9-10. O texto do v. 5 parece focar esse ponto."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "os-1-n7",
+              "offset": 51,
+              "original_marker": "b",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 5,
@@ -32,11 +160,25 @@
         {
           "verse": 6,
           "text": "A mulher concebeu de novo e deu à luz uma filha. E Deus disse a Oseias: «Dá-lhe o nome de Mal-Amada, pois não voltarei mais a mostrar amor pela casa de Israel, pois lho hei de retirar completamente.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "A forma hebraica deste nome feminino, lo’-ruhama, significa “sem-compaixão” ou “não-enternecida”. O facto de se tratar de uma mulher enquadra-se bem no horizonte metafórico de Oseias em que Israel é a esposa de Deus; ela própria, com os seus comportamentos adulterinos de prostituição, se predispõe a si mesma para um esfriamento da relação amorosa com Deus que lhe dá a identidade. Mais uma vez, a filha representa a mãe."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "os-1-n8",
+              "offset": 99,
+              "original_marker": "c",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "Porém, terei amor pela casa de Judá e farei com que sejam salvos pelo, seu Deus; e não os salvarei pelo arco, a espada e a guerra, nem pelos cavalos e cavaleiros».",
+          "text": "Porém, terei amor pela casa de Judá e farei com que sejam salvos pelo SENHOR, seu Deus; e não os salvarei pelo arco, a espada e a guerra, nem pelos cavalos e cavaleiros».",
           "note_refs": []
         },
         {
@@ -46,17 +188,42 @@
         },
         {
           "verse": 9,
-          "text": "E Deus disse: «Chama-lhe Não-Meu-Povo, A O O porque vós não sois meu povo e Eu não serei para vós».",
+          "text": "E Deus disse: «Chama-lhe Não-Meu-Povo, porque vós não sois meu povo e Eu não serei para vós».",
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "A versão masculina dos filhos de Oseias identifica o povo como afastado de Deus, não-meu- -povo. Esta é uma definição diferente da relação entre Deus e o povo de Israel, definição que assenta de forma implícita numa relação de aliança, em vez da relação matrimonial e de ternura que a metáfora anterior da filha representa. Aqui o masculino é significativo. A relação é teológico-política e aqui prevalece a coordenada do masculino.",
+            "10": "Ou: porque vós sois o Não-Meu-povo / e Eu sou o não-serei para vós. Esta sintaxe de Oseias parece ecoar de forma subtil com a que ocorre em Ex 3,14, onde Deus declara o seu novo nome para ser transmitido ao povo, quando ainda se encontra em servidão no Egito, e se define a si mesmo como o Eu-serei. No final deste oráculo, a metáfora abre-se num discurso de tratamento direto em segunda pessoa do plural, incluindo todo o povo com o próprio Oseias, como interpelação forte em que Deus afirma que eles não são o seu povo."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "os-1-n9",
+              "offset": 37,
+              "original_marker": "d",
+              "source_id": 9
+            },
+            {
+              "ref": "10",
+              "id": "os-1-n10",
+              "offset": 92,
+              "original_marker": "e",
+              "source_id": 10
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "I SIMBOLISMO PROFÉTICO DO CASAMENTO DE OSEIAS",
           "note_refs": []
         },
         {
-          "verse": 10,
-          "text": "O número dos filhos de Israel será como a areia do mar que não se pode medir nem contar. E acontecerá que no lugar onde se lhes dizia: “Vós não sois o meu povo”, há de dizer-se-lhes: “Filhos-do-Deus-vivo!”",
-          "note_refs": []
-        },
-        {
-          "verse": 11,
-          "text": "Os filhos de Judá hão de juntar-se aos filhos de Israel e nomearão para si um único chefe e erguer-se-ão da terra, porque é o grande dia de Jizerael.",
+          "before_verse": 2,
+          "text": "Casamento de Oseias e seu significado profético",
           "note_refs": []
         }
       ]
@@ -66,28 +233,120 @@
       "verses": [
         {
           "verse": 1,
-          "text": "",
-          "note_refs": []
+          "text": "O número dos filhos de Israel será como a areia do mar que não se pode medir nem contar. E acontecerá que no lugar onde se lhes dizia: “Vós não sois o meu povo”, há de dizer-se-lhes: “Filhos-do-Deus-vivo!”",
+          "note_refs": [
+            "1",
+            "2",
+            "3"
+          ],
+          "notes": {
+            "1": "Os vv. 1-3 sintetizam o processo de inversão da situação negativa simbolizada no capítulo anterior. A ideia essencial aparece, primeiro, de forma quase abrupta; é o renovar das promessas de crescimento que caracterizam a época patriarcal das origens (Gn 22,17; 32,13; 41,49;) e, ao longo do tempo, marcam sempre o sonho da restauração (Js 11,4; Jz 7,12; 1Rs 4,20).",
+            "2": "Há quem entenda: … em lugar de se lhes dizer: … Parece, no entanto, que aqui se faz alusão a um lugar privilegiado, o que nos leva a entender o termo hebraico maqom no sentido real de ‘lugar’. Este lugar poderia ser, segundo alguns, o deserto, que é referido no fim do capítulo (v. 10) como lugar de recolhimento e conversão. Parece, no entanto, que Jizerael deva ser considerado o lugar simbólico marcante neste capítulo. O tempo que ali se concentra é designado como o grande dia de Jizerael (v. 2). Paulo, em Rm 9,26 confirma esta ideia de um lugar.",
+            "3": "Dado que os nomes negativos se baseavam no comportamento negativo de Israel, a mudança de nomes prenuncia a esperada conversão. Prolongando o horizonte profético, estes sinais podem sugerir realidades de horizonte messiânico. Em Rm 9,25-27 Paulo associa os temas do nome e do número do povo, como que propondo uma interpretação para estes versículos de Oseias. Os nomes negativos convertem-se em positivos e o castigo, em restauração. Em Rm 9 Paulo trata da eleição de Israel. Nos vv. 24-33 diz que a eleição de Deus não é de todos os judeus nem somente de judeus e serve-se de citações proféticas para o comprovar (Nm 21,12; Gn 18,10; 25,2; Ml 1,2s; Ex 33,19; Ex 9,16; Sb 12,12; Is 29,16; 45,9; Jr 18,6; Os 2,25; Is 1,9; 8,14; 10,22s; 28, 16)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "os-2-n1",
+              "offset": 87,
+              "original_marker": "f",
+              "source_id": 11
+            },
+            {
+              "ref": "2",
+              "id": "os-2-n2",
+              "offset": 133,
+              "original_marker": "g",
+              "source_id": 12
+            },
+            {
+              "ref": "3",
+              "id": "os-2-n3",
+              "offset": 205,
+              "original_marker": "h",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "",
-          "note_refs": []
+          "text": "Os filhos de Judá hão de juntar-se aos filhos de Israel e nomearão para si um único chefe e erguer-se-ão da terra, porque é o grande dia de Jizerael.",
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Depois do trabalho na Samaria, Oseias terá continuado a sua função de profeta em Judá, mesmo depois do fim do Reino do Norte. O texto traduz o ideal de reunificação entre os dois reinos, quer esse pormenor venha do próprio Oseias quer seja posterior.",
+            "5": "Jezrael representa aqui a reversão da situação de drama e ruína que o mesmo nome significava logo de início, em 1,3, onde se exibia, com o primeiro filho, o primeiro quadro simbólico recolhido na experiência de vida de Oseias; e naquela fase a carga era negativa."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "os-2-n4",
+              "offset": 89,
+              "original_marker": "i",
+              "source_id": 14
+            },
+            {
+              "ref": "5",
+              "id": "os-2-n5",
+              "offset": 148,
+              "original_marker": "j",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Dizei então aos vossos irmãos: «Povo-Meu» e às vossas irmãs: “Bem-Amada”. A O",
+          "text": "Dizei então aos vossos irmãos: «Povo-Meu» e às vossas irmãs: “Bem-Amada”.",
           "note_refs": []
         },
         {
           "verse": 4,
           "text": "Acusai a vossa mãe, acusai, porque ela já não é minha mulher nem eu sou já seu marido. Que afaste da sua frente as suas prostituições e os adultérios de entre os seus seios.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Começa aqui o poema do amor despeitado e invencível; nele se fundem poeticamente o plano real da esposa com o plano da terra fecunda, a experiência humana do profeta e o seu significado religioso transcendente. É um dos mais belos poemas da literatura hebraica, comparável aos de Jr 2-4 e Ez 16. Sob a forma de uma acusação em tribunal (rib), Deus faz o papel de acusador, testemunha, vítima e juiz. A questão discutida era a de saber a quem é que o povo de Israel, aqui representado como a esposa de Deus, devia realmente os produtos da terra dos quais dependia para a sua sobrevivência. O verdadeiro marido era aquele que alimentava a esposa; e, por vezes, Israel sentia-se tentado a pensar que era Baal e não Deus quem contribuía com esses bens."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "os-2-n6",
+              "offset": 26,
+              "original_marker": "a",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "De contrário, vou pô-la toda nua, e deixá-la como no dia em que nasceu; vou transformá-la num deserto, e pô-la em estado de terra árida e fazer com que morra de sede.",
-          "note_refs": []
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Nudez e terra deserta são imagens de castigo (cf. Jr 6,8; 9,10-11).",
+            "8": "O deserto ocupa um lugar importante na história de Israel. Na primeira salvação ou êxodo ele representa o espaço e tempo que medeiam entre a escravidão no Egito e a liberdade na Terra Prometida. É um espaço vazio de tudo, em que o povo aprende a depender de Deus na fome, na sede e nos perigos. Tempo de adiamento e espera, tempo de esperança. O povo é posto à prova, numa espécie de noviciado, e ele próprio põe também Deus à prova. O povo deve libertar-se a si mesmo e entregar-se a Deus na aliança. Mais tarde virá o exílio na Babilónia e o deserto toma caraterísticas de terra prometida. O tema do deserto mostra dois polos opostos. Por um lado, é recordação pedagógica que ensina e sugestão de esperança escatológica. Por outro é espaço amorfo e caótico, sem cultura humana e povoado de feras e demónios. Por isso pode também ser símbolo de castigo escatológico (Is 34)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "os-2-n7",
+              "offset": 101,
+              "original_marker": "b",
+              "source_id": 17
+            },
+            {
+              "ref": "8",
+              "id": "os-2-n8",
+              "offset": 165,
+              "original_marker": "c",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 6,
@@ -96,13 +355,41 @@
         },
         {
           "verse": 7,
-          "text": "Pois a sua mãe prostituiu-se e desonrou-se aquela que os concebeu, pois ela dizia: «Vou atrás dos meus amantes, que me dão o meu pão e a minha água, É A O O É O O O a minha lã e o meu linho, o meu azeite e as minhas bebidas».",
-          "note_refs": []
+          "text": "Pois a sua mãe prostituiu-se e desonrou-se aquela que os concebeu, pois ela dizia: «Vou atrás dos meus amantes, que me dão o meu pão e a minha água, a minha lã e o meu linho, o meu azeite e as minhas bebidas».",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Estes amantes são, no plano religioso, os ídolos da fertilidade, a quem se dava normalmente, como denominador comum, o título de Baal, que significa “senhor” (Cf. Jr 44,17; Am 2,4). A idolatria como culto a outros deuses é um dos grandes perigos assinalados no Antigo Testamento. Ela é entendida como negação da unicidade e superioridade de Deus e como rebaixamento do homem àquilo que é obra das suas mãos. Condenam-se os deuses estrangeiros, primeiro, porque não são de Israel, depois, porque são falsos e inúteis. A polémica contra as imagens idolátricas tem enorme peso em Is 40,18-29; 44,9-10. Toma dimensão burlesca nos aditamentos gregos a Daniel e na carta de Jeremias e alcança a sua formulação mais elaborada no livro da Sabedoria. As divindades pagãs referidas mais frequentemente no AT são Baal, representando uma grande multiplicidade (Baal Peor, Baal Zebul) e outras divindades como Moloc, deus amonita ligado aos sacrifícios humanos (Lc 20,2-5), Achera, que é uma deusa com uma festa ritual (Jz 6,25; 1Rs 18,19); Astarté (1Rs 11, 5; Is 10)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "os-2-n9",
+              "offset": 110,
+              "original_marker": "d",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Por isso, vou obstruir o teu caminho com espinhos e erguer à sua volta uma sebe, para que não encontre os seus atalhos.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Ou: … vou obstruir o seu caminho… O texto hebraico mantém esta referência à segunda pessoa, apesar de se seguir imediatamente uma referência em terceira pessoa. Tomando em consideração esta aparente incongruência, algumas traduções antigas leem todo o versículo em terceira pessoa."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "os-2-n10",
+              "offset": 28,
+              "original_marker": "e",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 9,
@@ -112,7 +399,21 @@
         {
           "verse": 10,
           "text": "Ela não reconheceu que era Eu quem lhe dava o trigo, o vinho e o azeite, quem lhe dava prata em abundância e o ouro que utilizavam para Baal.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: que faziam… Ou: …o ouro que transformavam em Baal."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "os-2-n11",
+              "offset": 130,
+              "original_marker": "f",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 11,
@@ -132,27 +433,106 @@
         {
           "verse": 14,
           "text": "Devastarei as suas vinhas e as suas figueiras, a respeito das quais ela dizia: «Estas são para mim um presente que me ofereceram os meus amantes». Transformarei isso tudo num matagal e dele comerão os animais selvagens.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "As vinhas e as figueiras representam um ideal de tranquilidade e de paz, prosperidade e segurança (cf. Mq 4,4; Zc 3,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "os-2-n12",
+              "offset": 45,
+              "original_marker": "g",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "Vou pedir-lhe contas pelos dias votados aos ídolos de Baal, aos quais ela queimava incenso; enfeitava-se com os seus colares e anéis para ir atrás dos seus amantes e esquecia-se de mim!» oráculo do.",
-          "note_refs": []
+          "text": "Vou pedir-lhe contas pelos dias votados aos ídolos de Baal, aos quais ela queimava incenso; enfeitava-se com os seus colares e anéis para ir atrás dos seus amantes e esquecia-se de mim!» – oráculo do SENHOR.",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "São os dias de festa dedicados às divindades de Canaã, que recebem o título de Baal de forma generalizada. Daí aparecer o plural de Baal no hebraico (cf. 1,2-9)."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "os-2-n13",
+              "offset": 58,
+              "original_marker": "h",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "Por isso a hei de seduzir: vou conduzi-la ao deserto e falar-lhe ao coração.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "O deserto é o sítio da aliança do Sinai, do primeiro amor de Deus com o povo. Há aqui um engenhoso jogo de palavras para estigmatizar o culto idolátrico. Baal representa, no tempo de Oseias, o deus cananaico da fertilidade."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "os-2-n14",
+              "offset": 52,
+              "original_marker": "a",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Dar-lhe-ei desde logo as suas vinhas e farei do vale de Acor uma Porta de Esperança. Ali ela responderá como nos dias da sua juventude, como no dia em que subiu da terra do Egito.",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Perto de Jericó, o vale de Acor (‘desgraça’) recorda o primeiro pecado e a primeira derrota do povo ao entrar na terra prometida. Neste momento de restauração, a esposa, regressando do deserto onde reconsiderou a sua vida, entrará por uma Porta de Esperança. A mudança de nome prende-se com Js 7, 24-26."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "os-2-n15",
+              "offset": 60,
+              "original_marker": "b",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 18,
-          "text": "Naquele dia oráculo do - acontecerá que me chamarás: «Meu marido» e não mais me chamarás: «Meu amo».",
-          "note_refs": []
+          "text": "Naquele dia – oráculo do SENHOR - acontecerá que me chamarás: «Meu marido» e não mais me chamarás: «Meu amo».",
+          "note_refs": [
+            "16",
+            "17"
+          ],
+          "notes": {
+            "16": "Lit.: … meu homem. Por isso, ao converter-se, Israel já não se dirige a Deus chamando-lhe “Meu baal”, mas usa a fórmula “meu marido”. Esta diferença compreende-se no contexto do conflito com as religiões de Canaã. Na verdade, seria mais consentâneo tratar Deus como marido, servindo-se do título de ba’al (senhor e marido), que é um título também usado para se referir a Deus, em vez de o tratar com o título de ’i (homem).",
+            "17": "Lit.: … meu baal. Além de se usar como título de uma ou várias divindades, ba’al, como termo comum, significa “amo, senhor” e também “marido”, mesmo ainda no hebraico de hoje. O texto hebraico massorético dirige-se explicitamente à esposa, tratando-a por tu: …me chamarás. No entanto, o versículo seguinte já se refere a ela em terceira pessoa: … me chamará. Por isso, também aqui a tradução grega dos LXX com outras antigas e a Vulgata optam pela terceira pessoa. A Neovulgata prefere seguir o texto massorético, apesar da aparente incongruência."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "os-2-n16",
+              "offset": 74,
+              "original_marker": "c",
+              "source_id": 26
+            },
+            {
+              "ref": "17",
+              "id": "os-2-n17",
+              "offset": 108,
+              "original_marker": "d",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 19,
@@ -162,21 +542,126 @@
         {
           "verse": 20,
           "text": "Naquele dia farei em favor deles uma aliança com os animais selvagens, com as aves do céu e os répteis da terra; e farei desaparecer da terra o arco, a espada e a guerra; e farei com que durmam em segurança.",
-          "note_refs": []
+          "note_refs": [
+            "18",
+            "19"
+          ],
+          "notes": {
+            "18": "A aliança, um ato histórico que diz respeito primeiramente aos homens, transborda do espaço imediato dos homens e alcança os próprios animais. Da aliança divina brota a paz estável; o ciclo natural da fecundidade funcionará diretamente dinamizado pelo Senhor, sem necessidade de recurso aos cultos de Baal.",
+            "19": "Lit.: … quebrarei."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "os-2-n18",
+              "offset": 69,
+              "original_marker": "e",
+              "source_id": 28
+            },
+            {
+              "ref": "19",
+              "id": "os-2-n19",
+              "offset": 132,
+              "original_marker": "f",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 21,
-          "text": "Então farei de ti minha esposa para sempre; farei de ti minha esposa na justiça e no direito, O A na fidelidade e na ternura;",
+          "text": "Então farei de ti minha esposa para sempre; farei de ti minha esposa na justiça e no direito, na fidelidade e na ternura;",
           "note_refs": []
         },
         {
           "verse": 22,
-          "text": "farei de ti minha esposa na lealdade e então conhecerás o.",
-          "note_refs": []
+          "text": "farei de ti minha esposa na lealdade e então conhecerás o SENHOR.",
+          "note_refs": [
+            "20"
+          ],
+          "notes": {
+            "20": "Alguns manuscritos antigos dizem mais explicitamente … conhecerás que Eu sou o SENHOR."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "os-2-n20",
+              "offset": 64,
+              "original_marker": "g",
+              "source_id": 30
+            }
+          ]
         },
         {
           "verse": 23,
-          "text": "E acontecerá naquele dia que Eu responderei oráculo do –, responderei aos céus e eles responderão à terra.",
+          "text": "E acontecerá naquele dia que Eu responderei – oráculo do SENHOR –, responderei aos céus e eles responderão à terra.",
+          "note_refs": []
+        },
+        {
+          "verse": 24,
+          "text": "E a terra responderá ao trigo, ao vinho mosto e ao azeite; e eles responderão a Jizerael.",
+          "note_refs": [
+            "21",
+            "22"
+          ],
+          "notes": {
+            "21": "A fecundidade da terra é sinal de prosperidade e bênção; o nome Jizerael significa em hebraico “Deus semeia”. O novo matrimónio será perpétuo e os dons matrimoniais serão de ordem espiritual, com a justiça, a misericórdia e a fidelidade a serem evidenciadas. A fórmula dos esponsais é solene, com a tripla repetição do verbo e a enumeração dos dons esponsais partilhados. Assim também se anula a acusação formulada no começo (v. 4).",
+            "22": "Para realizar o seu significado de que “Deus semeia” e faz germinar, o vale fértil conta com uma boa resposta dada pelo trigo, o vinho mosto e o azeite. A fertilidade da terra assenta e exprime a harmonia completa de todas as forças e dinamismos."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "os-2-n21",
+              "offset": 29,
+              "original_marker": "h",
+              "source_id": 31
+            },
+            {
+              "ref": "22",
+              "id": "os-2-n22",
+              "offset": 88,
+              "original_marker": "i",
+              "source_id": 32
+            }
+          ]
+        },
+        {
+          "verse": 25,
+          "text": "Pois Eu a semearei para mim no país. Amarei aquela que era a “Mal-Amada” e ao que é “Não-Meu-povo” direi: «Tu és o meu povo» e ele dirá: «Meu Deus!»",
+          "note_refs": [
+            "23",
+            "24"
+          ],
+          "notes": {
+            "23": "Este é o significado do nome de Jizerael.",
+            "24": "O poema termina com a proclamação da fórmula solene de aliança: “Tu és o meu povo – Tu és o meu Deus”, como se se tratasse de uma solene liturgia de reconciliação."
+          },
+          "note_positions": [
+            {
+              "ref": "23",
+              "id": "os-2-n23",
+              "offset": 18,
+              "original_marker": "j",
+              "source_id": 33
+            },
+            {
+              "ref": "24",
+              "id": "os-2-n24",
+              "offset": 148,
+              "original_marker": "k",
+              "source_id": 34
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Sentido dos novos nomes",
+          "note_refs": []
+        },
+        {
+          "before_verse": 4,
+          "text": "Amor e reconciliação",
           "note_refs": []
         }
       ]
@@ -186,13 +671,59 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Disse-me ainda o: «Anda! Ama uma mulher que é amada de outro e comete adultério. Assim é o amor do para com os filhos de Israel, embora eles se voltem para deuses estranhos e sejam amantes de tortas de uvas». A O A A",
-          "note_refs": []
+          "text": "Disse-me ainda o SENHOR: «Anda! Ama uma mulher que é amada de outro e comete adultério. Assim é o amor do SENHOR para com os filhos de Israel, embora eles se voltem para deuses estranhos e sejam amantes de tortas de uvas».",
+          "note_refs": [
+            "1",
+            "2",
+            "3"
+          ],
+          "notes": {
+            "1": "Ou:... é amante de outro. Esta alternativa é assumida pelas traduções antigas, grega e siríaca e latina da Vulgata.",
+            "2": "Tudo leva a pensar que este início de Oseias esteja composto por poemas relativamente autónomos entre si. Daí a impressão de se estar diante de um recomeço da mesma história. Por essa razão, esta mulher de que aqui se fala parece ser a mesma Gómer de 1,3. Ligada, pelo menos metaforicamente, aos ambientes de prostituição sagrada, continuaria naturalmente a ser infiel. Apesar de tudo, Oseias ama-a e perdoa-lhe, significando desta maneira o amor fiel de Javé pelo seu povo.",
+            "3": "As tortas de uvas constituem um ingrediente dos cultos idolátricos da fertilidade em Canaã (2Sm 6,19; 1Cr 16,3; Ct 2,5; Is 16,7). Igualmente relacionados com estes cultos podem estar os bolos oferecidos à “rainha do céu” (Jr 7,18; 44,19)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "os-3-n1",
+              "offset": 67,
+              "original_marker": "l",
+              "source_id": 35
+            },
+            {
+              "ref": "2",
+              "id": "os-3-n2",
+              "offset": 86,
+              "original_marker": "m",
+              "source_id": 36
+            },
+            {
+              "ref": "3",
+              "id": "os-3-n3",
+              "offset": 221,
+              "original_marker": "n",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Recuperei-a para mim por quinze peças de prata e por um hómer e mais um létek de cevada.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "As quinze peças de prata poderão ser de um siclo cada, equivalente a doze gramas; um hómer e um létek eram medidas de capacidade que equivalem a trezentos e a cento e cinquenta litros respetivamente. (Cf. Suplementos: Pesos e medidas). O preço pago por Oseias é mais ou menos equivalente ao que habitualmente se pagava por um escravo (Ex 21,32; Lv 27,4)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "os-3-n4",
+              "offset": 87,
+              "original_marker": "a",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 3,
@@ -202,11 +733,46 @@
         {
           "verse": 4,
           "text": "Pois, por muitos dias viverão os israelitas sem rei nem príncipe, sem sacrifícios e sem estelas, sem insígnia sacerdotal nem terafim.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A insígnia sacerdotal é uma peça do vestuário de culto e os terafim são instrumentos de adivinhação, próprios da função sacerdotal."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "os-3-n5",
+              "offset": 132,
+              "original_marker": "b",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 5,
-          "text": "Depois disso, voltarão os filhos de Israel e buscarão o, seu Deus, e David, seu rei; e acorrerão temerosos ao e à sua bondade, pelos tempos futuros.",
+          "text": "Depois disso, voltarão os filhos de Israel e buscarão o SENHOR, seu Deus, e David, seu rei; e acorrerão temerosos ao SENHOR e à sua bondade, pelos tempos futuros.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.:...no futuro dos dias. Este versículo representa um possível acrescento posterior ao texto, usando duas palavras chave do livro de Oseias: voltar e buscar."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "os-3-n6",
+              "offset": 161,
+              "original_marker": "c",
+              "source_id": 40
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Recuperação e compromisso simbólico",
           "note_refs": []
         }
       ]
@@ -216,18 +782,60 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Ouvi a palavra do, filhos de Israel! O tem uma acusação contra os habitantes do país, pois não há verdade nem lealdade nem conhecimento de Deus no país.",
-          "note_refs": []
+          "text": "Ouvi a palavra do SENHOR, filhos de Israel! O SENHOR tem uma acusação contra os habitantes do país, pois não há verdade nem lealdade nem conhecimento de Deus no país.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Estes cc. 4-14 formam a segunda parte e a mais longa do livro. Oseias retoma a linguagem de tribunal (rib), mas as transgressões focadas situam-se nos domínios da moralidade pessoal e pública. No entanto, a metáfora da infidelidade conjugal definida nos primeiros capítulos continua a ser válida e por isso se lhe vai fazendo alusão. O oráculo segue as regras dos litígios judiciais: são mencionadas as culpas e anuncia-se a punição. O objetivo é fazer com que se reconheça a falta e se chegue à conversão."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "os-4-n1",
+              "offset": 42,
+              "original_marker": "d",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "Maledicência, mentira e assassínio, roubo e adultério multiplicaram-se; assassínios sucedem-se a assassínios. O",
-          "note_refs": []
+          "text": "Maledicência, mentira e assassínio, roubo e adultério multiplicaram-se; assassínios sucedem-se a assassínios.",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Os critérios de moralidade a que Oseias recorre são: lealdade ou fidelidade ou misericórdia (2,21; 4,1; 6,4-6; 10,12; 12,7), verdade (4,1) e conhecimento de Deus (4,1.6; 6,6). Da sua falta decorrem os crimes que constam da acusação e que se definem essencialmente como infrações a preceitos importantes do Decálogo (cf. Ex 20; Lv 19,1; Jr 7,9). Em Os 8,1.12 podem ver-se alusões a recolhas de regras normativas deste teor."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "os-4-n2",
+              "offset": 108,
+              "original_marker": "e",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Por isso o país está de luto e desfalecem todos os seus habitantes, bem como os animais do campo e as aves do céu; e até os peixes do mar desaparecem.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A repercussão dos comportamentos humanos bons ou maus sobre o estado da natureza é uma sensibilidade omnipresente na consciência do homem bíblico (Gn 3,17; 6,5; Jr 12,4; 23,10; Is 24,4-6; 33,8-9; Ag 1,11; Rm 8,19,22)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "os-4-n3",
+              "offset": 149,
+              "original_marker": "f",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 4,
@@ -237,12 +845,49 @@
         {
           "verse": 5,
           "text": "Tu vais tropeçar em pleno dia e contigo tropeçará o profeta, de noite; e farei perecer a tua mãe.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Ou: …reduzirei ao silêncio.",
+            "5": "A mãe é o próprio povo, para cada um dos israelitas (cf. 2,4; Is 50,1)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "os-4-n4",
+              "offset": 86,
+              "original_marker": "g",
+              "source_id": 44
+            },
+            {
+              "ref": "5",
+              "id": "os-4-n5",
+              "offset": 96,
+              "original_marker": "h",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Perdem-se os do meu povo por falta de conhecimento. Porque rejeitaste o conhecimento, rejeitar-te-ei de me servires como sacerdote. Já que esqueceste a lei do teu Deus, também Eu me esquecerei dos teus filhos.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Este conceito de conhecimento tem um significado amplo, um sentido religioso. O povo carece de sensibilidade religiosa, porque o sacerdote não o instrui. Exigências semelhantes são dirigidas aos profetas, de algum modo associados na mesma função promotora da vida espiritual do povo (vv. 6-10)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "os-4-n6",
+              "offset": 84,
+              "original_marker": "i",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 7,
@@ -261,52 +906,204 @@
         },
         {
           "verse": 10,
-          "text": "Comerão e não ficarão saciados. Prostituíram-se, mas não se multiplicam, porque abandonaram o para assim praticarem a prostituição.",
-          "note_refs": []
+          "text": "Comerão e não ficarão saciados. Prostituíram-se, mas não se multiplicam, porque abandonaram o SENHOR para assim praticarem a prostituição.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Uma das razões que levavam as populações de Canaã aos cultos ligados a Baal era precisamente a de esperarem um aumento significativo da fertilidade. Oseias, que faz dessa prática uma das suas principais críticas, trata o assunto com ironia."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "os-4-n7",
+              "offset": 71,
+              "original_marker": "j",
+              "source_id": 47
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "O vinho e o mosto retiram o entendimento ao meu povo.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Lit.: …o coração."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "os-4-n8",
+              "offset": 40,
+              "original_marker": "k",
+              "source_id": 48
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Ele consulta o seu pedaço de madeira, é o seu bastão que lhe dá a resposta; porque um espírito de prostituição os extravia e prostituem-se longe do seu deus.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: … a sua árvore. Pode haver aqui uma alusão depreciativa aos ídolos, feitos de madeira, ou a práticas de adivinhação com recurso a ramos de árvores (cf. 2Sm 5,24)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "os-4-n9",
+              "offset": 36,
+              "original_marker": "a",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Oferecem sacrifícios nos cimos das montanhas e queimam incenso sobre as colinas, debaixo de carvalhos, álamos e azinheiras, porque é agradável a sua sombra. E assim se prostituem as vossas filhas e as vossas noivas cometem adultério.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Aos lugares de culto cananaicos andavam associados pequenos bosques ou árvores que serviam de contexto (cf. Dt 12,2; 1Rs 14,23; Jr 2,20)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "os-4-n10",
+              "offset": 122,
+              "original_marker": "b",
+              "source_id": 50
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Não pedirei contas às vossas filhas por se prostituírem nem às vossas noivas por cometerem adultério, porque eles mesmos seguem as prostitutas e sacrificam com as consagradas aos deuses; e o povo sem compreender cai em ruina.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Lit.: … com as santas. Esta designação, usada nos cultos de fertilidade tanto para mulheres como para homens, mostra que a prostituição sagrada era uma função cultual diferente da prostituição comum."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "os-4-n11",
+              "offset": 185,
+              "original_marker": "c",
+              "source_id": 51
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "Se tu te prostituis, Israel, que não se torne culpado Judá! Não vos dirijais a Guilgal nem subais a Bet-Aven; não useis como juramento: «Pela vida do!»",
-          "note_refs": []
+          "text": "Se tu te prostituis, Israel, que não se torne culpado Judá! Não vos dirijais a Guilgal nem subais a Bet-Aven; não useis como juramento: «Pela vida do SENHOR!»",
+          "note_refs": [
+            "12",
+            "13"
+          ],
+          "notes": {
+            "12": "Guilgal, perto de Jericó, era um lugar de culto muito frequentado (Js 5,2-9) e por vezes associado a práticas de degradação do culto (9,15; 123,12). Bet-Aven é a deformação sarcástica de Bet-El: em vez de “casa de Deus” é chamada “casa da iniquidade”. Esta mudança de nome tem uma intenção crítica e um sentido depreciativo (4,15; 10,5; 5,8; 10,55). Era uma localidade do reino do Norte onde havia um santuário régio (1Rs 13). Em Josué e Juízes figura como uma cidade em Benjamim junto a Ai e Micmás e como um lugar deserto.",
+            "13": "Esta fórmula de juramento era tradicional e considerada legítima em Israel (1Sm 26,10.16). O facto de ser aqui proibida significa que alguma ambiguidade poderia sugerir naquela altura."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "os-4-n12",
+              "offset": 27,
+              "original_marker": "d",
+              "source_id": 52
+            },
+            {
+              "ref": "13",
+              "id": "os-4-n13",
+              "offset": 157,
+              "original_marker": "e",
+              "source_id": 53
+            }
+          ]
         },
         {
           "verse": 16,
-          "text": "Se Israel se revolta como vaca rebelde, vai agora o apascentá-los como a um cordeiro em campo aberto?",
+          "text": "Se Israel se revolta como vaca rebelde, vai agora o SENHOR apascentá-los como a um cordeiro em campo aberto?",
           "note_refs": []
         },
         {
           "verse": 17,
           "text": "Efraim aliou-se com os ídolos, deixem-no em sossego!",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Efraim é o nome de um dos filhos de José (Gn 41,52); era a tribo mais central e mais importante do reino setentrional e tornou-se tão importante que, no séc. VIII, ficou a ser sinónimo de Israel ou reino do Norte (Js 16, 15-10; Jr 31, 18-20; Is 11, 13). É um nome omnipresente no livro de Oseias e, tal como o nome de Israel, ganha frequentemente ressonâncias que o fazem equivaler ao povo dos hebreus em geral."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "os-4-n14",
+              "offset": 29,
+              "original_marker": "f",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "Passada a sua embriaguez, deram-se à prostituição; os seus chefes apreciam e desejam a ignomínia.",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Lit.: … os seus escudos. Designar os chefes como “escudos” (Sl 47,10) não deixa de ser irónico, porque a sensação que se tem pelo livro de Oseias é a de que eles protegem pouco."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "os-4-n15",
+              "offset": 65,
+              "original_marker": "g",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "O vento envolve-os nas suas asas e ficarão envergonhados com os seus sacrifícios.",
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Ou: O espírito… Poderia eventualmente tratar-se mesmo do “espírito da prostituição” (v. 12). O castiço tem uma nota de teofania e denuncia o fracasso da idolatria."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "os-4-n16",
+              "offset": 7,
+              "original_marker": "h",
+              "source_id": 56
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "II JULGAMENTO DE DEUS SOBRE ISRAEL E JUDÁ",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Repreensão aos sacerdotes e aos príncipes",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Prostituição e cultos de idolatria",
           "note_refs": []
         }
       ]
@@ -317,21 +1114,72 @@
         {
           "verse": 1,
           "text": "Escutai isto, sacerdotes, está atenta, casa de Israel; gente da casa do rei, prestai atenção! Sim, este julgamento é contra vós, porque vos tornastes uma armadilha para Mispá, uma rede estendida sobre o Tabor.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Ou: pois a vós compete fazer justiça.",
+            "2": "Há uma ligação com o oráculo precedente (Jr 7,21-28; Am 5,18-26). Mispá era o nome de diversas localidades de Canaã, devendo este aqui referir-se a um lugar situado a oriente do rio Jordão. O Tabor é um monte na Galileia (Jr 7, 21-28; Am 5, 18-26)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "os-5-n1",
+              "offset": 127,
+              "original_marker": "i",
+              "source_id": 57
+            },
+            {
+              "ref": "2",
+              "id": "os-5-n2",
+              "offset": 208,
+              "original_marker": "j",
+              "source_id": 58
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Aprofundaram o fosso aos de Chitim, mas Eu os castigarei a todos.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Chitim é uma localidade situada em frente de Jericó, a leste do Jordão. Há aqui uma alusão ao episódio narrado em Nm 25."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "os-5-n3",
+              "offset": 34,
+              "original_marker": "k",
+              "source_id": 59
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Eu conheço bem Efraim e Israel não está escondido de mim. Agora Efraim prostituiu-se e Israel ficou impuro.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Ou: Fizeste prostituir Efraim…"
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "os-5-n4",
+              "offset": 84,
+              "original_marker": "l",
+              "source_id": 60
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "As suas ações não lhes permitem voltar para o seu Deus, porque têm no seu íntimo um espírito de prostituição e não conhecem o.",
+          "text": "As suas ações não lhes permitem voltar para o seu Deus, porque têm no seu íntimo um espírito de prostituição e não conhecem o SENHOR.",
           "note_refs": []
         },
         {
@@ -341,18 +1189,69 @@
         },
         {
           "verse": 6,
-          "text": "Com as suas ovelhas e os seus bois irão em busca do, mas não o encontrarão, porque se desfez deles.",
-          "note_refs": []
+          "text": "Com as suas ovelhas e os seus bois irão em busca do SENHOR, mas não o encontrarão, porque se desfez deles.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Buscar o Senhor para os sacrifícios é uma expressão técnica do culto."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "os-5-n5",
+              "offset": 34,
+              "original_marker": "m",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 7,
-          "text": "Eles atraiçoaram o, porque geraram filhos bastardos. Agora a lua nova os devorará, a eles e aos seus haveres.",
-          "note_refs": []
+          "text": "Eles atraiçoaram o SENHOR, porque geraram filhos bastardos. Agora a lua nova os devorará, a eles e aos seus haveres.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Não fica muito claro, neste texto, qual o tipo de associação que é feita entre o anúncio de uma desgraça iminente e a festa da lua nova, que era a principal festa segundo o ritmo dos meses."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "os-5-n6",
+              "offset": 88,
+              "original_marker": "a",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Tocai a trombeta em Guibeá e a corneta em Ramá, dai o alarme em Bet-Aven: vêm atrás de ti, Benjamim!",
-          "note_refs": []
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Lit.: … o chofar.",
+            "8": "Os vv. 8-14 representam uma sentença sem apelo (cf. Is 30,1-7;31,1-3). Guibeá e Ramá eram localidades que ficavam na zona de fronteira entre o reino de Israel e o de Judá; alude-se talvez a episódios de guerra entre os dois estados (2Rs 15, 37; 16, 5-9). Betel é um famoso santuário do Reino do Norte ou de Israel (Gn 28,16-19; 1Rs 12,28-9). Anda normalmente associado a Guilgal (Dt 11,30; Is 30,1-7; 31,1-3), porque fazia parte do mesmo reino do Norte."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "os-5-n7",
+              "offset": 16,
+              "original_marker": "b",
+              "source_id": 63
+            },
+            {
+              "ref": "8",
+              "id": "os-5-n8",
+              "offset": 26,
+              "original_marker": "c",
+              "source_id": 64
+            }
+          ]
         },
         {
           "verse": 9,
@@ -362,22 +1261,78 @@
         {
           "verse": 10,
           "text": "Os chefes de Judá procederam como aqueles que mudam os marcos; sobre eles derramarei o meu furor como uma torrente.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Referência à modificação das fronteiras, retirando território ao reino setentrional (cf. Dt 19,14; 27,17)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "os-5-n9",
+              "offset": 61,
+              "original_marker": "d",
+              "source_id": 65
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Efraim está esmagado, oprimido pela sentença, porque decidiu seguir aquela regra.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Percebe-se que existe alguma convergência entre o sentido da palavra şaw e o termo awe’ (vazio, inútil) que aparece em Os 12,12, onde é referido aos ídolos. Alguns entendem que se deve uniformizar o sentido entre as duas passagens. No entanto, sem ter de mudar o texto, pode ver-se uma forma hápax da raíz şawa’, bem conhecida na Bíblia com o sentido de “ordenar, regular”. Derivado desta raiz, o substantivo şaw, significando “ordem, regra”, existe em todo o hebraico pós-bíblico e, fazendo bom sentido, não obriga a mudar este texto de Os 5,11."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "os-5-n10",
+              "offset": 80,
+              "original_marker": "e",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Serei para Efraim como a tinha e como a cárie para a casa de Judá.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Por detrás desta guerra civil entre os dois reinos irmãos está Deus que ataca em silêncio como traça ou sub-repticiamente corrói e assalta invencível como um leão (cf. 5,14)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "os-5-n11",
+              "offset": 30,
+              "original_marker": "f",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Efraim viu a sua doença e Judá, a sua chaga; então Efraim recorreu a Assur e enviou mensageiros ao grande rei. Mas este não é capaz de vos curar nem sarar a vossa chaga.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "O texto hebraico parece recuperar diretamente um título oficial usado pelos reis da Assíria e que os seus vassalos tinham muitas razões para conhecerem bem, porque era elemento importante da propaganda real (cf. 10,6)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "os-5-n12",
+              "offset": 109,
+              "original_marker": "g",
+              "source_id": 68
+            }
+          ]
         },
         {
           "verse": 14,
@@ -387,6 +1342,32 @@
         {
           "verse": 15,
           "text": "Irei e regressarei à minha morada, até que eles reconheçam os seus pecados e procurem a minha face. Na sua angústia, madrugarão à minha procura.",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Lit.: …ao meu lugar. O termo “lugar” pode também significar um santuário. Aliás o próprio termo comum “lugar” deriva da raiz qûm que significa “levantar, ser alto”. Compreende-se, por isso, que a expressão lugar alto signifique santuário, na língua que os hebreus herdaram dos seus antecessores cananeus, isto é, o hebraico."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "os-5-n13",
+              "offset": 33,
+              "original_marker": "h",
+              "source_id": 69
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Avisos aos sacerdotes e autoridades",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "Guerra entre irmãos",
           "note_refs": []
         }
       ]
@@ -396,18 +1377,60 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Vinde, voltemos para o! Pois Ele dilacerou, mas há de curar-nos; Ele bateu, mas vai ligar a ferida.",
-          "note_refs": []
+          "text": "Vinde, voltemos para o SENHOR! Pois Ele dilacerou, mas há de curar-nos; Ele bateu, mas vai ligar a ferida.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "É possível que os vv. 1-3 sejam fórmulas rituais de penitência, usadas no culto. Por isso algumas traduções os colocam entre aspas."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "os-6-n1",
+              "offset": 29,
+              "original_marker": "i",
+              "source_id": 70
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Dar-nos-á de novo a vida em dois dias; ao terceiro dia nos levantará, e viveremos na sua presença.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Esta metáfora numérica crescente, conhecida no estilo literário bíblico (Am 1,3; Pr 30,15), significa que será breve o tempo de espera até que Deus realize as esperanças de vida. O Novo Testamento não usou este texto para ilustrar as referências à ressurreição de Jesus, mas muito cedo o cristianismo antigo começou a fazer esta associação."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "os-6-n2",
+              "offset": 37,
+              "original_marker": "j",
+              "source_id": 71
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Conheçamos, esforcemo-nos por conhecer o. Certa como a aurora é a sua chegada; Ele virá a nós como chuva, como chuva primaveril que rega a terra.",
-          "note_refs": []
+          "text": "Conheçamos, esforcemo-nos por conhecer o SENHOR. Certa como a aurora é a sua chegada; Ele virá a nós como chuva, como chuva primaveril que rega a terra.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A regularidade das chuvas é uma questão sensível para definir o papel que cabe à divindade, segundo a mundividência de Canaã. O texto de Oseias tinha que ser igualmente sensível a essa questão."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "os-6-n3",
+              "offset": 151,
+              "original_marker": "k",
+              "source_id": 72
+            }
+          ]
         },
         {
           "verse": 4,
@@ -422,22 +1445,78 @@
         {
           "verse": 6,
           "text": "Pois Eu quero devoção e não sacrifícios, conhecimento de Deus mais que holocaustos.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Contraposição enfática que não pretende negar valor ao sacrifício, mas o condiciona à atitude interior de quem o faz e o subordina a outras virtudes fundamentais (Mt 9, 13; 12, 7)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "os-6-n4",
+              "offset": 39,
+              "original_marker": "a",
+              "source_id": 73
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Mas eles, em Adam, transgrediram a aliança, ali se revoltaram contra mim.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Ou: … como Adão; ou ainda:...como homens. Parece, no entanto, mais provável a opção da Neovulgata em ver aqui o nome de uma localidade mencionada em Js 3,16, tanto mais que se trata do início de uma sequência em que Oseias faz acusações a várias localidades da região. No original hebraico é usado o termo ’adam como uma designação coletiva para “homens”, mas que poderia representar o nome de “Adão”, que não é conhecido na Bíblia fora dos textos da criação. Não parece verosímil que, no tempo de Oseias, as narrativas da criação tivessem entre os hebreus uma definição tão explícita."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "os-6-n5",
+              "offset": 17,
+              "original_marker": "b",
+              "source_id": 74
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Guilead é uma cidade de malfeitores, deixando um rasto de sangue.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Guilead era uma localidade a leste do Jordão, onde teria havido um santuário cananaico (Gn 31,46-48) e onde se deram acontecimentos dramáticos (2Rs 15,25)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "os-6-n6",
+              "offset": 35,
+              "original_marker": "c",
+              "source_id": 75
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "E, como bandidos de emboscada, é um bando de sacerdotes que mata pessoas no caminho de Siquém. Sim, o que eles fazem é criminoso.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Siquém era uma importante cidade situada na zona central, a qual, desde os tempos anteriores aos hebreus, foi um centro religioso até ao tempo da unificação do culto pelo rei Josias, por volta de 620, a.C. A transgressão a que Oseias alude parece ter consistido no facto de sacerdotes transgressores do reino do Norte terem impedido os fiéis de acederem ao culto de Javé e a esse santuário, que se teria mantido fiel."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "os-6-n7",
+              "offset": 93,
+              "original_marker": "d",
+              "source_id": 76
+            }
+          ]
         },
         {
           "verse": 10,
@@ -447,6 +1526,27 @@
         {
           "verse": 11,
           "text": "Também para ti, Judá, está preparada uma colheita, quando Eu restaurar o destino do meu povo.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Tal como já acontecera em 1,7, esta referência a Judá parece ser um arredondamento ao poema primitivo."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "os-6-n8",
+              "offset": 92,
+              "original_marker": "e",
+              "source_id": 77
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Conversão superficial",
           "note_refs": []
         }
       ]
@@ -462,7 +1562,30 @@
         {
           "verse": 2,
           "text": "Eles não têm presente em seus corações que Eu guardo lembrança de toda a sua maldade. Agora cercam-nos as suas más obras que ficaram diante dos meus olhos.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Lit.: Eles não se dizem.",
+            "2": "O verbo zakar tem aqui um sentido forense de guardar registo. Prossegue a ação judicial de acusação dirigida a Israel."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "os-7-n1",
+              "offset": 21,
+              "original_marker": "f",
+              "source_id": 78
+            },
+            {
+              "ref": "2",
+              "id": "os-7-n2",
+              "offset": 62,
+              "original_marker": "g",
+              "source_id": 79
+            }
+          ]
         },
         {
           "verse": 3,
@@ -477,22 +1600,87 @@
         {
           "verse": 5,
           "text": "No dia do nosso rei, os príncipes adoeceram com o calor do vinho e ele estendeu a sua mão aos bandidos.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A expressão dia do rei sugere um ambiente de celebração e festa, podendo representar situações sociais e políticas variadas. A comparação reiterada com o forno pode referir-se às conjuras palacianas, às agitadas sucessões de reis, com assassínios, usurpações, intrigas e rebeldias, que caracterizaram o reino do Norte (1Rs 15; 2Rs 14-16)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "os-7-n3",
+              "offset": 19,
+              "original_marker": "h",
+              "source_id": 80
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Juntando-se na intriga, os seus corações são como um forno. Toda a noite dorme o seu ressentimento, mas pela manhã queima como chama viva.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Este é o entendimento que parece mais verosímil, desde as antigas versões. A leitura massorética entendeu …o seu padeiro, provavelmente influenciado pela frequência das metáforas reiteradas de forno."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "os-7-n4",
+              "offset": 98,
+              "original_marker": "i",
+              "source_id": 81
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Todos eles ardem como um forno e consomem os seus governantes. Todos os seus reis caíram, sem nenhum deles ter chamado por mim.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Lit.: … os seus juízes.",
+            "6": "Nos últimos anos do reino de Israel, precisamente no tempo em que se desenvolveu a atividade de Oseias, foram quatro os reis a ser vítimas de conjuras (2Rs 15-16)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "os-7-n5",
+              "offset": 61,
+              "original_marker": "j",
+              "source_id": 82
+            },
+            {
+              "ref": "6",
+              "id": "os-7-n6",
+              "offset": 88,
+              "original_marker": "k",
+              "source_id": 83
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Efraim mistura-se com os outros povos; Efraim é como uma torta que não foi virada.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Oseias continua a socorrer-se de imagens com alguma ironia. Efraim é, por um lado, declarado como uma torta a queimar-se por estar sempre virada para o mesmo lado. No entanto, é também acusado precisamente de se virar para vários lados de uma forma inconsistente."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "os-7-n7",
+              "offset": 81,
+              "original_marker": "l",
+              "source_id": 84
+            }
+          ]
         },
         {
           "verse": 9,
@@ -501,28 +1689,93 @@
         },
         {
           "verse": 10,
-          "text": "A arrogância de Israel testemunha contra ele, pois não se voltam para o, seu Deus, e nem mesmo com tudo isto o procuram.",
+          "text": "A arrogância de Israel testemunha contra ele, pois não se voltam para o SENHOR, seu Deus, e nem mesmo com tudo isto o procuram.",
           "note_refs": []
         },
         {
           "verse": 11,
           "text": "Efraim é como uma pomba, ingénua e sem entendimento: chamaram pelo Egito, mas caminharam para a Assíria.",
-          "note_refs": []
+          "note_refs": [
+            "8",
+            "9"
+          ],
+          "notes": {
+            "8": "Lit.: … sem coração (cf. 4,11).",
+            "9": "O Egito e a Assíria eram as duas potências principais da região. É possível que na própria Samaria houvesse dois grupos, um pela Assíria e outro pelo Egito."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "os-7-n8",
+              "offset": 51,
+              "original_marker": "m",
+              "source_id": 85
+            },
+            {
+              "ref": "9",
+              "id": "os-7-n9",
+              "offset": 103,
+              "original_marker": "a",
+              "source_id": 86
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Quanto se puserem a caminho, estenderei sobre eles a minha rede, deitá-los-ei abaixo como aves do céu; corrigi-los-ei com o anúncio às suas assembleias.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Ou:...para onde quer que se encaminhem."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "os-7-n10",
+              "offset": 27,
+              "original_marker": "b",
+              "source_id": 87
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Ai deles, porque vaguearam longe de mim! É desgraça para eles terem-se rebelado contra mim. Enquanto eu os queria resgatar, eles proferiam mentiras contra mim.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Oseias insurge-se contra os que são mentirosos e ingratos. Até agora comentou sucessivamente: a guerra civil (5,8-14), as revoluções internas para instalar reis e mudar dinastias (7,3-7), as relações com outras nações ou com a política exterior (7,8-12). Finalmente recapitula o sentido religioso destes pecados. O pecado radical, síntese de todos, é a infidelidade à aliança e à lei. Daí que seja ele a encabeçar o capítulo (Ex 32; 1Rs 12,25-33)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "os-7-n11",
+              "offset": 40,
+              "original_marker": "c",
+              "source_id": 88
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Não me invocam do fundo do seu coração, quando dão gritos sobre os seus leitos; antes, dilaceram-se por trigo e por vinho e revoltam-se contra mim.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "As incisões ou lacerações faziam parte do culto a Baal (1Rs 18, 28), considerado como o deus que dava o vinho e o trigo. Por isso eram proibidas em Israel (Lv 19,28; Dt 14,1)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "os-7-n12",
+              "offset": 99,
+              "original_marker": "d",
+              "source_id": 89
+            }
+          ]
         },
         {
           "verse": 15,
@@ -532,6 +1785,32 @@
         {
           "verse": 16,
           "text": "Não é para o alto que eles se voltam; são como um arco frouxo. Os seus chefes cairão à espada, por causa da insolência da sua língua; e isto será a sua vergonha na terra do Egito.",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "A expressão hebraica usada aqui e mais claramente ainda em 11,7 parece ser uma referência ao Deus Altíssimo. A tradução dos LXX, perante alguma dificuldade da construção hebraica, parece ter entendido uma referência a Baal, porque a última parte do nome de Baal coincide com o ‘al da palavra “alt(íssim)o”."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "os-7-n13",
+              "offset": 17,
+              "original_marker": "e",
+              "source_id": 90
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Desordens e conspirações",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "Alianças funestas",
           "note_refs": []
         }
       ]
@@ -541,8 +1820,40 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Põe a trombeta à boca! Pois há uma águia sobre a casa do, O É O porque violaram a minha aliança e transgrediram a minha lei.",
-          "note_refs": []
+          "text": "Põe a trombeta à boca! Pois há uma águia sobre a casa do SENHOR, porque violaram a minha aliança e transgrediram a minha lei.",
+          "note_refs": [
+            "1",
+            "2",
+            "3"
+          ],
+          "notes": {
+            "1": "Lit.: Põe o chofar à tua boca. Nos vv. 1-6 é apresentada a nova deslealdade de Israel: o rompimento da aliança de que a lei é a parte fundamental. O profeta, como sentinela, é que toca a trombeta sobre a casa de Javé (cf. Jr 6, 17; Ez 3, 17).",
+            "2": "A imagem da águia está associada com naturalidade à desgraça (cf. Jr 48,40; 49,22).",
+            "3": "Esta casa do Senhor não é forçosamente o templo. Pode representar principalmente a Terra Santa que é considerada propriedade do Senhor (9,15; cf. Jr 12,7<, Zc 9,8). Do mesmo modo, nos textos assírios Israel vem designado como “a casa de Omri”."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "os-8-n1",
+              "offset": 22,
+              "original_marker": "f",
+              "source_id": 91
+            },
+            {
+              "ref": "2",
+              "id": "os-8-n2",
+              "offset": 40,
+              "original_marker": "g",
+              "source_id": 92
+            },
+            {
+              "ref": "3",
+              "id": "os-8-n3",
+              "offset": 63,
+              "original_marker": "h",
+              "source_id": 93
+            }
+          ]
         },
         {
           "verse": 2,
@@ -552,27 +1863,106 @@
         {
           "verse": 3,
           "text": "Mas Israel rejeitou o bem; o inimigo vai persegui-lo.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Dado o contexto de época, o inimigo refere-se certamente à Assíria."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "os-8-n4",
+              "offset": 52,
+              "original_marker": "i",
+              "source_id": 94
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "Constituíram reis sem ser de minha iniciativa, nomearam chefes sem o meu conhecimento. Com a sua prata e o seu ouro fizeram ídolos para a sua própria perdição.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Quer dizer, sem Deus ter disso conhecimento prévio, no sentido de dar o consentimento. Com efeito, era deste que dependia a legitimidade da realeza."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "os-8-n5",
+              "offset": 85,
+              "original_marker": "j",
+              "source_id": 95
+            }
+          ]
         },
         {
           "verse": 5,
-          "text": "Está rejeitado o teu novilho, ó Samaria! A minha cólera inflama-se contra eles. Até quando serão incapazes de se purificar?",
-          "note_refs": []
+          "text": "Está rejeitado o teu novilho, ó Samaria!  A minha cólera inflama-se contra eles. Até quando serão incapazes de se purificar?",
+          "note_refs": [
+            "6",
+            "7"
+          ],
+          "notes": {
+            "6": "Ou: Rejeita o teu novilho...",
+            "7": "O vitelo representa a imagem da divindade nos dois santuários do reino do Norte: Dan e Betel (1 Rs 12,28-33). Fala-se do vitelo da Samaria para indicar o culto oficial do estado (7,2: Sl 90,8; Ml 3,16; 1Sm 8,lss; 11,12ss.). O touro da Samaria é a imagem de Deus entronizada pelo primeiro rei cismático, Jeroboão I. Tal como o pecado do Sinai viciou o povo na sua origem, também agora o touro de Samaria viciou o reino do Norte."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "os-8-n6",
+              "offset": 14,
+              "original_marker": "k",
+              "source_id": 96
+            },
+            {
+              "ref": "7",
+              "id": "os-8-n7",
+              "offset": 41,
+              "original_marker": "l",
+              "source_id": 97
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "É de Israel o vitelo da Samaria; foi um artesão que o fez, não é um deus. Por isso, ficará em pedaços.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Os preceitos do Sinai proibiam justamente que Deus fosse apresentado por uma imagem de qualquer ser (Ex 20,4; 34,17)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "os-8-n8",
+              "offset": 72,
+              "original_marker": "m",
+              "source_id": 98
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Já que semearam ventos, hão de colher tempestades; é planta que não dá espiga e não faz farinha; e se a fizesse, os estrangeiros a devorariam.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "As alianças e as fortalezas de nada valem (Os 7,8-12). Com o anúncio do exílio o profeta descreve as artimanhas de uma conspiração: adulam os reis e os príncipes, embriagam-nos e depois passam-nos a fio da espada (cf. 1Rs 16,9-10). Nos vv. 7-14 prossegue o tema da infidelidade (Os 7, 8-12)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "os-8-n9",
+              "offset": 49,
+              "original_marker": "n",
+              "source_id": 99
+            }
+          ]
         },
         {
           "verse": 8,
@@ -581,13 +1971,59 @@
         },
         {
           "verse": 9,
-          "text": "Enquanto uns subiam para a Assíria, O O os de Efraim, como jumento selvagem transviado, ofereciam presentes de amizade.",
-          "note_refs": []
+          "text": "Enquanto uns subiam para a Assíria, os de Efraim, como jumento selvagem transviado, ofereciam presentes de amizade.",
+          "note_refs": [
+            "10",
+            "11",
+            "12"
+          ],
+          "notes": {
+            "10": "Subir é um verbo que no hebraico bíblico tem uma contínua intencionalidade direcionada para Jerusalém, como meta de peregrinação religiosa. É mais um toque de ironia da parte de Oseias mostrar como uma tal intencionalidade se voltou para a Assíria.",
+            "11": "A aliança com a Assíria para defender-se de Damasco era uma aliança perigosa, porque exigia um pesado tributo e porque dependia sempre do interesse imperialista do rei da Assíria.",
+            "12": "Esta estranha comparação de Efraim com um onagro pode vir do facto de o nome deste animal coincidir com o início do nome de Efraim. Com esta coincidência, a comparação era eficaz para os primeiros leitores ou para os ouvintes de Oseias. Este profeta gosta de jogar com as assonâncias do nome de Efraim (cf. 9,16)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "os-8-n10",
+              "offset": 19,
+              "original_marker": "o",
+              "source_id": 100
+            },
+            {
+              "ref": "11",
+              "id": "os-8-n11",
+              "offset": 34,
+              "original_marker": "p",
+              "source_id": 101
+            },
+            {
+              "ref": "12",
+              "id": "os-8-n12",
+              "offset": 71,
+              "original_marker": "a",
+              "source_id": 102
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Mas, por muito que ofereçam entre os povos, desde já Eu mesmo os juntarei; terão de sujeitar-se por um pouco ao fardo do rei dos príncipes.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Os profetas opõem-se, frequentemente, a alianças com os estrangeiros, pois tratando-se de povos pagãos, tais tratados representavam normalmente um perigo para a fé de Israel."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "os-8-n13",
+              "offset": 138,
+              "original_marker": "b",
+              "source_id": 103
+            }
+          ]
         },
         {
           "verse": 11,
@@ -601,12 +2037,38 @@
         },
         {
           "verse": 13,
-          "text": "Dos sacrifícios que me são oferecidos; oferecem a carne e comem, mas o não os aceita. Lembra-se da sua iniquidade e pedirá contas dos seus pecados; e eles terão de voltar para o Egito.",
-          "note_refs": []
+          "text": "Dos sacrifícios que me são oferecidos; oferecem a carne e comem, mas o SENHOR não os aceita. Lembra-se da sua iniquidade e pedirá contas dos seus pecados; e eles terão de voltar para o Egito.",
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Voltar ao Egito é desfazer a história, perder a terra prometida, voltar à opressão de onde tinham sido resgatados. O mesmo sentido teológico se pode pressentir quando se trata da «marcha para a Assíria» (9, 3)."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "os-8-n14",
+              "offset": 190,
+              "original_marker": "c",
+              "source_id": 104
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Israel esqueceu aquele que o fez e pôs-se a construir palácios; Judá multiplicou as suas cidades fortificadas. Mas Eu lançarei fogo às suas cidades e ele consumirá os seus castelos.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Anarquia e idolatria",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "Seguranças ilusórias",
           "note_refs": []
         }
       ]
@@ -617,52 +2079,223 @@
         {
           "verse": 1,
           "text": "Não te alegres, Israel, não exultes como os povos, porque te prostituíste, para longe do teu Deus; vendeste o teu amor em todas as eiras de trigo.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Nos vv. 1-7 a infidelidade manifesta-se nos cultos de fertilidade. São retomados os temas da rebeldia do povo contra o Senhor e da terra contra o povo. Certos alimentos eram impuros, segundo a Lei mosaica (cf. Lv 11, 1 ss); os próprios países estrangeiros eram impuros, manchados pelos ídolos (Am 7, 17; 1Sm 26,19). Os festins, os manjares, as libações e os sacrifícios não podem continuar no desterro, em terra impura (Dt 32,10; Ez 16)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "os-9-n1",
+              "offset": 22,
+              "original_marker": "d",
+              "source_id": 105
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "Mas a eira e o lagar não os alimentará, e o vinho novo vai desiludi-los.",
-          "note_refs": []
+          "text": "Mas a eira e o lagar não os alimentará , e o vinho novo vai desiludi-los.",
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "Lit.: … não os apascentará. Não se trata de falta de produção; o problema é mais a frustração de ver os seus bens devorados por estranhos (8,7).",
+            "3": "Lit.: … desiludi-la. O profeta está a referir-se a Israel, identificando-o como mulher. É a imagem recorrente da esposa de Deus que preenche todo o texto de Oseias."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "os-9-n2",
+              "offset": 39,
+              "original_marker": "e",
+              "source_id": 106
+            },
+            {
+              "ref": "3",
+              "id": "os-9-n3",
+              "offset": 72,
+              "original_marker": "f",
+              "source_id": 107
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Não habitarão na terra do, Efraim voltará para o Egito e na Assíria comerão alimentos impuros.",
+          "text": "Não habitarão na terra do SENHOR, Efraim voltará para o Egito e na Assíria comerão alimentos impuros.",
           "note_refs": []
         },
         {
           "verse": 4,
-          "text": "Não farão ao libações de vinho, nem lhe agradarão os seus sacrifícios; serão para eles pão de luto, todos os que dele comerem ficarão impuros. O seu pão é para a sua fome, mas não entrará na casa do.",
-          "note_refs": []
+          "text": "Não farão ao SENHOR libações de vinho, nem lhe agradarão os seus sacrifícios; serão para eles pão de luto, todos os que dele comerem ficarão impuros. O seu pão é para a sua fome, mas não entrará na casa do SENHOR.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "9,4 Pão de luto indica alimento impuro: quem se aproximava ou tocava num cadáver tornava-se impuro; o mesmo acontece com quem oferece sacrifícios em terra estrangeira. Essa circunstância corrompe a oferta. E a impureza impedia de celebrar as festas do Senhor."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "os-9-n4",
+              "offset": 105,
+              "original_marker": "g",
+              "source_id": 108
+            }
+          ]
         },
         {
           "verse": 5,
-          "text": "Que fareis no dia da solenidade, no dia da festa do?",
-          "note_refs": []
+          "text": "Que fareis no dia da solenidade, no dia da festa do SENHOR?",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Poderia tratar-se da festa de outono, onde se renovava a aliança (2,13) e isso era sinal de bênção. Mais uma vez os significados invertem-se e é o juízo de condenação que aflora no horizonte."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "os-9-n5",
+              "offset": 31,
+              "original_marker": "h",
+              "source_id": 109
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Mas eis: os que escapam à devastação, o Egito os acolherá, Mênfis os sepultará; as urtigas tomarão conta das suas jóias de prata e os abrolhos, das suas tendas.",
-          "note_refs": []
+          "note_refs": [
+            "6",
+            "7",
+            "8"
+          ],
+          "notes": {
+            "6": "A devastação pode ser uma maneira de identificar a Assíria e a sua ação para com Israel.",
+            "7": "Mênfis, em hebraico Mof, aparece aqui como uma personagem feminina que dá sepultura aos israelitas fugitivos. Aqui pode estar um indício de como os israelitas do século VIII a. C. conheciam este pormenor da geografia cultural do Egito. Esta sepultura num lugar nobre de imortalidade para os egípcios tem um sentido menos entusiasmante para estes israelitas sobreviventes da catástrofe.",
+            "8": "Estes objetos de prata estiveram eventualmente implicados em atos de adoração a Baal (8,4)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "os-9-n6",
+              "offset": 36,
+              "original_marker": "i",
+              "source_id": 110
+            },
+            {
+              "ref": "7",
+              "id": "os-9-n7",
+              "offset": 65,
+              "original_marker": "j",
+              "source_id": 111
+            },
+            {
+              "ref": "8",
+              "id": "os-9-n8",
+              "offset": 128,
+              "original_marker": "k",
+              "source_id": 112
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Chegaram os dias de prestar contas, chegaram os dias do pagamento. Que o saibam os de Israel! O profeta está louco, o homem de espírito, delirante. Conforme a enormidade da tua culpa assim é a dureza das hostilidades.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "O texto está mal conservado e há alteração na ordem dos versículos. Também em Jr 28 e Ez 13 se alude aos profetas e videntes que não contam para nada."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "os-9-n9",
+              "offset": 114,
+              "original_marker": "l",
+              "source_id": 113
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "O profeta, sentinela de Efraim, está com o meu Deus, mas há armadilhas postas em todos os caminhos O É e hostilidades na casa de Deus.",
-          "note_refs": []
+          "text": "O profeta, sentinela de Efraim, está com o meu Deus, mas há armadilhas postas em todos os caminhos e hostilidades na casa de Deus.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "O texto hebraico conservado dificulta a interpretação. O profeta parece exprimir um desabafo sobre o estado das coisas, falando de si em primeira e em terceira pessoa alternativamente. Como noutras passagens deste profeta, a casa de Deus pode ser o templo ou o país, porque o santuário ainda não era único. A definição do profeta como sentinela aparece também em Jr 6,17; Ez 3,17; 32,2.6-7."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "os-9-n10",
+              "offset": 129,
+              "original_marker": "a",
+              "source_id": 114
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Corromperam-se profundamente como nos dias de Guibeá, mas Ele lembra-se da sua iniquidade e pedirá contas do seu pecado.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "O crime de Guibeá é narrado em Jz 19-21."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "os-9-n11",
+              "offset": 52,
+              "original_marker": "b",
+              "source_id": 115
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "Como um cacho de uvas no deserto, assim encontrei Israel; como primícias de uma figueira no seu começo, assim eu vi os vossos pais. Mas eles chegaram a Baal-Peor, votaram-se à ignomínia e tornaram-se abomináveis como aquilo que amavam.",
-          "note_refs": []
+          "note_refs": [
+            "12",
+            "13",
+            "14"
+          ],
+          "notes": {
+            "12": "Entre 9,10 e 14,1, o profeta apresenta uma série de reflexões sobre acontecimentos históricos.",
+            "13": "O pecado de idolatria em Baal-Peor é narrado em Nm 25. O nome aparece aqui já deformado com referência ao nome de Baal. O nome mais corrente é Bet-Peor (cf. Dt 3,29; 4,46; 34,6; Js 13,20), que contém já a referência a um templo. A «ignomínia» (bo et) é uma deformação depreciativa do nome de Baal que os hebreus criaram para servir de caricatura.",
+            "14": "Um dos argumentos bíblicos contra as práticas de idolatria consiste em declarar que tais adoradores acabam por se colocar ao mesmo nível de baixeza e insignificância dos objetos a que prestam adoração."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "os-9-n12",
+              "offset": 32,
+              "original_marker": "c",
+              "source_id": 116
+            },
+            {
+              "ref": "13",
+              "id": "os-9-n13",
+              "offset": 161,
+              "original_marker": "d",
+              "source_id": 117
+            },
+            {
+              "ref": "14",
+              "id": "os-9-n14",
+              "offset": 234,
+              "original_marker": "e",
+              "source_id": 118
+            }
+          ]
         },
         {
           "verse": 11,
@@ -677,26 +2310,94 @@
         {
           "verse": 13,
           "text": "Vi que Efraim tratava os seus filhos como se fossem presa de caça; Efraim está a mandar sair os seus filhos para o verdugo.",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "O sentido tradicional da primeira parte do versículo era: Efraim, pelo que vi, era outra Tiro, situada em lugares verdejantes… Neste entendimento do texto hebraico, o versículo é pouco compreensível e de excessivo contraste. A tradução dos LXX oferece um indício para ali se ver uma metáfora de caça. A sugestão de leitura da Neovulgata vai ao encontro do indício proveniente dos LXX e ficam assim harmonizadas as duas partes do versículo."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "os-9-n15",
+              "offset": 65,
+              "original_marker": "f",
+              "source_id": 119
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "«Dai-lhes,». Mas que coisa hás de dar? Dai-lhes um ventre que perde filhos e seios ressequidos! O O A",
+          "text": "«Dai-lhes, SENHOR». Mas que coisa hás de dar? Dai-lhes um ventre que perde filhos e seios ressequidos!",
           "note_refs": []
         },
         {
           "verse": 15,
           "text": "Toda a sua maldade esteve em Guilgal; foi ali que passei a ter ódio por eles. Pela maldade das suas ações, Eu os expulsarei da minha casa; não voltarei a ter-lhes amor, todos os seus chefes são rebeldes.",
-          "note_refs": []
+          "note_refs": [
+            "16",
+            "17"
+          ],
+          "notes": {
+            "16": "O santuário de Guilgal, já referido em 4,15, está associado aos inícios da monarquia; ali foi eleito o primeiro rei, Saul. Podia haver aqui uma alusão à desobediência de Saul (1Sm 13,7-14) ou à entrada na Terra Prometida (Js 5,2-9). Parece, no entanto, que as críticas neste caso se voltam mais contra práticas contemporâneas.",
+            "17": "As expressões características de Oseias aparecem aqui de forma especialmente concentrada. A minha casa representa certamente o país, como noutros casos, mas denota principalmente a casa do marido que diz Eu os expulsarei, porque os identifica coletivamente com a esposa indigna."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "os-9-n16",
+              "offset": 36,
+              "original_marker": "g",
+              "source_id": 120
+            },
+            {
+              "ref": "17",
+              "id": "os-9-n17",
+              "offset": 137,
+              "original_marker": "h",
+              "source_id": 121
+            }
+          ]
         },
         {
           "verse": 16,
           "text": "Efraim está ferido, a sua raiz está seca: não darão mais fruto. E mesmo que cheguem a dar à luz, farei morrer os tesouros das suas entranhas.",
-          "note_refs": []
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "Oseias faz um jogo de palavras entre Efraim e fruto (cf. 8,9)."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "os-9-n18",
+              "offset": 62,
+              "original_marker": "i",
+              "source_id": 122
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "O meu Deus os rejeitará, porque não o escutaram; e andarão errantes entre as nações.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Desilusão dos cultos de fertilidade",
+          "note_refs": []
+        },
+        {
+          "before_verse": 10,
+          "text": "Um cacho de uvas no deserto",
+          "note_refs": []
+        },
+        {
+          "before_verse": 15,
+          "text": "Em Guilgal",
           "note_refs": []
         }
       ]
@@ -707,17 +2408,59 @@
         {
           "verse": 1,
           "text": "Israel era uma vinha frondosa e o seu fruto era semelhante a ela. Mas quanto mais abundante era o fruto mais multiplicava os altares; quanto mais bela estava a sua terra mais embelezavam as estelas.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Nos vv. 1-7 são evidentes as semelhanças com Is 5, 1-7; Jr 2,21; Ez 15; Sl 80; Mt 20. Esta imagem aparece desenvolvida com sentidos diversos, consoante o contexto."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "os-10-n1",
+              "offset": 29,
+              "original_marker": "j",
+              "source_id": 123
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "O seu coração está dividido, mas agora vão expiar por isso. Ele mesmo destruirá os seus altares, arrasará as suas estelas.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Está dividido entre Javé e Baal."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "os-10-n2",
+              "offset": 27,
+              "original_marker": "k",
+              "source_id": 124
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Sim, agora eles dizem: «Nós não temos rei, porque não tememos o. E o rei, que poderia ele fazer por nós»?",
-          "note_refs": []
+          "text": "Sim, agora eles dizem: «Nós não temos rei, porque não tememos o SENHOR. E o rei, que poderia ele fazer por nós»?",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Esta declaração reportada por Oseias espelha um tempo de instabilidade política em que não há ou não se sabe bem quem é rei ou de que poder ele dispõe. Nota-se a consciência de que isso se deve à falta de temor de Deus. O profeta, entretanto, não parece dar grande seriedade a esse reconhecimento."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "os-10-n3",
+              "offset": 112,
+              "original_marker": "l",
+              "source_id": 125
+            }
+          ]
         },
         {
           "verse": 4,
@@ -727,12 +2470,67 @@
         {
           "verse": 5,
           "text": "Por causa do bezerro de Bet-Aven, tremem os habitantes da Samaria; o seu povo faz luto por ele e os seus sacerdotes exultam com a sua glória, glória que vai ser deportada para longe deles.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "notes": {
+            "4": "Lit.: … das bezerras… Esta alternativa pode referir-se às variadas representações do bezerro. Algumas traduções antigas leem, de facto, bezerro, o qual corresponde à imagem tradicional do ídolo em questão e justifica a concordância com a expressão: faz luto por ele (cf. Os 8,5).",
+            "5": "É o santuário de Betel com a parte que significa Deus (El) substituída por Aven (iniquidade).",
+            "6": "O profeta anuncia a grande catástrofe que se aproxima. A imagem do touro em quem confiam irá também prisioneira como oferta especial. Os lugares altos, sítios de pecado, sofrerão particular desolação. Os reis que foram nomeados e mudados sem contar com Deus (8, 4) desaparecerão como espuma (v. 7).",
+            "7": "O termo para designar sacerdotes corresponde aqui ao que se aplica aos sacerdotes de outras religiões (komar) e não o termo que se aplica aos sacerdotes hebreus (kohen)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "os-10-n4",
+              "offset": 20,
+              "original_marker": "a",
+              "source_id": 126
+            },
+            {
+              "ref": "5",
+              "id": "os-10-n5",
+              "offset": 32,
+              "original_marker": "b",
+              "source_id": 127
+            },
+            {
+              "ref": "6",
+              "id": "os-10-n6",
+              "offset": 65,
+              "original_marker": "c",
+              "source_id": 128
+            },
+            {
+              "ref": "7",
+              "id": "os-10-n7",
+              "offset": 140,
+              "original_marker": "d",
+              "source_id": 129
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Também ela vai ser levada para a Assíria como tributo ao grande rei. A vergonha apodera-se de Efraim, Israel envergonha-se por causa do seu plano.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Era costume os conquistadores levarem ao soberano estátuas significativas dos povos conquistados (cf. 1Sm 4,11). O grande rei era o da Assíria (5,13)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "os-10-n8",
+              "offset": 67,
+              "original_marker": "e",
+              "source_id": 130
+            }
+          ]
         },
         {
           "verse": 7,
@@ -742,26 +2540,91 @@
         {
           "verse": 8,
           "text": "São destruídos os lugares altos da iniquidade, que são o pecado de Israel. Espinhos e cardos crescem sobre os seus altares. Eles gritam aos montes: «Cobri-nos!» e às colinas: «Caí sobre nós!»",
-          "note_refs": []
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "O nome de Iniquidade que no v. 5 servia para deformar o nome de Betel é agora generalizado a todos os santuários de más práticas (cf. 4,7; 8,11).",
+            "10": "Este pedido de desespero pode proceder do povo ou dos próprios altares que vão ser engolidos pelos espinhos. O carácter trágico deste pedido foi compreendido e aproveitado por autores do Novo Testamento (cf. Lc 23,30; Ap 6,16)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "os-10-n9",
+              "offset": 45,
+              "original_marker": "f",
+              "source_id": 131
+            },
+            {
+              "ref": "10",
+              "id": "os-10-n10",
+              "offset": 191,
+              "original_marker": "g",
+              "source_id": 132
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Desde os dias de Guibeá tu pecaste, ó Israel. E ali eles ficaram parados! Mas não os atingiria também em Guibeá a guerra contra os filhos da iniquidade?",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "O crime de Guibeá vem narrado em Jz 18. O nome «filhos de Israel» (israelitas) muda-se para filhos da iniquidade."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "os-10-n11",
+              "offset": 23,
+              "original_marker": "h",
+              "source_id": 133
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "Está na minha vontade corrigi-los; É e os povos se reunirão contra eles, a corrigi-los pela sua dupla culpa.",
-          "note_refs": []
+          "text": "Está na minha vontade corrigi-los; e os povos se reunirão contra eles, a corrigi-los pela sua dupla culpa.",
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Ou: …por ficarem apegados à sua dupla culpa."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "os-10-n12",
+              "offset": 105,
+              "original_marker": "i",
+              "source_id": 134
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Efraim é uma novilha domesticada que gosta de debulhar na eira; mas eu passarei a mão sobre o seu belo pescoço, atrelarei Efraim ao carro, Judá lavrará e Jacob puxará a grade.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Nova comparação animal desenvolvida em termos agrários. A imagem da novilha conduz-nos aos tempos do êxodo, quando Israel seguia docilmente o Senhor."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "os-10-n13",
+              "offset": 32,
+              "original_marker": "j",
+              "source_id": 135
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "Procurai semear segundo a justiça, colhei com lealdade; desbravai os vossos terrenos bravios. É tempo de procurar o de modo que Ele venha e faça chover para vós a justiça.",
+          "text": "Procurai semear segundo a justiça, colhei com lealdade; desbravai os vossos terrenos bravios. É tempo de procurar o SENHOR de modo que Ele venha e faça chover para vós a justiça.",
           "note_refs": []
         },
         {
@@ -772,11 +2635,69 @@
         {
           "verse": 14,
           "text": "um clamor de guerra se ergue contra o teu povo e todas as tuas fortalezas serão devastadas. Tal como Chalmon devastou Bet-Arbel, no dia da batalha, quando a mãe foi esmagada sobre os filhos,",
-          "note_refs": []
+          "note_refs": [
+            "14",
+            "15"
+          ],
+          "notes": {
+            "14": "Chalmon foi rei de Moab, a leste do mar Morto; Bet-Arbel situava-se igualmente a leste do Jordão, no Norte da Transjordânia.",
+            "15": "Matar a mãe com os filhos pode ser uma imagem real de crueldades praticadas na guerra ou significar a conquista de uma cidade-mãe, isto é principal, com os seus filhos (habitantes) ou as suas filhas, designação das aldeias dependentes."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "os-10-n14",
+              "offset": 127,
+              "original_marker": "k",
+              "source_id": 136
+            },
+            {
+              "ref": "15",
+              "id": "os-10-n15",
+              "offset": 189,
+              "original_marker": "l",
+              "source_id": 137
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "assim fez Betel contigo, devido à vossa maldade empedernida. Pela manhã terá desaparecido, terá desaparecido o rei de Israel.",
+          "note_refs": [
+            "16",
+            "17"
+          ],
+          "notes": {
+            "16": "Ou: com a casa de Israel, segundo a leitura dos LXX.",
+            "17": "O último rei de Israel foi encarcerado por Salmanasar V antes de começar o assédio à Samaria. Era de madrugada quando começou o combate (2Cr 20, 15ss; Is 17, 14; Ex 4, 23)."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "os-10-n16",
+              "offset": 23,
+              "original_marker": "m",
+              "source_id": 138
+            },
+            {
+              "ref": "17",
+              "id": "os-10-n17",
+              "offset": 124,
+              "original_marker": "n",
+              "source_id": 139
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A videira frondosa",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "A bezerra do campo",
           "note_refs": []
         }
       ]
@@ -787,17 +2708,68 @@
         {
           "verse": 1,
           "text": "Porque Israel era uma criança, Eu o amei e desde o Egito chamei pelo meu filho.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Ou: Quando… O hebraico parece sugerir mais a tradução porque. E tanto a tradução dos LXX como a da Vulgata optaram claramente nesse sentido. Em contrapartida, as traduções modernas inclinam-se mais a traduzir por quando. O quadro que se apresenta em Ez 16 parece conter ingredientes específicos que justificariam o amor votado a Israel, porque foi visto naquele estado de fragilidade, como uma criança abandonada.",
+            "2": "Este c. 11 forma uma unidade especial e serve para encerrar a segunda parte do livro (cc. 4-11). Da comparação matrimonial e do amor de esposo o poeta passa para o amor paternal. Na paternidade ele vê a especificidade de amor com que Deus se contrapõe à ingratidão do povo. Por isso Israel é tratado como meu filho, seguindo a linha que se liga ao Êxodo (cf. Ex 4,22; Is 1,2; Jr 3,19; Dt 32,6; Ml 1,6, etc.). Mt 2,15 recolhe todo este património simbólico e concentra-o em Jesus."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "os-11-n1",
+              "offset": 6,
+              "original_marker": "a",
+              "source_id": 140
+            },
+            {
+              "ref": "2",
+              "id": "os-11-n2",
+              "offset": 40,
+              "original_marker": "b",
+              "source_id": 141
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Mas, quanto mais chamavam por eles, mais eles se afastavam de mim: ofereciam sacrifícios aos ídolos de Baal e queimavam incenso às estátuas.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O hebraico deixa em aberto a pergunta de saber quem chamava por eles. A hipótese mais provável parece que sejam pessoas em nome de Deus, mas também poderiam ser os outros deuses e os seus cultos."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "os-11-n3",
+              "offset": 34,
+              "original_marker": "c",
+              "source_id": 142
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Eu mesmo ensinei Efraim a andar, segurando-os pelos seus braços. Mas eles não se davam conta de que era Eu que tratava deles.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Ou: … nos meus braços."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "os-11-n4",
+              "offset": 63,
+              "original_marker": "d",
+              "source_id": 143
+            }
+          ]
         },
         {
           "verse": 4,
@@ -816,13 +2788,41 @@
         },
         {
           "verse": 7,
-          "text": "Os do meu povo são propensos a afastar-se de mim; chamam-no para o alto, mas ninguém os consegue levantar. O E LXX O",
-          "note_refs": []
+          "text": "Os do meu povo são propensos a afastar-se de mim; chamam-no para o alto, mas ninguém os consegue levantar.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Cf. a nota relativa ao texto de Os 7,16."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "os-11-n5",
+              "offset": 71,
+              "original_marker": "e",
+              "source_id": 144
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Como poderia entregar-te, Efraim, ou abandonar-te, Israel? Poderia entregar-te como Admá ou tratar-te como Seboim? Revolve-se em mim o coração e comovem-se as minhas entranhas.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Admá e Seboim formam com Sodoma, Gomorra e Soar as cidades malditas da Pentápole, no vale de Sidin; foram destruídas na mesma ocasião. Admá aparece ainda em Gn 10,19; 14,2.8; Dt 29,32. Desconhece-se a sua localização. Como mais tarde Jeremias (Jr 31,20) e o Trito-Isaías (Is 63,15), também Oseias sublinha a misericórdia e a compaixão de Deus pela sorte do seu povo infiel (Os 11, 8). Esta mudança de atitude de Deus relativamente às cidades rebeldes é expressa pelo mesmo verbo (hapak) que é usado para o castigo aplicado às cidades rebeldes (Gn 19,25; Dt 29,22). Oseias aprecia estes deslizamentos de linguagem."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "os-11-n6",
+              "offset": 32,
+              "original_marker": "f",
+              "source_id": 145
+            }
+          ]
         },
         {
           "verse": 9,
@@ -831,17 +2831,42 @@
         },
         {
           "verse": 10,
-          "text": "Eles seguirão o que rugirá como um leão. Sim, Ele rugirá e virão pressurosos os seus filhos desde o ocidente.",
-          "note_refs": []
+          "text": "Eles seguirão o SENHOR que rugirá como um leão. Sim, Ele rugirá e virão pressurosos os seus filhos desde o ocidente.",
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "A voz de Deus tem força para congregar os dispersos que chegam temerosos pela consciência dos seus pecados e pela majestade daquela voz. O rugido do leão, neste caso, não serve para aterrorizar, mas para reunir.",
+            "8": "Lit.: desde o mar."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "os-11-n7",
+              "offset": 46,
+              "original_marker": "g",
+              "source_id": 146
+            },
+            {
+              "ref": "8",
+              "id": "os-11-n8",
+              "offset": 115,
+              "original_marker": "h",
+              "source_id": 147
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "Pressurosos virão do Egito como aves e como pombas, da terra da Assíria; e farei com que eles habitem nas suas casas oráculo do!",
+          "text": "Pressurosos virão do Egito como aves e como pombas, da terra da Assíria; e farei com que eles habitem nas suas casas – oráculo do SENHOR!",
           "note_refs": []
-        },
+        }
+      ],
+      "headings": [
         {
-          "verse": 12,
-          "text": "",
+          "before_verse": 1,
+          "text": "A meninice de Israel",
           "note_refs": []
         }
       ]
@@ -852,71 +2877,297 @@
         {
           "verse": 1,
           "text": "Os de Efraim cercam-me de mentira e a casa de Israel, de engano; Judá ainda vagueia pelos outros deuses e é fiel aos santos.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "Nos vv. 1-5 Oseias lembra alguns episódios da vida de Jacob (Gn 25,26; 27,36; 28,10-22; 32,25- 32; 35,1-5), em que o patriarca aparece de forma negativa e isto redunda em acusações contra Israel. A referência a Judá pode ter sido um aditamento, como outras do livro.",
+            "2": "Ou: Judá ainda está com Deus/ e permanece fiel com o Santo. Esta alternativa é a mais seguida nas traduções, mas a tradução proposta corresponde mais ao texto hebraico. O plural santos parece referir-se claramente aos deuses pagãos."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "os-12-n1",
+              "offset": 33,
+              "original_marker": "i",
+              "source_id": 148
+            },
+            {
+              "ref": "2",
+              "id": "os-12-n2",
+              "offset": 123,
+              "original_marker": "j",
+              "source_id": 149
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Efraim pastoreia o vento e corre atrás do vento leste; todos os dias multiplica mentira e violência. Fazem aliança com a Assíria, enquanto levam o azeite para o Egito.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Outros traduzem: alimenta-se de vento. O paralelismo da segunda linha sugere que o sentido de “pastorear o vento” pareça mais coerente. Esta metáfora parece particularmente pertinente em Co 1,14. Levar azeite como dom ou tributo pode também significar estabelecer um pacto. Noutros lugares também se fala de alianças com a Assíria e com o Egito (Os 5,13; 7,11; Is 30,1 ss; 31,1 ss.)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "os-12-n3",
+              "offset": 24,
+              "original_marker": "a",
+              "source_id": 150
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "O mantém um julgamento com Judá e pede contas a Jacob pelos seus caminhos; segundo os seus procedimentos lhe retribuirá.",
-          "note_refs": []
+          "text": "O SENHOR mantém um julgamento com Judá e pede contas a Jacob pelos seus caminhos; segundo os seus procedimentos lhe retribuirá.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "É possível que este oráculo tenha inicialmente sido dirigido a Israel, como se deduz do paralelo no verso seguinte que refere Jacob. Com o tempo, entretanto, a mensagem terá sido reatualizada para se referir a Judá. Trata-se de uma espécie de exame de consciência histórico: Deus lembra os pecados do povo (talvez se deva ler Israel em vez de Judá). No início e no fim (vv. 4, 6-13) são recordados factos da vida do patriarca e no centro os pecados mais próximos do povo. De seu antepassado Jacob, Efraim recebeu uma herança pecaminosa. Baseado na tradição bíblica anterior, o profeta faz uma série de advertências a algumas das tribos hebraicas, dando-nos, em alguns traços, o retrato desses grupos humanos."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "os-12-n4",
+              "offset": 38,
+              "original_marker": "b",
+              "source_id": 151
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "No seio materno suplantou seu irmão e na idade madura lutou com Deus.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Jacob, orgulhoso e turbulento desde o seio materno, continua, nos tempos de Oseias, a seguir por maus caminhos. São várias as alusões a momentos da vida Jacob (Gn 25,26.29-34; 27,1-40; 28,10-20; 32,24-31; 43,27; 49, 1-28; cf. Is 43, 27 ss.)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "os-12-n5",
+              "offset": 35,
+              "original_marker": "c",
+              "source_id": 152
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Lutou com um anjo e venceu-o; chorou e implorou d’Ele misericórdia. Encontrou-o em Betel e ali falou com Ele.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Ou: …connosco. Este plural pode ser entendido como uma maneira de Oseias mostrar que a mensagem de Betel era válida para todo o Israel. Realmente, a construção normal hebraica da preposição aqui usada com este sufixo daria o sentido de plural. No entanto, o hebraico de Oseias parece ter algumas formas marcadamente regionais. Lida no singular, esta poderia ser um desses regionalismos. Existe, além disso, a adequação da fórmula à narrativa de Gn 35,15."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "os-12-n6",
+              "offset": 108,
+              "original_marker": "d",
+              "source_id": 153
+            }
+          ]
         },
         {
           "verse": 6,
-          "text": "O é o Deus do universo, é o nome para o recordar.",
-          "note_refs": []
+          "text": "O SENHOR é o Deus do universo, SENHOR é o nome para o recordar.",
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Lit.: … dos exércitos, referindo-se ao exército dos astros.",
+            "8": "Lit.: o seu memorial..."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "os-12-n7",
+              "offset": 29,
+              "original_marker": "e",
+              "source_id": 154
+            },
+            {
+              "ref": "8",
+              "id": "os-12-n8",
+              "offset": 62,
+              "original_marker": "f",
+              "source_id": 155
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "E tu voltarás para o teu Deus; guarda a lealdade e a justiça e espera sempre no teu Deus.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Ou: voltarás pelo teu Deus..."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "os-12-n9",
+              "offset": 29,
+              "original_marker": "g",
+              "source_id": 156
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Canaã tem na sua mão balanças falsas O É e gosta de extorquir!",
-          "note_refs": []
+          "text": "Canaã tem na sua mão balanças falsas e gosta de extorquir!",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Canaã é também o nome dado a alguém que tem a profissão de comerciante. Este é talvez um dito proverbial que condenava os cananeus, habitantes da terra, antes dos israelitas."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "os-12-n10",
+              "offset": 36,
+              "original_marker": "h",
+              "source_id": 157
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Efraim diz: «Fiquei rico, encontrei uma fortuna! E com todos os meus ganhos não encontrarão em mim crime nem pecado.»",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "O castigo vem aqui insinuado: com tudo o que foi alegado nem sequer poderá pagar as dívidas contraídas pelos seus delitos (cf. Pr 10, 2)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "os-12-n11",
+              "offset": 24,
+              "original_marker": "i",
+              "source_id": 158
+            }
+          ]
         },
         {
           "verse": 10,
-          "text": "Eu, porém, sou o, teu Deus desde a terra do Egito; de novo te farei habitar em tendas, como nos dias do encontro.",
-          "note_refs": []
+          "text": "Eu, porém, sou o SENHOR, teu Deus desde a terra do Egito; de novo te farei habitar em tendas, como nos dias do encontro.",
+          "note_refs": [
+            "12",
+            "13"
+          ],
+          "notes": {
+            "12": "Os dias do Sinai foram os do primeiro amor entre Deus e o seu povo, amor selado pela aliança. A etapa do deserto celebra-se com a Festa das Tendas, Sucot (Dt 16,13-15), conhecida ainda como Festa das Colheitas, visto que coincide com a estação das colheitas em Israel, no começo do Outono. Ainda hoje se celebra esta festa, uma das mais importantes da vida judaica, ao lado da de Rosh Hoshaná (1º dia do ano judaico), Yom Kipur (Grande Perdão), Hanuká (luzes), Purim (libertação da Pérsia), Pesaḥ (Páscoa) e Shavuot (Pentecostes: entrega da Lei a Moisés).",
+            "13": "A aproximação entre os temas da tenda e do encontro parece aludir ao contexto do deserto (cf. Ex 3,12; 33,7)."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "os-12-n12",
+              "offset": 56,
+              "original_marker": "j",
+              "source_id": 159
+            },
+            {
+              "ref": "13",
+              "id": "os-12-n13",
+              "offset": 119,
+              "original_marker": "k",
+              "source_id": 160
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Eu falei aos profetas, Eu mesmo multipliquei visões e por meio dos profetas falarei por parábolas.",
-          "note_refs": []
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Haver profetas e visões é um sinal claro de bem-estar espiritual e de bênção: Ex 33,11; Dt 18,9- 22; Sl 74,9; Lm 2,9; Nm 12,2-8."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "os-12-n14",
+              "offset": 51,
+              "original_marker": "l",
+              "source_id": 161
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Se Guilead é uma iniquidade, eles mesmos não são senão falsidade. Em Guilgal sacrificam touros, os seus altares são montões de pedras pelos sulcos do campo.",
-          "note_refs": []
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Sacrificar touros em Guilgal, no tempo de Oseias não seria estranho. Por isso alguns entendem que se deveria corrigir a construção para obter uma leitura mais provável como: oferecem sacrifício a touros."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "os-12-n15",
+              "offset": 94,
+              "original_marker": "m",
+              "source_id": 162
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Jacob fugiu para os campos de Aram, Israel pôs-se a servir por uma mulher e por uma mulher guardou rebanhos.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Aram era uma ampla região situada na Síria do Norte, junto ao Eufrates. Dali deriva o nome dos arameus e por ali se situava a pátria originária dos patriarcas."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "os-12-n16",
+              "offset": 34,
+              "original_marker": "n",
+              "source_id": 163
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "Por meio de um profeta o fez subir Israel do Egito e por meio de um profeta o guardou.",
+          "text": "Por meio de um profeta o SENHOR fez subir Israel do Egito e por meio de um profeta o guardou.",
+          "note_refs": []
+        },
+        {
+          "verse": 15,
+          "text": "Efraim provocou irritação e amarguras, mas o seu Senhor descarregará sobre ele os seus crimes e lhe devolverá a injúria que causou.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Corrupção religiosa e política",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "O exemplo de Jacob",
           "note_refs": []
         }
       ]
@@ -926,13 +3177,41 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Efraim provocou irritação e amarguras, mas o seu Senhor descarregará sobre ele os seus crimes e lhe devolverá a injúria que causou. O",
-          "note_refs": []
+          "text": "Quando Efraim falava era o terror; a sua palavra impunha-se em Israel. Mas tornou-se culpado com Baal e morreu.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Ou: ele era um príncipe em Israel. A Bíblia mostra-nos claros indícios de alguma superioridade política de Efraim: Js 24,30; Jz 8,1-31; 12,1-6."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "os-13-n1",
+              "offset": 69,
+              "original_marker": "a",
+              "source_id": 164
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "E ainda agora eles continuam a pecar: fazem para si imagens de metal com a sua prata, estátuas de sua invenção, tudo obra de artistas e dizem: «É um deus!» E os que sacrificam seres humanos dão beijos aos novilhos.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "As diferenças que se verificam entre as traduções, desde as mais antigas, mostram que este texto é de difícil interpretação. A tradução proposta alude ao culto idolátrico com laivos de sarcasmo e ironia."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "os-13-n2",
+              "offset": 213,
+              "original_marker": "b",
+              "source_id": 165
+            }
+          ]
         },
         {
           "verse": 3,
@@ -941,13 +3220,41 @@
         },
         {
           "verse": 4,
-          "text": "Mas eu sou o, o teu Deus desde a terra do Egito; e não reconhecerás outro deus fora de mim, além de mim não há outro salvador.",
-          "note_refs": []
+          "text": "Mas eu sou o SENHOR, o teu Deus desde a terra do Egito; e não reconhecerás outro deus fora de mim, além de mim não há outro salvador.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Alusão ao primeiro mandamento do decálogo (cf. 12,10; Is 45,21)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "os-13-n3",
+              "offset": 31,
+              "original_marker": "c",
+              "source_id": 166
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Eu conheci-te no deserto, em terra abrasadora.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A tradução dos LXX entendeu: pastoreei-te no deserto."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "os-13-n4",
+              "offset": 13,
+              "original_marker": "d",
+              "source_id": 167
+            }
+          ]
         },
         {
           "verse": 6,
@@ -957,7 +3264,21 @@
         {
           "verse": 7,
           "text": "Eu, porém, sou para eles como um leão; como pantera no caminho estou à espreita.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Servindo-se antropomorfismos e zoomorfismos, o autor diz que, de pastor do seu povo, Deus acabou por se tornar uma fera que o assalta."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "os-13-n5",
+              "offset": 37,
+              "original_marker": "e",
+              "source_id": 168
+            }
+          ]
         },
         {
           "verse": 8,
@@ -972,12 +3293,40 @@
         {
           "verse": 10,
           "text": "Onde está então o teu rei para te salvar em todas as tuas cidades? Onde estão os juízes a quem pediste: «Dá-me um rei e príncipes».",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Valorizando a ironia do profeta, poderia haver aqui um aproveitamento do nome do rei Oseias (732-724) do reino do Norte, pois o seu nome significa “Javé salva”."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "os-13-n6",
+              "offset": 40,
+              "original_marker": "f",
+              "source_id": 169
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Vou dar-te um rei na minha cólera e no meu furor vou retirá-lo.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Desconfiaram de Deus e confiaram num homem, à maneira dos outros povos; não pediram segundo a vontade do Senhor e por isso pecaram. Deus fez uma concessão, mas ficou irado. Os reis, desde Saul até ao último da Samaria, reinaram sob o signo da cólera divina."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "os-13-n7",
+              "offset": 33,
+              "original_marker": "g",
+              "source_id": 170
+            }
+          ]
         },
         {
           "verse": 12,
@@ -987,21 +3336,65 @@
         {
           "verse": 13,
           "text": "As dores da que vai dar à luz chegarão; é um filho, mas não é sábio, pois no tempo devido não se posicionou no ponto de saída dos filhos!",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "As dores de parto, como metáfora dos sofrimentos de Israel, poderiam sugerir um lado positivo que era beneficiar de um novo nascimento. Mas Efraim, insensato, não soube posicionar-se para nascer primeiro."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "os-13-n8",
+              "offset": 136,
+              "original_marker": "h",
+              "source_id": 171
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Vou livrá-los da mão do mundo dos mortos, vou resgatá-los da morte? Onde estão as tuas pragas, ó morte, Onde está o teu contágio, ó mundo dos mortos? A consolação está escondida aos meus olhos.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: do Cheol. O mundo dos mortos e a própria morte aparecem aqui personalizados. A forma interrogativa deste texto deriva da impressão de que não há aqui uma promessa de libertação da morte, mas um questionamento da mesma. Tudo leva a crer que em 1Co 15,55 Paulo fala, pelo contrário, mais numa promessa de vitória contra a morte."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "os-13-n9",
+              "offset": 40,
+              "original_marker": "i",
+              "source_id": 172
+            }
+          ]
         },
         {
           "verse": 15,
-          "text": "Embora Efraim frutifique entre os seus irmãos, chegará o vento leste, o vento do subirá do deserto e secará a sua fonte, esgotará a sua nascente. Ele destruirá o tesouro e todos os objetos preciosos.",
-          "note_refs": []
-        },
+          "text": "Embora Efraim frutifique entre os seus irmãos, chegará o vento leste, o vento do SENHOR subirá do deserto e secará a sua fonte, esgotará a sua nascente. Ele destruirá o tesouro e todos os objetos preciosos.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "O vento do Senhor penetra até às profundezas da terra (Sl 139,15), secando a fonte da vida (Lv 12,7; Pr 5,15.18)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "os-13-n10",
+              "offset": 45,
+              "original_marker": "j",
+              "source_id": 173
+            }
+          ]
+        }
+      ],
+      "headings": [
         {
-          "verse": 16,
-          "text": "",
+          "before_verse": 1,
+          "text": "Grandeza e decadência de Efraim",
           "note_refs": []
         }
       ]
@@ -1012,22 +3405,64 @@
         {
           "verse": 1,
           "text": "A Samaria é culpada, por se ter revoltado contra o seu Deus; eles cairão à espada, as suas crianças serão esmagadas e serão abertos os ventres das mulheres grávidas.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O castigo será a vitória da morte. O assassinato de mulheres e crianças mostra a atrocidade praticada muitas vezes pelos exércitos no Próximo Oriente; esta prática significava a destruição total de um povo."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "os-14-n1",
+              "offset": 19,
+              "original_marker": "k",
+              "source_id": 174
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "Volta, Israel, para o, teu Deus, pois tropeçaste por causa dos teus pecados.",
+          "text": "Volta, Israel, para o SENHOR, teu Deus, pois tropeçaste por causa dos teus pecados.",
           "note_refs": []
         },
         {
           "verse": 3,
-          "text": "Tomai convosco palavras de arrependimento e convertei-vos ao. Dizei-lhe: «Retira-nos toda a iniquidade e aceita o bem que é o fruto dos nossos lábios.",
-          "note_refs": []
+          "text": "Tomai convosco palavras de arrependimento e convertei-vos ao SENHOR. Dizei-lhe: «Retira-nos toda a iniquidade e aceita o bem que é o fruto dos nossos lábios.",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A estranha recomendação de tomar consigo as palavras é mais uma subtileza de Oseias, com a qual pretende sugerir a troca de sacrifícios materiais por atitudes devidamente confessadas. Isto vai no sentido de que o fruto dos lábios é a confissão do pecado (Sl 50,14. 23)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "os-14-n2",
+              "offset": 41,
+              "original_marker": "a",
+              "source_id": 175
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "A Assíria não nos salvará, não montaremos mais a cavalo, não voltaremos a chamar nosso deus ao que é obra das nossas mãos, pois é em ti que o órfão encontra compaixão».",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O reconhecimento de que a Assíria é incapaz de garantir a salvação implica a rejeição das suas práticas religiosas, das suas estratégias de defesa e da força dos cavalos."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "os-14-n3",
+              "offset": 25,
+              "original_marker": "b",
+              "source_id": 176
+            }
+          ]
         },
         {
           "verse": 5,
@@ -1052,6 +3487,51 @@
         {
           "verse": 9,
           "text": "Efraim, que tenho Eu ainda a ver com as tuas imagens? Eu respondo e observo-o. Eu sou como um cipreste verdejante, de mim procedem os teus frutos.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O texto de Oseias volta a 2,7.11.24, onde se diz que é de Deus e não de Baal que provêm todos os frutos da terra e também os frutos da salvação, porque ele envia do céu o orvalho: ele é a árvore da vida."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "os-14-n4",
+              "offset": 53,
+              "original_marker": "c",
+              "source_id": 177
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "Quem é sábio que entenda estas coisas, quem é inteligente que as compreenda. Pois são retos os caminhos do SENHOR; por eles caminham os justos e neles tropeçam os criminosos.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Esta advertência de tipo sapiencial terá sido acrescentada por um escriba anónimo. Trata-se provavelmente de um acrescento elaborado num momento posterior da história do texto."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "os-14-n5",
+              "offset": 37,
+              "original_marker": "d",
+              "source_id": 178
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 2,
+          "text": "III CONVERSÃO E PERSPETIVAS DE FUTURO",
+          "note_refs": []
+        },
+        {
+          "before_verse": 10,
+          "text": "Conclusão",
           "note_refs": []
         }
       ]

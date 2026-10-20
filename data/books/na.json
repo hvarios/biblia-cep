@@ -1,5 +1,43 @@
 {
+  "schema_version": 2,
   "book": "Naum",
+  "book_id": "na",
+  "source": {
+    "format": "docx",
+    "file": "41_Na.docx",
+    "title": "Naum"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Autor e data",
+        "paragraphs": [
+          "Como dado biográfico relativo a Naum, temos apenas a sua localidade de origem, referida como sendo Elcós (1,1). Trata-se, contudo, de uma localidade não identificável na geografia de Israel. Desde a antiguidade aparecem indícios de tradições, colocando esta localidade na região da Galileia, associando-a mesmo com Cafarnaum, que teria o significado de Aldeia de Naum, ou apontando mesmo para uma localidade da região de Mossul, perto de Nínive, onde há referências à existência de um sepulcro de Naum. Mas vai havendo algum consenso de que Elcós se deveria situar algures no território da tribo de Judá. De qualquer modo, mesmo falando sobre o destino de Nínive, o profeta Naum interessa-se sobretudo pelo destino de Jerusalém.",
+          "Mais segura, no entanto, é a datação do seu tempo de ministério profético, que tem a ver com a queda de Nínive, a portentosa capital assíria, em 612 a.C., em virtude de um ataque concertado por parte dos impérios medo e neobabilónico (2,1). A atividade profética de Naum situar-se-ia, assim, entre a destruição de No-Amon (Tebas, no Egito), em 667 a.C. (3,8), e a queda de Nínive. Esta última é aqui anunciada de forma apaixonada e, por vezes, permeada de um certo nacionalismo. A atividade de Naum situar-se-ia, por conseguinte, cerca de um século depois da conquista da Samaria pelos assírios, nomeadamente por Senaquerib. Partindo do texto de Na 2,1, pode assumir-se que a região de Judá, e mais propriamente a cidade de Jerusalém, seja realmente o ambiente onde a profecia de Naum teve a sua origem e o contexto onde ela parece encontrar-se mais bem enquadrada.",
+          "O nome dado a este profeta é desconhecido no resto do Antigo Testamento. A raiz hebraica que lhe dá origem sugere a ideia de consolação e reconforto. Esta ideia parece ter alguma ressonância antes e durante o exílio para a Babilónia, como se vê pelo nome de Menaém (menaḥem) e pelo início do poema designado como Segundo Isaías (Is 40,1: naḥamu: “reconfortai”). Com base nestes significados e nesta associação com o Segundo Isaías, poderíamos ainda perguntar-nos se, como pode acontecer com os nomes de Daniel, Malaquias ou Miqueias, o nome de Naum não poderia ter também um objetivo simbólico, adequado para ser usado como título para esta profecia. Com efeito, estes nomes poderiam valer sobretudo pelo facto de terem um significado condizente com o conteúdo dos respetivos livros e não tanto como identificação de um indivíduo histórico concreto."
+        ]
+      },
+      {
+        "title": "Conteúdo e estrutura",
+        "paragraphs": [
+          "Como acontece frequentemente nos livros proféticos, este livro é encabeçado por um título (1,1), que conjuga termos como «livro», «oráculo» e «visão». Estes últimos representam duas formas literárias que têm a ver com a profecia e aparecem aqui em conjugação uma com a outra.",
+          "O livro de Naum apresenta uma estrutura bipartida:",
+          "1. Hino ao Senhor vitorioso (1,2-2,3). É uma espécie de salmo que proclama a ira do Senhor e anuncia a destruição da Assíria e a salvação de Judá.",
+          "2. Imprecações contra o opressor (2,4-3,19). Estas cinco imprecações constituem a parte principal do livro, anunciada desde o título (1,1: «Proclamação contra Nínive»). Ali se aapresenta o anúncio da derrota de Nínive com traços de sarcasmo e ironia, para finalizar com o lamento fúnebre sobre a cidade derrotada.",
+          "Apesar do início em forma de hino, parece de descartar a hipótese de o texto de Naum ter tido a sua origem numa liturgia, eventualmente destinada a celebrar a queda da cidade de Nínive, bem como a hipótese de ter sido utilizado no templo de Jerusalém."
+        ]
+      },
+      {
+        "title": "Mensagem",
+        "paragraphs": [
+          "A atividade profética de Naum, voltada contra o poder do inimigo, terá alimentado esperanças humanas e exacerbado nacionalismos até ao ano de 612 a.C., em que a capital do império assírio foi destruída. É a partir deste contexto que se desenvolve uma teologia do livro, presente sobretudo no salmo da primeira parte, apresentando um Deus combativo, cheio de ira e vingança. Nada disto, contudo, desvaloriza a imagem de bondade e consolação do Senhor, presente também no decorrer do hino.",
+          "A identificação precisa do alvo da ira de Deus com a cidade de Nínive ganha, porém, carácter exemplar: o fatal destino da capital do império assírio mostra como é o Senhor que governa a história.",
+          "Porém, o anúncio de alegria, sugerido por Naum em 2,1, será apenas temporário. Pouco depois de Nínive, também Jerusalém será derrotada. Retomando esta imagem de alegria de 2,1, quase em jeito de citação, o anúncio proclamado em Is 52,7 ressoará como nova esperança, num contexto totalmente diferente, como é o do regresso do exílio."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,42 +45,148 @@
         {
           "verse": 1,
           "text": "Proclamação contra Nínive. Livro da visão de Naum, de Elcós.",
-          "note_refs": []
+          "note_refs": [
+            "2",
+            "3",
+            "4"
+          ],
+          "notes": {
+            "2": "Traduz-se como proclamação um pronunciamento profético designado em hebraico maśśa’, que significa carga e que constitui um aviso, acusação ou ameaça dirigidos contra os destinatários definidos, que são normalmente nações estrangeiras (cf. Zc 9,1).",
+            "3": "Proclamação e visão são duas formas literárias de expressão da profecia, que usa frequentemente também o oráculo (ne’um). Naum é o único caso em que o título do livro junta estes dois conceitos.",
+            "4": "A localização de Elcós é desconhecida. As várias hipóteses que foram sendo sugeridas apontam, no geral, para o norte da Palestina, incluindo a famosa Cafarnaum que significa: aldeia de Naum. O contexto literário e simbólico desta profecia parece apontar, no entanto, para Judá e Jerusalém, que ficaram como o resto de Israel e onde se concentravam as esperanças que representavam o conjunto ideal das doze tribos"
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "na-1-n2",
+              "offset": 25,
+              "original_marker": "a",
+              "source_id": 1
+            },
+            {
+              "ref": "3",
+              "id": "na-1-n3",
+              "offset": 41,
+              "original_marker": "b",
+              "source_id": 2
+            },
+            {
+              "ref": "4",
+              "id": "na-1-n4",
+              "offset": 59,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "O Senhor é um Deus ciumento e vingador; vingador e capaz de grande cólera é o Senhor. O Senhor é vingador para os seus adversários e prolonga a ira contra os seus inimigos.",
-          "note_refs": []
+          "text": "Alef O Senhor é um Deus ciumento e vingador; vingador e capaz de grande cólera é o Senhor. O Senhor é vingador para os seus adversários e prolonga a ira contra os seus inimigos.",
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "O termo ciumento é uma maneira de exprimir a exigência de exclusividade com que Israel deveria amar e mostrar fidelidade para com o seu Deus, pois este não suporta que quem lhe pertence se volte para outros deuses (Ex 34,14; Dt 32,21; Is 26,11; Zc 8,12).",
+            "6": "Vingador significa “justiceiro” em casos em que o ato de repor a justiça ofendida é se assume como um dever."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "na-1-n5",
+              "offset": 32,
+              "original_marker": "e",
+              "source_id": 5
+            },
+            {
+              "ref": "6",
+              "id": "na-1-n6",
+              "offset": 43,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "O Senhor é paciente na ira e grande na força, o Senhor não deixará nada impune. Pela tempestade e pela tormenta é o seu caminho; e uma nuvem de pó é o rasto dos seus pés.",
-          "note_refs": []
+          "text": "O Senhor é paciente na ira e grande na força, o Senhor não deixará nada impune. Bet Pela tempestade e pela tormenta é o seu caminho; e uma nuvem de pó é o rasto dos seus pés.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "As grandes manifestações meteorológicas constituem, na Bíblia e já antes na tradição religiosa de Canaã, uma linguagem simbólica privilegiada para exprimir as teofanias. Esta linguagem é específica de Baal e de Canaã, mas foi usada na Bíblia com alguma naturalidade para falar de Javé, mesmo que os traços essenciais desta divindade fossem provenientes dos desertos do Sul."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "na-1-n7",
+              "offset": 131,
+              "original_marker": "g",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "Ele ameaça o mar e seca-o e faz com que todos os rios se esvaziem. Ficam murchos os montes de Basan e do Carmelo, e murcham igualmente os rebentos do Líbano. A O A O O",
-          "note_refs": []
+          "text": "Guimel Ele ameaça o mar e seca-o e faz com que todos os rios se esvaziem. Dalet Ficam murchos os montes de Basan e do Carmelo, e murcham igualmente os rebentos do Líbano.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "O monte Basan, o monte Carmelo e o Líbano são lugares reconhecidamente férteis. Daí o significado e a força do verbo murcham. Está em causa o enfraquecimento bem notório de tudo aquilo que é orgulhoso."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "na-1-n8",
+              "offset": 169,
+              "original_marker": "h",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 5,
-          "text": "As montanhas estremeceram por causa dele e as colinas derreteram-se. Diante dele levanta-se a terra, o mundo e todos os que nele habitam.",
+          "text": "He As montanhas estremeceram por causa dele e as colinas derreteram-se. Waw Diante dele levanta-se a terra, o mundo e todos os que nele habitam.",
           "note_refs": []
         },
         {
           "verse": 6,
-          "text": "Quem pode resistir diante da sua indignação? E quem se mantém de pé com o furor da sua cólera? A sua ira derrama-se como fogo e as rochas despedaçam-se por causa dele.",
+          "text": "Zain Quem pode resistir diante da sua indignação? E quem se mantém de pé com o furor da sua cólera? Ḥet A sua ira derrama-se como fogo e as rochas despedaçam-se por causa dele.",
           "note_refs": []
         },
         {
           "verse": 7,
-          "text": "O Senhor é bom como abrigo no dia da tribulação. Ele conhece os que nele se refugiam.",
+          "text": "Ṭet O Senhor é bom como abrigo no dia da tribulação. Yod Ele conhece os que nele se refugiam.",
           "note_refs": []
         },
         {
           "verse": 8,
-          "text": "E, quando a inundação avança, Ele provoca a destruição aos seus adversários e a escuridão persegue os seus inimigos.",
-          "note_refs": []
+          "text": "E, quando a inundação avança, Kaf Ele provoca a destruição aos seus adversários e a escuridão persegue os seus inimigos.",
+          "note_refs": [
+            "10",
+            "11"
+          ],
+          "notes": {
+            "10": "Pode haver aqui alguma referência ao mundo das imagens associadas com o dilúvio (cf. Gn 6-7).",
+            "11": "É possível traduzir este verso como ele provoca a destruição do lugar dela, isto é, da cidade. Neste caso, este hino inicial poderia estar já a apontar para a cidade de Nínive, que constitui a preocupação e o objetivo principal desta profecia."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "na-1-n10",
+              "offset": 28,
+              "original_marker": "a",
+              "source_id": 10
+            },
+            {
+              "ref": "11",
+              "id": "na-1-n11",
+              "offset": 79,
+              "original_marker": "b",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 9,
@@ -57,7 +201,30 @@
         {
           "verse": 11,
           "text": "Foi de ti que saiu aquele que planeia o mal contra o Senhor, que segue conselhos de iniquidade.",
-          "note_refs": []
+          "note_refs": [
+            "12",
+            "13"
+          ],
+          "notes": {
+            "12": "É possível ver aqui uma alusão a Senaquerib, rei da Assíria, que assediou e cercou Jerusalém em 700 a.C. (cf. 2Rs 18-19).",
+            "13": "Lit.... de Belial. Belial é uma expressão hebraica que significa sem valor e é usada como nome para designar coisas sem préstimo, como as falsas divindades, por exemplo."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "na-1-n12",
+              "offset": 59,
+              "original_marker": "d",
+              "source_id": 13
+            },
+            {
+              "ref": "13",
+              "id": "na-1-n13",
+              "offset": 94,
+              "original_marker": "e",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 12,
@@ -72,12 +239,71 @@
         {
           "verse": 14,
           "text": "Pois o Senhor ordenou a teu respeito: “Do teu nome não voltará a haver descendência. Da casa dos teus deuses destruirei ídolos e imagens esculpidas. E vou preparar o teu sepulcro, porque foste desprezível.",
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "Ou:... do teu Deus. A opção por uma destas alternativas depende de se entender o v. 14 como referido a Nínive ou a Jerusalém."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "na-1-n14",
+              "offset": 108,
+              "original_marker": "f",
+              "source_id": 15
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Título",
           "note_refs": []
         },
         {
-          "verse": 15,
-          "text": "Eis aí sobre as montanhas os pés do mensageiro que anuncia paz! Celebra as tuas festas, Judá, paga os teus votos. Pois a iniquidade não voltará mais a passar sobre ti; foi inteiramente destruída.",
+          "before_verse": 2,
+          "text": "I. HINO AO SENHOR VITORIOSO (1,2-2,3)",
           "note_refs": []
+        },
+        {
+          "before_verse": 2,
+          "text": "Hino ao Senhor vitorioso",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Trata-se de um hino alfabético, em acróstico, que, por qualquer razão que se desconhece, chega apenas até metade do alfabeto (letra kaf). Hino é um género literário próprio dos Salmos. Aqui é notória a superioridade do Senhor em relação aos elementos da criação ladeados por motivos da história da salvação (mar Vermelho e monte Sinai). A par da imagem de Deus ciumento e vingador (1,2), vem a imagem final: O Senhor é bom (1,7), compondo dimensões correlativas na maneira de falar sobre Deus"
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "na-1-n1",
+              "offset": 24,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
+        },
+        {
+          "before_verse": 9,
+          "text": "Oráculos sobre Judá e Nínive",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Esta secção é difícil por misturar palavras de condenação para Nínive com palavras de esperança para Judá. Para uma melhor perceção do sentido, sugere-se uma leitura por unidades específicas. Assim, 1,9-11 refere-se a Judá e a Nínive; 1,12-13, a Judá; 1,14, a Nínive; 1,15–2,3, a Judá (ver nota a 2,2)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "na-1-n9",
+              "offset": 28,
+              "original_marker": "c",
+              "source_id": 12
+            }
+          ]
         }
       ]
     },
@@ -86,23 +312,88 @@
       "verses": [
         {
           "verse": 1,
-          "text": "",
-          "note_refs": []
+          "text": "Eis aí sobre as montanhas os pés do mensageiro que anuncia paz! Celebra as tuas festas, Judá, paga os teus votos. Pois a iniquidade não voltará mais a passar sobre ti; foi inteiramente destruída.",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit. Belial. Por detrás desta figura parece estar a imagem da Assíria, da sua capital e do seu imperador. Daí que as imagens e as construções apresentem variações entre o masculino e o feminino. As notícias sobre o fim da Assíria parece estarem aqui como um grande motivo de alegria para Jerusalém."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "na-2-n2",
+              "offset": 131,
+              "original_marker": "h",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Aquele que dispersa avança sobre ti. Guarda a muralha, vigia o caminho, fortifica os rins, tem coragem e muita força.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Algumas traduções colocam este versículo depois de 2,3 e já na secção seguinte, porque parece fazer mais sentido em relação a Nínive."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "na-2-n3",
+              "offset": 116,
+              "original_marker": "i",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Pois o Senhor restaura a honra de Jacob bem como a honra de Israel, porque os salteadores os assaltaram e destruíram os seus ramos.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Ou: pois Ele é...",
+            "5": "Neste texto, a destruição dos ramos reporta-se à imagem da vinha, como em Is 35,2; Sl 80,9-16."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "na-2-n4",
+              "offset": 48,
+              "original_marker": "j",
+              "source_id": 19
+            },
+            {
+              "ref": "5",
+              "id": "na-2-n5",
+              "offset": 130,
+              "original_marker": "k",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "O escudo dos seus guerreiros ficou vermelho, os homens fortes vestem-se de escarlate, os carros são em placas de fogo cintilantes, no dia em que se preparam e se agitam as lanças.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Ou os cavaleiros..., segundo releitura do hebraico de acordo com a interpretação que vigora desde os Setenta até à Neovulgata."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "na-2-n6",
+              "offset": 178,
+              "original_marker": "a",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 5,
@@ -112,17 +403,68 @@
         {
           "verse": 6,
           "text": "Lembram-se dos seus nobres; eles tropeçam no seu caminho, precipitam-se para a sua muralha, e o abrigo protetor está preparado.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: Ele lembra-se dos…"
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "na-2-n7",
+              "offset": 10,
+              "original_marker": "b",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Abrem-se as portas dos rios e o palácio desmorona.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Poderá haver aqui alguma referência ao desvio de canais de água dos rios de Nínive que os atacantes fizeram penetrar em Nínive e, com a qual, a assediaram, segundo a tradição de Diodoro da Sicília, que parece confirmada em 2,8-9. Este vocabulário conserva algumas das ressonâncias míticas do caos."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "na-2-n8",
+              "offset": 27,
+              "original_marker": "c",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "A estátua foi exilada, foi levantada e as suas aias gemem como um arrulhar de pombas, batendo nos seus corações.",
-          "note_refs": []
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "A estátua poderá ser uma referência à rainha ou mesmo à deusa mesopotâmica da fecundidade, Istar, que era a divindade principal da cidade de Nínive.",
+            "10": "As aias são uma referência às sacerdotisas que se encontravam ao serviço da deusa."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "na-2-n9",
+              "offset": 9,
+              "original_marker": "d",
+              "source_id": 24
+            },
+            {
+              "ref": "10",
+              "id": "na-2-n10",
+              "offset": 51,
+              "original_marker": "e",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 9,
@@ -137,16 +479,112 @@
         {
           "verse": 11,
           "text": "Está vazia, esvaziada e devastada, de coração desfeito e os joelhos vacilantes, com os rins cheios de angústia. E as faces de todos acumulam palidez.",
-          "note_refs": []
+          "note_refs": [
+            "11",
+            "12"
+          ],
+          "notes": {
+            "11": "O texto hebraico deste verso tem um ritmo de assonâncias progressivas que, na medida do possível, se procura manter na tradução.",
+            "12": "Lit.: angústia em todos os rins."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "na-2-n11",
+              "offset": 33,
+              "original_marker": "f",
+              "source_id": 26
+            },
+            {
+              "ref": "12",
+              "id": "na-2-n12",
+              "offset": 110,
+              "original_marker": "g",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Onde está o covil dos leões e o lugar de caça dos jovens leões? Ali andavam o leão, a leoa e a cria do leão, sem ninguém os perturbar.",
-          "note_refs": []
+          "note_refs": [
+            "13",
+            "14"
+          ],
+          "notes": {
+            "13": "Para falar do rei da Assíria, Naum menciona leões, leoas e crias de leão, animais reconhecidos pela sua ferocidade, como se vê pelas referências à caça de presas. No entanto, estes animais ferozes aparecem aqui reduzidos ao silêncio. Acentua-se desta maneira a ferocidade do império assírio que agora se descreve como derrotado.",
+            "14": "Lit.: de pastagem..."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "na-2-n13",
+              "offset": 27,
+              "original_marker": "h",
+              "source_id": 28
+            },
+            {
+              "ref": "14",
+              "id": "na-2-n14",
+              "offset": 45,
+              "original_marker": "i",
+              "source_id": 30
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "O leão despedaça para as suas crias e estrangula para as suas leoas; enche de presas as suas tocas e os seus esconderijos, de caça.",
+          "note_refs": []
+        },
+        {
+          "verse": 14,
+          "text": "Eis que eu venho contra ti. Oráculo do Senhor do universo! Eu queimarei os teus carros em fumo e uma espada devorará os teus jovens leões; acabarei com a tua caça na terra e deixará de se ouvir a voz dos teus mensageiros.",
+          "note_refs": [
+            "15"
+          ],
+          "notes": {
+            "15": "Lit.: os seus... O paralelo do segundo hemistíquio está na segunda pessoa."
+          },
+          "note_positions": [
+            {
+              "ref": "15",
+              "id": "na-2-n15",
+              "offset": 79,
+              "original_marker": "j",
+              "source_id": 31
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Motivo de festa em Jerusalém",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Verifica-se aqui alguma semelhança de motivos e de vocabulário com Is 52,7-10."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "na-2-n1",
+              "offset": 28,
+              "original_marker": "g",
+              "source_id": 16
+            }
+          ]
+        },
+        {
+          "before_verse": 4,
+          "text": "II. IMPRECAÇÕES CONTRA O OPRESSOR (2,4-3,19)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 4,
+          "text": "Derrota de Nínive",
           "note_refs": []
         }
       ]
@@ -177,12 +615,40 @@
         {
           "verse": 5,
           "text": "Eis que eu venho contra ti. Oráculo do Senhor do universo! E levantarei as abas do teu vestido até à tua cara, farei com que os povos vejam a tua nudez e os reinos, a tua vergonha.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Apesar de nem sempre ser possível mostrá-lo claramente em tradução, as construções e referências pessoais ao longo deste capítulo até ao v. 17 mantêm-se no feminino, servindo-se da imagem de mulher como uma maneira de continuar a sublinhar a fragilidade da cidade de Nínive."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "na-3-n1",
+              "offset": 179,
+              "original_marker": "k",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Atirarei abominações para cima de ti envergonhar-te-ei e farei de ti objeto de exibição.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Os vv. 3, 6-7 referem-se à punição de uma mulher adúltera, como acontece em Ez 16,35-37. Outras descrições semelhanças podem ver-se em: Is 47,2-3; Jr 13,26; Os 2,5.12."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "na-3-n2",
+              "offset": 87,
+              "original_marker": "a",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 7,
@@ -192,12 +658,67 @@
         {
           "verse": 8,
           "text": "Serás tu melhor do que No-Amon? Ela habita junto aos canais com água à sua volta; tem o mar como fortaleza e as águas como sua muralha.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "No era o nome da cidade capital do Alto Egito, entretanto designada Tebas, cuja divindade era o deus egípcio Amon; também esta cidade tinha sido saqueada pelos assírios em 663 a.C.",
+            "4": "Neste caso de No Amon, os canais fazem parte do rio Nilo."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "na-3-n3",
+              "offset": 30,
+              "original_marker": "b",
+              "source_id": 35
+            },
+            {
+              "ref": "4",
+              "id": "na-3-n4",
+              "offset": 59,
+              "original_marker": "c",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "A Etiópia era forte e o Egito não tinha fim; Put e os líbios vieram em seu auxílio!",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6",
+            "7"
+          ],
+          "notes": {
+            "5": "Lit.: Cuche. Cuche era uma designação que se dava às regiões situadas a sul do Egito e que as traduções bíblicas se habituaram a designar por Etiópia.",
+            "6": "Put ou Punt é uma região do nordeste de África, que aparece frequentemente associada ao Egito e à Etiópia (Jr 46,8-9).",
+            "7": "Lit.: teu."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "na-3-n5",
+              "offset": 9,
+              "original_marker": "d",
+              "source_id": 37
+            },
+            {
+              "ref": "6",
+              "id": "na-3-n6",
+              "offset": 48,
+              "original_marker": "e",
+              "source_id": 38
+            },
+            {
+              "ref": "7",
+              "id": "na-3-n7",
+              "offset": 74,
+              "original_marker": "f",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 10,
@@ -212,7 +733,21 @@
         {
           "verse": 12,
           "text": "Todas as tuas fortificações são figueiras com figos novos. Quando são abanados, caem na boca de quem os come.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Há uma comparação semelhante em Is 28,4."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "na-3-n8",
+              "offset": 57,
+              "original_marker": "g",
+              "source_id": 40
+            }
+          ]
         },
         {
           "verse": 13,
@@ -222,7 +757,21 @@
         {
           "verse": 14,
           "text": "Abastece-te de água para o cerco, reforça as tuas fortificações; entra na lama e pisa a argila, segura o molde dos tijolos.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Este versículo alude com ironia aos trabalhos de preparação da defesa. Os tijolos seriam para construção e das muralhas defensivas."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "na-3-n9",
+              "offset": 122,
+              "original_marker": "h",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 15,
@@ -237,16 +786,66 @@
         {
           "verse": 17,
           "text": "As tuas sentinelas são como um gafanhoto e os teus oficiais como um enxame de gafanhotos que se instalam sobre as sebes num dia de frio. Nasce o sol e eles dispersam-se e não se sabe o seu sítio. Onde estão eles?",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "O texto hebraico usa aqui uma palavra acádica para designar um escriba da administração real ou do exército."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "na-3-n10",
+              "offset": 59,
+              "original_marker": "i",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "Rei da Assíria, os teus pastores adormeceram, os teus nobres puseram-se a descansar, o teu povo dispersou-se sobre as montanhas e não há quem o reúna.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "O termo pastores está aqui provavelmente para designar a classe dirigente do povo (cf. 1Rs 22,17)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "na-3-n11",
+              "offset": 32,
+              "original_marker": "j",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 19,
-          "text": "Não há remédio para a tua destruição, a tua ferida é incurável. Todos os que ouvirem falar de ti baterão palmas por causa de ti. Pois sobre quem não se abateu continuamente a tua maldade? PARALELOS",
+          "text": "Não há remédio para a tua destruição, a tua ferida é incurável. Todos os que ouvirem falar de ti baterão palmas por causa de ti. Pois sobre quem não se abateu continuamente a tua maldade?",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Escárnio sobre Nínive",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "O exemplo de No-Amon",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Incapacidade de Nínive",
+          "note_refs": []
+        },
+        {
+          "before_verse": 18,
+          "text": "Lamento fúnebre",
           "note_refs": []
         }
       ]

@@ -1,18 +1,95 @@
 {
+  "schema_version": 2,
   "book": "Ageu",
+  "book_id": "ag",
+  "source": {
+    "format": "docx",
+    "file": "44_Ag.docx",
+    "title": "Ageu"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "O profeta e o seu tempo",
+        "paragraphs": [
+          "Este livro recebe o nome do profeta através do qual Deus comunica com o seu povo nos dois capítulos que o compõem. Ageu aparece designado como “profeta” e como “mensageiro do Senhor” (1,13). Mas o livro não nos oferece mais nenhum dado capaz de o definir como uma personagem histórica. Ou seja, Ageu é conhecido apenas pela mensagem que comunica da parte de Deus. O seu próprio nome Ageu (“as minhas festas”) é de teor pouco habitual na onomástica bíblica e pouco nos diz de mais concreto.",
+          "Segundo o prólogo, a sua ação situa-se na segunda metade do sexto ano do reinado de Dario, data que coincide com o segundo semestre do ano de 520, a.C., sendo, desta maneira, contemporâneo do profeta Zacarias. Os oráculos do livro situam-se no período entre agosto e dezembro daquele ano, portanto, pouco tempo antes da conclusão do segundo templo, que teve lugar no ano 515 a.C. O profeta Zacarias fala na mesma época e parece estar em sintonia com as preocupações de Ageu.",
+          "As questões mais marcantes do seu tempo são o regresso dos exilados, os problemas da sua reinstalação na cidade e no país e, mais particularmente, a reconstrução do templo em Jerusalém. A mensagem contida neste livro é dirigida, em primeiro lugar, aos responsáveis de Judá, mormente ao governador Zorobabel e ao sumo-sacerdote Josué, personagens em torno às quais se concentravam as esperanças naquela fase de recomeço, e finalmente a todo o povo. A sua atividade é referida igualmente na história dos que regressavam, segundo o livro de Esdras (5,1; 6,4).",
+          "A profecia de Ageu aparece, por conseguinte, enquadrada nos primeiros anos de governação política sistemática e pormenorizada da parte do império persa. Neste tempo e contexto, a comunidade judaica está a procurar enquadrar-se na sua nova realidade de vida."
+        ]
+      },
+      {
+        "title": "Conteúdo e estrutura do livro",
+        "paragraphs": [
+          "O conteúdo do livro de Ageu espelha o essencial da sua atividade como profeta, insistindo em três aspetos da parte de Deus: 1. Necessidade de rever o próprio proceder. O povo dava prioridade à reabilitação das próprias casas e adiava a reconstrução do templo. Neste sentido, Deus comunica-lhes que os seus esforços serão vãos, enquanto o templo se mantiver em ruínas. 2. Promessa da presença divina no novo templo e da bênção para o povo e seus trabalhos. 3. Confirmação da proteção divina para o seu representante, o governador de Judá, que parece dar algumas esperanças de ser o continuador da casa de David. Em certa medida, este acolhimento do governador de Judá representa um sinal de esperança de que, também a nível social",
+          "e político, Deus continua a guiar o seu povo e de que não o abandonou, depois dos acontecimentos que provocaram o exílio para a Babilónia, nos anos 597 e 586 a.C.",
+          "Deste modo, a estrutura do livro de Ageu pode ser apresentada deste modo:",
+          "1,1-15: Primeiro oráculo, sobre a necessidade de reconstruir o templo;",
+          "2,1-9: Segundo oráculo, sobre a glória do novo templo;",
+          "2,10-19: Terceiro oráculo, sobre o culto e a bênção divina prometida;",
+          "2,20-23: Quarto oráculo, sobre a promessa divina dirigida a Zorobabel."
+        ]
+      },
+      {
+        "title": "Mensagem e teologia",
+        "paragraphs": [
+          "O livro explica que os males que afligem o povo, após a permissão para o regresso do exílio em 538, nomeadamente a carestia, se devem ao afastamento de Deus e ao desleixo relativamente à reconstrução do templo, casa ou morada de Deus. Contudo, há uma antiga promessa da presença divina no meio do povo, cujo significado continua a ser importante nas condições de fragilidade que o entusiasmo do regresso não camuflava. Ageu promoveu a colaboração do povo, guiado pelos seus líderes. Com efeito, a resposta ao apelo divino através dos seus mensageiros poderá abrir as portas para uma nova era de prosperidade e pleno bem-estar.",
+          "Contrariamente às dificuldades dos primeiros tempos da restauração, espera-se que o novo templo possa ainda vir a ser grandioso e que Jerusalém se possa ainda tornar um polo de atração para os outros povos. Neste sentido, Ageu não se coíbe em propor a antevisão de uma era de entusiasmo, para a qual a realeza davídica recentemente desaparecida seria chamada a oferecer um modelo mais representativo. São estas as bases do messianismo, como expressão ideal para uma condição de depressão e de crise. E, com esta projeção da esperança para um futuro profundo, Ageu contribui para ajudar os exilados a reformular a esperança numa restauração imediata da monarquia de David, abrindo-lhes perspetivas para uma nova maneira de representar o ideal do messianismo. Com efeito, a política do império persa não permitiu a restauração imediata com autonomia política. Tal como acontece com o profeta Zacarias, seu contemporâneo, Ageu sintetiza a sua conceção de Deus no título preferido de Senhor do universo (Yahweh Seba’ot), que espelha as diversas raízes históricas profundas da representação de Deus em Israel."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "verse": 1,
-          "text": "No segundo ano do rei Dario, no primeiro dia do sexto mês, foi dirigida a palavra do SENHOR a Zorobabel, filho de Salatiel, governador de Judá, e a J osué, filho de Joçadac, sumo sacerdote, por meio de Ageu, o profeta, dizendo:",
-          "note_refs": []
+          "text": "No segundo ano do rei Dario, no primeiro dia do sexto mês, foi dirigida a palavra do SENHOR a Zorobabel, filho de Salatiel, governador de Judá, e a Josué, filho de Joçadac, sumo sacerdote, por meio de Ageu, o profeta, dizendo:",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "O primeiro dia do mês era a festa da lua nova, de grande importância litúrgica no antigo Israel (cf. 1Sm 20,5; Am 8,5; Os 2,13; Is 1,13; 66,23; Nm 28,11-15).",
+            "2": "Zorobabel é descendente da família real de Jerusalém na linha do último rei, Jeconias (Jr 28,4; 1Cr 3,17-19). Ao escolher um governador desta estirpe, o império persa mostra boa vontade para com a restauração da comunidade judaica, mas a história não veio a confirmar que a política dos persas fosse realmente no sentido de permitir a restauração da monarquia de David, como o profeta Ezequiel ( ---), alguns anos antes parece ter sonhado."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ag-1-n1",
+              "offset": 57,
+              "original_marker": "a",
+              "source_id": 1
+            },
+            {
+              "ref": "2",
+              "id": "ag-1-n2",
+              "offset": 103,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "«Assim declara o SENHOR do universo, dizendo: “Os deste povo dizem que ainda não chegou o tempo de se reconstruir a casa do SENHOR ”».",
-          "note_refs": []
+          "text": "«Assim declara o SENHOR do universo, dizendo: “Os deste povo dizem que ainda não chegou o tempo de se reconstruir a casa do SENHOR”».",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A primeira preocupação de Ageu volta-se para a reconstrução do templo que os retornados tinham inicialmente começado, mas que parecia estar, entretanto, a esmorecer (Esd 3,1-9). A pobreza da comunidade seria uma das razões; eventuais desentendimentos sobre a participação dos retornados da Samaria poderiam ser mais uma razão (cf. Esd 4,4)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ag-1-n3",
+              "offset": 132,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 3,
@@ -22,17 +99,59 @@
         {
           "verse": 4,
           "text": "«Será então tempo para vós mesmos habitardes nas vossas casas de belas madeiras, enquanto esta casa continua em ruínas?",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "No tempo antigo, o templo e o palácio real é que estavam ornados com ricos madeiramentos (1Rs 6-9; 7,3.7; Jr 32,14). Ageu critica o desvio do centro de interesse para as casas particulares."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ag-1-n4",
+              "offset": 79,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Agora, pois, é isto o que diz o SENHOR do universo: “Ponde o vosso coração nos vossos caminhos!",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Ponde o vosso coração. Para além do afeto e da emoção, o coração é a localização do pensamento e da capacidade de planificação. Esta expressão é característica de Ageu e aparece várias vezes, de forma completa (1,5.7) e de forma reduzida (2,15.18)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ag-1-n5",
+              "offset": 94,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Semeastes muito, mas a colheita é pouca; comeis, mas sem matar a fome; bebeis, mas sem atingir satisfação; vestistes-vos, mas sem aquecer; e aquele que trabalha por conta de outro trabalha para um saco roto”.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: e não há embriaguez."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ag-1-n6",
+              "offset": 105,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 7,
@@ -41,8 +160,22 @@
         },
         {
           "verse": 8,
-          "text": "Subi à montanha, trazei madeira e reconstruí o templo. Eu porei nele a minha complacência O e serei glorificado, diz o SENHOR.",
-          "note_refs": []
+          "text": "Subi à montanha, trazei madeira e reconstruí o templo. Eu porei nele a minha complacência e serei glorificado, – diz o SENHOR.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Lit.: …a casa."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ag-1-n7",
+              "offset": 53,
+              "original_marker": "g",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 9,
@@ -57,17 +190,59 @@
         {
           "verse": 11,
           "text": "Chamei a seca sobre a terra, sobre os montes, sobre o trigo e sobre o vinho, sobre o azeite e sobre aquilo que a terra produz, sobre os homens e sobre os animais e sobre todo o trabalho das mãos”».",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "A seca é um dos males que mais penalizavam o homem bíblico. Ela afeta toda a criação (cf. Jr 4,23-28) e inutiliza toda a atividade humana (cf. os 4,1-3; Jr 12,4; 14,2-9)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "ag-1-n8",
+              "offset": 13,
+              "original_marker": "a",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "Zorobabel, filho de Salatiel, e o sumo sacerdote Josué, filho de Joçadac, e todo o resto do povo escutaram a voz do SENHOR, seu Deus, pelas palavras do pro - feta Ageu, conforme aquilo para que o SENHOR, seu Deus, o tinha enviado. E o povo mostrou temor do SENHOR.",
-          "note_refs": []
+          "text": "Zorobabel, filho de Salatiel, e o sumo sacerdote Josué, filho de Joçadac, e todo o resto do povo escutaram a voz do SENHOR, seu Deus, pelas palavras do profeta Ageu, conforme aquilo para que o SENHOR, seu Deus, o tinha enviado. E o povo mostrou temor do SENHOR.",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "O resto do povo pode significar os habitantes de Judá daquele tempo, mas a expressão traz também a conotação daquele núcleo que simboliza a salvação e reconstituição do povo (cf. Esd 1,4; 9,8.14; Zc 8, 6.11)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "ag-1-n9",
+              "offset": 96,
+              "original_marker": "b",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Então Ageu, mensageiro do SENHOR, falou ao povo na qualidade de mensageiro do SENHOR, dizendo: «Eu estou convosco. Oráculo do SENHOR!»",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Mensageiro do Senhor é uma expressão que, na evolução da linguagem bíblica, acabou por significar um anjo. No contexto bíblico primitivo, trata-se de alguém que recebeu o encargo de cumprir uma tarefa; no caso de um profeta, a mensagem de que foi incumbido é precisamente essa tarefa."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "ag-1-n10",
+              "offset": 32,
+              "original_marker": "c",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 14,
@@ -76,7 +251,33 @@
         },
         {
           "verse": 15,
-          "text": "Era no dia vinte e quatro do sexto mês, no segundo ano do rei Dario. A",
+          "text": "Era no dia vinte e quatro do sexto mês, no segundo ano do rei Dario.",
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Esta data corresponderia ao mês de setembro de 520 a.C. O rei Dario tinha subido ao trono em 522 a.C. O início do seu reinado trouxe novo impulso à vida da comunidade judaica que residia em Jerusalém. A comunidade do pós-exílio apresentava duas referências de autoridade, a autoridade política dos persas, representada pelo governador, e a autoridade religiosa, representada pelo sumo sacerdote. A identidade nacional passava a estar mais ligada à figura do sumo sacerdote. E esta situação manteve-se até à época do Novo Testamento, com exceção do tempo dos Macabeus. Pelo relato, vê-se que a ação de Ageu produziu efeito muito rapidamente. Umas três semanas depois do seu apelo à reconstrução, as obras do templo tinham recomeçado."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "ag-1-n11",
+              "offset": 67,
+              "original_marker": "d",
+              "source_id": 11
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "I. PRIMEIRO ORÁCULO (1-15)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Necessidade de reconstruir o templo",
           "note_refs": []
         }
       ]
@@ -87,7 +288,21 @@
         {
           "verse": 1,
           "text": "No dia vinte e um do sétimo mês, aconteceu a palavra do SENHOR por meio do profeta Ageu, dizendo:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Esta data corresponde ao mês de outubro de 520 a.C. Os meses contavam-se a partir de meados de março, mês da Páscoa. No sétimo mês ocorria a importante festa das Tendas (cf. Lv 23,36; Jo 7,37)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ag-2-n1",
+              "offset": 31,
+              "original_marker": "e",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 2,
@@ -107,17 +322,68 @@
         {
           "verse": 5,
           "text": "Foi este o compromisso que estabeleci convosco, quando saístes do Egito. E o meu espírito permanece no meio de vós. Não temais!",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O meu espírito cumpre aqui a função de presença e proteção outrora atribuída à coluna de fogo (cf. Ex 13,21-22; 14,19)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ag-2-n2",
+              "offset": 89,
+              "original_marker": "f",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Pois assim fala o SENHOR do universo: «Ainda um pouco mais de tempo e Eu abalarei os céus e a terra, o mar e a terra firme.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Os vv. 6-9 projetam para Jerusalém, num tempo próximo, uma era de características messiânicas. Esta começa como uma manifestação cósmica de Deus, seguindo-se um tempo em que Jerusalém se torna o centro de interesse e afluência por parte dos povos. A paz seria o símbolo de que o ponto alto desta era estaria a ser atingido (Is 11,6-9; Jr 33,6-9; Zc 8,4-5.12).",
+            "4": "Estas perturbações representam os conflitos daquele tempo e são igualmente vistos como sinais de intervenção da parte de Deus, muito ao gosto do futuro discurso da apocalíptica."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ag-2-n3",
+              "offset": 36,
+              "original_marker": "g",
+              "source_id": 14
+            },
+            {
+              "ref": "4",
+              "id": "ag-2-n4",
+              "offset": 122,
+              "original_marker": "h",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Abalarei todos os povos; e de todos os povos chegará aquilo que é mais precioso e encherei de glória esta casa. Diz o SENHOR dos exércitos.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Sob influência da Vulgata, esta expressão de mais precioso foi entendida como referida a Jesus."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ag-2-n5",
+              "offset": 79,
+              "original_marker": "i",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 8,
@@ -127,32 +393,116 @@
         {
           "verse": 9,
           "text": "Será grande a glória desta casa, da futura mais do que da primeira. Diz o SENHOR dos exércitos! E neste lugar estabelecerei a paz. Oráculo do SENHOR dos exércitos!»",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "A paz é realmente a expressão completa do mundo ideal representativo do pensamento messiânico referido pelos profetas (cf. Is 11,6-9; Jr 13,6-9; Zc 8,4-5.12)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ag-2-n6",
+              "offset": 129,
+              "original_marker": "a",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 10,
           "text": "No dia vinte e quatro do nono mês, no segundo ano de Dario, a palavra do SENHOR foi dirigida ao profeta Ageu, dizendo:",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Esta data corresponderia ao mês de dezembro de 520 a.C."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ag-2-n7",
+              "offset": 58,
+              "original_marker": "b",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 11,
-          "text": "«Assim diz o SENHOR do univer - so: Pede aos sacerdotes uma instrução, dizendo:",
-          "note_refs": []
+          "text": "«Assim diz o SENHOR do universo: Pede aos sacerdotes uma instrução, dizendo:",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Ageu relata uma ida junto dos sacerdotes para pedir uma instrução, em hebraico uma torah, sobre um pormenor que diz respeito à lei dos sacrifícios. Dar orientações e respostas em caso de dúvida era uma das funções dos sacerdotes (cf. Lv 27,8.11-12.14; Jr 2,8; 18,18; Ez 7,26; Zc 7,1-3; Ml 2,6-7)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "ag-2-n8",
+              "offset": 66,
+              "original_marker": "c",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Se alguém levar carne consagrada na aba da sua veste e tocar com a aba no pão, num cozinhado, no vinho, no azeite ou em qualquer alimento, será que esse alimento fica consagrado?» Os sacerdotes responderam: «Não».",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: … carne santificada. Ou seja, carne de animais oferecidos em sacrifício (cf. Lv 19,5-8) e da qual se podia levar uma parte para casa para comer em refeição de família."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "ag-2-n9",
+              "offset": 32,
+              "original_marker": "d",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 13,
-          "text": "E Ageu disse: «Se alguém impuro por contacto com cadá - ver tocar numa dessas coisas, ela fica impura?» Os sacerdotes responderam: «Fica impura».",
-          "note_refs": []
+          "text": "E Ageu disse: «Se alguém impuro por contacto com cadáver tocar numa dessas coisas, ela fica impura?» Os sacerdotes responderam: «Fica impura».",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Cf. Lv 22,4."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "ag-2-n10",
+              "offset": 56,
+              "original_marker": "e",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Então Ageu retorquiu e disse: «Assim é este povo, assim é esta gente diante de mim. Oráculo do SENHOR! Assim é todo o trabalho das suas mãos; e aquilo que ali me oferecem. É impuro.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Ageu considera que a negligência em construir o templo é uma espécie de impureza que contamina tudo o que o povo pode empreender (cf. Am 5,21-24; Is 1,13)."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "ag-2-n11",
+              "offset": 170,
+              "original_marker": "f",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 15,
@@ -167,16 +517,44 @@
         {
           "verse": 17,
           "text": "Eu atingi-vos com a aridez, a ferrugem e o granizo em todos os trabalhos das vossas mãos; mas nenhum de vós se voltou para mim. Oráculo do SENHOR!",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Ou: mas não voltastes para mim."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "ag-2-n12",
+              "offset": 126,
+              "original_marker": "g",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 18,
-          "text": "Ponde nisso o vosso coração, por favor, desde este dia e em diante, desde o dia vinte e quatro do nono mês, o dia em que foram postos os ali cerces do templo do SENHOR. Ponde nisso o vosso coração!",
-          "note_refs": []
+          "text": "Ponde nisso o vosso coração, por favor, desde este dia e em diante, desde o dia vinte e quatro do nono mês, o dia em que foram postos os alicerces do templo do SENHOR. Ponde nisso o vosso coração!",
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Esta data parece ser proveniente de 2,10; a data em que recomeçaram os trabalhos de construção do templo foi no dia 24 do sexto mês, conforme é referido em 1,15."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "ag-2-n13",
+              "offset": 106,
+              "original_marker": "h",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 19,
-          "text": "Há ainda grão no celeiro? E a videira, a figueira, a romãzeira e a oliveira",
+          "text": "Há ainda grão no celeiro? E a videira, a figueira, a romãzeira e a oliveira ainda não carregaram. Pois, desde este dia, Eu abençoarei».",
           "note_refs": []
         },
         {
@@ -196,7 +574,53 @@
         },
         {
           "verse": 23,
-          "text": "Nesse dia, oráculo do SENHOR do universo, tomar -te-ei, Zorobabel, meu servo, filho de Salatiel. Oráculo do SENHOR! E stabelecer-te-ei como um selo, pois foi a ti que Eu escolhi. Oráculo do SENHOR do universo!» PARALELOS",
+          "text": "Nesse dia, oráculo do SENHOR do universo, tomar‑te‑ei, Zorobabel, meu servo, filho de Salatiel. Oráculo do SENHOR! Estabelecer-te-ei como um selo, pois foi a ti que Eu escolhi. Oráculo do SENHOR do universo!»",
+          "note_refs": [
+            "14"
+          ],
+          "notes": {
+            "14": "O selo era um instrumento de validação, conservado com muito cuidado, que servia para colocar a própria marca em escritos ou em objetos diversos (cf. Ct 8,6; Gn 41,42; Jr 22,24; Est 3,10). O tom solene desta promessa feita a Zorobabel sublinha, mais uma vez, as esperanças de tipo messiânico associadas à sua figura de líder."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "ag-2-n14",
+              "offset": 145,
+              "original_marker": "a",
+              "source_id": 25
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "II. SEGUNDO ORÁCULO (2,1-9)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "A presença do Senhor traz prosperidade",
+          "note_refs": []
+        },
+        {
+          "before_verse": 10,
+          "text": "III. TERCEIRO ORÁCULO (2,10-19)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 10,
+          "text": "Situação impura do presente",
+          "note_refs": []
+        },
+        {
+          "before_verse": 20,
+          "text": "IV. QUARTO ORÁCULO (2,20-23)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 20,
+          "text": "Queda dos reinos e eleição de Zorobabel",
           "note_refs": []
         }
       ]

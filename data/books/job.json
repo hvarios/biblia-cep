@@ -1,5 +1,70 @@
 {
+  "schema_version": 2,
   "book": "Job",
+  "book_id": "job",
+  "source": {
+    "format": "docx",
+    "file": "22_Jb.docx",
+    "title": "Livro de Job"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "Título e lugar no cânone",
+        "paragraphs": [
+          "O livro de Job, tal como os livros de Josué, Rute e Ester, recebe o nome da sua personagem principal. O nome hebraico ’Iyyob tornou-se Job em latim e português. O significado do nome é incerto. Embora se considere tratar-se de um nome estrangeiro, existe uma possibilidade remota de o relacionar com uma raiz hebraica ’yb, cujo significado é “inimigo” ou “inimizade”, ou com uma raiz árabe ’wb, que significa “regressar, arrepender-se”, o que permite traduzir este nome com o significado de “penitente”. É um nome muito antigo e era aparentemente comum no antigo Próximo Oriente. Foi encontrado nos textos de execração egípcios de cerca de 2000 a.C., nas tabuinhas de Mari e Alalakh da primeira metade do segundo milénio a.C. e nas tabuinhas de Tell-el-Amarna do séc. XIV a.C. O lugar do livro de Job no cânone nunca foi contestado. A sua posição na ordem dos livros da Bíblia tem variado consideravelmente. Nas Bíblias hebraicas modernas, ocupa o primeiro lugar na terceira divisão do cânone, antes dos Salmos e dos Provérbios, embora em alguns manuscritos Job venha depois dos Salmos e dos Provérbios; em alguns casos aparece colocado entre eles. Na versão dos LXX, na Vulgata e em algumas versões modernas cristãs, Job aparece colocado depois dos livros históricos, entre os livros de poesia. Curiosamente, na versão siríaca e numa lista do Talmude vem depois do Pentateuco e antes de Josué, revelando a importância que lhe era atribuída."
+        ]
+      },
+      {
+        "title": "Data e autoria",
+        "paragraphs": [
+          "O livro de Job não contém qualquer declaração relativa à sua data ou autoria. O Talmude refere que “Moisés escreveu o seu próprio livro e as passagens sobre Balaão e Job”. Porém, os rabinos atribuem o livro ou vida de Job a vários períodos da história de Israel, desde o tempo dos Patriarcas até ao tempo de Assuero.",
+          "Existem indícios textuais que apontam para uma data posterior a Salomão. Algumas passagens (9:24; 12:6, 13-25; 24:12) parecem refletir uma calamidade nacional, como a queda da Samaria em 721 ou a de Jerusalém em 586 a.C. Existe também uma semelhança entre Job 3 e Jr 20:14-18. Embora não se possa provar, há alguma possibilidade de a passagem de Jeremias ser mais antiga. A linguagem forense, o interesse pelo indivíduo e a profunda preocupação com o problema do sofrimento dos justos podem sugerir um tempo próximo da queda de Jerusalém. O livro de Job, tal como uma catedral medieval, foi construído por etapas. Embora seja provável que o material do livro de Job tenha passado por várias mãos, é possível falar de um redator que deu ao livro a sua forma final. Alguém que pode ter vivido provavelmente entre o séc. VI e o séc. IV a.C."
+        ]
+      },
+      {
+        "title": "Texto e versões",
+        "paragraphs": [
+          "Existe um grande consenso em que o livro de Job seja um dos livros mais difíceis de traduzir do Antigo Testamento. A sua linguagem é difícil de descodificar e desconhecida em outros livros bíblicos. Contém um número significativo de palavras que ocorrem apenas uma vez na Bíblia e de palavras raras, mais do que em qualquer outro livro da Bíblia. Embora as descobertas de Ugarit, na costa mediterrânica da Síria, tenham ajudado consideravelmente a compreender o vocabulário e o estilo de Job, persistem ainda muitas dificuldades textuais e exegéticas, que se tornam evidentes desde as mais antigas traduções como a dos LXX e se mantêm nas traduções atuais.",
+          "Aceita-se que o texto hebraico de Job tenha sofrido inúmeras alterações no processo da sua transmissão. Existe um eco deste processo no Talmude, onde se enumeram dezoito casos no Antigo Testamento em que os rabinos alteraram deliberadamente a leitura original para mostrar o respeito pela divindade. No livro de Job temos dois exemplos de tais mudanças, um em 7,20, onde “um fardo para ti” (Deus) foi alterado pelos rabinos para “um fardo para mim mesmo”, e em 30,3, onde a expressão “condenaram a Deus” foi alterada para “condenaram a Job.” Algumas das dificuldades textuais mais difíceis encontram-se nos capítulos 24-27. Nestes capítulos não é claro quem está a falar. Job parece estar a dizer as mesmas coisas que os seus amigos disseram anteriormente, contradizendo assim tudo o que ele tinha dito. Numa tentativa de resolver esta dificuldades, tentou-se uma reorganização destes capítulos e versículos.",
+          "Apesar de todas estas dificuldades, o texto hebraico continua a ser a fonte primária para o estudo do texto de Job. O texto de Job mais antigo, o da versão dos LXX, é cerca de quatrocentas linhas mais curto do que o hebraico; e em alguns lugares, o texto dos LXX parece ser apenas uma paráfrase do texto hebraico. Nenhuma das restantes versões gregas do livro de Job (Áquila, Símaco e Teodocião) é anterior ao séc. I d.C. e existem apenas escassos fragmentos destas versões. A versão siríaca mais antiga deste livro, a Peshita, data provavelmente do séc. II d.C. e é uma tradução literal do hebraico. A antiga versão latina foi realizada a partir do texto da versão LXX antes de este ser revisto. No séc. IV d.C., S. Jerónimo realizou uma nova tradução latina de todo o AT que ficou conhecida como Vulgata. Referindo-se ao livro de Job, considerou-o “escorregadio como uma enguia”. No entanto, devemos-lhe uma tradução que procura manter-se fiel ao texto hebraico e superar dificuldades textuais."
+        ]
+      },
+      {
+        "title": "Tradições e características",
+        "paragraphs": [
+          "O livro de Job terá exercido grande fascínio desde os tempos mais antigos. Algumas das suas tradições mais significativas foram preservadas no Talmude e num livro apócrifo grego, Testamento de Job. No Talmude, Job é mencionado várias vezes como um israelita que entrou no Egito com os israelitas e morreu quando eles partiram. O Testamento de Job vem possivelmente da era pré-cristã, uma vez que tem seme-",
+          "lhanças verbais com o livro de Job dos LXX. Este texto resume a história de Job a um discurso de despedida dirigido aos seus filhos."
+        ]
+      },
+      {
+        "title": "Estrutura e conteúdo",
+        "paragraphs": [
+          "O livro de Job é composto por um longo diálogo poético (3,1 – 42,6), precedido e seguido de uma breve narrativa em prosa, centrada numa descrição da identidade do protagonista e da maneira como foi colocado à prova e finalmente recompensado pela sua justiça (1,1-2,13; 42,7-17). A narrativa espelha as circunstâncias dolorosas de um ser humano profundamente religioso, justo e bom, que, depois de ter sido privado de todos os seus bens, filhos e saúde, viu premiada a firmeza da sua fé. No interior desta narrativa, autores sucessivos inseriram uma longa série de diálogos e reflexões sobre uma das questões mais incisivas: a da justiça divina perante o sofrimento do justo e inocente. A estrutura do livro pode representar-se do seguinte modo:",
+          "Prólogo (1,1-2,13)",
+          "Diálogo entre Job e os seus três amigos: Elifaz, Bildad e Sofar (3,1-31,40)",
+          "Discursos de Eliú (32,1-37,24)",
+          "A grande teofania (38,1-42,6)",
+          "Epílogo (42,7-17)",
+          "Pode observar-se alguma semelhança de estilo e forma entre o livro de Job e alguma literatura egípcia e mesopotâmica antiga. O paralelo mais conhecido de Job no antigo Próximo Oriente foi chamado “O Job da Babilónia” (Ludlul bel nemeqi – Louvarei o senhor da sabedoria). Data provavelmente do período entre 1600- 1150 a.C. e pode ser classificado como um hino de ação de graças pela libertação da angústia. Embora existam semelhanças entre o livro de Job e estes documentos literários antigos, também existem diferenças acentuadas entre eles. Não é possível classificar o livro de Job como epopeia, drama, lamento de culto, cena de tribunal ou qualquer outro género literário. Ao interpretar o livro deve-se prestar atenção à forma literária de cada secção, pois ele contém narrativas, lamentos, hinos, juramentos de inocência e ditos de sabedoria.",
+          "O atual livro de Job espelha a experiência do ser humano de todos os tempos: a de um incompreensível silêncio de Deus perante o sofrimento que atinge um inocente, um ser humano bom e íntegro. Esta experiência é revista à luz dos parâmetros da tradição bíblica da retribuição do comportamento humano, onde o sofrimento era considerado como uma punição do pecado. Esta conceção é partilhada pelos três amigos de Job, que dominam o drama no interior do livro (3-31). Os seus múltiplos argumentos em defesa de uma justiça intocável de Deus e a sua alegação intransigente de que o sofrimento do ser humano é sempre consequência de uma culpa é amplamente contestada por Job. No entanto, situando-se no mesmo horizonte de retribuição divina, Job é, também ele, incapaz de compreender o sofrimento do inocente. Insurge-se com palavras veementes que emergem do coração da sua",
+          "condição humana sofredora, dirigindo a Deus um grito lacerante, pedindo uma palavra que explique o agir de Deus, uma compreensão que o ajude a entender o seu sofrimento e um defensor que medeie a sua causa junto de Deus. Todos, Job e os amigos, se posicionam tendo Deus como horizonte, porém sob ângulos diversos: os amigos são pela defesa teórica da justiça divina, Job é pelo questionamento árduo e veemente do sofredor. Os diálogos, ou sequência de monólogos justapostos, entre Job e os amigos terminam sem uma resposta.",
+          "O impasse é assinalado nos capítulos seguintes (32-37) pela palavra de um jovem sábio, que se propõe oferecer sabedoria e compreensão. As suas palavras dispõem, essencialmente, uma avaliação da linguagem e dos argumentos colocados por Job e pelos amigos, preparando o encontro e o questionamento que se irá estabelecer entre Deus e Job (38,1-42,6). Deus irrompe na narrativa, não para responder diretamente às muitas perguntas de Job, mas para colocar diante dele o mistério insondável do seu poder criador. Job é chamado a compreender a diferença inequívoca entre ele e Deus; entre o conhecimento de Deus e o conhecimento do ser humano. Esta é na verdade a prova a que Job foi submetido: a gratuidade da fé que se sabe situar perante a diferença de Deus, que no seu agir será sempre mistério."
+        ]
+      },
+      {
+        "title": "Perspetivas teológicas",
+        "paragraphs": [
+          "O livro de Job caracteriza-se por diversos traços teológicos. A narrativa abre expondo a reação paciente de Job perante uma série de provações, a que é sujeito em virtude de um desafio proposto a Deus por Satan. A questão decisiva é a da gratuidade da relação do ser humano com Deus (1–2). Esta reação paciente revela um autêntico compromisso de Job com a sua existência de crente. Porém, este compromisso assume diferentes contornos no decorrer da narrativa. Um exemplo significativo emerge na passagem abrupta de um Job paciente, que se limita a umas escassas afirmações de fé e de absoluta confiança em Deus, para um Job inconformado, que derrama diante dos seus amigos a sua amarga aflição (3–31).",
+          "O autor bíblico mostra conhecer profundamente, por um lado, a capacidade intrínseca a todo o ser humano para a absoluta fidelidade a Deus, mas também a reação perante a dor, a procura e a solidão que esta fidelidade por vezes exige. A provação a que está submetido leva Job a desejear a supressão do dia do seu nascimento, a sua não existência. Por outras palavras, provoca nele um sofrimento de tal modo aterrador nas suas implicações que o leva a questionar a ordem que Deus estabeleceu na criação (3,4-5). No contexto deste doloroso lamento pessoal, o autor coloca na boca de Job a questão do sofrimento do ser humano em geral (3,20-21.23). A pertinência desta sequência, “o meu sofrimento” e “o sofrimento de todos”, é certamente significativa e reveladora de uma reflexão sobre a condição humana.",
+          "O autor bíblico refere alguns acontecimentos dolorosos que marcaram a vida de Job (1-2; 7,5 perda dos bens e dos filhos), mas mostra que não são esses acontecimentos a causa mais profunda da angústia de Job. Não é o sofrimento em si mesmo",
+          "que fere Job, mas aquilo que esse sofrimento implica: a falta de sentido que a sua experiência lhe revela. Job tinha construído a sua vida numa fé implícita de que o universo era regido por uma ordem interna coerente garantida por Deus. Uma ordem e um sentido que o mundo hebraico conhecia e segundo a qual organizava toda a sua vida. Uma ordem onde era normal esperar algo de bom, principalmente quando se comportava bem. E Job era um homem bom (1,1-3). A provação a que a sua existência está submetida mostra-lhe apenas o lado de um sofrimento imerecido e inexplicável. Por isso, Job pergunta-se e perturba-se, mergulhando numa espécie de desespero, onde a vida humana parece reduzir-se a uma questão de boa ou má sorte. Job parece mesmo aproximar-se do abismo ao considerar esta condição como a verdade da existência humana. Será preciso ler atentamente as suas palavras e as palavras pronunciadas pelos amigos (3-31), por um jovem sábio (32-37), pela contemplação da sabedoria (28) e finalmente pelo discurso do próprio Deus (38,1-42,6), para compreender a direção que a resposta à questão da relação entre Deus e o ser humano tomou naquela altura.",
+          "É precisamente nesta procura que o livro de Job e o próprio Job se tornam paradigma para os homens de todos os tempos. Deixando esta procura bem expressa na dinâmica de uma narrativa que se concretiza num encadeado de perguntas, o livro sublinha o grande desafio da procura de Deus que, mesmo percorrendo caminhos tortuosos e insondáveis, tem possibilidade de desembocar num sentido de profunda esperança."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,7 +72,21 @@
         {
           "verse": 1,
           "text": "Havia um homem na terra de Uce; o seu nome era Job. Este homem era íntegro e reto, temia a Deus e evitava o mal.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Uce é uma região no sul de Edom, a norte da península arábica, tradicionalmente conotada com sabedoria (cf. Gn 36,28; Lm 4,21)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-1-n1",
+              "offset": 30,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
         },
         {
           "verse": 2,
@@ -17,7 +96,21 @@
         {
           "verse": 3,
           "text": "O seu gado contava sete mil ovelhas, três mil camelos, quinhentas juntas de bois e quinhentas jumentas. E o número dos seus servos era muito grande. Este homem era o maior de todos os filhos do Oriente.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Esta expressão, aqui, parece referir-se sobretudo aos habitantes de Edom e da Arábia do norte (cf. Nm 24,21)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-1-n2",
+              "offset": 201,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 4,
@@ -27,12 +120,58 @@
         {
           "verse": 5,
           "text": "Passados os dias do banquete, Job fazia com que eles fossem purificados. Levantava-se de manhã cedo e oferecia holocaustos segundo o número de todos eles; porque, dizia Job: «Talvez os meus filhos tenham pecado e deixado de bendizer Deus nos seus corações». Job fazia isto todos os dias.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Lit.: santificados. A expressão purificados sugere que foram feitos determinados rituais com a intenção de expiar eventuais contaminações (cf. Lv 11,1).",
+            "4": "O autor utiliza o verbo hebraico barak, abençoar (1,5; 11; 2,5; 9). A tradução habitual de amaldiçoar Deus parece filologicamente estranha, tendo em conta o significado da raiz verbal. Trata-se provavelmente de um verbo na conjugação piel privativo, significando deixar de bendizer."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-1-n3",
+              "offset": 71,
+              "original_marker": "c",
+              "source_id": 3
+            },
+            {
+              "ref": "4",
+              "id": "job-1-n4",
+              "offset": 232,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Chegou o dia em que os filhos de Deus se apresentavam diante do Senhor e veio também Satan entre eles.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Filhos de Deus parece ser uma reminiscência mitológica de uma espécie de semideuses pertencentes ao conselho do deus supremo. Nas culturas semíticas, o conjunto dos deuses funcionava como uma grande assembleia sob a presidência do deus supremo. Quando se redigiu esta parte do livro de Job, tal compreensão não é já muito explícita na fé israelita.",
+            "6": "O termo Satan é uma transcrição do hebraico satan, cuja tradução seria opositor ou acusador (2Sm 19,23; 1Rs 5,18; 11,14.23.25; Sl 109,6). Trata-se de uma figura que na evolução do pensamento hebraico viria a ser representada como adversário de Deus, personificação literária do mal e de poderes opostos a Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "job-1-n5",
+              "offset": 37,
+              "original_marker": "e",
+              "source_id": 5
+            },
+            {
+              "ref": "6",
+              "id": "job-1-n6",
+              "offset": 90,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 7,
@@ -77,7 +216,21 @@
         {
           "verse": 15,
           "text": "quando caiu sobre eles a gente de Cheba: agarraram-nos, passaram os servos a fio de espada e apenas eu escapei para te informar».",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Este termo pode designar alguma tribo nómada que outros traduzem por sabeus; mas estes são sobretudo conotados com populações do sul da península arábica."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "job-1-n7",
+              "offset": 39,
+              "original_marker": "g",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 16,
@@ -87,7 +240,21 @@
         {
           "verse": 17,
           "text": "Ainda este estava a falar, quando outro chegou, dizendo: «Os caldeus formaram três frentes, lançaram-se sobre os camelos e tomaram-nos, e aos servos passaram a fio de espada; apenas eu escapei para te informar.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Podendo eventualmente tratar-se de mais um grupo nómada, o nome de caldeus tem conotações com as populações aramaicas da Síria e da Mesopotâmia."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "job-1-n8",
+              "offset": 68,
+              "original_marker": "h",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 18,
@@ -102,7 +269,21 @@
         {
           "verse": 20,
           "text": "Então Job levantou-se, rasgou o seu manto, rapou a sua cabeça, caiu por terra em adoração",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Rasgou o seu manto e rapou a sua cabeça. Estes são gestos frequentes em situações de luto; indicam a intensidade do sofrimento e aparecem com frequência na narrativa bíblica (Gn 37,34; Js 7,6; 2Sm 1,11; 3,31; Jr 7,29; 48,37; Ez 7,16)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "job-1-n9",
+              "offset": 61,
+              "original_marker": "i",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 21,
@@ -112,6 +293,13 @@
         {
           "verse": 22,
           "text": "Em tudo isto Job não pecou, não proferiu contra Deus nenhuma insensatez.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Felicidade e retidão de Job",
           "note_refs": []
         }
       ]
@@ -131,7 +319,7 @@
         },
         {
           "verse": 3,
-          "text": "O Senhor disse a Satan: «Prestaste atenção ao meu servo Job? Porque não há ninguém na terra como ele, homem ínte - gro e reto; é temente a Deus e evita o mal; ele mantém-se apegado à sua integridade, apesar de me teres incitado contra ele, para o aniquilar sem razão».",
+          "text": "O Senhor disse a Satan: «Prestaste atenção ao meu servo Job? Porque não há ninguém na terra como ele, homem íntegro e reto; é temente a Deus e evita o mal; ele mantém-se apegado à sua integridade, apesar de me teres incitado contra ele, para o aniquilar sem razão».",
           "note_refs": []
         },
         {
@@ -152,7 +340,21 @@
         {
           "verse": 7,
           "text": "Então, Satan saiu da presença do Senhor e feriu Job com úlceras malignas, desde a planta dos seus pés até ao alto da sua cabeça.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A expressão úlceras malignas sugere um tipo de inflamação da pele a que se alude na sexta praga do Egito (cf. Ex 9,9-11)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-2-n1",
+              "offset": 72,
+              "original_marker": "j",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 8,
@@ -177,11 +379,37 @@
         {
           "verse": 12,
           "text": "Ao levantarem os seus olhos de longe, não o reconheceram; levantaram a sua voz e choraram; rasgaram cada um o seu manto e espalharam cinza sobre as suas cabeças em direção aos céus.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Estes gestos evocam ritos de penitência ou de luto (cf. Ex 9,8.10; Js 7,6; 2Sm 13,19; Ez 27,30)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-2-n2",
+              "offset": 180,
+              "original_marker": "a",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 13,
           "text": "Sentaram-se com ele por terra, sete dias e sete noites, mas ninguém lhe dirigia palavra, pois viram que a dor era muito grande.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Segunda assembleia no céu",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Os três amigos de Job",
           "note_refs": []
         }
       ]
@@ -202,7 +430,21 @@
         {
           "verse": 3,
           "text": "«Desapareça o dia em que nasci e a noite que disse: ‘Foi concebido um homem!’",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A palavra hebraica geber traduzida por homem, indica que o anúncio do nascimento se referia a uma criança do sexo masculino."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-3-n1",
+              "offset": 75,
+              "original_marker": "b",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 4,
@@ -212,7 +454,21 @@
         {
           "verse": 5,
           "text": "Que a treva e a escuridão se apoderem dele; que uma nuvem se instale sobre ele; e os eclipses do dia o aterrorizem!",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A tradução dos LXX e a vocalização massorética desdobram em duas a palavra hebraica traduzida por trevas, traduzindo-as como sombra da morte. A associação desta expressão com a ideia de escuridão é muito comum no livro de Job (16,16; 28,3), aparecendo também relacionada com o Cheol, o mundo dos mortos (10,21; 38,17)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-3-n2",
+              "offset": 25,
+              "original_marker": "c",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 6,
@@ -227,7 +483,30 @@
         {
           "verse": 8,
           "text": "Que a desfaçam os que amaldiçoam o dia, os que estão prontos a despertar Leviatan.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "O TM usa o verbo hebraico ’arar (amaldiçoar), permitindo entender a expressão os que amaldiçoam o dia como aqueles que são inimigos da luz e agem no escuro e no escondido (cf. Jb 24,13; 38,15). Significa também aqueles que, como Job, maldizem o dia do seu nascimento, ou mesmo aqueles que pelas suas imprecações se julgavam capazes de mudar os dias fastos em dias nefastos, atrair eclipses ou forças malignas que engolissem o sol momentaneamente.",
+            "4": "Ou: os que amaldiçoam o mar. As consoantes do hebraico permitem as duas leituras. Realmente, no verso seguinte, o paralelo oferecido pelo Leviatan, monstro marinho, sugere a ideia de mar também no primeiro verso."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-3-n3",
+              "offset": 32,
+              "original_marker": "d",
+              "source_id": 14
+            },
+            {
+              "ref": "4",
+              "id": "job-3-n4",
+              "offset": 38,
+              "original_marker": "e",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 9,
@@ -257,12 +536,40 @@
         {
           "verse": 14,
           "text": "estaria com reis e conselheiros da terra, que para si construíram ruínas;",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Muitos consideram a expressão construíram ruínas como problemática. Alguns veem nela uma alusão à restauração de cidades antigas (cf. Is 58,12) ou mausoléus; outros pensam que o autor usa esta expressão para se referir ao destino final da construção, mais do que à construção em si mesma."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "job-3-n5",
+              "offset": 72,
+              "original_marker": "f",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "ou com os príncipes que possuem ouro, que enchem as suas casas de prata,",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Embora a tradução literal seja as suas casas, neste contexto devem entender-se os lugares de sepulcro, os túmulos (Sl 49,12); as casas de eternidade (Co 12,5)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "job-3-n6",
+              "offset": 71,
+              "original_marker": "g",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 16,
@@ -317,6 +624,18 @@
         {
           "verse": 26,
           "text": "Não tenho tranquilidade nem sossego: não tenho repouso, só vem perturbação».",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Job amaldiçoa o dia do seu nascimento",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Lamento",
           "note_refs": []
         }
       ]
@@ -387,7 +706,21 @@
         {
           "verse": 13,
           "text": "Entre pensamentos e visões noturnas, quando cai sobre os homens o sono profundo,",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Existe uma ideia de que a expressão sono profundo se refere ao sono normal (Jn 1,5) e não a um outro estado de consciência. O paralelo com Abraão, que recebe a mensagem de Deus durante um sono profundo (Gn 15,12), pode ser igualmente sugestivo."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-4-n1",
+              "offset": 79,
+              "original_marker": "a",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 14,
@@ -402,12 +735,40 @@
         {
           "verse": 16,
           "text": "Ele parou. Porém não conheci a sua aparência; um vulto estava diante dos meus olhos; suavemente ouvi uma voz que dizia:",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Elifaz parece falar de uma espécie de revelação."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-4-n2",
+              "offset": 83,
+              "original_marker": "b",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Pode um humano ser justo diante de Deus e um homem ser puro diante do seu criador?",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Apesar de outros optarem pela tradução da preposição min como mais do que Deus, esta ideia parece ser precoce nesta fase de argumentação de Elifaz. Daí a tradução diante de Deus (Nm 32,22; Jr 51,5). Job criticará mais tarde esta argumentação: uma vez que Deus não pode considerar os seres humanos nem justos nem puros, porque é que lhes pede contas das suas faltas?"
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-4-n3",
+              "offset": 39,
+              "original_marker": "c",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 18,
@@ -427,6 +788,32 @@
         {
           "verse": 21,
           "text": "A corda da sua tenda é-lhes arrancada; eles morrem e sem sabedoria.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Uma vez que o contexto imediato insiste na fragilidade do ser humano e na brevidade da sua existência, a sabedoria a que se alude contrasta com a incapacidade de o ser humano conhecer o tempo ou realizar algo contra a morte."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-4-n4",
+              "offset": 66,
+              "original_marker": "d",
+              "source_id": 21
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Conselho de Elifaz",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "O ensino revelado a Elifaz",
           "note_refs": []
         }
       ]
@@ -437,7 +824,21 @@
         {
           "verse": 1,
           "text": "Chama, por favor! Haverá alguém que te responda? Para qual dos santos te voltarás?",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O termo santo pode constituir aqui apenas um eco de uma religiosidade antiga. Neste sentido, o ‘santo’ pode ser considerado uma simples alusão a um deus menor, protetor de um indivíduo ou da sua família."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-5-n1",
+              "offset": 82,
+              "original_marker": "e",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 2,
@@ -447,12 +848,40 @@
         {
           "verse": 3,
           "text": "Vi o louco lançar raízes, mas de imediato amaldiçoei a sua habitação.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Neste contexto, parece pouco provável que Elifaz amaldiçoe a casa do louco. A tradução dos LXX sugere tratar-se de uma forma passiva foi amaldiçoada. Porém, neste contexto, uma vez que Elifaz está a falar da sua experiência pessoal, é preferível reter a forma declarativa tal como aparece no texto massoorético."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-5-n2",
+              "offset": 68,
+              "original_marker": "f",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "Os seus filhos estão longe de estar seguros, oprimidos às portas, sem defensor.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Isto é, às portas da cidade, o lugar onde era administrada a justiça e se reuniam as assembleias dos anciãos com o povo."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-5-n3",
+              "offset": 64,
+              "original_marker": "g",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 5,
@@ -467,7 +896,21 @@
         {
           "verse": 7,
           "text": "É que o homem nasceu para a tribulação como labaredas de fogo a voar.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Ou: Pois é o homem que gera a tribulação. É uma imagem da fragilidade da vida do ser humano, objeto de desgraça e sofrimento."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-5-n4",
+              "offset": 68,
+              "original_marker": "h",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 8,
@@ -569,6 +1012,23 @@
           "text": "Sim! Foi isto o que investigámos e assim é; ouve-o e fica a sabê-lo por ti mesmo».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "O ensino verificado por Elifaz",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "Afirmação de esperança de Elifaz",
+          "note_refs": []
+        },
+        {
+          "before_verse": 17,
+          "text": "Garantia de renovação",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -597,7 +1057,21 @@
         {
           "verse": 5,
           "text": "Porventura o jumento montês zurra junto à relva ou mugirá o boi junto do seu pasto?",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Esta metáfora significa que, se Job não se visse privado da sua justiça, não teria motivos para protestar."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-6-n1",
+              "offset": 82,
+              "original_marker": "a",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 6,
@@ -667,7 +1141,21 @@
         {
           "verse": 19,
           "text": "As caravanas de Temá espreitam; os caminhantes de Sabá esperam por eles.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Temá é um oásis situado no norte da península da Arábia (Gn 25,15; Is 21,14;Jr 25,23; 1Cr 1,30). Sabá é uma região provavelmente na Arábia também onde viviam outras tribos nómadas, referidas já em 1,15."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-6-n2",
+              "offset": 72,
+              "original_marker": "a",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 20,
@@ -722,6 +1210,33 @@
         {
           "verse": 30,
           "text": "Há porventura iniquidade na minha língua? O meu paladar não distingue o que não presta?»",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Esclarecimento de Job",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "Esclarecimento da sua esperança pessoal",
+          "note_refs": []
+        },
+        {
+          "before_verse": 14,
+          "text": "Representação dos falsos amigos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 22,
+          "text": "Interrogação aos falsos amigos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 28,
+          "text": "Apelo aos amigos",
           "note_refs": []
         }
       ]
@@ -782,7 +1297,21 @@
         {
           "verse": 11,
           "text": "Também eu não reprimirei a minha boca; falarei na angústia do meu espírito; queixar-me-ei na amargura da minha alma.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Perante a perspetiva de que o abismo é um lugar para onde vão os mortos, terminando toda a esperança do ser humano, Job decide-se a falar até que o seu caso seja escutado por alguém."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-7-n1",
+              "offset": 115,
+              "original_marker": "b",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 12,
@@ -812,7 +1341,21 @@
         {
           "verse": 17,
           "text": "Que é o homem, para que tanto o engrandeças e ponhas nele a tua atenção,",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Job parece estar a levantar uma questão com referência ao conteúdo do Sl 8."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-7-n2",
+              "offset": 71,
+              "original_marker": "a",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 18,
@@ -832,6 +1375,37 @@
         {
           "verse": 21,
           "text": "E por que não perdoas a minha transgressão e não retiras a minha iniquidade? Pois agora eu estaria deitado no pó; Tu buscar-me-ias, mas eu não existiria».",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "As palavras de Job sugerem uma aceitação de culpa. Porém, trata-se, sobretudo, das exigências que o autor impõe a si mesmo, ao utilizar as formas literárias da lamentação."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-7-n3",
+              "offset": 75,
+              "original_marker": "b",
+              "source_id": 30
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A existência humana é servidão",
+          "note_refs": []
+        },
+        {
+          "before_verse": 9,
+          "text": "A vida humana é futilidade",
+          "note_refs": []
+        },
+        {
+          "before_verse": 17,
+          "text": "Os seres humanos são humilhados",
           "note_refs": []
         }
       ]
@@ -847,7 +1421,21 @@
         {
           "verse": 2,
           "text": "«Até quando falarás de tais coisas? Serão as palavras da tua boca um vento impetuoso?",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Bildad defende duas ideias principais: a de que Deus castiga toda a injustiça humana e a de que a solução para ela é o arrependimento."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-8-n1",
+              "offset": 34,
+              "original_marker": "c",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 3,
@@ -872,7 +1460,21 @@
         {
           "verse": 7,
           "text": "O teu passado pode ter sido pequeno, mas o teu futuro será muito grande.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O epílogo ao livro de Job considera que este esplêndido futuro poderá ter sido atingido no final do livro, sinal de que o seu comportamento era correto."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-8-n2",
+              "offset": 71,
+              "original_marker": "d",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 8,
@@ -949,6 +1551,13 @@
           "text": "Os que te odeiam cobrir-se-ão de confusão e a tenda dos malfeitores deixa de existir».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Deus não perverte a justiça",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -982,7 +1591,21 @@
         {
           "verse": 6,
           "text": "sacode a terra do seu lugar e as suas colunas estremecem;",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Subentende-se aqui a ideia de que a terra repousa sobre colunas que Deus faz estremecer, ocasionando os terramotos (38,6; Sl 75,4; 104,5; 1Sm 2,8)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-9-n1",
+              "offset": 56,
+              "original_marker": "e",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 7,
@@ -1007,7 +1630,21 @@
         {
           "verse": 11,
           "text": "Eis que Ele passa diante de mim e não o vejo; volta a passar e não me apercebo dele.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Estas expressões recordam as palavras de Elifaz, em 4,15. Job parece desejar estabelecer um diálogo."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-9-n2",
+              "offset": 83,
+              "original_marker": "a",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 12,
@@ -1017,7 +1654,21 @@
         {
           "verse": 13,
           "text": "Deus não renuncia à sua ira; a Ele se submetem os aliados de Raab.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Alguns autores consideram que o termo Raab é um equivalente de Leviatan, monstro marinho que é muitas vezes associado ao mar Vermelho (Is 30,7; Sl 87,4)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-9-n3",
+              "offset": 65,
+              "original_marker": "b",
+              "source_id": 35
+            }
+          ]
         },
         {
           "verse": 14,
@@ -1027,7 +1678,21 @@
         {
           "verse": 15,
           "text": "Pois, ainda que a minha causa fosse justa, Ele não responderia; antes ao meu juiz pediria misericórdia.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Ou:...para a minha causa pediria misericórdia."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-9-n4",
+              "offset": 81,
+              "original_marker": "c",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 16,
@@ -1037,7 +1702,21 @@
         {
           "verse": 17,
           "text": "Ele esmaga-me com uma tempestade e multiplica as minhas chagas sem motivo.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Ou:...por um cabelo, segundo o Targum e a versão siríaca."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "job-9-n5",
+              "offset": 32,
+              "original_marker": "d",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 18,
@@ -1072,7 +1751,21 @@
         {
           "verse": 24,
           "text": "A terra é entregue nas mãos do malvado; Ele cobre o rosto dos seus juízes. Se não é assim, então quem o faz?",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "As convicções de Job sobre a providência divina levam-nos a afirmar a responsabilidade de Deus por esses acontecimentos escandalosos."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "job-9-n6",
+              "offset": 107,
+              "original_marker": "e",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 25,
@@ -1127,6 +1820,42 @@
         {
           "verse": 35,
           "text": "Então falaria e não teria medo dele. Mas não é assim. Eu estou só comigo.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "O texto alude ao desejo que Job tem de levar Deus a um julgamento, aqui sugerido como uma mera possibilidade. Mas este desejo ir-se-á tornando mais urgente ao longo do diálogo."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "job-9-n7",
+              "offset": 72,
+              "original_marker": "f",
+              "source_id": 39
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Superficialidade da disputa",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "Deus visto como adversário de Job",
+          "note_refs": []
+        },
+        {
+          "before_verse": 14,
+          "text": "Dificuldade de contestação",
+          "note_refs": []
+        },
+        {
+          "before_verse": 25,
+          "text": "Alternativas",
           "note_refs": []
         }
       ]
@@ -1167,12 +1896,40 @@
         {
           "verse": 7,
           "text": "Sabes bem que não sou culpado, mas não há ninguém que livre da tua mão.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Job ironiza com a diferença entre Deus e o ser humano, um Deus que ele acredita conhecer o íntimo dos corações e não precisar de o investigar para comprovar a sua inocência. Compara a atitude de Deus com a de um simples humano que culpa um adversário inocente, inventando pretextos para o condenar."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-10-n1",
+              "offset": 70,
+              "original_marker": "a",
+              "source_id": 40
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Foram as tuas mãos que me configuraram e me formaram e agora queres aniquilar-me?",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A tradução grega dos LXX entende:... e depois voltas-te para mim."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-10-n2",
+              "offset": 80,
+              "original_marker": "b",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 9,
@@ -1182,7 +1939,21 @@
         {
           "verse": 10,
           "text": "Porventura não me derramaste como leite e não me coalhaste como queijo?",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A metáfora utilizada enraíza-se numa crença antiga de que o feto se formava a partir da coagulação do sangue materno."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-10-n3",
+              "offset": 70,
+              "original_marker": "c",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 11,
@@ -1197,7 +1968,21 @@
         {
           "verse": 13,
           "text": "Porém, ocultaste estas coisas no teu coração; bem sei que isto estava na tua mente.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: ‘...estava contigo’. Job sente-se dependente de uma vontade misteriosa que o deixa na incerteza sobre si mesmo e sobre Deus; isto coloca a sua fé à prova e recusa-lhe as garantias, nas quais desejaria apoiar-se. Sob uma forma negativa, Job evoca o próprio drama da fé."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-10-n4",
+              "offset": 82,
+              "original_marker": "d",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 14,
@@ -1244,6 +2029,23 @@
           "text": "É uma terra tenebrosa e obscura, de escuridão e desordem, onde a luz é obscuridade».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Argumentação contra Deus",
+          "note_refs": []
+        },
+        {
+          "before_verse": 8,
+          "text": "Acusações contra Deus",
+          "note_refs": []
+        },
+        {
+          "before_verse": 18,
+          "text": "Últimas queixas e súplicas",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -1252,7 +2054,21 @@
         {
           "verse": 1,
           "text": "Então respondeu Sofar de Naamá e disse:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Sofar centra-se em duas ideias fundamentais: a perfeição da sabedoria divina e a necessidade da conversão por parte de Job."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-11-n1",
+              "offset": 38,
+              "original_marker": "e",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1272,12 +2088,40 @@
         {
           "verse": 5,
           "text": "Mas quem dera que Deus falasse e abrisse a sua boca contra ti",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Estas palavras realizar-se-ão nos cc. 38-41, onde Deus intervém não para condenar Job, mas para o chamar a uma compreensão mais profunda através dos segredos da sua sabedoria e das sua obras."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-11-n2",
+              "offset": 61,
+              "original_marker": "f",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "e te fizesse saber os segredos da sabedoria, pois são ambíguos para o entendimento! Mas fica a saber que Deus ainda esquece parte da tua iniquidade.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O termo hebraico significa duplo (cf. Is 40,2) e sugere que a sabedoria tem uma parte descoberta e outra escondida, mas ambas são conhecidas por Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-11-n3",
+              "offset": 62,
+              "original_marker": "g",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 7,
@@ -1307,7 +2151,21 @@
         {
           "verse": 12,
           "text": "Mas o homem vazio adquirirá o entendimento, quando um burro selvagem nascer domesticado.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O texto hebraico não é claro. No entanto, o provérbio parece sublinhar a impossibilidade de um insensato pode chegar um dia a tornar-se sábio."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-11-n4",
+              "offset": 87,
+              "original_marker": "a",
+              "source_id": 47
+            }
+          ]
         },
         {
           "verse": 13,
@@ -1349,6 +2207,18 @@
           "text": "Mas os olhos dos malfeitores consumir-se-ão, o seu refúgio desaparecerá e a esperança que lhes resta é o último suspiro».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Crítica de Sofar às palavras de Job",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "Garantia incondicional",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -1362,12 +2232,40 @@
         {
           "verse": 2,
           "text": "«Na verdade, vós sois gente importante e convosco morrerá a sabedoria.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.:... povo, termo que aqui aparece utilizado de modo irónico, para indicar a gente importante e não a gente comum."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-12-n1",
+              "offset": 38,
+              "original_marker": "b",
+              "source_id": 48
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Também eu, como vós, tenho entendimento e não vos sou inferior. E quem ignora coisas como essas?",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: … tenho coração."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-12-n2",
+              "offset": 39,
+              "original_marker": "c",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 4,
@@ -1442,7 +2340,21 @@
         {
           "verse": 18,
           "text": "Ele desata o cinturão dos reis e ata-lhes uma corda à cintura.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "As metáforas do cinturão e da corda parecem indicar que Deus tira aos reis as insígnias da sua dignidade, reduzindo-os a simples seres humanos. O Targum e a Vulgata usam o termo disciplina em vez de corda."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-12-n3",
+              "offset": 61,
+              "original_marker": "d",
+              "source_id": 50
+            }
+          ]
         },
         {
           "verse": 19,
@@ -1472,11 +2384,42 @@
         {
           "verse": 24,
           "text": "Tira o discernimento aos chefes do povo e leva-os a vaguear por desertos sem caminho.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.:... povo da terra. A tradução dos lxx omite o termo terra. Tudo indica que a expressão chefes do povo da terra seria um modo convencional de indicar, em alguns contextos, o grupo dos líderes."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-12-n4",
+              "offset": 39,
+              "original_marker": "a",
+              "source_id": 51
+            }
+          ]
         },
         {
           "verse": 25,
           "text": "Eles andam às apalpadelas na escuridão e sem luz e vacilam como um bêbedo.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Apelo ao conhecimento",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "Disputa sobre o conhecimento",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "Sabedoria de Deus",
           "note_refs": []
         }
       ]
@@ -1492,7 +2435,21 @@
         {
           "verse": 2,
           "text": "Tal como vós sabeis, também eu o sei; não sou inferior a vós.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Job parece citar as palavras de Sofar, rebatendo que também ele viu tudo o que Sofar afirmara ter visto."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-13-n1",
+              "offset": 60,
+              "original_marker": "b",
+              "source_id": 52
+            }
+          ]
         },
         {
           "verse": 3,
@@ -1512,7 +2469,21 @@
         {
           "verse": 6,
           "text": "Escutai agora a minha acusação e prestai atenção aos argumentos dos meus lábios.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Job insiste numa espécie de tratamento jurídico da sua questão, interrogando Deus pessoalmente e afastando os falsos sábios que pretendem mostrar-se seus advogados."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-13-n2",
+              "offset": 79,
+              "original_marker": "c",
+              "source_id": 53
+            }
+          ]
         },
         {
           "verse": 7,
@@ -1532,7 +2503,21 @@
         {
           "verse": 10,
           "text": "Certamente Ele vos repreenderia por tomardes partido por alguém em segredo.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O uso do termo hebraico sēter, lugar escondido, secreto, neste contexto parece inapropriado, uma vez que os amigos são explícitos na defesa pública de Deus. Porém, se lermos o v. 10 em conjunto com o v. 9, a ideia de escondido ou secreto parece fazer sentido."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-13-n3",
+              "offset": 74,
+              "original_marker": "d",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 11,
@@ -1552,12 +2537,40 @@
         {
           "verse": 14,
           "text": "Segurarei a minha carne com os meus dentes e porei a minha vida na minha mão.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Estas afirmações devem ser uma espécie de provérbios e sugerem a ideia de que se arrisca a própria vida (Jz 12,3; 1Sm 19,5; 28,21)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-13-n4",
+              "offset": 76,
+              "original_marker": "e",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Ainda que Ele me mate, é em Deus que eu confio; quero defender os meus caminhos na sua frente.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Mais do que ver restaurada a sua felicidade, Job deseja afirmar a sua inocência aos olhos de Deus e dos homens."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "job-13-n5",
+              "offset": 93,
+              "original_marker": "f",
+              "source_id": 56
+            }
+          ]
         },
         {
           "verse": 16,
@@ -1582,7 +2595,21 @@
         {
           "verse": 20,
           "text": "Porém, não me recuses duas coisas e assim não me esconderei do teu rosto:",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Job refere-se à possibilidade de ter um encontro com Deus de igual para igual e de poder ser ele o primeiro a falar."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "job-13-n6",
+              "offset": 33,
+              "original_marker": "g",
+              "source_id": 57
+            }
+          ]
         },
         {
           "verse": 21,
@@ -1622,6 +2649,37 @@
         {
           "verse": 28,
           "text": "Ele é como um odre que se consome, como a roupa que a traça roeu.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Pelo conteúdo que apresenta, este versículo é considerado como devendo enquadrar-se entre os vv. 1-2 do c. 14."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "job-13-n7",
+              "offset": 64,
+              "original_marker": "a",
+              "source_id": 58
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Discurso final",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "Interrogação aos amigos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 17,
+          "text": "Acusação contra Deus",
           "note_refs": []
         }
       ]
@@ -1632,7 +2690,21 @@
         {
           "verse": 1,
           "text": "O homem, nascido de mulher, tem curtos dias de vida e vive cheio de inquietação.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Este capítulo exprime o conceito de homem, no sentido geral, de quatro maneiras: ’adam (v. 1), ’îsh (v. 12), geber (v. 14), ’enosh (v. 19). É habitual traduzir estes termos pelo plural humanos ou seres humanos. No entanto, como no texto hebraico, parece mais consentâneo manter o singular de homem para os casos referidos."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-14-n1",
+              "offset": 26,
+              "original_marker": "b",
+              "source_id": 59
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1647,7 +2719,21 @@
         {
           "verse": 4,
           "text": "Quem do impuro tirará o puro? Nem um só.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Job reconhece a fragilidade inerente a todo o ser humano, sugerindo-a como algo que se manifesta desde o momento da sua conceção (Lv 15,19). Pensa-se que Job estará a referir-se a algum tipo de pensamento tradicional, já mencionado por Elifaz em 4,17."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-14-n2",
+              "offset": 39,
+              "original_marker": "c",
+              "source_id": 60
+            }
+          ]
         },
         {
           "verse": 5,
@@ -1762,7 +2848,21 @@
         {
           "verse": 4,
           "text": "Tu, porém, tens tornado vão o temor, menosprezando a reflexão diante de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Elifaz está totalmente convencido da culpabilidade de Job. Por isso, recorre à sabedoria tradicional e ao que ela ensinava sobre o destino dos malfeitores."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-15-n1",
+              "offset": 76,
+              "original_marker": "d",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 5,
@@ -1777,7 +2877,21 @@
         {
           "verse": 7,
           "text": "És tu o primeiro homem que nasceu ou foste formado antes das colinas?",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O texto de 15,7ss ironiza com conteúdos que aparecem em Pr 8,22-31, onde se fala da sabedoria como tendo sido criada por Deus desde o princípio do mundo e como sua colaboradora na criação."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-15-n2",
+              "offset": 68,
+              "original_marker": "e",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 8,
@@ -1817,7 +2931,21 @@
         {
           "verse": 15,
           "text": "Pois Ele não confia nos seus santos e nem os céus são inocentes aos seus olhos.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Estes santos podem ser eventualmente os filhos de Deus que são mencionados em 1,6."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-15-n3",
+              "offset": 35,
+              "original_marker": "a",
+              "source_id": 63
+            }
+          ]
         },
         {
           "verse": 16,
@@ -1919,6 +3047,13 @@
           "text": "Ele concebe a malícia e dá à luz a iniquidade e o seu ventre gera o engano.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Linguagem desafiante",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -2012,12 +3147,40 @@
         {
           "verse": 18,
           "text": "Ó terra, não encubras o meu sangue e não haja lugar para o meu clamor!",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Entende-se lugar de descanso, isto é, que este clamor não seja enterrado."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-16-n1",
+              "offset": 51,
+              "original_marker": "a",
+              "source_id": 64
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "Porém, agora a minha testemunha está nos céus; e nas alturas, o meu defensor.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Job, no seu confronto com Deus, manifesta o desejo de encontrar alguém que possa dirimir o seu litígio. No entanto, é difícil saber a quem Job se refere, quando evoca esta testemunha celeste (cf. 19,25-27). A passagem de 17,3 faria pensar que o pedido de mediação se dirige ao mesmo a Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-16-n2",
+              "offset": 76,
+              "original_marker": "b",
+              "source_id": 65
+            }
+          ]
         },
         {
           "verse": 20,
@@ -2032,6 +3195,13 @@
         {
           "verse": 22,
           "text": "Porque decorrerão poucos anos e seguirei pelo caminho de onde não voltarei.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Injustiça humana e justiça divina",
           "note_refs": []
         }
       ]
@@ -2082,7 +3252,21 @@
         {
           "verse": 9,
           "text": "O justo mantém-se firme no seu caminho e o de mãos puras redobra de coragem.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Enquanto em 17,8 o íntegro parece ser aquele que se levanta contra Job, em 17,9 refere-se ao justo verdadeiro, isto é, Job."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-17-n1",
+              "offset": 75,
+              "original_marker": "c",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 10,
@@ -2192,12 +3376,40 @@
         {
           "verse": 14,
           "text": "Será arrancado da sua tenda, da sua segurança, e arrastado até ao rei dos terrores.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O primogénito da morte é o mensageiro do mundo dos mortos, cuja soberania pertence ao rei dos terrores. Esta figura nas conceções mesopotâmicas corresponde ao deus Nergal e à deusa Ereshkigal, irmã de Inanna/Ishtar, divindade que presenta o amor, a guerra e a vida."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-18-n1",
+              "offset": 82,
+              "original_marker": "a",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Eles habitarão na sua tenda, que deixou de ser dele; espalhar-se-á enxofre sobre a sua morada.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ou: na sua tenda será lançado fogo."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-18-n2",
+              "offset": 51,
+              "original_marker": "b",
+              "source_id": 68
+            }
+          ]
         },
         {
           "verse": 16,
@@ -2227,6 +3439,13 @@
         {
           "verse": 21,
           "text": "Estas são as moradas do perverso, o lugar daquele que não conhece Deus».",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Mundo dos maus",
           "note_refs": []
         }
       ]
@@ -2357,12 +3576,40 @@
         {
           "verse": 25,
           "text": "Quanto a mim, eu sei que o meu redentor vive e que por fim ele se erguerá acima do pó.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Ou: ‘e um protetor se levantará sobre o pó’."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-19-n1",
+              "offset": 85,
+              "original_marker": "a",
+              "source_id": 69
+            }
+          ]
         },
         {
           "verse": 26,
           "text": "E, depois de me terem tirado esta minha pele, a partir da minha carne eu verei Deus.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ou: mesmo sem a minha carne verei a Deus. Apesar de alguns matizes de sentido nos escaparem o conteúdo dos vv. 25-26 remete para a possibilidade de alguma condição, depois da morte, poder superar a maneira habitual de ver o mundo depois da morte com as cores tétricas do Cheol. É uma maneira de continuar a sonhar com a vida."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-19-n2",
+              "offset": 83,
+              "original_marker": "b",
+              "source_id": 70
+            }
+          ]
         },
         {
           "verse": 27,
@@ -2372,11 +3619,32 @@
         {
           "verse": 28,
           "text": "Vós dizeis: ‘como havemos de persegui-lo, pois a raiz da questão está nele’?",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: a raiz da questão está contra ele."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-19-n3",
+              "offset": 76,
+              "original_marker": "c",
+              "source_id": 71
+            }
+          ]
         },
         {
           "verse": 29,
           "text": "Temei por vós perante a espada, porque a espada é o castigo dos crimes. É para saberdes que existe um julgamento».",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Esperança de Job",
           "note_refs": []
         }
       ]
@@ -2412,12 +3680,40 @@
         {
           "verse": 6,
           "text": "Ainda que a sua altivez suba até aos céus e a sua cabeça chegue até às nuvens,",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O autor alude ao orgulho que remonta às origens da própria humanidade (cf. Gn 11,4; Is 14,13s; Ez 28,2)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-20-n1",
+              "offset": 77,
+              "original_marker": "d",
+              "source_id": 72
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "como o seu próprio esterco ele desaparecerá para sempre; e os que o viram perguntam: ‘Onde está ele?’",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ou: por causa disso desaparecerá para sempre."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-20-n2",
+              "offset": 55,
+              "original_marker": "e",
+              "source_id": 73
+            }
+          ]
         },
         {
           "verse": 8,
@@ -2467,7 +3763,21 @@
         {
           "verse": 17,
           "text": "Que ele não veja correr as torrentes ou os rios nem os ribeiros de mel e de manteiga.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Algumas traduções sugerem ‘torrentes de óleo’, lendo no texto hebraico zahar em vez de naharê, e sublinhando assim o paralelismo com a referência ao mel e à manteiga no segundo hemistíquio."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-20-n3",
+              "offset": 47,
+              "original_marker": "f",
+              "source_id": 74
+            }
+          ]
         },
         {
           "verse": 18,
@@ -2497,7 +3807,21 @@
         {
           "verse": 23,
           "text": "Mesmo estando ele a encher a barriga, Deus mandará sobre ele o ardor da sua ira e fá-la-á chover sobre ele enquanto come.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A tradução dos LXX omite o versículo 23a. O Texto Massorético prefere seguir as imagens semelhantes de uma punição coletiva de Israel e dos povos (cf. Dt 32,41; Sb 5,18-20)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-20-n4",
+              "offset": 79,
+              "original_marker": "g",
+              "source_id": 75
+            }
+          ]
         },
         {
           "verse": 24,
@@ -2522,11 +3846,32 @@
         {
           "verse": 28,
           "text": "Um dilúvio arrastará a sua casa, desaparecendo no dia da sua ira.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Ou: Desaparecerá o produto da sua casa, desvanecendo-se no dia da sua ira."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "job-20-n5",
+              "offset": 64,
+              "original_marker": "a",
+              "source_id": 76
+            }
+          ]
         },
         {
           "verse": 29,
           "text": "Esta é a sorte que Deus reserva ao malfeitor e a herança que lhe foi decretada da parte de Deus».",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Destino do malvado",
           "note_refs": []
         }
       ]
@@ -2552,12 +3897,40 @@
         {
           "verse": 4,
           "text": "Será contra um homem a minha queixa? Se não é, porque não deveria inquietar-se o meu espírito? Não tenho razão para ficar impaciente?",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O texto sublinha explicitamente a ideia presente em todo o livro de Job de que o seu problema teológico e ético tem a ver com o papel que se atribuía a Deus para garantir toda a justiça relativamente ao comportamento humano. Daí a sua inquietação em procurar aprofundar este mistério."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-21-n1",
+              "offset": 93,
+              "original_marker": "b",
+              "source_id": 77
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Olhai para mim e pasmai; colocai a mão na boca.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Este gesto expressa o espanto e o silêncio perante palavras vãs ou imprudentes."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-21-n2",
+              "offset": 46,
+              "original_marker": "c",
+              "source_id": 78
+            }
+          ]
         },
         {
           "verse": 6,
@@ -2587,7 +3960,21 @@
         {
           "verse": 11,
           "text": "Soltam as suas crianças como um rebanho e os seus filhos dançam.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Algumas traduções acrescentam...em festa, notando que parece faltar um termo de comparação; outras entendem:... como cervos (cf. Sl 114,4-6)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-21-n3",
+              "offset": 63,
+              "original_marker": "d",
+              "source_id": 79
+            }
+          ]
         },
         {
           "verse": 12,
@@ -2627,7 +4014,21 @@
         {
           "verse": 19,
           "text": "Guardará Deus a sua dureza para os filhos deste? Paga-lhe a ele mesmo para que aprenda.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O autor propõe um avanço sobre a doutrina da retribuição, passando-se da responsabilidade coletiva para a individual."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-21-n4",
+              "offset": 86,
+              "original_marker": "e",
+              "source_id": 80
+            }
+          ]
         },
         {
           "verse": 20,
@@ -2682,7 +4083,21 @@
         {
           "verse": 30,
           "text": "Pois o mau é guardado para o dia da destruição, é levado para o dia dos furores.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Generalizando a situação do mau, o texto hebraico diz são levados."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "job-21-n5",
+              "offset": 56,
+              "original_marker": "a",
+              "source_id": 81
+            }
+          ]
         },
         {
           "verse": 31,
@@ -2697,11 +4112,32 @@
         {
           "verse": 33,
           "text": "Para ele os torrões do vale são doces; e arrasta atrás de si toda a gente; e na sua frente há uma multidão incontável.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Embora com algumas dificuldades de ordem filológica, o sentido pode ser entendido como uma alusão ao cortejo fúnebre. A esta junta-se uma observação de tipo sapiencial: antes dele morreram muitos e outros tantos morreram depois dele."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "job-21-n6",
+              "offset": 117,
+              "original_marker": "b",
+              "source_id": 82
+            }
+          ]
         },
         {
           "verse": 34,
           "text": "Como podeis consolar-me com ilusões, se nas vossas respostas ainda resta engano?",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Teorias desmentidas",
           "note_refs": []
         }
       ]
@@ -2772,7 +4208,21 @@
         {
           "verse": 13,
           "text": "E tu dizes: ‘Que sabe Deus? Poderá Ele julgar através da escuridão das nuvens?",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Job parece nunca ter feito tais afirmações. Elifaz poderá estar a evocar um tema eventualmente conhecido, aplicando-o a Job com o objetivo de definir a sua impiedade."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-22-n1",
+              "offset": 77,
+              "original_marker": "c",
+              "source_id": 83
+            }
+          ]
         },
         {
           "verse": 14,
@@ -2797,7 +4247,21 @@
         {
           "verse": 18,
           "text": "Mesmo que Ele encha de bens as suas casas, fica longe de mim o conselho dos malfeitores.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ou: fica longe dele…"
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-22-n2",
+              "offset": 60,
+              "original_marker": "d",
+              "source_id": 84
+            }
+          ]
         },
         {
           "verse": 19,
@@ -2807,7 +4271,21 @@
         {
           "verse": 20,
           "text": "Realmente os nossos adversários foram destruídos e o que restou deles foi consumido pelo fogo.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Ou, segundo a tradução dos LXX: Agora sim, foram destruídos os seus bens e o que restava deles foi consumido pelo fogo."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-22-n3",
+              "offset": 48,
+              "original_marker": "e",
+              "source_id": 85
+            }
+          ]
         },
         {
           "verse": 21,
@@ -2817,7 +4295,21 @@
         {
           "verse": 22,
           "text": "Aceita a instrução da sua boca e põe as suas palavras no teu coração.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "De novo se apela à conversão como única possibilidade que resta a Job de sair da sua situação. É algo que ele não pode aceitar, porque se sabe inocente."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-22-n4",
+              "offset": 68,
+              "original_marker": "f",
+              "source_id": 86
+            }
+          ]
         },
         {
           "verse": 23,
@@ -2857,6 +4349,27 @@
         {
           "verse": 30,
           "text": "Ele libertará o inocente e tu ficarás liberto pela limpeza das tuas mãos.»",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O texto hebraico poderia justificar a tradução:... o não inocente."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "job-22-n5",
+              "offset": 24,
+              "original_marker": "a",
+              "source_id": 87
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Job é convidado a arrepender-se",
           "note_refs": []
         }
       ]
@@ -2872,7 +4385,21 @@
         {
           "verse": 2,
           "text": "Hoje, também a minha queixa é rebelde; a minha mão reprime o meu gemido.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Ou: A sua mão pesa sobre o meu gemido. Nesta alternativa de leitura, o peso do verbo hebraico entende que se trata da mão de Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-23-n1",
+              "offset": 71,
+              "original_marker": "b",
+              "source_id": 88
+            }
+          ]
         },
         {
           "verse": 3,
@@ -2897,7 +4424,21 @@
         {
           "verse": 7,
           "text": "Ali seria um homem reto a debater com Ele; e livrar-me-ia para sempre do meu juiz.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Uma vez que Deus é o adversário de Job, alguns estudiosos sugerem traduzir meu julgamento, seguindo a proposta da LXX e da Vg."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-23-n2",
+              "offset": 81,
+              "original_marker": "c",
+              "source_id": 89
+            }
+          ]
         },
         {
           "verse": 8,
@@ -2907,7 +4448,21 @@
         {
           "verse": 9,
           "text": "Se está ocupado a norte, não o descubro; se me volto para o sul, não o vejo.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Os quatro pontos cardeais aparecem determinados a partir do modo como Israel se vira para o nascer do sol. Por isso, o Oriente é em frente, o Ocidente, atrás (cf. Is 9,11; Dt 11,24); o Norte, à esquerda (Gn 14,15) e o Sul, à direita."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-23-n3",
+              "offset": 75,
+              "original_marker": "d",
+              "source_id": 90
+            }
+          ]
         },
         {
           "verse": 10,
@@ -2949,6 +4504,13 @@
           "text": "Por que razão não fui encerrado nas trevas e a escuridão não cobriu o meu rosto?",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Job requer Deus como juiz",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -2957,7 +4519,21 @@
         {
           "verse": 1,
           "text": "Por que razão não foram reservados tempos por parte do Todo-Poderoso e os seus amigos não veem os seus dias?",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Esta questão do tempo aparece também no livro de Coelet, que acreditava existir um tempo determinado para tudo (Co 3,1-8). Esta interrogação de Job pode referir-se às intervenções de Deus, designadas como o dia do Senhor."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-24-n1",
+              "offset": 107,
+              "original_marker": "e",
+              "source_id": 91
+            }
+          ]
         },
         {
           "verse": 2,
@@ -2997,7 +4573,21 @@
         {
           "verse": 9,
           "text": "Arrancam o órfão do peito materno e tomam em penhor a criança do pobre.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A tradução supõe uma vocalização da preposição we‘al (e sobre) por we‘ûl (criança); outros traduzem: o manto do pobre."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-24-n2",
+              "offset": 70,
+              "original_marker": "f",
+              "source_id": 92
+            }
+          ]
         },
         {
           "verse": 10,
@@ -3022,7 +4612,21 @@
         {
           "verse": 14,
           "text": "O homicida levanta-se de madrugada, para matar o pobre e necessitado; e de noite é como o ladrão.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Ou: quando há luz."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-24-n3",
+              "offset": 34,
+              "original_marker": "a",
+              "source_id": 93
+            }
+          ]
         },
         {
           "verse": 15,
@@ -3047,7 +4651,21 @@
         {
           "verse": 19,
           "text": "Como a secura e o calor fazem desaparecer as águas da neve, assim também o mundo dos mortos o arrasta.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Ou:... assim o mundo dos mortos faz desaparecer os que pecaram."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-24-n4",
+              "offset": 101,
+              "original_marker": "b",
+              "source_id": 94
+            }
+          ]
         },
         {
           "verse": 20,
@@ -3097,7 +4715,21 @@
         {
           "verse": 3,
           "text": "Pode contar-se o número das suas tropas? E sobre quem não se ergue a sua luz?",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O texto refere-se ao número incontável dos astros, dos quais Deus se serve como de um exército celeste."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-25-n1",
+              "offset": 39,
+              "original_marker": "c",
+              "source_id": 95
+            }
+          ]
         },
         {
           "verse": 4,
@@ -3112,6 +4744,13 @@
         {
           "verse": 6,
           "text": "Quanto mais um humano, que é um verme, e um filho de homem, que é uma larva!",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Os desígnios de Deus",
           "note_refs": []
         }
       ]
@@ -3162,7 +4801,21 @@
         {
           "verse": 9,
           "text": "Encobre a face do seu trono, estendendo por cima a sua nuvem.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Ou: Encobre a face da lua cheia."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-26-n1",
+              "offset": 27,
+              "original_marker": "d",
+              "source_id": 96
+            }
+          ]
         },
         {
           "verse": 10,
@@ -3177,7 +4830,21 @@
         {
           "verse": 12,
           "text": "Com a sua força acalmou o mar e com a sua inteligência esmagou Raab.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Raab é o nome de um monstro marinho que aparece em paralelo com o mar, figura mítica em contextos de criação, para significar a vitória da divindade sobre o caos primordial."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-26-n2",
+              "offset": 67,
+              "original_marker": "e",
+              "source_id": 97
+            }
+          ]
         },
         {
           "verse": 13,
@@ -3187,6 +4854,27 @@
         {
           "verse": 14,
           "text": "Eis que estas coisas são o traçado dos seus caminhos e um sussurro das palavras que lhe ouvimos! Quem, pois, entenderia o ressoar dos seus prodígios?",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Neste contexto de criação, o termo hebraico derek (caminho) deve entender-se como domínio, poder. É próprio do livro de Job que em tais contextos este termo remeta para as estruturas ou leis sobre as quais assenta a ordem cósmica (cf. 38,19-20)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-26-n3",
+              "offset": 52,
+              "original_marker": "f",
+              "source_id": 98
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Job declara a sua integridade",
           "note_refs": []
         }
       ]
@@ -3197,12 +4885,40 @@
         {
           "verse": 1,
           "text": "Então Job continuou a pronunciar o seu discurso, dizendo:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.:...o seu provérbio. A opção de tradução o seu discurso provém da compreensão deste termo como declaração pública de uma posição (cf. Nm 23,7.18; 24,3.15; Is 14,4; Mq 2,4). O discurso de Job, neste momento, já não se situa ao nível de uma resposta aos amigos, mas ao nível de um tribunal, diante do qual expõe a sua causa."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-27-n1",
+              "offset": 47,
+              "original_marker": "a",
+              "source_id": 99
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "«Pelo Deus vivo que recusou fazer-me justiça e pelo Todo Poderoso que amargurou a minha alma!",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Job usa uma expressão comum para introduzir um juramento (cf. 1Sm 14,39.45; 2Sm 2,27), como se estivesse diante de um tribunal."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-27-n2",
+              "offset": 92,
+              "original_marker": "b",
+              "source_id": 100
+            }
+          ]
         },
         {
           "verse": 3,
@@ -3217,7 +4933,21 @@
         {
           "verse": 5,
           "text": "Longe de mim que eu vos dê razão; até expirar nunca renunciarei à minha integridade.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A expressão longe de mim é uma fórmula habitual de introduzir a declaração de juramento, que, neste caso, inclui uma auto imprecação (cf. 1Sm 24,6; 2Sm 20,20)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-27-n3",
+              "offset": 83,
+              "original_marker": "c",
+              "source_id": 101
+            }
+          ]
         },
         {
           "verse": 6,
@@ -3287,7 +5017,21 @@
         {
           "verse": 19,
           "text": "Deita-se rico, nada lhe foi tirado; abre os seus olhos e nada existe.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Ou: Deita-se rico e não o voltará a fazer."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-27-n4",
+              "offset": 34,
+              "original_marker": "d",
+              "source_id": 102
+            }
+          ]
         },
         {
           "verse": 20,
@@ -3307,6 +5051,27 @@
         {
           "verse": 23,
           "text": "Perante isto, a gente bate palmas e assobia contra ele no seu lugar».",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O sujeito dos vv. 22-23 não é claro.. Alguns sugerem que são as pessoas em geral; outros que é o próprio Deus. O sujeito antecedente mais próximo é o vento."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "job-27-n5",
+              "offset": 69,
+              "original_marker": "e",
+              "source_id": 103
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Destino do malfeitor",
           "note_refs": []
         }
       ]
@@ -3327,7 +5092,21 @@
         {
           "verse": 3,
           "text": "O homem põe fim às trevas e indaga até ao limite a rocha escura e sombria.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Ainda que, também aqui, o sujeito seja algo ambíguo, parece preferível considerar que o sujeito da frase seja o ser humano e não Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-28-n1",
+              "offset": 25,
+              "original_marker": "f",
+              "source_id": 104
+            }
+          ]
         },
         {
           "verse": 4,
@@ -3367,12 +5146,40 @@
         {
           "verse": 11,
           "text": "Explora as nascentes dos rios e traz à luz o que estava escondido.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Até aqui o autor elabora uma descrição do homo faber, situando-se de um modo particular no âmbito dos trabalhos de extração mineira, que requerem uma particular sabedoria na descoberta dos segredos e das riquezas naturais."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-28-n2",
+              "offset": 65,
+              "original_marker": "a",
+              "source_id": 105
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Mas a sabedoria, por onde se pode encontrar? Qual é o lugar da inteligência?",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O ser humano, na sua extraordinária capacidade de penetrar nos segredos das profundidades da terra, é incapaz de conhecer a origem da sabedoria, que não está ao alcance dos mortais, nem nos lugares mais remotos da criação."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-28-n3",
+              "offset": 75,
+              "original_marker": "b",
+              "source_id": 106
+            }
+          ]
         },
         {
           "verse": 13,
@@ -3447,11 +5254,46 @@
         {
           "verse": 27,
           "text": "então, Ele viu e ponderou a sabedoria, estabeleceu-a e investigou-a.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A sabedoria aparece numa relação com a criação, tal como em Pr 8,22-32. Porém, enquanto no livro dos Provérbios se afirma que ela é uma criatura de Deus, no livro de Job diz-se que Deus apenas a viu, ponderou, estabeleceu e investigou."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-28-n4",
+              "offset": 67,
+              "original_marker": "c",
+              "source_id": 107
+            }
+          ]
         },
         {
           "verse": 28,
           "text": "E disse aos humanos: ‘Vede! O temor do Senhor é a sabedoria e afastar-se do mal, a inteligência.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A sabedoria é um dom divino, que depende do temor de Deus, isto é, da capacidade de relação que o ser humano conseguir estabelecer com Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "job-28-n5",
+              "offset": 95,
+              "original_marker": "d",
+              "source_id": 108
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Elogio da sabedoria",
           "note_refs": []
         }
       ]
@@ -3466,7 +5308,7 @@
         },
         {
           "verse": 2,
-          "text": "Quem me dera voltar aos tempos de outrora, aos dias em que Deus me protegia!",
+          "text": "«Quem me dera voltar aos tempos de outrora, aos dias em que Deus me protegia!",
           "note_refs": []
         },
         {
@@ -3477,7 +5319,21 @@
         {
           "verse": 4,
           "text": "Tal como fui nos meus dias de abundância, quando Deus protegia a minha tenda,",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Lit.:...do meu outono. O texto hebraico sugere a referência a um tempo de fartura, conseguida no fim de um bom ano de colheitas. Este quadro aponta para a narrativa sobre Job apresentada no início do livro."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-29-n1",
+              "offset": 40,
+              "original_marker": "e",
+              "source_id": 109
+            }
+          ]
         },
         {
           "verse": 5,
@@ -3487,7 +5343,21 @@
         {
           "verse": 6,
           "text": "quando lavava os meus pés em nata e da rocha corriam para mim ribeiros de azeite;",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Não podemos esquecer que o leite e o azeite eram, entre outras coisas, símbolos de prosperidade para os habitantes da região de Canaã."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-29-n2",
+              "offset": 80,
+              "original_marker": "f",
+              "source_id": 110
+            }
+          ]
         },
         {
           "verse": 7,
@@ -3502,7 +5372,21 @@
         {
           "verse": 9,
           "text": "Os principais continham a palavra e punham a mão sobre a boca.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Nos vv. 7-11 o autor alude ao facto de que Job, para além de ser um homem rico, era muito respeitado por todos, anciãos e chefes da cidade."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-29-n3",
+              "offset": 61,
+              "original_marker": "g",
+              "source_id": 111
+            }
+          ]
         },
         {
           "verse": 10,
@@ -3512,7 +5396,21 @@
         {
           "verse": 11,
           "text": "Quem me ouvia falar felicitava-me, os que me viam davam testemunho de mim.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Embora o termo hebraico signifique encorajar (cf. Lm 2,13), o contexto forense favorece a compreensão tradicional de dar testemunho."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-29-n4",
+              "offset": 73,
+              "original_marker": "h",
+              "source_id": 112
+            }
+          ]
         },
         {
           "verse": 12,
@@ -3577,11 +5475,46 @@
         {
           "verse": 24,
           "text": "Eu sorria para eles e nem acreditavam e não deixavam cair a luz do meu rosto.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Ou:... para os que não acreditavam."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "job-29-n5",
+              "offset": 37,
+              "original_marker": "a",
+              "source_id": 113
+            }
+          ]
         },
         {
           "verse": 25,
           "text": "Eu escolhia o caminho deles e punha-me na frente e instalava-me como rei entre as suas tropas, como aquele que conforta os que estão de luto.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "A tradução literal como um enlutado, ele conforta parece inadequada neste contexto."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "job-29-n6",
+              "offset": 140,
+              "original_marker": "b",
+              "source_id": 114
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Memórias de Job",
           "note_refs": []
         }
       ]
@@ -3592,7 +5525,21 @@
         {
           "verse": 1,
           "text": "Porém, agora, riram-se de mim aqueles que, em dias, são mais jovens do que eu, a cujos pais eu teria recusado colocar entre os cães do meu rebanho.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Job refere, de modo veemente, que a sua situação é pior do que a dos deserdados."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-30-n1",
+              "offset": 146,
+              "original_marker": "c",
+              "source_id": 115
+            }
+          ]
         },
         {
           "verse": 2,
@@ -3642,7 +5589,21 @@
         {
           "verse": 11,
           "text": "Pois Ele abriu a sua aljava e humilhou-me; e eles perderam o respeito diante de mim.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O Targum, a tradução siríaca e o texto massorético entendem:...a minha aljava. Quanto aos que perderam o respeito, trata-se daqueles que Job caracterizava como filhos de gente vil, filhos de gente sem nome (vv. 1.8)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-30-n2",
+              "offset": 27,
+              "original_marker": "d",
+              "source_id": 116
+            }
+          ]
         },
         {
           "verse": 12,
@@ -3687,7 +5648,21 @@
         {
           "verse": 20,
           "text": "Clamo por ti, mas Tu não me respondes; ponho-me de pé para reparares em mim.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Ou: mantenho-me de pé, mas não reparas em mim."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-30-n3",
+              "offset": 75,
+              "original_marker": "a",
+              "source_id": 117
+            }
+          ]
         },
         {
           "verse": 21,
@@ -3712,7 +5687,21 @@
         {
           "verse": 25,
           "text": "Não chorei eu com quem estava em dia difícil? Não se entristeceu a minha alma com o necessitado?",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Job parece acusar Deus de não o escutar (v. 20), de abuso de poder (v. 21), de procurar a sua morte (v. 22s), apesar da sua honestidade e bondade (v. 24)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-30-n4",
+              "offset": 44,
+              "original_marker": "b",
+              "source_id": 118
+            }
+          ]
         },
         {
           "verse": 26,
@@ -3742,6 +5731,13 @@
         {
           "verse": 31,
           "text": "A minha cítara tornou-se luto; e a minha flauta, voz dos que choram.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Queixa final de Job",
           "note_refs": []
         }
       ]
@@ -3817,7 +5813,21 @@
         {
           "verse": 14,
           "text": "que farei então quando Deus se levantar, quando me interrogar que lhe responderei?",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A tradução do verbo como levantar não expressa cabalmente o significado total do texto, que parece situar-se no contexto de uma discussão forense. Neste sentido, alguns propõem a tradução: levantar-se no julgamento."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-31-n1",
+              "offset": 39,
+              "original_marker": "c",
+              "source_id": 119
+            }
+          ]
         },
         {
           "verse": 15,
@@ -3862,7 +5872,21 @@
         {
           "verse": 23,
           "text": "Porque é terrível para mim o castigo de Deus e não conseguiria suportar o seu peso.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ou:...a sua majestade."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-31-n2",
+              "offset": 82,
+              "original_marker": "d",
+              "source_id": 120
+            }
+          ]
         },
         {
           "verse": 24,
@@ -3882,7 +5906,21 @@
         {
           "verse": 27,
           "text": "se o meu coração se deixou seduzir em segredo, mandando um beijo com a mão na minha boca;",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Lit.: a minha mão beijou a minha boca. Pode tratar-se de um gesto antigo de adoração, que consiste em levar a mão à boca, normal entre os assírios e babilónios, em que a oração se representa pelo sinal da mão na boca."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-31-n3",
+              "offset": 88,
+              "original_marker": "a",
+              "source_id": 121
+            }
+          ]
         },
         {
           "verse": 28,
@@ -3922,7 +5960,21 @@
         {
           "verse": 35,
           "text": "Quem me dera que alguém me ouvisse! Este é o pedido assinado por mim: que o Todo Poderoso me responda. E quanto ao documento que o meu adversário escreveu,",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.:...o meu sinal. O texto exprime esta ideia de sinal com a letra tau, que no hebraico do tempo bíblico era representada como uma cruz, para assinalar objetos ou palavras."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-31-n4",
+              "offset": 68,
+              "original_marker": "b",
+              "source_id": 122
+            }
+          ]
         },
         {
           "verse": 36,
@@ -3942,11 +5994,32 @@
         {
           "verse": 39,
           "text": "se comi os seus frutos sem pagar, afligindo a vida dos que a cultivam,",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.:...os seus donos. Entretanto, várias traduções, incluindo a da Neovulgata, entendem que a tradição textual conteria uma troca entre as consoantes bilabiais b e p, o que levaria a ler po‘aleha (seus cultivadores) em vez de be‘aleha (seus donos), que aparece no texto massorético."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "job-31-n5",
+              "offset": 69,
+              "original_marker": "c",
+              "source_id": 123
+            }
+          ]
         },
         {
           "verse": 40,
           "text": "que nasçam cardos em vez de trigo e joio em vez de cevada. Aqui terminaram as palavras de Job.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Juramento de integridade de Job",
           "note_refs": []
         }
       ]
@@ -3957,17 +6030,46 @@
         {
           "verse": 1,
           "text": "Aqueles três homens cessaram de responder a Job, porque se considerava justo a si próprio. Então inflamou-se a cólera de Eliú, filho de Baraquel, de Buz, da família de Rame; a sua cólera inflamou-se contra Job, porque pretendia ser mais justo do que Deus.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A tradução dos LXX e a Siríaca entenderam:...porque ele era justo aos olhos deles."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-32-n1",
+              "offset": 89,
+              "original_marker": "d",
+              "source_id": 124
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "",
-          "note_refs": []
+          "note_refs": [],
+          "omitted": true
         },
         {
           "verse": 3,
           "text": "A sua cólera inflamou-se também contra os três amigos por não terem encontrado resposta e terem condenado Job.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A tradição judaica, recorrendo à ideia de uma correção de escriba, entendeu que o texto original teria sido:...e terem condenado Deus. Como o escriba terá considerado ofensiva a ideia de condenar Deus, substituiu Deus por Job."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-32-n2",
+              "offset": 109,
+              "original_marker": "e",
+              "source_id": 125
+            }
+          ]
         },
         {
           "verse": 4,
@@ -3992,7 +6094,21 @@
         {
           "verse": 8,
           "text": "Pois ela é o espírito no ser humano, o sopro do Todo Poderoso os faz compreender.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O paralelismo de ruah (espírito) com a expressão nishmat shadday (sopro de Shadday) sugere tratar-se do espírito de Deus e não de um simples sopro ou espírito humano."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-32-n3",
+              "offset": 80,
+              "original_marker": "f",
+              "source_id": 126
+            }
+          ]
         },
         {
           "verse": 9,
@@ -4012,7 +6128,21 @@
         {
           "verse": 12,
           "text": "Tentei compreender-vos, mas Job não tem quem o censure, nenhum de vós respondeu às suas palavras’.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O termo mokiah (censor, crítico) aparece quase sempre com uma forte ligação ao âmbito judicial (Is 11,3; Hab 1,12) e sapiencial (2Sm 7,14; Pr 3,12). A finalidade nunca é a pura aplicação de uma justiça retributiva, mas estabelecer um processo capaz de atrair ao caminho da justiça (Lv 19,17-18; Pr 3,11-12; 6,23; 10,17; 13,24; 15,10; 27,5-6)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-32-n4",
+              "offset": 54,
+              "original_marker": "g",
+              "source_id": 127
+            }
+          ]
         },
         {
           "verse": 13,
@@ -4057,11 +6187,32 @@
         {
           "verse": 21,
           "text": "Não discriminarei ninguém e a nenhum humano procurarei lisonjear.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Lit.:...não erguerei a face de ninguém. Esta é uma expressão idiomática para significar ser imparcial na administração da justiça ou na emissão de uma opinião"
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "job-32-n5",
+              "offset": 25,
+              "original_marker": "a",
+              "source_id": 128
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "Com efeito, não sei lisonjear e por um pouco Aquele que me fez escutar-me-á.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Intervenção de Eliú",
           "note_refs": []
         }
       ]
@@ -4082,7 +6233,21 @@
         {
           "verse": 3,
           "text": "As minhas palavras exprimem a retidão do meu coração e dizem claramente o conhecimento dos meus lábios.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O substantivo yocher (retidão) admite diferentes matizes, podendo designar a integridade de coração que conduz aquele que é reto (33,3.23; Pr 2,13; 4,11; 14,2; Sl 25,21), mas também a honestidade da palavra dita ou escrita (6,25; Co 12,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-33-n1",
+              "offset": 37,
+              "original_marker": "b",
+              "source_id": 129
+            }
+          ]
         },
         {
           "verse": 4,
@@ -4182,7 +6347,21 @@
         {
           "verse": 23,
           "text": "A não ser que exista para ele um mensageiro, um intercessor entre mil, que declare a retidão daquele homem",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Intercessor traduz a palavra hebraica melits. Os LXX e a Vulgata não a traduzem, e o Targum lê melits como advogado. O paralelismo bíblico entre melits e male’ak (intercessor e mensageiro) acentua o carácter de intermediário ou de intercessor."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-33-n2",
+              "offset": 59,
+              "original_marker": "c",
+              "source_id": 130
+            }
+          ]
         },
         {
           "verse": 24,
@@ -4196,22 +6375,64 @@
         },
         {
           "verse": 26,
-          "text": "Invocará D eus e este ser-lhe-á favorável, verá a sua face com júbilo e fará regressar ao homem a sua justiça.",
-          "note_refs": []
+          "text": "Invocará Deus e este ser-lhe-á favorável, verá a sua face com júbilo e fará regressar ao homem a sua justiça.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Aqui, o verbo voltar significa simplesmente responder (32,14; 33,5.32; 35,4). Noutras partes dos discursos de Eliú pode traduzir uma restauração física do ser humano (33,25), um retorno a Deus e à sua justiça (33,26.30) e um afastamento da iniquidade (36,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-33-n3",
+              "offset": 40,
+              "original_marker": "a",
+              "source_id": 131
+            }
+          ]
         },
         {
           "verse": 27,
           "text": "Cantará aos homens e dirá: ‘Pequei e perverti o que é reto, mas Ele não me tratou de modo correspondente.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A centralidade que Eliú atribui aos verbos pecar e perverter supõe o reconhecimento de uma ofensa e de uma perversão da relação com Deus, deslocando o debate para o campo da relação entre pecado e confissão de culpa. Eliú faz preceder estes verbos do verbo falar (33,27a), utilizando a fórmula do réu confesso e os mesmos verbos que Job usa para declarar e defender a sua inocência (6,30; 10,7; 13,18.23; 16,10; 27,5-7)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-33-n4",
+              "offset": 58,
+              "original_marker": "b",
+              "source_id": 132
+            }
+          ]
         },
         {
           "verse": 28,
           "text": "Preservou a minha alma de passar pela cova e a minha vida verá a luz’.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Não se trata de uma experiência mística, mas simplesmente da certeza de uma salvação que se torna visível na vida humana (Is 9,1; 53,11). Esta certeza recorda um pensamento sapiencial, onde a luz é identificada com a luz da face de Deus (Sl 27,1; 89,16; Jb 29,3). É certamente neste sentido sapiencial que Eliú evoca a visão da vida com luz. Mais tarde, Eliú retoma o tema da luz para descrever o momento que Job vive como um tempo em que ele não vê a luz (37,19.21)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "job-33-n5",
+              "offset": 69,
+              "original_marker": "c",
+              "source_id": 133
+            }
+          ]
         },
         {
           "verse": 29,
-          "text": "Pois D eus fará tudo isso duas e três vezes com o homem,",
+          "text": "Pois Deus fará tudo isso duas e três vezes com o homem,",
           "note_refs": []
         },
         {
@@ -4232,6 +6453,13 @@
         {
           "verse": 33,
           "text": "Mas se não, escuta-me tu! Faz silêncio e eu te ensinarei a sabedoria.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Eliú contra Job",
           "note_refs": []
         }
       ]
@@ -4292,7 +6520,21 @@
         {
           "verse": 11,
           "text": "Pois Ele retribui a obra do homem e conforme o caminho de cada um assim lhe retribui.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Retribui. Eliú usa duas vezes esta raiz hebraica: uma, para indicar a certeza da retribuição do comportamento humano (34,11), e uma segunda, para referir que Deus tem os seus critérios de retribuição, eventualmente não coincidentes com os de Job (34,33)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-34-n1",
+              "offset": 33,
+              "original_marker": "d",
+              "source_id": 134
+            }
+          ]
         },
         {
           "verse": 12,
@@ -4317,7 +6559,21 @@
         {
           "verse": 16,
           "text": "Portanto, se tens inteligência, escuta isto; dá ouvidos à voz das minhas palavras!",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Eliú refere a inteligência como complementar à escuta e como pressuposto de dar ouvidos às suas palavras, exortando Job a uma compreensão de Deus. Job deve colocar-se na mesma atitude que Eliú assumiu para si próprio (32,12; 37,14), considerando Deus e o seu agir sem se deixar influenciar pelo sofrimento ou pelo peso da tradição."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-34-n2",
+              "offset": 43,
+              "original_marker": "e",
+              "source_id": 135
+            }
+          ]
         },
         {
           "verse": 17,
@@ -4372,7 +6628,21 @@
         {
           "verse": 27,
           "text": "Porque eles deixam de o seguir e não prestam atenção a nenhum dos seus caminhos",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O verbo hebraico sakal assume aqui o sentido de entender ou agir com inteligência. Esta raíz aparece em contextos literários com uma forte influência sapiencial. Nos discursos de Eliú existe uma associação entre o não entendimento dos malfeitores (34,27) e o não entendimento de Job (34,35)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-34-n3",
+              "offset": 52,
+              "original_marker": "a",
+              "source_id": 136
+            }
+          ]
         },
         {
           "verse": 28,
@@ -4417,11 +6687,32 @@
         {
           "verse": 36,
           "text": "Desejo que Job seja examinado até ao fim sobre respostas próprias de homens iníquos.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O verbo examinar aparece cinco vezes, exclusivamente nas palavras de Job e de Eliú. Job usa três vezes esta raíz: duas para indicar a prova a que Deus o submete (7,18; 23,10) e outra para indicar a capacidade que o ouvido tem de examinar as palavras (12,11). Em 34,3 Eliú retoma esta última referência de Job, estabelecendo um paralelismo entre esta capacidade de examinar palavras e o desejo de que Job seja examinado com profundidade (34,3.36)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-34-n4",
+              "offset": 40,
+              "original_marker": "b",
+              "source_id": 137
+            }
+          ]
         },
         {
           "verse": 37,
           "text": "Porque acrescentou ao seu pecado mais um crime, lança a dúvida no meio de nós e multiplica os seus discursos contra Deus».",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Eliú defende a justiça de Deus",
           "note_refs": []
         }
       ]
@@ -4507,6 +6798,27 @@
         {
           "verse": 16,
           "text": "Quanto a Job, é com ilusões que abre a sua boca; sem conhecimento, acumula palavras.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O termo hebel (ilusão) significa a inconsistência dos argumentos de Job. Ocorre mais duas vezes para falar da caducidade dos dias de Job (7,16) e da esterilidade da sua fadiga (9,29), e outras duas para referir as vãs consolações (21,34) e ilusões dos amigos (27,12)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-35-n1",
+              "offset": 47,
+              "original_marker": "c",
+              "source_id": 138
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Eliú defende o distanciamento de Deus",
           "note_refs": []
         }
       ]
@@ -4527,12 +6839,40 @@
         {
           "verse": 3,
           "text": "Trarei o meu conhecimento de longe, e darei razão àquele que me fez.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O uso da raiz yada‘ (conhecer) é frequente no discurso de Eliú. Em 36,3 estabelece um confronto entre o conhecimento que os anciãos dizem possuir de Deus (32,7) e a impossibilidade de dominar Deus pelo conhecimento (36,26; 37,5.7.15.16.19)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-36-n1",
+              "offset": 25,
+              "original_marker": "a",
+              "source_id": 139
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "Na verdade, não são de mentira as minhas palavras; diante de ti está alguém perfeito em conhecimentos.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ou:... são perfeitas em conhecimento para contigo."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-36-n2",
+              "offset": 101,
+              "original_marker": "b",
+              "source_id": 140
+            }
+          ]
         },
         {
           "verse": 5,
@@ -4582,7 +6922,21 @@
         {
           "verse": 14,
           "text": "A sua alma morre na juventude; e a sua vida, na adolescência.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A palavra traduzida por adolescência também significa prostitutos sagrados. Estes eram normalmente adolescentes (Dt 23,18)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-36-n3",
+              "offset": 60,
+              "original_marker": "c",
+              "source_id": 141
+            }
+          ]
         },
         {
           "verse": 15,
@@ -4597,7 +6951,21 @@
         {
           "verse": 17,
           "text": "Mas a ti aplica-se bem o juízo de um malfeitor, a quem o juízo e a condenação apanharão.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: … estás cheio de…"
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-36-n4",
+              "offset": 22,
+              "original_marker": "d",
+              "source_id": 142
+            }
+          ]
         },
         {
           "verse": 18,
@@ -4662,7 +7030,21 @@
         {
           "verse": 30,
           "text": "Ele expande sobre ela a sua luz e cobre as profundezas do mar.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Ou: ‘descobre as profundezas do mar’."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "job-36-n5",
+              "offset": 61,
+              "original_marker": "e",
+              "source_id": 143
+            }
+          ]
         },
         {
           "verse": 31,
@@ -4677,6 +7059,13 @@
         {
           "verse": 33,
           "text": "O fragor do raio fala sobre Ele, que arde de cólera contra a iniquidade.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Eliú continua a defesa de Deus",
           "note_refs": []
         }
       ]
@@ -4812,7 +7201,21 @@
         {
           "verse": 1,
           "text": "Então, do meio da tempestade, o SENHOR respondeu a Job e disse:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O autor utiliza uma expressão própria das teofanias de Deus, através da qual se sugere a sua transcendência e omnipotência (cf. Ex 13,22; 19,16; Sl 18,8-16; Ez 1,4). Job, que tinha feito a sua apologia ao longo do livro e exigido que Deus lhe respondesse, tem agora a possibilidade de escutar a palavra de Deus, que se tinha mantido em silêncio perante os protestos e as queixas de Job. O autor entende assim que Deus fez caso de Job e que lhe é fiel. Pela resposta de Deus a Job passa o essencial do sentido que o autor parece querer dar ao conjunto do livro."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-38-n1",
+              "offset": 28,
+              "original_marker": "a",
+              "source_id": 144
+            }
+          ]
         },
         {
           "verse": 2,
@@ -4822,7 +7225,21 @@
         {
           "verse": 3,
           "text": "Cinge os teus rins, como um homem; Eu perguntar-te-ei e tu instruir-me-ás.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: como um guerreiro, um homem forte (cf. Jz 5,30; 2Sm 23,1; Jr 41,16). Invertem-se as posições: agora é Deus quem convida Job a defender-se."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-38-n2",
+              "offset": 34,
+              "original_marker": "b",
+              "source_id": 145
+            }
+          ]
         },
         {
           "verse": 4,
@@ -4892,7 +7309,21 @@
         {
           "verse": 17,
           "text": "Foram-te desvendadas as portas da morte e viste as portas da sombra tenebrosa?",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Esta imagem das portas da morte aparece também em Is 38,10; Sl 9,14; 107,18; Sb 16,13."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-38-n3",
+              "offset": 39,
+              "original_marker": "a",
+              "source_id": 146
+            }
+          ]
         },
         {
           "verse": 18,
@@ -4987,7 +7418,21 @@
         {
           "verse": 36,
           "text": "Quem colocou sabedoria no íbis ou quem deu inteligência ao galo?",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Íbis parece constituir uma transcrição do termo Tahot, o deus-íbis egípcio Tot, a quem se atribuía a função de anunciar as cheias do Nilo. A menção feita ao galo recupera a convicção tradicional da sua capacidade natural de anunciar o dia e de pressentir a proximidade da chuva."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "job-38-n4",
+              "offset": 63,
+              "original_marker": "b",
+              "source_id": 147
+            }
+          ]
         },
         {
           "verse": 37,
@@ -5014,6 +7459,33 @@
           "text": "Quem prepara para o corvo o seu alimento, quando as suas crias gritam a Deus e vagueiam sem terem o que comer?",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Deus defende os seus próprios desígnios",
+          "note_refs": []
+        },
+        {
+          "before_verse": 4,
+          "text": "A terra e o mar",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "O amanhecer, as trevas e o mundo dos mortos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 22,
+          "text": "Os fenómenos dos céus",
+          "note_refs": []
+        },
+        {
+          "before_verse": 39,
+          "text": "O mundo selvagem",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -5022,7 +7494,21 @@
         {
           "verse": 1,
           "text": "Conheces o tempo de dar à luz para as corças do rochedo ou observaste o parto das gazelas?",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "As corças e as gazelas são um exemplo excelente do tipo de animais cuja reprodução e processo de gestação escapavam a todas as possibilidades de observação."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-39-n1",
+              "offset": 89,
+              "original_marker": "a",
+              "source_id": 148
+            }
+          ]
         },
         {
           "verse": 2,
@@ -5067,7 +7553,21 @@
         {
           "verse": 10,
           "text": "Poderás amarrar o boi selvagem ao arado, para que ele lavre os vales atrás de ti?",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O autor ironiza com a ideia de subserviência, aqui vista sob a imagem da impossibilidade de o boi selvagem seguir um ser humano em dócil obediência."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-39-n2",
+              "offset": 80,
+              "original_marker": "b",
+              "source_id": 149
+            }
+          ]
         },
         {
           "verse": 11,
@@ -5087,7 +7587,21 @@
         {
           "verse": 14,
           "text": "Ela abandona os seus ovos na terra e deixa-os a aquecer no chão.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Não parece ser verdade que a avestruz abandone os seus ovos, assim sem mais. Tudo indica que o autor está a utilizar ideias tradicionais sobre a suposta estupidez deste animal."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-39-n3",
+              "offset": 63,
+              "original_marker": "c",
+              "source_id": 150
+            }
+          ]
         },
         {
           "verse": 15,
@@ -5169,6 +7683,13 @@
           "text": "Os seus filhotes chupam sangue; e onde há cadáveres, ali está ela».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 13,
+          "text": "A avestruz, o cavalo e a águia",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -5186,7 +7707,7 @@
         },
         {
           "verse": 3,
-          "text": "Então Job respondeu ao, dizendo:",
+          "text": "Então Job respondeu ao SENHOR, dizendo:",
           "note_refs": []
         },
         {
@@ -5201,7 +7722,7 @@
         },
         {
           "verse": 6,
-          "text": "Então o respondeu a Job do meio de uma tempestade, dizendo:",
+          "text": "Então o SENHOR respondeu a Job do meio de uma tempestade, dizendo:",
           "note_refs": []
         },
         {
@@ -5212,7 +7733,21 @@
         {
           "verse": 8,
           "text": "Porventura desejas anular o meu julgamento ou condenar-me para ficares com a razão?",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Ou: Porventura desejas anular o meu direito e condenar-me para ficares com a razão?"
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-40-n1",
+              "offset": 83,
+              "original_marker": "a",
+              "source_id": 151
+            }
+          ]
         },
         {
           "verse": 9,
@@ -5247,7 +7782,21 @@
         {
           "verse": 15,
           "text": "Repara bem no monstro Beemot, que Eu fiz tal como a ti; ele come erva como o boi.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Beemot, tradicionalmente entendido como representando a imagem de um hipopótamo, é um símbolo mítico das forças do caos, tal como o é Leviatan, mencionado no v. 25. Contra estas figuras dirige-se a força criadora, tanto a de Baal como a de Javé. Paralela a estas duas figuras é a de Tiamat no poema épico Enuma Elish da Babilónia, contra a qual luta o deus Marduk na respetiva obra de criação. Na tradição de Israel foi associado ao adversário de Deus criador. O seu uso em 12,7-8 para referir um entre os outros animais da terra sugere uma associação com Gn 1,26."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-40-n2",
+              "offset": 54,
+              "original_marker": "b",
+              "source_id": 152
+            }
+          ]
         },
         {
           "verse": 16,
@@ -5293,6 +7842,77 @@
           "verse": 24,
           "text": "Quem o poderá apanhar de frente ou furar-lhe o nariz com argolas?",
           "note_refs": []
+        },
+        {
+          "verse": 25,
+          "text": "Podes puxar com um anzol o Leviatan ou atar-lhe a língua com uma corda?",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Leviatan indica um monstro marinho mítico descrito como fazendo parte do caos primitivo, que representava as forças de resistência contra o criador. As características mencionadas fazem pensar num animal semelhante a um crocodilo."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-40-n3",
+              "offset": 35,
+              "original_marker": "c",
+              "source_id": 153
+            }
+          ]
+        },
+        {
+          "verse": 26,
+          "text": "Podes passar um junco pelo seu nariz ou furar com um gancho a sua queixada?",
+          "note_refs": []
+        },
+        {
+          "verse": 27,
+          "text": "Por ventura multiplicará as súplicas para contigo ou te falará com brandura?",
+          "note_refs": []
+        },
+        {
+          "verse": 28,
+          "text": "Será que ele fará aliança contigo? Tomá-lo-ás como servo para sempre?",
+          "note_refs": []
+        },
+        {
+          "verse": 29,
+          "text": "Brincarás com ele como com um pássaro ou prendê-lo-ás para as tuas meninas?",
+          "note_refs": []
+        },
+        {
+          "verse": 30,
+          "text": "Será que os mercadores o põem à venda ou o repartem entre os negociantes?",
+          "note_refs": []
+        },
+        {
+          "verse": 31,
+          "text": "Crivarás a sua pele de ganchos ou a sua cabeça com arpões de pesca?",
+          "note_refs": []
+        },
+        {
+          "verse": 32,
+          "text": "Põe a tua mão sobre ele; lembra-te da luta e não repitas.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Desafio final",
+          "note_refs": []
+        },
+        {
+          "before_verse": 15,
+          "text": "A figura de Beemot",
+          "note_refs": []
+        },
+        {
+          "before_verse": 25,
+          "text": "Figura do Leviatan",
+          "note_refs": []
         }
       ]
     },
@@ -5301,42 +7921,56 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Podes puxar com um anzol o Leviatan ou atar-lhe a língua com uma corda?",
+          "text": "Eis que estar à espera dele é enganador, pois, à vista dele, cai-se por terra.",
           "note_refs": []
         },
         {
           "verse": 2,
-          "text": "Podes passar um junco pelo seu nariz ou furar com um gancho a sua queixada?",
+          "text": "Ninguém tem coragem para ir despertá-lo. Quem ousa erguer-se diante de mim?",
           "note_refs": []
         },
         {
           "verse": 3,
-          "text": "Por ventura multiplicará as súplicas para contigo ou te falará com brandura?",
-          "note_refs": []
+          "text": "Quem pode enfrentar-se comigo, tendo eu de retribuir? Tudo o que há debaixo dos céus é meu!",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Os vv. 2b-3 também têm sido interpretados como referindo-se, em 3ª pessoa, ao Leviatan. Neste caso, a leitura seria: 2Quem ousa erguer-se diante dele? / Quem pode enfrentar com ele e sair ileso? / Tudo o que há debaixo dos céus é dele. Este entendimento do total domínio de Leviatan poderia significar que, como ninguém é capaz de enfrentar o Leviatan, também Job não deveria atrever-se a fazer frente a Deus."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-41-n1",
+              "offset": 91,
+              "original_marker": "d",
+              "source_id": 154
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "Será que ele fará aliança contigo? Tomá-lo-ás como servo para sempre?",
+          "text": "Não me calarei a respeito dos seus membros nem do vigor e esplendor da sua estrutura.",
           "note_refs": []
         },
         {
           "verse": 5,
-          "text": "Brincarás com ele como com um pássaro ou prendê-lo-ás para as tuas meninas?",
+          "text": "Quem pôs a descoberto a capa da sua roupagem? Quem penetrou na sua malha redobrada?",
           "note_refs": []
         },
         {
           "verse": 6,
-          "text": "Será que os mercadores o põem à venda ou o repartem entre os negociantes?",
+          "text": "Quem abriu os batentes da sua face? Ao redor dos seus dentes é o terror.",
           "note_refs": []
         },
         {
           "verse": 7,
-          "text": "Crivarás a sua pele de ganchos ou a sua cabeça com arpões de pesca?",
+          "text": "O seu dorso é de escamas fortes, fechadas por um selo apertado.",
           "note_refs": []
         },
         {
           "verse": 8,
-          "text": "Põe a tua mão sobre ele; lembra-te da luta e não repitas.",
+          "text": "De tal maneira se encaixam uma na outra que nem o ar passa entre elas.",
           "note_refs": []
         },
         {
@@ -5428,46 +8062,6 @@
           "verse": 26,
           "text": "Ele olha de frente tudo o que é arrogante; é rei de todos os animais ferozes».",
           "note_refs": []
-        },
-        {
-          "verse": 27,
-          "text": "",
-          "note_refs": []
-        },
-        {
-          "verse": 28,
-          "text": "",
-          "note_refs": []
-        },
-        {
-          "verse": 29,
-          "text": "",
-          "note_refs": []
-        },
-        {
-          "verse": 30,
-          "text": "",
-          "note_refs": []
-        },
-        {
-          "verse": 31,
-          "text": "",
-          "note_refs": []
-        },
-        {
-          "verse": 32,
-          "text": "",
-          "note_refs": []
-        },
-        {
-          "verse": 33,
-          "text": "",
-          "note_refs": []
-        },
-        {
-          "verse": 34,
-          "text": "",
-          "note_refs": []
         }
       ]
     },
@@ -5487,7 +8081,21 @@
         {
           "verse": 3,
           "text": "Quem é este que encobre o desígnio, sem ter conhecimento? Realmente, falei do que não entendia, de maravilhas superiores a mim; e não tinha conhecimento.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Esta frase retoma a interpelação dirigida a Job, logo no início da intervenção de Deus, em 38,2. O desígnio, literalmente Conselho, refere-se ao plano de Deus"
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "job-42-n1",
+              "offset": 57,
+              "original_marker": "a",
+              "source_id": 155
+            }
+          ]
         },
         {
           "verse": 4,
@@ -5497,7 +8105,21 @@
         {
           "verse": 5,
           "text": "Apenas de ouvido, ouvi falar de ti, mas agora os meus olhos viram-te.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Não se trata de uma visão no sentido estrito, mas de uma perceção nova da realidade de Deus. Job, que tinha um conhecimento construído a partir do que tinha ouvido sobre Deus, agora aprendeu a inclinar-se perante o mistério e o poder criador de Deus. As suas perguntas sobre a justiça continuam sem resposta objetiva. No entanto, ele adquiriu uma sabedoria que pode dar um significado novo a realidades como o sofrimento e a morte do inocente."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "job-42-n2",
+              "offset": 69,
+              "original_marker": "b",
+              "source_id": 156
+            }
+          ]
         },
         {
           "verse": 6,
@@ -5506,7 +8128,7 @@
         },
         {
           "verse": 7,
-          "text": "Aconteceu que, depois de o SENHOR ter dito aquelas palavras a Job, o S ENHOR disse a Elifaz de Teman: «A minha ira inflamou-se contra ti e contra os teus dois amigos, pois não falastes corretamente sobre mim, como o meu servo Job.",
+          "text": "Aconteceu que, depois de o SENHOR ter dito aquelas palavras a Job, o SENHOR disse a Elifaz de Teman: «A minha ira inflamou-se contra ti e contra os teus dois amigos, pois não falastes corretamente sobre mim, como o meu servo Job.",
           "note_refs": []
         },
         {
@@ -5516,7 +8138,7 @@
         },
         {
           "verse": 9,
-          "text": "Então foram Elifaz de Teman, Bildad de Chua e Sofar de Naamá e fizeram como o lhes dissera; e o SENHOR mostrou-se favorável a Job.",
+          "text": "Então foram Elifaz de Teman, Bildad de Chua e Sofar de Naamá e fizeram como o SENHOR lhes dissera; e o SENHOR mostrou-se favorável a Job.",
           "note_refs": []
         },
         {
@@ -5526,12 +8148,12 @@
         },
         {
           "verse": 11,
-          "text": "Vieram ter com ele todos os seus irmãos, todas as suas irmãs, todos quantos antes o conheciam e comeram com ele pão em sua casa; condoeram-se dele e consolaram-no por toda a desgraça que o lhe havia enviado; e cada um deles lhe deu uma moeda de prata e um anel de ouro.",
+          "text": "Vieram ter com ele todos os seus irmãos, todas as suas irmãs, todos quantos antes o conheciam e comeram com ele pão em sua casa; condoeram-se dele e consolaram-no por toda a desgraça que o SENHOR lhe havia enviado; e cada um deles lhe deu uma moeda de prata e um anel de ouro.",
           "note_refs": []
         },
         {
           "verse": 12,
-          "text": "O abençoou a nova condição de Job mais do que a primeira, pois teve catorze mil ovelhas, seis mil camelos, mil juntas de bois e mil jumentas.",
+          "text": "O SENHOR abençoou a nova condição de Job mais do que a primeira, pois teve catorze mil ovelhas, seis mil camelos, mil juntas de bois e mil jumentas.",
           "note_refs": []
         },
         {
@@ -5542,7 +8164,48 @@
         {
           "verse": 14,
           "text": "E deu à primeira o nome de Jemima, à segunda, o nome de Quecia e à terceira, o nome de Quéren-Hapuc.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "notes": {
+            "3": "Para além dos bens recuperados, são os nomes dados às filhas de Job que servem para representar simbolicamente a era de felicidade que lhe foi dado viver de novo.",
+            "4": "Jemima significa algo como rola ou pomba.",
+            "5": "Quecia significa acácia florida.",
+            "6": "Quéren Hapuc significa azeviche, cor utilizada para realçar a beleza dos olhos das mulheres."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "job-42-n3",
+              "offset": 23,
+              "original_marker": "a",
+              "source_id": 157
+            },
+            {
+              "ref": "4",
+              "id": "job-42-n4",
+              "offset": 33,
+              "original_marker": "b",
+              "source_id": 158
+            },
+            {
+              "ref": "5",
+              "id": "job-42-n5",
+              "offset": 62,
+              "original_marker": "c",
+              "source_id": 159
+            },
+            {
+              "ref": "6",
+              "id": "job-42-n6",
+              "offset": 99,
+              "original_marker": "d",
+              "source_id": 160
+            }
+          ]
         },
         {
           "verse": 15,
@@ -5557,6 +8220,18 @@
         {
           "verse": 17,
           "text": "Então Job morreu velho e saciado de dias.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Resposta final de Job",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "Veredito de Deus",
           "note_refs": []
         }
       ]

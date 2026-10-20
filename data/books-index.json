@@ -235,7 +235,7 @@
       "id": "jl",
       "book": "Joel",
       "file": "books/jl.json",
-      "chaptersCount": 3,
+      "chaptersCount": 4,
       "available": true
     },
     {
@@ -305,7 +305,7 @@
       "id": "ml",
       "book": "Malaquias",
       "file": "books/ml.json",
-      "chaptersCount": 4,
+      "chaptersCount": 3,
       "available": true
     },
     {

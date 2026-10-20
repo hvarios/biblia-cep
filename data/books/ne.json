@@ -1,13 +1,89 @@
 {
+  "schema_version": 2,
   "book": "Neemias",
+  "book_id": "ne",
+  "source": {
+    "format": "docx",
+    "file": "16_Ne.docx",
+    "title": "Livro de Neemias"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": null,
+        "paragraphs": [
+          "O livro de Neemias consta de duas partes. Os capítulos 1-7 contêm o relato, na primeira pessoa, do processo de reconstrução das muralhas da cidade de Jerusalém. O protagonista, Neemias, enviado pelo rei Artaxerxes como governador da província de Judá, anima o povo a empreender este projeto e a levá-lo a bom termo, apesar da oposição. A segunda parte do livro (8-13) narra a etapa final do restabelecimento do povo de Israel em Judá e Jerusalém: a assembleia de renovação da aliança (8-10); o repovoamento da cidade de Jerusalém e a cerimónia de dedicação das muralhas (11-12); as reformas empreendidas por Neemias por ocasião do seu segundo mandato (13)."
+        ]
+      },
+      {
+        "title": "Contexto histórico",
+        "paragraphs": [
+          "A narrativa contida no livro de Neemias começa em Susa, residência de inverno dos reis da Pérsia. Neemias, o protagonista, desempenha ali as funções de copeiro real. Informado do estado funesto em que se encontrava a cidade de Jerusalém, decide pedir a Artaxerxes que o envie com a missão de restaurar as muralhas da cidade. Mais à frente na história, compreendemos que o rei o havia nomeado governador de Judá e que é nessa qualidade que Neemias assumiu a responsabilidade de liderar o processo de reconstrução das muralhas. Estamos no ano de 445 a.C.",
+          "A historicidade dos factos que constituem o núcleo do relato é quase unanimemente aceite, reconhecendo-se que judeus exilados assumiram cargos de relevo na corte dos reis persas; que um destes judeus possa ter sido enviado como governador da província de Judá; e que a reconstrução das muralhas de Jerusalém foi um projeto sancionado ou, pelo menos, tolerado pelas autoridades persas.",
+          "A questão mais debatida é a extensão e dimensão da assim chamada muralha de Neemias. A dificuldade em identificar o traçado desta muralha e o facto de a obra ter durado apenas 52 dias (6,15) levam muitos autores a considerar que se tratou apenas de reconstruir a muralha que rodeava a parte alta da cidade, isto é, a zona circunvizinha ao templo. Outros, pelo contrário, creem que Neemias e o povo reergueram a muralha que havia sido destruída pelos babilónios em 586 a.C., de acordo com o seu traçado original. À espera de novos dados arqueológicos, a questão permanece em debate.",
+          "O relato dos capítulos 8-13 é mais difícil de avaliar historicamente. A confluência de Esdras e Neemias, os dois protagonistas principais do processo de restauração, nos capítulos dedicados à cerimónia de renovação da aliança, parece ser fruto de uma idealização tardia dos acontecimentos. A inauguração da muralha é igualmente um relato com forte coloração teológica, como se fosse a dedicação ou consagração de um templo. Entretanto, uma tal cerimónia, assim como a iniciativa de repovoar a",
+          "cidade, podem ter sido realidades de algum modo verosímeis. De facto, Neemias pode ter sido reenviado pelo monarca persa, após uma breve permanência na corte; é perfeitamente plausível. O relato das reformas empreendidas, pelo contrário, é mais difícil de avaliar: tais reformas caberiam seguramente ao governador, mas não é possível ter a certeza de que não se trata de medidas tomadas muito mais tarde e posteriormente enquadradas no tempo de Neemias."
+        ]
+      },
+      {
+        "title": "Autor, fontes e data",
+        "paragraphs": [
+          "A autoria do livro de Neemias está dependente da autoria do livro de Esdras. Os dois livros formavam, pelo menos inicialmente, uma unidade e a maioria dos investigadores acredita que a redação final destes dois livros, com a confluência de Esdras e Neemias nos capítulos 8-10 de Neemias, obedece a um desejo de mostrar a totalidade do processo de restauração como constituindo uma unidade. É frequente atribuir-se ao chamado Cronista, isto é, ao autor dos dois livros das Crónicas, este trabalho de redação final sobre o texto, na segunda metade do século IV a.C.",
+          "Um relato na primeira pessoa constitui o núcleo do livro (1,1-7,72; 12,31-13,31) e uma parte importante dos autores vê nele as memórias de Neemias, o protagonista. Este documento, assim como as listas que pontuam o relato (3,1-32; 7,4-72; 10,11- 12), teriam servido de base ao trabalho do mencionado redator final. Há, contudo, quem questione tanto a datação acima referida como a autenticidade das supostas memórias de Neemias. Certos especialistas preferem uma data situada algures no período helenístico (323-31 a.C.)."
+        ]
+      },
+      {
+        "title": "Perspetiva teológica",
+        "paragraphs": [
+          "O livro de Neemias faz-nos escutar durante vários capítulos a voz do protagonista. São as suas memórias que nos oferecem um ponto de vista sobre o processo de reconstrução da muralha de Jerusalém. Mas não se trata de um simples relato do que aconteceu. Neemias lê os acontecimentos a partir do prisma da história da salvação. Na sua oração, em 1,4-11, pede a Deus para que seja ele mesmo a abrir o coração do rei persa, a fim de que a sua promessa de restaurar o seu povo se possa cumprir integralmente. Ao longo do relato, são várias as ocasiões em que nos recorda que a mão benevolente de Deus era a verdadeira protagonista do sucesso que o projeto ia conseguindo \\(2,7.18) e que só a ele cabe o mérito (6,16). É finalmente a Deus que cabe a memória e o juízo sobre as suas ações em favor do povo, como aquelas dos que se opuseram à vontade unânime do povo (5,19; 6,14; 13,14.22.29-31). As memórias de Neemias dão, por isso, expressão a uma visão da história dos homens na qual Deus não é um mero espetador, mas o principal promotor do progresso dos povos.",
+          "No centro do livro de Neemias surge a cidade de Jerusalém. Reconstruído o templo (Esd 1-6), é tempo de reconstruir a cidade, de a repovoar, de a tornar um símbolo vivo da misericórdia de Deus que perdoou ao seu povo e o fez regressar do exílio. Ainda que modesta no tamanho, a cidade santa aparece aos olhos de Neemias e",
+          "dos exilados que haviam regressado como o lugar que Deus escolheu para aí fazer resplandecer de novo o seu nome (1,9). A cerimónia pela qual as muralhas recém-edificadas de Jerusalém são dedicadas não tem paralelo na literatura bíblica e sugere precisamente esta consciência nova de que a cidade é agora um espaço sagrado, um lugar no qual o povo é chamado a viver uma vida que seja um culto permanente ao Deus da salvação. O Israel do pós-exílio recebe, por isso, de novo a missão de ser “um reino de sacerdotes e uma nação santa” (Ex 19,6), tal como no princípio. O Deus fiel reergue não somente as muralhas da cidade, mas também os braços caídos do povo, restituindo-lhe a sua vocação original, que é a de cantar os louvores daquele que o criou e resgatou.",
+          "O relato do regresso do exílio nos livros de Esdras e Neemias culmina em Neemias 8-10 com a grandiosa cerimónia de renovação da aliança. A leitura da Palavra de Deus e a sua explicação ao povo torna-se ocasião de uma confissão pública do pecado e da solene renovação da aliança entre Deus e o seu povo. É no confronto com esta palavra que o povo reconhece a sua infidelidade ao longo dos séculos e experimenta o desejo de ser perdoado. Deus, na sua magnanimidade, renova com os exilados que regressaram do exílio essa aliança tantas vezes violada, oferecendo o seu perdão às faltas cometidas e abrindo um novo capítulo na relação com o seu povo. Com os livros de Esdras e Neemias, é mais do que o renascimento político de Judá que está em jogo. O exílio, percebido como castigo pelo pecado, tinha afetado profundamente a própria identidade do povo eleito. O regresso e a restauração de Israel na terra da promessa dão ao povo a ocasião de voltar a escutar a Palavra de Deus como uma palavra de salvação e de se reconhecer, como no passado, objeto particular da sua misericórdia."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "verse": 1,
-          "text": "Neemias recebe notícias de Jerusalém (Est 4,1-17) Palavras de Neemias, filho de Hacalias. No mês de Quisleu do vigésimo ano, encontrando-me eu na fortaleza de Susa,",
-          "note_refs": []
+          "text": "Palavras de Neemias, filho de Hacalias. No mês de Quisleu do vigésimo ano, encontrando-me eu na fortaleza de Susa,",
+          "note_refs": [
+            "2",
+            "3",
+            "4"
+          ],
+          "notes": {
+            "2": "A expressão Palavras de Neemias (Dibrê Nehemiyah) funciona como sendo o título deste livro. Entretanto, mais do que palavras, o significado de dibrê poderia também ser atos. É certo que se recolhem palavras e discursos que são proferidos por Neemias. Mas um possível título como Atos de Neemias seria semelhante ao título hebraico dos dois livros das Crónicas que é Palavras dos dias (Dibrê hayyamim).",
+            "3": "Embora incompleta, a data parece fazer referência ao vigésimo ano do reinado de Artaxerxes I (2,1), isto é, ao ano 445 a.C. O mês de Quisleu é o nono mês do calendário hebraico e corresponde a novembro-dezembro.",
+            "4": "Em Susa ficava a residência de inverno dos monarcas persas (Est 1,2)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ne-1-n2",
+              "offset": 19,
+              "original_marker": "b",
+              "source_id": 2
+            },
+            {
+              "ref": "3",
+              "id": "ne-1-n3",
+              "offset": 73,
+              "original_marker": "c",
+              "source_id": 3
+            },
+            {
+              "ref": "4",
+              "id": "ne-1-n4",
+              "offset": 113,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 2,
@@ -16,8 +92,22 @@
         },
         {
           "verse": 3,
-          "text": "Responderam-me que os sobreviventes do cativeiro, que estão lá, na província, vivem em grande miséria e humilhação. A muralha de Jerusalém está em ruínas e as suas portas foram devoradas pelo fogo. Oração de Neemias (Esd 9,5-15; Ne 9,6-37; Dn 9,4-19; Est 4,17j-y)f",
-          "note_refs": []
+          "text": "Responderam-me que os sobreviventes do cativeiro, que estão lá, na província, vivem em grande miséria e humilhação. A muralha de Jerusalém está em ruínas e as suas portas foram devoradas pelo fogo.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O relato do estado de ruína em que se encontra Jerusalém e da humilhação em que vivem os habitantes da província de Judá faz supor que as consequências da destruição da cidade, cerca de 140 anos antes, às mãos dos babilónios (2Rs 25,8-12), ainda se fazem sentir. A forma dramática como Neemias reage às notícias é tida por alguns autores como um indício de que outros eventos, bem mais recentes, poderão estar ainda a ser assim evocados; a situação de ruína e humilhação pode ser fruto da intervenção violenta dos inimigos de Judá e Benjamim referida em Esd 4,23."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ne-1-n6",
+              "offset": 196,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 4,
@@ -41,13 +131,27 @@
         },
         {
           "verse": 8,
-          "text": "Recor- da-te, pois, da palavra que ordenaste ao teu servo Moisés que pronunciasse: ‘Se transgredirdes, hei de dispersar-vos entre os povos.",
+          "text": "Recorda-te, pois, da palavra que ordenaste ao teu servo Moisés que pronunciasse: ‘Se transgredirdes, hei de dispersar-vos entre os povos.",
           "note_refs": []
         },
         {
           "verse": 9,
           "text": "Porém, se voltardes para mim, guardando e cumprindo os meus mandamentos, ainda que os vossos desterrados estejam nos confins dos céus, dali os reunirei e os reconduzirei ao lugar que escolhi para ali fazer habitar o meu nome’.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Neemias não cita um versículo preciso da Bíblia, mas compõe uma citação com recurso a linguagem proveniente de distintas passagens, entre as quais Dt 4,27; 28,64 (v. 8b); 30,1-4; 12,5 (v. 9)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ne-1-n7",
+              "offset": 225,
+              "original_marker": "g",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 10,
@@ -57,7 +161,66 @@
         {
           "verse": 11,
           "text": "Estejam, pois, Senhor, os teus ouvidos atentos à oração do teu servo e à oração dos teus servos, que se comprazem em temer o teu nome. Concede, hoje, êxito ao teu servo e permite que seja acolhido com benevolência diante deste homem». Eu era, então, copeiro do rei.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "O ofício de copeiro real, além da seleção e serviço de vinho ao rei, provando-o primeiro para evitar tentativas de envenenamento, implicava o dever de ser um conviva agradável do monarca. Fazendo parte do círculo de pessoas próximas do rei, os copeiros gozavam de grande influência e era habitual serem-lhes confiadas outras tarefas e missões (Tb 1,22)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "ne-1-n8",
+              "offset": 265,
+              "original_marker": "h",
+              "source_id": 8
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "PRIMEIRA MISSÃO: AS MURALHAS (1,1-7,72)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A primeira parte do livro de Neemias (1,1-7,72) contém o relato da reconstrução das muralhas de Jerusalém. No reinado do rei Artaxerxes I (465-425 a. C.), Neemias, um oficial judeu da corte do rei persa, é enviado a Judá com a missão de promover a dita reconstrução. Neemias é nomeado igualmente governador da província (5,14-15). Uma peculiaridade destes capítulos (assim como de 12,31-13,31) é o uso da primeira pessoa no relato das peripécias vividas por Neemias, o que denuncia o recurso a uma espécie de memórias, escritas pelo protagonista."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ne-1-n1",
+              "offset": 39,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
+        },
+        {
+          "before_verse": 1,
+          "text": "Neemias recebe notícias de Jerusalém (Est 4,1-17)",
           "note_refs": []
+        },
+        {
+          "before_verse": 4,
+          "text": "Oração de Neemias (Esd 9,5-15; Ne 9,6-37; Dn 9,4-19; Est 4,17j-y)",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "À imagem de Esdras (Esd 9,5-15), Neemias profere uma oração que pode ser caraterizada como uma confissão comunitária do pecado (Ne 9,6-37; Dn 9,4-19; Sl 78; 106; Est 4,17j-y). Neste caso, o pedido de perdão aparece transformado num pedido de ajuda muito concreto para que Deus permita a Neemias encontrar favor diante do rei."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ne-1-n5",
+              "offset": 65,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
         }
       ]
     },
@@ -66,8 +229,31 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Missão de Neemias e partida para Jerusalém (Esd 7) No mês de Nisan do vigésimo ano do rei Artaxerxes, estando o vinho diante dele, tomei-o e servi-o ao rei. Ora, eu jamais me tinha apresentado de semblante triste na sua presença.",
-          "note_refs": []
+          "text": "No mês de Nisan do vigésimo ano do rei Artaxerxes, estando o vinho diante dele, tomei-o e servi-o ao rei. Ora, eu jamais me tinha apresentado de semblante triste na sua presença.",
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "O mês de Nisan é o primeiro do calendário hebraico, correspondendo a março-abril no calendário gregoriano. Se a data em Ne 1,1 é ainda a do vigésimo ano do reinado do rei Artaxerxes I, este relato refere-se a acontecimentos ocorridos oito meses antes. Mas isto contradiz a lógica do relato e os comentadores esforçam-se por resolver a discrepância. Uma solução é supor que, na corte, o ano de reinado fosse contado a partir do momento da subida ao trono do monarca, independentemente da altura do ano em que se estivesse.",
+            "2": "O contexto aqui pressuposto parece ser o de um banquete na corte persa (Est 7,2)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ne-2-n1",
+              "offset": 49,
+              "original_marker": "i",
+              "source_id": 9
+            },
+            {
+              "ref": "2",
+              "id": "ne-2-n2",
+              "offset": 104,
+              "original_marker": "j",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 2,
@@ -81,7 +267,7 @@
         },
         {
           "verse": 4,
-          "text": "Disse-me o rei: «E o que querias tu, então?» Encomendei-me então ao Deus dos céus",
+          "text": "Disse-me o rei: «E o que querias tu, então?» Encomendei- -me então ao Deus dos céus",
           "note_refs": []
         },
         {
@@ -92,12 +278,40 @@
         {
           "verse": 6,
           "text": "O rei, junto de quem estava sentada a rainha, disse-me então: «Até quando durará a tua viagem e quando voltarás?» Tendo-lhe eu dado um prazo, o rei achou bem e enviou-me.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Para designar a rainha, o termo hebraico chegal significa, na sua raiz, a favorita de entre as mulheres do harém, mas acabou por se aplicar também à rainha."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ne-2-n3",
+              "offset": 44,
+              "original_marker": "k",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "E eu disse ainda ao rei: «Se parecer bem ao rei, sejam-me dadas cartas para os governadores da região de Além-do-Rio, para que me deem passagem até chegar a Judá.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A expressão Além-do-Rio refere-se à região que se encontra a ocidente do rio Eufrates, já que esta designação foi cunhada a partir da perspetiva dos habitantes da Mesopotâmia e da Pérsia."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ne-2-n4",
+              "offset": 116,
+              "original_marker": "l",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 8,
@@ -111,13 +325,41 @@
         },
         {
           "verse": 10,
-          "text": "Porém, quando Sanebalat, o horonita, e Tobias, o oficial amonita, souberam disto, ficaram extremamente irritados por vir alguém preocupar-se com o bem dos filhos de Israel. Chegada a Jerusalém e inspeção das muralhas (Esd 8,31-36)",
-          "note_refs": []
+          "text": "Porém, quando Sanebalat, o horonita, e Tobias, o oficial amonita, souberam disto, ficaram extremamente irritados por vir alguém preocupar-se com o bem dos filhos de Israel.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Sanebalat parece ter sido governador da Samaria, sendo originário ou de Bet-Horon, uma cidade a nordeste de Jerusalém (Js 16,3.5; 1Cr 7,24) ou de Horonaim na região de Moab (Is 15,5; Jr 48,3.5.34). Tobias, apelidado literalmente o servo amonita, parece ter exercido um cargo oficial na região de Amon, atual Jordânia. O tema da oposição dos adversários de Neemias ao projeto de reconstrução das muralhas de Jerusalém é um dos fios-condutores do relato de Ne 1,1-7,72. No decorrer da narrativa, esta oposição vai sempre crescendo e serve para enfatizar a forma dramática como Neemias e os habitantes de Judá lograram concluir, com a ajuda de Deus, a obra iniciada."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ne-2-n5",
+              "offset": 64,
+              "original_marker": "a",
+              "source_id": 13
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Cheguei a Jerusalém e permaneci ali três dias.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Ver Esd 8,32."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ne-2-n6",
+              "offset": 45,
+              "original_marker": "b",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 12,
@@ -136,8 +378,22 @@
         },
         {
           "verse": 15,
-          "text": "Continuei, por isso, a subir ainda de noite pela torrente e ia inspecionando a muralha. Dei a volta e voltei a entrar pela porta do Vale; e assim regressei. Primeiras reações ao projeto de Neemias (Esd 3-4)",
-          "note_refs": []
+          "text": "Continuei, por isso, a subir ainda de noite pela torrente e ia inspecionando a muralha. Dei a volta e voltei a entrar pela porta do Vale; e assim regressei.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "É difícil reconstruir o itinerário noturno de Neemias. As referências toponímicas parecem sugerir que a inspeção das muralhas se limitou às zonas sudeste e sul da cidade, na confluência dos vales do Cédron e de Hinom."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ne-2-n7",
+              "offset": 155,
+              "original_marker": "c",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 16,
@@ -157,11 +413,65 @@
         {
           "verse": 19,
           "text": "Sanebalat, o horonita, Tobias, o oficial amonita, e Guéchem, o árabe, foram informados disto e escarneceram de nós, dizendo em tom de desprezo: «Que estais a fazer? Será que pretendeis revoltar-vos contra o rei?»",
-          "note_refs": []
+          "note_refs": [
+            "8",
+            "9"
+          ],
+          "notes": {
+            "8": "À lista dos adversários de Neemias e do projeto de reconstrução junta-se agora Guéchem, o árabe (cf. 6,1-2.10). As fontes extrabíblicas parecem sugerir que se trata do rei dos Quedaritas, um dos principais grupos tribais árabes, cujos domínios se estendiam entre o norte da Península Arábica e as fronteiras de Judá.",
+            "9": "Cf. Esd 4,11-16."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "ne-2-n8",
+              "offset": 68,
+              "original_marker": "d",
+              "source_id": 16
+            },
+            {
+              "ref": "9",
+              "id": "ne-2-n9",
+              "offset": 212,
+              "original_marker": "e",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 20,
           "text": "Respondi-lhes então nestes termos: «É o próprio Deus dos céus quem nos dará êxito. Nós que somos seus servos vamos erguer-nos e vamos reconstruir. Vós, pelo contrário, não tendes nem parte, nem direito, nem memória em Jerusalém».",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Numa linguagem que faz lembrar a resposta de Zorobabel aos inimigos de Judá e Benjamim (Esd 4,1- 3), Neemias opõe o direito do povo a reconstruir a muralha da cidade à falta de direito dos adversários. Os termos utilizados têm ressonância jurídica e implicam exclusões de ordem política. Sobre o ter parte, cf. 2Sm 20,1; 1Rs 12,16; sobre o direito jurisdicional e sobre a memória cultual, cf. Js 4,7; Zc 6,14."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "ne-2-n10",
+              "offset": 228,
+              "original_marker": "f",
+              "source_id": 18
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Missão de Neemias e partida para Jerusalém (Esd 7)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Chegada a Jerusalém e inspeção das muralhas (Esd 8,31-36)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 16,
+          "text": "Primeiras reações ao projeto de Neemias (Esd 3-4)",
           "note_refs": []
         }
       ]
@@ -171,8 +481,22 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Lista dos que trabalharam na reconstrução Ergueu-se o sumo sacerdote Eliachib e os sacerdotes, seus irmãos, e reconstruíram a porta das Ovelhas; eles mesmos a consagraram e assentaram as portas. E consagraram a secção até à torre dos Cem, consagraram-na até à torre de Hananiel.",
-          "note_refs": []
+          "text": "Ergueu-se o sumo sacerdote Eliachib e os sacerdotes, seus irmãos, e reconstruíram a porta das Ovelhas; eles mesmos a consagraram e assentaram as portas. E consagraram a secção até à torre dos Cem, consagraram-na até à torre de Hananiel.",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Esta dupla referência a uma consagração das muralhas parece antecipar a cerimónia de dedicação relatada em 12,27-44. O uso de terminologia normalmente reservada aos templos (consagração, dedicação) neste contexto parece sugerir uma espécie de assimilação religiosa e cultual entre o templo e a cidade (cf. Sl 50,20-21). Uma tal conceção pode também ter motivado a inclusão do relato da oposição à reconstrução da segunda no interior da descrição do processo de reconstrução do templo em Esd 4,6-24."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ne-3-n2",
+              "offset": 235,
+              "original_marker": "h",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 2,
@@ -232,7 +556,21 @@
         {
           "verse": 13,
           "text": "Hanun reforçou a porta do Vale com os habitantes de Zanoa; reconstruíram-na e assentaram as suas portas, com as respetivas fechaduras e trancas. E reconstruíram ainda mil côvados de muralha até à porta do Lixo.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Esta medida corresponde a aproximadamente quinhentos metros."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ne-3-n3",
+              "offset": 178,
+              "original_marker": "a",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 14,
@@ -247,7 +585,30 @@
         {
           "verse": 16,
           "text": "Depois dele, Neemias, filho de Azebuc, chefe de metade do distrito de Bet-Sur, reforçou a muralha até diante dos túmulos de David, e, mais além, até ao reservatório construído junto à caserna militar.",
-          "note_refs": []
+          "note_refs": [
+            "4",
+            "5"
+          ],
+          "notes": {
+            "4": "Trata-se de outro personagem com o mesmo nome que o protagonista do livro.",
+            "5": "Lit.: … à casa dos valentes."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ne-3-n4",
+              "offset": 37,
+              "original_marker": "b",
+              "source_id": 22
+            },
+            {
+              "ref": "5",
+              "id": "ne-3-n5",
+              "offset": 199,
+              "original_marker": "c",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 17,
@@ -326,7 +687,7 @@
         },
         {
           "verse": 32,
-          "text": "Enfim, entre a sala alta da esquina e a porta das Ovelhas, trabalharam no reforço os ourives e os negociantes. Oposição ao projeto de reconstrução (Esd 4; Ne 2,19-20; 4,1-5; 6,1-9)",
+          "text": "Enfim, entre a sala alta da esquina e a porta das Ovelhas, trabalharam no reforço os ourives e os negociantes.",
           "note_refs": []
         },
         {
@@ -342,7 +703,21 @@
         {
           "verse": 35,
           "text": "E Tobias, o amonita, que estava a seu lado, acrescentou: «Mesmo que eles a reconstruam, bastará que uma raposa salte sobre ela, para que a sua muralha de pedras se desmorone!»",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Se num primeiro momento, os adversários do projeto se limitaram a comentar as possíveis implicações políticas do desejo de refortificar a cidade (2,19), passam agora ao escárnio e ao insulto. A oposição vai passar das palavras aos atos, com a ameaça de uma intervenção violenta (4,1-5). O último recurso será uma conspiração contra o protagonista (6,1-9). O relato do progresso dos trabalhos é, assim, acompanhado a cada passo por estas breves notícias sobre a crescente oposição. A conclusão da muralha é simultaneamente uma reivindicação de Neemias e daqueles que aceitaram o desafio e também de Deus que inspirou e sustentou o esforço de reconstrução."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ne-3-n6",
+              "offset": 173,
+              "original_marker": "d",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 36,
@@ -352,11 +727,51 @@
         {
           "verse": 37,
           "text": "Não perdoes a sua iniquidade nem removas o seu pecado de diante de ti, porque eles injuriaram os construtores».",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Neemias interrompe a narração das peripécias para elevar a voz numa breve oração. Estas preces espontâneas pontuam o relato na primeira pessoa (3,36-37; 5,19; 6,14; 13,14.22.29.31). Estas orações podem ser comparadas aos salmos de lamentação individual (Sl 44; 74; 79), nos quais o orante recorda as ações perversas daqueles que o oprimem e suplica a Deus que os castigue em conformidade (Sl 35; 58,7-10; 69,23-29; 109,6-19)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ne-3-n7",
+              "offset": 109,
+              "original_marker": "e",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 38,
           "text": "Reconstruímos assim a muralha e reforçámo-la toda até meia altura, porque o povo estava de coração neste trabalho.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Lista dos que trabalharam na reconstrução",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A lista incluída neste capítulo tem todas as características de um documento de arquivo. Provavelmente não faria parte das memórias escritas por Neemias, tendo sido intercalado neste ponto com o intuito de preservar a memória daqueles que efetivamente trabalharam na reparação das muralhas da cidade. A lista está organizada de acordo com o princípio geográfico: a primeira secção (vv. 1-5) refere-se às reparações feitas na parte norte da muralha, a segunda (vv. 6-13) ao trabalho na parte ocidental da muralha, a terceira (vv. 14-15) à reconstrução do setor sul, e a quarta (vv. 16-32) à reparação da secção oriental."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ne-3-n1",
+              "offset": 41,
+              "original_marker": "g",
+              "source_id": 19
+            }
+          ]
+        },
+        {
+          "before_verse": 33,
+          "text": "Oposição ao projeto de reconstrução (Esd 4; Ne 2,19-20; 4,1-5; 6,1-9)",
           "note_refs": []
         }
       ]
@@ -366,8 +781,22 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Novas ameaças e desânimo do povo (Esd 4; Ne 2,19-20; 3,33-35; 6,1-9) Porém, quando Sanebalat, Tobias, os árabes, os amonitas e os habitantes de Asdod foram informados de que a reparação das muralhas de Jerusalém prosseguia a bom ritmo e que as brechas começavam a estar tapadas, encheram-se de cólera",
-          "note_refs": []
+          "text": "Porém, quando Sanebalat, Tobias, os árabes, os amonitas e os habitantes de Asdod foram informados de que a reparação das muralhas de Jerusalém prosseguia a bom ritmo e que as brechas começavam a estar tapadas, encheram-se de cólera",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Somam-se agora aos adversários os habitantes de Asdod, uma província, que tomou o nome da cidade filisteia homónima, localizada a oeste de Judá. Fecha-se, assim, o círculo. Neemias e os que constroem estão rodeados de inimigos: Sanebalat e os samaritanos a norte, Tobias e os amonitas a este, Guéchem e os árabes a sul e os asdoditas a oeste."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ne-4-n1",
+              "offset": 80,
+              "original_marker": "f",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 2,
@@ -382,11 +811,25 @@
         {
           "verse": 4,
           "text": "Então os de Judá diziam: «Já faltam as forças aos carregadores e os escombros são em grande quantidade. Assim nunca mais conseguiremos reconstruir a muralha!»",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A lamentação do povo aparece aqui sob a forma de um estribilho. É possível que os trabalhadores tenham usado esta espécie de slogan num momento de desânimo, quando decidiram abandonar o trabalho vencidos pela dureza do mesmo e pela pressão exterior."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ne-4-n2",
+              "offset": 156,
+              "original_marker": "a",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 5,
-          "text": "Por seu lado, os nossos adversários diziam: «Sem que se apercebam nem deem conta disso, cairemos sobre eles para os matar e assim interromperemos os trabalhos». Neemias organiza a defesa e os trabalhos prosseguem",
+          "text": "Por seu lado, os nossos adversários diziam: «Sem que se apercebam nem deem conta disso, cairemos sobre eles para os matar e assim interromperemos os trabalhos».",
           "note_refs": []
         },
         {
@@ -422,7 +865,30 @@
         {
           "verse": 12,
           "text": "Os que estavam a reconstruir tinham as espadas cingidas à cintura e assim trabalhavam. Aquele que tocava a trombeta estava sempre ao meu lado.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Lit.: … o chofar.",
+            "4": "Sobre a importância do papel do tocador de chofar em contexto de guerra, ver Jz 3,27; 6,34; 7,18; 1Sm 13,3."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ne-4-n3",
+              "offset": 115,
+              "original_marker": "b",
+              "source_id": 28
+            },
+            {
+              "ref": "4",
+              "id": "ne-4-n4",
+              "offset": 141,
+              "original_marker": "c",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 13,
@@ -449,6 +915,18 @@
           "text": "E nem eu, nem os meus irmãos, nem os homens de guarda que me escoltavam, nenhum de nós tirava a roupa que tinha vestida e cada um segurava a sua lança na mão direita.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Novas ameaças e desânimo do povo (Esd 4; Ne 2,19-20; 3,33-35; 6,1-9)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 6,
+          "text": "Neemias organiza a defesa e os trabalhos prosseguem",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -456,7 +934,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Crise social e económica (Dt 15; Lv 25) Levantou-se, então, entre os homens do povo e as suas mulheres, um grande clamor contra os seus irmãos judeus.",
+          "text": "Levantou-se, então, entre os homens do povo e as suas mulheres, um grande clamor contra os seus irmãos judeus.",
           "note_refs": []
         },
         {
@@ -477,7 +955,21 @@
         {
           "verse": 5,
           "text": "Mais ainda, somos da mesma carne e osso que os nossos irmãos e os seus filhos são como os nossos. Temos, porém, que sujeitar os nossos filhos e as nossas filhas a serem escravos. Aliás, algumas das nossas filhas já se sujeitaram e não podemos fazer nada, pois as nossas terras e as nossas vinhas já estão nas mãos de outros».",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "As queixas do povo apresentam as várias formas como os membros mais pobres da sociedade se viam obrigados a agir em caso de crise. A fim de obter trigo para sobreviver ou de pagar os impostos devidos ao rei persa, viam-se forçados a hipotecar a terra e os bens que haviam recebido por herança e mesmo a entregar os filhos e as filhas como escravos. O carácter endémico destas crises tornou a escravidão por dívida um fenómeno frequente e até socialmente aceite (2Rs 4,1-2). A lei limitou-se a tentar minimizar os efeitos desta prática, prescrevendo que os escravos por dívida devem ser tratados com respeito e libertados ao fim de sete anos (Ex 21,2-11; Dt 15,12-18) ou por ocasião do ano jubilar (Lv 25,39)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ne-5-n2",
+              "offset": 323,
+              "original_marker": "e",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 6,
@@ -487,12 +979,40 @@
         {
           "verse": 7,
           "text": "Por imperativo do meu coração decidi repreender os notáveis e os magistrados. Disse-lhes então: «Estais a cobrar assim juros aos vossos irmãos?» Convoquei então, por causa deles, uma grande assembleia",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A acusação dirigida por Neemias contra os notáveis e oficiais faz eco à proibição expressa em Ex 22,24 de atuar como um credor usurário com os mais indigentes do povo."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ne-5-n3",
+              "offset": 144,
+              "original_marker": "f",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "e disse-lhes: «Nós resgatámos, conforme pudemos, os nossos irmãos judeus que tinham sido vendidos aos outros povos. E vós, agora, vendeis os vossos irmãos, deixando para nós o dever de os resgatar?» E eles calaram-se, sem saberem o que responder.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Neemias parece sugerir que aqueles que tomaram como escravos outros judeus também se sentiram autorizados a vendê-los a compradores estrangeiros. A acusação é credível. Os povos vizinhos, fenícios, gregos e árabes, estavam ativamente envolvidos no negócio muito lucrativo da venda de escravos (Ez 27,13; Jl 4,3.4-8; Am 1,9) e é bem provável que tenham encontrado entre a aristocracia judaica parceiros comerciais interessados."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ne-5-n4",
+              "offset": 198,
+              "original_marker": "g",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 9,
@@ -507,27 +1027,92 @@
         {
           "verse": 11,
           "text": "Devolvei-lhes, hoje mesmo, as suas terras, as suas vinhas, as suas oliveiras e as suas casas; e restituí-lhes ainda a percentagem que lhes cobrastes como juro sobre o dinheiro, o trigo, o vinho novo e o azeite».",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A estratégia de Neemias parece ser a de aproveitar a crise económica para convocar uma espécie de ano sabático (Dt 15) ou jubilar (Lv 25) de emergência. Algo semelhante ao que sucedeu durante o cerco de Jerusalém, quando o rei Sedecias ordenou a libertação dos escravos (Jr 34,8-22)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ne-5-n5",
+              "offset": 211,
+              "original_marker": "h",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 12,
-          "text": "Eles responderam: «Restituiremos e nada mais exi- giremos deles. Faremos como dizes». Convoquei, então, os sacerdotes e intimei-os a jurar que procederiam em conformidade com isto.",
+          "text": "Eles responderam: «Restituiremos e nada mais exigiremos deles. Faremos como dizes». Convoquei, então, os sacerdotes e intimei-os a jurar que procederiam em conformidade com isto.",
           "note_refs": []
         },
         {
           "verse": 13,
-          "text": "Finalmente, sacudi a dobra do meu manto e declarei: «Que Deus sacuda para fora da sua casa e da sua propriedade todo aquele que não mantiver este juramento! Que seja sacudido e despojado!» A assembleia respondeu em uníssono: «Ámen!»; e louvaram o Senhor. E o povo cumpriu aquilo que foi dito. Primeiro período de Neemias como governador (Ne 13)",
-          "note_refs": []
+          "text": "Finalmente, sacudi a dobra do meu manto e declarei: «Que Deus sacuda para fora da sua casa e da sua propriedade todo aquele que não mantiver este juramento! Que seja sacudido e despojado!» A assembleia respondeu em uníssono: «Ámen!»; e louvaram o Senhor. E o povo cumpriu aquilo que foi dito.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O gesto de sacudir a dobra do manto, que servia como uma espécie de bolso, precede as palavras de excomunhão dirigidas contra todos aqueles que se recusem a cumprir escrupulosamente com o acordado (Esd 10,8). No mundo da antiguidade, as palavras de ameaça ou maldição dirigidas contra os transgressores de um pacto eram, algumas vezes, acompanhadas de gestos simbólicos correspondentes, como queimar um objeto (1Rs 14,10)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ne-5-n6",
+              "offset": 188,
+              "original_marker": "a",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 14,
           "text": "Quanto a mim, desde o dia em que ele me estabeleceu como governador da região de Judá, no vigésimo ano do rei Artaxerxes, e até ao trigésimo segundo ano do mesmo reinado, durante doze anos, nunca comi, nem os meus irmãos, da provisão destinada ao governador.",
-          "note_refs": []
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "O pronome ele refere-se naturalmente ao imperador da Pérsia.",
+            "8": "O primeiro período de Neemias como governador (13,6) dura entre 445 a.C. e 433 a.C. Enviado pelo rei persa com a missão de reconstruir a muralha da cidade de Jerusalém (2,1-8), Neemias parece ter sido nomeado governador de Judá, pouco depois da sua chegada à cidade."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ne-5-n7",
+              "offset": 36,
+              "original_marker": "b",
+              "source_id": 37
+            },
+            {
+              "ref": "8",
+              "id": "ne-5-n8",
+              "offset": 169,
+              "original_marker": "c",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Ao invés, os governadores que me precederam sobrecarregaram o povo, tirando-lhes o pão de cada dia, à razão de quarenta siclos de prata. E os seus servos dominavam o povo. Eu, porém, não fiz assim, por causa do temor de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Quarenta siclos de prata correspondem a cerca de meio quilo."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "ne-5-n9",
+              "offset": 135,
+              "original_marker": "d",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 16,
@@ -547,6 +1132,46 @@
         {
           "verse": 19,
           "text": "Recorda-te, ó meu Deus, em meu favor de tudo aquilo que eu fiz por este povo!",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Cf. nota em 3,36-37. Esta segunda oração espontânea, à imagem do que acontecerá em 13,14.22.31, insiste sobre os méritos do protagonista, pedindo a Deus que o recompense pelo bem realizado."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "ne-5-n10",
+              "offset": 77,
+              "original_marker": "e",
+              "source_id": 40
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Crise social e económica (Dt 15; Lv 25)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A crise relatada neste capítulo parece ser fruto da pressão económica sobre as camadas mais pobres da população, resultante da necessidade de conjugar o trabalho na muralha e as despesas implicadas com a luta diária pela sobrevivência, própria de quem vive dependente da terra numa economia de subsistência."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ne-5-n1",
+              "offset": 39,
+              "original_marker": "d",
+              "source_id": 30
+            }
+          ]
+        },
+        {
+          "before_verse": 14,
+          "text": "Primeiro período de Neemias como governador (Ne 13)",
           "note_refs": []
         }
       ]
@@ -556,13 +1181,36 @@
       "verses": [
         {
           "verse": 1,
-          "text": "A campanha de intimidação (Esd 4; Ne 2,19-20; 3,33-35; 4,1-5) Quando Sanebalat, Tobias e Guéchem, o árabe, e o resto dos nossos inimigos foram informados de que eu tinha reconstruído a muralha e já não havia brechas, embora, naquela altura, ainda faltasse colocar as portas no sítio,",
+          "text": "Quando Sanebalat, Tobias e Guéchem, o árabe, e o resto dos nossos inimigos foram informados de que eu tinha reconstruído a muralha e já não havia brechas, embora, naquela altura, ainda faltasse colocar as portas no sítio,",
           "note_refs": []
         },
         {
           "verse": 2,
           "text": "Sanebalat e Guéchem mandaram dizer-me: «Vem e conversemos em Cafirim, no vale de Ono». Porém, o que eles pretendiam era fazer-me mal.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "A exata localização de Cafirim e do Vale de Ono é desconhecida. Alguns autores creem que o vale do Ono era uma região entre as províncias da Samaria e de Asdod, administrada diretamente pelas autoridades persas. A opinião mais consensual situa o Vale de Ono na região a noroeste de Jerusalém, nos limites da província de Judá (Esd 2,33; Ne 11,35).",
+            "2": "Cf. nota em 3,33-35."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ne-6-n1",
+              "offset": 84,
+              "original_marker": "f",
+              "source_id": 41
+            },
+            {
+              "ref": "2",
+              "id": "ne-6-n2",
+              "offset": 132,
+              "original_marker": "g",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 3,
@@ -587,7 +1235,21 @@
         {
           "verse": 7,
           "text": "e que até já estabeleceste profetas para proclamarem em Jerusalém que há um rei em Judá. O rei será seguramente informado destes rumores. Vem, por isso, para que possamos discutir sobre isto juntos».",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Cf. Esd 4,11-16; Ne 2,19. O rumor acerca do estabelecimento de profetas parece fazer eco ao envolvimento destas figuras carismáticas no ritual de eleição dos reis no período pré-exílico. Exemplos disso são: Samuel no caso de Saul e David (1Sm 9-10; 16); Eliseu no caso de Jeú (2Rs 9; etc.). A esperança de restauração da dinastia davídica no período depois do exílio parece ter-se concentrado, pelo menos num primeiro momento, em redor de Zorobabel, com os profetas Ageu e Zacarias a darem voz a este movimento (Ag 2,23; Zc 4). É possível que Neemias tenha suscitado uma esperança similar entre grupos de judeus, embora nada leve a supor que ele tivesse ascendência davídica."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ne-6-n3",
+              "offset": 199,
+              "original_marker": "h",
+              "source_id": 44
+            }
+          ]
         },
         {
           "verse": 8,
@@ -602,7 +1264,21 @@
         {
           "verse": 10,
           "text": "Dirigi-me, então, a casa de Chemaías, filho de Delaías, filho de Metabiel, que se encontrava fechada. Ele disse-me: «Reunamo-nos na casa de Deus, no interior do templo, e fechemos as portas do templo, porque virão para te matar; virão para te matar esta noite mesmo!»",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Ou: o qual estava impedido. A identidade de Chemaías é desconhecida. Neste caso, parece atuar como profeta, aparentemente a mando e pago de Tobias e Sanebalat. É possível que estivesse de algum modo ligado ao culto. A razão pela qual se encontrava impedido de sair de casa também não é declarada. Estaria num estado de impureza ritual?"
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ne-6-n4",
+              "offset": 101,
+              "original_marker": "i",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 11,
@@ -617,17 +1293,59 @@
         {
           "verse": 13,
           "text": "E porque lhe pagaram? Foi para me atemorizar e me induzir ao pecado, se eu procedesse daquela maneira. Teriam então motivo para me desacreditar.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O conselho de Chemaías é que Neemias recorra ao direito de asilo previsto na lei (Ex 21,13-14), refugiando-se no templo. Note-se, contudo, que um leigo não estaria autorizado a entrar no santuário propriamente dito, devendo exercer o seu direito junto do altar exterior (1Rs 1,50). Ao insistir em que Neemias se esconda no santuário, Chemaías pode efetivamente estar a estender-lhe uma armadilha: ao violar a proibição, o nosso protagonista tornar-se-ia réu de morte (Nm 18,7). Esta é, pelo menos, a forma como Neemias entendeu o sucedido. Em todo o caso, esta mesma lei de asilo nem sempre era garantia de sobrevivência (1Rs 2,28-34)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ne-6-n5",
+              "offset": 144,
+              "original_marker": "j",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 14,
-          "text": "Recorda-te, ó meu Deus, das ações de Tobias e de Sanebalat. Recorda-te, também, da profetisa Noadias e dos outros profetas que tentaram atemorizar-me! Conclusão dos trabalhos de reparação da muralha",
-          "note_refs": []
+          "text": "Recorda-te, ó meu Deus, das ações de Tobias e de Sanebalat. Recorda-te, também, da profetisa Noadias e dos outros profetas que tentaram atemorizar-me!",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Cf. nota em 3,36-37. Esta é uma das poucas referências a profetisas na Bíblia (Ex 15,20: Maria; Jz 4,4: Débora; 2Rs 22,14-22: Hulda)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ne-6-n6",
+              "offset": 150,
+              "original_marker": "a",
+              "source_id": 48
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "A muralha foi terminada no vigésimo quinto dia do mês de Elul, em cinquenta e dois dias.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "O mês de Elul é o sexto mês do calendário hebraico e corresponde a agosto-setembro no calendário gregoriano. A reparação da muralha teve lugar, por isso, entre meados de julho e setembro de 445 a.C."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ne-6-n7",
+              "offset": 88,
+              "original_marker": "b",
+              "source_id": 49
+            }
+          ]
         },
         {
           "verse": 16,
@@ -642,11 +1360,37 @@
         {
           "verse": 18,
           "text": "De facto, ele tinha em Judá muitos que lhe juravam fidelidade, por ser genro de Checanias, filho de Ara, e pelo facto de o seu filho Joanan ter casado com a filha de Mechulam, filho de Baraquias.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Tobias, apesar de ter a sua base em Amon, parece ter ligações com as principais famílias de Judá. De facto, em 13,4, é dito que estava associado por parentesco ao sumo-sacerdote Eliachib."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "ne-6-n8",
+              "offset": 195,
+              "original_marker": "c",
+              "source_id": 50
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "Estes falavam bem dele na minha presença e comunicavam-lhe o que eu dizia. Tobias continuava a escrever cartas para me atemorizar.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "A campanha de intimidação (Esd 4; Ne 2,19-20; 3,33-35; 4,1-5)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 15,
+          "text": "Conclusão dos trabalhos de reparação da muralha",
           "note_refs": []
         }
       ]
@@ -656,8 +1400,22 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Neemias organiza a defesa da cidade Logo que foi reconstruída a muralha e colocadas as portas, foram estabelecidos nas suas funções os porteiros, os cantores e os levitas.",
-          "note_refs": []
+          "text": "Logo que foi reconstruída a muralha e colocadas as portas, foram estabelecidos nas suas funções os porteiros, os cantores e os levitas.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A referência aos cantores e aos levitas neste contexto parece continuar o processo de assimilação entre o templo e a cidade de Jerusalém já referido (3,1 nota): o recinto sagrado, cuja proteção estava confiada àqueles grupos de ministros, estende-se agora até aos limites da Jerusalém muralhada (13,22)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ne-7-n1",
+              "offset": 134,
+              "original_marker": "d",
+              "source_id": 51
+            }
+          ]
         },
         {
           "verse": 2,
@@ -666,18 +1424,46 @@
         },
         {
           "verse": 3,
-          "text": "Ordenei-lhes que não se abrissem as portas de Jerusalém enquanto o sol não fizesse sentir o seu calor e que, enquanto as sentinelas ainda estivessem no seu posto, se fechassem as portas e pusessem as trancas. Ordenei-lhes ainda que se estabelecessem piquetes com os habitantes de Jerusalém, dispondo-os, por turnos, cada um diante da sua casa. Lista dos repatriados (Esd 2,1-67)",
+          "text": "Ordenei-lhes que não se abrissem as portas de Jerusalém enquanto o sol não fizesse sentir o seu calor e que, enquanto as sentinelas ainda estivessem no seu posto, se fechassem as portas e pusessem as trancas. Ordenei-lhes ainda que se estabelecessem piquetes com os habitantes de Jerusalém, dispondo-os, por turnos, cada um diante da sua casa.",
           "note_refs": []
         },
         {
           "verse": 4,
           "text": "A cidade era grande e extensa para ambos os lados, mas a população era escassa e as casas ainda estavam por reconstruir.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Uma vez a muralha reparada, Neemias enfrenta-se agora com o problema do repovoamento da cidade. A presente situação precisava de ser remediada, não só por razões políticas, mas também teológicas. Uma cidade despovoada, como que abandonada aos animais que por ela quiserem passar, é um sinal de maldição (Is 34). O ideal é uma cidade, mais ainda a cidade de Jerusalém, bem traçada e compacta (Sl 122), a transbordar de habitantes (Is 49,19-20; 54,2-3; cf. Ez 36,10.33)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ne-7-n2",
+              "offset": 119,
+              "original_marker": "e",
+              "source_id": 52
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "O meu Deus colocou no meu coração que eu reunisse os notáveis, os magistrados e o povo, a fim de proceder a um recenseamento. Encontrei um livro com o registo genealógico daqueles que haviam regressado primeiro e vi que ali estava escrito o seguinte:",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Esta lista de repatriados aparece igualmente em Esd 2,1-67, com ligeiras discrepâncias."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ne-7-n3",
+              "offset": 250,
+              "original_marker": "f",
+              "source_id": 53
+            }
+          ]
         },
         {
           "verse": 6,
@@ -977,12 +1763,40 @@
         {
           "verse": 65,
           "text": "O governador proibiu-os de comer dos alimentos consagrados até que se apresentasse um sacerdote para consultar os urim e os tumim.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Sobre estes objetos sagrados, ver Esd 2,63 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ne-7-n4",
+              "offset": 129,
+              "original_marker": "a",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 66,
           "text": "Toda a comunidade era formada por um total de 42360 pessoas,",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Sobre este número, ver Esd 2,64 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ne-7-n5",
+              "offset": 59,
+              "original_marker": "b",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 67,
@@ -991,7 +1805,7 @@
         },
         {
           "verse": 68,
-          "text": "Possuíam ainda 435 camelos e 6720 jumentos. Donativos para a obra (Esd 2,68-70; 1 Cr 29,5-9)",
+          "text": "Possuíam ainda 435 camelos e 6720 jumentos.",
           "note_refs": []
         },
         {
@@ -1002,16 +1816,75 @@
         {
           "verse": 70,
           "text": "Os chefes de clã ofereceram para o tesouro da obra 20000 dracmas de ouro e 2200 minas de prata,",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Uma mina equivalia a 50 siclos e correspondia a cerca de 0,57 quilogramas de peso. O total perfazia aproximadamente de 168 quilos de ouro e 1250 quilos de prata."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ne-7-n6",
+              "offset": 94,
+              "original_marker": "c",
+              "source_id": 56
+            }
+          ]
         },
         {
           "verse": 71,
           "text": "enquanto o resto do povo ofereceu 20000 dracmas de ouro, 2000 minas de prata e 67 túnicas sacerdotais.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "No total equivale aproximadamente a 168 quilos de ouro e 1140 quilos de prata."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ne-7-n7",
+              "offset": 76,
+              "original_marker": "d",
+              "source_id": 57
+            }
+          ]
         },
         {
           "verse": 72,
-          "text": "Os sacerdotes, os levitas, os porteiros, os cantores, alguns membros do povo, os servos do templo e todo o Israel estabeleceram-se nas suas respetivas cidades. Ao chegar o sétimo mês, os filhos de Israel já estavam instalados nas suas cidades. RENOVAÇÃO DA ALIANÇA COM DEUS (8,1-10,40)",
+          "text": "Os sacerdotes, os levitas, os porteiros, os cantores, alguns membros do povo, os servos do templo e todo o Israel estabeleceram-se nas suas respetivas cidades. Ao chegar o sétimo mês, os filhos de Israel já estavam instalados nas suas cidades.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "O sétimo mês é o mês de Tisri e corresponde a setembro-outubro no calendário gregoriano."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "ne-7-n8",
+              "offset": 182,
+              "original_marker": "e",
+              "source_id": 58
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Neemias organiza a defesa da cidade",
+          "note_refs": []
+        },
+        {
+          "before_verse": 4,
+          "text": "Lista dos repatriados (Esd 2,1-67)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 69,
+          "text": "Donativos para a obra (Esd 2,68-70; 1 Cr 29,5-9)",
           "note_refs": []
         }
       ]
@@ -1021,8 +1894,31 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Leitura solene da Lei Então reuniu-se todo o povo como um só homem na praça que fica diante da porta das Águas e pediram ao escriba Esdras que trouxesse o livro da Lei de Moisés, que o Senhor tinha ordenado a Israel.",
-          "note_refs": []
+          "text": "Então reuniu-se todo o povo como um só homem na praça que fica diante da porta das Águas e pediram ao escriba Esdras que trouxesse o livro da Lei de Moisés, que o Senhor tinha ordenado a Israel.",
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "A porta das Águas estava situada, muito provavelmente, no lado oriental da cidade, junto à nascente de Guion (3,26).",
+            "3": "A expressão livro da Lei de Moisés (mais adiante, livro da Lei de Deus) faz referência ao Pentateuco, os cinco primeiros livros da Bíblia, a que o judaísmo chama Torá (lei, instrução). Na época de Esdras ou talvez de Neemias, o Pentateuco já devia existir, pelo menos sob uma forma primitiva."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ne-8-n2",
+              "offset": 88,
+              "original_marker": "g",
+              "source_id": 60
+            },
+            {
+              "ref": "3",
+              "id": "ne-8-n3",
+              "offset": 155,
+              "original_marker": "h",
+              "source_id": 61
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1057,12 +1953,49 @@
         {
           "verse": 8,
           "text": "Faziam a leitura do livro da Lei de Deus comentando e expondo o sentido, de forma que todos entendessem a leitura.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Os vv. 5-8 descrevem, de forma sucinta, os elementos essenciais da liturgia da Palavra: o desenrolar do rolo (lit.: abrir o livro) diante da assembleia de pé em sinal de respeito, seguido de uma breve bênção, antes do início da leitura propriamente dita. A leitura era acompanhada por uma tradução-explicação, confiada neste caso aos levitas (Dt 33,10; 2Cr 17,7-9; 35,3). O culto da sinagoga e mesmo a liturgia cristã herdaram muitos destes elementos."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ne-8-n4",
+              "offset": 113,
+              "original_marker": "i",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Então, Neemias, o governador, Esdras, o sacerdote e escriba, e os levitas que instruíam o povo disseram a todo o povo: «Hoje é um dia consagrado ao Senhor, vosso Deus. Não fiqueis tristes nem choreis!» Isto, porque todo o povo chorava ao escutar as palavras da Lei.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Os verbos desta frase e da seguinte estão no singular. Possivelmente foi Esdras quem falou como foi ele que fez a leitura. Os outros nomes devem ter entrado no texto, quando se fez a convergência entre a viagem de Neemias e a de Esdras.",
+            "6": "A razão do choro parece ser a consciência de que não estiveram à altura da Lei agora solenemente proclamada (cf. a reação de Josias em 2Rs 22,11). A exortação lembra ao povo a natureza do dia que estão a celebrar, um dia consagrado ao Senhor, que deve ser caracterizado pela alegria (Lv 23,24; Nm 29,2-6)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ne-8-n5",
+              "offset": 103,
+              "original_marker": "a",
+              "source_id": 63
+            },
+            {
+              "ref": "6",
+              "id": "ne-8-n6",
+              "offset": 264,
+              "original_marker": "b",
+              "source_id": 64
+            }
+          ]
         },
         {
           "verse": 10,
@@ -1076,7 +2009,7 @@
         },
         {
           "verse": 12,
-          "text": "Todo o povo se retirou, então, para ir comer e beber, repartindo com os outros. Festejaram cheios de alegria, porque tinham entendido as palavras que lhes foram dadas a conhecer. Celebração da festa das Tendas (2 Cr 5,3ss; Esd 3,1-6)",
+          "text": "Todo o povo se retirou, então, para ir comer e beber, repartindo com os outros. Festejaram cheios de alegria, porque tinham entendido as palavras que lhes foram dadas a conhecer.",
           "note_refs": []
         },
         {
@@ -1092,7 +2025,21 @@
         {
           "verse": 15,
           "text": "Havia, por isso, que anunciar e proclamar em todas as suas cidades e também em Jerusalém o seguinte: «Saí às montanhas e trazei ramos de oliveira, de zambujeiro, de murta, de palmeira e de outras árvores frondosas, a fim de construir tendas, como está prescrito».",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "É costume dar a estes abrigos e à festa o nome de Festa das Tendas. Trata-se de abrigos (sukkot) que se armam com ramagens e não de tendas de pano ou pele como as do deserto (’ohel)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "ne-8-n8",
+              "offset": 240,
+              "original_marker": "d",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 16,
@@ -1102,12 +2049,71 @@
         {
           "verse": 17,
           "text": "Toda a assembleia dos que regressaram do cativeiro construiu tendas e habitou nelas. Pois desde o tempo de Josué, filho de Nun, e até àquele dia, nunca os filhos de Israel tinham feito coisa semelhante. A alegria foi, por isso, muito grande.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "A referência ao aconteceu nos dias de Josué, filho de Nun é problemática. Esd 3,1-6 relata a celebração desta mesma festa pouco depois do regresso do exílio. Uma solução passa por supor que o Josué de que aqui se fala é o sacerdote Jechua, filho de Joçadac, referido em Esd 3,2. Outra é supor que a referência é, sobretudo, simbólica ou programática: o processo de regresso do exílio e restabelecimento sobre a terra deve ser lido à luz do êxodo do Egito e da entrada na terra prometida. A solene renovação da aliança em curso é, por isso, simbolicamente, um eco da aliança celebrada em Siquém, nos dias de Josué, após a instalação na terra (Js 24,1-28)."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "ne-8-n9",
+              "offset": 201,
+              "original_marker": "e",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "Do primeiro ao último dia da festa, ele fez a leitura do livro da Lei de Deus. A festa durou sete dias e, no oitavo dia, reuniu-se uma assembleia solene, como está prescrito.",
           "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "RENOVAÇÃO DA ALIANÇA COM DEUS (8,1-10,40)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Os capítulos 8-10 interrompem o relato do processo de repovoamento de Jerusalém, que será retomado no capítulo 11. Alguns autores sugerem que o presente capítulo é a continuação natural de Esd 8,36: a missão de Esdras incluía, além do transporte das ofertas para o templo de Jerusalém (Esd 7,15-20), a proclamação/ensino da Lei (Esd 7,25-26). Os capítulos 9-10, com a confissão pública dos pecados e a renovação da aliança, seriam, por seu lado, a continuação natural de Esd 10,44. Na sua presente localização, este tríptico funciona como preparação imediata para a cerimónia da dedicação das muralhas da cidade (Ne 12,27-43) e sugere a convergência das missões de Esdras e Neemias. Embora historicamente problemática, esta convergência tem o mérito literário e teológico de apresentar o regresso do exílio como um só movimento, inspirado, conduzido e sustentado por Deus, do édito de Ciro (Esd 1,1-4) à jubilosa dedicação da recém-reconstruída muralha, passando pela dolorosa purificação identitária do povo (Esd 9-10)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ne-8-n1",
+              "offset": 41,
+              "original_marker": "f",
+              "source_id": 59
+            }
+          ]
+        },
+        {
+          "before_verse": 1,
+          "text": "Leitura solene da Lei",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "Celebração da festa das Tendas (2 Cr 5,3ss; Esd 3,1-6)",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Sobre a festa das Tendas, celebrada no sétimo mês, cf. Esd 3,4 nota."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ne-8-n7",
+              "offset": 54,
+              "original_marker": "c",
+              "source_id": 65
+            }
+          ]
         }
       ]
     },
@@ -1116,13 +2122,50 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Confissão pública dos pecados No vigésimo quarto dia daquele mês, os filhos de Israel reuniram-se para um jejum, vestidos de saco e cobertos de pó.",
-          "note_refs": []
+          "text": "No vigésimo quarto dia daquele mês, os filhos de Israel reuniram-se para um jejum, vestidos de saco e cobertos de pó.",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Vestir-se de saco (Jb 1,21; Jl 1,8.13; Jn 3,5.8) e cobrir-se de pó (Js 7,6; 1 Sm 4,12; 2 Sm 1,2; Jb 2,12) são gestos penitenciais carregados de significado: só Deus pode devolver a vida àqueles cujas transgressões os conduziram a um estado de morte espiritual."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ne-9-n2",
+              "offset": 116,
+              "original_marker": "g",
+              "source_id": 69
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Separaram os descendentes de Israel de todos os estrangeiros e apresentaram-se para confessar os seus pecados e as culpas dos seus pais.",
-          "note_refs": []
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Lit.: … da semente …",
+            "4": "A referência à separação dos estrangeiros parece fazer eco ao descrito em Esd 9-10. É a razão pela qual muitos autores supõem que, inicialmente, este capítulo e o próximo eram a continuação de Esd 10,44."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ne-9-n3",
+              "offset": 25,
+              "original_marker": "h",
+              "source_id": 70
+            },
+            {
+              "ref": "4",
+              "id": "ne-9-n4",
+              "offset": 135,
+              "original_marker": "i",
+              "source_id": 71
+            }
+          ]
         },
         {
           "verse": 3,
@@ -1131,28 +2174,84 @@
         },
         {
           "verse": 4,
-          "text": "Então, Jechua, Binui, Cadmiel, Chebanias, Buni, Cherebias, Bani e Canani subiram ao estrado dos levitas e invocaram, em voz alta, o Senhor, seu Deus. Oração penitencial (Esd 9,6-15; Ne 1,5-11; Dn 9,4-19; Est 4,17j-y)",
+          "text": "Então, Jechua, Binui, Cadmiel, Chebanias, Buni, Cherebias, Bani e Canani subiram ao estrado dos levitas e invocaram, em voz alta, o Senhor, seu Deus.",
           "note_refs": []
         },
         {
           "verse": 5,
           "text": "Os levitas Jechua, Cadmiel, Bani, Hasabenias, Cherebias, Hodaías, Chebanias e Petaías disseram: «Levantai-vos e bendizei o Senhor, vosso Deus! ‘Desde sempre e para sempre, e todos hão de bendizer o teu nome que é glorioso e está acima de toda a bênção e louvor!",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Trata-se de uma introdução de caráter hínico (veja-se, por exemplo, Sl 41,14; 106,48)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ne-9-n6",
+              "offset": 261,
+              "original_marker": "k",
+              "source_id": 73
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "Só Tu és o Senhor. Fizeste os céus, os céus dos céus e todo o exército dos astros, a terra e tudo o que sobre ela existe, os mares e tudo o que eles contêm. Tu dás vida a todos eles e o exército celeste adora-te.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Cf. Gn 1,1-2,4."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ne-9-n7",
+              "offset": 212,
+              "original_marker": "a",
+              "source_id": 74
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "Tu és, Senhor, o Deus que escolheste Abrão e o fizeste sair de Ur dos Caldeus e lhe puseste o nome de Abraão.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Cf. Gn 12,1-4; 17,5."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "ne-9-n8",
+              "offset": 108,
+              "original_marker": "b",
+              "source_id": 75
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Encontraste nele um coração que te era fiel e fizeste com ele uma aliança, prometendo dar aos seus descendentes a terra dos cananeus, dos hititas, dos amorreus, dos perizeus, dos jebuseus e dos guirgaseus. E cumpriste a tua promessa, porque Tu és justo.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Cf. Gn 15,19-21; Dt 4,37; 10,15."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "ne-9-n9",
+              "offset": 253,
+              "original_marker": "c",
+              "source_id": 76
+            }
+          ]
         },
         {
           "verse": 9,
@@ -1167,12 +2266,40 @@
         {
           "verse": 11,
           "text": "Dividiste o mar diante deles e passaram pelo meio dele a pé enxuto. Precipitaste no abismo os seus perseguidores, como pedra lançada às águas impetuosas.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Os vv. 9-11 evocam a opressão no Egito, a subsequente libertação e a travessia do mar Vermelho (Ex 1-15)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "ne-9-n10",
+              "offset": 152,
+              "original_marker": "d",
+              "source_id": 77
+            }
+          ]
         },
         {
           "verse": 12,
           "text": "Conduziste-os, de dia, por meio de uma coluna de nuvem, e, de noite, por meio de uma coluna de fogo, iluminando assim o caminho que haviam de seguir.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Cf. Ex 13,21-22; Nm 14,14; Dt 1,33."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "ne-9-n11",
+              "offset": 149,
+              "original_marker": "e",
+              "source_id": 78
+            }
+          ]
         },
         {
           "verse": 13,
@@ -1182,12 +2309,40 @@
         {
           "verse": 14,
           "text": "Deste-lhes a conhecer o teu santo sábado e, por meio de Moisés, teu servo, prescreveste-lhes mandamentos, preceitos e uma lei.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "Cf. Ex 19-20; Dt 4,10-14; 5,1-5."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "ne-9-n12",
+              "offset": 125,
+              "original_marker": "f",
+              "source_id": 79
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Deste-lhes pão dos céus para a sua fome e fizeste brotar água do rochedo para matar a sua sede. Mandaste-os entrar e tomar posse da terra que, erguendo a tua mão direita, tinhas jurado dar-lhes.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Cf. Ex 16,1-21; 17,1-7; Nm 14,30; 20,8."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "ne-9-n13",
+              "offset": 137,
+              "original_marker": "g",
+              "source_id": 80
+            }
+          ]
         },
         {
           "verse": 16,
@@ -1197,12 +2352,49 @@
         {
           "verse": 17,
           "text": "Recusaram-se a obedecer e não recordaram as maravilhas que tinhas realizado em seu favor. Mais uma vez de cabeça dura, constituíram um chefe a fim de voltarem à sua escravidão no Egito. Tu, porém, és um Deus de perdão, clemente e compassivo, lento para a ira e rico em misericórdia, e nunca os abandonaste.",
-          "note_refs": []
+          "note_refs": [
+            "14",
+            "15"
+          ],
+          "notes": {
+            "14": "Cf. Nm 14,1-4.",
+            "15": "Cf. Ex 34,6-7."
+          },
+          "note_positions": [
+            {
+              "ref": "14",
+              "id": "ne-9-n14",
+              "offset": 184,
+              "original_marker": "h",
+              "source_id": 81
+            },
+            {
+              "ref": "15",
+              "id": "ne-9-n15",
+              "offset": 305,
+              "original_marker": "i",
+              "source_id": 82
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "Isto, mesmo quando fabricaram para si um bezerro de metal e disseram: ‘Este é o teu deus que te fez subir do Egito!’ E cometeram ainda outras graves abominações.",
-          "note_refs": []
+          "note_refs": [
+            "16"
+          ],
+          "notes": {
+            "16": "Cf. Ex 32,1-6."
+          },
+          "note_positions": [
+            {
+              "ref": "16",
+              "id": "ne-9-n16",
+              "offset": 116,
+              "original_marker": "j",
+              "source_id": 83
+            }
+          ]
         },
         {
           "verse": 19,
@@ -1217,12 +2409,40 @@
         {
           "verse": 21,
           "text": "Quarenta anos os sustentaste no deserto e nunca tiveram falta de nada. As suas roupas não se romperam e não se lhes incharam os pés.",
-          "note_refs": []
+          "note_refs": [
+            "17"
+          ],
+          "notes": {
+            "17": "Cf. Dt 8,4."
+          },
+          "note_positions": [
+            {
+              "ref": "17",
+              "id": "ne-9-n17",
+              "offset": 131,
+              "original_marker": "a",
+              "source_id": 84
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "Entregaste-lhes reinos e povos, repartindo-os como terreno confinante. E tomaram posse da terra de Seon, rei de Hesbon, e da terra de Og, rei de Basan.",
-          "note_refs": []
+          "note_refs": [
+            "18"
+          ],
+          "notes": {
+            "18": "Cf. Nm 21,21-35; Dt 1,4; 2,26-3,11."
+          },
+          "note_positions": [
+            {
+              "ref": "18",
+              "id": "ne-9-n18",
+              "offset": 150,
+              "original_marker": "b",
+              "source_id": 85
+            }
+          ]
         },
         {
           "verse": 23,
@@ -1237,7 +2457,21 @@
         {
           "verse": 25,
           "text": "Conquistaram cidades fortificadas e terras férteis, tomaram posse de casas recheadas com tudo aquilo que é bom, de cisternas já escavadas, de vinhas e olivais e muitas árvores de fruto. Comeram à saciedade e engordaram, deleitando-se com a tua grande bondade.",
-          "note_refs": []
+          "note_refs": [
+            "19"
+          ],
+          "notes": {
+            "19": "Cf. Js 1-12; Dt 1,10-11; 6,10-11; 8,7-11."
+          },
+          "note_positions": [
+            {
+              "ref": "19",
+              "id": "ne-9-n19",
+              "offset": 258,
+              "original_marker": "c",
+              "source_id": 86
+            }
+          ]
         },
         {
           "verse": 26,
@@ -1267,12 +2501,40 @@
         {
           "verse": 31,
           "text": "Mas, pela tua grande misericórdia, não os aniquilaste nem abandonaste, porque Tu és um Deus clemente e compassivo.",
-          "note_refs": []
+          "note_refs": [
+            "20"
+          ],
+          "notes": {
+            "20": "Cf. Jz 2,11-23; 2Rs 17."
+          },
+          "note_positions": [
+            {
+              "ref": "20",
+              "id": "ne-9-n20",
+              "offset": 113,
+              "original_marker": "d",
+              "source_id": 87
+            }
+          ]
         },
         {
           "verse": 32,
           "text": "E, agora, ó nosso Deus, Deus grande, poderoso e terrível, que guardas a aliança e a misericórdia, não fiques indiferente às desgraças que nos têm atingido, a nós, aos nossos reis e aos nossos chefes, aos nossos sacerdotes e profetas, aos nossos pais e a todo o teu povo, desde os tempos dos reis da Assíria e até ao dia de hoje.",
-          "note_refs": []
+          "note_refs": [
+            "21"
+          ],
+          "notes": {
+            "21": "A referência parece ser ao período de submissão aos grandes impérios estrangeiros, primeiro, os Assírios, depois, os Babilónios e, finalmente, os Persas, cujo início pode ser datado do reinado de Acaz (2Rs 16,7-18) ou da queda da Samaria em 721 a.C (2Rs 17,24-41)."
+          },
+          "note_positions": [
+            {
+              "ref": "21",
+              "id": "ne-9-n21",
+              "offset": 327,
+              "original_marker": "e",
+              "source_id": 88
+            }
+          ]
         },
         {
           "verse": 33,
@@ -1292,12 +2554,66 @@
         {
           "verse": 36,
           "text": "Eis-nos hoje aqui escravos e eis esta terra que deste aos nossos pais para comerem dos seus frutos e dos seus bens. Sim, nós somos escravos nesta terra!",
-          "note_refs": []
+          "note_refs": [
+            "22"
+          ],
+          "notes": {
+            "22": "Isto é, sujeitos à soberania dos monarcas persas."
+          },
+          "note_positions": [
+            {
+              "ref": "22",
+              "id": "ne-9-n22",
+              "offset": 152,
+              "original_marker": "a",
+              "source_id": 89
+            }
+          ]
         },
         {
           "verse": 37,
           "text": "E o seu produto abundante é para os reis que colocaste sobre nós, por causa dos nossos pecados, e que mandam nos nossos corpos e nos nossos animais conforme lhes apraz. Estamos, por isso, numa grande aflição’».",
           "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Confissão pública dos pecados",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Esta celebração penitencial, com início dois dias depois do fim da celebração da festa das Tendas, é associada, por alguns autores, ao Dia de Expiação (Yom Kippur; cf. Lv 16,29-34), que no atual calendário litúrgico judaico se celebra no dia dez do sétimo mês (isto é, antes da festa das Tendas). Os textos da época do imediato pós-exílio mencionam a existência de um dia de jejum no sétimo mês (Zc 7,5; 8,19), mas não é possível saber se se trata do Yom Kippur, cuja celebração não parece ter estado ligada, pelo menos inicialmente, a uma data específica (Lv 23,27)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ne-9-n1",
+              "offset": 29,
+              "original_marker": "f",
+              "source_id": 68
+            }
+          ]
+        },
+        {
+          "before_verse": 5,
+          "text": "Oração penitencial (Esd 9,6-15; Ne 1,5-11; Dn 9,4-19; Est 4,17j-y)",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Sobre este género de orações, cf. Esd 9,5-15 nota. A particularidade principal desta oração penitencial é o longo e detalhado resumo da história de Israel aqui recapitulado (Ne 9,6-31): da criação (v. 6) ao exílio da Babilónia (vv. 30-31), passando pelo tempo dos patriarcas (vv. 7-9), o êxodo (vv. 9-11), a longa travessia do deserto com o dom da Lei no Sinai (vv. 12-21), a conquista da terra (vv. 22-25) e o período dos juízes e da monarquia (vv. 26-31). Na sua estrutura, os vv. 6-31 apresentam semelhanças com os chamados salmos históricos (Sl 78; 105; 106; 135; 136). O apelo final (vv. 32-37), contudo, coloca o acento sobre a situação presente e o pedido de perdão e ajuda, que constituem o núcleo deste género de orações de caráter penitencial."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ne-9-n5",
+              "offset": 66,
+              "original_marker": "j",
+              "source_id": 72
+            }
+          ]
         }
       ]
     },
@@ -1306,7 +2622,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Lista dos que assinaram a aliança Por tudo isto, comprometemo-nos de boa fé e, sobre o documento selado que escrevemos estão os nomes dos nossos chefes, dos nossos levitas e dos nossos sacerdotes.",
+          "text": "Por tudo isto, comprometemo-nos de boa fé e, sobre o documento selado que escrevemos estão os nomes dos nossos chefes, dos nossos levitas e dos nossos sacerdotes.",
           "note_refs": []
         },
         {
@@ -1347,7 +2663,21 @@
         {
           "verse": 9,
           "text": "Maazias, Bilgai e Chemaías. Estes são os sacerdotes.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Uma lista idêntica de 22 sacerdotes figura em 12,1-7."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ne-10-n1",
+              "offset": 51,
+              "original_marker": "b",
+              "source_id": 90
+            }
+          ]
         },
         {
           "verse": 10,
@@ -1451,33 +2781,103 @@
         },
         {
           "verse": 30,
-          "text": "apoiaram os seus irmãos ilustres e, sob juramento, tomaram o compromisso de caminhar segundo a Lei de Deus, que lhes tinha sido dada por intermédio de Moisés, o servo de Deus, e de a observar e praticar todos os mandamentos do Senhor, Senhor nosso, bem como as suas ordens e preceitos. Compromissos específicos",
+          "text": "apoiaram os seus irmãos ilustres e, sob juramento, tomaram o compromisso de caminhar segundo a Lei de Deus, que lhes tinha sido dada por intermédio de Moisés, o servo de Deus, e de a observar e praticar todos os mandamentos do Senhor, Senhor nosso, bem como as suas ordens e preceitos.",
           "note_refs": []
         },
         {
           "verse": 31,
           "text": "«Além disso, não daremos as nossas filhas em casamento aos povos da terra e não tomaremos as suas filhas para os nossos filhos.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Cf. Esd 9-10 e Ne 13,23-28."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ne-10-n2",
+              "offset": 126,
+              "original_marker": "c",
+              "source_id": 91
+            }
+          ]
         },
         {
           "verse": 32,
           "text": "Não compraremos, em dia de sábado ou em dia santo, as mercadorias nem o trigo que os povos da terra trazem para vender em dia de sábado. Deixaremos a terra em pousio no sétimo ano e procederemos à remissão de todas as dívidas.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "As leis sobre o sábado já proibiam um número significativo de atividades (Ex 20,8-11; 23,12; 34,21), inclusive a venda de produtos (Am 8,5). O presente compromisso visa inviabilizar igualmente a possibilidade de adquirir bens vendidos por estrangeiros em dia de sábado ou noutros dias santos (13,15- 22). Sobre o sétimo ano, cf. Ex 23,10-11; Lv 25,1-7; Dt 5,1-18."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ne-10-n3",
+              "offset": 225,
+              "original_marker": "d",
+              "source_id": 92
+            }
+          ]
         },
         {
           "verse": 33,
           "text": "Tomamos sobre nós a obrigação de contribuir, anualmente, com um terço de siclo para o serviço do templo,",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Um terço de siclo corresponde a cerca de quatro gramas de prata (Ex 30,11-16; 38,25-26; 2Cr 24,4-14; Mt 17,24-27)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ne-10-n4",
+              "offset": 103,
+              "original_marker": "e",
+              "source_id": 93
+            }
+          ]
         },
         {
           "verse": 34,
           "text": "para os pães da proposição, para as ofertas de cereais quotidianas e para os holocaustos perpétuos e ainda para os sacríficos dos sábados, das luas novas, dos dias consagrados, para as outras ofertas sagradas, para os sacríficos de expiação em favor de Israel e para todas as tarefas do templo do nosso Deus.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O termo pães da proposição ou da presença designa os pães que eram dispostos sobre uma mesa, em duas filas de seis, diante de Deus, no interior do santuário. Representavam as doze tribos de Israel (Ex 25,23-30; Lv 24,5-9; 1Cr 9,32; 2Cr 13,11). A oferta de cereais era constituída por farinha, azeite e vinho e acompanhava o holocausto do cordeiro, de manhã e de tarde (Ex 29,38-42; Nm 28,1-8). As ofertas sagradas aqui referidas eram trazidas somente em ocasiões especiais (2Cr 29,33; 35,13). Sobre os sacrifícios expiatórios, cf. Lv 4,1-5,13; Nm 15,22-29; 2Cr 29,21; etc."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ne-10-n5",
+              "offset": 307,
+              "original_marker": "f",
+              "source_id": 94
+            }
+          ]
         },
         {
           "verse": 35,
           "text": "Nós, os sacerdotes, os levitas e o povo, tirámos à sorte para definir o que diz respeito à oferta de madeira, que cada família deve trazer para a casa do nosso Deus, cada ano, nos tempos determinados, a fim de ser queimada sobre o altar do Senhor, nosso Deus, conforme está prescrito na Lei.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Esta oferta de madeira não está prevista na legislação mosaica. Trata-se, com toda a probabilidade, de uma inovação do período pós-exílico."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ne-10-n6",
+              "offset": 290,
+              "original_marker": "g",
+              "source_id": 95
+            }
+          ]
         },
         {
           "verse": 36,
@@ -1487,21 +2887,75 @@
         {
           "verse": 37,
           "text": "assim como os primogénitos dos nossos filhos e dos nossos animais, como está prescrito na Lei. Traremos igualmente para a casa do nosso Deus os primogénitos do nosso gado graúdo e do nosso rebanho, a fim de os apresentar aos sacerdotes de turno na casa do nosso Deus.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Sobre a oferta dos primeiros frutos, cf Ex 23,19; 34,26; Dt 26,1-11; Nm 28,26. Sobre os primogénitos, cf. Ex 13,2; 22,30; 34,19-20; Dt 15,19-20; Nm 18,15."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ne-10-n7",
+              "offset": 266,
+              "original_marker": "a",
+              "source_id": 96
+            }
+          ]
         },
         {
           "verse": 38,
           "text": "Aos sacerdotes traremos ainda as primícias da nossa farinha amassada, dos nossos produtos, dos frutos de todas as árvores, do vinho e do azeite, a fim de serem recolhidas nas salas da casa do nosso Deus. Traremos o dízimo da nossa terra aos levitas. Os mesmos levitas vão recolher o dízimo em todas as cidades em que trabalhamos.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Cf. Nm 15,20-21; 18,12."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "ne-10-n8",
+              "offset": 202,
+              "original_marker": "b",
+              "source_id": 97
+            }
+          ]
         },
         {
           "verse": 39,
           "text": "Os levitas serão acompanhados por um sacerdote da linhagem de Aarão quando recolherem o dízimo e depositarão a décima parte do dízimo na casa do nosso Deus, nas salas do tesouro.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Sobre o dízimo, ver a legislação em Nm 18,21-32; Dt 14,22-29."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "ne-10-n9",
+              "offset": 177,
+              "original_marker": "c",
+              "source_id": 98
+            }
+          ]
         },
         {
           "verse": 40,
-          "text": "Pois é para estas salas que os filhos de Israel e os levitas trarão as ofertas de trigo, vinho e azeite. Ali se encontram os utensílios do santuário e ali residem os sacerdotes que estão de serviço, bem como os porteiros e os cantores. E não mais abandonaremos a casa do nosso Deus». REPOVOAMENTO DE JERUSALÉM E DEDICAÇÃO DA MURALHA (11,1-12,43) Repovoamento de Jerusalém (1Cr 9,1-34)",
+          "text": "Pois é para estas salas que os filhos de Israel e os levitas trarão as ofertas de trigo, vinho e azeite. Ali se encontram os utensílios do santuário e ali residem os sacerdotes que estão de serviço, bem como os porteiros e os cantores. E não mais abandonaremos a casa do nosso Deus».",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Lista dos que assinaram a aliança",
+          "note_refs": []
+        },
+        {
+          "before_verse": 31,
+          "text": "Compromissos específicos",
           "note_refs": []
         }
       ]
@@ -1562,7 +3016,21 @@
         {
           "verse": 11,
           "text": "Seraías, filho de Hilquias, filho de Mechulam, filho de Sadoc, filho de Meraiot, filho de Aitub, intendente da casa de Deus,",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O título intendente da casa de Deus era usado, nesta época, para designar, muito provavelmente, o sumo-sacerdote (Cf. 1Cr 9,20; 2Cr 31,13)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ne-11-n2",
+              "offset": 123,
+              "original_marker": "e",
+              "source_id": 100
+            }
+          ]
         },
         {
           "verse": 12,
@@ -1626,8 +3094,22 @@
         },
         {
           "verse": 24,
-          "text": "Petaías, filho de Mechezabel, dos descendentes de Zera, filho de Judá, era comissário do rei para tudo o que dizia respeito ao povo. Estabelecimento nas regiões rurais (Js 15; Esd 2,26-33)",
-          "note_refs": []
+          "text": "Petaías, filho de Mechezabel, dos descendentes de Zera, filho de Judá, era comissário do rei para tudo o que dizia respeito ao povo.",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O texto não explicita que rei é o responsável pelo referido decreto. 1Cr 25 atribui ao rei David a organização da liturgia cultual (cf. 12,24). O contexto, contudo, parece sugerir que se trata do monarca persa, que também teria nomeado um comissário."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ne-11-n3",
+              "offset": 131,
+              "original_marker": "f",
+              "source_id": 101
+            }
+          ]
         },
         {
           "verse": 25,
@@ -1689,6 +3171,37 @@
           "text": "E dos levitas havia grupos em Judá e outros em Benjamim.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "REPOVOAMENTO DE JERUSALÉM E DEDICAÇÃO DA MURALHA (11,1-12,43)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 1,
+          "text": "Repovoamento de Jerusalém (1Cr 9,1-34)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Este capítulo parece ser a continuação natural de 7,4-5 (ou 7,72). Sobre a importância do povoamento da cidade santa, cf. nota a 7,4."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ne-11-n1",
+              "offset": 38,
+              "original_marker": "d",
+              "source_id": 99
+            }
+          ]
+        },
+        {
+          "before_verse": 25,
+          "text": "Estabelecimento nas regiões rurais (Js 15; Esd 2,26-33)",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -1696,7 +3209,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Lista dos ministros sagrados Estes são os sacerdotes e levitas que regressaram com Zorobabel, filho de Salatiel, e com Jechua: Seraías, Jeremias, Esdras,",
+          "text": "Estes são os sacerdotes e levitas que regressaram com Zorobabel, filho de Salatiel, e com Jechua: Seraías, Jeremias, Esdras,",
           "note_refs": []
         },
         {
@@ -1726,13 +3239,28 @@
         },
         {
           "verse": 7,
-          "text": "Salú, Amoc, Hilquias, Jedaías. Estes eram os chefes dos sacerdotes e dos seus irmãos no tempo de Jechua.",
-          "note_refs": []
+          "text": "Salú, Amoc, Hilquias, Jedaías. Estes eram os chefes dos sacerdotes e dos seus irmãos no tempo de Jechua. 8Os levitas: Jechua, Binui, Cadmiel, Cherebias, Judá e Matanias que, com os seus irmãos, dirigia os hinos de ação de graças;",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Cf. 10,3-8; 12,12-21. O nome de Esdras incluído nesta lista (v. 1) é muito provavelmente o Azarias que figura em 10,3 e não o sacerdote-escriba que dá o nome ao livro de Esdras, cuja missão é descrita em Esd 7-10 (ver também Ne 8). A base hebraica dos dois nomes é a mesma."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ne-12-n1",
+              "offset": 104,
+              "original_marker": "a",
+              "source_id": 102
+            }
+          ]
         },
         {
           "verse": 8,
-          "text": "Os levitas: Jechua, Binui, Cadmiel, Cherebias, Judá e Matanias que, com os seus irmãos, dirigia os hinos de ação de graças;",
-          "note_refs": []
+          "text": "",
+          "note_refs": [],
+          "omitted": true
         },
         {
           "verse": 9,
@@ -1807,7 +3335,21 @@
         {
           "verse": 23,
           "text": "Os nomes dos chefes das família dos levitas foram registados por escrito nos livros das crónicas, até ao tempo de Joanan, filho de Eliachib.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Movido pelo desejo de assegurar o leitor da credibilidade da informação, o autor ou redator final do livro apresentam as fontes das listas. O registo dos nomes dos chefes das famílias sacerdotais estende-se do tempo de Eliachib, portanto do tempo de Neemias, até ao reinado de Dario, o persa. Esta última referência pode ser tanto a Dario II (423-404 a.C.) como a Dario III (336-331 a.C.). Esta referência aos livros das crónicas, em que foram registados os nomes dos chefes das famílias de levitas, parece ter sido uma espécie de crónica do templo de Jerusalém, não devendo ser confundidos com os livros canónicos com o mesmo nome."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ne-12-n2",
+              "offset": 139,
+              "original_marker": "b",
+              "source_id": 103
+            }
+          ]
         },
         {
           "verse": 24,
@@ -1821,7 +3363,7 @@
         },
         {
           "verse": 26,
-          "text": "Estes exerceram funções no tempo de Joaquim, filho de Jechua, filho de Joçadac, e no tempo de Neemias, o governador, e de Esdras, o sacerdote e escriba. Dedicação da muralha (Esd 3,3-5.10-13; 6,13-18; 1Cr 15,16-24)",
+          "text": "Estes exerceram funções no tempo de Joaquim, filho de Jechua, filho de Joçadac, e no tempo de Neemias, o governador, e de Esdras, o sacerdote e escriba.",
           "note_refs": []
         },
         {
@@ -1842,12 +3384,40 @@
         {
           "verse": 30,
           "text": "Os sacerdotes e os levitas purificaram-se e, em seguida, purificaram o povo, as portas e a muralha.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Esta é a única vez na Bíblia onde se menciona uma purificação ritual das portas e das muralhas de uma cidade. Sendo lugares de passagem, as portas de Jerusalém, a cidade santa (Ne 11,1), dão acesso ao espaço considerado sagrado, por oposição ao mundo profano que se estende para além das muralhas."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ne-12-n4",
+              "offset": 99,
+              "original_marker": "d",
+              "source_id": 105
+            }
+          ]
         },
         {
           "verse": 31,
           "text": "Ordenei que os principais de Judá subissem à muralha, divididos em dois grandes coros de ação de graças. Um caminhava pela direita sobre a muralha, em direção à porta do Lixo.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Retoma-se aqui o relato na primeira pessoa do singular como se fossem as memórias de Neemias."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ne-12-n5",
+              "offset": 7,
+              "original_marker": "e",
+              "source_id": 106
+            }
+          ]
         },
         {
           "verse": 32,
@@ -1887,7 +3457,21 @@
         {
           "verse": 39,
           "text": "passámos, em seguida, sobre a porta de Efraim, a porta Antiga, a porta dos Peixes, sobre a torre de Hananiel e a torre dos Cem, até à porta das Ovelhas, parando ao nível da porta da Prisão.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O essencial da cerimónia da dedicação da muralha parece ter consistido num ritual em que se deu a volta às muralhas da cidade. Comum na Antiguidade em cerimónias de dedicação de edifícios e de cidades, este género de ritual era uma forma de marcar simbolicamente a fronteira entre o sagrado e o profano, entre o mundo ordenado e o caos."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ne-12-n6",
+              "offset": 189,
+              "original_marker": "f",
+              "source_id": 107
+            }
+          ]
         },
         {
           "verse": 40,
@@ -1906,18 +3490,60 @@
         },
         {
           "verse": 43,
-          "text": "Ofereceram-se, naquele dia, grandes sacrifícios e foi grande o regozijo, pois Deus tinha-lhes inspirado uma grande alegria. As mulheres e as crianças também participaram no júbilo, de tal forma que a alegria de Jerusalém se podia ouvir desde longe. SEGUNDA MISSÃO DE NEEMIAS: REFORMAS RELIGIOSAS (12,44-13,31) Subsistência dos ministros sagrados",
-          "note_refs": []
+          "text": "Ofereceram-se, naquele dia, grandes sacrifícios e foi grande o regozijo, pois Deus tinha-lhes inspirado uma grande alegria. As mulheres e as crianças também participaram no júbilo, de tal forma que a alegria de Jerusalém se podia ouvir desde longe.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Cf. Esd 3,13."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "ne-12-n8",
+              "offset": 247,
+              "original_marker": "g",
+              "source_id": 108
+            }
+          ]
         },
         {
           "verse": 44,
           "text": "Por aquela altura, estabeleceram-se os responsáveis pelas salas do tesouro onde se guardavam, provenientes dos campos em redor das cidades, as ofertas, as primícias e os dízimos, a fim de serem aí recolhidos, como porções que a Lei prescreve para os sacerdotes e os levitas. Pois o povo de Judá alegrou-se com os sacerdotes e os levitas que exerciam o seu ministério,",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Lit.: Judá."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "ne-12-n9",
+              "offset": 294,
+              "original_marker": "b",
+              "source_id": 110
+            }
+          ]
         },
         {
           "verse": 45,
           "text": "assegurando o culto do seu Deus e o ritual das purificações, juntamente com os cantores e os porteiros, de acordo com o prescrito por David e Salomão, seu filho.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Cf. 1Cr 23-26; 2 Cr 8,14."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "ne-12-n10",
+              "offset": 160,
+              "original_marker": "c",
+              "source_id": 111
+            }
+          ]
         },
         {
           "verse": 46,
@@ -1927,6 +3553,70 @@
         {
           "verse": 47,
           "text": "E no tempo de Zorobabel e de Neemias, todos em Israel entregavam quotidianamente as porções destinadas aos cantores e aos porteiros. Separavam as coisas consagradas aos levitas e os levitas separavam as coisas consagradas aos descendentes de Aarão.",
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Cf. 10,38-39; Nm 18,26-32."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "ne-12-n11",
+              "offset": 247,
+              "original_marker": "d",
+              "source_id": 112
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Lista dos ministros sagrados",
+          "note_refs": []
+        },
+        {
+          "before_verse": 27,
+          "text": "Dedicação da muralha (Esd 3,3-5.10-13; 6,13-18; 1Cr 15,16-24)",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Sobre a assimilação religiosa e cultual entre o templo e a cidade, cf. nota a 3,1."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ne-12-n3",
+              "offset": 61,
+              "original_marker": "c",
+              "source_id": 104
+            }
+          ]
+        },
+        {
+          "before_verse": 44,
+          "text": "SEGUNDA MISSÃO DE NEEMIAS: REFORMAS RELIGIOSAS (12,44-13,31)",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Este capítulo final do livro dá conta de um conjunto de reformas de cariz religioso empreendidas por ocasião do segundo período de Neemias em Jerusalém (13,6-7). As disposições tomadas têm a ver com o problema da subsistência dos ministros sagrados (12,44-47; 13,10-13), da preservação da pureza identitária (13,1-3.23-28) e da santificação do sábado (13,15-22)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ne-12-n7",
+              "offset": 60,
+              "original_marker": "a",
+              "source_id": 109
+            }
+          ]
+        },
+        {
+          "before_verse": 44,
+          "text": "Subsistência dos ministros sagrados",
           "note_refs": []
         }
       ]
@@ -1936,18 +3626,46 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Expulsão dos estrangeiros (Esd 9-10; Ml 2,10-16) Por aquela altura, ao ler-se o livro de Moisés diante do povo, descobriu-se que estava ali escrito que o amonita e o moabita jamais poderiam integrar a assembleia de Deus,",
+          "text": "Por aquela altura, ao ler-se o livro de Moisés diante do povo, descobriu-se que estava ali escrito que o amonita e o moabita jamais poderiam integrar a assembleia de Deus,",
           "note_refs": []
         },
         {
           "verse": 2,
           "text": "porque não receberam os filhos de Israel com pão e água, antes contrataram Balaão para os amaldiçoar, ainda que o nosso Deus tenha mudado a maldição em bênção.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Trata-se de uma citação não literal e em terceira pessoa de Dt 23,4-7. Sobre a figura de Balaão, cf. Nm 22-24."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "ne-13-n1",
+              "offset": 159,
+              "original_marker": "e",
+              "source_id": 113
+            }
+          ]
         },
         {
           "verse": 3,
-          "text": "Quando ouviram a leitura da Lei afastaram de Israel todos os de ascendência estrangeira. Correção de abusos na administração do templo",
-          "note_refs": []
+          "text": "Quando ouviram a leitura da Lei afastaram de Israel todos os de ascendência estrangeira.",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: os de ascendência mista, isto é, os que se haviam unido por laços de sangue à população local não-judaica (Esd 9-10)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "ne-13-n2",
+              "offset": 87,
+              "original_marker": "f",
+              "source_id": 114
+            }
+          ]
         },
         {
           "verse": 4,
@@ -1967,7 +3685,21 @@
         {
           "verse": 7,
           "text": "e regressei a Jerusalém. Então dei-me conta da conduta reprovável de Eliachib ao favorecer Tobias, colocando à sua disposição uma sala nos átrios da casa de Deus.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Sobre o primeiro período de Neemias (445-433 a.C.), cf. nota a 5,14. O texto não nos informa acerca da duração desta ausência. Em todo o caso, o pedido terá de ter ocorrido antes da morte de Artaxerxes (em 423 a.C.) O título rei da Babilónia aplicado aos monarcas persas é pouco usual. Num certo sentido, os reis aqueménidas são os sucessores dos babilónios. Além disso, também tinham residência na cidade da Babilónia."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "ne-13-n3",
+              "offset": 23,
+              "original_marker": "g",
+              "source_id": 115
+            }
+          ]
         },
         {
           "verse": 8,
@@ -1976,7 +3708,7 @@
         },
         {
           "verse": 9,
-          "text": "e que se purificasse o espaço e se voltasse a depositar nele os utensílios da casa de Deus, as ofertas de cereais e o incenso. Reposição do pagamento do dízimo dos levitas",
+          "text": "e que se purificasse o espaço e se voltasse a depositar nele os utensílios da casa de Deus, as ofertas de cereais e o incenso.",
           "note_refs": []
         },
         {
@@ -1992,7 +3724,21 @@
         {
           "verse": 12,
           "text": "Todo o povo de Judá voltou a trazer o dízimo do trigo, do vinho e do azeite para os armazéns do tesouro.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: Judá."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "ne-13-n4",
+              "offset": 19,
+              "original_marker": "h",
+              "source_id": 116
+            }
+          ]
         },
         {
           "verse": 13,
@@ -2001,8 +3747,22 @@
         },
         {
           "verse": 14,
-          "text": "Recorda-te em meu favor de tudo isto, ó meu Deus, e não esqueças a piedade que mostrei pela casa do meu Deus e pelo seu serviço. A questão da observância do sábado",
-          "note_refs": []
+          "text": "Recorda-te em meu favor de tudo isto, ó meu Deus, e não esqueças a piedade que mostrei pela casa do meu Deus e pelo seu serviço.",
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Sobre estas preces espontâneas do protagonista, cf. 13,22.29.31 e as notas a 3,36-37 e 5,14."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "ne-13-n6",
+              "offset": 127,
+              "original_marker": "i",
+              "source_id": 117
+            }
+          ]
         },
         {
           "verse": 15,
@@ -2012,7 +3772,21 @@
         {
           "verse": 16,
           "text": "Certos habitantes de Tiro, que se haviam estabelecido na cidade, também traziam peixe e todo o género de produtos e vendiam-nos ao sábado aos de Judá, em Jerusalém.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Trata-se, muito provavelmente, de alguma colónia de mercadores de origem fenícia."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "ne-13-n7",
+              "offset": 63,
+              "original_marker": "k",
+              "source_id": 119
+            }
+          ]
         },
         {
           "verse": 17,
@@ -2022,12 +3796,40 @@
         {
           "verse": 18,
           "text": "Não foi porque também assim procederam os vossos pais que o nosso Deus fez cair sobre nós e sobre esta cidade toda esta desgraça? Vós não estais senão a aumentar a ira sobre Israel ao profanar assim o sábado!»",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Sobre a ligação entre profanação do sábado e desgraça nacional, cf. Ez 20; Jr 17,19-27."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "ne-13-n8",
+              "offset": 129,
+              "original_marker": "l",
+              "source_id": 120
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "Ordenei, por isso, que, logo que caíssem as primeiras sombras sobre as portas de Jerusalém, em véspera de sábado, se fechassem as portas e não se voltasse a abri-las senão depois do fim do sábado. E coloquei alguns dos meus servos junto às portas, a fim de impedir a entrada de mercadoria em dia de sábado.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "O tempo de descanso do sábado começa ao pôr-do-sol de sexta feira e termina ao pôr-do-sol de sábado."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "ne-13-n9",
+              "offset": 195,
+              "original_marker": "a",
+              "source_id": 121
+            }
+          ]
         },
         {
           "verse": 20,
@@ -2041,7 +3843,7 @@
         },
         {
           "verse": 22,
-          "text": "Disse aos levitas que se purificassem e viessem vigiar as portas, a fim de se santificar o dia de sábado. Recorda-te em meu favor também disto, ó meu Deus, e tem piedade de mim, pela tua grande misericórdia. Os casamentos mistos (Esd 9-10; Ml 2,10-16)",
+          "text": "Disse aos levitas que se purificassem e viessem vigiar as portas, a fim de se santificar o dia de sábado. Recorda-te em meu favor também disto, ó meu Deus, e tem piedade de mim, pela tua grande misericórdia.",
           "note_refs": []
         },
         {
@@ -2052,17 +3854,45 @@
         {
           "verse": 24,
           "text": "Metade dos seus filhos falavam a língua de Asdod ou de algum dos outros povos, mas não sabiam falar a língua judaica.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Esta variedade de linguagens referidas, tanto junto ao mar como a oriente do Jordão, eram certamente modalidades regionais e dialetais da mesma língua fundamental derivada da antiga língua de Canaã, da qual o hebraico foi a variedade mais representativa, por ter conservado, com a Bíblia, um património literário mais amplo. O que aqui se designa como a língua judaica era a variedade praticada na região da Judeia e na sua cidade principal, Jerusalém."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "ne-13-n11",
+              "offset": 116,
+              "original_marker": "c",
+              "source_id": 123
+            }
+          ]
         },
         {
           "verse": 25,
-          "text": "Censurei-os e amaldiçoei-os, bati em alguns e puxei-os pelos cabelos. E obriguei-os a jurar, em nome de Deus: «Não dareis as vossas filhas em casamento aos filhos deles e não tomareis as filhas deles como esposas para os vossos filhos nem para vós mesmos.",
+          "text": "Censurei-os e amaldiçoei-os, bati em alguns e puxei-os pelos cabelos. E obriguei- -os a jurar, em nome de Deus: «Não dareis as vossas filhas em casamento aos filhos deles e não tomareis as filhas deles como esposas para os vossos filhos nem para vós mesmos.",
           "note_refs": []
         },
         {
           "verse": 26,
           "text": "Porventura não foi por esta razão que Salomão, rei de Israel, pecou? E, no entanto, não havia entre as nações nenhum rei como ele, o amado de Deus, que o constituiu rei sobre todo o Israel. Foram as mulheres estrangeiras que o induziram em pecado.",
-          "note_refs": []
+          "note_refs": [
+            "12"
+          ],
+          "notes": {
+            "12": "A expressão amado de Deus parece ser uma referência ao nome que o profeta Natan deu a Salomão após o nascimento: Jedidias (amado de Deus), (2Sm 12,24-25). Sobre o casamento com mulheres estrangeiras, cf. 1Rs 11,1-13."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "ne-13-n12",
+              "offset": 246,
+              "original_marker": "d",
+              "source_id": 124
+            }
+          ]
         },
         {
           "verse": 27,
@@ -2077,7 +3907,21 @@
         {
           "verse": 29,
           "text": "Recorda-te, ó meu Deus, daqueles que assim profanam o sacerdócio e a aliança dos sacerdotes e dos levitas.",
-          "note_refs": []
+          "note_refs": [
+            "13"
+          ],
+          "notes": {
+            "13": "Cf. nota a 3,36-37."
+          },
+          "note_positions": [
+            {
+              "ref": "13",
+              "id": "ne-13-n13",
+              "offset": 105,
+              "original_marker": "e",
+              "source_id": 125
+            }
+          ]
         },
         {
           "verse": 30,
@@ -2088,6 +3932,61 @@
           "verse": 31,
           "text": "Dispus também o que se refere à oferta de lenha, nas alturas determinadas, e aos primeiros frutos. Recorda-te de mim, ó meu Deus, para meu bem.",
           "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Expulsão dos estrangeiros (Esd 9-10; Ml 2,10-16)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 4,
+          "text": "Correção de abusos na administração do templo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 10,
+          "text": "Reposição do pagamento do dízimo dos levitas",
+          "note_refs": []
+        },
+        {
+          "before_verse": 15,
+          "text": "A questão da observância do sábado",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Sobre a reforma da observância do sábado, cf. nota a Esd 10,32."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "ne-13-n5",
+              "offset": 34,
+              "original_marker": "j",
+              "source_id": 118
+            }
+          ]
+        },
+        {
+          "before_verse": 23,
+          "text": "Os casamentos mistos (Esd 9-10; Ml 2,10-16)",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Sobre a questão, dos casamentos mistos, cf. a nota a Esd 9."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "ne-13-n10",
+              "offset": 43,
+              "original_marker": "b",
+              "source_id": 122
+            }
+          ]
         }
       ]
     }

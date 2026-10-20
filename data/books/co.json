@@ -1,5 +1,60 @@
 {
+  "schema_version": 2,
   "book": "Eclesiastes",
+  "book_id": "co",
+  "source": {
+    "format": "docx",
+    "file": "25_Co.docx",
+    "title": "Livro de Coélet"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": "O livro, o autor e a época",
+        "paragraphs": [
+          "O nome deste livro deriva da expressão hebraica qohelet, a qual, usada sem artigo, soa como se fosse o nome de uma pessoa. Em 12,8, aparece com artigo, mas o sentido não parece diferente. Neste caso, deveria ser entendido como um substantivo no feminino e esta categoria morfológica poderia normalmente designar uma função profissional. Em Esd 2,55 e Ne 7,57, aparece um nome de estrutura morfológica semelhante (hassoféret/soféret ) que poderia ser do mesmo modelo e, neste caso, representaria um escriba. Nestes casos, a expressão está integrada numa lista de nomes. E, apesar de se tratar de uma forma feminina poderia representar uma função exercida por um homem.",
+          "A designação tradicionalmente usada como título deste livro é Eclesiastes; e ela deriva da tradução do nome hebraico para o grego ekklesiastés, mantendo provavelmente o mesmo sentido funcional. O uso e significado da palavra, tanto em hebraico como em grego, remete-nos para o contexto das assembleias, sejam de cariz litúrgico sejam de carácter cultural. Uma personagem receberia um tal nome por ser um membro destacado numa dessas assembleias. Os intérpretes que, ao longo da história, o situam em contexto de assembleia religiosa tendem a traduzir o nome desta personagem e do respetivo livro como o Pregador; quem entende tais assembleias como um ambiente académico-cultural poderia fazer equivaler esta função â de um Mestre.",
+          "Dado o teor e o espírito específico que exprime nos conteúdos deste livro, talvez o mais normal seja pensar que ele pode representar principalmente contextos culturais. Por detrás dos conteúdos deste livro singular estaria, por conseguinte, uma personagem de grande repercussão na vida cultural e espiritual da comunidade hebraica. Alguns seriam levados a pensar mesmo num mestre popular e peripatético, de teor mais cultural e filosófico do que propriamente litúrgico ou religioso.",
+          "A língua usada tem características de um hebraico claramente pós-exílico, próximo do hebraico da Mishná. São bastante claros alguns sintomas lexicais de origem persa, como sejam os termos pardes, significando jardim, pomar ou floresta, e pitgam, significando decreto ou decisão. A própria administração persa foi responsável por uma grande difusão do aramaico, que se transformou, primeiro, numa língua franca, e, depois, numa língua regional bem enraizada nas camadas populares, até mesmo na Palestina. Talvez isso não seja razão para sustentar uma composição original em aramaico, mas há casos reconhecidos de semânticas aramaicas em várias passagens. Se se aceitarem alguns indícios sobre diversos conhecimentos por parte do autor do Eclesiástico, como 3,12;7,14; 9,10; 11,9 a comparar com Sir 14,11-19; ou ainda",
+          "2,15-16 a comparar com Sir 41,11-13, então a data de composição do primeiro teria de ser antes do ano 180 a.C.",
+          "O contexto e a época, cujas marcas se podem assinalar como pano de fundo deste livro, situam-se no ambiente do hebraico da Palestina entre os finais do século III e os inícios do século II a.C. Nesta época a Palestina estava sob o domínio dos Ptolemeus, isto é, a dinastia dos Lágidas de Alexandria, herdeiros egípcios de Alexandre Magno. Corria ali uma cultura de helenismo de ambiente aristocrático; e um certo otimismo predispunha a uma boa receção judaica para os modelos do helenismo, coisa que, mais tarde, se veio a modificar bastante no âmbito da comunidade judaica palestinense."
+        ]
+      },
+      {
+        "title": "Conteúdo",
+        "paragraphs": [
+          "Várias das ideias e temas do livro de Coélet levam os estudiosos a pensar em influências de cultura helenista; estariam em jogo sobretudo preocupações e mentalidades marcantes daquela época. Alguns matizes de ceticismo, epicurismo e estoicismo são os aspetos mais frequentemente apontados pelos autores. Muitos exegetas, no entanto, pensam que as tendências para suscitar interrogações sobre certezas tradicionalmente garantidas constituíam igualmente uma característica da sabedoria oriental, já visível em anteriores práticas bíblicas, como o livro de Job, as quais, por sua vez, tinham raízes hoje conhecidas nas antigas literaturas da Mesopotâmia e do Egito.",
+          "Sejam tradicionais ou importados, os temas do livro de Coélet convivem igualmente bem com o espírito cultural difundido nos tempos do helenismo, sobretudo ao nível da cultura mais popularizada, onde prevalecem as mentalidades mais do que as fórmulas próprias das elites teóricas. Parece, no entanto, que este pensamento se pode considerar bastante fiel à tradição sapiencial bíblica e oriental, no sentido em que a dúvida, o ceticismo, as perplexidades e as aporias são intensas e sofridas, mas não são derrotistas nem radicalmente pessimistas. São frequentes os momentos de sintonia com o livro dos Provérbios e com alguns dos problemas e interrogações da ética e do sentido sintonizam bem com as interrogações expostas no livro de Job.",
+          "No seu conteúdo guerreiam-se sentimentos opostos e contrapõem-se os parâmetros da sabedoria com os resultados da experiência muitas vezes pesada e castigadora. Os seus conceitos principais traduzem este estado de espírito. Uma das suas fórmulas recorrente, “debaixo do Sol”, dá o cenário de enquadramento para este teatro experimental. Ela modera o balanço exagerado dos sonhos e constitui, por outro lado, o padrão para o ponto de equilíbrio e de realismo que propõe. A “ilusão” é o conceito com que exprime, em síntese, o estado final de desencanto, em que resultam as muitas experiências essenciais frustradas. O “proveito” é a moeda para ponderar os prós e os contras, nos difíceis negócios a empreender na contabilidade dos também “contados dias de vida”. O conceito de “sabedoria” concentra os dinamismos de recuperação em que, apesar de tudo, o autor continua sempre a acreditar. Ela é",
+          "o modelo de atitude que, em última análise, o autor parece recomendar aos seus leitores. O autor da conclusão viu bem que a palavra “sábio” podia ser a verdadeira chave para definir Coélet, a sua aventura e a sua tarefa (12,9-14).",
+          "Os temas mais destacados são situações de injustiça (3,16-22) e de opressão (4:1- 3; 5,7-11); de inutilidade do esforço e do prazer (2,18-26; 4,4-8; 5,12-6,9); e de fragilidades da sabedoria (4,13-16; 6,10-12; 7,13-14.23-24; 8,16-9,10; 9,1-3). Não se esquece, porém, de sublinhar algum valor da sabedoria (9,13-18; 10,1-3). E afirma o valor da vida e a importância de não desperdiçar as suas alegrias e prazeres (9,4- 10; 11,7-12,1). Esta atitude é algo urgente, perante as evidências insofismáveis da morte (9,7-10; 12,1-8). O final do autor principal é uma espécie de alegoria sobre o desmoronar do ser humano, com as forças que se esgotam, as luzes que se apagam, o espírito que se afasta e a vida que se afunda no poço do seu próprio mistério (12,2-7). Num rápido epílogo (12,9-14), alguém teve o cuidado de relembrar e caracterizar a pessoa do eminente mestre como um sábio, duma sabedoria que continua a valer a pena.",
+          "O Coélet deixa-nos também algumas mensagens sóbrias e positivas como recomendações bem prestáveis: um trabalho moderado, o gozo comedido dos prazeres da vida, nomeadamente amor, amizade e usufruto dos bens adquiridos, com sabedoria e temor de Deus. Apesar de todas as suas fragilidades e limitações, a vida vale ainda a pena ser vivida.",
+          "O essencial do pensamento do Coélet enquadra-se na fase de transformação cultural e teológica por que estava a passar o Israel desta primeira fase do helenismo."
+        ]
+      },
+      {
+        "title": "Género literário",
+        "paragraphs": [
+          "O género literário que mais se acomoda à variedade dos conteúdos tratados parece ser o de um diário de reflexões de um pensador. Esta voz da experiência como expressão de sabedoria cabia, por vezes, em formas de escrita codificada. O modo de um testamento régio poderia condizer com o tratamento simbólico que é dado à personagem central, apresentando-a como rei de Jerusalém e filho de David. Esta estratégia de construção da imagem autoral conduz à identificação simbólica com Salomão, que acabou poe se transformar no paradigma bíblico de toda a sabedoria, sendo-lhe atribuída a autoria simbólica de vários outros livros sapienciais, como o Cântico dos Cânticos, os Provérbios, o Coélet e a Sabedoria."
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "paragraphs": [
+          "A questão da estrutura não parece deixar-se esquematizar de forma clara e convincente. A maleabilidade do texto faz com que não seja fácil encaixá-lo numa esquematização lógica estrita, apesar de muitos tentarem empreendê-lo. Literariamente, adivinha-se alguma estruturação da parte do autor, usando como separador a fórmula conclusiva de hébel (“ilusão”), abrindo e concluindo com a grande fórmula de “ilusão das ilusões” (1,2 e 12,8) e destacando, de entrada, um poema sobre o lugar",
+          "do homem no cosmos e na história (1,3-11) e, no final, outro sobre o declinar da vida nos humanos (12,1-7).",
+          "Dentro deste enquadramento, aparecem cinco partes temáticas: 1) 1,12-2,26: experiências de um Salomão simbólico; 2) 3,1-4,16: contradições da sociedade humana; 3) 4,17-6,9: pilares da vida religiosa e social; 4) 6,10-8,14: sobre a sabedoria tradicional; 5) 8,15-12,7: convite à alegria e à ação."
+        ]
+      },
+      {
+        "title": "Autoria",
+        "paragraphs": [
+          "O texto poderia apresentar indícios de várias autorias. Estas podem deixar-se aperceber, nomeadamente no facto de a referência à personagem principal, Coélet, aparecer, ora em 1ª pessoa (2,1), ora em 3ª (1,1; 12,9-10). Muitas outras secções textuais identificadas como “eu”, mas sem aposição de um nome próprio, podem pertencer diretamente ao discurso da personagem Coélet, mas, dado o teor dos textos deste livro, podem também ter outras origens. As últimas frases da conclusão, por exemplo (12,12-14), poderiam representar um “eu” diferente, que teve como intenção oferecer uma chave final de leitura para os conteúdos, por vezes dialéticos e de difícil síntese, que esta obra, viva, original e meritória, apresenta."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
@@ -7,22 +62,87 @@
         {
           "verse": 1,
           "text": "Palavras de Coélet, filho de David, rei em Jerusalém.",
-          "note_refs": []
+          "note_refs": [
+            "1",
+            "2"
+          ],
+          "notes": {
+            "1": "As mensagens divinas transmitidas por meio dos profetas costumam ser referidas como palavra de Deus. O singular, Palavra, significa, neste caso, mais importância e autoridade. O Coélet que apresenta pensamentos de um humano distingue-se por ter um título no plural, palavras. Algo semelhante ocorre com o livro dos Provérbios, que, em hebraico se intitulam: mishlê Shelomoh (Parábolas de Salomão).",
+            "2": "Ao sublinhar a identidade simbólica com Salomão, o autor pretende apresentar a personagem do Coélet como um eminente representante da sabedoria (1Rs 9-14), aspeto que é, mais uma vez, sublinhado no epílogo da obra (12,9-11)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "co-1-n1",
+              "offset": 8,
+              "original_marker": "a",
+              "source_id": 1
+            },
+            {
+              "ref": "2",
+              "id": "co-1-n2",
+              "offset": 52,
+              "original_marker": "b",
+              "source_id": 2
+            }
+          ]
         },
         {
           "verse": 2,
-          "text": "Ilusão das ilusões diz Coélet! Ilusão das ilusões! Tudo é ilusão!",
-          "note_refs": []
+          "text": "Ilusão das ilusões – diz Coélet! Ilusão das ilusões! Tudo é ilusão!",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Esta frase constitui como que um refrão onde se contém a tese do livro. Por isso é retomada no epílogo (12,8). O termo hebraico hebel condiz bem com a ideia de uma coisa vã ou inútil, mais do que com a ideia de absurdo. Por isso aqui se traduz por ilusão."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "co-1-n3",
+              "offset": 67,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Que proveito há para o homem em todas as suas fadigas com as quais se afadiga debaixo do Sol?",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O autor repete com frequência a aliteração que aqui se traduz por fadiga e afadigar-se, criando com esta expressão mais uma espécie de refrão uma fun"
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "co-1-n4",
+              "offset": 77,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 4,
           "text": "Uma geração vai e outra geração vem e a terra permanece eternamente.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Nos vv. 4-11, temos um poema inicial sobre o carácter passageiro e efémero de tudo o que acontece no mundo. Esta grande abertura corresponde ao belo poema de encerramento (12,1-8), sobre o processo final de decrepitude do humano."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "co-1-n5",
+              "offset": 67,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 5,
@@ -42,11 +162,25 @@
         {
           "verse": 8,
           "text": "Todas as palavras se esgotam; um homem não se consegue exprimir. A vista não se farta de ver, nem o ouvido se enche de ouvir.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Ou: não para de falar."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "co-1-n6",
+              "offset": 63,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 9,
-          "text": "Aquilo que foi é o que será O O e o que foi feito é o que se fará. Pois não há nada de novo debaixo do Sol.",
+          "text": "Aquilo que foi é o que será e o que foi feito é o que se fará. Pois não há nada de novo debaixo do Sol.",
           "note_refs": []
         },
         {
@@ -72,7 +206,21 @@
         {
           "verse": 14,
           "text": "Vi todas as atividades que se fazem debaixo do Sol e eis que tudo é uma ilusão e um apascentar o vento.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Ou: um mal de espírito. Esta expressão é característica do Coélet e, por isso, é importante apurar o sentido que se lhe dá. Ela aparece frequentemente traduzida como correr atrás do vento. No entanto, o verbo hebraico não tem propriamente o sentido de correr e pode mesmo estar ligado à semântica de pastorear. Apascentar o vento é, com efeito, uma tarefa ilusória e inútil. Este sentido condiz bem com o contexto e com o espírito do Coélet. Ora esta metáfora encontra-se integralmente em Os 12,2, juntando a ideia de apascentar o vento e a de perseguir o vento leste, numa construção em esquema de paralelismo que serve como uma verdadeira definição de sentido. Ver nota da TOB a Co 1,14, que chama a atenção para as conotações de pastorícia presentes no texto hebraico. A Bíblia Sagrada (PIB-Paulinas) traduz por “afã de espírito”. A tradição semântica hebraico-aramaica conserva a ideia de um termo ra´ut com o sentido de doença: “um mal de espírito”. A Vulgata traduz “afflictio spiritus”, coisa que a Neovulgata mantém. No entanto, em Os 12,1, a Vulgata diz: “Ephraim pascit ventum” e a Neovulgata: “Ephraim pascit ventum et sequitur aestum”."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "co-1-n7",
+              "offset": 102,
+              "original_marker": "a",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 15,
@@ -87,11 +235,42 @@
         {
           "verse": 17,
           "text": "Apliquei, também, o meu coração a conhecer a sabedoria e a reconhecer a loucura e a insensatez. Reconheci que também isso é apascentar o vento.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Ou: um mal de espírito. Cf. 1,14 e nota."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "co-1-n8",
+              "offset": 142,
+              "original_marker": "b",
+              "source_id": 8
+            }
+          ]
         },
         {
           "verse": 18,
           "text": "Pois na muita sabedoria há muita arrelia; e o que aumenta o conhecimento aumenta o sofrimento.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Título",
+          "note_refs": []
+        },
+        {
+          "before_verse": 2,
+          "text": "Tudo passa",
+          "note_refs": []
+        },
+        {
+          "before_verse": 12,
+          "text": "Ambiguidade da experiência",
           "note_refs": []
         }
       ]
@@ -106,7 +285,7 @@
         },
         {
           "verse": 2,
-          "text": "Do riso eu disse: «É loucu - ra!» e da alegria: «Para que serve ela?»",
+          "text": "Do riso eu disse: «É loucura!» e da alegria: «Para que serve ela?»",
           "note_refs": []
         },
         {
@@ -137,12 +316,40 @@
         {
           "verse": 8,
           "text": "Para mim recolhi também prata e ouro, riquezas de reis e de províncias; procurei para mim cantores e cantoras. Enfim, as delícias dos filhos dos homens, uma mulher e mais mulheres.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Em vez de uma e mais mulheres, a Neovulgata entende como: jarros e taças para servir bebidas. Neste ponto, o texto hebraico não permite uma leitura clara."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "co-2-n1",
+              "offset": 179,
+              "original_marker": "c",
+              "source_id": 9
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Tornei-me grande e juntei mais riqueza que todos os que existiram antes de mim em Jerusalém; mas a minha sabedoria ficava comigo.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ou: pois a minha sabedoria permanecia comigo."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "co-2-n2",
+              "offset": 128,
+              "original_marker": "d",
+              "source_id": 10
+            }
+          ]
         },
         {
           "verse": 10,
@@ -152,7 +359,21 @@
         {
           "verse": 11,
           "text": "E voltei-me para todas as obras que as minhas mãos tinham feito e para as fadigas que me custou fazê-las. E eis que tudo era ilusão e apascentar o vento e nenhum proveito havia debaixo do Sol.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Ou: um mal de espírito. Cf. 1,14 e nota."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "co-2-n3",
+              "offset": 152,
+              "original_marker": "a",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 12,
@@ -167,7 +388,21 @@
         {
           "verse": 14,
           "text": "O sábio tem olhos na cara, mas o ignorante caminha nas trevas. Porém, tive também de reconhecer que uma mesma sorte os espera a todos.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Coélet parece estar a fazer aqui a citação de um ditado popular, que em seguida (vv. 14b-17) vai submeter à crítica da sua experiência."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "co-2-n4",
+              "offset": 61,
+              "original_marker": "b",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 15,
@@ -182,7 +417,30 @@
         {
           "verse": 17,
           "text": "E fiquei a odiar a vida, pois era cruel para mim aquilo que se faz debaixo do Sol. Pois tudo é ilusão e apascentar o vento.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Os verbos amar e odiar são usados em modo de polaridade, extremando e radicalizando o sentido em dimensões contrapostas, como se pode ver nas oposições semânticas do poema de 3,1-8. Por isso, há traduções que fazem matizes intermédios de sentido como: e fiquei desgostado da vida.",
+            "6": "Ou: um mal de espírito. Cf. 1,14 e nota."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "co-2-n5",
+              "offset": 23,
+              "original_marker": "c",
+              "source_id": 13
+            },
+            {
+              "ref": "6",
+              "id": "co-2-n6",
+              "offset": 122,
+              "original_marker": "d",
+              "source_id": 14
+            }
+          ]
         },
         {
           "verse": 18,
@@ -202,7 +460,21 @@
         {
           "verse": 21,
           "text": "Pois há alguém cujo esforço é feito com sabedoria, conhecimento e sucesso e tem de o entregar em herança a um outro que não teve de se afadigar para isso. Também isto é uma ilusão e uma grande maldade.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Uma ilusão e uma grande maldade é uma outra fórmula de síntese, associando um novo conceito com o de ilusão (hebel)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "co-2-n7",
+              "offset": 200,
+              "original_marker": "e",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 22,
@@ -222,11 +494,60 @@
         {
           "verse": 25,
           "text": "Com efeito, quem pode comer e saborear, sem vir da parte dele?",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "O texto hebraico diz quem pode comer e saborear sem ser por mim? A frase faria sentido, entendida como uma declaração feita por Deus. Poderia aparecer aqui como uma citação. Na linguagem religiosa bíblica, seria lógica, mas sugeriria um registo de tipo mais profético. Ora, o Coélet pratica mais uma reflexão de base sapiencial, mas profundamente pessoal."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "co-2-n8",
+              "offset": 61,
+              "original_marker": "f",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 26,
           "text": "Pois ao homem que é bom diante dele Ele dá sabedoria, conhecimento e alegria; mas, ao pecador dá a preocupação em recolher e acumular bens para os deixar ao que é bom diante de Deus. Também isto é ilusão e apascentar o vento.",
+          "note_refs": [
+            "9",
+            "10"
+          ],
+          "notes": {
+            "9": "Ou: a quem for bom diante dele. Este versículo poderia conter mais uma citação de um provérbio conhecido naquele tempo.",
+            "10": "Ou: um mal de espírito. Cf. 1,14 e nota."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "co-2-n9",
+              "offset": 181,
+              "original_marker": "g",
+              "source_id": 17
+            },
+            {
+              "ref": "10",
+              "id": "co-2-n10",
+              "offset": 224,
+              "original_marker": "h",
+              "source_id": 18
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Ilusão dos prazeres",
+          "note_refs": []
+        },
+        {
+          "before_verse": 14,
+          "text": "O sábio e o ignorante",
           "note_refs": []
         }
       ]
@@ -287,7 +608,21 @@
         {
           "verse": 11,
           "text": "Ele fez tudo isto belo em cada tempo e pôs nos seus corações a eternidade, mesmo que o homem não consiga atingir o sentido das obras que Deus fez, desde o princípio até ao fim.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A expressão eternidade é um conceito que, na Bíblia, significa a totalidade de tempo e espaço e pode significar igualmente mundo e século. A ideia principal aqui incluída é a de uma dimensão de amplidão e profundidade, que abarca tanto o passado como o presente e o futuro, como um mistério que nos é simultaneamente próximo e inabarcável. A própria consciência histórica está implicada nesta perceção do tempo inscrita no coração."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "co-3-n1",
+              "offset": 73,
+              "original_marker": "a",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 12,
@@ -317,7 +652,21 @@
         {
           "verse": 17,
           "text": "Então disse no meu coração: «Deus há de julgar o justo e o criminoso, pois, ali, há um tempo para cada propósito/assunto e para tudo o que se faz».",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O ali sublinha o tempo do julgamento, sendo um eco do dia do Senhor, tal como referia a tradição profética. Não é ainda explícito que o Coélet esteja a referir-se a um julgamento que se realizasse no além."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "co-3-n2",
+              "offset": 79,
+              "original_marker": "b",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 18,
@@ -337,11 +686,42 @@
         {
           "verse": 21,
           "text": "Quem sabe se o espírito dos filhos do homem sobe para o alto; e se o espírito dos animais desce para as profundezas da terra?",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O tom desta pergunta parece mais negativo do que aquele com que termina o poema de encerramento do livro (12,7)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "co-3-n3",
+              "offset": 125,
+              "original_marker": "c",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 22,
           "text": "E vi que para o homem não há melhor bem que o de se alegrar com as suas obras. Esta é a porção que lhe cabe. Com efeito, quem poderá fazê-lo voltar para ver como será depois dele?»",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Tudo tem o seu tempo",
+          "note_refs": []
+        },
+        {
+          "before_verse": 9,
+          "text": "O tempo e a eternidade",
+          "note_refs": []
+        },
+        {
+          "before_verse": 16,
+          "text": "Destino comum dos mortais",
           "note_refs": []
         }
       ]
@@ -367,7 +747,21 @@
         {
           "verse": 4,
           "text": "E vi também toda a fadiga e toda a obra de sucesso, pois são motivo de inveja de um para com o outro. Também isto é ilusão e apascentar o vento.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Ou: um mal de espírito. Cf. 1,14 e nota."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "co-4-n1",
+              "offset": 143,
+              "original_marker": "a",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 5,
@@ -377,7 +771,21 @@
         {
           "verse": 6,
           "text": "É melhor uma mão cheia de sossego que duas mãos cheias de fadigas e de apascentar o vento.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ou: um mal de espírito. Cf 1,14 e nota."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "co-4-n2",
+              "offset": 89,
+              "original_marker": "b",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 7,
@@ -427,6 +835,70 @@
         {
           "verse": 16,
           "text": "Era uma multidão sem fim de gente que ele tinha na sua frente. Mas os que vinham depois não estavam contentes com ele. Pois também isto é ilusão e apascentar o vento.",
+          "note_refs": [
+            "3",
+            "4"
+          ],
+          "notes": {
+            "3": "Outra alternativa textual: à frente das quais ele estava.",
+            "4": "Ou: um mal de espírito. Cf. 1,14 e nota."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "co-4-n3",
+              "offset": 61,
+              "original_marker": "c",
+              "source_id": 24
+            },
+            {
+              "ref": "4",
+              "id": "co-4-n4",
+              "offset": 165,
+              "original_marker": "d",
+              "source_id": 25
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "Está atento aos teus passos quando fores à casa de Deus. Aproxima-te para escutar, em vez de oferecer sacrifícios como os insensatos, pois estes não sabem que estão a fazer mal.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O espírito desta perícope até 5,6 soa em harmonia com o discurso tradicional dos profetas (Is 1,10-20)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "co-4-n5",
+              "offset": 176,
+              "original_marker": "e",
+              "source_id": 26
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "As lágrimas dos oprimidos",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "Vida partilhada",
+          "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "A ilusão do poder",
+          "note_refs": []
+        },
+        {
+          "before_verse": 17,
+          "text": "Atitudes religiosas",
           "note_refs": []
         }
       ]
@@ -436,7 +908,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Está atento aos teus passos quando fores à casa de Deus. Aproxima-te para escutar, em vez de oferecer sacrifícios como os insensatos, pois estes não sabem que estão a fazer mal.",
+          "text": "Não sejas precipitado com a tua boca e que o teu coração não se apresse em proferir palavras diante de Deus, pois Deus está nos céus e tu estás sobre a terra. Portanto, sejam poucas as tuas palavras.",
           "note_refs": []
         },
         {
@@ -457,7 +929,21 @@
         {
           "verse": 5,
           "text": "Não permitas que a tua boca leve o teu corpo a pecar e não digas diante do mensageiro que foi por engano, para Deus não se irritar com as tuas palavras, fazendo fracassar a obra das tuas mãos.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Não é muito explícito de que mensageiro se trata. Um anjo (Tb 12,12)? Um sacerdote em função litúrgica (Ml 2,7)? Ou mesmo Deus, referido numa função sintática equivalente na linha seguinte?"
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "co-5-n1",
+              "offset": 85,
+              "original_marker": "a",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 6,
@@ -467,17 +953,59 @@
         {
           "verse": 7,
           "text": "Se vires no país a opressão do pobre e a violação do direito e da justiça, não te admires por causa desse assunto. Pois um grande guarda outro grande e outros grandes estão acima deles.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Lit.: na província, talvez deixando assim entrever o estatuto de província administrativa que a Judeia tinha durante a governação dos Ptolemeus, na condição de o texto do Coélet ser dessa época."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "co-5-n2",
+              "offset": 16,
+              "original_marker": "b",
+              "source_id": 28
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "E o proveito do país está em tudo isso. Um rei é servido pelo campo.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Ou: até o rei está dependente de um campo. O hebraico desta passagem é de tradução difícil."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "co-5-n3",
+              "offset": 67,
+              "original_marker": "c",
+              "source_id": 29
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Aquele que ama o dinheiro não se satisfaz com o dinheiro; e quem ama ter muito, isso não virá ao seu encontro. Também isto é ilusão.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Ou: não se vai fartar de dinheiro."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "co-5-n4",
+              "offset": 56,
+              "original_marker": "d",
+              "source_id": 30
+            }
+          ]
         },
         {
           "verse": 10,
@@ -528,10 +1056,12 @@
           "verse": 19,
           "text": "Assim, o homem não tem tanto que lembrar os dias da sua vida, porque Deus o preenche com a alegria do seu coração.",
           "note_refs": []
-        },
+        }
+      ],
+      "headings": [
         {
-          "verse": 20,
-          "text": "",
+          "before_verse": 7,
+          "text": "Pobreza e riqueza",
           "note_refs": []
         }
       ]
@@ -582,7 +1112,21 @@
         {
           "verse": 9,
           "text": "É melhor aquilo que os olhos veem que o vaguear dos desejos. Também isto é ilusão e apascentar o vento.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Ou: um mal de espírito. Cf. 1,14 e a nota."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "co-6-n1",
+              "offset": 102,
+              "original_marker": "a",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 10,
@@ -597,6 +1141,13 @@
         {
           "verse": 12,
           "text": "Pois quem sabe o que é melhor para a vida do homem nos poucos dias da sua vida de ilusão, que ele cumpre como uma sombra? Pois quem poderá anunciar ao homem o que vai acontecer, depois dele, debaixo do Sol?",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Infelicidades neste mundo",
           "note_refs": []
         }
       ]
@@ -657,7 +1208,21 @@
         {
           "verse": 11,
           "text": "É boa a sabedoria com uma herança; é uma vantagem para os que veem a luz do Sol.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Esta tradução parece bem adequada ao texto e à lógica do Coélet. Há, no entanto, quem traduza: A sabedoria é melhor que uma herança. Ou ainda: A sabedoria é boa como uma herança."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "co-7-n1",
+              "offset": 33,
+              "original_marker": "b",
+              "source_id": 32
+            }
+          ]
         },
         {
           "verse": 12,
@@ -736,7 +1301,7 @@
         },
         {
           "verse": 27,
-          "text": "Vê bem aquilo que eu encontrei dizia o Coélet –, procurando encontrar um sentido em cada coisa.",
+          "text": "Vê bem aquilo que eu encontrei – dizia o Coélet –, procurando encontrar um sentido em cada coisa.",
           "note_refs": []
         },
         {
@@ -749,6 +1314,13 @@
           "text": "Vê bem a única coisa que eu encontrei: Deus criou os homens retos, mas eles procuraram enredos sem fim.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Máximas da sabedoria",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -757,17 +1329,59 @@
         {
           "verse": 1,
           "text": "Quem é como o sábio? E quem conhece a explicação das coisas? A sabedoria do homem ilumina o seu rosto e transforma a dureza da sua face.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Ou: de uma palavra."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "co-8-n1",
+              "offset": 59,
+              "original_marker": "a",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "Por mim, cumpre a ordem do rei, por causa do juramento feito a Deus.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A expressão hebraica por causa do juramento de Deus pode entender-se como: o juramento feito a Deus, para confirmar um juramento de fidelidade ao rei por parte dos súbditos. Pode também entender-se como: o juramento de Deus, a confirmar a autoridade do rei."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "co-8-n2",
+              "offset": 67,
+              "original_marker": "b",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Não te apresses a fugir da sua presença, não insistas em praticar o mal, pois ele pode fazer tudo o que lhe apraz.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Afastar-se do rei poderia ser uma forma metafórica de se referir a movimentações graves de rebelião ou conspiração."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "co-8-n3",
+              "offset": 113,
+              "original_marker": "c",
+              "source_id": 35
+            }
+          ]
         },
         {
           "verse": 4,
@@ -802,7 +1416,21 @@
         {
           "verse": 10,
           "text": "E assim vi malfeitores serem sepultados e, ao saírem do lugar sagrado, prestavam-lhes homenagem, na cidade onde tinham praticado tais coisas. Também isto é ilusão.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Tradução segundo alguns manuscritos. Segundo outros: esqueciam-se deles."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "co-8-n4",
+              "offset": 95,
+              "original_marker": "a",
+              "source_id": 36
+            }
+          ]
         },
         {
           "verse": 11,
@@ -837,6 +1465,18 @@
         {
           "verse": 17,
           "text": "E contemplei toda a obra de Deus, e vi que os humanos não conseguem atingir tudo aquilo que se realiza debaixo do Sol. Por muito que o homem se afadigue a procurar, não o atingirá. E, mesmo que o sábio declare conhecê-lo, não conseguirá atingi-lo.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Consciência humana",
+          "note_refs": []
+        },
+        {
+          "before_verse": 10,
+          "text": "Contingências de vida",
           "note_refs": []
         }
       ]
@@ -934,6 +1574,18 @@
           "text": "É melhor a sabedoria que as máquinas de guerra, mas um só que erra deita a perder muita coisa boa.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "O destino comum",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Situações absurdas",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -947,7 +1599,21 @@
         {
           "verse": 2,
           "text": "O coração do sábio está à sua direita; e o coração do insensato, à sua esquerda.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "As duas direções pretendem exprimir os caminhos opostos de ambas as personagens. O coração é sede psicológica da inteligência e da vontade e, por isso, dos comportamentos."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "co-10-n1",
+              "offset": 79,
+              "original_marker": "a",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 3,
@@ -1039,6 +1705,13 @@
           "text": "Não critiques o rei nem na tua consciência e não critiques o rico nem no teu quarto de dormir, pois algum pássaro pode encaminhar a voz e alguma ave pode anunciar a palavra.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Pensamentos de sabedoria",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -1047,7 +1720,21 @@
         {
           "verse": 1,
           "text": "Lança o teu trigo sobre a superfície do mar que, depois de muitos dias, o hás de recuperar.",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Trata-se, possivelmente, de uma referência a algum investimento em atividades comerciais realizadas por mar. Com efeito, o v. seguinte aconselha a diversificar os investimentos."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "co-11-n1",
+              "offset": 90,
+              "original_marker": "a",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1092,6 +1779,32 @@
         {
           "verse": 10,
           "text": "Deita fora as preocupações do teu coração e afasta o sofrimento do teu corpo, porque a mocidade e a meninice são uma ilusão.",
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Ou: e os cabelos negros. O aramaico lê este termo abstrato como derivado do adjetivo “negro” (shahor)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "co-11-n2",
+              "offset": 108,
+              "original_marker": "b",
+              "source_id": 39
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Saber arriscar",
+          "note_refs": []
+        },
+        {
+          "before_verse": 9,
+          "text": "Sobre a juventude",
           "note_refs": []
         }
       ]
@@ -1102,7 +1815,21 @@
         {
           "verse": 1,
           "text": "E lembra-te do teu criador, nos dias da tua juventude, enquanto não chegam os dias de calamidade e se aproximem os anos dos quais hás de dizer: «Não sinto neles nenhum interesse»;",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Este poema encerra literariamente o conjunto de reflexões sobre a experiência humana. Ele corresponde ao poema de abertura (1,2-11). Desde a tradição hermenêutica judaica antiga, ele é entendido como uma espécie de alegoria da progressiva decrepitude humana que culmina na velhice."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "co-12-n1",
+              "offset": 96,
+              "original_marker": "c",
+              "source_id": 40
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1117,7 +1844,21 @@
         {
           "verse": 4,
           "text": "quando se fecham os portões da praça e se afrouxa a voz do moinho; quando se levanta ao piar de um pássaro e se calam todas as vozes da canção;",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Outros traduzem: e se afasta o canto dos pássaros."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "co-12-n2",
+              "offset": 106,
+              "original_marker": "a",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 5,
@@ -1166,8 +1907,34 @@
         },
         {
           "verse": 14,
-          "text": "Pois Deus leva a julgamento tudo o que se faz, tudo o que está escondido, seja bom ou mau. PARALELOS",
+          "text": "Pois Deus leva a julgamento tudo o que se faz, tudo o que está escondido, seja bom ou mau.",
           "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Sobre a velhice",
+          "note_refs": []
+        },
+        {
+          "before_verse": 9,
+          "text": "Epílogos",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Este texto final parece conter dois epílogos diferentes; um primeiro, recapitulando a personagem do mestre, Coélet; um segundo, concluindo com uma chave algo diferente das ideias do Coélet."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "co-12-n3",
+              "offset": 8,
+              "original_marker": "b",
+              "source_id": 42
+            }
+          ]
         }
       ]
     }

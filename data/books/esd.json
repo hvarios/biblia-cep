@@ -1,18 +1,99 @@
 {
+  "schema_version": 2,
   "book": "Esdras",
+  "book_id": "esd",
+  "source": {
+    "format": "docx",
+    "file": "15_Esd.docx",
+    "title": "Livro de Esdras"
+  },
+  "introduction": {
+    "title": "Introdução",
+    "sections": [
+      {
+        "title": null,
+        "paragraphs": [
+          "O livro de Esdras contém o relato do regresso do povo de Israel a Jerusalém e à Terra Santa depois do exílio na Babilónia (587/586 a.C.). Com a autorização e o apoio de Ciro, o rei persa, um grupo de exilados empreende o caminho de regresso com o intuito de reconstruir o templo de Jerusalém e de aí restabelecer o culto. A primeira parte do livro (cc. 1–6) termina, precisamente, com a cerimónia da dedicação do chamado Segundo Templo. A segunda parte do livro (cc. 7- 10) narra o regresso de um outro grupo de exilados, sob a liderança do sacerdote e escriba Esdras, durante o reinado de Artaxerxes. Enviado pelas autoridades persas, Esdras recebe a missão de implementar uma prática e um conhecimento mais rigorosos da Lei de Deus. Guiado por uma interpretação restritiva da mesma, Esdras fomenta a separação entre judeus e não-judeus, anulando os casamentos mistos e proibindo novas uniões deste género."
+        ]
+      },
+      {
+        "title": "Contexto histórico",
+        "paragraphs": [
+          "Uma parte significativa da população do reino de Judá é exilada pelos babilónios em 586 a.C. Após a queda do Império Neobabilónico (539 a.C.), os reis persas, que herdaram os territórios que pertenciam à Babilónia, inauguraram uma política de tolerância religiosa e promoveram o restabelecimento dos cultos locais. É neste contexto que se pode compreender o édito do rei Ciro, citado no princípio do livro de Esdras (1,1-4). O monarca persa autoriza o regresso do povo judeu a Jerusalém e a Judá, confiando-lhe o encargo de reconstruir o templo e de restaurar o culto do Deus de Israel. De acordo com o texto bíblico, o édito foi publicado no primeiro ano do reinado de Ciro, isto é, quando este assumiu o trono na Babilónia (539-538 a.C.)",
+          "O livro de Esdras deixa-nos a impressão de que o apelo do monarca persa é acolhido com entusiasmo por um grupo numeroso de exilados (quase 50 mil pessoas, segundo Esd 2,64-65) e que o regresso se faz de forma imediata e unitária. Os dados arqueológicos mostram uma imagem menos idealizada desta migração. Provavelmente, o número daqueles que retornaram da Babilónia é bastante mais reduzido. Jerusalém e as cidades de Judá permaneceram relativamente pequenas durante o período persa (séc. VI-IV a.C.) e não há sinais de que uma população de largas dezenas de milhar se tenha instalado na região no final do século VI a.C. ou nos séculos seguintes. Isto favorece a ideia de que o regresso foi um fenómeno limitado e feito por vagas.",
+          "No que respeita à missão de Esdras, o texto bíblico coloca-a sob o reinado de Artaxerxes, sem especificar se se trata de Artaxerxes I (465-425 a.C.) ou Artaxerxes II (404-358 a.C.). Há um certo consenso entre investigadores de que se trata de Artaxerxes II. Tal facto colocaria a missão de Esdras numa etapa posterior à missão",
+          "de Neemias que parece ter tido lugar durante o reinado do primeiro (Ne 1,1.11; 5,14; 13,6). Se a data é problemática, o teor da missão não é menos. A ideia de que o monarca persa teria sancionado a Lei de Deus, isto é, uma espécie de proto-Pentateuco como lei a ser aplicada em toda a região de Além-Eufrates (região entre o rio Eufrates e o Mediterrâneo), dando a Esdras a autoridade de nomear juízes e de reformar a sua aplicação, parece fruto de uma idealização. Mais modestamente, é possível supor que as autoridades persas autorizaram as práticas prescritas na Lei sempre e quando estas últimas não colidissem com os interesses do império, nomeadamente com a recolha de impostos."
+        ]
+      },
+      {
+        "title": "Autor, fontes e data",
+        "paragraphs": [
+          "A questão da data do livro de Esdras é intensamente debatida. Uma parte dos especialistas acredita que o livro foi redigido pouco depois dos acontecimentos relatados, isto é, na segunda metade do século IV a.C. Mais, estes autores estão convencidos que o redator final do texto tinha à disposição fontes contemporâneas, nomeadamente os éditos e os rescritos dos reis persas (por exemplo, Esd 1,2-4), um relato do processo de reconstrução do templo (Esd 1–6), listas várias (Esd 2) e as memórias de Esdras (na primeira pessoa: Esd 7,27-9,15). O seu trabalho teria sido mais de compilador que de autor. É comum defender-se que este redator final do livro de Esdras (e de Neemias) teria sido o chamado Cronista, isto é, o autor dos dois livros das Crónicas.",
+          "No extremo oposto, certos investigadores atribuem o conjunto da narração a um autor que teria vivido muitos anos, senão mesmo séculos, depois do sucedido. Já em pleno período helenístico (323-31 a.C.), este autor teria projetado na época do primeiro regresso as questões do seu tempo, nomeadamente a tensão entre judaísmo e helenismo, com o propósito de legitimar certas instituições e práticas religiosas e de criticar o comportamento dos seus adversários.",
+          "Para estes autores, a questão das fontes é assim muito mais problemática. A maioria assume que não é possível verificar a sua existência (no caso das “memórias”) e/ ou a sua autenticidade (no caso dos éditos e rescritos dos reis persas). Alguns, contudo, mantêm que o livro conserva a memória de determinados factos históricos do período relatado, ainda que de forma idealizada. A prudência convida-nos a deixar a questão em aberto, com a consciência de que o texto de Esdras é uma obra literária, na qual, muito possivelmente, a reconstrução do passado obedece não só a um desejo de preservação da memória dos factos, mas também a imperativos de outra ordem, nomeadamente teológicos."
+        ]
+      },
+      {
+        "title": "Perspetiva teológica",
+        "paragraphs": [
+          "A narrativa do regresso do exílio no livro de Esdras é pontuada pela insistência na continuidade fundamental entre o Israel das origens e do período monárquico e o Israel que volta agora à sua terra para recomeçar a sua história, depois do trauma da",
+          "destruição e do exílio. Esta vontade de curar a ferida aberta pela catástrofe nacional de 586 a.C. é visível, por exemplo, no pormenor com que, em Esdras 1,7-11, se dá conta da devolução dos utensílios de culto que tinham servido no templo destruído pelos babilónios; ou ainda no cuidado em construir o novo templo no lugar do que foi construído por Salomão (Esd 2,68; 3,3; 5,15; 6,7). O garante dessa continuidade é o próprio Deus. É ele que desperta o espírito de Ciro, rei da Pérsia, para que se cumpra a profecia de Jeremias e o povo possa regressar a Judá e a Jerusalém (Esd 1,1). É ele também que, discretamente, permite aos judeus vencer a oposição que havia à conclusão dos trabalhos de reconstrução (Esd 4,15), animando-os a continuar a obra começada por intermédio dos profetas Ageu e Zacarias (Esd 5,1; 6,14). Fiel às suas promessas e à aliança, Deus mostra-se, em Esdras, como o Senhor da história, aquele que une passado, presente e futuro, reparando as linhas que o pecado humano tinha cortado.",
+          "A comunidade daqueles que regressaram do exílio quer viver fundada sobre a palavra de Deus, sobre a sua Lei. O envio de Esdras obedece a esse desígnio: munido da autoridade que lhe foi concedida pelo rei Artaxerxes, este sacerdote e escriba versado na Lei de Deus é o instrumento escolhido para reformar os usos e costumes dos judeus que, a viver novamente na terra da promessa, veem renovada a sua vocação a ser um povo consagrado a Deus e comprometido na prática de um culto agradável a Deus, que os resgatou do exílio. Este cuidado com a Lei nasce também de uma consciência aguda das consequências não só individuais, mas também coletivas do pecado: a catástrofe de dimensão nacional que se abateu sobre Israel não foi apenas o fruto das vicissitudes da história. Na conceção bíblica, a destruição do templo e o exílio são também resultado da infidelidade a Deus e às suas leis (Esd 9,5-15). A prática do direito e da justiça são, por isso, condição indispensável para que o povo possa prosperar, agora que o Senhor lhe concedeu a graça de recomeçar a vida na sua terra.",
+          "O aspeto que parece, porventura, mais problemático diz respeito à necessidade da separação em relação aos povos da terra. Esta preocupação com a pureza da “raça sagrada” (Esd 9,1-4) e as medidas adotadas sob o impulso de Esdras, nomeadamente a expulsão das mulheres estrangeiras e dos seus filhos e a proibição de casamentos mistos, podem ser lidas, e foram-no ao longo dos séculos, como justificação da xenofobia. É mais sensato, contudo, reconhecer que o zelo de Esdras e dos que primeiro regressaram do exílio obedece ao desejo de ser fiel ao ideal de “consagração”, isto é, de “separação para Deus”, cujo fundamento é a própria eleição do povo (Dt 7,1-11). É a consciência do privilégio de ter sido chamado por Deus que inspira o receio de se deixar “contaminar” e de ceder a práticas idólatras dos povos da terra. A forma radical que este zelo assumiu no caso concreto não deve, contudo, distrair-nos do essencial: os dons de Deus, nomeadamente o dom da fé, exigem do ser humano compromisso e vigilância."
+        ]
+      }
+    ]
+  },
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "verse": 1,
-          "text": "Édito de Ciro, rei da Pérsia (2 Cr 36,22-23; Esd 6,3-5; Jr 25:11-14; 29:10-14; Zc 1,12) No primeiro ano de Ciro, rei da Pérsia, para cumprir a palavra do Senhor anunciada por Jeremias, o Senhor despertou o espírito de Ciro, rei da Pérsia, que mandou proclamar em todo o seu reino e declarou também por escrito, dizendo:",
-          "note_refs": []
+          "text": "Zc 1,12) No primeiro ano de Ciro, rei da Pérsia, para cumprir a palavra do Senhor anunciada por Jeremias, o Senhor despertou o espírito de Ciro, rei da Pérsia, que mandou proclamar em todo o seu reino e declarou também por escrito, dizendo:",
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "Os primeiros três versículos do livro de Esdras (1,1-3a) são iguais aos três últimos versículos do Segundo Livro das Crónicas (36,22-23). Este duplicado sublinha uma continuidade entre os livros das Crónicas e o livro de Esdras, servindo também para atenuar a tonalidade negativa decorrente do relato da destruição do templo e da cidade de Jerusalém e ainda do exílio na Babilónia, com que termina a história do reino de Judá em 586 a.C. (2 Cr 36,15-21).",
+            "3": "O relato não especifica a que profecia de Jeremias se faz referência. É possível que se aluda às profecias sobre a duração do exílio de setenta anos (Cf. Jr 25,11-14; 29,10-14)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "esd-1-n2",
+              "offset": 47,
+              "original_marker": "b",
+              "source_id": 2
+            },
+            {
+              "ref": "3",
+              "id": "esd-1-n3",
+              "offset": 104,
+              "original_marker": "c",
+              "source_id": 3
+            }
+          ]
         },
         {
           "verse": 2,
           "text": "«Assim fala Ciro, rei da Pérsia: ‘Todos os reinos da terra me foram dados pelo Senhor, Deus dos céus; e Ele encarregou-me de lhe construir um templo em Jerusalém, que é em Judá.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Este é o primeiro documento oficial citado no livro de Esdras. O relato do primeiro regresso do exílio e da missão de Esdras (Esd 7,1-10,44) são acompanhados pela citação de éditos, cartas e outros documentos das autoridades persas. O édito de Ciro faz eco da política de tolerância religiosa que parece ter caraterizado os primeiros anos do Império Persa, com o restauro de templos e o restabelecimento de cultos locais. Em Esd 6,3-5, há uma versão em aramaico do mesmo édito."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "esd-1-n4",
+              "offset": 31,
+              "original_marker": "d",
+              "source_id": 4
+            }
+          ]
         },
         {
           "verse": 3,
@@ -21,7 +102,7 @@
         },
         {
           "verse": 4,
-          "text": "E todos os que restam do povo, em todos os lugares onde habitem, sejam apoiados pelos homens desse lugar com prata, ouro, bens móveis e gado, bem como ofertas espontâneas para o templo de Deus em Jerusalém’». Regresso do exílio (Ag 1,14; Ex 3,22; 11,2; 12,35)",
+          "text": "E todos os que restam do povo, em todos os lugares onde habitem, sejam apoiados pelos homens desse lugar com prata, ouro, bens móveis e gado, bem como ofertas espontâneas para o templo de Deus em Jerusalém’».",
           "note_refs": []
         },
         {
@@ -31,18 +112,60 @@
         },
         {
           "verse": 6,
-          "text": "E todos os seus vizinhos lhes deram força, oferecendo utensílios de prata, ouro, bens móveis, gado e grande quantidade de objetos preciosos, além de todas as ofertas espontâneas. Devolução dos utensílios do templo (2 Cr 36,7.10.18; Jr 27,16-22; Dn 1,2; 5,1ss)",
-          "note_refs": []
+          "text": "E todos os seus vizinhos lhes deram força, oferecendo utensílios de prata, ouro, bens móveis, gado e grande quantidade de objetos preciosos, além de todas as ofertas espontâneas.",
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A resposta dos vizinhos dos exilados ao apelo de Ciro para que suportem os esforços dos que regressem a Jerusalém para reconstruir o templo parece fazer-se eco do motivo da espoliação dos egípcios por ocasião do êxodo (Ex 3,22; 11,2; 12,35). Neste caso, contudo, sem que os filhos de Israel precisem de recorrer a qualquer género de artimanha ou engano e sem que qualquer sombra de roubo paire sobre o facto. É Ciro quem ordena; e aqueles que são chamados a contribuir parecem fazê-lo de bom grado, como o deixa supor a referência a “ofertas espontâneas”."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "esd-1-n5",
+              "offset": 178,
+              "original_marker": "e",
+              "source_id": 5
+            }
+          ]
         },
         {
           "verse": 7,
           "text": "O rei Ciro mandou devolver os utensílios da casa do Senhor que Nabucodonosor mandou levar de Jerusalém, depositando-os no templo do seu deus.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "A devolução das alfaias litúrgicas usadas no primeiro templo sublinha a continuidade religiosa entre o período antes do exílio e este recomeço. O livro de Esdras e o livro das Crónicas insistem na ideia de que os utensílios nunca foram destruídos, mas foram levados pelos babilónios e depositados no templo de Marduc (cf. 2Cr 36,7.10.18). Esta tradição da conservação também está presente em Jr 27,16-22 e Dn 1,2; 5,1ss. Segundo 2Rs 24,13; 25,13-15, os utensílios foram destruídos e transportados a granel para a Babilónia. O texto grego (LXX) do livro de Jeremias faz igualmente eco desta outra tradição, provavelmente a mais primitiva (Jr 27,1-22). Uma terceira tradição, mais tardia, afirma que os utensílios nunca chegaram a ser capturados pelos Babilónios, tendo sido escondidos algures no território de Israel (2Mac 2,4-8; Segundo Livro de Baruc 6,7-9)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "esd-1-n6",
+              "offset": 141,
+              "original_marker": "f",
+              "source_id": 6
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "Ciro, rei da Pérsia, mandou-os devolver por intermédio de Mitrídates, o tesoureiro, que os entregou a Sesbaçar, o príncipe de Judá.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Este título poderá corresponder a uma função de representação e liderança por parte de um dos exilados relativamente à comunidade judaica residente na Babilónia."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "esd-1-n7",
+              "offset": 131,
+              "original_marker": "g",
+              "source_id": 7
+            }
+          ]
         },
         {
           "verse": 9,
@@ -57,6 +180,56 @@
         {
           "verse": 11,
           "text": "No total, 5400 utensílios de ouro e prata. Sesbaçar levou consigo tudo isto, quando os exilados subiram da Babilónia para Jerusalém.",
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "A lista dos utensílios devolvidos parece estar incompleta ou o texto corrompido, uma vez que o total supera, em muito, a soma das partes (2499). Outro facto surpreendente é que os nomes das distintas categorias de utensílios não têm paralelo noutras listas de utensílios associados com o templo, como, por exemplo, 1Cr 28,14-17. Os nomes podem pertencer a épocas diferentes."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "esd-1-n8",
+              "offset": 41,
+              "original_marker": "h",
+              "source_id": 8
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "REGRESSO DO EXÍLIO E RECONSTRUÇÃO DO TEMPLO (1,1-6,22)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A primeira parte do livro de Esdras (1,1-6,22) descreve o regresso do exílio e a reconstrução do templo de Jerusalém (o chamado Segundo Templo). De acordo com a cronologia bíblica, o regresso deu-se logo no primeiro ano de Ciro, rei da Pérsia, em 538 a.C. A reconstrução do templo prolongou-se, com interrupções, até ao sexto ano do reinado de Dario, 515 a.C."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "esd-1-n1",
+              "offset": 54,
+              "original_marker": "a",
+              "source_id": 1
+            }
+          ]
+        },
+        {
+          "before_verse": 1,
+          "text": "Édito de Ciro, rei da Pérsia (2 Cr 36,22-23; Esd 6,3-5; Jr 25:11-14; 29:10-14;",
+          "note_refs": []
+        },
+        {
+          "before_verse": 5,
+          "text": "Regresso do exílio (Ag 1,14; Ex 3,22; 11,2; 12,35)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "Devolução dos utensílios do templo (2 Cr 36,7.10.18; Jr 27,16-22; Dn 1,2; 5,1ss)",
           "note_refs": []
         }
       ]
@@ -66,13 +239,36 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Lista dos repatriados (Ne 7,6-68) Estes são os descendentes da província, que tinham sido deportados para a Babilónia por Nabucodonosor, rei da Babilónia, e que regressaram do exílio e subiram a Jerusalém e a Judá, cada um à sua respetiva cidade.",
+          "text": "Estes são os descendentes da província, que tinham sido deportados para a Babilónia por Nabucodonosor, rei da Babilónia, e que regressaram do exílio e subiram a Jerusalém e a Judá, cada um à sua respetiva cidade.",
           "note_refs": []
         },
         {
           "verse": 2,
           "text": "Os que voltaram com Zorobabel foram: Jechua, Neemias, Seraías, Raelaías, Mardoqueu, Bilchan, Mispar, Bigvai, Reum e Baana. Número dos homens do povo de Israel:",
-          "note_refs": []
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "Jechua é uma forma pós-exílica do nome de Josué, que algumas traduções usam também aqui. Esta forma aproxima-se do que virá a ser o nome de Jesus.",
+            "3": "À cabeça dos repatriados estão Zorobabel, da descendência de David (cf. 1 Cr 3,19; Mt 1,13; Lc 3,27), e Josué, da família do sumo-sacerdote (cf. 2 Rs 25,18; 1 Cr 5,40-41; Ag 1,1.12; Zc 3,1). Ausente destes nomes e da lista está Sesbaçar, que volta a ser mencionado apenas em Esd 5,14.16. Tendo em conta que Zorobabel só parece ter estado ativo na reconstrução do templo durante o reinado de Dario, rei da Pérsia (522-486 a. C.), é possível que, sob aparência de unidade, o relato de Esdras esteja efetivamente a falar de duas vagas de regresso do exílio: uma sob Sesbaçar, no início do reinado de Ciro, e outra sob Zorobabel e Jechua, no reinado de Cambises (525-522 a. C.) ou de Dario. Em alternativa, é possível presumir que Sesbaçar e Zorobabel sejam a mesma pessoa."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "esd-2-n2",
+              "offset": 43,
+              "original_marker": "j",
+              "source_id": 10
+            },
+            {
+              "ref": "3",
+              "id": "esd-2-n3",
+              "offset": 122,
+              "original_marker": "k",
+              "source_id": 11
+            }
+          ]
         },
         {
           "verse": 3,
@@ -277,7 +473,21 @@
         {
           "verse": 43,
           "text": "Servos do templo: descendentes de Sia, descendentes de Hassufa, descendentes de Tabaot;",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Lit.: natineus. Sobre a sua origem, cf. Js 9,23.27; Ez 44,7-9."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "esd-2-n4",
+              "offset": 16,
+              "original_marker": "a",
+              "source_id": 12
+            }
+          ]
         },
         {
           "verse": 44,
@@ -377,12 +587,58 @@
         {
           "verse": 63,
           "text": "O governador proibiu-os de comer dos alimentos consagrados até que se apresentasse um sacerdote para consultar os dados dos urim e tumim.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6",
+            "7"
+          ],
+          "notes": {
+            "5": "O governador é designado com um título que, em persa, significa “aquele que é respeitado” (cf. Ne 7, 65.69; 8,9).",
+            "6": "Lit.: das coisas santíssimas.",
+            "7": "Os urim e os tumim parece terem sido objetos sagrados destinados a ser usados num ritual que tinha por objetivo conhecer a vontade de Deus a respeito de um determinado assunto (1Sm 14,41). São referidos na descrição das vestes do sumo-sacerdote, em Ex 28,30, e o seu uso estava reservado aos sacerdotes."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "esd-2-n5",
+              "offset": 12,
+              "original_marker": "b",
+              "source_id": 13
+            },
+            {
+              "ref": "6",
+              "id": "esd-2-n6",
+              "offset": 58,
+              "original_marker": "c",
+              "source_id": 14
+            },
+            {
+              "ref": "7",
+              "id": "esd-2-n7",
+              "offset": 136,
+              "original_marker": "d",
+              "source_id": 15
+            }
+          ]
         },
         {
           "verse": 64,
           "text": "A comunidade toda em conjunto eram 42 360 pessoas,",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Tal como no caso dos utensílios litúrgicos também aqui o número total supera largamente a soma das partes. O autor parece estar interessado em deixar a impressão de que os repatriados eram muito numerosos mais que em ser rigoroso nas contas."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "esd-2-n8",
+              "offset": 49,
+              "original_marker": "e",
+              "source_id": 16
+            }
+          ]
         },
         {
           "verse": 65,
@@ -396,22 +652,76 @@
         },
         {
           "verse": 67,
-          "text": "435 camelos e 6720 jumentos. Generosidade dos chefes de família (Ne 7,69-73; 1 Cr 29,5-9)",
+          "text": "435 camelos e 6720 jumentos.",
           "note_refs": []
         },
         {
           "verse": 68,
           "text": "Alguns chefes de clã, ao chegarem ao templo do Senhor em Jerusalém, fizeram ofertas espontâneas para a reconstrução do templo de Deus no seu lugar.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Esta é a primeira referência, no livro de Esdras, à necessidade de reconstruir o templo no seu lugar original. No mundo da antiguidade, uma tal preocupação era comum e constituía uma espécie de dever sagrado: aquele era o lugar escolhido por Deus para estabelecer o seu templo. Era também garantia de continuidade com o passado."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "esd-2-n9",
+              "offset": 147,
+              "original_marker": "f",
+              "source_id": 17
+            }
+          ]
         },
         {
           "verse": 69,
           "text": "Ofereceram para o tesouro da obra, cada um segundo as suas posses, um total de 61 000 dáricos de ouro, 5000 minas de prata e 100 túnicas sacerdotais.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "O dárico era uma moeda de ouro persa que começou a ser cunhada no reinado de Dario e que tinha o peso de 8,4 gramas. Uma mina equivalia a 50 siclos e correspondia a cerca de 0,57 quilogramas de peso. Tendo como referência estes valores, o total das ofertas supera os 500 quilos de ouro e os 2800 de prata."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "esd-2-n10",
+              "offset": 122,
+              "original_marker": "g",
+              "source_id": 18
+            }
+          ]
         },
         {
           "verse": 70,
           "text": "Os sacerdotes, os levitas, alguns membros do povo, os cantores, os porteiros e os servos do templo estabeleceram-se nas suas respetivas cidades. E todos os filhos de Israel se estabeleceram nas suas cidades.",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Lista dos repatriados (Ne 7,6-68)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Esta lista de repatriados aparece igualmente em Ne 7,6-68, com ligeiras discrepâncias. A enumeração de acordo com um princípio genealógico predominante sugere uma preocupação com a continuidade do povo de Israel; os que regressam são descendentes dos que formavam o Israel antes do exílio."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "esd-2-n1",
+              "offset": 33,
+              "original_marker": "i",
+              "source_id": 9
+            }
+          ]
+        },
+        {
+          "before_verse": 68,
+          "text": "Generosidade dos chefes de família (Ne 7,69-73; 1 Cr 29,5-9)",
           "note_refs": []
         }
       ]
@@ -421,8 +731,22 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Restauração do altar e do culto (1 Cr 21; 2 Cr 5,3ss; Ne 8,13-18) Quando chegou o sétimo mês, estando os filhos de Israel já nas suas cidades, o povo reuniu-se em Jerusalém como um só homem.",
-          "note_refs": []
+          "text": "Quando chegou o sétimo mês, estando os filhos de Israel já nas suas cidades, o povo reuniu-se em Jerusalém como um só homem.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O sétimo mês do calendário judaico, chamado Tisri, corresponde a setembro-outubro no calendário gregoriano. Nessa data celebra-se ainda hoje o Dia da Expiação (Yom Kippur) e a Festa das Tendas ou dos Tabernáculos (Lv 23,23-43)."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "esd-3-n1",
+              "offset": 26,
+              "original_marker": "h",
+              "source_id": 19
+            }
+          ]
         },
         {
           "verse": 2,
@@ -437,7 +761,21 @@
         {
           "verse": 4,
           "text": "E celebraram a festa das Tendas, conforme está prescrito, com holocaustos dia a dia, de acordo com o número prescrito para cada um dos dias.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A festa das Tendas ou dos Tabernáculos era celebrada durante oito dias, começando no dia 15 do sétimo mês. Durante este período, o povo de Israel era convidado a construir tendas e a habitar nelas, em memória do tempo em que habitou em tendas entre a saída do Egito e a entrada na terra prometida (Lv 23,42-43). O festival coincide com a época das colheitas. Os sacrifícios prescritos para a celebração desta festa são descritos em Nm 29,12-38. A dedicação do primeiro templo também ocorreu durante a festa do sétimo mês (2Cr 5,3)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "esd-3-n2",
+              "offset": 139,
+              "original_marker": "a",
+              "source_id": 20
+            }
+          ]
         },
         {
           "verse": 5,
@@ -446,18 +784,46 @@
         },
         {
           "verse": 6,
-          "text": "Começaram a oferecer holocaustos ao Senhor no primeiro dia do sétimo mês, embora os fundamentos do templo do Senhor ainda não tivessem sido lançados. Início da reconstrução do templo (1 Rs 5,15-32; 1 Cr 22,3-4; 2 Cr 2,1-15; Ag 1-2; Zc 3; 6)",
+          "text": "Começaram a oferecer holocaustos ao Senhor no primeiro dia do sétimo mês, embora os fundamentos do templo do Senhor ainda não tivessem sido lançados. 1-2; Zc 3; 6)",
           "note_refs": []
         },
         {
           "verse": 7,
           "text": "Deram então dinheiro aos canteiros e aos carpinteiros; e comida, bebida e azeite aos habitantes de Sídon e de Tiro para que transportassem, por via marítima, madeira de cedro do Líbano até Jope, cumprindo com a autorização que lhes dera Ciro, rei da Pérsia.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A preparação dos materiais, com o transporte de madeira de cedro do Líbano por via marítima, faz eco ao processo de construção do primeiro templo por Salomão (1Rs 5,15-32; 1Cr 22,3-4; 2Cr 2,1-15)."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "esd-3-n3",
+              "offset": 256,
+              "original_marker": "b",
+              "source_id": 21
+            }
+          ]
         },
         {
           "verse": 8,
           "text": "No segundo ano da sua chegada ao templo de Deus em Jerusalém, no segundo mês, Zorobabel, filho de Salatiel, e Jechua, filho de Joçadaq, e o resto dos seus irmãos, os sacerdotes e os levitas e todos os que tinham regressado do cativeiro a Jerusalém deram início aos trabalhos e designaram os levitas, de vinte anos de idade para cima, para supervisionarem a obra da casa do Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Segundo a lógica do relato, o segundo mês (chamado Ziv e, mais tarde, Iar) do segundo ano deveria corresponder a Abril-Maio de 537 a.C. No entanto, como já referimos, o relato de Esdras parece querer juntar num mesmo movimento aquilo que terão sido, pelo menos, duas vagas distintas de regresso. Nesse caso, este segundo ano aqui referido deve corresponder a uma data por volta de 520 a.C."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "esd-3-n4",
+              "offset": 76,
+              "original_marker": "c",
+              "source_id": 22
+            }
+          ]
         },
         {
           "verse": 9,
@@ -467,12 +833,40 @@
         {
           "verse": 10,
           "text": "Quando os construtores lançaram os fundamentos do templo do Senhor, os sacerdotes, revestidos das suas vestes e com trombetas, e os levitas, filhos de Asaf, com címbalos, tomaram os seus lugares para louvar o Senhor, de acordo com o estabelecido por David, rei de Israel.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "A referência à prática litúrgica instituída por David (1Cr 16,4-7) continua o processo de mostrar o empenho dos repatriados em serem fiéis ao passado glorioso do templo, apesar das limitações decorrentes da nova situação."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "esd-3-n5",
+              "offset": 270,
+              "original_marker": "d",
+              "source_id": 23
+            }
+          ]
         },
         {
           "verse": 11,
           "text": "Entoaram então juntos este cântico de louvor e de ação de graças ao Senhor: «Porque Ele é bom, porque é eterna a sua misericórdia para com Israel». E todo o povo irrompeu em grande aclamação em louvor do Senhor, porque os alicerces da casa do Senhor tinham sido lançados.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Este refrão deriva do Salmo 136, chamado o Grande Hallel. Parece ter sido uma aclamação litúrgica particularmente estimada no período do pós-exílio (1Cr 16,34; 2Cr 5,13; 7,3; Sl 100,5; 106,1)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "esd-3-n6",
+              "offset": 146,
+              "original_marker": "e",
+              "source_id": 24
+            }
+          ]
         },
         {
           "verse": 12,
@@ -484,6 +878,18 @@
           "text": "de tal forma que ninguém conseguia distinguir o clamor do choro do clamor das vozes de júbilo, pois todos gritavam em alta voz e o tumulto podia ouvir-se mesmo ao longe.",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Restauração do altar e do culto (1 Cr 21; 2 Cr 5,3ss; Ne 8,13-18)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 7,
+          "text": "Início da reconstrução do templo (1 Rs 5,15-32; 1 Cr 22,3-4; 2 Cr 2,1-15; Ag",
+          "note_refs": []
+        }
       ]
     },
     {
@@ -491,18 +897,46 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Interrupção dos trabalhos de reconstrução Os inimigos de Judá e Benjamin ouviram dizer que os retornados do exílio estavam a construir um templo para o Senhor, Deus de Israel",
+          "text": "Os inimigos de Judá e Benjamin ouviram dizer que os retornados do exílio estavam a construir um templo para o Senhor, Deus de Israel",
           "note_refs": []
         },
         {
           "verse": 2,
           "text": "e aproximaram-se de Zorobabel e dos chefes de clã e disseram-lhes: «Queremos construir convosco, pois, como vós, também nós procuramos o vosso Deus e lhe oferecemos sacrifícios desde que Assaradon, rei da Assíria, nos trouxe para aqui».",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Introduzidos como inimigos pelo autor de Esdras, os homens que desejam contribuir para a reconstrução do templo de Jerusalém definem-se a si próprios como seguidores de Javé, ainda que sejam originários de outras terras. Foram deportados para a região do antigo reino de Israel (Reino do Norte) a seguir à conquista assíria da Samaria em 721 a.C. (2Rs 17,24-41). No seguimento do texto, o mesmo grupo aparece designado como o povo da terra (Esd 4,4), o que deixa supor que a oposição ao projeto dos repatriados incluía não só a população de origem estrangeira que os reis assírios haviam estabelecido no território da Samaria, mas também a população autóctone que não tinha sido deportada e não tinha passado pela experiência do exílio e do regresso."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "esd-4-n1",
+              "offset": 235,
+              "original_marker": "f",
+              "source_id": 25
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Mas Zorobabel, Jechua e os restantes chefes de clã de Israel responderam-lhes: «Não convém que nós e vós juntos construamos um templo para o nosso Deus. Pois é a nós unicamente que cabe construí-lo para o Senhor, Deus de Israel, de acordo com o que nos foi ordenado por Ciro, rei da Pérsia».",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Zorobabel e os chefes de família invocam a ordem do rei Ciro para prevenir a colaboração daqueles que residem no país. É possível, contudo, que a motivação para tal atitude seja de outra ordem. Religiosamente, aquela população era uma amálgama de estrangeiros deportados e antigos habitantes dos reinos de Israel e Judá sobreviventes de sucessivos exílios. Estes são considerados pelos repatriados como um grupo amorfo, praticante de um javismo manchado de sincretismo (2Rs 17,24-41). Politicamente, é possível que os repatriados queiram aproveitar a autonomia em relação à administração persa estabelecida na Samaria. Esse desejo ficaria comprometido se aceitassem apoios para a reconstrução do templo."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "esd-4-n2",
+              "offset": 290,
+              "original_marker": "g",
+              "source_id": 26
+            }
+          ]
         },
         {
           "verse": 4,
@@ -511,8 +945,22 @@
         },
         {
           "verse": 5,
-          "text": "Além disso, subornaram contra eles alguns conselheiros reais com o intuito de fazer fracassar o projeto. Isto durou desde os dias de Ciro, rei da Pérsia, até ao reinado de Dario, também ele rei da Pérsia. Oposição no tempo de Assuero e Artaxerxes",
-          "note_refs": []
+          "text": "Além disso, subornaram contra eles alguns conselheiros reais com o intuito de fazer fracassar o projeto. Isto durou desde os dias de Ciro, rei da Pérsia, até ao reinado de Dario, também ele rei da Pérsia.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O autor atribui os atrasos e a interrupção dos trabalhos à oposição ao projeto por parte do povo da terra. No livro de Ageu, o profeta acusa os judeus de negligência e dá a entender que, para muitos dos repatriados, as dificuldades económicas e sociais justificavam o adiamento do projeto (Ag 1,2-6.9-11; 2,16-19; Zc 8,10). É possível que alguns se opusessem por razões teológicas (Is 66,1-2). O nosso relato insiste sobre a unidade e empenho dos repatriados e coloca a culpa nos que residiam na terra, dando provavelmente uma imagem idealizada dos primeiros."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "esd-4-n4",
+              "offset": 203,
+              "original_marker": "h",
+              "source_id": 27
+            }
+          ]
         },
         {
           "verse": 6,
@@ -527,7 +975,30 @@
         {
           "verse": 8,
           "text": "Reum, o governador, e Chimechai, o escriba, escreveram a seguinte carta ao rei Artaxerxes a respeito de Jerusalém:",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "A partir daqui e até 6,18, o texto de Esdras está escrito em aramaico.",
+            "6": "Lit.: senhor do decreto. Este era o governador da Samaria em nome dos persas, que tinha autoridade também sobre Jerusalém."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "esd-4-n5",
+              "offset": 4,
+              "original_marker": "b",
+              "source_id": 30
+            },
+            {
+              "ref": "6",
+              "id": "esd-4-n6",
+              "offset": 18,
+              "original_marker": "c",
+              "source_id": 31
+            }
+          ]
         },
         {
           "verse": 9,
@@ -537,7 +1008,30 @@
         {
           "verse": 10,
           "text": "e dos restantes povos que o grande e ilustre Asnapar deportou e estabeleceu nas cidades de Samaria e no resto da região de Além-do-Rio, etc.».",
-          "note_refs": []
+          "note_refs": [
+            "7",
+            "8"
+          ],
+          "notes": {
+            "7": "Trata-se, muito provavelmente, do rei assírio Assurbanipal (668-626 a.C.), filho de Assaradon.",
+            "8": "A expressão Além-do-Rio refere-se à região a ocidente do rio Eufrates, vista na perspetiva dos habitantes da Mesopotâmia e da Pérsia."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "esd-4-n7",
+              "offset": 52,
+              "original_marker": "d",
+              "source_id": 32
+            },
+            {
+              "ref": "8",
+              "id": "esd-4-n8",
+              "offset": 141,
+              "original_marker": "e",
+              "source_id": 33
+            }
+          ]
         },
         {
           "verse": 11,
@@ -557,7 +1051,21 @@
         {
           "verse": 14,
           "text": "Nós, porém, que comemos do sal do palácio, não podemos aceitar que o rei seja desonrado e, por isso, transmitimos ao rei esta informação,",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "Comemos do sal do palácio parece ser, em analogia com a prática em Israel (Lv 2,13; Nm 18,19; 2Cr 13,5), uma expressão destinada a indicar um juramento de fidelidade e vassalagem, ratificado durante uma refeição temperada com sal. Veja-se o termo grego synalizomenos (“comer sal com…”), em At 1,4."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "esd-4-n9",
+              "offset": 41,
+              "original_marker": "f",
+              "source_id": 34
+            }
+          ]
         },
         {
           "verse": 15,
@@ -587,7 +1095,21 @@
         {
           "verse": 20,
           "text": "Reinaram em Jerusalém reis poderosos, que exerceram o poder sobre toda a região de Além-do-Rio e a quem se pagaram tributos, impostos e direitos de passagem.",
-          "note_refs": []
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "A época aqui referida parece ser a idade de ouro da monarquia unida, sob David e Salomão (2Sm 8; 1Rs 5,1ss). Tal referência numa carta oficial de um monarca persa levanta suspeitas sobre a autenticidade desta ou, pelo menos, deste dado em concreto."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "esd-4-n10",
+              "offset": 156,
+              "original_marker": "g",
+              "source_id": 35
+            }
+          ]
         },
         {
           "verse": 21,
@@ -607,7 +1129,47 @@
         {
           "verse": 24,
           "text": "Os trabalhos de reconstrução da casa de Deus em Jerusalém estiveram então suspensos até ao segundo ano do reinado de Dario, rei da Pérsia.",
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "Este último versículo retoma o relato interrompido no final do v. 5."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "esd-4-n11",
+              "offset": 137,
+              "original_marker": "h",
+              "source_id": 36
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Interrupção dos trabalhos de reconstrução",
           "note_refs": []
+        },
+        {
+          "before_verse": 6,
+          "text": "Oposição no tempo de Assuero e Artaxerxes",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "Do ponto de vista cronológico, o relato dá um salto de uns quarenta anos. Estamos agora no reinado de Assuero (486-465 a.C.), que é o nome tradicional bíblico para o rei Xerxes, e no reinado de Artaxerxes (465-423 a.C.). E, no caso do último, a oposição já não é à reconstrução do templo, mas à da cidade. Contudo, esta decisão do autor reforça a impressão de que a oposição aos projetos dos repatriados continua desde Ciro até Artaxerxes."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "esd-4-n3",
+              "offset": 41,
+              "original_marker": "a",
+              "source_id": 29
+            }
+          ]
         }
       ]
     },
@@ -616,18 +1178,46 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Recomeço dos trabalhos de reconstrução (Ag 1-2; Zc 4) Por essa altura, o profeta Ageu e o profeta Zacarias, filho de Ido, começaram a profetizar aos judeus que habitavam em Judá e em Jerusalém, em nome do Deus de Israel, que estava com eles.",
+          "text": "Por essa altura, o profeta Ageu e o profeta Zacarias, filho de Ido, começaram a profetizar aos judeus que habitavam em Judá e em Jerusalém, em nome do Deus de Israel, que estava com eles.",
           "note_refs": []
         },
         {
           "verse": 2,
-          "text": "Ergueram-se, então, Zorobabel, filho de Salatiel, e Jechua, filho de Joçadac, para retomar a reconstrução da casa de Deus em Jerusalém; e com eles estavam os profetas de Deus que os apoiavam. Nova intervenção das autoridades persas (Esd 4,6-23)",
-          "note_refs": []
+          "text": "Ergueram-se, então, Zorobabel, filho de Salatiel, e Jechua, filho de Joçadac, para retomar a reconstrução da casa de Deus em Jerusalém; e com eles estavam os profetas de Deus que os apoiavam.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Os trabalhos de reconstrução do templo são retomados no segundo ano do rei Dario (c. 520 a.C.). O autor do livro de Esdras insiste no papel dos profetas Ageu e Zacarias para a motivação dos líderes dos repatriados. De facto, estes profetas, sobretudo Ageu, mostraram grande preocupação com a reconstrução do templo, criticando a negligência do povo e pondo a esperança nos líderes dos que regressaram do exílio, Jechua e Zorobabel (Ag; Zc 1-8). Em relação a este último, a esperança formulada reveste-se mesmo de uma tonalidade messiânica (Ag 1,4-10.14-2,9; 2,23; Zc 4,9.6b-10a), mas este último aspeto não aparece no relato de Esdras."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "esd-5-n1",
+              "offset": 190,
+              "original_marker": "i",
+              "source_id": 37
+            }
+          ]
         },
         {
           "verse": 3,
           "text": "Naquele tempo, Tatenai, o governador da região de Além-do-Rio, e Chetar-Bozenai e os seus colegas vieram até junto deles e disseram-lhes: «Quem vos deu ordem para reconstruir este templo e completar estes madeiramentos?»",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O facto do governador ou sátrapa de Além-do-Rio, Tatenai, que teria tido residência bem longe de Jerusalém (provavelmente na Babilónia), se ter ali deslocado pessoalmente a fim de examinar a situação, mostra o interesse das autoridades persas pelo que se passa nos confins do seu império."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "esd-5-n2",
+              "offset": 61,
+              "original_marker": "j",
+              "source_id": 38
+            }
+          ]
         },
         {
           "verse": 4,
@@ -692,11 +1282,37 @@
         {
           "verse": 16,
           "text": "Este Sesbaçar veio e lançou os fundamentos da casa de Deus que está em Jerusalém e, desde então até agora, a reconstrução tem continuado, mas ainda não terminou’.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A resposta dos anciãos dos judeus coloca a história da construção inicial, da destruição às mãos dos babilónios e da reconstrução do templo autorizada por Ciro sob o prisma da história das relações entre Deus e o seu povo. As ações violentas ou restauradoras dos grandes impérios da história não são senão a materialização da vontade de Deus. Digna de nota é igualmente a referência a Sesbaçar, a quem os anciãos de Israel atribuem o lançamento do processo de reconstrução, em contradição com Esd 3,1ss, onde esta personagem não figura. O autor de Esdras procura, assim, juntar num só movimento de regresso e reconstrução o que terá sido um processo cheio de hesitações, bloqueios e dificuldades internas."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "esd-5-n3",
+              "offset": 161,
+              "original_marker": "a",
+              "source_id": 39
+            }
+          ]
         },
         {
           "verse": 17,
           "text": "Portanto, se o rei achar bem, que se verifique nos arquivos reais, aí em Babilónia, se o rei Ciro, de facto, ordenou a reconstrução desta casa de Deus em Jerusalém. E que a decisão do rei sobre isto nos seja então comunicada».",
+          "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Recomeço dos trabalhos de reconstrução (Ag 1-2; Zc 4)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 3,
+          "text": "Nova intervenção das autoridades persas (Esd 4,6-23)",
           "note_refs": []
         }
       ]
@@ -706,13 +1322,27 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Resposta do rei Dario (Esd 1,2-4) O rei Dario ordenou então que se verificasse na Babilónia, nos arquivos onde os tesouros são depositados.",
+          "text": "O rei Dario ordenou então que se verificasse na Babilónia, nos arquivos onde os tesouros são depositados.",
           "note_refs": []
         },
         {
           "verse": 2,
           "text": "E encontrou-se na fortaleza de Ecbátana, na província da Média, um rolo, no qual estava registado o seguinte memorando:",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Ecbátana era a residência de verão dos monarcas persas."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "esd-6-n1",
+              "offset": 62,
+              "original_marker": "b",
+              "source_id": 40
+            }
+          ]
         },
         {
           "verse": 3,
@@ -727,12 +1357,40 @@
         {
           "verse": 5,
           "text": "Além disso, que se devolvam os utensílios de ouro e prata da casa de Deus, que Nabucodonosor mandou levar do templo de Jerusalém para a Babilónia: que sejam transportados de volta para o templo de Jerusalém, para o seu sítio e depositados na casa de Deus’.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "A comparação com a primeira citação do édito de Ciro em Esd 1,2-4 é reveladora. As duas versões coincidem na questão da data e da ordem de reconstrução e fazem referência à devolução dos utensílios litúrgicos. A versão em hebraico (Esd 1,2-4) acrescenta uma autorização para regressar e contém um apelo à generosidade, dirigido à população dos lugares onde os judeus habitaram durante o exílio. A presente versão do édito é omissa em relação a estes dois aspetos e inclui indicações em relação ao tamanho do templo a ser reconstruído e a ordem de que as despesas sejam assumidas pelo tesouro real. Não é necessário supor que o rei Ciro tenha escrito e publicado dois éditos sobre o mesmo assunto. É preferível atribuir as diferenças à criatividade literária do autor de Esdras ou das fontes em que o seu relato se baseia."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "esd-6-n2",
+              "offset": 255,
+              "original_marker": "c",
+              "source_id": 41
+            }
+          ]
         },
         {
           "verse": 6,
           "text": "«Assim, pois, Tatenai, governador da região de Além-do-Rio, e Chetar-Bozenai e demais colegas, oficiais na região de Além-do-Rio, mantende-vos afastados dali!",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A resposta de Dario, sob a forma de uma carta-decreto ao sátrapa de Além-do-Rio e demais oficiais, começa realmente neste ponto. Contudo, o édito de Ciro parece ter sido incluído no corpo da carta."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "esd-6-n3",
+              "offset": 6,
+              "original_marker": "d",
+              "source_id": 42
+            }
+          ]
         },
         {
           "verse": 7,
@@ -761,8 +1419,22 @@
         },
         {
           "verse": 12,
-          "text": "E que Deus, que ali fez habitar o seu nome, aniquile todo o rei ou povo que ouse erguer a mão para transgredir este decreto e destruir essa casa de Deus que está em Jerusalém. Eu, Dario, dei esta ordem. Que ela seja diligentemente executada». Conclusão dos trabalhos e dedicação do templo (1Rs 7,51-8,66; 2 Cr 5,1-7,10)",
-          "note_refs": []
+          "text": "E que Deus, que ali fez habitar o seu nome, aniquile todo o rei ou povo que ouse erguer a mão para transgredir este decreto e destruir essa casa de Deus que está em Jerusalém. Eu, Dario, dei esta ordem. Que ela seja diligentemente executada».",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O decreto de Dario apoia fortemente a reconstrução, ordenando às autoridades persas que se afastem de Jerusalém, determinando a forma como a reconstrução e o culto devem ser providos e impondo um castigo pesado, normalmente reservado aos crimes mais graves de lesa-majestade, a quem se opuser ao decreto. O pormenor com que o decreto descreve o culto a ser renovado (v. 9) e, sobretudo, o uso de uma expressão de cunho deuteronomista (v. 12: que ali fez habitar seu nome; ver Dt 12,5.11; 1Rs 9,3) são difíceis de atribuir a um escriba da chancelaria persa, que não fosse judeu. É possível que o autor de Esdras ou alguma das suas fontes tenha reelaborado o teor do decreto, mantendo o espírito, isto é, a ordem para que a reconstrução avançasse."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "esd-6-n4",
+              "offset": 241,
+              "original_marker": "e",
+              "source_id": 43
+            }
+          ]
         },
         {
           "verse": 13,
@@ -772,12 +1444,49 @@
         {
           "verse": 14,
           "text": "Os anciãos dos judeus prosseguiram assim com êxito os trabalhos de reconstrução, contando com o apoio das profecias do profeta Ageu e de Zacarias, filho de Ido. Terminaram de reconstruir de acordo com a ordem do Deus de Israel e os decretos de Ciro, Dario e Artaxerxes, rei da Pérsia.",
-          "note_refs": []
+          "note_refs": [
+            "5",
+            "6"
+          ],
+          "notes": {
+            "5": "Esta frase retoma Esd 5,2, com a diferença de que agora são os anciãos dos judeus que desempenham o papel central no processo de reconstrução. Zorobabel (e Jechua) desapareceram da cena. Alguns investigadores sugerem que as aspirações messiânicas à volta deste descendente de David podem ter alarmado as autoridades persas, conduzindo à sua remoção do cargo de governador. Faltam-nos, contudo, dados históricos que nos permitam confirmar ou rejeitar esta tese. É possível também que a omissão queira mostrar que, finalmente, é ao povo representado pelos seus anciãos que se deve dar o crédito pela reconstrução do templo e não a um líder",
+            "6": "A referência a Artaxerxes, que reinou entre 465-425 a.C, ou seja, cerca de cinquenta anos depois da conclusão dos trabalhos e da dedicação do templo, é surpreendente. O autor de Esdras parece ter em vista o que será relatado no livro de Neemias, quando Artaxerxes autoriza que se reconstruam as muralhas da cidade de Jerusalém (Ne 1,11b-2,8). Como em Esd 4,6-23, o rigor cronológico cede o passo a considerações de ordem temática."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "esd-6-n5",
+              "offset": 159,
+              "original_marker": "a",
+              "source_id": 44
+            },
+            {
+              "ref": "6",
+              "id": "esd-6-n6",
+              "offset": 268,
+              "original_marker": "b",
+              "source_id": 45
+            }
+          ]
         },
         {
           "verse": 15,
           "text": "Aquele templo acabou de ser reconstruído no terceiro dia do mês de Adar, no sexto ano do reinado do rei Dario.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "O mês de Adar corresponde a fevereiro-março, no calendário gregoriano. Estamos no ano de 515 a.C."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "esd-6-n7",
+              "offset": 109,
+              "original_marker": "c",
+              "source_id": 46
+            }
+          ]
         },
         {
           "verse": 16,
@@ -787,17 +1496,59 @@
         {
           "verse": 17,
           "text": "Por ocasião da dedicação desta casa de Deus, ofereceram em sacrifício 100 touros, 200 carneiros, 400 cordeiros e ainda 12 bodes como sacrifício expiatório por todo o Israel, de acordo com o número das tribos de Israel.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "O número de sacrifícios oferecidos por ocasião da dedicação do segundo templo não é comparável à imensa quantidade de animais sacrificados por ocasião da dedicação do primeiro templo, no apogeu do reinado de Salomão (cf. 1Rs 8,63; 2Cr 7,5). Há, porém, uma unanimidade na alegria que é, sem dúvida, comparável e que contrasta com a mistura de choro e júbilo que caracterizou o início do processo (Esd 3,12-13). O sacrifício de expiação oferecido em favor de todo o povo de Israel, englobando as doze tribos (Nm 7; Lv 4,22-26; 9,3; Ez 43,18-27), pode ser lido como uma forma de preparação para a celebração da Páscoa, que vem a seguir."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "esd-6-n8",
+              "offset": 218,
+              "original_marker": "d",
+              "source_id": 47
+            }
+          ]
         },
         {
           "verse": 18,
-          "text": "Estabeleceram ainda os sacerdotes de acordo com as suas classes e os levitas de acordo com as suas divisões, para o serviço de Deus em Jerusalém, em cumprimento do que está escrito no livro de Moisés. Celebração da Páscoa (Ex 12,1-6.15-20; Lv 23,5-8; 2 Cr 30; 35,1-19)",
-          "note_refs": []
+          "text": "Estabeleceram ainda os sacerdotes de acordo com as suas classes e os levitas de acordo com as suas divisões, para o serviço de Deus em Jerusalém, em cumprimento do que está escrito no livro de Moisés.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "Aqui termina a secção em aramaico, que tinha começado em Esd 4,8, e continua o texto em hebraico."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "esd-6-n10",
+              "offset": 199,
+              "original_marker": "e",
+              "source_id": 48
+            }
+          ]
         },
         {
           "verse": 19,
           "text": "Os repatriados celebraram a Páscoa no dia catorze do primeiro mês.",
-          "note_refs": []
+          "note_refs": [
+            "11"
+          ],
+          "notes": {
+            "11": "O primeiro mês é o mês de Nisan, que corresponde a março-abril no calendário gregoriano."
+          },
+          "note_positions": [
+            {
+              "ref": "11",
+              "id": "esd-6-n11",
+              "offset": 66,
+              "original_marker": "g",
+              "source_id": 50
+            }
+          ]
         },
         {
           "verse": 20,
@@ -811,8 +1562,62 @@
         },
         {
           "verse": 22,
-          "text": "Celebraram ainda alegremente e durante sete dias a festa dos Pães Ázimos. O Senhor tinha-os enchido de júbilo, ao inclinar o coração do rei da Assíria em seu favor, o que lhes deu mais força para reconstruir a casa de Deus, do Deus de Israel. MISSÃO DE ESDRAS (7,1-10,44)",
+          "text": "Celebraram ainda alegremente e durante sete dias a festa dos Pães Ázimos. O Senhor tinha-os enchido de júbilo, ao inclinar o coração do rei da Assíria em seu favor, o que lhes deu mais força para reconstruir a casa de Deus, do Deus de Israel.",
+          "note_refs": [
+            "12",
+            "13"
+          ],
+          "notes": {
+            "12": "A festa dos Pães Ázimos estava historicamente unida à festa da Páscoa (Ex 12,15-20; Lv 23,6-8; Nm 28,17; 2Cr 30,13; 35,17). O nome da festa faz alusão ao facto de só se poder consumir pão sem fermento durante aqueles sete dias, em memória da saída apressada do Egito, aquando do êxodo (Ex 12,39; Dt 16,3).",
+            "13": "A expressão rei da Assíria aplicada ao rei persa Dario é um pouco inusitada. Num certo sentido, os monarcas aqueménidas são os sucessores dos assírios e dos babilónios, mas a designação não é comum. O termo Assíria pode também estar a ser usado, neste caso, como equivalente de Mesopotâmia."
+          },
+          "note_positions": [
+            {
+              "ref": "12",
+              "id": "esd-6-n12",
+              "offset": 73,
+              "original_marker": "h",
+              "source_id": 51
+            },
+            {
+              "ref": "13",
+              "id": "esd-6-n13",
+              "offset": 150,
+              "original_marker": "i",
+              "source_id": 52
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Resposta do rei Dario (Esd 1,2-4)",
           "note_refs": []
+        },
+        {
+          "before_verse": 13,
+          "text": "Conclusão dos trabalhos e dedicação do templo (1Rs 7,51-8,66; 2 Cr 5,1-7,10)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 19,
+          "text": "Celebração da Páscoa (Ex 12,1-6.15-20; Lv 23,5-8; 2 Cr 30; 35,1-19)",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "A primeira parte do livro de Esdras (1,1-6,22) culmina com a celebração da Páscoa, depois da dedicação do templo reconstruído. Obedecendo ao princípio de leitura contínua dos livros das Crónicas e de Esdras, ao qual o leitor é convidado pelo duplicado 2Cr 36,22-23//Esd 1,1-3a (nota), a Páscoa agora celebrada faz eco às celebrações no tempo dos reis Ezequias (2Cr 30) e Josias (2Cr 35,1-19). Também naqueles dois casos, estamos diante de recomeços. Ezequias restaura o culto depois da apostasia de Acaz; e Josias, o grande reformador, reverte a deriva idólatra dos seus dois predecessores, Manassés e Amon."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "esd-6-n9",
+              "offset": 67,
+              "original_marker": "f",
+              "source_id": 49
+            }
+          ]
         }
       ]
     },
@@ -821,7 +1626,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Regresso de Esdras a Jerusalém (Ne 1,11-2,11a) Depois destes acontecimentos, no reinado de Artaxerxes, rei da Pérsia, regressou da Babilónia Esdras, filho de Seraías, filho de Azarias, filho de Hilquias,",
+          "text": "Depois destes acontecimentos, no reinado de Artaxerxes, rei da Pérsia, regressou da Babilónia Esdras, filho de Seraías, filho de Azarias, filho de Hilquias,",
           "note_refs": []
         },
         {
@@ -847,7 +1652,21 @@
         {
           "verse": 6,
           "text": "Este Esdras, que subiu da Babilónia, era um escriba versado na lei de Moisés, dada pelo Senhor, Deus de Israel, e o rei concedeu-lhe tudo o que pediu, porque a mão do Senhor, seu Deus, estava sobre ele.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "Os primeiros versículos do relato servem para dizer ao leitor quem é Esdras. A longa genealogia coloca o nosso protagonista entre os descendentes do primeiro sumo sacerdote, Aarão. Esdras nunca procurará obter este ofício, estando já em Jerusalém. Mas a genealogia apresentada dá-lhe seguramente uma autoridade ímpar, sobretudo em assuntos cultuais ou religiosos. O facto de ter sido abençoado por Deus com um conhecimento singular da Lei de Moisés e com o favor do rei persa acrescenta ao mérito herdado a excelência do saber e o prestígio de agir em autoridade. Não é, por isso, estranho que o judaísmo rabínico considere Esdras um segundo Moisés."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "esd-7-n2",
+              "offset": 201,
+              "original_marker": "k",
+              "source_id": 54
+            }
+          ]
         },
         {
           "verse": 7,
@@ -857,7 +1676,21 @@
         {
           "verse": 8,
           "text": "Esdras chegou a Jerusalém no quinto mês do sétimo ano de Artaxerxes.",
-          "note_refs": []
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "O quinto mês do calendário judaico, chamado Ab, corresponde a julho-agosto no calendário gregoriano. Caso se trate de Artaxerxes I, o ano seria 458 a.C. Muito provavelmente a referência é aqui a Artaxerxes II; e o sétimo ano do seu reinado é, por isso, 398 a.C."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "esd-7-n3",
+              "offset": 67,
+              "original_marker": "l",
+              "source_id": 55
+            }
+          ]
         },
         {
           "verse": 9,
@@ -866,7 +1699,7 @@
         },
         {
           "verse": 10,
-          "text": "De facto, Esdras tinha posto o seu coração no estudo e na prática da lei do Senhor, assim como no ensino do direito e da justiça em Israel. Carta de Artaxerxes (Esd 6,3-12; 8,25-36)",
+          "text": "De facto, Esdras tinha posto o seu coração no estudo e na prática da lei do Senhor, assim como no ensino do direito e da justiça em Israel.",
           "note_refs": []
         },
         {
@@ -877,7 +1710,21 @@
         {
           "verse": 12,
           "text": "«Artaxerxes, rei dos reis, a Esdras, sacerdote e escriba da lei do Deus dos céus: Paz completa! Etc...",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Começa aqui a secção em aramaico, que se prolonga até ao versículo 26."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "esd-7-n5",
+              "offset": 11,
+              "original_marker": "b",
+              "source_id": 57
+            }
+          ]
         },
         {
           "verse": 13,
@@ -927,7 +1774,21 @@
         {
           "verse": 22,
           "text": "Isto até a um máximo de 100 talentos de prata, 100 coros de trigo, 100 batos de vinho e 100 batos de azeite, além de sal sem medida.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "As quantidades em questão são muito consideráveis: 100 talentos de prata superam os 3400 quilos, 100 coros de trigo correspondem a 45 000 litros e 100 batos de vinho e de azeite a 4500 litros."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "esd-7-n6",
+              "offset": 131,
+              "original_marker": "c",
+              "source_id": 58
+            }
+          ]
         },
         {
           "verse": 23,
@@ -936,7 +1797,7 @@
         },
         {
           "verse": 24,
-          "text": "Seja também sabido que não autoriza- mos que se imponha qualquer tributo, imposto ou taxa sobre os sacerdotes, levitas, cantores, porteiros, oblatos e outros servos desta casa de Deus.",
+          "text": "Seja também sabido que não autorizamos que se imponha qualquer tributo, imposto ou taxa sobre os sacerdotes, levitas, cantores, porteiros, oblatos e outros servos desta casa de Deus.",
           "note_refs": []
         },
         {
@@ -952,12 +1813,71 @@
         {
           "verse": 27,
           "text": "Bendito seja o Senhor, Deus dos nossos pais, que inspirou ao rei o desejo de honrar a casa do Senhor que está em Jerusalém",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Com esta curta doxologia, pronunciada na primeira pessoa, começa uma secção que parece ter sido retirada de uma espécie de memórias pessoais de Esdras. O relato na primeira pessoa prolonga-se até Esd 9,15."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "esd-7-n7",
+              "offset": 21,
+              "original_marker": "d",
+              "source_id": 59
+            }
+          ]
         },
         {
           "verse": 28,
           "text": "e que sobre mim estendeu misericórdia diante do rei, dos seus conselheiros e de todos os mais poderosos oficiais do rei. E eu, sentindo-me assim fortalecido, porque a mão do Senhor, meu Deus, estava sobre mim, reuni chefes de Israel para regressarem comigo.",
           "note_refs": []
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "MISSÃO DE ESDRAS (7,1-10,44)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A segunda parte do livro de Esdras (7,1-10,44) descreve a missão do escriba e sacerdote Esdras, regressado da Babilónia a Jerusalém no reinado do rei Artaxerxes. É possível que se trate de Artaxerxes I (465-425 a.C). A maioria dos investigadores crê, contudo, que se trata de Artaxerxes II (404-358 a.C), o que colocaria a missão de Esdras a seguir à missão de Neemias, que parece decorrer durante o reinado de Artaxerxes I (Ne 1,1.11; 5,14; 13,6). Uma peculiaridade destes quatro capítulos é o uso da primeira pessoa numa parte do relato de Esdras (Esd 7,27-9,15), o que faz supor que o autor do livro tenha usado uma espécie de memórias escritas pelo protagonista."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "esd-7-n1",
+              "offset": 28,
+              "original_marker": "j",
+              "source_id": 53
+            }
+          ]
+        },
+        {
+          "before_verse": 1,
+          "text": "Regresso de Esdras a Jerusalém (Ne 1,11-2,11a)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 11,
+          "text": "Carta de Artaxerxes (Esd 6,3-12; 8,25-36)",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O texto da carta de Artaxerxes está em aramaico, tal como a carta de Dario em Esd 6,3-12. Por este decreto, o rei: 1) concede permissão a Esdras e a todos os que se lhe quiserem juntar para regressarem a Jerusalém; 2) envia-o a verificar como é que a Lei de Deus está a ser aplicada no território de Judá, a reforçar o sistema judicial e a ensiná-la a quem a desconhece; 3) confia-lhe também a tarefa de trazer até Jerusalém todas as ofertas votivas feitas pelo rei e pelos seus conselheiros; 4) dá instruções para que todas as despesas com o culto sejam assumidas pelo erário real; 5) e isenta de impostos os sacerdotes, levitas e demais servidores do templo. Tal como no caso da carta-decreto de Dario, é possível que o autor do livro de Esdras tenha retocado o texto do documento oficial, para enobrecer a figura de Esdras e exaltar a Lei e o templo de Deus. Particularmente surpreendente é a ordem para que a Lei de Moisés seja aplicada em toda a região de Além-do-Rio, isto é, dos confins da Síria ao Egito (7,25), e não apenas no território de Judá. Em todo o caso, não há motivo suficiente para considerar que a carta foi forjada. Temos exemplos históricos do interesse dos reis persas pelo correto funcionamento dos cultos locais e pela justa aplicação das leis autóctones nas regiões do império, em nome da paz e da estabilidade política."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "esd-7-n4",
+              "offset": 41,
+              "original_marker": "a",
+              "source_id": 56
+            }
+          ]
         }
       ]
     },
@@ -966,13 +1886,27 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Lista dos que regressaram com Esdras (Esd 2,1-66; Ne 7,6-68) Estes são, com as respetivas genealogias, os chefes de clã que subiram comigo da Babilónia, no reinado do rei Artaxerxes:",
+          "text": "Estes são, com as respetivas genealogias, os chefes de clã que subiram comigo da Babilónia, no reinado do rei Artaxerxes:",
           "note_refs": []
         },
         {
           "verse": 2,
           "text": "Dos descendentes de Fineias: Gérson; dos descendentes de Itamar: Daniel; dos descendentes de David: Hatus,",
-          "note_refs": []
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "A referência inicial a duas famílias sacerdotais descendentes de Aarão, antes da menção da linhagem de David, é um sinal da crescente preponderância desta linhagem sacerdotal no período do Segundo Templo. A descendência de Fineias, à qual Esdras também pertence (Esd 7,1-5), e a descendência de Itamar são os dois únicos ramos sobreviventes da família de Aarão, depois da morte de Nadab e Abiud e respetivas famílias, relatada em Lv 10."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "esd-8-n1",
+              "offset": 71,
+              "original_marker": "e",
+              "source_id": 60
+            }
+          ]
         },
         {
           "verse": 3,
@@ -1031,13 +1965,36 @@
         },
         {
           "verse": 14,
-          "text": "dos descendentes de Bigvai: Utai e Zabud, e com eles 70 homens. Últimas preparações antes da partida",
+          "text": "dos descendentes de Bigvai: Utai e Zabud, e com eles 70 homens.",
           "note_refs": []
         },
         {
           "verse": 15,
           "text": "Então eu reuni-os junto ao rio que corre para Aavá e acampámos ali três dias. Observei com cuidado o povo e os sacerdotes e não encontrei entre eles nenhum levita.",
-          "note_refs": []
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "Aavá parece designar aqui uma localidade e no v. 21 um rio ou canal de irrigação. A localização da povoação e do rio são desconhecidas, mas tudo indica que a ação decorre nas proximidades da Babilónia.",
+            "3": "A observação de Esdras decorre da lista de repatriados apresentada (8,1-14): não constam levitas, ainda que o rei Artaxerxes também tenha autorizado o seu regresso (Esd 7,13). Esta preocupação com a inclusão de levitas e demais servidores do templo no caminho de regresso parece obedecer mais a razões de ordem simbólica. O templo de Jerusalém já está em funcionamento há, pelo menos, 60 anos, provavelmente há mais de 115, e nada se diz da falta de ministros. É provável que, à imagem do êxodo original, o do Egito, também este novo êxodo, o da Babilónia, deva incluir todas as classes do povo de Israel, entre as quais os levitas (Nm 10,13ss)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "esd-8-n2",
+              "offset": 50,
+              "original_marker": "a",
+              "source_id": 61
+            },
+            {
+              "ref": "3",
+              "id": "esd-8-n3",
+              "offset": 162,
+              "original_marker": "b",
+              "source_id": 62
+            }
+          ]
         },
         {
           "verse": 16,
@@ -1047,7 +2004,21 @@
         {
           "verse": 17,
           "text": "e dei-lhes ordens a respeito de Ido, que era chefe no lugar de Cassífia, e indiquei-lhes as palavras que deviam dizer a Ido e aos seus irmãos, os servos do templo que residiam também no lugar de Cassífia, a fim de nos trazerem ministros para a casa do nosso Deus.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "A localização exata de Cassífia é desconhecida. Parece, contudo, ter sido uma importante colónia de judeus na Babilónia, onde teria funcionado provavelmente uma espécie de escola de servidores do templo. Alguns investigadores vão ainda mais longe e, notando a forma inusitada como Esdras se refere a esta localidade (literalmente: “Cassífia, o lugar”), pressupõem que aí teria existido alguma forma de centro cultual (um templo ou sinagoga). Isto porque o Deuteronomista usa frequentemente a expressão “o lugar” para designar justamente o templo (Dt 12,5; 1Rs 8,29; Jr 7,3.6.7; ver também Esd 9,8)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "esd-8-n4",
+              "offset": 71,
+              "original_marker": "c",
+              "source_id": 63
+            }
+          ]
         },
         {
           "verse": 18,
@@ -1056,18 +2027,32 @@
         },
         {
           "verse": 19,
-          "text": "E também Hasabias, e com ele Jesaías, descendente de Merari, juntamente com os seus irmãos e os seus descendentes, em número de",
+          "text": "E também Hasabias, e com ele Jesaías, descendente de Merari, juntamente com os seus irmãos e os seus descendentes, em número de 20 pessoas.",
           "note_refs": []
         },
         {
           "verse": 20,
-          "text": "pessoas. 20E ainda 220 servos do templo, de entre os oblatos que David e os príncipes tinham posto ao serviço dos levitas. Foram todos registados de acordo com o nome.",
+          "text": "E ainda 220 servos do templo, de entre os oblatos que David e os príncipes tinham posto ao serviço dos levitas. Foram todos registados de acordo com o nome.",
           "note_refs": []
         },
         {
           "verse": 21,
           "text": "Proclamei ali um jejum, junto ao rio Aavá, humilhando-nos diante do nosso Deus, para implorarmos dele uma feliz viagem para nós e para as nossas crianças, com todos os nossos haveres.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Este jejum não é penitencial, como pedido de perdão por pecados cometidos. Esta forma comum de penitência serve para reforçar junto de Deus o pedido feito, de modo a atrair o seu olhar de misericórdia (Jz 20,26; Jr 14,12; 36,6.9; Jl 2,15-17; 2Cr 20,3-4.13; Sl 35,13; 69,11; 109,24)."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "esd-8-n5",
+              "offset": 182,
+              "original_marker": "d",
+              "source_id": 64
+            }
+          ]
         },
         {
           "verse": 22,
@@ -1097,7 +2082,21 @@
         {
           "verse": 27,
           "text": "e ainda 20 taças de ouro no valor de 1000 dáricos e dois utensílios de um bronze claro e brilhante, tão precioso como o ouro.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O total corresponde a mais de 22000 quilos de prata e mais de 3500 quilos de ouro, contabilizando os dáricos nesta soma, além dos utensílios de cobre."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "esd-8-n6",
+              "offset": 124,
+              "original_marker": "e",
+              "source_id": 65
+            }
+          ]
         },
         {
           "verse": 28,
@@ -1107,11 +2106,25 @@
         {
           "verse": 29,
           "text": "Guardai-os com todo o cuidado até que possais pesá-los diante dos príncipes dos sacerdotes e dos levitas e diante dos chefes dos clãs de Israel, em Jerusalém, nas salas da casa do Senhor».",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "As salas do templo são espaços contíguos ao santuário, usados para armazenar utensílios litúrgicos e ofertas dos fiéis e para outros fins administrativos, de acordo com o disposto pelos sacerdotes (Esd 10,6; Ne 10,38-39; 13,5.8)."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "esd-8-n7",
+              "offset": 187,
+              "original_marker": "f",
+              "source_id": 66
+            }
+          ]
         },
         {
           "verse": 30,
-          "text": "Os sacerdotes e os levitas receberam assim a prata, o ouro e os utensílios que foram pesados, a fim de os trazerem até Jerusalém, à casa do nosso Deus. Partida da Babilónia para Jerusalém (Ne 1,11-2,11a)",
+          "text": "Os sacerdotes e os levitas receberam assim a prata, o ouro e os utensílios que foram pesados, a fim de os trazerem até Jerusalém, à casa do nosso Deus.",
           "note_refs": []
         },
         {
@@ -1122,7 +2135,21 @@
         {
           "verse": 32,
           "text": "Chegados a Jerusalém, repousámos ali durante três dias.",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Três dias de repouso após a chegada de uma viagem de mais de 100 dias é muito natural (Ne 2,11). É possível, contudo, que a viagem de regresso liderada por Esdras seja descrita como um eco dos três dias de repouso decretados por Josué aquando da passagem do Jordão e da entrada na terra prometida (Js 3,1-2)."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "esd-8-n8",
+              "offset": 54,
+              "original_marker": "g",
+              "source_id": 67
+            }
+          ]
         },
         {
           "verse": 33,
@@ -1137,11 +2164,56 @@
         {
           "verse": 35,
           "text": "aqueles que regressaram do cativeiro e tinham nascido no exílio ofereceram em holocausto ao Deus de Israel 12 touros por todo o Israel, 96 carneiros, 77 cordeiros e 12 bodes como sacrifício expiatório; foi tudo oferecido em holocausto ao Senhor.",
-          "note_refs": []
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "A narrativa volta aqui, brevemente (vv. 35-36), à terceira pessoa."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "esd-8-n9",
+              "offset": 36,
+              "original_marker": "h",
+              "source_id": 68
+            }
+          ]
         },
         {
           "verse": 36,
           "text": "Transmitiram também as ordens reais aos sátrapas do rei e aos governadores da região de Além-do-Rio. E estes apoiaram o povo e a casa de Deus.",
+          "note_refs": [
+            "10"
+          ],
+          "notes": {
+            "10": "A expressão sátrapas do rei é surpreendente. A região de Além-Eufrates só teria um sátrapa, com autoridade sobre os vários governadores das distintas províncias. É possível que o autor de Esdras esteja a usar a expressão de forma livre. As ordens reais estavam consignadas por escrito na carta-decreto entregue a Esdras (Esd 7,11-26)."
+          },
+          "note_positions": [
+            {
+              "ref": "10",
+              "id": "esd-8-n10",
+              "offset": 99,
+              "original_marker": "i",
+              "source_id": 69
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Lista dos que regressaram com Esdras (Esd 2,1-66; Ne 7,6-68)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 15,
+          "text": "Últimas preparações antes da partida",
+          "note_refs": []
+        },
+        {
+          "before_verse": 31,
+          "text": "Partida da Babilónia para Jerusalém (Ne 1,11-2,11a)",
           "note_refs": []
         }
       ]
@@ -1151,7 +2223,7 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Crise dos casamentos mistos (Ne 13,23-28; Ml 2,10-16) Depois de tudo isto concluído, vieram ao meu encontro os príncipes e disseram-me: «O povo de Israel, os sacerdotes e os levitas não se mantiveram separa- dos dos povos das terras, repetindo as abominações dos cananeus, dos hititas, dos perizeus, dos jebuseus, dos amonitas, dos moabitas, dos egípcios e dos amorreus.",
+          "text": "Depois de tudo isto concluído, vieram ao meu encontro os príncipes e disseram-me: «O povo de Israel, os sacerdotes e os levitas não se mantiveram separados dos povos das terras, repetindo as abominações dos cananeus, dos hititas, dos perizeus, dos jebuseus, dos amonitas, dos moabitas, dos egípcios e dos amorreus.",
           "note_refs": []
         },
         {
@@ -1162,17 +2234,59 @@
         {
           "verse": 3,
           "text": "Ao escutar isto, rasguei a minha túnica e o meu manto, arranquei cabelo da minha cabeça e da barba e sentei-me desolado.",
-          "note_refs": []
+          "note_refs": [
+            "2"
+          ],
+          "notes": {
+            "2": "O gesto de Esdras é uma forma comum de exteriorizar a dor no Oriente antigo (2Sm 13,19; 2Rs 22,11)."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "esd-9-n2",
+              "offset": 119,
+              "original_marker": "a",
+              "source_id": 72
+            }
+          ]
         },
         {
           "verse": 4,
-          "text": "Juntaram-se então ao meu redor todos aqueles que temiam por causa das palavras do Deus de Israel sobre a transgressão cometida pelos exilados. E eu permaneci sentado e desolado até à oferta da tarde. Oração penitencial de Esdras (Ne 1,5-11; 9,6-37; Dn 9,4-19; Est 4,17j-y)",
-          "note_refs": []
+          "text": "Juntaram-se então ao meu redor todos aqueles que temiam por causa das palavras do Deus de Israel sobre a transgressão cometida pelos exilados. E eu permaneci sentado e desolado até à oferta da tarde.",
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "Esta oferta acontecia por volta das três da tarde, que era também um dos momentos de oração diários prescritos (1Rs 8,29.36; 18,29; 2Rs 16,15; Dn 9,21; Mt 27,46; At 3,1)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "esd-9-n4",
+              "offset": 199,
+              "original_marker": "b",
+              "source_id": 73
+            }
+          ]
         },
         {
           "verse": 5,
           "text": "Por altura da oferta da tarde, ergui-me da minha consternação e, com a minha túnica e o meu manto rasgado, ajoelhei-me, estendi as minhas mãos para o Senhor, meu Deus,",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "Rezar de joelhos não era a posição mais comum no Israel antigo; o crente rezava de pé ou sentado. Com o exílio e em situações especiais, passou a ser habitual essa posição. O gesto de estender as mãos para rezar é bem mais comum no Próximo-Oriente antigo (Ex 9,29; 1Rs 8,22; Is 1,15; Sl 28,2) e exprime o lado suplicante da oração."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "esd-9-n5",
+              "offset": 156,
+              "original_marker": "d",
+              "source_id": 75
+            }
+          ]
         },
         {
           "verse": 6,
@@ -1187,7 +2301,21 @@
         {
           "verse": 8,
           "text": "Mas agora, por um momento, o Senhor, nosso Deus, decidiu manifestar-nos a sua graça, permitindo que um resto de entre nós sobrevivesse, dando-nos guarida no seu lugar santo e assim o nosso Deus iluminou os nossos olhos e concedeu-nos um pouco de vida no meio da nossa escravidão.",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "Lit.: dando-nos uma estaca de tenda... A imagem evoca o universo dos povos nómadas que usam cavilhas ou estacas para prender a sua tenda ao chão e constituir nesse espaço a sua habitação. É possível que uma tal imagem evoque igualmente a tenda-santuário do período do deserto, o protótipo do Primeiro Templo, que era fixada ao chão com recurso a cavilhas de bronze (Ex 27,19; 35,18; Nm 3,37)."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "esd-9-n6",
+              "offset": 153,
+              "original_marker": "e",
+              "source_id": 76
+            }
+          ]
         },
         {
           "verse": 9,
@@ -1207,7 +2335,21 @@
         {
           "verse": 12,
           "text": "Por isso não entregueis as vossas filhas aos filhos deles e não tomeis as suas filhas para os vossos filhos. Não procureis jamais o seu bem-estar nem a sua prosperidade; assim vos tornareis fortes, comereis o bom fruto da terra e a transmitireis em herança aos vossos filhos, para sempre’.",
-          "note_refs": []
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "Esdras não cita um versículo preciso da Bíblia, mas compõe uma citação com recurso a linguagem proveniente de passagens diversas, entre as quais Dt 7,1-5; 23,4-8 e Lv 18,24-30."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "esd-9-n7",
+              "offset": 288,
+              "original_marker": "f",
+              "source_id": 77
+            }
+          ]
         },
         {
           "verse": 13,
@@ -1224,6 +2366,46 @@
           "text": "Senhor, Deus de Israel, Tu és justo, pois um resto de nós sobreviveu como no dia de hoje. Aqui nos tens diante de ti com a nossa culpa, ainda que nesta condição ninguém possa apresentar-se diante de ti».",
           "note_refs": []
         }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Crise dos casamentos mistos (Ne 13,23-28; Ml 2,10-16)",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "Cerca de quatro meses após a chegada (Esd 10,9), Esdras fica a saber que o povo de Israel e os repatriados não se tinham mantido separados dos habitantes da terra e tinham aderido às suas práticas idolátricas (abominações) e celebrado casamentos mistos. A associação entre o casamento com mulheres estrangeiras e o sucumbir à idolatria é explicitamente formulada em Dt 7,1-5. O presente relato combina a lista de povos mencionada naquela passagem com a proibição contra a aceitação, como membros do povo de Deus, de amonitas, moabitas, edomitas e egípcios, formulada em Dt 23,4-8 (ver 1 Rs 11,1-2). A prática de tomar como esposas mulheres estrangeiras parece ter sido comum no Israel antigo (Gn 16,3; 41,45; 48,5-6; Ex 2,21; Nm 12,1-15; 2Sm 3,3). Porém, a consciência dos riscos inerentes está bem presente na Bíblia, desde o início (ver Gn 24; 28,1-9). No pós-exílio, a preocupação com a pureza da comunidade (lit.: semente sagrada; Ne 9,2; Ml 2,15; Is 6,13) e o medo de recair na infidelidade para com Deus pela apostasia e pelo sincretismo aumentaram a sensibilidade dos líderes religiosos e políticos para os perigos desta prática."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "esd-9-n1",
+              "offset": 53,
+              "original_marker": "j",
+              "source_id": 70
+            }
+          ]
+        },
+        {
+          "before_verse": 5,
+          "text": "Oração penitencial de Esdras (Ne 1,5-11; 9,6-37; Dn 9,4-19; Est 4,17j-y)",
+          "note_refs": [
+            "3"
+          ],
+          "notes": {
+            "3": "A oração de Esdras, que começa na primeira pessoa do singular mas transita rapidamente para a primeira pessoa do plural, tem todas as caraterísticas de uma confissão comunitária do pecado. Este género de oração tornou-se importante depois do exílio (Ne 1,5-11; 9,6-37; Dn 9,4-19; Est 4,17j-y). A descrição dos pecados passados e presentes do povo é, nestas orações, o tema principal, ficando subentendido o pedido de perdão e ajuda."
+          },
+          "note_positions": [
+            {
+              "ref": "3",
+              "id": "esd-9-n3",
+              "offset": 72,
+              "original_marker": "c",
+              "source_id": 74
+            }
+          ]
+        }
       ]
     },
     {
@@ -1231,8 +2413,22 @@
       "verses": [
         {
           "verse": 1,
-          "text": "Decisão de expulsar as mulheres estrangeiras (Ne 13,23-28) Enquanto Esdras assim rezava e confessava os pecados, chorando prostrado diante da casa de Deus, juntou-se a ele uma enorme multidão de israelitas: homens, mulheres e crianças. E todo o povo chorava copiosamente.",
-          "note_refs": []
+          "text": "Enquanto Esdras assim rezava e confessava os pecados, chorando prostrado diante da casa de Deus, juntou-se a ele uma enorme multidão de israelitas: homens, mulheres e crianças. E todo o povo chorava copiosamente.",
+          "note_refs": [
+            "1"
+          ],
+          "notes": {
+            "1": "O relato passa de novo à terceira pessoa, depois da secção em primeira pessoa, que vinha desde Esd 7,27."
+          },
+          "note_positions": [
+            {
+              "ref": "1",
+              "id": "esd-10-n1",
+              "offset": 52,
+              "original_marker": "g",
+              "source_id": 78
+            }
+          ]
         },
         {
           "verse": 2,
@@ -1242,7 +2438,30 @@
         {
           "verse": 3,
           "text": "Façamos agora uma aliança com o nosso Deus, mandando embora todas estas mulheres e as suas crianças, conforme o conselho do meu senhor e de todos aqueles que temem os mandamentos do nosso Deus. Que se proceda de acordo com a lei.",
-          "note_refs": []
+          "note_refs": [
+            "2",
+            "3"
+          ],
+          "notes": {
+            "2": "Aqui, Checanias refere-se a Esdras e não a Deus.",
+            "3": "A referência à lei (torah) neste passo é surpreendente, uma vez que a Bíblia não exige, em lado nenhum, a expulsão das mulheres estrangeiras e dos seus filhos. Pode tratar-se de uma interpretação rigorista da proibição contida em Dt 7,1-5, motivada pelo desejo de preservar a pureza do verdadeiro Israel."
+          },
+          "note_positions": [
+            {
+              "ref": "2",
+              "id": "esd-10-n2",
+              "offset": 134,
+              "original_marker": "h",
+              "source_id": 79
+            },
+            {
+              "ref": "3",
+              "id": "esd-10-n3",
+              "offset": 228,
+              "original_marker": "i",
+              "source_id": 80
+            }
+          ]
         },
         {
           "verse": 4,
@@ -1267,12 +2486,40 @@
         {
           "verse": 8,
           "text": "Todo aquele que não comparecesse num prazo de três dias, conforme a decisão dos príncipes e anciãos, veria os seus bens serem interditados e ele mesmo excluído da comunidade dos exilados.",
-          "note_refs": []
+          "note_refs": [
+            "4"
+          ],
+          "notes": {
+            "4": "O castigo em caso de não-participação, ainda que menos severo do que a condenação à morte prevista num caso parecido no reinado de Asa (2Cr 15,13), não deixava de ser pesado. O verbo usado em hebraico para referir o interdito dos bens (haram) designava originalmente a dedicação de algo ou alguém a Deus, com a destruição total (anátema: Dt 20,16; Js 6,21). Neste caso, contudo, os bens revertiam, muito provavelmente, em favor do templo. O outro castigo, a expulsão dos transgressores da comunidade, incluía seguramente a exclusão da assembleia cultual (ver Gn 17,14; Ex 12,15.19)."
+          },
+          "note_positions": [
+            {
+              "ref": "4",
+              "id": "esd-10-n4",
+              "offset": 186,
+              "original_marker": "a",
+              "source_id": 81
+            }
+          ]
         },
         {
           "verse": 9,
           "text": "Reuniram-se, pois, todos os homens de Judá e de Benjamim em Jerusalém, no prazo de três dias. Era o dia vinte do nono mês. O povo encontrava-se todo reunido na praça diante da casa de Deus e tremia, não só por causa do acontecido, mas também por causa da chuva.",
-          "note_refs": []
+          "note_refs": [
+            "5"
+          ],
+          "notes": {
+            "5": "O nono mês do calendário judaico, chamado Quisleu, corresponde aos meses de novembro-dezembro. Estamos, por isso, em época de chuvas."
+          },
+          "note_positions": [
+            {
+              "ref": "5",
+              "id": "esd-10-n5",
+              "offset": 121,
+              "original_marker": "b",
+              "source_id": 82
+            }
+          ]
         },
         {
           "verse": 10,
@@ -1282,7 +2529,21 @@
         {
           "verse": 11,
           "text": "Mas agora dai graças ao Senhor, Deus dos vossos pais, e fazei a sua vontade: separai-vos, pois, dos povos da terra e das mulheres estrangeiras».",
-          "note_refs": []
+          "note_refs": [
+            "6"
+          ],
+          "notes": {
+            "6": "O apelo a dar louvor a Deus, obedecendo à sua vontade, faz eco a um apelo similar dirigido por Josué a Acan em Js 7,19. As ações desta última personagem (tinha roubado objetos votados ao anátema) condicionaram o progresso da conquista da terra e era preciso expurgar a comunidade desta fonte de maldição. A situação presente é menos dramática, mas Esdras insiste na necessidade de serem resolutos."
+          },
+          "note_positions": [
+            {
+              "ref": "6",
+              "id": "esd-10-n6",
+              "offset": 143,
+              "original_marker": "c",
+              "source_id": 83
+            }
+          ]
         },
         {
           "verse": 12,
@@ -1311,8 +2572,22 @@
         },
         {
           "verse": 17,
-          "text": "No primeiro dia do primeiro mês, já tinham acabado de tratar de todos aqueles que tinham tomado como esposas mulheres estrangeiras. Lista dos transgressores",
-          "note_refs": []
+          "text": "No primeiro dia do primeiro mês, já tinham acabado de tratar de todos aqueles que tinham tomado como esposas mulheres estrangeiras.",
+          "note_refs": [
+            "7"
+          ],
+          "notes": {
+            "7": "O trabalho desta comissão dura entre dezembro do ano do regresso de Esdras, provavelmente 398 a.C., e março do ano seguinte (397 a.C.). Não deixa de ser significativo que se termine de restabelecer a ordem precisamente no primeiro dia do novo ano e no aniversário da partida de Esdras da Babilónia, de acordo com Esd 7,9. A missão deste último durou, por isso, exatamente um ano."
+          },
+          "note_positions": [
+            {
+              "ref": "7",
+              "id": "esd-10-n7",
+              "offset": 130,
+              "original_marker": "d",
+              "source_id": 84
+            }
+          ]
         },
         {
           "verse": 18,
@@ -1352,7 +2627,21 @@
         {
           "verse": 25,
           "text": "Quanto aos filhos de Israel: entre os descendentes de Parós: Ramias, Jizias, Malquias, Miamin, Eleázar, Malquias e Benaías;",
-          "note_refs": []
+          "note_refs": [
+            "8"
+          ],
+          "notes": {
+            "8": "Os filhos de Israel, isto é, os leigos, em oposição aos precedentes que eram sacerdotes, levitas e demais servidores do templo."
+          },
+          "note_positions": [
+            {
+              "ref": "8",
+              "id": "esd-10-n8",
+              "offset": 27,
+              "original_marker": "e",
+              "source_id": 85
+            }
+          ]
         },
         {
           "verse": 26,
@@ -1447,6 +2736,32 @@
         {
           "verse": 44,
           "text": "Todos estes casaram com mulheres estrangeiras; e de algumas delas eles tinham tido filhos.",
+          "note_refs": [
+            "9"
+          ],
+          "notes": {
+            "9": "O sentido da última frase parece indicar que os filhos das mulheres estrangeiras também terão sido expulsos, conforme tinha sido sugerido por Checanias, em Esd 10,3."
+          },
+          "note_positions": [
+            {
+              "ref": "9",
+              "id": "esd-10-n9",
+              "offset": 89,
+              "original_marker": "f",
+              "source_id": 86
+            }
+          ]
+        }
+      ],
+      "headings": [
+        {
+          "before_verse": 1,
+          "text": "Decisão de expulsar as mulheres estrangeiras (Ne 13,23-28)",
+          "note_refs": []
+        },
+        {
+          "before_verse": 18,
+          "text": "Lista dos transgressores",
           "note_refs": []
         }
       ]
