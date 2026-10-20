@@ -357,7 +357,7 @@
 
 <script>
 'use strict';
-const APP_VERSION='5.5';
+const APP_VERSION='5.51';
 const APP_COMMIT_DATE='outubro 2026';
 const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{},book:'',random:false},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all',noteItems:new Map(),noteCounter:0,lastNoteFocus:null,activeNote:null};
 applyFontScale();
@@ -740,8 +740,9 @@ function registerNote(ref,text,context,meta){
   note.selectionKey=`note|${note.book}|${note.chapter}|${note.verse}|${note.ref}`;
   state.noteItems.set(key,note);return key;
 }
+function visibleNoteRef(ref){return String(ref).replace(/^n/i,'')}
 function noteButton(ref,text,context,meta){
-  const refLabel=String(ref).replace(/^n/i,'');
+  const refLabel=visibleNoteRef(ref);
   const key=registerNote(ref,text,context,meta);
   const selected=state.selectedVerses.has(state.noteItems.get(key).selectionKey)?' selected':'';
   return`<button class="note-hit${selected}" type="button" data-note-key="${key}" aria-label="Abrir nota ${esc(refLabel)}"><span class="note-chip">${esc(refLabel)}</span></button>`;
@@ -764,7 +765,7 @@ function renderAnnotatedText(item,context,meta){
 function openNote(key,source){
   const note=state.noteItems.get(key);if(!note)return;
   state.lastNoteFocus=source||null;state.activeNote=note;
-  $('note-sheet-heading').textContent=`Nota n${note.ref}`;$('note-sheet-context').textContent=note.context;$('note-sheet-body').textContent=note.text||'Nota sem texto.';
+  $('note-sheet-heading').textContent=`Nota ${visibleNoteRef(note.ref)}`;$('note-sheet-context').textContent=note.context;$('note-sheet-body').textContent=note.text||'Nota sem texto.';
   updateNoteSelectionButton();$('note-overlay').classList.add('open');$('note-overlay').setAttribute('aria-hidden','false');document.body.classList.add('note-open');$('note-sheet-close').focus({preventScroll:true});
 }
 function closeNote(restoreFocus=true){
@@ -782,9 +783,9 @@ function toggleActiveNoteSelection(){
   document.querySelectorAll('.note-hit').forEach(button=>{const item=state.noteItems.get(button.dataset.noteKey);button.classList.toggle('selected',!!item&&state.selectedVerses.has(item.selectionKey))});
   updateNoteSelectionButton();updateSelectionBar();
 }
-function noteText(note){return`${note.context} — Nota n${note.ref}: ${note.text}`}
+function noteText(note){return`${note.context} — Nota ${visibleNoteRef(note.ref)}: ${note.text}`}
 function copyActiveNote(){const note=state.activeNote;if(note)copyText(noteText(note),'Nota copiada')}
-function shareActiveNote(){const note=state.activeNote;if(!note)return;const text=noteText(note);if(navigator.share)navigator.share({title:`Nota n${note.ref} — ${note.context}`,text}).catch(()=>{});else copyText(text,'Nota copiada')}
+function shareActiveNote(){const note=state.activeNote;if(!note)return;const text=noteText(note);if(navigator.share)navigator.share({title:`Nota ${visibleNoteRef(note.ref)} — ${note.context}`,text}).catch(()=>{});else copyText(text,'Nota copiada')}
 function copyText(text,message){
   const fallback=()=>{const ta=document.createElement('textarea');ta.value=text;document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove();toast(message)};
   if(navigator.clipboard?.writeText)navigator.clipboard.writeText(text).then(()=>toast(message)).catch(fallback);else fallback();
