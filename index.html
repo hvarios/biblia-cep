@@ -199,13 +199,18 @@
     #search-input:focus{outline:none;border-color:var(--gold)}
     #search-input::placeholder{color:var(--ink3);opacity:1}
     #search-options{padding:12px 16px;border-bottom:1px solid var(--border)}
-    #search-scope{display:flex;gap:6px;padding:3px;background:var(--bg3);border-radius:999px}
-    .search-scope-btn{flex:1;border:0;border-radius:999px;padding:7px 10px;background:transparent;color:var(--ink2);font-family:var(--font-ui);font-size:.76rem;letter-spacing:.03em;cursor:pointer}
+    .search-scope-label{margin:0 2px 7px;color:var(--ink3);font-family:var(--font-ui);font-size:.7rem;letter-spacing:.08em;text-transform:uppercase}
+    #search-scope{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px;padding:4px;background:var(--bg3);border-radius:10px}
+    .search-scope-btn{min-width:0;min-height:44px;border:0;border-radius:7px;padding:7px 8px;background:transparent;color:var(--ink2);font-family:var(--font-ui);font-size:.72rem;line-height:1.2;letter-spacing:.02em;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px}
+    .search-scope-detail{max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--ink3);font-family:var(--font-body);font-size:.72rem;font-style:italic;letter-spacing:0;text-transform:none}
     .search-scope-btn.active{background:var(--bg2);color:var(--ink);box-shadow:0 1px 4px var(--shadow)}
+    .search-scope-btn.active .search-scope-detail{color:var(--ink2)}
     #search-scope-book[hidden]{display:none}
+    #search-scope.no-book #search-scope-all{grid-column:1/-1}
     #search-warning{margin:10px 2px 0;color:var(--red);font-family:var(--font-ui);font-size:.76rem;line-height:1.45}
     #search-warning[hidden]{display:none}
     #search-results{flex:1;overflow-y:auto;padding:8px 0}
+    .search-summary{padding:7px 16px 11px;border-bottom:1px solid var(--border);color:var(--ink3);font-family:var(--font-ui);font-size:.72rem;line-height:1.4;letter-spacing:.02em}
     .result-item{padding:10px 16px;border-bottom:1px solid var(--border);cursor:pointer;transition:background .15s}
     .result-item:hover{background:var(--bg3)}
     .result-ref{font-family:var(--font-ui);font-size:.78rem;color:var(--gold);display:block;margin-bottom:3px}
@@ -322,9 +327,12 @@
     </button>
   </div>
   <div id="search-options">
+    <p class="search-scope-label">Pesquisar em</p>
     <div id="search-scope" role="group" aria-label="Âmbito da pesquisa">
-      <button class="search-scope-btn" id="search-scope-book" type="button">Neste livro</button>
+      <button class="search-scope-btn" id="search-scope-book" type="button"><span>Neste livro</span><span class="search-scope-detail" id="search-scope-book-name"></span></button>
       <button class="search-scope-btn" id="search-scope-all" type="button">Toda a Bíblia</button>
+      <button class="search-scope-btn" id="search-scope-at" type="button">Antigo Testamento</button>
+      <button class="search-scope-btn" id="search-scope-nt" type="button">Novo Testamento</button>
     </div>
     <p id="search-warning" role="status">A pesquisa em toda a Bíblia poderá demorar alguns instantes.</p>
   </div>
@@ -365,7 +373,7 @@
 
 <script>
 'use strict';
-const APP_VERSION='6.1';
+const APP_VERSION='6.2';
 const APP_COMMIT_DATE='outubro 2026';
 const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{},book:'',random:false},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all',noteItems:new Map(),noteCounter:0,lastNoteFocus:null,activeNote:null,activeReference:null,noteScrollTop:0,noteReferenceRequest:0};
 const BIBLE_REFERENCE_BOOKS=[
@@ -1114,30 +1122,44 @@ async function doSearch(query){
   const scope=state.searchScope;
   const currentBook=state.currentBook;
   results.innerHTML='<div class="panel-empty">A pesquisar…</div>';
-  if(scope==='all')await ensureAllBooksLoaded();
-  else if(currentBook)await loadBook(currentBook);
+  const books=searchBooks(scope,currentBook);
+  for(const book of books){
+    if(request!==searchRequest)return;
+    if(!bookIsLoaded(book))await loadBook(book);
+  }
   if(request!==searchRequest)return;
   const q=query.toLowerCase();const matches=[];
-  const books=scope==='book'&&currentBook?[currentBook]:state.books;
   books.forEach(book=>(book.chapters||[]).forEach(ch=>(ch.verses||[]).forEach(verse=>{if(verse.text.toLowerCase().includes(q))matches.push({book,ch,verse})})));
-  if(!matches.length){results.innerHTML=`<div class="panel-empty">Sem resultados para "${esc(query)}".</div>`;return}
-  results.innerHTML=matches.slice(0,100).map(({book,ch,verse})=>{
+  if(!matches.length){results.innerHTML=`<div class="panel-empty">Nenhum versículo encontrado para "${esc(query)}".</div>`;return}
+  const total=matches.length;
+  const summary=total===1?'1 versículo encontrado':`${total} versículos encontrados`;
+  const displayed=total>100?`${summary} — a mostrar os primeiros 100` : summary;
+  results.innerHTML=`<div class="search-summary" role="status">${displayed}</div>`+matches.slice(0,100).map(({book,ch,verse})=>{
     const snip=esc(verse.text.substring(0,120)).replace(new RegExp(escR(esc(query)),'gi'),m=>`<mark>${m}</mark>`);
     return`<div class="result-item" onclick="goTo('${ea(book.book)}',${ch.chapter},${verse.verse});closeSearch()">
       <span class="result-ref">${book.book} ${ch.chapter},${verse.verse}</span>
       <span class="result-snippet">${snip}…</span></div>`;
-  }).join('')+(matches.length>100?`<div class="panel-empty">${matches.length} resultados — refina a pesquisa.</div>`:'');
+  }).join('');
+}
+function searchBooks(scope,currentBook){
+  if(scope==='book'&&currentBook)return[currentBook];
+  const testament=CANON.find(item=>item.id===scope);
+  if(testament)return testament.groups.flatMap(group=>group.books.map(findBookByName)).filter(bookHasContent);
+  return state.books.filter(bookHasContent);
 }
 function setSearchScope(scope,runSearch=true){
-  state.searchScope=scope==='book'&&state.currentBook?'book':'all';
+  const allowed=new Set(['all','AT','NT']);
+  state.searchScope=scope==='book'&&state.currentBook?'book':allowed.has(scope)?scope:'all';
   const bookBtn=$('search-scope-book');
-  const allBtn=$('search-scope-all');
+  const scopeBox=$('search-scope');
   bookBtn.hidden=!state.currentBook;
-  bookBtn.textContent=state.currentBook?`Neste livro (${state.currentBook.book})`:'Neste livro';
-  bookBtn.classList.toggle('active',state.searchScope==='book');
-  allBtn.classList.toggle('active',state.searchScope==='all');
-  bookBtn.setAttribute('aria-pressed',String(state.searchScope==='book'));
-  allBtn.setAttribute('aria-pressed',String(state.searchScope==='all'));
+  scopeBox.classList.toggle('no-book',!state.currentBook);
+  $('search-scope-book-name').textContent=state.currentBook?.book||'';
+  [['book',bookBtn],['all',$('search-scope-all')],['AT',$('search-scope-at')],['NT',$('search-scope-nt')]].forEach(([value,button])=>{
+    const active=state.searchScope===value;
+    button.classList.toggle('active',active);
+    button.setAttribute('aria-pressed',String(active));
+  });
   $('search-warning').hidden=state.searchScope!=='all';
   if(runSearch)doSearch($('search-input').value.trim());
 }
@@ -1175,6 +1197,8 @@ $('overlay').addEventListener('click',()=>{$('sidebar').classList.remove('open')
 $('search-btn').addEventListener('click',openSearch);
 $('search-scope-book').addEventListener('click',()=>setSearchScope('book'));
 $('search-scope-all').addEventListener('click',()=>setSearchScope('all'));
+$('search-scope-at').addEventListener('click',()=>setSearchScope('AT'));
+$('search-scope-nt').addEventListener('click',()=>setSearchScope('NT'));
 $('search-close').addEventListener('click',closeSearch);
 function closeSearch(){clearTimeout(sTimeout);searchRequest++;$('search-panel').classList.remove('open');$('overlay').classList.remove('open')}
 $('copy-selection-btn').addEventListener('click',copySelectedVerses);
