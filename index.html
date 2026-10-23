@@ -212,7 +212,9 @@
     #search-warning{margin:10px 2px 0;color:var(--red);font-family:var(--font-ui);font-size:.76rem;line-height:1.45}
     #search-warning[hidden]{display:none}
     #search-results{flex:1;overflow-y:auto;padding:8px 0}
-    .search-summary{padding:7px 16px 11px;border-bottom:1px solid var(--border);color:var(--ink3);font-family:var(--font-ui);font-size:.72rem;line-height:1.4;letter-spacing:.02em}
+    .search-summary{padding:8px 16px 10px;border-bottom:1px solid var(--border);color:var(--ink3);font-family:var(--font-ui);font-size:.72rem;line-height:1.4;letter-spacing:.02em;display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+    .search-export-btn{min-height:36px;border:1px solid var(--border);border-radius:6px;background:var(--bg3);color:var(--ink2);padding:6px 11px;font-family:var(--font-ui);font-size:.7rem;letter-spacing:.04em;cursor:pointer;white-space:nowrap}
+    .search-export-btn:hover{background:var(--gold-lt);border-color:var(--gold);color:var(--ink)}
     .result-item{padding:10px 16px;border-bottom:1px solid var(--border);cursor:pointer;transition:background .15s}
     .result-item:hover{background:var(--bg3)}
     .result-ref{font-family:var(--font-ui);font-size:.78rem;color:var(--gold);display:block;margin-bottom:3px}
@@ -376,9 +378,9 @@
 
 <script>
 'use strict';
-const APP_VERSION='6.3';
+const APP_VERSION='6.4';
 const APP_COMMIT_DATE='outubro 2026';
-const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{},book:'',random:false},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all',searchWhole:true,noteItems:new Map(),noteCounter:0,lastNoteFocus:null,activeNote:null,activeReference:null,noteScrollTop:0,noteReferenceRequest:0};
+const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{},book:'',random:false},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all',searchWhole:true,searchExport:null,noteItems:new Map(),noteCounter:0,lastNoteFocus:null,activeNote:null,activeReference:null,noteScrollTop:0,noteReferenceRequest:0};
 const BIBLE_REFERENCE_BOOKS=[
   {id:'gn',name:'Génesis',aliases:['Gn','Gen','Génesis']},{id:'ex',name:'Êxodo',aliases:['Ex','Êxodo']},{id:'lv',name:'Levítico',aliases:['Lv','Lev','Levítico']},{id:'nm',name:'Números',aliases:['Nm','Núm','Números']},{id:'dt',name:'Deuteronómio',aliases:['Dt','Deut','Deuteronómio']},
   {id:'js',name:'Josué',aliases:['Js','Jos','Josué']},{id:'jz',name:'Juízes',aliases:['Jz','Jz','Juízes']},{id:'rt',name:'Rute',aliases:['Rt','Rute']},{id:'1sm',name:'1 Samuel',aliases:['1Sm','1 Sm','1Sam','1 Samuel']},{id:'2sm',name:'2 Samuel',aliases:['2Sm','2 Sm','2Sam','2 Samuel']},
@@ -1120,6 +1122,7 @@ let searchRequest=0;
 $('search-input').addEventListener('input',e=>{clearTimeout(sTimeout);sTimeout=setTimeout(()=>doSearch(e.target.value.trim()),250)});
 async function doSearch(query){
   const results=$('search-results');
+  state.searchExport=null;
   if(!query||query.length<2){results.innerHTML='<div class="panel-empty">Introduz um termo para pesquisar.</div>';return}
   const request=++searchRequest;
   const scope=state.searchScope;
@@ -1137,12 +1140,14 @@ async function doSearch(query){
   const total=matches.length;
   const summary=total===1?'1 versículo encontrado':`${total} versículos encontrados`;
   const displayed=total>100?`${summary} — a mostrar os primeiros 100` : summary;
-  results.innerHTML=`<div class="search-summary" role="status">${displayed}</div>`+matches.slice(0,100).map(({book,ch,verse})=>{
+  state.searchExport={query,scope,whole,scopeLabel:searchScopeLabel(scope,currentBook),matches};
+  results.innerHTML=`<div class="search-summary"><span role="status">${displayed}</span><button class="search-export-btn" type="button">Exportar TXT</button></div>`+matches.slice(0,100).map(({book,ch,verse})=>{
     const snip=highlightSearch(verse.text.substring(0,120),query,whole);
     return`<div class="result-item" onclick="goTo('${ea(book.book)}',${ch.chapter},${verse.verse});closeSearch()">
       <span class="result-ref">${book.book} ${ch.chapter},${verse.verse}</span>
       <span class="result-snippet">${snip}…</span></div>`;
   }).join('');
+  results.querySelector('.search-export-btn').addEventListener('click',exportSearchResults);
 }
 function isSearchWordChar(char){return!!char&&/[\p{L}\p{N}]/u.test(char)}
 function searchMatchRanges(text,query,whole){
@@ -1166,6 +1171,46 @@ function highlightSearch(text,query,whole){
   let html='';let from=0;
   ranges.forEach(([start,end])=>{html+=esc(text.slice(from,start))+`<mark>${esc(text.slice(start,end))}</mark>`;from=end});
   return html+esc(text.slice(from));
+}
+function searchScopeLabel(scope,currentBook){
+  if(scope==='book'&&currentBook)return`Livro atual: ${currentBook.book}`;
+  if(scope==='AT')return'Antigo Testamento';
+  if(scope==='NT')return'Novo Testamento';
+  return'Toda a Bíblia';
+}
+function searchExportFilename(query){
+  const slug=String(query).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,60)||'resultados';
+  return`biblia-cep-pesquisa-${slug}.txt`;
+}
+function buildSearchExport(payload){
+  if(!payload)return'';
+  const total=payload.matches.length;
+  const lines=['Bíblia CEP','Resultados da pesquisa','',`Pesquisa: "${payload.query}"`,`Âmbito: ${payload.scopeLabel}`,`Correspondência: ${payload.whole?'Palavra ou expressão completa':'Pesquisa parcial'}`,`Resultados: ${total} ${total===1?'versículo':'versículos'}`,''];
+  payload.matches.forEach(({book,ch,verse})=>{
+    const text=String(verse.text||'').replace(/\s+/g,' ').trim();
+    lines.push(`${book.book} ${ch.chapter},${verse.verse} — ${text}`,'');
+  });
+  lines.push('Fonte: Bíblia Católica — Conferência Episcopal Portuguesa','https://hvarios.github.io/biblia-cep/');
+  return lines.join('\r\n');
+}
+function downloadSearchFile(content,filename){
+  const blob=new Blob([content],{type:'text/plain;charset=utf-8'});
+  const url=URL.createObjectURL(blob);const link=document.createElement('a');
+  link.href=url;link.download=filename;document.body.appendChild(link);link.click();link.remove();
+  setTimeout(()=>URL.revokeObjectURL(url),1000);toast('Ficheiro TXT guardado');
+}
+async function exportSearchResults(){
+  const payload=state.searchExport;if(!payload)return;
+  const filename=searchExportFilename(payload.query);
+  const content=buildSearchExport(payload);
+  try{
+    const file=typeof File==='function'?new File([content],filename,{type:'text/plain;charset=utf-8'}):null;
+    if(file&&navigator.share&&navigator.canShare?.({files:[file]})){
+      await navigator.share({title:`Bíblia CEP — pesquisa: ${payload.query}`,text:`${payload.matches.length} versículos encontrados`,files:[file]});
+      return;
+    }
+  }catch(err){if(err?.name==='AbortError')return}
+  downloadSearchFile(content,filename);
 }
 function searchBooks(scope,currentBook){
   if(scope==='book'&&currentBook)return[currentBook];
