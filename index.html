@@ -199,6 +199,8 @@
     #search-input:focus{outline:none;border-color:var(--gold)}
     #search-input::placeholder{color:var(--ink3);opacity:1}
     #search-options{padding:12px 16px;border-bottom:1px solid var(--border)}
+    .search-whole-option{min-height:34px;margin:0 2px 10px;display:flex;align-items:center;gap:9px;color:var(--ink2);font-family:var(--font-body);font-size:.86rem;line-height:1.3;cursor:pointer}
+    .search-whole-option input{width:18px;height:18px;margin:0;flex:0 0 auto;accent-color:var(--gold);cursor:pointer}
     .search-scope-label{margin:0 2px 7px;color:var(--ink3);font-family:var(--font-ui);font-size:.7rem;letter-spacing:.08em;text-transform:uppercase}
     #search-scope{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px;padding:4px;background:var(--bg3);border-radius:10px}
     .search-scope-btn{min-width:0;min-height:44px;border:0;border-radius:7px;padding:7px 8px;background:transparent;color:var(--ink2);font-family:var(--font-ui);font-size:.72rem;line-height:1.2;letter-spacing:.02em;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px}
@@ -327,6 +329,7 @@
     </button>
   </div>
   <div id="search-options">
+    <label class="search-whole-option"><input id="search-whole" type="checkbox" checked><span>Palavra ou expressão completa</span></label>
     <p class="search-scope-label">Pesquisar em</p>
     <div id="search-scope" role="group" aria-label="Âmbito da pesquisa">
       <button class="search-scope-btn" id="search-scope-book" type="button"><span>Neste livro</span><span class="search-scope-detail" id="search-scope-book-name"></span></button>
@@ -373,9 +376,9 @@
 
 <script>
 'use strict';
-const APP_VERSION='6.2';
+const APP_VERSION='6.3';
 const APP_COMMIT_DATE='outubro 2026';
-const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{},book:'',random:false},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all',noteItems:new Map(),noteCounter:0,lastNoteFocus:null,activeNote:null,activeReference:null,noteScrollTop:0,noteReferenceRequest:0};
+const state={books:[],currentBook:null,currentChapter:null,menuOpen:{testament:'',groups:{},book:'',random:false},selectedVerses:new Map(),fontScale:Number(localStorage.getItem('biblia-font-scale')||'1'),searchScope:'all',searchWhole:true,noteItems:new Map(),noteCounter:0,lastNoteFocus:null,activeNote:null,activeReference:null,noteScrollTop:0,noteReferenceRequest:0};
 const BIBLE_REFERENCE_BOOKS=[
   {id:'gn',name:'Génesis',aliases:['Gn','Gen','Génesis']},{id:'ex',name:'Êxodo',aliases:['Ex','Êxodo']},{id:'lv',name:'Levítico',aliases:['Lv','Lev','Levítico']},{id:'nm',name:'Números',aliases:['Nm','Núm','Números']},{id:'dt',name:'Deuteronómio',aliases:['Dt','Deut','Deuteronómio']},
   {id:'js',name:'Josué',aliases:['Js','Jos','Josué']},{id:'jz',name:'Juízes',aliases:['Jz','Jz','Juízes']},{id:'rt',name:'Rute',aliases:['Rt','Rute']},{id:'1sm',name:'1 Samuel',aliases:['1Sm','1 Sm','1Sam','1 Samuel']},{id:'2sm',name:'2 Samuel',aliases:['2Sm','2 Sm','2Sam','2 Samuel']},
@@ -1128,18 +1131,41 @@ async function doSearch(query){
     if(!bookIsLoaded(book))await loadBook(book);
   }
   if(request!==searchRequest)return;
-  const q=query.toLowerCase();const matches=[];
-  books.forEach(book=>(book.chapters||[]).forEach(ch=>(ch.verses||[]).forEach(verse=>{if(verse.text.toLowerCase().includes(q))matches.push({book,ch,verse})})));
+  const whole=state.searchWhole;const matches=[];
+  books.forEach(book=>(book.chapters||[]).forEach(ch=>(ch.verses||[]).forEach(verse=>{if(searchMatchRanges(verse.text,query,whole).length)matches.push({book,ch,verse})})));
   if(!matches.length){results.innerHTML=`<div class="panel-empty">Nenhum versículo encontrado para "${esc(query)}".</div>`;return}
   const total=matches.length;
   const summary=total===1?'1 versículo encontrado':`${total} versículos encontrados`;
   const displayed=total>100?`${summary} — a mostrar os primeiros 100` : summary;
   results.innerHTML=`<div class="search-summary" role="status">${displayed}</div>`+matches.slice(0,100).map(({book,ch,verse})=>{
-    const snip=esc(verse.text.substring(0,120)).replace(new RegExp(escR(esc(query)),'gi'),m=>`<mark>${m}</mark>`);
+    const snip=highlightSearch(verse.text.substring(0,120),query,whole);
     return`<div class="result-item" onclick="goTo('${ea(book.book)}',${ch.chapter},${verse.verse});closeSearch()">
       <span class="result-ref">${book.book} ${ch.chapter},${verse.verse}</span>
       <span class="result-snippet">${snip}…</span></div>`;
   }).join('');
+}
+function isSearchWordChar(char){return!!char&&/[\p{L}\p{N}]/u.test(char)}
+function searchMatchRanges(text,query,whole){
+  const source=String(text||'');
+  const needle=String(query||'');
+  if(!needle)return[];
+  const haystack=source.toLocaleLowerCase('pt-PT');
+  const wanted=needle.toLocaleLowerCase('pt-PT');
+  const ranges=[];let from=0;
+  while(from<=haystack.length-wanted.length){
+    const start=haystack.indexOf(wanted,from);if(start<0)break;
+    const end=start+wanted.length;
+    const complete=!isSearchWordChar(source[start-1])&&!isSearchWordChar(source[end]);
+    if(!whole||complete)ranges.push([start,end]);
+    from=start+Math.max(wanted.length,1);
+  }
+  return ranges;
+}
+function highlightSearch(text,query,whole){
+  const ranges=searchMatchRanges(text,query,whole);if(!ranges.length)return esc(text);
+  let html='';let from=0;
+  ranges.forEach(([start,end])=>{html+=esc(text.slice(from,start))+`<mark>${esc(text.slice(start,end))}</mark>`;from=end});
+  return html+esc(text.slice(from));
 }
 function searchBooks(scope,currentBook){
   if(scope==='book'&&currentBook)return[currentBook];
@@ -1167,6 +1193,7 @@ function openSearch(){
   clearTimeout(sTimeout);
   searchRequest++;
   setSearchScope(state.currentBook?'book':'all',false);
+  $('search-whole').checked=state.searchWhole;
   $('search-panel').classList.add('open');
   $('overlay').classList.add('open');
   $('search-input').focus();
@@ -1199,6 +1226,7 @@ $('search-scope-book').addEventListener('click',()=>setSearchScope('book'));
 $('search-scope-all').addEventListener('click',()=>setSearchScope('all'));
 $('search-scope-at').addEventListener('click',()=>setSearchScope('AT'));
 $('search-scope-nt').addEventListener('click',()=>setSearchScope('NT'));
+$('search-whole').addEventListener('change',event=>{state.searchWhole=event.target.checked;doSearch($('search-input').value.trim())});
 $('search-close').addEventListener('click',closeSearch);
 function closeSearch(){clearTimeout(sTimeout);searchRequest++;$('search-panel').classList.remove('open');$('overlay').classList.remove('open')}
 $('copy-selection-btn').addEventListener('click',copySelectedVerses);
